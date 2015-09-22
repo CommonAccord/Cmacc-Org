@@ -1,0 +1,11 @@
+Alt=[Z/ol/2]
+
+Sec=<font color="red">{Alt0.Sec}:{AltOlist}</font>
+
+Alt0.Sec=Select one - {SecName}.Sec=&#123;{SecName}.AltX.Sec&#125;where X is 1-2
+
+sec=<font color="red">{Alt0.sec}:{Altolist}</font>
+
+Alt0.sec=Select one - {SecName}.sec=&#123;{SecName}.AltX.sec&#125;where X is 1-2
+
+Model.Root={Sec}

@@ -1,0 +1,53 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/MA/Suffolk/Boston/State_Street/75/Geo]
+
+Register.Agent.=[U/id/the_corporation_company]
+
+Atty.=[U/id/andrews_and_applegate_pllc]
+
+Name.Full=Acme Inc.
+
+www.web.com=www.acme.com
+
+Email=info@acme.com
+
+entity=Delaware corporation
+
+Register.State=Delaware
+
+Register.Law.Corp.Title=Delaware General Corporation Law
+
+Phone=617.716.4536
+
+Fax=617.345.1234
+
+Addr.Type=principal business
+
+Notice.Name.Ms={President.Name.Full}, {President.Title}
+
+SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
+
+Sign.=[U/id/andrea_ang]
+
+Sign.Title=President
+
+President.=[U/id/andrea_ang]
+
+President.Title=President
+
+Notice.Name,Title={President.Name.Full}, {President.Title}
+
+FinanceWing.Name=Acme Finance Ltd.
+
+FinanceWing.Handle=Acme Finance
+
+EmploymentDataPolicyURL=www.acme.com/policy/employmentdata.html
+
+EmploymentDataProtectionStandards=The Data Protection Standards and Policies of Acme Incorporated
+
+CWD.Full=Contingent Worker's Database
+
+email.CWD.com=cwdbase@acme.com
+
+CWD.Addr.1,2={Addr.1,2}

@@ -1,0 +1,7 @@
+=[U/class/ID_Entity]
+
+entity=agency
+
+entity.a=a {entity}
+
+Addr.Type=official

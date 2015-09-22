@@ -1,0 +1,24 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/MA/Middlesex/Cambridge/Broadway/1/Geo]
+
+Name.Full=Hyperion Law LLC
+
+Addr.1={Addr.1,Suite}
+
+Addr.Suite=14th Floor
+
+Phone=339-244-0501
+
+www=www.hyperionlawboston.com
+
+Twitter.Followers=621
+
+email=cynthia@hyperionlawboston.com
+
+Principal.=[U/class/ID_She]
+
+Principal.Name.First=Cynthia
+
+Principal.Name.Last=Gilbert	
+				

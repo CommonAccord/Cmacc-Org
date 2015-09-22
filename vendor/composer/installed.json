@@ -1,0 +1,25 @@
+[
+    {
+        "name": "CommonAccord/ccmac",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/zmon/ccmac.git",
+            "reference": "6d54920dbb67f75c9bed957abdc9969325cc3c2b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/zmon/ccmac/zipball/6d54920dbb67f75c9bed957abdc9969325cc3c2b",
+            "reference": "6d54920dbb67f75c9bed957abdc9969325cc3c2b",
+            "shasum": ""
+        },
+        "time": "2015-06-26 21:16:47",
+        "type": "library",
+        "installation-source": "source",
+        "support": {
+            "source": "https://github.com/zmon/ccmac/tree/master",
+            "issues": "https://github.com/zmon/ccmac/issues"
+        }
+    }
+]

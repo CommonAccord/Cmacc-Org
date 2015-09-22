@@ -1,0 +1,40 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/CA/San_Mateo/Menlo_Park/Geo]
+
+<b>Quake Info</b>
+
+Name.Full=Quake Inc.
+
+Addr.Type=principal
+
+Addr.1=233 Curtis Street
+
+Addr.Zip=94025
+
+Phone=650.555.5500
+
+Fax=650.555.5511
+
+entity=Delaware corporation
+
+Addr.Type=business
+
+BusinessDomain=information services consulting
+
+
+President.Title=President and Chairman 
+
+President.=[U/id/colleen_kendall]
+
+Atty.=[U/id/quade_and_quinn]
+
+Notice.Name,Title={President.Name.Full}, {President.Title}
+
+SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
+
+Sign.Name.Full={President.ID.Name.Full}
+
+Sign.Title={President.Title}
+
+Email=Kendall@quake.com

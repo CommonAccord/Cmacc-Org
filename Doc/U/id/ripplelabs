@@ -1,0 +1,18 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/CA/San_Francisco/San_Francisco/Geo]			
+
+Name.Full=Ripple Labs
+
+Addr.Street.#=118
+
+Addr.Street=Second Street
+
+Addr.Zip=94105
+
+Addr.Type=official
+
+entity=corporation
+
+Twitter.Followers=2,962
+			

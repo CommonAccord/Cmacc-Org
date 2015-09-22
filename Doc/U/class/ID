@@ -1,0 +1,60 @@
+For French=-
+
+Nom-Plein={Name.Full}
+
+Adr-1,2,3={Addr.1,2}, {Addr.Nation}
+
+Sign.Bloc=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"><tr><td><strong>{Name.Full}</strong></td></tr><tr><td>({Sign.Handle})</td></tr><tr><td>{SignBy.FR}</td></tr><tr><td>{SignDated.FR}</td></tr><tr><td>{Addr.1/2}</td></tr.></table>
+
+N,E,A={Name.Full}, {entity.a} whose {Addr.Type} address is {Addr.1,2}
+
+ListType={N/A/L/G/T}
+
+N/A/L/G/T={Name.Full}, {entity.a}<br> Whose {Addr.Type} address is {Addr.1,2}<br> LinkedIn: <a href="http://linkedin.com/in/{LinkedIn.Handle}">{LinkedIn.Handle}</a><br>GitHub: <a href="http://github.com/{GitHub.Handle}">{GitHub.Handle}</a><br>Twitter: <a href="http://twitter.com/{Twitter.Handle}">{Twitter.Handle}</a><br>Say Something: {SomethingToSay}
+
+N/1/2={Name.Full}<br>{Addr.1/2}
+
+N,A={Name.Full}, {Addr.1,2}
+
+N/A={Name.Full}<br>{Addr.1/2}
+
+D/N/1/2={Contact.Dear}<br>{N/1/2}
+
+Addr.1,2={Addr.1}, {Addr.2}
+
+Addr.N/1/2={Name.Full}<br/>{Addr.1/2}
+
+N/A/T/E/F={Name.Full}<br>{Addr.1/2}<br>{Phone}<br>{Email}<br>{Fax}
+
+N/A/T/E={Name.Full}<br>{Addr.1/2}<br>{Phone}<br>{Email}
+
+Addr.1/2={Addr.1}<br/>{Addr.2}
+
+Addr.2={Addr.City}, {Addr.ST}  {Addr.Zip}
+
+Letterhead=<center><b>{Name.Full}</b></center><br><table width="100%"><tr><td width="30%">{Best.Name.Full}<br>{Best.Title}</td><td width="40%"></td><td width=30%>{Addr.1/2}<br>{Phone}<br>{Domain.Com}</td></tr></table>
+
+Notice.Block=Notices to {Handle}:<br>{Addr.N/1/2}<br>Attention: {Notice.Name,Title}
+Contact.Block=Contact {Handle}:<br>{Addr.N/1/2}<br>Attention: {Notice.Name,Title}
+
+Notice.Name,Title={Notice.Name.Full}, {Notice.Title}
+
+Sign.Block=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"><tr><td><strong>{Name.Full}</strong></td></tr><tr><td>({Sign.Handle})</td></tr><tr><td>{SignBy}</td></tr><tr><td>{SignDated}</td></tr><tr><td>{Addr.1/2}</td></tr.></table>
+
+Sign.Handle="{Handle}"
+
+SignDated=Date: {Sign.YMD}
+
+SignDated.FR=Date : {Sign.YMD}
+
+Model.Root={Addr.Table}
+
+Addr.Table=<table  rules='rows'; border=1><tr><th>ID:</th><td></td><td></td></tr><tr><th>N,E,A:</th><td></td><td>{N,E,A}</td></tr><tr><th>Twitter.Followers:</th><td></td><td>{Twitter.Followers}</td></tr><tr><th>N/1/2:</th><td></td><td>{N/1/2}</td></tr><tr><th>Notice.Block:</th><td></td><td>{Notice.Block}</td><tr><tr><th>Sign.Block:</th><td></td><td>{Sign.Block}</td><tr></table>
+
+Pronoun.List={male/female}, {He/She}, {he/she}, {Him/Her}, {him/her}, {His/Her}, {his/her}, {His/Hers}, {his/hers}, {Himself/Herself}, {himself/herself}
+
+m-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/{PageName}"><font color="{mcolor}">
+
+-m=</font></a>
+
+mcolor=magenta

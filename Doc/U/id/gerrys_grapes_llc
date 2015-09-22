@@ -1,0 +1,19 @@
+=[U/class/ID_Entity]
+
+Sign.=[U/id/geraldine_graber]
+
+Sign.Title=Founder
+
+=[U/at/USA/MA/Middlesex/Cambridge/Broadway/1/Geo]
+
+Name.Full=Gerry's Grapes, LLC
+
+Entity.a=a Massachusetts LLC
+
+Addr.Type=business
+
+Contact.Name.Ms=Ms. Graber
+
+Claim.Response.Delay=two business days from the date of the Claim
+
+PageName=U/id/gerrys_grapes_llc

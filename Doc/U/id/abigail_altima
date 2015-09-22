@@ -1,0 +1,17 @@
+=[U/class/ID_She]
+
+=[U/at/USA/MA/Suffolk/Boston/State_Street/75/Geo]
+
+Name.First=Abigail
+
+Name.Last=Altima
+
+Phone={Phone.Fixed}
+
+Phone.Fixed=617.555.5550
+
+Phone.Mobile=617.444.2223
+
+Email=abigail@altimaomelettes.com
+
+Addr.Type=business

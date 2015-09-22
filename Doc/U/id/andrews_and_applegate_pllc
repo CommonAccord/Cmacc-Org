@@ -1,0 +1,21 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/MA/Suffolk/Boston/State_Street/Geo]
+
+Name.Full=Andrews & Applegate PLLC
+
+Email=info@andrewandapplegate.com
+
+Addr.Street.#=75
+
+Addr.Zip=02109
+
+Phone=617.777.6767
+
+Fax=617.777.1234
+
+Addr.Type=principal business
+
+Andrews.=[U/id/alison_andrews]
+
+Applegate.=[U/id/alicia_applegate]					  

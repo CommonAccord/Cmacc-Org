@@ -1,0 +1,35 @@
+90.sec=per <a href="http://financialcryptography.com/mt/archives/001556.html">http://financialcryptography.com/mt/archives/001556.html</a>
+
+Ti=List of @iang_fc fields
+
+1.Ti=Type
+
+1.sec={Type}
+
+2.Ti=Name
+
+2.sec={Name}
+
+3.Ti=GUID-ZT
+
+3.sec={GUID-ZT}
+
+4.Ti=Controller
+
+4.sec={Controller}
+
+5.Ti=SigningKey
+
+5.sec={SigningKey}
+
+6.Ti=Location
+
+6.sec={Location.Addr.1,2,UK}
+
+entity.a={thingID}
+
+thingID=THING-{GUID-ZT}
+
+=[Z/Sec/6]
+
+=[U/class/ID]

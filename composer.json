@@ -1,0 +1,12 @@
+{
+    "name": "CommonAccord/CommonAccord",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/zmon/ccmac.git"
+        }
+    ],
+    "require": {
+        "CommonAccord/ccmac": "dev-master"
+    }
+}

@@ -1,0 +1,29 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/CA/San_Mateo/Menlo_Park/Geo]
+
+Name.Full=Agate Health Systems, Incorporated
+
+Entity.a=a Delaware corporation
+
+Addr.Type=business
+
+Addr.1=100 Gravel Dell
+   
+Addr.Zip=94025
+
+Phone=650.666.5555
+
+Domain.Com=agateapp.com
+
+Privacy.Email=privacy@{Domain.Com}
+
+State={Addr.State}
+
+Handle=Agate
+
+App=HealthApp
+
+Network=HealNet
+
+System=HealOS

@@ -1,0 +1,41 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "345ac0d23ddc5203ada40a8f4fd32013",
+    "packages": [
+        {
+            "name": "CommonAccord/ccmac",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zmon/ccmac.git",
+                "reference": "6d54920dbb67f75c9bed957abdc9969325cc3c2b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zmon/ccmac/zipball/6d54920dbb67f75c9bed957abdc9969325cc3c2b",
+                "reference": "6d54920dbb67f75c9bed957abdc9969325cc3c2b",
+                "shasum": ""
+            },
+            "type": "library",
+            "support": {
+                "source": "https://github.com/zmon/ccmac/tree/master",
+                "issues": "https://github.com/zmon/ccmac/issues"
+            },
+            "time": "2015-06-26 21:16:47"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "commonaccord/ccmac": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

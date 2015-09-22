@@ -1,0 +1,14 @@
+=[U/class/Geo_FR]
+
+US.=[U/class/Geo_USA]
+
+Adr.FR=FR
+
+Addr.UK=CH
+
+Adr.Nation=Suisse
+
+Addr.Nation=Switzerland
+
+Model.Root={Geo.?}<br><br>{US.Geo.?}<br><br>
+			

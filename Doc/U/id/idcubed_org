@@ -1,0 +1,21 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/MA/Suffolk/Boston/Geo]			
+
+Name.Full=ID3
+
+Addr.1=210 South St., #5-1
+
+Addr.Zip=02111
+
+Addr.Type=mailing
+	
+com=idcubed.org
+
+takedown@we.com=takedown@{com}
+
+info@we.com=info@{com}
+
+Email=contact@{com}
+
+		

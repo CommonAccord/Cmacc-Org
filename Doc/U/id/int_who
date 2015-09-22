@@ -1,0 +1,33 @@
+=[U/class/ID_Entity]
+
+=[U/at/CE/Geneva/Geneva/Geo]
+
+Name.Full=World Health Organization
+
+Addr.1=Avenue Appia 20
+
+Addr.2={Addr.Zip} {Addr.City} {Addr.City.Zone}
+
+Addr.3={Addr.Nation}
+
+Addr.Zip=12111
+
+Addr.City.Zone=21
+
+Adr.1=Avenue Appia 20
+
+Adr.2={Addr.Zip} {Addr.City} {Addr.City.Zone} {Adr.Nation}
+
+Adr.Zip=1211
+
+Adr.City.Zone=21
+
+Addr.Nation=Switzerland
+
+Addr.1=9000 Rockville Pike
+
+Addr.Type=official
+
+Twitter.Followers=469K
+		
+	              

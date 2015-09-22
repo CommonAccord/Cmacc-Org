@@ -1,0 +1,11 @@
+=[U/class/ID_Entity]
+
+=[U/at/usa/dc/washington/Geo]
+
+Name.Full=<font color="orange">U.S. Department of Health and Human Services Office for Civil Rights</font>
+Addr.1=200 Independence Avenue, S.W.
+Addr.2=Washington, D.C. 20201
+Phone=1-877-696-6775
+Addr.Type=official
+
+Domain.Com/Complaint=www.hhs.gov/ocr/privacy/hipaa/complaints/		            

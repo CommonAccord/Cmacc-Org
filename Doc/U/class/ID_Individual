@@ -1,0 +1,53 @@
+=[U/class/ID]
+
+entity=individual
+
+entity.a=an {entity}
+
+Name.Full={Name.FL}
+
+Name.FML={Name.First} {Name.Middle} {Name.Last}
+
+Name.FmL={Name.First} {Name.M}. {Name.Last}
+
+Name.FML,Dr={Name.First} {Name.Middle} {Name.Last}, {Name.Dr}
+
+Name.Full,Dr={Name.Full}, {Name.Dr}
+
+Name.FmL,Dr={Name.First} {Name.M}. {Name.Last}, {Name.Dr}
+
+Name.FL={Name.First} {Name.Last}
+
+Name.L,F={Name.Last}, {Name.First}
+
+Name,Title={Name.Full}, {Title}
+
+I am/We are=I am
+
+I am/we are=I am
+
+am I/are we=am I
+
+I/we=I
+
+I/We=I
+
+I/C=I
+
+my/C=my
+
+me/C=me
+
+me/we=me
+
+me/us=me
+
+my/our=my
+
+/s=<b></b>
+
+/es=<b></b>
+
+Model.Root={Addr.Table}<br>{Pronoun.List}
+
+SignBy=By: <u>{xSignature}</u>

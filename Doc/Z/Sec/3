@@ -1,0 +1,11 @@
+=[Z/ol/Base]
+
+Secs={1.Sec}<li>{2.Sec}<li>{3.Sec}
+
+secs={1.sec}<li>{2.sec}<li>{3.sec}
+
+secs;and={1.sec};<li>{2.sec}; and<li>{3.sec}.
+
+secs;or={1.sec};<li>{2.sec}; or<li>{3.sec}.
+
+sens={1.sec} {2.sec} {3.sec}

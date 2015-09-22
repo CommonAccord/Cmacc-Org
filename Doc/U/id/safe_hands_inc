@@ -1,0 +1,19 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/CA/San_Francisco/San_Francisco/Geo]
+
+Sign.=[U/id/samuel_hardy]
+
+Sign.Title=COO
+
+Name.Full=Safe Hands Facilitated Transactions, Inc.
+
+Addr.Type=principal
+
+Entity.a=a Delaware corporation
+
+Addr.1=1550 Bay Street
+
+Addr.Zip=94123
+
+PageName=U/id/safe_hands_inc

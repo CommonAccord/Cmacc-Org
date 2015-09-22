@@ -1,0 +1,148 @@
+Model.Root={DocBody}
+
+DocBody={Sec}
+
+Doc={Head.Sec}<br>{sec}{Foot.Sec} 
+
+Head.Sec=<font color="grey">{MessageToUser}</font><center><h4>{Head.sec}</h4></center>
+
+Head.sec={Doc.Title}
+
+Sec=<b>{Ti}</b><br>{sec}
+
+sec={0.Sec} {xlist} {90.Sec}
+
+0.Sec={0.sec}
+
+0.sec=</i>
+
+90.Sec={90.sec}
+
+90.sec=</i>
+
+xlist={Olist}
+
+Olist=<ol><li>{Secs}</li></ol>
+
+olist=<ol><li>{secs}</li></ol>
+
+ol=ol
+
+ol-a=ol type="a"
+
+ol-A=ol type="A"
+
+ol-I=ol type="I"
+
+ol-i=ol type="i"
+
+
+Alist=<ol type="a"><li>{Secs}</li></ol>
+
+alist=<ol type="a"><li>{secs}</li></ol>
+
+Ilist=<ol type="i"><li>{Secs}</li></ol>
+
+ilist=<ol type="i"><li>{secs}</li></ol>
+
+Ulist=<ul><li>{Secs}</li></ul>
+
+ulist=<ul><li>{secs}</li></ul>
+
+Nlist=<ul type="none"><li>{Secs}</li></ul>
+
+nlist=<ul type="none"><li>{secs}</li></ul>
+
+/blist = for "break list" e.g. < br>
+ 
+Blist=<ul type="none" style="padding-left: 0"><li>{Secs}</ul>
+
+blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
+
+Note=This avoids the need for cluttering a list with a separate Z/ol/0 for each section that has only a simple sec text. 
+
+1.=[Z/ol/SubSec]
+
+2.=[Z/ol/SubSec]
+
+3.=[Z/ol/SubSec]
+
+4.=[Z/ol/SubSec]
+
+5.=[Z/ol/SubSec]
+
+6.=[Z/ol/SubSec]
+
+7.=[Z/ol/SubSec]
+
+8.=[Z/ol/SubSec]
+
+9.=[Z/ol/SubSec]
+
+10.=[Z/ol/SubSec]
+
+11.=[Z/ol/SubSec]
+
+12.=[Z/ol/SubSec]
+
+13.=[Z/ol/SubSec]
+
+14.=[Z/ol/SubSec]
+
+15.=[Z/ol/SubSec]
+
+16.=[Z/ol/SubSec]
+
+17.=[Z/ol/SubSec]
+
+18.=[Z/ol/SubSec]
+
+19.=[Z/ol/SubSec]
+
+20.=[Z/ol/SubSec]
+
+21.=[Z/ol/SubSec]
+
+22.=[Z/ol/SubSec]
+
+23.=[Z/ol/SubSec]
+
+24.=[Z/ol/SubSec]
+
+25.=[Z/ol/SubSec]
+
+26.=[Z/ol/SubSec]
+
+27.=[Z/ol/SubSec]
+
+28.=[Z/ol/SubSec]
+
+29.=[Z/ol/SubSec]
+
+30.=[Z/ol/SubSec]
+
+31.=[Z/ol/SubSec]
+
+32.=[Z/ol/SubSec]
+
+33.=[Z/ol/SubSec]
+
+34.=[Z/ol/SubSec]
+
+35.=[Z/ol/SubSec]
+
+36.=[Z/ol/SubSec]
+
+37.=[Z/ol/SubSec]
+
+38.=[Z/ol/SubSec]
+
+39.=[Z/ol/SubSec]
+
+40.=[Z/ol/SubSec]
+
+null=</i>
+
+Foot.Sec={null}
+
+Xref=Section {Xnum}

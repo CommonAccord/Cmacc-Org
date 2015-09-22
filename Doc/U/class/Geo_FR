@@ -1,0 +1,19 @@
+Adr.1={Adr.#_Rue}
+
+Adr.#_Rue={Adr.#} {Adr.Rue}
+
+Adr.#_Rue,Suite={Adr.#_Street}, {Addr.Suite}
+
+Adr.2={Adr.Zip} {Adr.Ville}
+
+Adr.1,2={Adr.1}, {Adr.2}
+
+Adr.1/2={Adr.1}<br>{Adr.2}
+
+Adr.1/2/UK={Adr.1}<br>{Adr.2}<br>{Adr.Nation}
+
+Adr.UK={Adr.Nation}
+
+Model.Root={Geo.?}
+
+Geo.?={Adr.1/2/UK}			

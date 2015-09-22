@@ -1,0 +1,16 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/CA/San_Francisco/San_Francisco/Geo]			
+
+Name.Full=Twitter, Inc.
+
+Addr.1=1355 Market Street, Suite 900
+
+Addr.Zip=94103
+
+Addr.Type=corporate
+
+entity=Delaware corporation
+
+Twitter.Followers=31.9M
+			

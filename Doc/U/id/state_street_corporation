@@ -1,0 +1,20 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/MA/Suffolk/Boston/Geo]			
+
+Name.Full=State Street Corporation
+
+Addr.1/2={Addr.1.1}<br>{Addr.1.2}<br>{Addr.2}
+
+Addr.1,2={Addr.1.1}, {Addr.1.2}, {Addr.2}
+
+Addr.1.1=State Street Financial Center
+
+Addr.1.2=One Lincoln Street
+
+Addr.Zip=02111
+
+Phone=617-786-3000
+
+Addr.Type=business
+		

@@ -1,0 +1,58 @@
+=[U/class/ID]
+
+
+entity=legal person
+
+entity.a=a {entity}
+
+For French:
+
+Forme=un {entity}
+
+Addr.Type=business
+
+Model.Root={Addr.Table}<br>{Pronoun.List}
+
+SignBy=By: <u>{xSignature}</u><br/>Name: {Sign.Name.Full}<br/>Its: {Sign.Title}
+
+SignBy.FR=Par : <u>{xSignature}</u><br/>Nom : {Sign.Name.Full}<br/>Titre : {Sign.Title}
+ 
+Male/Female=Legal
+
+male/female=legal
+
+He/She=It
+
+he/she=it
+
+Him/Her=It
+
+him/her=it
+
+His/Her=Its
+
+his/her=its
+
+His/Hers=its
+
+his/hers=its
+
+Himself/Herself=Itself
+
+himself/herself=itself
+					
+I/we=we
+
+I/We=We
+
+I/C=We
+
+my/c=our
+
+me/c=us
+
+me/we=we
+
+me/us=us
+
+my/our=our

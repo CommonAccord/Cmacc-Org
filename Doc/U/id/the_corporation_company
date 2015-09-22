@@ -1,0 +1,19 @@
+=[U/class/ID_Entity]
+
+=[U/at/USA/DE/New_Castle/Wilmington/Geo]
+
+Name.Full=The Corporation Company
+
+Addr.1=111 Front Street
+
+Addr.Zip=19850
+
+Addr.Type=official
+
+SignBy=By: <u>{xSignature}</u><br/>Name: {Secretary.Name.Full}<br/>Its: {Secretary.Title}
+
+Sign.Name.Full={Secretary.Name.Full}
+
+Sign.Title={Secretary.Title}
+
+entity=Delaware corporation
