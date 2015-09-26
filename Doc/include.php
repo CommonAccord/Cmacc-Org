@@ -4,7 +4,7 @@ The top level expressed here is merely single letters:<ol><li>
 
 "U" is intended to mean something like "you" and has info about persons and places.<li>
 
-"W" is intended to denote a www. website.  The idea is that a person who has a domain could make files using that name.<li>
+  "W" is intended to denote a www. website.  The idea is that a person who has a domain could make files using that name and reasonably expect that others would not step on their name.  Because domain names are all lowercase, these names are expressed in lower case.  That, too, is just a convention.  (Because of variations in file systems, we can't ever have two files where the only difference is upper/lower case.  OSX and maybe other systems don't distinguish.)<li>
 
 "Z" is at the end of the alphabet and a place to put little bits of infrastructure text.  Frames for lists of paragraphs, etc.  The Z/Agt/... is probably misplaced - since it is not really general purpose, but is instead only for English language (American-ish) agreements.  Not sure where to put it yet.<li>
 
