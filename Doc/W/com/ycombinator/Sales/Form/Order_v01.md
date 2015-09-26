@@ -62,11 +62,11 @@ DocBody={Doc}
 
 Attach.Block=<hr><hr>{TC.Doc}
 
-TC.=[Startup/YC/Sales/YC_Sales_TC.01.md]
+TC.=[W/com/ycombinator/Sales/YC_Sales_TC.01.md]
 
 MessageToUser=From {PageName}
 
-PageName=Startup/YC/Sales/YC_Sales_Form.01.md
+PageName=W/com/ycombinator/Sales/YC_Sales_Form.01.md
 
 P1.Handle=Company
 

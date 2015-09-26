@@ -80,7 +80,7 @@ Valuation_Cap=<font color="green">Valuation Cap</font>
 
 =[Z/Agt/DT_Base.md]
 
-dPageName=Startup/YC/SAFE/Sec/YC-Safe_Note_DT.01.md
+dPageName=W/com/ycombinator/SAFE/Sec/YC-Safe_Note_DT.01.md
 
 q=,
 

@@ -1,4 +1,4 @@
-Board.=[Startup/YC/SeriesAA/Form_YC_AA_BoardConsent]
+Board.=[W/com/ycombinator/SeriesAA/Form/BoardConsent_v01.md]
 
 R1={Board.R1}
 
@@ -28,9 +28,9 @@ Board.1.1.4.sec=make certain other changes, as set forth in the Amended and Rest
 
 1.=[Z/ol/s3]
 
-2.T=Omnibus Resolutions
+2.Ti=Omnibus Resolutions
 
-2.1.sec={R1} That the proper officers of the Company be, and each individually is, hereby authorized and directed to do and perform any and all such acts, including the execution, delivery and filing of any and all instruments, documents and certificates, as such officers deem necessary or advisable, to carry out and perform the purposes and intent of the foregoing resolutions.
+2.1.sec={R2} That the proper officers of the Company be, and each individually is, hereby authorized and directed to do and perform any and all such acts, including the execution, delivery and filing of any and all instruments, documents and certificates, as such officers deem necessary or advisable, to carry out and perform the purposes and intent of the foregoing resolutions.
 
 2.2.sec={R2} That any actions taken by such officers prior to the date of the foregoing resolutions adopted hereby that are within the authority conferred thereby are hereby ratified, confirmed and approved as the acts and deeds of the Company.
 
