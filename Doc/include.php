@@ -1,4 +1,4 @@
-Much of "the law" is a set of naming conventions for common but subtle ideas.  This site attempts to establish a pattern of names.  As with everything in CommonAccord, it is not exclusive, and likely not yet exactly right.  It is "a question posed in the form of an answer."  <br>
+Much of "the law" is a set of naming conventions for shared ideas. So is the web.  This site attempts to establish a pattern of names.  As with everything in CommonAccord, it is not exclusive, and likely not yet exactly right.  It is "a question posed in the form of an answer."  <br>
 
 The top level expressed here is merely single letters:<ol><li>
 
