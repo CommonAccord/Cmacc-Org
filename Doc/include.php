@@ -1,6 +1,10 @@
-Much of "the law" is a set of naming conventions for shared ideas. So is the web.  This site attempts to establish a pattern of names.  As with everything in CommonAccord, it is not exclusive, and likely not yet exactly right.  It is "a question posed in the form of an answer."  <br>
+Much of "the law" is a set of naming conventions for shared ideas. So is the web.  This site attempts to establish a pattern of names.  As with everything in CommonAccord, it is not exclusive, and likely not yet quite right.  It is "a question posed in the form of an answer."  <br>
 
 The top level expressed here is merely single letters:<ol><li>
+
+"D" is intended for your deals.  These will NOT be shared publicly, of course.  We use "Dx" here because these aren't real deals.
+
+  "P" is reserved for your private, preferred, proprietary materials.  You will want some forms, clauses, instructions, etc.
 
 "U" is intended to mean something like "you" and has info about persons and places.<li>
 

@@ -12,8 +12,12 @@ iRep.=[Wx/com/ycombinator/SAFE/Sec/iRep_v02.md]
 
 Misc.=[Wx/com/ycombinator/SAFE/Sec/Misc_v02.md]
 
-90.=[Z/Agt/Agt_End.md]
+90.Sec=IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.<br><br>{Company.Sign.Block}<br><br>{Investor.Sign.Block}
   
+Company.Handle={Company}
+
+Investor.Handle={Investor}
+
 =[Z/ol/0]
 
 Event.Xnum=1
