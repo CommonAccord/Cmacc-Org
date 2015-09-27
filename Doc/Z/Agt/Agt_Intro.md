@@ -76,7 +76,7 @@ EffectiveDate.sec=EFFECTIVE DATE: {Agt.Effective.YMDT} (the "{Effective_Date}")
 
 /Note=Default to just the day - backward compatibility
 
-Agt.Effective.YMDT={Agt.Effective.YMD}
+Agt.Effective.YMDT={EffectiveDate.YMD}
 
 This.Sec={This.sec}
 

@@ -1,7 +1,7 @@
 Heading.Sec=<center><span style="text-transform: uppercase">THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "{Securities_Act}"), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES.  THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.</span></center>
 
 
-secs=<center>{1.Sec}<br><br>{2.Sec}</center><br><br>{3.Sec}<br><br>{4.Sec}<br><br>{5.Sec}<br><br>{6.Sec}
+secs=<center><b>{1.Sec}<br><br>{2.Sec}</center></b><br><br>{3.Sec}<br><br>{4.Sec}<br><br>{5.Sec}<br><br>{6.Sec}
 
 1.Sec={Company.Name.Full}
 
