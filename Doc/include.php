@@ -2,9 +2,9 @@ Much of "the law" is a set of naming conventions for shared ideas. So is the web
 
 The top level expressed here is merely single letters:<ol><li>
 
-"D" is intended for your deals.  These will NOT be shared publicly, of course.  We use "Dx" here because these aren't real deals.
+"D" is intended for your deals.  These will NOT be shared publicly, of course.  We use "Dx" here because these aren't real deals.<li>
 
-  "P" is reserved for your private, preferred, proprietary materials.  You will want some forms, clauses, instructions, etc.
+  "P" is reserved for your private, preferred, proprietary materials.  You will want some forms, clauses, instructions, etc.<li>
 
 "U" is intended to mean something like "you" and has info about persons and places.<li>
 
