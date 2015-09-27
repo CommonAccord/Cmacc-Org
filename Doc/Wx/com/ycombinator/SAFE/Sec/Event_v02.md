@@ -21,3 +21,5 @@ Event.Liquidity.1.Xref={Event.Xref}.2.1
 Event.Liquidity.2.Xref={Event.Xref}.2.2
 
 Event.Dissolution.Xref={Event.Xref}.3
+
+/Xref=Section {Xnum}
