@@ -130,7 +130,7 @@ Ftn13=<a href="#_ftn13" name="_ftnref" title=""><sup>[13]</sup></a>
 
 1.=[Z/ol/5]
 
-2.=[Startup/NVCA/SPA/Sec/NVCA_SPA_Sec_cRep.01.md]
+2.=[Wx/org/nvca/SPA/Sec/cRep_v01.md]
 
 2A.Sec=See ADDENDUM at end of this document with sample {Founder}s Representations and Warranties.
 
@@ -530,4 +530,4 @@ Ftn63=<a href="#_ftn63" name="_ftnref" title="">[63]</a>
 3A.5.sec=Such {Founder} has not been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c) subject to any order, judgment, or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d) found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
 
 
-=[Startup/NVCA/SPA/Sec/NVCA_SPA_DT.01.md]
+=[Wx/org/nvca/SPA/Sec/DefinedTerms_v01.md]
