@@ -1,4 +1,4 @@
-Doc.Title={Company.Handle} Privacy Policy
+Doc.Title={Company.Name.Full} Privacy Policy - {Version.YMD}
 
 0.=[Wx/com/moynihanpartners/PrivacyPolicy/Sec/Intro_v01.md]
 
