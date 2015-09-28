@@ -4,7 +4,7 @@ P1.Handle=Company
 
 P2.Handle=Investor
 
-Heading.=[Wx/co/500/KISS/Sec/Heading_v01.md]
+Head.=[Wx/co/500/KISS/Sec/Heading_v01.md]
 
 0.=[Wx/co/500/KISS/Sec/Intro_v01.md]
 
