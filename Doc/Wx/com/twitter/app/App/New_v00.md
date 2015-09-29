@@ -1,3 +1,5 @@
+Original=https://apps.twitter.com/app/new
+
 Developer Agreement
 
 Effective: May 18, 2015.
