@@ -4,7 +4,7 @@ Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Company.Name.Ful
 
 0.1.sec=(Pursuant to Sections 242 and 245 of the General Corporation Law of the State of Delaware)
 
-0.2.sec={Corp.Name.Full}, a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the “General Corporation Law”),
+0.2.sec={Company.Name.Full}, a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the “General Corporation Law”),
 
 0.90.sec=DOES HEREBY CERTIFY:
 
