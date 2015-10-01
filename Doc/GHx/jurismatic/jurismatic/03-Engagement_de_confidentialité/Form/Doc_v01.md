@@ -1,4 +1,4 @@
-Doc.Title=ACCORD DE CONFIDENTIALITE
+Titre=ACCORD DE CONFIDENTIALITE
 
 Que.secs={Que.Cadre}<br>{Que.Conditions}
 
