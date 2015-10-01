@@ -1,0 +1,1 @@
+We remind you that the documents in Wx/ have not been claimed by their owners.  I.e., while some are very close to the originals, they all have some variations and may have errors.  And, again, nothing on any of our sites is legal advice. You should not rely on any of these documents in any respect.  Ask a lawyer.  Better yet, tell a lawyer.
