@@ -1,13 +1,9 @@
 =[GHx/jurismatic/jurismatic/03-Engagement_de_confidentialité/Form/Doc_v01.md]
 
-/P1.=[U/id/Acme_SARL.md]
+P1.=[U/id/Acme_SARL.md]
 
-/P2.=[U/id/Quake_SA.md]
-
-/P1.Sign.=[U/id/Jean_Valjean.md]
-
-/P2.Sign.=[U/id/Marie_Matignon.md]
-   
+P2.=[U/id/Quake_SA.md]
+ 
 P1.Sign.Titre.son/sa=sa {P1.Sign.Titre}
 
 P1.Sign.Titre=Directeur de recherche

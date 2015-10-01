@@ -4,4 +4,4 @@ Nom.3=Valjean
 
 M/Mme=M.
 
-=[FR/ID/Type_Individu.md]
+=[U/class/FR_Individu.md]

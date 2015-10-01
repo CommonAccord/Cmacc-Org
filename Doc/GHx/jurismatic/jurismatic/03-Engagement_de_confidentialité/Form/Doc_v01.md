@@ -58,10 +58,9 @@ Que.Conditions=La Partie Divulgatrice désire donc arrêter avec la Partie Desti
 Litige.Tribunal.du=du Tribunal de Commerce de {Litige.TdC.Ville}
 
 
-/=[FR/Z/Accord.md]
+=[Z/FR/Agt/Accord.md]
 
 =[Z/ol/s11]
 
-DocBody={Doc}
 
 « Modèles Jurismatic fournis sous licence Creative Commons BY-NC-SA 3.0 FR » Des changements ont eu lieu par rapport aux textes originaux.

@@ -4,4 +4,4 @@ Nom.3=Matignon
 
 M/Mme=Mme.
 
-=[FR/ID/Type_Individu.md]
+=[U/class/FR_Individu.md]
