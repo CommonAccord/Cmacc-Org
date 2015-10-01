@@ -1,4 +1,4 @@
-Chemical.=[Wx/com/gepower/MasterServicesAgreement/Sec/Environment/Chemical/Sec_v01.md]
+Chemical.=[Wx/com/gepower/MasterServiceAgreement/Sec/Environment/Chemical/Sec_v01.md]
 
 Ti=Environmental Health and Safety
 

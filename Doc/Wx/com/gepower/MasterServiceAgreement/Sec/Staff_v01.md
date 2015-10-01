@@ -42,7 +42,7 @@ Web.1.Ti=Web Registration
 
 Web.1.sec=The {CWD.Full} (the "{CWD}") is a global, web-based application that houses basic information on all contingent workers providing services to {Company}. Immediately upon receipt of a {PO} or {SOW} for {Services} under {this_Agreement} and prior to the commencement of work for {Company}, {Supplier} shall initiate the registration process for the {CWD} by sending an email to {email.CWD.com} with "New {Supplier} MSA" in the subject line. Thereafter, {Supplier} will receive instructions on registering to use and populating the {CWD}. {Supplier} shall populate the {CWD} with the required information for all of {Supplier's_Personnel} that are providing {Services} under {this_Agreement} for more than ten (10) consecutive business days. {Supplier} shall enter the required information for the applicable {Supplier's_Personnel} prior to the start of each {Supplier_Personnel}'s assignment with the {Company}, and {Supplier} shall update the {CWD} to reflect the end of each {Supplier_Personnel}'s assignment as soon as such assignment ends. {Company} may audit {Supplier}'s compliance with its obligations regarding the population and maintenance of accurate data in the {CWD} at any time.
 
-Web.2.=[Wx/com/gepower/MasterServicesAgreement/Sec/Staff_PersonalData_v01.md]
+Web.2.=[Wx/com/gepower/MasterServiceAgreement/Sec/Staff_PersonalData_v01.md]
 
 Web.=[Z/ol/2] 
 

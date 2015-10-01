@@ -1,0 +1,1 @@
+This is for the "real" world wide web materials.  "Real" in the sense that they are either claimed and managed by the owner of the corresponding domain name, or are redirects to materials actually on the corresponding domains.  

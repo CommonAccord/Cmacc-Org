@@ -2,7 +2,7 @@ Ti={Company} Property
 
 xlist=<ol><li>{Reserve.Sec}</li><li>{Assign.Sec}</li></ol>
 
-Reserve.Sec={Supplier} acknowledges that {Company} claims and reserves all rights and benefits afforded under federal and international intellectual property laws in all {Intellectual_Property} and {Proprietary Information} furnished by {Company} to {Supplier} hereunder and that {Supplier} is granted only a limited right of use of such {Intellectual_Property} and {Proprietary Information} as set forth in {this_Agreement}.
+Reserve.Sec={Supplier} acknowledges that {Company} claims and reserves all rights and benefits afforded under federal and international intellectual property laws in all {Intellectual_Property} and {Proprietary_Information} furnished by {Company} to {Supplier} hereunder and that {Supplier} is granted only a limited right of use of such {Intellectual_Property} and {Proprietary_Information} as set forth in {this_Agreement}.
 
 Assign.Sec=<u>Assignment and Recordation of {Company_Property}</u>.&nbsp; {Supplier} agrees that: <ol><li>{Assign.WorkForHire.Sec};</li><li>{Assign.Grant.Sec};</li><li>{Assign.Further.Sec}: and</li><li>{Assign.NotRegister.Sec}.</li></ol>
 

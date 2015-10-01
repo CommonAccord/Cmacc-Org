@@ -6,13 +6,13 @@ Engage.Ti=Confidentiality Engagement
 
 Engage.sec={Engage.Intro.sec}<ol><li>{Engage.Protect.cl};</li><li>{Engage.Use.cl}; and</li><li>{Engage.Care.cl}.</li></ol>
 
-Engage.Intro.sec={Supplier} and all {Supplier_Personnel} shall maintain in confidence and safeguard all {Proprietary Information}.  {Supplier} recognizes and acknowledges the confidential and proprietary nature of any {Proprietary Information} and acknowledges the irreparable harm that could result to {Company} if it is disclosed to a third party or used for unauthorized purposes without {Company}'s prior written consent. Therefore, {Supplier} agrees, except as required by law: 
+Engage.Intro.sec={Supplier} and all {Supplier_Personnel} shall maintain in confidence and safeguard all {Proprietary_Information}.  {Supplier} recognizes and acknowledges the confidential and proprietary nature of any {Proprietary_Information} and acknowledges the irreparable harm that could result to {Company} if it is disclosed to a third party or used for unauthorized purposes without {Company}'s prior written consent. Therefore, {Supplier} agrees, except as required by law: 
 
-Engage.Protect.cl=to protect the confidentiality of {Company}'s {Proprietary Information} (including any notes, summaries, reports, analyses or other material derived by {Supplier} or {Supplier_Personnel} in whole or in part from the {Proprietary Information} in whatever form maintained (collectively, "Notes"))
+Engage.Protect.cl=to protect the confidentiality of {Company}'s {Proprietary_Information} (including any notes, summaries, reports, analyses or other material derived by {Supplier} or {Supplier_Personnel} in whole or in part from the {Proprietary_Information} in whatever form maintained (collectively, "Notes"))
 
-Engage.Use.cl=to use the {Proprietary Information} and/or Notes only for the purposes of conducting business with {Company} in a manner contemplated by {this_Agreement}
+Engage.Use.cl=to use the {Proprietary_Information} and/or Notes only for the purposes of conducting business with {Company} in a manner contemplated by {this_Agreement}
 
-Engage.Care.cl=to use the same degree of care as with its own confidential information, which shall be at least a reasonable standard of care, to prevent disclosure of the {Proprietary Information} and/or Notes, except to {Supplier_Personnel} to the extent necessary to permit them to perform the {Services} as set forth in {this_Agreement}
+Engage.Care.cl=to use the same degree of care as with its own confidential information, which shall be at least a reasonable standard of care, to prevent disclosure of the {Proprietary_Information} and/or Notes, except to {Supplier_Personnel} to the extent necessary to permit them to perform the {Services} as set forth in {this_Agreement}
 
 Engage.=[Z/ol/0]
 
@@ -20,7 +20,7 @@ Engage.Xnum={Xnum}.1
 
 WarnPersonnel.Ti=Advise Personnel
 
-WarnPersonnel.sec={Supplier} further agrees that prior to disclosing any {Proprietary Information} to {Supplier_Personnel} as set forth above, {Supplier} will: <ol><li>advise such {Supplier_Personnel} of the confidential and proprietary nature of the {Proprietary Information} and Notes; and</li><li>require them to sign the {Secrecy_and_Inventions_Agreement} attached hereto as {Schedule_B}.</li></ol>
+WarnPersonnel.sec={Supplier} further agrees that prior to disclosing any {Proprietary_Information} to {Supplier_Personnel} as set forth above, {Supplier} will: <ol><li>advise such {Supplier_Personnel} of the confidential and proprietary nature of the {Proprietary_Information} and Notes; and</li><li>require them to sign the {Secrecy_and_Inventions_Agreement} attached hereto as {Schedule_B}.</li></ol>
 
 WarnPersonnel.=[Z/ol/0]
 
@@ -32,13 +32,13 @@ Injunct.=[Z/ol/0]
 
 Endure.Ti=Term of Confidentiality Engagements
 
-Endure.sec=Obligations in this Section shall, with respect to each disclosure of {Proprietary Information} hereunder, continue for {Engage.Duration}. Nothing herein is intended to limit or abridge the protection of trade secrets under applicable trade secrets law, and trade secrets shall be maintained as such until they fall into the public domain.
+Endure.sec=Obligations in this Section shall, with respect to each disclosure of {Proprietary_Information} hereunder, continue for {Engage.Duration}. Nothing herein is intended to limit or abridge the protection of trade secrets under applicable trade secrets law, and trade secrets shall be maintained as such until they fall into the public domain.
 
 Endure.=[Z/ol/0]
 
 Return.Ti=Return or Destruction of Information
 
-Return.sec=Upon completion or termination of {this_Agreement} or upon request of {Company}, {Supplier} shall promptly: <ol><li>return all {Proprietary Information} disclosed to it; and</li><li>destroy (with such destruction certified in writing by {Supplier}) all Notes, without retaining any copy thereof.</li></ol> No such termination of the Agreement or return or destruction of the {Proprietary Information} and/or Notes will affect the confidentiality obligations of {Supplier} or {Supplier_Personnel} all of which will continue in effect as provided in {this_Agreement}.
+Return.sec=Upon completion or termination of {this_Agreement} or upon request of {Company}, {Supplier} shall promptly: <ol><li>return all {Proprietary_Information} disclosed to it; and</li><li>destroy (with such destruction certified in writing by {Supplier}) all Notes, without retaining any copy thereof.</li></ol> No such termination of the Agreement or return or destruction of the {Proprietary_Information} and/or Notes will affect the confidentiality obligations of {Supplier} or {Supplier_Personnel} all of which will continue in effect as provided in {this_Agreement}.
 
 Return.=[Z/ol/0]
 
@@ -46,7 +46,7 @@ Exclude.Ti=Information Not Covered
 
 Exclude.sec={Exclude.Intro.Cl}: <ol><li>{Exclude.Public.cl};</li><li>{Exclude.Has.cl};</li><li>{Exclude.Finds.cl}: or</li><li>{Exclude.Makes.cl}.</li></ol>
 
-Exclude.Intro.Cl=Notwithstanding the foregoing, the parties agree that {Supplier}'s obligations with respect to handling, disclosing, reproducing and using such {Proprietary Information} are not applicable to any portion(s) of the {Proprietary Information} which
+Exclude.Intro.Cl=Notwithstanding the foregoing, the parties agree that {Supplier}'s obligations with respect to handling, disclosing, reproducing and using such {Proprietary_Information} are not applicable to any portion(s) of the {Proprietary_Information} which
 
 Exclude.Public.cl=is or becomes generally available to the public other than as a result of disclosure by {Supplier} or Supplier's Representatives
 
@@ -54,7 +54,7 @@ Exclude.Has.cl=was available on a non-confidential basis prior to its disclosure
 
 Exclude.Finds.cl=is or becomes available to {Supplier} on a non-confidential basis from a source other than the {Company} when such source is not, to the best of the {Supplier}'s knowledge, subject to a confidentiality obligation with the {Company}
 
-Exclude.Makes.cl=was independently developed by {Supplier} or {Supplier_Personnel}, without reference to the {Proprietary Information}, and {Supplier} can verify the development of such information by written documentation
+Exclude.Makes.cl=was independently developed by {Supplier} or {Supplier_Personnel}, without reference to the {Proprietary_Information}, and {Supplier} can verify the development of such information by written documentation
 
 Exclude.=[Z/ol/0]
 

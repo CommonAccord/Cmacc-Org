@@ -48,6 +48,8 @@ IP_Rights=<font color="green">IP Rights</font>
 
 MSA=<font color="green">MSA</font>
 
+Materials=<font color="green">Materials</font>
+
 Other_Company_Databases=<font color="green">Other Company Databases}</font>
 
 party=<font color="green">party</font>
@@ -71,6 +73,8 @@ Processed=<font color="green">Processed</font>
 Proprietary_Information=<font color="green">Proprietary Information</font>
 
 Secrecy_and_Inventions_Agreement=<font color="green">Secrecy and Inventions Agreement</font>
+
+Service=<font color="green">Service</font>
 
 Services=<font color="green">Services</font>
 
