@@ -24,4 +24,4 @@ Compliance.Email=<b>compliance@{P1.www}</b>
 
 Compliance.Name,Address=<b>{P1.President.Name.Full}, {P1.Addr.1,2}</b>
 
-=[Wx/com/foley/GRS/FCPAPolicy/Form/FCPA_v02.md]
+=[Wx/com/foley/GRS/FCPAPolicy/Form/Doc_v02.md]
