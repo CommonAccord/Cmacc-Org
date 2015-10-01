@@ -1,6 +1,6 @@
 Note1=THIS IS NOT LEGAL ADVICE (nor is anything on this site). 
 
-Note2=This is set up by a total amateur (me) on the hypothesis of a startup needed an anti-bribery policy.  
+Note2=This is set up by a total amateur (me) on the hypothesis of a startup needing an anti-bribery policy.  
 
 P1.=[U/id/acme_incorporated]
 
