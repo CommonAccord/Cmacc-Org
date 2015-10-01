@@ -1,0 +1,1 @@
+This is intended for your private documents.  In automated transacting systems, this directory may be virtual.  The records of transactions will not really be files, but lists of key/values in a format that can reference and work with the shared legal texts. In a git managed system, be sure to use gitignore or another way of not syncing to public repos.  
