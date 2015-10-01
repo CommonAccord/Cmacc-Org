@@ -3,6 +3,10 @@
 P1.=[U/id/Acme_SARL.md]
 
 P2.=[U/id/Quake_SA.md]
+
+P1.Sign.=[U/id/Jean_Valjean.md]
+
+P2.Sign.=[U/id/Marie_Matignon.md]
  
 P1.Sign.Titre.son/sa=sa {P1.Sign.Titre}
 
