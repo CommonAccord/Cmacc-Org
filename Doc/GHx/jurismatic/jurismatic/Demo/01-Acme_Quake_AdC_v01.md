@@ -1,4 +1,4 @@
-=[GHx/jurismatic/jurismatic/03-Engagement_de_confidentialité/Form/Doc_v01.md]
+=[GHx/jurismatic/jurismatic/03-Engagement_de_confidentialité/Form/Doc_v01.md]
 
 P1.=[U/id/Acme_SARL.md]
 
