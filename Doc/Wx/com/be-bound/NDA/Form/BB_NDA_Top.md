@@ -4,6 +4,6 @@ Model.Root={Content}
 
 //=Content can be MutualNDA or NonMutualNDA depending on what is needed. Text for both is in the BB_NDA_Core document.  Comment the one you don't want.
 
-Content={MutualNDA}
+//Content={MutualNDA}
 
-//Content={NonMutualNDA}
+Content={NonMutualNDA}
