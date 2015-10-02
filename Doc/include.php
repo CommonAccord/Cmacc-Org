@@ -3,7 +3,9 @@ Much of "the law" is a set of naming conventions for shared ideas. So is the web
 
 The top level expressed here is merely single letters:<ol><li>
 
-  "D" is a place intended for your deals.  You will NOT share these publicly, of course. We use "Dx" here because the examples aren't real deals.<li>
+  "D" is for your deals.  You will NOT share these publicly, of course. We use "Dx" here because the examples aren't real deals.<li>
+
+"GH" is for GitHub repos.  <li>
 
   "P" is reserved for your private, preferred, proprietary materials.  You will want some place to keep your private forms, clauses, instructions, etc.<li>
 
