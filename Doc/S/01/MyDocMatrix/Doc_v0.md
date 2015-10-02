@@ -1,8 +1,10 @@
-Note=We at Acme - and companies like us - want to do business with you on an open and clear basis.  We want the legal part to be thorough and clear, representing best practices.  Therefore, to speed our business dealings, we list documents that we are usually comfortable with.  We know them, our lawyers know them, we can act quickly on them.  If you want to make it easy on both of us, please use one of these forms.  Please make such changes as are necessary as patches to the documents.  You will see lots of examples of patches on this site.  If none of these documents is a good starting point, please submit your document using the nomenclature of the "Harmonized.Secs" to the extent you can.  This will help us understand and react, and will also mean that we can reuse it in the future.  If it is worth learning, it is worth remembering.  This may seem unfamiliar the first time, but it will make our lives easier and better. 
+Note1=We at Acme - and companies like us - want to do business with you on an open and clear basis.  We want the legal part to be thorough and clear, representing best practices.  Therefore, to speed our business dealings, we list documents that we are usually comfortable with.  We know them, our lawyers know them, we can act quickly on them.  If you want to make it easy on both of us, please use one of these forms.  Please make such changes as are necessary as patches to the documents.  You will see lots of examples of patches on this site.  If none of these documents is a good starting point, please submit your document using the nomenclature of the "Harmonized.Secs" to the extent you can.  This will help us understand and react, and will also mean that we can reuse it in the future.  If it is worth learning, it is worth remembering.  This may seem unfamiliar the first time, but it will make our lives easier and better. 
+
+Note2=List of some of some prior deals, with fake deal points <a href="index.php?action=list&file=Dx/Acme/">Dx/Acme/</a>  
 
 Model.Root=<b>All My Docs</b><ol><li>{NDA.List}<li>{Consult.List}<li>{Employ.List}<li>{License.List}<li>{Policy.List}<li>{Loan.List}<li>{Sale.List}<li>{Invest.List}<li>{Harmonized.Secs}</ol>
 
-NDA.List=<b>NDA Forms</b><ol><li>{NDA.BusDev.List}<li>{NDA.Consultant.List}<li>{NDA.Intern.List}<li>{NDA.Harmonized.Secs}</ol>
+NDA.List=<b>NDA List</b><ol><li>{NDA.BusDev.List}<li>{NDA.Consultant.List}<li>{NDA.Intern.List}<li>{NDA.Harmonized.Secs}</ol>
 
 Policy.=[S/01/MyDocMatrix/Sec/PolicyList_v0.md]
 
