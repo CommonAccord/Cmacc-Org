@@ -8,7 +8,19 @@ Ti=Our Style Guide
 
 2.Ti=Sections
 
-2.sec=Organize the text of a document as a list of its sections. If a section has subsections, make the section as a list of its subsections. Rinse and repeat as deep as your subsections go.  Section headings ar in bold, on a separate line from the body of the text.  All this is done automatically if you use the components like [Z/ol/4].
+2.0.sec=Organize the text of a document as a list of its sections. 
+
+2.1.sec=If a section has subsections, make the section as a list of its subsections.
+
+2.2.sec=Rinse and repeat as deep as your subsections go.
+
+2.3.sec=Section headings are in bold, on a separate line from the body of the text.
+
+2.90.sec=All this is done automatically if you use the components like [Z/ol/s3].
+
+Note1="s3" means "s"ection bodies w/o headings, "3" of them. If you dropped the "s" it would expect 2.1.Ti=... etc. and if you did "4" it would expect 2.4.sec=... 
+
+2.=[Z/ol/s3]
 
 3.Ti=Defined Terms
 
@@ -26,7 +38,7 @@ Defined_Term.def="{Defined_Term}" means ...
 
 6.Ti=Version naming
 
-6.sec=We are not quite stable yet in our thoughts on this.  Currently, we generally use _v01.md etc. at the end of a file.  Each such "version" should have a fixed text.  So _v08 should never change. The "current" version we can name _vL.md - the "L" for "live."  That one can be saved out to a fixed version whenever the maintainer thinks they've hit a benchmark.  Once saved out, the saved out version should not change.  (This is so far mostly theory, not practice.  If you have your repo in git version control, even if you or we goof up, it can be retraced.  But let's try to make this simple. 
+6.sec=We are not quite stable yet in our thoughts on this.  Currently, we generally use _v01.md etc. at the end of a file.  Each such "version" should have a fixed text.  So _v08 should never change. The "current" version we can name _v0.md.  That one can be saved out to a fixed version whenever the maintainer thinks they've hit a benchmark.  Once saved out, the saved out version should not change.  (This is so far mostly theory, not practice.  Git again saves us from our own errors, since it keeps a full record.  But let's try to make this simple, flat, and consistent with lay habits.
 
 7.Ti=Collaboration
 
