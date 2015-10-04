@@ -16,7 +16,7 @@ Ti=Our Style Guide
 
 2.3.sec=Section headings are in bold, on a separate line from the body of the text.
 
-2.90.sec=All this is done automatically if you use the components like [Z/ol/s3].
+2.90.sec=All this is done automatically (forced on you) if you use components like [Z/ol/s3].
 
 Note1="s3" means "s"ection bodies w/o headings, "3" of them. If you dropped the "s" it would expect 2.1.Ti=... etc. and if you did "4" it would expect 2.4.sec=... 
 
@@ -24,11 +24,11 @@ Note1="s3" means "s"ection bodies w/o headings, "3" of them. If you dropped the 
 
 3.Ti=Defined Terms
 
-3.sec=Defined terms should be presented in green.  You can do this by curly bracketing the defined term in your text, like {Company} or {Intellectual_Property}.  (The underline is preferred practice because easier to spot in reviewing and searches.  We have a number of lists of defined terms you can use, which make them green.  
+3.sec=Defined terms should be presented in green.  You can do this by curly bracketing the defined term in your text, like {Company} or {Intellectual_Property}.  (The underline is preferred practice because easier to spot in reviewing and searches.  We have <a href="https://github.com/CommonAccord/Cmacc-Org/search?utf8=%E2%9C%93&q=S/%3Cfont%20color=%22green%22%3E">a number of lists of defined terms you can use</a>, which improve consistency, and make them green.  
 
 4.Ti=Definitions
 
-4.sec=The definitions themselves should be in a separate section, in the format:  {Defined_Term.def}.  We should be working to establish shared lists of defined terms.  <a href="https://github.com/CommonAccord/Cmacc-Org/search?utf8=%E2%9C%93&q=DefinedTerms">Some Lists of Defined Terms</a>
+4.sec=The definitions themselves should be in a separate section, in the format:  {Defined_Term.def}.  We should be working to establish shared lists of defined terms. 
 
 Defined_Term.def="{Defined_Term}" means ...
 

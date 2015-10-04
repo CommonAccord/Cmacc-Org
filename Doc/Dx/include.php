@@ -1,1 +1,1 @@
-This is a place for the deal histories of hypothetical persons who use CommonAccord for their legal dealings.  Here is the request that their partners do, too - <a href="index.php?action=source&file=S/OurLegal/Form/List_v0.md">OurLegal</a>.  <br>Currently, Acme, a startup company. 
+This is a place for the deal histories of hypothetical persons who do their legal by CommonAccord.  <br>They request that their partners use this approach - <a href="index.php?action=source&file=S/OurLegal/Form/List_v0.md">OurLegal</a>.  <br>Currently, Acme, a startup company. 
