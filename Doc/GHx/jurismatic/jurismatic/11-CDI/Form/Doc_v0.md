@@ -1,36 +1,36 @@
 Doc.Title=CONTRAT DE TRAVAIL A DUREE INDETERMINEE
 
-Intro.P2.1.sec=**Monsieur ou Madame** **{Nom et prénom}**
+Intro.P2.1.sec=Monsieur ou Madame {Nom et prénom}
 
-Intro.P2.2.sec=Né(e) le **{date de naissance}**à **{lieu de naissance}**
+Intro.P2.2.sec=Né(e) le {date de naissance} à {lieu de naissance}
 
-Intro.P2.3.sec=De nationalité **{nationalité}**
+Intro.P2.3.sec=De nationalité {nationalité}
 
-Intro.P2.4.sec=Exerçant la profession de **{profession}**
+Intro.P2.4.sec=Exerçant la profession de {profession}
 
-Intro.P2.5.sec=Demeurant **{adresse du domicile}**
+Intro.P2.5.sec=Demeurant {adresse du domicile}
 
 1.Ti=Engagement
 
-1.1.sec=La Société engage le Salarié en qualité de **{fonction}** à compter du **{date}****,** sous réserve des résultats de la visite médicale d'embauche.
+1.1.sec=La Société engage le Salarié en qualité de {fonction} à compter du {date}, sous réserve des résultats de la visite médicale d'embauche.
 
-1.2.sec=Cette qualification correspond au statut **{statut indiqué par la convention collective}**, position **{position}****, **coefficient** {coefficient}**, prévu par la Convention Collective applicable aux présentes.
+1.2.sec=Cette qualification correspond au statut {statut indiqué par la convention collective}, position {position}, coefficient {coefficient}, prévu par la Convention Collective applicable aux présentes.
 
-1.3.sec=Le Salarié sera notamment chargé de **{définir le poste}.**
+1.3.sec=Le Salarié sera notamment chargé de {définir le poste}.
 
 1.4.sec=Le Salarié déclare formellement être libre de tout engagement et n'être lié par aucune clause de non concurrence avec un précédent employeur.
 
-1.5.sec=Le présent contrat est soumis aux dispositions de la convention collective nationale des Bureaux d'Etudes Techniques, Cabinets d'Ingénieurs-conseils, sociétés de conseil, dite SYNTEC-CICF du 15 décembre 1987 étendue et complétée, (Brochure JO n°3018 – IDCC 1486) (ci-après : la «  **Convention Collective**  »), accessible sur le site internet Légifrance et dont un exemplaire est à la disposition des salariés dans les locaux de l'entreprise.
+1.5.sec=Le présent contrat est soumis aux dispositions de la convention collective nationale des Bureaux d'Etudes Techniques, Cabinets d'Ingénieurs-conseils, sociétés de conseil, dite SYNTEC-CICF du 15 décembre 1987 étendue et complétée, (Brochure JO n°3018 – IDCC 1486) (ci-après : la «  Convention Collective  »), accessible sur le site internet Légifrance et dont un exemplaire est à la disposition des salariés dans les locaux de l'entreprise.
 
-1.6.sec=1. La déclaration préalable à l'embauche a été effectuée auprès de l'URSSAF de **{ville****} **le** {date****}.**
+1.6.sec=1. La déclaration préalable à l'embauche a été effectuée auprès de l'URSSAF de {ville} le {date}.
 
-1.7.sec=En application de la loi n° 78-17 du 6 janvier 1978 dite « Informatique et Libertés », le Salariédispose d'un droit d'accès et de rectification des informations portées sur ce document, qu'il peut exercer auprès de l'URSSAF de **{ville****}.**
+1.7.sec=En application de la loi n° 78-17 du 6 janvier 1978 dite « Informatique et Libertés », le Salariédispose d'un droit d'accès et de rectification des informations portées sur ce document, qu'il peut exercer auprès de l'URSSAF de {ville}.
 
 1.=[Z/ol/s7]
 
 2.Ti=Durée du contrat, période d'essai
 
-2.1.sec=Le présent contrat est conclu pour une durée indéterminée, sous réserve d'une période d'essai de **{durée}** expirant le **{date}****.**
+2.1.sec=Le présent contrat est conclu pour une durée indéterminée, sous réserve d'une période d'essai de {durée} expirant le {date}.
 
 2.2.sec=Toute suspension qui se produirait pendant la période d'essai (maladie, congés,...) prolongerait d'autant la durée de cette période qui doit correspondre à un travail effectif, tant pour la période initiale que l'éventuelle période de prolongation.
 
@@ -54,7 +54,7 @@ Intro.P2.5.sec=Demeurant **{adresse du domicile}**
 
 4.Ti=Lieu de travail, mobilité
 
-4.1.sec=Le Salarié exercera ses fonctions à **{ville}****.**
+4.1.sec=Le Salarié exercera ses fonctions à {ville}.
 
 4.2.sec=Toutefois, compte tenu de ses fonctions et conformément aux nécessités et à l'intérêt de la Société, le Salarié pourra être amené à travailler en un autre lieu situé en {région}, sans que cela ne constitue une modification de son contrat de travail, ce que le Salarié reconnaît expressément par la signature des présentes.
 
@@ -66,7 +66,7 @@ Intro.P2.5.sec=Demeurant **{adresse du domicile}**
 
 5.Ti=Rémunération
 
-5.1.sec=La rémunération mensuelle brute du Salarié est fixée à **{montant en chiffres et en lettres}** euros, pour la durée de travail prévue au présent contrat, sur 12 (douze) mois.
+5.1.sec=La rémunération mensuelle brute du Salarié est fixée à {montant en chiffres et en lettres} euros, pour la durée de travail prévue au présent contrat, sur 12 (douze) mois.
 
 5.2.sec=Cette rémunération inclut la cession des droits patrimoniaux d'auteur du Salarié prévus à l'article 12 des présentes, dont le prix de cession est contractuellement fixé à 10 % de la dite rémunération.
 
@@ -187,7 +187,7 @@ Intro.P2.5.sec=Demeurant **{adresse du domicile}**
 
 13.2.0.sec=Cette interdiction, qui n'a pas pour objet d'empêcher le Salarié d'exercer sa profession au sein d'une activité non concurrente, est toutefois limitée au territoire suivant :
 
-13.2.1.sec=**{région}**
+13.2.1.sec={région}
 
 13.2.=[Z/ol/s1]
 
@@ -237,19 +237,19 @@ Intro.P2.5.sec=Demeurant **{adresse du domicile}**
 
 15.Ti=Avantages sociaux
 
-15.0.sec=Le Salarié bénéficiera des lois sociales instituées en faveur des salariés notamment en matière de sécurité sociale et en ce qui concerne le régime de retraite complémentaire. Il relève la catégorie des **{cadres ou employés}** etsera affilié dès son entrée au sein de la Société :
+15.0.sec=Le Salarié bénéficiera des lois sociales instituées en faveur des salariés notamment en matière de sécurité sociale et en ce qui concerne le régime de retraite complémentaire. Il relève la catégorie des {cadres ou employés} etsera affilié dès son entrée au sein de la Société :
 
-15.1.sec=à la caisse de retraite complémentaire dont relève la Société : **{Nom et adresse à compléter}****,**
+15.1.sec=à la caisse de retraite complémentaire dont relève la Société : {Nom et adresse à compléter},
 
-15.2.sec=au régime de prévoyance géré par : **{Nom et adresse à compléter}****.**
+15.2.sec=au régime de prévoyance géré par : {Nom et adresse à compléter}.
 
 15.=[Z/ol/s2]
 
-/=[FR/Z/Accord.md]
+=[Z/FR/Agt/Accord.md]
 
 =[Z/ol/15]
 
-Note=Fait à **{ville}**, le **{date}**
+Note=Fait à {ville}, le {date}
 
 Note=En 2 (deux) exemplaires originaux,
 

@@ -252,7 +252,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 Signatures précédées de la mention manuscrite «Lu et approuvé»
 
-/=[FR/Z/Accord.md]
+=[Z/FR/Agt/Accord.md]
 
 =[Z/ol/15]
 
@@ -260,4 +260,6 @@ Signatures précédées de la mention manuscrite «Lu et approuvé»
 
 DocBody=<!DOCTYPE html><html><head><style>li (Curly-)margin: 15px;(-Curly) ol (Curly-)list-style-type: decimal; (-Curly) ol ol (Curly-)list-style-type: none;(-Curly) ol ol ol (Curly-)list-style-type: disc;(-Curly)</style></head><body>{Doc}</body>
 
-PageName=FR/Jurismatic/CDD/CDD.md
+P1.Handle=Société
+
+P2.Handle=Salarié
