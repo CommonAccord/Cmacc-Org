@@ -1,11 +1,13 @@
 MessageToUser=
 Note=Same parties, and part of the same chain of transaction, so we reference the NDA.
 
-=[Dx/Acme/02-NDAWithSupren/01-NDA.md]
+P1.=[U/id/acme_incorporated]
+
+P2.=[U/id/solomon_shirley]
 
 EffectiveDate.YMD=October 2, 2015
 
-Because.secs={P1.Name.Full} wishes to obtain the expertise of {P2.Name.Full}
+Because.secs={The_Client} wishes to obtain the expertise of {the_Consultant}.
 
 Note=These parameters certainly need work.  This is awkward.
 

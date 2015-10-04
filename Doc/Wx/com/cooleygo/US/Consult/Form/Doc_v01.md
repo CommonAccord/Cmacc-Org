@@ -8,7 +8,6 @@ Service.=[Wx/com/cooleygo/US/Consult/Sec/Services_v01.md]
 
 Comp.=[Wx/com/cooleygo/US/Consult/Sec/Compensation_v01.md]
 
-
 Ownership.=[Wx/com/cooleygo/US/Consult/Sec/Ownership_v01.md]
 
 Conf.=[Wx/com/cooleygo/US/Consult/Sec/Confidentiality_v01.md]
@@ -75,3 +74,7 @@ Remedy.Xnum=9
 Dispute.Xnum=10
 
 Misc.Xnum=11
+
+P1.Handle={Client}
+
+P2.Handle={Consultant}

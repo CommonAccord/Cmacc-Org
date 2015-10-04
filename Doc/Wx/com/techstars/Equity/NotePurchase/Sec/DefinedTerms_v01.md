@@ -1,66 +1,59 @@
-=[Z/Agt/DT_Base.md]
+=[Z/Agt/DefinedTerms_Base.md]
 
-Act={d-}Act{-d}
+Act=<font color="green">Act</font>
 
-Additional_Closing={d-}Additional Closing{-d}
+Additional_Closing=<font color="green">Additional Closing</font>
 
-Additional_Purchasers={d-}Additional Purchasers{-d}
+Additional_Purchasers=<font color="green">Additional Purchasers</font>
 
-Closing={d-}Closing{-d}
+Closing=<font color="green">Closing</font>
 
-Closing_Date={d-}Closing Date{-d}
+Closing_Date=<font color="green">Closing Date</font>
 
-Common_Stock={d-}Common Stock{-d}
+Common_Stock=<font color="green">Common Stock</font>
 
-Company's_Common_Stock={d-}Company's Common Stock{-d}
+Company's_Common_Stock=<font color="green">Company's Common Stock</font>
 
-Company's_Preferred_Stock={d-}Company's Preferred Stock{-d}
+Company's_Preferred_Stock=<font color="green">Company's Preferred Stock</font>
 
-Company={d-}Company{-d}
+Company=<font color="green">Company</font>
 
-The_Company=The {d-}Company{-d}
+The_Company=The <font color="green">Company</font>
 
-the_Company=the {d-}Company{-d}
+the_Company=the <font color="green">Company</font>
 
-Conversion_Securities={d-}Conversion Securities{-d}
+Conversion_Securities=<font color="green">Conversion Securities</font>
 
-Equity_Securities={d-}Equity Securities{-d}
+Equity_Securities=<font color="green">Equity Securities</font>
 
-Event_of_Default={d-}Event of Default{-d}
+Event_of_Default=<font color="green">Event of Default</font>
 
-Holder={d-}Holder{-d}
+Holder=<font color="green">Holder</font>
 
-Holders={d-}Holders{-d}
+Holders=<font color="green">Holders</font>
 
-Investors={d-}Investors{-d}
+Investors=<font color="green">Investors</font>
 
-Loan_Amount={d-}Loan Amount{-d}
+Loan_Amount=<font color="green">Loan Amount</font>
 
-Loan_Documents={d-}Loan Documents{-d}
+Loan_Documents=<font color="green">Loan Documents</font>
 
-Maturity_Date={d-}Maturity Date{-d}
+Maturity_Date=<font color="green">Maturity Date</font>
 
-Note={d-}Note{-d}
+Note=<font color="green">Note</font>
 
-Notes={d-}Notes{-d}
+Notes=<font color="green">Notes</font>
 
-Purchaser={d-}Purchaser{-d}
+Purchaser=<font color="green">Purchaser</font>
 
-Purchasers={d-}Purchasers{-d}
+Purchasers=<font color="green">Purchasers</font>
 
-Qualified_Financing={d-}Qualified Financing{-d}
+Qualified_Financing=<font color="green">Qualified Financing</font>
 
-Requisite_Holders={d-}Requisite Holders{-d}
+Requisite_Holders=<font color="green">Requisite Holders</font>
 
-Sale_of_the_Company={d-}Sale of the Company{-d}
+Sale_of_the_Company=<font color="green">Sale of the Company</font>
 
-Schedule_of_Purchasers={d-}Schedule of Purchasers{-d}
+Schedule_of_Purchasers=<font color="green">Schedule of Purchasers</font>
 
-Securities={d-}Securities{-d}
-
-d-=<a href="https://github.com/CommonAccord/Org/blob/master/Doc/Boehmig/techstars-note/defined-terms.md"><font color="green">
-
--d=</font></a>
-
-
-Model.Root=<b>Defined Terms:</b> <ol><li><b>Act:</b> {Act}<li><b>Additional_Closing:</b> {Additional_Closing}<li><b>Additional_Purchasers:</b> {Additional_Purchasers}<li><b>Closing:</b> {Closing}<li><b>Closing_Date:</b> {Closing_Date}<li><b>Common_Stock:</b> {Common_Stock}<li><b>Company's_Common_Stock:</b> {Company's_Common_Stock}<li><b>Company's_Preferred_Stock:</b> {Company's_Preferred_Stock}<li><b>Company:</b> {Company}<li><b>The_Company:</b> The {Company}<li><b>the_Company:</b> the {Company}<li><b>Conversion_Securities:</b> {Conversion_Securities}<li><b>Equity_Securities:</b> {Equity_Securities}<li><b>Event_of_Default:</b> {Event_of_Default}<li><b>Holder:</b> {Holder}<li><b>Holders:</b> {Holders}<li><b>Investors:</b> {Investors}<li><b>Loan_Amount:</b> {Loan_Amount}<li><b>Loan_Documents:</b> {Loan_Documents}<li><b>Maturity_Date:</b> {Maturity_Date}<li><b>Note:</b> {Note}<li><b>Notes:</b> {Notes}<li><b>Purchaser:</b> {Purchaser}<li><b>Purchasers:</b> {Purchasers}<li><b>Qualified_Financing:</b> {Qualified_Financing}<li><b>Requisite_Holders:</b> {Requisite_Holders}<li><b>Sale_of_the_Company:</b> {Sale_of_the_Company}<li><b>Schedule_of_Purchasers:</b> {Schedule_of_Purchasers}<li><b>Securities:</b> {Securities}</ol>
+Securities=<font color="green">Securities</font>

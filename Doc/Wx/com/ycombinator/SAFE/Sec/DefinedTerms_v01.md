@@ -78,7 +78,7 @@ Standard_Preferred_Stock=<font color="green">Standard Preferred Stock</font>
 
 Valuation_Cap=<font color="green">Valuation Cap</font>
 
-=[Z/Agt/DT_Base.md]
+=[Z/Agt/DefinedTerms_Base.md]
 
 dPageName=Wx/com/ycombinator/SAFE/Sec/YC-Safe_Note_DT.01.md
 
