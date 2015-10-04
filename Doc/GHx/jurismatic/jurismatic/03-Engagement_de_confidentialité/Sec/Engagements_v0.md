@@ -11,9 +11,7 @@
 
 5.sec=ne soient ni copiées, ni reproduites, ni dupliquées totalement ou partiellement lorsque de telles copies, reproductions ou duplications ne sont pas pour ses besoins propres ou n'ont pas été autorisées par la {Partie_Divulgatrice} et ce, de manière expresse et par écrit.
 
-=[Z/Sec/s5]
-
-xlist={ulist}
+=[Z/ol-none/s5]
 
 « Modèles Jurismatic fournis sous licence Creative Commons BY-NC-SA 3.0 FR » Des changements ont eu lieu par rapport aux textes originaux.
 

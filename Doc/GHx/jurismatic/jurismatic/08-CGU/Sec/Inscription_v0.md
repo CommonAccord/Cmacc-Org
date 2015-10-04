@@ -21,4 +21,4 @@ Ti=Inscription sur le site
 
 2.=[Z/paras/s3]
 
-=[Z/Sec/s2]
+=[Z/ol/s2]

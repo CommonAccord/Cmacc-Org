@@ -2,6 +2,7 @@ Titre=CONTRAT DE TRAVAIL A DUREE DETERMINEE
 
 Note=**IL A ETE CONVENU CE QUI SUIT :**
 
+
 1.Ti=Engagement
 
 1.1.0.sec=La Société engage le Salarié en qualité de {Fonction} à compter du {Commence.Date}, sous réserve des résultats de la visite médicale d'embauche.
@@ -251,6 +252,8 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 15.=[Z/ol/s2]
 
 Signatures précédées de la mention manuscrite «Lu et approuvé»
+
+Intro.P2.sec={Intro.P2i.sec}
 
 =[Z/FR/Agt/Accord.md]
 

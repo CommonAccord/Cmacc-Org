@@ -41,7 +41,6 @@ P1.6.sec=<div align="right">ci-après dénommé(e) la « {P1.Handle} »,</div>
 P1.=[Z/paras/s6]
 
 
-
 P2.1.sec={P2.Nom}
 
 P2.2.sec={P2.FormeJuridique} au capital de {P2.CapitalEnLettres}
@@ -55,6 +54,18 @@ P2.5.sec=Représentée par {P2.Sign.M/Mme-Nom} en qualité de {P2.Sign.Titre}, d
 P2.6.sec=<div align="right">ci-après dénommé(e) la « {P2.Handle} »,</div>
 
 P2.=[Z/paras/s6]
+
+Note=for an individual: 
+
+P2i.1.sec={P2.Nom}
+
+P2i.2.sec=une personne physique
+
+P2i.3.sec=Dont l'adresse est {P2.Adresse.1,2}
+
+P2i.4.sec=<div align="right">ci-après dénommé(e) la « {P2.Handle} »,</div>
+
+P2i.=[Z/paras/s4]
 
 
 
@@ -152,7 +163,7 @@ Amie5.sec={Amie5.N,E,A} ("{Amie5.Role}")
 
 Amie6.sec={Amie6.N,E,A} ("{Amie6.Role}")
 
-Date.Sec=DATE EFFECTIVE: {Accord.Sign.Date} (la « {Date_de_l'Accord} » )
+Date.Sec=DATE EFFECTIVE: {Effective.Date} (la « {Date_de_l'Accord} » )
 
 Que.Sec=<ul type="none"><li>{Que.secs}</ul>
 

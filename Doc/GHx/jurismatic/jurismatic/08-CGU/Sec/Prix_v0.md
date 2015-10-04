@@ -50,9 +50,9 @@ Alt2.5.1.sec=la déchéance du terme de l'ensemble des sommes dues par l'Utilisa
 Alt2.5.2.sec=la suspension immédiate des Services en cours jusqu'au complet paiement de l'intégralité des sommes dues par l'Utilisateur ;
 
 Alt2.5.3.sec=la facturation au profit de {P1.Handle} d'un intérêt de retard au taux de {IntérêtDeRetard} le taux de l'intérêt légal, assis sur le montant de l'intégralité des sommes dues par l'Utilisateur.
-Alt2.5.=[Z/Sec/s3]
+Alt2.5.=[Z/ol/s3]
 
-Alt2.=[Z/Sec/5]
+Alt2.=[Z/ol/5]
 
 =[Z/Alt/2]
 

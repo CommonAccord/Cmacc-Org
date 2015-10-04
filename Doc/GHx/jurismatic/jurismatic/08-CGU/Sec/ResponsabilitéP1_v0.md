@@ -18,4 +18,4 @@ Ti=Responsabilité et garantie de {P1.Handle}
 
 6.sec=En tout état de cause, la responsabilité susceptible d'être encourue par {P1.Handle} au titre des présentes est expressément limitée aux seuls dommages directs avérés subis par l'Utilisateur.
 
-=[Z/Sec/s6]
+=[Z/ol/s6]

@@ -46,6 +46,10 @@ Loi.=[GHx/jurismatic/jurismatic/08-CGU/Sec/Loi_v0.md]
 
 Effective.=[GHx/jurismatic/jurismatic/08-CGU/Sec/Effective_v0.md]
 
-=[Z/Sec/0]
+=[Z/ol/0]
 
 DocBody={Doc}
+
+P1.Handle=Fournisseur
+
+P1.Nom={P1.Name.Full}

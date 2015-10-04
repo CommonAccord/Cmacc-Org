@@ -38,9 +38,7 @@ Ti=Obligations de l'Utilisateur
 
 7.4.6.sec=et plus généralement des Contenus susceptibles de porter atteinte aux droits de tiers ou d'être préjudiciables à des tiers, de quelque manière et sous quelque forme que ce soit.
 
-7.4.=[Z/Sec/s6]
-
-7.4.xlist={9.7.4.ulist}
+7.4.=[Z/ol-none/s6]
 
 7.=[Z/paras/s4]
 
@@ -50,4 +48,4 @@ Ti=Obligations de l'Utilisateur
 
 10.sec=L'Utilisateur est informé et accepte que la mise en œuvre des Services nécessite qu'il soit connecté à internet et que la qualité des Services dépend directement de cette connexion, dont il est seul responsable.
 
-=[Z/Sec/s10]
+=[Z/ol/s10]
