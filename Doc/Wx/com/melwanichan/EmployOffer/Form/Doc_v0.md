@@ -1,6 +1,6 @@
 1.Ti=Position and Scope of Employment
 
-1.sec=Your initial title will be {Emp.Title}, and you will initially report to {the_Company}’s {Emp.Report} or to such other person as {the_Company} may subsequently determine.  This is a full-time position.  While you render services to {the_Company}, you will not engage in any other employment, consulting or other business activity (whether full-time or part-time) that would create a conflict of interest with {the_Company}.  By signing {this_Agreement}, you confirm to {the_Company} that you have no contractual commitments or other legal obligations that would prohibit you from performing your duties for {the_Company}. You shall comply with {the_Company}’s policies and rules, as they may be in effect from time to time during your Employment.
+1.sec=Your initial title will be {Employee.Title}, and you will initially report to {the_Company}’s {Employee.Report} or to such other person as {the_Company} may subsequently determine.  This is a full-time position.  While you render services to {the_Company}, you will not engage in any other employment, consulting or other business activity (whether full-time or part-time) that would create a conflict of interest with {the_Company}.  By signing {this_Agreement}, you confirm to {the_Company} that you have no contractual commitments or other legal obligations that would prohibit you from performing your duties for {the_Company}. You shall comply with {the_Company}’s policies and rules, as they may be in effect from time to time during your Employment.
 
 2.Ti=Cash Compensation
 
@@ -45,7 +45,7 @@ Entire.=[Wx/com/cooleygo/US/NDA/Sec/Misc_Entire_v01.md]
 
 9.Ti=Acceptance of Offer
 
-9.sec=This offer, if not accepted, will expire at the close of business on {Offer.Expire.YMD}.  As required by law, your employment with {the_Company} is contingent upon your providing legal proof of your identity and authorization to work in the United States.  Your employment is also contingent upon your starting work with {the_Company} on or before {Emp.Begin.YMD}.
+9.sec=This offer, if not accepted, will expire at the close of business on {Offer.Expire.YMD}.  As required by law, your employment with {the_Company} is contingent upon your providing legal proof of your identity and authorization to work in the United States.  Your employment is also contingent upon your starting work with {the_Company} on or before {Employment.Begin.YMD}.
 
 Attach.Sec=Exhibit A Non-Disclosure Agreement 
 
@@ -53,8 +53,8 @@ Attach.Sec=Exhibit A Non-Disclosure Agreement
 
 =[Z/Sec/9]
 
-The_Company=The {d-}Company{-d}
+The_Company=The <font colore="green">Company</font>
 
-the_Company=the {d-}Company{-d}
+the_Company=the <font colore="green">Company</font>
 
-/=[Z/Agt/DT_Base.md]
+=[Z/Agt/DefinedTerms_Base.md]
