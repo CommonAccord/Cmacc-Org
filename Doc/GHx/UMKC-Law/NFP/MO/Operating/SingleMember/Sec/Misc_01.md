@@ -1,0 +1,11 @@
+Ti=GENERAL
+
+1.Ti=Duration of {Agreement}; Amendments
+
+1.sec=This {Agreement} may be amended only by a written agreement executed by the {Member} which specifically and expressly states that it is an amendment to this {Agreement}.  In the event the {Member} transfers all or any portion of {Member.his/her} Interest to any Person and such Person then becomes a {Member} pursuant to a writing executed and delivered by the transferor {Member} contemporaneously with such transferor, which expressly states that such transferee is to be a {Member} of the {Company}, this {Agreement} shall (1) automatically terminate and become of no force and effect if there is then more than one {Member}, or (2) if there is then only one {Member}, terminate upon the earlier to occur of (a) thirty (30) days after the date of such transfer, or (b) the date the {Member} executes a new operating agreement which conforms with the {Act}.
+
+2.Ti=Miscellaneous
+
+2.sec=This {Agreement} and the rights of the {Member} hereunder shall be governed by and interpreted in accordance with the laws of the State of Missouri.  Except as herein otherwise specifically provided, this {Agreement} shall be binding upon and inure to the benefit of the {Member} and [his her its] legal representatives, successors, and assigns.  Captions contained in this {Agreement} in no way define, limit, or extend the scope or intent of this {Agreement}.  If any provision of this {Agreement}, or the application of any such provision to any Person or circumstance shall be held to be illegal, invalid, or unenforceable under present or future laws effective during the term hereof, the remainder of this {Agreement}, or the application of such provision to any other Persons or circumstances, shall not be affected thereby and shall be construed and enforced as if such illegal, invalid, or unenforceable provision had never comprised a part hereof.  In lieu of such illegal, invalid, or unenforceable provision, there shall be added automatically as a part hereof a provision as similar in terms to such illegal, invalid or unenforceable provision as may be possible and be legal, valid, and enforceable.  Every exhibit, schedule, and other appendix attached to this {Agreement} and referred to herein is incorporated in this {Agreement} by reference.
+
+=[Z/ol/2]
