@@ -10,7 +10,10 @@ Name.Dr=Ms.
 
 Addr.Type=home
 
+Addr.1=333 Tophat Lane
+
+Addr.Zip=765432
+
 Phone=214.761.1167
 
 Email=alice@bombast.com
-

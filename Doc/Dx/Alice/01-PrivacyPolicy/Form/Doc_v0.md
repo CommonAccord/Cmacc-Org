@@ -1,7 +1,8 @@
-Ti={P1.Name.Full} Privacy Policy
+Doc.Title={P1.Name.Full} Privacy Agreement
 
-Olist=<ol><li>{Engage.Sec}<li>{Specific.Secs}<li>{Etc.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}</ol>
+Olist=<ol><li>{Engage.Sec}<li>{Specific.Secs}<li>{Boilerplate.Secs}</ol>
 
+Boilerplate.Secs={Dispute.Sec}<li>{Misc.Sec}<li>{Def.Sec}</ol>
 
 0.sec={This_Agreement} set forth the terms on which you, {P2.Name.Full} ("{P2.Handle}"), shall have access to some of my {Personal_Information}.  In {this_Agreement}, I am referred to as the {P1.Handle} and you are referred to as the {P2.Handle}.
 
@@ -20,11 +21,24 @@ Engage.4.sec=to notify {P1.Handle} of any leak or misuse of such information whi
 Engage.=[Z/ol/s4]
 
 
-=[Z/ol/0]
+Def.Sec=<b>Definitions</b><ol><li>{Def.Principal.sec}<li>{Def.Trusted_Agent.sec}<li>{Def.Personal_Information.sec}</ol>
+
+Def.Principal.sec="{Principal}" means me.
+
+Def.Trusted_Agent.sec="{Trusted_Agent}" means you, {P2.Name.Full}, and such employees, subsidiaries, subcontractors, and agents as you may have at any relevant time. 
+
+Def.Personal_Information.sec="{Personal_Information.sec}" means any and all information that you receive from me. 
+
+=[Z/Agt/Agt.md]
 
 
-P1.Handle=<font color="green">Principal</a>
+
+P1.Handle={Principal}
+
+Principal=<font color="green">Principal</a>
 
 P1/1.Handle=<font color="green">Resource Owner</a>
 
 P2.Handle=<font color="green">Trusted Agent</a>
+
+Personal_Information=<font color="green">Personal Information</a>
