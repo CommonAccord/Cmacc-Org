@@ -1,0 +1,55 @@
+<binder>
+response.commonaccord.org=<a href="http://response.commonaccord.org/GA4GH/REWG/Consent/V01_JW_V01">GA4GH/REWG/Consent/V01_JW_V01</a>
+</binder>
+
+?=<b>?</b><ol><li>{1.?}</li><li>{2.?}</li><li>{3.?}</li></ol>
+
+1.?=<b>1.?</b><ol><li>{1.1}</li><li>{1.2}</li><li>{1.3}</li><li>{1.4}</li><li>{1.5}</li></ol>
+
+2.?=<b>2.?</b><ol><li>{2.1}</li><li>{2.2}</li><li>{2.3}</li><li>{2.4}</li><li>{2.5}</li></ol>
+
+3.?=<b>3.?</b><ol><li>{3.1}</li><li>{3.2}</li></ol>
+
+Note/Phrases=BP Comments
+for research purposes=for biomedical research purposes
+
+1.1=Data sharing will not be allowed
+
+1.2=Data sharing may be allowed after review of an IRB-approved research protocol.
+Note/1.2=" (probably the current default)
+
+1.3=Data sharing will be allowed after review of an IRB-approved research protocol.
+Note/1.3=(where I would like to see the default)
+
+1.4=Data sharing will be allowed by authorized users.
+Note/1.4=(where my organization places its own control, and my ideal state, with a low bar to becoming an authorized user)
+
+1.5=Data sharing will be allowed by any user.
+
+and 
+
+2.1=Data sharing will not be allowed.
+
+2.2=Data sharing may be allowed for use in the same therapeutic area.
+Note/2.2=(probably the current default)
+
+2.3=Data sharing will be allowed for use in the same therapeutic area.
+
+2.4=Data sharing may be allowed for use in any therapeutic area.
+
+2.5=Data sharing will be allowed for use in any therapeutic area.
+Note/2.5=(where I would like to see the default)
+
+Note/=For therapeutic area, most trying to do structure here use MeSH headings.
+
+and 
+
+
+3.1=Data sharing will be allowed with commercial parties {for research purposes}.
+3.2=Data sharing will be allowed with commercial parties {for any purposes}.
+for research purposes=for research purposes
+for any purposes=for any purposes
+
+Default_Field={?}
+
+Model.Root={Default_Field}

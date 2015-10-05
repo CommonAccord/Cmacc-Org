@@ -1,0 +1,19 @@
+=[Wx/org/genomicsandhealth/REWG/Demo/Consent_To_Study_DE]
+
+Donor.=[core/id/geraldine_graber]
+
+Clinician.=[core/id/alison_andrews]
+
+KontaktAkademische=Nein
+
+KontaktMedezinische=Ja
+
+Donor.xSignature=xGERALDINE GRABER
+
+Donor.Sign.YMD=November 10, 2014
+
+Clinician.xSignature=xALISON ANDREWS
+
+Clinician.Sign.YMD=November 10, 2014
+
+KopieAnTeilNehmer=Ja!

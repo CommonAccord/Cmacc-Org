@@ -1,0 +1,5 @@
+1.=[Wx/org/genomicsandhealth/REWG/Demo/Quentin_Quade_FR]
+2.=[Wx/org/genomicsandhealth/REWG/Demo/Roberta_Robinson_US]
+3.=[Wx/org/genomicsandhealth/REWG/Demo/Geraldine_Graber_DE]
+
+Model.Root=<ol><li>{1.Doc.Sign}</li><li>{2.Doc.Sign}</li><li>{3.Doc.Sign}</li></ol>

@@ -1,0 +1,13 @@
+
+Model.Root={Sec}
+
+Sec=<b>{Ti}</b><br><br>{1.sec}<br><br>{2.sec}<br><br>{3.sec}<br><br>{4.sec}<br><br>
+
+1.sec={1.1.Sen} {1.2.Sen} 
+
+2.List=<ul><li>{2.1.sec}{;} {and}</li><li>{2.2.sec}.</ul>
+
+3.sec={3.1.Sen} {3.2.Sen} {3.3.Sen} 
+
+
+
