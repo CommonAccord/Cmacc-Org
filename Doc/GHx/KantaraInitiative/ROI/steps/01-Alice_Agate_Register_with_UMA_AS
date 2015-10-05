@@ -1,0 +1,15 @@
+P1.xSignature=xANDREA ANG
+
+P1.Sign.YMD=August 3, 2014
+
+P2.xSignature=xALICE
+
+P2.Sign.YMD=August 4, 2014
+
+P1.=[U/id/agate_health_systems]
+
+P2.=[GHx/KantaraInitiative/ROI/id/Alice]
+
+=[GHx/KantaraInitiative/ROI/ppr/General_Library]
+
+DocBody={Register_with_UMA_AS}

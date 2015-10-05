@@ -1,0 +1,167 @@
+Model.Root={DocBody}<br><br>{EntityTable}
+
+DocBody={AuthorizationForm}
+
+EntityTable={H.Heading}{MCU.Table.WithTitle}
+
+AuthorizationForm={H.Heading}{Form}
+
+hx=h5
+site-=<ol><li>
+-site-=</li><li>
+-site=</li></ol>
+
+Form=<ol><li>{Patient}</li><li>{Transferee}</li><li>{Transferor}</li><li>{Info}</li><li>{Delivery}</li><li>{Purpose}</li><li>{Authorize}</li></ol><br>{Sign.Block}
+
+
+
+Patient=<b>Patient</b><ol><li><b>Name:</b> {P2.Name.Full}</li><li><b>Maiden or Other Name:</b> {P2.Name.Maiden/Other}</li><li><b>Date of Birth:</b> {P2.DOB}</li><li><b>Address:</b> {P2.Addr.1,2}</li><li><b>Telephone:</b> {P2.Phone}</li><li><b>Email address:</b> {P2.Email}</li><li><b>Medical Record Number:</b> {P2.MedicalRecordNumber}</li></ol>
+
+Transferee=<b>Person To Whom Information Will be Sent:</b><ol><li><b>Name:</b> {P3.Name.Full}</li><li><b>Address:</b> {P3.Addr.1,2}</li><li><b>Phone:</b> {P3.Phone}</li></ol>
+
+Transferor=<b>Person Who Will Disclose Information:</b><ol><li>{P1.Site}</li></ol>
+
+Specify the site
+//P1.Site={P1.Site.Select}
+
+P1.Site.Select=Select {P1.Site } :{site-} 168.Site: {168.Site }{-site-}68.Site: {68.Site }{-site-}WhitePlains.Site: {WhitePlains.Site }{-site-}William.Site: {William.Site }{-site}
+
+
+Info=<b>Information to be released:</b><ol><li>{Info.Time}</li><li>{Info.Source}</li><li>{Info.Report}</li><li>{Info.Sensitive}</li></ol>
+
+Info.Time=<b>Period:</b> {Info.Time.Begin.YMD} to:  {Info.Time.End.YMD}
+
+Info.Source=<b>Department:</b> {Info.Source.List}
+Info.Source.List={Info.Source.List.Select}
+Info.Source.List.Select={Info.Source.List } Select: {Source.Admission } Hospital Admission, {Source.Emergency } Emergency Department, {Source.Surgery } Ambulatory Surgery, {Source.Outpatient } Outpatient
+
+Source.Admission=Hospital Admission
+Source.Emergency=Emergency Department
+Source.Surgery=Ambulatory Surgery
+Source.Outpatient=Outpatient
+
+Info.Report=<b>Report Types</b>:  {Info.Report.List}
+
+Info.Report.List={Info.Report.List.Select}
+
+Info.Report.List.Select={Info.Report.List } Select : {ListOfAvailableInfo } ListOfAvailableInfo, {Lab } Lab tests, {Radiology } Radiology Reports, {Operative } Operative Reports, {Discharge } Discharge Summary, etc.)
+
+ListOfAvailableInfo=The list of information that {P1.Handle} has that may be disclosed.
+Lab=Lab tests
+Radiology=Radiology Reports
+Operative=Operative Reports
+Discharge=Discharge Summary
+
+Info.Sensitive=<b>Especially Sensitive Information</b>: {Info.Sensitive.List}
+
+Info.Sensitive.List={Info.Sensitive.List.Select}
+
+Info.Sensitive.List.Select={Info.Sensitive.List } Select: {Alcohol } Alcohol/Drug Treatment  {HIV } HIV/AIDS Related Information {MentalHealth } Mental Health Treatment (except psychotherapy notes) {Genetic } Genetic Testing Information
+
+Alcohol=Alcohol/Drug Treatment
+
+HIV=HIV/AIDS Related Information
+
+MentalHealth=Mental Health Treatment (except psychotherapy notes)
+
+Genetic=Genetic Testing Information
+
+Delivery=<b>Format of Delivery</b><ol><li>{Delivery.Format}</li><li>{Delivery.Account}</li></ol>
+
+Delivery.Format=<b>Format</b>: {Delivery.Format.List}
+
+Delivery.Format.List={Delivery.Format.List.Select}
+
+Delivery.Format.List.Select={Delivery.Format.List } Select:= {CD } CD/DVD {Electronic } Electronic Delivery
+
+CD=CD/DVD
+
+Electronic=Electronic Delivery
+
+
+Delivery.Account=<b>{P2.Account}</b> (Patients with an active {P2.Account} account can request electronic delivery via secure web patient portal at no cost. Please confirm and initial below: <ul><li>I have an active {P2.Account} account and understand the medical record(s) I requested will be sent to {P2.Account} account;</li><li>If my medical record(s) cannot be delivered to {P2.Account} account it will be mailed to the above-stated address on CD/DVD</li></ul>{Delivery.Account.Confirm}
+
+
+Purpose=<b>Purpose:</b> The purpose(s) for which disclosure is authorized (check where applicable): {Purpose.List}
+Purpose.List={Purpose.List.Select}
+
+Purpose.List.Select={Purpose.List } Select: {Purpose.Request } Individual's request {Purpose.Care } Medical Care {Purpose.Insurance } Insurance {Purpose.Immunization } Immunization  {Purpose.Legal } Legal {Purpose.Other }
+
+Purpose.Request=Individual's request
+Purpose.Care=Medical Care
+Purpose.Insurance=Insurance
+Purpose.Immunization=Immunization
+Purpose.Legal=Legal
+Purpose.Other=Describe {Describe Purpose}
+
+
+Authorize=<b>Authorization:</b><br> I, or my authorized representative, request that health information regarding my care and treatment at {P1.Handle} be disclosed as described on this form. I understand that:<ul><li>I may inspect and/or receive a copy of the information described on this Authorization by completing this form and signing below.</li><li>Providers are permitted to charge reasonable fees to recover costs for inspections and/or copying.</li><li>Treatment and payment will not be conditional on whether you sign this authorization. Signing is voluntary, however if you refuse to sign {P1.Handle} will not release your records.</li><li>By my specifically authorizing the release of HIV/AIDS related alcohol or drug treatment, or mental health treatment information that the recipient is prohibited from re-disclosing such information without my authorization unless permitted to do so under federal or state law. If I experience discrimination because of the release or disclosure of HIV-related information, I may contact {HIV.Complaint.Contact}. These agencies are responsible for protecting my rights.</li><li>Alcohol/drug treatment-related information or confidential HIV/AIDS related information released through this form must be accompanied by the required statements regarding prohibition of re-disclosure.</li><li>I may revoke this authorization at any time by providing written notice to {P1.Handle} except to the extent that action has already been taken based on this authorization.</li><li>I understand that this Authorization will expire on: Date {Expire.YMD} (provide date if less than 1 year) or 1 year after being signed.</li></ul>
+
+HIV.Complaint.Contact=the New York State Division of Human Rights at (212) 480-2493 or the New York City Commission of Human Rights at (212) 306-7450
+
+Sign.Block=<b>Signature</b> <br>{P2.Name.Full}: {P2.xSignature} {P2.Representative}<br>{P2.Sign.YMD}<br>Witness or Notary {P2.Witness.Name.Full} {P2.Witness.xSignature} 
+
+P2.Representative=<br>Patient/personal representative (e.g., legal guardian) <br>{P2.Rep.Name.Full}: <br>{P2.Rep.xSignature}<br>Relationship to patient:<br> {P2.Rep.Relationship}<br>
+
+H.Heading=<h5>{Heading}</h5>
+
+P2.Account=myNYP.org
+
+P1.Handle=NYP
+
+Heading=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION/MEDICAL RECORDS
+MCU.Table.WithTitle=<table><tr><td><center><b>{MCU.Title}</b></center></td></tr><tr><td width="25%" valign="top">{MCU.Heading.td}</td></tr><tr><td width="25%" valign="top">{MCU.List}</td></tr></table>
+
+MCU.Table=<table><tr><td>{MCU.Heading.td}</td></tr><tr><td width="25%" valign="top">{MCU.List}</td></tr></table>
+
+MCU.List={MCU.List.All}
+
+MCU.List.All={MCU.168.td}</td></tr><tr><td width="25%" valign="top">{MCU.68.td}</td></tr><tr><td width="25%" valign="top">{MCU.WhitePlains.td}</td></tr><tr><td width="25%" valign="top">{MCU.William.td}
+
+MCU.Title=MEDICAL CORRESPONDENCE UNITS
+
+MCU.Heading.td=SITE</td><td width="25%" valign="top">MAILING ADDRESS</td><td width="25%" valign="top">IN PERSON ADDRESS</td><td width="25%" valign="top">TELEPHONE NUMBER
+
+MCU.168.td={168.Site}</td><td width="25%" valign="top">{168.Mail}</td><td width="25%" valign="top">{168.Foot}</td><td width="25%" valign="top">{168.Phone}
+
+168.Site=NewYork-Presbyterian Hospital / Columbia University Medical Center / Morgan Stanley Children's Hospital of NewYork-Presbyterian Hospital (CHONY) / The Allen Hospital (TAH)
+168.Mail=622 West 168th Street<br>Medical Correspondence Unit<br>New York, NY 10032
+168.Foot=177 Fort Washington Avenue<br>Milstein Lobby<br>New York, NY 10032
+168.Phone=(212) 305-3270
+
+MCU.68.td={68.Site}</td><td width="25%" valign="top">{68.Mail}</td><td width="25%" valign="top">{68.Foot}</td><td width="25%" valign="top">{68.Phone}
+
+68.Site=NewYork-Presbyterian Hospital / Weill Cornell Medical Center
+68.Mail=525 East 68th Street<br>Medical Correspondence Unit<br>Box 126<br>New York, NY 10065-4879
+68.Foot=525 East 68th Street<br>Room P-04<br>New York, NY 10065-4879
+68.Phone=(212) 746-0530
+
+MCU.WhitePlains.td={WhitePlains.Site}</td><td width="25%" valign="top">{WhitePlains.Mail}</td><td width="25%" valign="top">{WhitePlains.Foot}</td><td width="25%" valign="top">{WhitePlains.Phone}
+
+WhitePlains.Site=NewYork-Presbyterian Hospital / Westchester Division
+WhitePlains.Mail=21 Bloomingdale Road<br>Medical Correspondence Unit<br>Hall H, Room 006<br>White Plains, NY 10605
+WhitePlains.Foot=21 Bloomingdale Road<br>Main Lobby - See Security<br>White Plains, NY 10605
+WhitePlains.Phone=(914) 997-5725
+
+MCU.William.td={William.Site}</td><td width="25%" valign="top">{William.Mail}</td><td width="25%" valign="top">{William.Foot}</td><td width="25%" valign="top">{William.Phone}
+
+William.Site=NewYork-Presbyterian Hospital / Lower Manhattan
+William.Mail=170 William Street<br>Medical Correspondence Unit<br>Room M92<br>New York, NY 10038
+William.Foot=170 William Street<br>Room M92<br>New York, NY 10038
+William.Phone=(212) 312-5121 and (212) 312-5122
+
+table-=<table>
+
+-table=</table>
+
+ttr-=<table><tr><td>
+tr-=<tr><td width="25%" valign="top">
+-tr-=</td></tr><tr><td width="25%" valign="top">
+-tr=</td></tr>
+-ttr=</td></tr></table>
+-td-=</td><td width="25%" valign="top">
+td-=<td width="25%" valign="top">
+ol-=<ol><li>
+-li-=</li><li>
+-ol=</li></ol>
+                      

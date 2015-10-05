@@ -1,0 +1,19 @@
+Name.Full=Bob's Family Medical Clinic
+
+Handle=UMA Client
+
+=[core/class/ID_Entity]
+
+=[core/at/USA/MA/Middlesex/Watertown/Geo]
+
+Addr.1=123 St. Stephen Lane
+
+Phone=617.666.7777
+
+Sign.Name.Full=Dr. Robert Welch
+
+Sign.Title=Owner
+
+
+                
+        

@@ -1,0 +1,28 @@
+CD.P1.=[GHx/KantaraInitiative/ROI/id/NYP]
+
+CD.P2.=[GHx/KantaraInitiative/ROI/id/Alice]
+
+CD.P3.=[GHx/KantaraInitiative/ROI/id/Agate]
+
+=[GHx/KantaraInitiative/ROI/ppr/General_Library]
+
+DocBody={CD.DocBody}
+
+CD.P1.Site={CD.168.Site}
+
+CD.Info.Source.List={CD.Source.Admission}
+ 
+CD.Info.Time.Begin.YMD=July 1, 2014
+
+CD.Info.Time.End.YMD=August 31, 2014
+
+CD.Info.Report.List={CD.ListOfAvailableInfo}
+
+CD.Info.Sensitive.List=NONE
+
+CD.Delivery.Format.List={CD.Electronic}
+
+CD.Purpose.List ={CD.Purpose.Insurance}
+
+CD.Expire.YMD=September 30, 2014
+                            
