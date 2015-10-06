@@ -10,60 +10,7 @@ Title=YOUR RIGHTS
 
 0=When it comes to your health information, you have certain rights.  This {booklet} explains your rights and some of our responsibilities to help you.
 
-1.Title=When it comes to your health information, you have certain rights.
-
-1.0=This section explains your rights and some of our responsibilities to help you.
-
-1.1.Title=Get an electronic or paper copy of your medical record
-
-1.1.1=You can ask to see or get an electronic or paper copy of your medical record and other health information we have about you. Ask us how to do this.
-
-1.1.2=We will provide a copy or a summary of your health in formation, usually within 30 days of your request. We may charge a reasonable, cost-based fee.
-
-1.1.3=We urge you to use the {P2.Domain.Com} patient portal to see your health information.
-
-
-1.2.Title=Ask us to correct your medical record
-
-1.2.1=You can ask us to correct health information about you that you think is incorrect or incomplete. Ask us how to do this.
-
-1.2.2=We may say "no" to your request, but we'll tell you why in writing within 60 days.
-
-1.3.Title=Request confidential communications
-
-1.3.1=You can ask us to contact you in a specific way (for example, home or office phone) or to send mail to a different address.
-
-1.3.2=We will say "yes" to all reasonable requests.
-
-1.4.Title=Ask us to limit what we use or share
-
-1.4.1=You can ask us not to use or share certain health information for treatment, payment, or our operations. We are not required to agree to your request, and we may say "no" if it would affect your care.
-
-1.4.2=If you pay for a service or health care item out-of-pocket in full, you can ask us not to share that Information for the purpose of payment or our operations with your health insurer. We will say "yes" unless a law requires us to share that information
-
-1.5.Title=Get a list of those with whom we've shared Information
-
-1.5.1=You can ask for a list (accounting) of the times we've shared your health information for six years prior to the date you ask, who we shared it with, and why.
-
-1.5.2=We will include all the disclosures except for those about treatment, payment, and health care operations, and certain other disclosures (such as any you asked us to make). We'll provide one accounting a year for free but will charge a reasonable, cost-based fee if you ask for another one within 12 months.
-
-1.6.Title=Get a copy of this privacy notice
-
-1.6.1=You can ask for a paper copy of this notice at any time, even if you have agreed to receive the notice electronically. We will provide you with a paper copy promptly.
-
-1.7.Title=Choose someone to act for you
-
-1.7.1=If you have given someone medical power of attorney or if someone is your legal guardian, that person can exercise your rights and make choices about your health information.
-
-1.7.2=We will make sure the person has this authority and can act for you before we take any action.
-
-1.8.Title=File a complaint if you feel your rights are violated
-
-1.8.1=You can complain if you feel we have violated your rights by contacting us using {P1.Privacy.Email} or by calling {212-746-1644}.
-
-1.8.2=You can file a complaint with the {P91.Name.Full} by sending a letter to {P91.Addr.1,2}, calling {P91.Phone}, or by visiting the following website {P91.Domain.Com/Complaints}
-
-1.8.3=We will not retaliate against you for filing a complaint
+1.=[GHx/KantaraInitiative/ROI/NYP/Sec/PatientRights_v0.md]
 
 2.Title=For certain health information, you can tell us your choices about what we share.
 
@@ -216,7 +163,7 @@ Title=YOUR RIGHTS
 
 Model.Root={DocBody}
 
-DocBody=<center><b>{P1.Name.Full}-{P2.Name.Full}<br>{Title}</b></center><br>{0}<ol><li>{1}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li><li>{9}</li><li>{10}</li></ol>{11}
+DocBody=<center><b>{P1.Name.Full}-{P2.Name.Full}<br>{Title}</b></center><br>{0}<ol><li>{1.Sec}</li><li>{2}</li><li>{3}</li><li>{4}</li><li>{5}</li><li>{6}</li><li>{7}</li><li>{8}</li><li>{9}</li><li>{10}</li></ol>{11}
 
 st-=<b>
 -st0-=</b><br>
@@ -226,23 +173,6 @@ st-=<b>
 -ul=</li></ul>
 -cont-=<br>
 
-1={st-}{1.Title}{-st0-}{1.0}{-0ul-}{1.1}{-li-}{1.2}{-li-}{1.3}{-li-}{1.4}{-li-}{1.5}{-li-}{1.6}{-li-}{1.7}{-li-}{1.8}{-ul}
-
-1.1={st-}{1.1.Title}{-stul-}{1.1.1}{-li-}{1.1.2}{-li-}{1.1.3}{-ul}
-
-1.2={st-}{1.2.Title}{-stul-}{1.2.1}{-li-}{1.2.2}{-ul}
-
-1.3={st-}{1.3.Title}{-stul-}{1.3.1}{-li-}{1.3.2}{-ul}
-
-1.4={st-}{1.4.Title}{-stul-}{1.4.1}{-li-}{1.4.2}{-ul}
-
-1.5={st-}{1.5.Title}{-stul-}{1.5.1}{-li-}{1.5.2}{-ul}
-
-1.6={st-}{1.6.Title}{-stul-}{1.6.1}{-ul}
-
-1.7={st-}{1.7.Title}{-stul-}{1.7.1}{-li-}{1.7.2}{-ul}
-
-1.8={st-}{1.8.Title}{-stul-}{1.8.1}{-li-}{1.8.2}{-li-}{1.8.3}{-ul}
 
 2={st-}{2.Title}{-st0-}{2.0}{-0ul-}{2.1}{-li-}{2.2}{-li-}{2.3}{-ul}
 
