@@ -1,6 +1,6 @@
 =[U/class/ID_He]
 
-=[U/at/USA/MA/Middlesex/Somerville/Geo]			
+=[U/at/US/MA/Middlesex/Somerville/Geo]			
 
 Name.First=James
 

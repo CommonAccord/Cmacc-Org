@@ -18,7 +18,7 @@ Name.Maiden/Other=None
 
 Addr.Type=mailing
 
-Mail.=[U/at/USA/MA/Middlesex/Cambridge/Broadway/1/Geo]
+Mail.=[U/at/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
 
 Mail.Addr.Suite=14th Floor
 
