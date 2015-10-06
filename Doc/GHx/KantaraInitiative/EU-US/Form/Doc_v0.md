@@ -24,17 +24,19 @@
 
 3.sec=Any notice shall be delivered by ....
 
-4.Ti=Disputes
+4.=[GHx/KantaraInitiative/EU-US/Sec/Revoke_v0.md]
 
-4.sec=Any dispute that may arise between us shall ....
+5.Ti=Disputes
 
-5.Ti=Definitions
+5.sec=Any dispute that may arise between us shall ....
 
-5.sec=<ol><li>{Destroy.def}<li>{I.def}<li>{Leak.def}<li>{Personal_Information.def}<li>{Specified_Personal_Information.def}<li>{Specified_Purpose.def}<li>{US.def}<li>{You.def}</ol>
+6.Ti=Definitions
+
+6.sec=<ol><li>{Destroy.def}<li>{I.def}<li>{Leak.def}<li>{Personal_Information.def}<li>{Specified_Personal_Information.def}<li>{Specified_Purpose.def}<li>{US.def}<li>{You.def}</ol>
 
 =[Z/Agt/Agt.md]
 
-=[Z/ol/5]
+=[Z/ol/6]
   
 
 /=Definitions:
@@ -74,6 +76,8 @@ Specified_Purpose=<font color="green">Specified Purpose</font>
 US=<font color="green">US</font>
 
 You=<font color="green">You</font>
+
+Your=<font color="green">Your</font>
 
 P1.Handle={I}
 
