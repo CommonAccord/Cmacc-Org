@@ -8,7 +8,7 @@ Doc.Title=Consent to use of {Specified_Personal_Information}
 
 1.2.sec=use it only for {Specified_Purposes},
 
-1.3.sec=inform me of any {Leak}, and 
+1.3.sec=inform {me} of any {Leak}, and 
 
 1.4.sec={Destroy} it when no longer needed for the {Specified_Purposes} or {I} ask {You} to.
 
