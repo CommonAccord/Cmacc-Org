@@ -1,3 +1,5 @@
+Doc.Title=Consent to use of {Specified_Personal_Information}
+
 1.Ti=Limited Consent
 
 1.0.sec={I} consent to {You} taking the {Specified_Personal_Information} to the {US}.  {You} agree to:
@@ -24,13 +26,17 @@
 
 3.sec=Any notice shall be delivered by ....
 
-4.=[GHx/KantaraInitiative/EU-US/Sec/Revoke_v0.md]
+4.Sec={Revoke.Sec}
+
+Revoke.=[GHx/KantaraInitiative/EU-US/Sec/Revoke_v0.md]
 
 5.Ti=Disputes
 
 5.sec=Any dispute that may arise between us shall ....
 
-6.=[GHx/KantaraInitiative/EU-US/Sec/Definitions_v0.md]
+6.Sec={Def.Sec}
+
+Def.=[GHx/KantaraInitiative/EU-US/Sec/Definitions_v0.md]
 
 =[Z/Agt/Agt.md]
 
@@ -53,9 +59,15 @@ Specified_Personal_Information=<font color="green">Specified Personal Informatio
 
 Specified_Purpose=<font color="green">Specified Purpose</font>
 
+Note=Plural form of {Specified_Purpose}:
+
+Specified_Purposes=<font color="green">Specified Purposes</font>
+
 US=<font color="green">US</font>
 
 You=<font color="green">You</font>
+
+Note=Possessive form of {You}:
 
 Your=<font color="green">Your</font>
 

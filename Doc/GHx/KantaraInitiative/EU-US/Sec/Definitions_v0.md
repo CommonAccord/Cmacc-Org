@@ -1,7 +1,8 @@
-
 Ti=Definitions
 
 sec=<ol><li>{Destroy.def}<li>{I.def}<li>{Leak.def}<li>{Personal_Information.def}<li>{Specified_Personal_Information.def}<li>{Specified_Purpose.def}<li>{US.def}<li>{You.def}</ol>
+
+=[Z/ol/0]
 
 Destroy.def="{Destroy}" means ...
 
