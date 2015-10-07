@@ -1,18 +1,8 @@
 Doc.Title=Consent to use of {Specified_Personal_Information}
 
-1.Ti=Limited Consent
+1.Sec={Consent.Sec}
 
-1.0.sec={I} consent to {You} taking the {Specified_Personal_Information} to the {US}.  {You} agree to:
-
-1.1.sec=protect it,
-
-1.2.sec=use it only for {Specified_Purposes},
-
-1.3.sec=inform {me} of any {Leak}, and 
-
-1.4.sec={Destroy} it when no longer needed for the {Specified_Purposes} or {I} ask {You} to.
-
-1.=[Z/ol/s4]
+Consent.=[GHx/KantaraInitiative/EU-US/Sec/Consent_v0.md]
 
 2.Ti=Context
 
