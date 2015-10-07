@@ -74,3 +74,5 @@ Your=<font color="green">Your</font>
 P1.Handle={I}
 
 P2.Handle={You}
+
+P1.Addr.Type=home
