@@ -1,6 +1,6 @@
 =[Wx/org/genomicsandhealth/REWG/Demo/Consent_To_Study_US]
 
-Donor.=[U/id/alice]
+Donor.=[U/id/Alice]
 
 Clinician.=[U/id/alison_andrews]
 
@@ -16,4 +16,4 @@ Clinician.xSignature=xALISON ANDREWS
 
 Clinician.Sign.YMD=October 5, 2014
 
-Clinician.Confirm.CopyGivenToSubject!=YES!  
+Clinician.Confirm.CopyGivenToSubject!=YES!
