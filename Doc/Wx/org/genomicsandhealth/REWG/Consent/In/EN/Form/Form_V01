@@ -1,3 +1,66 @@
+Study.Inv1.Name.Full=
+
+Study.Org.Name.Full=
+
+Study.Funder.List.Name=
+
+Study.Contact.N,A=
+
+Study.Name.Full=
+
+Study.REB.Name.Full=
+
+Study.www.me.com=
+
+Study.Description=
+
+3.1.List =
+
+3.1.List.123.cl =
+
+Study.Duration.Expected=
+
+Study.PersonalData.Retained.Duration=
+
+5.1.sec =
+
+Study.PDO.Name.Full=
+
+9.2.1.Sen =
+
+Study.Contact.Phone=
+
+Study.Contact.Email=
+
+Study.Contact.Name.Full=
+
+Study.Ombuds.Name.Full=
+
+Study.Ombuds.Phone=
+
+Study.Ombuds.Email=
+
+ContactForFutureStudy.Answer =
+
+ContactForFutureCare.Answer =
+
+ContactForFutureCare.Yes =
+
+Donor.Email=
+
+Donor.xSignature=
+
+Donor.Sign.YMD=
+
+Clinician.xSignature=
+
+Clinician.Sign.YMD=
+
+Clinician.Confirm.CopyGivenToSubject!=
+
+
+WAS=2015/10/06 : 1444168437
+
 =[Wx/org/genomicsandhealth/REWG/Consent/All/Form/Outline_V01]
 4.3.1.Sen={4.3.1.1.Sen}
 
@@ -169,15 +232,7 @@ Framework.URL=www.commonaccord.org/GA4GH/REWG/Framework/V01
 
 8.3.4.Sen={m-}{Study.PDO.Name.Full}{-m} will notify you immediately in the event of a problem with privacy.
 
-9.Ti=Can I change my mind after I decide to participate?
-
-9.1.sec=You may choose whether or not you wish to take part in this study. You are also free to withdraw at any time from the project. If you withdraw, your data will no longer be used.  However, data that has already been used for research i.e. now part of a dataset or is already published cannot be destroyed or removed.   
-
-9.2.1.PhoneEmail=You can withdraw by telephone to {m-}{Study.Contact.Phone}{-m} or by email to {m-}{Study.Contact.Email}{-m}. 
-  
-9.2.1.Mail=You can withdraw by mail to {m-}{Study.Contact.N,A}{-m}. 
-
-9.2.Cont=You will also receive a letter confirming your withdrawal. 
+9.=[Wx/org/genomicsandhealth/REWG/Consent/In/EN/Sec/Withdraw_v0.md]
 
 10.Ti=How can I find out about the results of the research?  
 
