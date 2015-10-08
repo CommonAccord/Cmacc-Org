@@ -1,10 +1,10 @@
-Doc.Title=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
+Ti=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
 
-1.sec={URL}
+1.sec={RS.URL}
 
-2.sec={Resource_Owner}, {RS.Name} Account Number: {AS.RO.Account#}
+2.sec={RO.Name} - {RS.Name} Bilateral Account Number: {RO-RS.Account#}
 
-3.sec={Authorization_Agent}
+3.sec={RO.AuthorizationAgent}
 
 4.0.sec=Protected Resource
 
@@ -16,7 +16,7 @@ Doc.Title=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
 
 4.=[Z/ol/s3]
 
-5.sec=This is a summary of the formal agreement. Detailed Terms and Conditions are {DTC.Link}. 
+5.sec=This is a summary of the formal agreement. Detailed Terms and Conditions are {RS.DTC.Link}. 
 
 6.sec={EffectiveDate.YMD}
 
@@ -24,5 +24,6 @@ Doc.Title=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
 
 SignatureLine=Signature: 		I have read the detailed T&Cs  <b><u>{RO.Agree.Y/N}</u></b>
 
+Root={Sec}
 
 =[Z/ol/s6]
