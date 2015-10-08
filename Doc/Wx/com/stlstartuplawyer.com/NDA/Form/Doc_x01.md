@@ -10,7 +10,7 @@ Doc.Title=MUTUAL NONDISCLOSURE AGREEMENT
 
 0.5.sec=In consideration of the premises and mutual covenants, the parties agree as follows:
 
-0.=[Z/ol/s5]
+0.=[Z/paras/s5]
 
 1.Ti=Definition of Confidential Information
 
@@ -38,7 +38,7 @@ Doc.Title=MUTUAL NONDISCLOSURE AGREEMENT
 
 3.7.sec=(g)	is disclosed pursuant to the order or requirement of a court, administrative agency, or other governmental body; provided, however, that Recipient will provide prompt notice of such court order or requirement to Discloser to enable Discloser to seek a protective order or otherwise prevent or restrict such disclosure.
 
-3.=[Z/ol/s7]
+3.=[Z/ol-a/s7]
 
 4.Ti=Return of Materials
 
@@ -86,9 +86,11 @@ Doc.Title=MUTUAL NONDISCLOSURE AGREEMENT
 
 90.3.sec={P1.Sign.Block}<br>{P2.Sign.Block}
 
-90.=[Z/ol/s3]
+90.=[Z/paras/s3]
 
 =[Z/ol/13]
+
+DocBody={Doc}
 
 COMPANY		   COUNTERPARTY
 	
