@@ -2,7 +2,7 @@ Doc.Title=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
 
 1.sec={URL}
 
-2.sec={Resource_Owner} {NYP#}
+2.sec={Resource_Owner}, {AS.Name} Account Number: {AS.RO.Account#}
 
 3.sec={Authorization_Agent}
 
@@ -12,7 +12,7 @@ Doc.Title=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
 
 4.2.sec={MedRec.Date.End.YMD}
 
-4.3.sec=Select: {MR.HA}, {MR.ED}, {MR.AS}, {MR.OP}
+4.3.sec=Medical Record Types:  {MedRec.Types}
 
 4.=[Z/ol/s3]
 
@@ -21,5 +21,8 @@ Doc.Title=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
 6.sec={EffectiveDate.YMD}
 
 90.sec={SignatureLine}
+
+SignatureLine=Signature: 		I have read the detailed T&Cs  <b><u>{RO.Agree.Y/N}</u></b>
+
 
 =[Z/ol/s6]
