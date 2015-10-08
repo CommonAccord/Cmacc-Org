@@ -2,7 +2,7 @@ Doc.Title=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
 
 1.sec={URL}
 
-2.sec={Resource_Owner}, {AS.Name} Account Number: {AS.RO.Account#}
+2.sec={Resource_Owner}, {RS.Name} Account Number: {AS.RO.Account#}
 
 3.sec={Authorization_Agent}
 
