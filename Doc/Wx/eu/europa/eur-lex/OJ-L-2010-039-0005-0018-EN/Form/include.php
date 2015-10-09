@@ -1,0 +1,1 @@
+NOTE: the pdf is here for archival purposes and can be seen at the Github repo.  Please don't click on it because the system will try to parse it into fields.  It 1.2 megs of whatever. 
