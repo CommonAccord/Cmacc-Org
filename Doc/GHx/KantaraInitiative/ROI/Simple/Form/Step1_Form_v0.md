@@ -2,7 +2,7 @@ Ti=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
 
 1.sec={RS.URL}
 
-2.sec={RO.Name} - {RS.Name} Bilateral Account Number: {RO-RS.Account#}
+2.sec={RO.Name.Full} - {RS.Name.Full} Bilateral Account Number: {RO-RS.Account#}
 
 3.sec={RO.AuthorizationAgent}
 

@@ -18,6 +18,8 @@ Addr.Type=temporary
 
 Twitter.Followers=300
 
+AuthorizationAgent=github.com/agropper/DigitalMe/AuthorizationAgent.md
+
 Phone=
 
 Email=james.g.hazard@gmail.com
@@ -30,4 +32,4 @@ Name.Maiden/Other=None
 
 DOB=January 13, 1953
 
-MedicalRecordNumber=MR-1234556			
+MedicalRecordNumber=MR-1234556
