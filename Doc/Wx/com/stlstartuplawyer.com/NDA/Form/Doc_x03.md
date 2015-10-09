@@ -69,17 +69,11 @@ Note=No title on the introduction:
 
 9.sec=To the extent that any {Confidential_Information} provided or made available may include material subject to the attorney-client privilege, work product doctrine or any other applicable privilege concerning pending or threatened legal proceedings or governmental investigations, {Recipient} and {Discloser} understand and agree that they have a commonality of interest with respect to such matters.  It is their desire and mutual understanding that the sharing of material is not intended to, and will not, waive or diminish in any way the confidentiality of the material or its continued protection under the attorney-client privilege, work product doctrine or other applicable privilege.  All {Confidential_Information} provided or made available by {Discloser} that is entitled to protection under the attorney-client privilege, work product doctrine or other applicable privilege will remain entitled to that protection under these privileges, this {Agreement}, and under the joint defense doctrine.  Nothing in this {Agreement} obligates {Discloser} to reveal material subject to the attorney-client privilege, work product doctrine or any other applicable privilege.
 
-10.Ti=Term
+10.=[Wx/com/stlstartuplawyer.com/NDA/Sec/Term_v0.md]
 
-10.sec=The foregoing commitments of each party will survive any termination of the {Relationship} between the parties, and will continue for a period terminating five (5) years from the date on which {Confidential_Information} is last disclosed under this {Agreement}. 
+11.=[Wx/com/stlstartuplawyer.com/NDA/Sec/IndependentContractor_v0.md]
 
-11.Ti=Independent Contractors
-
-11.sec=The parties are independent contractors, and nothing contained in this {Agreement} will be construed to constitute the parties as partners, joint venturers, co-owners or otherwise as participants in a joint or common undertaking.
-
-12.Ti=Remedies
-
-12.sec=Each party’s obligations set forth in this {Agreement} are necessary and reasonable in order to protect {Discloser} and its business.  Due to the unique nature of {Discloser}’s {Confidential_Information}, monetary damages may be inadequate to compensate {Discloser} for any breach by {Recipient} of its covenants and agreements set forth in this {Agreement}.  Accordingly, the parties each agree and acknowledge that any violation or threatened violation may cause irreparable injury to {Discloser}.  In addition to any other remedies that may be available, in law, in equity or otherwise, {Discloser} will be entitled to obtain injunctive relief against the threatened breach of this {Agreement} or the continuation of any breach by {Recipient}. 
+12.=[Wx/com/stlstartuplawyer.com/NDA/Sec/Remedy_v0.md]
 
 13.=[Wx/com/stlstartuplawyer.com/NDA/Sec/Misc_v0.md]
 
