@@ -19,9 +19,9 @@ P1.Handle={Company}
 P2.Handle={Counterparty}
 
 
-0.1.sec=This {Doc.Title} (this “{Agreement}”) is made as of {EffectiveDate.YMD}, by and between {P1.N,E,A} (the “{Company}”), and {P2.N,E,A} (“{Counterparty}”).  Each party has disclosed and/or may further disclose its {Confidential_Information} (as defined below) to the other in connection with the {Relationship} (as defined below) pursuant to the terms and conditions of this {Agreement}.  The term “{Discloser}” will refer to the {Company} whenever the context refers to the {Company}’s {Confidential_Information} being disclosed to {Counterparty}, which is referred to as “{Recipient}” in that context.  Conversely, the term “{Discloser}” will refer to {Counterparty} whenever the context refers to {Counterparty}’s {Confidential_Information} being disclosed to the {Company}, which is referred to as “{Recipient}” in that context. 
+0.1.=[Wx/com/stlstartuplawyer.com/NDA/Sec/ThisAgreement_v0.md]
 
-0.2.sec=RECITALS
+0.2.sec=<br><b>RECITALS</b><br>
 
 0.3.sec=The parties wish to {Purpose.Description} (the “{Relationship}”) in connection with which {Discloser} has disclosed and/or may further disclose its {Confidential_Information} (as defined below) to {Recipient}.  This {Agreement} is intended to protect {Discloser}’s {Confidential_Information} (including {Confidential_Information} previously disclosed to {Recipient}) against unauthorized use or disclosure.
 
