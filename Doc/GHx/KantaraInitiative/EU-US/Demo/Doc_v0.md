@@ -6,7 +6,7 @@ Consent.EndDate.YMD=November 6, 2015
 
 Because.secs={I} want to explore the services that {You} offer.
 
-P1.=[U/id/tw/mdangear.md]
+P1.=[U/id/TW/mdangear.md]
 
 P2.=[U/id/fabulous_express_inc]
 
