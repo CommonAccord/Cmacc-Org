@@ -12,27 +12,27 @@ Ti=Appendix 1 to the Standard Contractual Clauses
 
 1.Ti=Data exporter
 
-1.sec=The data exporter is (please specify briefly your activities relevant to the transfer): {DEO.Activities}.
+1.sec=The data exporter is (please specify briefly your activities relevant to the transfer): <b>{DEO.Activities}</b>.
 
 2.Ti=Data importer
 
-2.sec=The data importer is (please specify briefly activities relevant to the transfer): {DIO.Activities}
+2.sec=The data importer is (please specify briefly activities relevant to the transfer): <b>{DIO.Activities}</b>
 
 3.Ti=Data subjects
 
-3.sec=The personal data transferred concern the following categories of data subjects (please specify):  {PD.CategoriesOfDataSubjects}
+3.sec=The personal data transferred concern the following categories of data subjects (please specify):  <b>{PD.CategoriesOfDataSubjects}</b>
 
 4.Ti=Categories of data
 
-4.sec=The personal data transferred concern the following categories of data (please specify): {PD.CategoriesOfData}
+4.sec=The personal data transferred concern the following categories of data (please specify): <b>{PD.CategoriesOfData}</b>
 
 5.Ti=Special categories of data (if appropriate)
 
-5.sec=The personal data transferred concern the following special categories of data (please specify):  {PD.SpecialCategoriesOfData}
+5.sec=The personal data transferred concern the following special categories of data (please specify):  <b>{PD.SpecialCategoriesOfData}</b>
 
 6.Ti=Processing operations
 
-6.sec=The personal data transferred will be subject to the following basic processing activities (please specify): {PD.BasicProcessingActivities}
+6.sec=The personal data transferred will be subject to the following basic processing activities (please specify): <b>{PD.BasicProcessingActivities}</b>
 
 =[Z/ol-none/6]
 

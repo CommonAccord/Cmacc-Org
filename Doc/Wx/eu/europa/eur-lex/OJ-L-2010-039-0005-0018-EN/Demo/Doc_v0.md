@@ -6,7 +6,7 @@ DEO.Sign.Title=Manager
 
 DIO.=[U/id/acme_incorporated]
 
-DIO.Sign.=[U/id/andrea_ang
+DIO.Sign.=[U/id/andrea_ang]
 
 =[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Doc_v0.md]
 
@@ -34,4 +34,14 @@ PD.SpecialCategoriesOfData=Medical histories.
 
 PD.BasicProcessingActivities=Schedule management, warranty status and fulfillment.
 
-DIO.SecurityMeasures=Transmission is in encrypted format, handling in US is on our own servers.  Personnel have signed NDAs.
+NOTE=SECURITY REGIME:
+
+SecurityRegime.=[GHx/KantaraInitiative/EU-US/SecurityProfile/Type1/Form/Doc_v0.md]
+
+DIO.SecurityMeasures=<font color="orange">{SecurityRegime.Sec}</font>
+
+ApprovedSoftwareStack.List={SecurityRegime.APS.Alt1.Sec}
+
+Audit.Time.Interval=Bimonthly
+
+Audit.Organization.=[U/id/solomon_shirley]
