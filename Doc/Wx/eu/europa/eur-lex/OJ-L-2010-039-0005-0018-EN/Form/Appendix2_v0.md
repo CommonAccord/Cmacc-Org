@@ -1,6 +1,6 @@
 Ti=Appendix 2 to the Standard Contractual Clauses
 
-0.1.sec=This Appendix forms part of the Clauses and must be completed and signed by the parties.
+0.sec=This Appendix forms part of the Clauses and must be completed and signed by the parties.
 
 1.Ti=Description of the technical and organisational security measures implemented by the data importer in accordance with Clauses 4(d) and 5(c) (or document/legislation attached):
 

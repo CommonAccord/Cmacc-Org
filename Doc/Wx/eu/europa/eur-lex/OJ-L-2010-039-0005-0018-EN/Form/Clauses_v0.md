@@ -208,7 +208,7 @@ DIO.=[Z/paras/s7]
 
 9.Ti=Governing law
 
-9.sec=The Clauses shall be governed by the law of the Member State in which the data exporter is established, namely {DEO.Addr.Nation}
+9.sec=The Clauses shall be governed by the law of the Member State in which the data exporter is established, namely {DEO.Addr.Nation}.
 
 =Clause 10
 
@@ -224,7 +224,7 @@ DIO.=[Z/paras/s7]
 
 11.2.sec=The prior written contract between the data importer and the sub-processor shall also provide for a third-party beneficiary clause as laid down in Clause 3 for cases where the data subject is not able to bring the claim for compensation referred to in paragraph 1 of Clause 6 against the data exporter or the data importer because they have factually disappeared or have ceased to exist in law or have become insolvent and no successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law. Such third-party liability of the sub-processor shall be limited to its own processing operations under the Clauses.
 
-11.3.sec=The provisions relating to data protection aspects for sub-processing of the contract referred to in paragraph 1 shall be governed by the law of the Member State in which the data exporter is established, namely {DEO.Addr.Nation}
+11.3.sec=The provisions relating to data protection aspects for sub-processing of the contract referred to in paragraph 1 shall be governed by the law of the Member State in which the data exporter is established, namely {DEO.Addr.Nation}.
 
 11.4.sec=The data exporter shall keep a list of sub-processing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5(j), which shall be updated at least once a year. The list shall be available to the data exporter’s data protection supervisory authority.
 

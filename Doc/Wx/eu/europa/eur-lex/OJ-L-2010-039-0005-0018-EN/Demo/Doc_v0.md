@@ -8,7 +8,9 @@ DIO.=[U/id/acme_incorporated]
 
 DIO.Sign.=[U/id/andrea_ang]
 
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Doc_v0.md]
+NOTE=We select a hypothetical UK version of the Model Clauses (Member Countries may add protections.)
+
+=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/UK/Form/Doc_x00.md]
 
 DEO.OtherInformationToIdentify=N/A
 
