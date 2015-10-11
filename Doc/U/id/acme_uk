@@ -1,0 +1,33 @@
+=[U/class/ID_Entity]
+
+=[U/at/UK/London/Geo]
+
+Name.Full=Acme UK Limited
+
+www=acme.com.uk
+
+Email=info@acme.com.uk
+
+Entity=UK limited liability company
+
+Addr.Street.#=1
+
+Addr.Street=Upping Street
+
+Addr.Zip=E17 7LD
+
+NOTE=Kludge until we get addresses sorted out.
+
+Addr.ST=</i>
+
+Register.State=United Kingdom
+
+Phone=44.617.716.4536
+
+Fax=44.617.345.1234
+
+Addr.Type=principal business
+
+/Sign.=[U/id/priscilla_ang]
+
+Sign.Title=Manager

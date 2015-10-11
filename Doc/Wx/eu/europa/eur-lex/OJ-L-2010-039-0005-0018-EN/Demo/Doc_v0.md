@@ -1,3 +1,5 @@
+Note=This will render both an English language (with fake UK customizations) and the French language version, with the same data points.  Note that the English language completions are not translated into French, but you get the point.
+
 DEO.=[U/id/Acme_SARL.md]
 
 DEO.Sign.=[U/id/TW/mdangear.md]
@@ -10,7 +12,11 @@ DIO.Sign.=[U/id/andrea_ang]
 
 NOTE=We select a hypothetical UK version of the Model Clauses (Member Countries may add protections.)
 
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/UK/Form/Doc_x00.md]
+EN.=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/UK/Form/Doc_x00.md]
+
+FR.=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-FR/Form/Doc_v0.md]
+
+Model.Root=<ol><li><b>English Language:</b><br>{EN.Model.Root}<li><b>Français :</b><br>{FR.Model.Root}</ol>
 
 DEO.OtherInformationToIdentify=N/A
 

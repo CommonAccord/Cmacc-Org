@@ -22,11 +22,11 @@ Ti=UMA-Compliant Security Measures Type 1
 
 NOTE=The following links are not an endorsement of the content.  Indeed, they are an invitation to the community to analyze what is needed.  They provide some well-written starting points. 
 
-NDAModel.Link=<a href="http://new.commonaccord.org/index.php?action=doc&file=Wx/com/stlstartuplawyer.com/NDA/Form/Doc_x03.md">Wx/com/stlstartuplawyer.com/NDA/Form/Doc_x03.md</a>
+NDAModel.Link=<a href="/index.php?action=doc&file=Wx/com/stlstartuplawyer.com/NDA/Form/Doc_x03.md">Wx/com/stlstartuplawyer.com/NDA/Form/Doc_x03.md</a>
 
-SaaSAgt.Link=<a href="http://new.commonaccord.org/index.php?action=doc&file=Wx/com/ycombinator/Sales/Form/Order_TermsAndConditions_v0.md">Wx/com/ycombinator/Sales/Form/Order_TermsAndConditions_v0.md</a>
+SaaSAgt.Link=<a href="/index.php?action=doc&file=Wx/com/ycombinator/Sales/Form/Order_TermsAndConditions_v0.md">Wx/com/ycombinator/Sales/Form/Order_TermsAndConditions_v0.md</a>
 
-MSA.Link=<a href="http://new.commonaccord.org/index.php?action=source&file=Wx/com/gepower/MasterServiceAgreement/Form/Doc_v01.md">Wx/com/gepower/MasterServiceAgreement/Form/Doc_v01.md</a>
+MSA.Link=<a href="/index.php?action=doc&file=Wx/com/gepower/MasterServiceAgreement/Sec/PersonalData/Sec_v01.md">Wx/com/gepower/MasterServiceAgreement/Sec/PersonalData/Sec_v01.md</a>
 
 APS.Alt1.Sec=<font color="magenta">Lumux Secure Kernel (10.10.10), GNOW Bison 2.2.2, OAuf 1.2.3</font>
   
