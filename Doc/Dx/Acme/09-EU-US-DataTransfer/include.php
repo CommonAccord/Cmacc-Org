@@ -1,0 +1,1 @@
+This is a term sheet used in the agreements by Acme DE, FR, UK.  They are filed in the subs' folders.  You can find all of them by going to this file, then clicking on "Used By".  (It's a "graph," so no more lost documents.)

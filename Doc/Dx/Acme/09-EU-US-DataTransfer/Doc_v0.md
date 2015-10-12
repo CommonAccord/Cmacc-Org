@@ -1,10 +1,8 @@
-NOTE=This is a master data sheet.  It is used by the various European subs to make their forms.  See Acme_UK and Acme_FR.  Accordingly, it does not include a specific form of the Model Clauses (that is done at the subsidiary level).
+NOTE=This is a master data sheet.  It is used by the various European subs to make their forms.  See Acme_UK and Acme_FR.  Accordingly, it does not include a specific form of the Model Clauses (that is done at the subsidiary level).  German (DE) coming soon.  
 
 Note1=No info about the DEO because that will be provided by the sub.
 
 DIO.=[U/id/acme_incorporated]
-
-DIO.Sign.=[U/id/andrea_ang]
 
 NOTE=We select a hypothetical UK version of the Model Clauses (Member Countries may add protections.)
 

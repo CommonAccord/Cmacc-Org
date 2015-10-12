@@ -1,0 +1,35 @@
+=[U/class/ID_Entity]
+
+=[U/at/DE/Berlin/Geo]
+
+Name.Full=Acme Deutschland UG
+
+www=acme.de
+
+Email=info@acme.de
+
+Entity=German Unternehmergesellschaft
+
+Addr.Street.#=1
+
+Addr.Street=Unter Strasse
+
+Addr.Zip=14199
+
+NOTE=Kludge until we get addresses sorted out.
+
+Addr.ST=</i>
+
+Seal=//ACME Deutschland GmbH//
+
+Register.State=Germany
+
+Phone=49.617.716.4536
+
+Fax=49.617.345.1234
+
+Addr.Type=principal business
+
+Sign.=[U/id/priscilla_ang]
+
+Sign.Title=Manager
