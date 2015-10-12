@@ -1,4 +1,4 @@
-NOTE=This is a master data sheet.  It is used by the various European subs to make their forms.  See Acme_UK and Acme_FR.  Accordingly, it does not include a specific form of the Model Clauses (that is done at the subsidiary level).  German (DE) coming soon.  
+NOTE=This is a master data sheet.  It is used by the various European subs to make their forms.  See Acme_DE, Acme_UK, and Acme_FR.  Accordingly, it does not include a specific form of the Model Clauses (that is done at the subsidiary level).  (Click "Used By" above to see all the uses of this term sheet.)  
 
 Note1=No info about the DEO because that will be provided by the sub.
 
