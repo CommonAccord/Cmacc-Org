@@ -1,5 +1,9 @@
 ANHANG
 
+Note=The outline structure of all the different language versions of the Model Clauses is the same.  Sharing an outline assures this and makes it easier to trace differences or make modifications across a number of different versions. 
+
+=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018--Common/Form/Clauses_Outline_v0.md]
+
 Doc.Title=STANDARDVERTRAGSKLAUSELN (AUFTRAGSVERARBEITER)
 
 0.1.sec=gemäß Artikel 26 Absatz 2 der Richtlinie 95/46/EG für die Übermittlung personenbezogener Daten an Auftragsverarbeiter, die in Drittländern niedergelassen sind, in denen kein angemessenes Schutzniveau gewährleistet ist
@@ -153,7 +157,9 @@ Klausel 7
 
 7.1.2.sec=die Gerichte des Mitgliedstaats, in dem der Datenexporteur niedergelassen ist, mit dem Streitfall zu befassen.
 
-7.1.3.sec=Die Parteien vereinbaren, dass die Entscheidung der betroffenen Person nicht die materiellen Rechte oder Verfahrensrechte dieser Person, nach anderen Bestimmungen des nationalen oder internationalen Rechts Rechtsbehelfe einzulegen, berührt.
+7.2.sec=Die Parteien vereinbaren, dass die Entscheidung der betroffenen Person nicht die materiellen Rechte oder Verfahrensrechte dieser Person, nach anderen Bestimmungen des nationalen oder internationalen Rechts Rechtsbehelfe einzulegen, berührt.
+
+
 Klausel 8
 
 8.Ti=Zusammenarbeit mit Kontrollstellen
@@ -194,8 +200,6 @@ Klausel 12
 12.1.sec=Die Parteien vereinbaren, dass der Datenimporteur und der Unterauftragsverarbeiter bei Beendigung der Datenverarbeitungsdienste je nach Wunsch des Datenexporteurs alle übermittelten personenbezogenen Daten und deren Kopien an den Datenexporteur zurückschicken oder alle personenbezogenen Daten zerstören und dem Datenexporteur bescheinigen, dass dies erfolgt ist, sofern die Gesetzgebung, der der Datenimporteur unterliegt, diesem die Rückübermittlung oder Zerstörung sämtlicher oder Teile der übermittelten personenbezogenen Daten nicht untersagt. In diesem Fall garantiert der Datenimporteur, dass er die Vertraulichkeit der übermittelten personenbezogenen Daten gewährleistet und diese Daten nicht mehr aktiv weiterverarbeitet.
 
 12.2.sec=Der Datenimporteur und der Unterauftragsverarbeiter garantieren, dass sie auf Verlangen des Datenexporteurs und/oder der Kontrollstelle ihre Datenverarbeitungseinrichtungen zur Prüfung der in Absatz 1 genannten Maßnahmen zur Verfügung stellen.
-
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Clauses_v0.md]
 
 NOTE=To be completed. 
 

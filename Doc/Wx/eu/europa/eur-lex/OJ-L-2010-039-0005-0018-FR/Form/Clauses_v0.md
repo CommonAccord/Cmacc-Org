@@ -1,3 +1,7 @@
+Note=The shared outline for Model Clauses in all languages:
+
+=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018--Common/Form/Clauses_Outline_v0.md]
+
 Doc.Title=CLAUSES CONTRACTUELLES TYPES (SOUS-TRAITANTS)
 
 0.1.sec=Aux fins de l’article 26, paragraphe 2 de la directive 95/46/CE pour le transfert des données à caractère personnel vers des sous-traitants établis dans des pays tiers qui n’assurent pas un niveau adéquat de protection des données
@@ -223,5 +227,3 @@ DIO.Sign.4.sec=Autres informations nécessaires pour rendre le contrat contraign
 DIO.Sign.5.sec=(sceau de l’organisation) {DIO.Seal}
 
 DIO.Sign.6.sec=Signature ............................................................................................
-
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Clauses_v0.md]

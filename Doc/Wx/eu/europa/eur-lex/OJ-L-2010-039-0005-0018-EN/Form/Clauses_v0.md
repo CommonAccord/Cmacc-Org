@@ -1,9 +1,10 @@
+Note=Uses the common outline for all Model Clauses:
+
+=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018--Common/Form/Clauses_Outline_v0.md]
+
 Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 0.1.sec=For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of personal data to processors established in third countries which do not ensure an adequate level of data protection
-
-0.2.1.sec={DEO.sec}
-
 
 DEO.1.sec=Name of the data exporting organisation:  <b>{DEO.Name.Full}</b>
 
@@ -19,13 +20,7 @@ DEO.6.sec=Other information needed to identify the organisation <b>{DEO.OtherInf
 
 DEO.7.sec=(the data exporter)
 
-DEO.=[Z/paras/s7]
-
-
 0.2.2.sec=<br>And<br><br>
-
-
-0.2.3.sec={DIO.sec}
 
 DIO.1.sec=Name of the data exporting organisation:  <b>{DIO.Name.Full}</b>
 
@@ -41,18 +36,9 @@ DIO.6.sec=Other information needed to identify the organisation <b>{DIO.OtherInf
 
 DIO.7.sec=(the data importer)
 
-DIO.=[Z/paras/s7]
-
 0.2.4.sec=each a ‘party’; together ‘the parties’,
 
-
-0.2.=[Z/ol-none/s4]
-
 0.3.sec=HAVE AGREED on the following Contractual Clauses (the Clauses) in order to adduce adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the data exporter to the data importer of the personal data specified in Appendix 1.
-
-0.Ti=</i>
-
-0.=[Z/paras/s3]
 
 =Clause 1
 
@@ -72,8 +58,6 @@ DIO.=[Z/paras/s7]
 
 1.6.sec=‘technical and organisational security measures’ means those measures aimed at protecting personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing.
 
-1.=[Z/ol-a/s6]
-
 =Clause 2
 
 2.Ti=Details of the transfer
@@ -91,8 +75,6 @@ DIO.=[Z/paras/s7]
 3.3.sec=The data subject can enforce against the sub-processor this Clause, Clause 5(a) to (e) and (g), Clause 6, Clause 7, Clause 8(2), and Clauses 9 to 12, in cases where both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, unless any successor entity has assumed the entire legal obligations of the data exporter by contract or by operation of law as a result of which it takes on the rights and obligations of the data exporter, in which case the data subject can enforce them against such entity. Such third-party liability of the sub- processor shall be limited to its own processing operations under the Clauses.
 
 3.4.sec=The parties do not object to a data subject being represented by an association or other body if the data subject so expressly wishes and if permitted by national law.
-
-3.=[Z/ol/s4]
 
 =Clause 4
 
@@ -120,8 +102,6 @@ DIO.=[Z/paras/s7]
 
 4.10.sec=that it will ensure compliance with Clause 4(a) to (i).
 
-4.=[Z/ol-a/s10]
-
 =Clause 5
 
 5.Ti=Obligations of the data importer (1)
@@ -142,8 +122,6 @@ DIO.=[Z/paras/s7]
 
 5.4.3.sec=any request received directly from the data subjects without responding to that request, unless it has been otherwise authorised to do so;
 
-5.4.=[Z/ol-i/s3]
-
 5.5.sec=to deal promptly and properly with all inquiries from the data exporter relating to its processing of the personal data subject to the transfer and to abide by the advice of the supervisory authority with regard to the processing of the data transferred;
 
 5.6.sec=at the request of the data exporter to submit its data-processing facilities for audit of the processing activities covered by the Clauses which shall be carried out by the data exporter or an inspection body composed of independent members and in possession of the required professional qualifications bound by a duty of confidentiality, selected by the data exporter, where applicable, in agreement with the supervisory authority;
@@ -156,8 +134,6 @@ DIO.=[Z/paras/s7]
 
 5.10.sec=to send promptly a copy of any sub-processor agreement it concludes under the Clauses to the data exporter.
 
-5.=[Z/ol-a/s10]
-
 =Clause 6
 
 6.Ti=Liability
@@ -168,11 +144,7 @@ DIO.=[Z/paras/s7]
 
 6.2.2.sec=The data importer may not rely on a breach by a sub-processor of its obligations in order to avoid its own liabilities.
 
-6.2.=[Z/paras/s2]
-
 6.3.sec=If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the sub-processor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the sub-processor agrees that the data subject may issue a claim against the data sub-processor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The liability of the sub-processor shall be limited to its own processing operations under the Clauses.
-
-6.=[Z/ol/s3]
 
 =Clause 7
 
@@ -184,13 +156,7 @@ DIO.=[Z/paras/s7]
 
 7.1.2.sec=to refer the dispute to the courts in the Member State in which the data exporter is established.
 
-7.1.=[Z/ol-a/s2]
-
 7.2.sec=The parties agree that the choice made by the data subject will not prejudice its substantive or procedural rights to seek remedies in accordance with other provisions of national or international law.
-
-7.2.=[Z/ol/s2]
-
-7.=[Z/ol/s2]
 
 =Clause 8
 
@@ -201,8 +167,6 @@ DIO.=[Z/paras/s7]
 8.2.sec=The parties agree that the supervisory authority has the right to conduct an audit of the data importer, and of any sub-processor, which has the same scope and is subject to the same conditions as would apply to an audit of the data exporter under the applicable data protection law.
 
 8.3.sec=The data importer shall promptly inform the data exporter about the existence of legislation applicable to it or any sub-processor preventing the conduct of an audit of the data importer, or any sub-processor, pursuant to paragraph 2. In such a case the data exporter shall be entitled to take the measures foreseen in Clause 5(b).
-
-8.=[Z/ol/s3]
 
 =Clause 9
 
@@ -228,8 +192,6 @@ DIO.=[Z/paras/s7]
 
 11.4.sec=The data exporter shall keep a list of sub-processing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5(j), which shall be updated at least once a year. The list shall be available to the data exporter’s data protection supervisory authority.
 
-11.=[Z/ol/s4]
-
 =Clause 12
 
 12.Ti=Obligation after the termination of personal data-processing services
@@ -237,13 +199,6 @@ DIO.=[Z/paras/s7]
 12.1.sec=The parties agree that on the termination of the provision of data-processing services, the data importer and the sub-processor shall, at the choice of the data exporter, return all the personal data transferred and the copies thereof to the data exporter or shall destroy all the personal data and certify to the data exporter that it has done so, unless legislation imposed upon the data importer prevents it from returning or destroying all or part of the personal data transferred. In that case, the data importer warrants that it will guarantee the confidentiality of the personal data transferred and will not actively process the personal data transferred anymore.
 
 12.2.sec=The data importer and the sub-processor warrant that upon request of the data exporter and/or of the supervisory authority, it will submit its data-processing facilities for an audit of the measures referred to in paragraph 1.
-
-12.=[Z/ol/s2]
-
-=[Z/ol/12]
-
-DocBody={Doc}
-
 
 DEO.Sign.Ti=On behalf of the data exporter:
 
@@ -259,9 +214,6 @@ DEO.Sign.5.sec={DEO.Seal}
 
 DEO.Sign.6.sec=Signature ............................................................................................
 
-DEO.Sign.=[Z/paras/s6]
-
-
 DIO.Sign.Ti=On behalf of the data importer:
 
 DIO.Sign.1.sec=Name (written out in full): {DIO.Sign.Name.Full}
@@ -275,7 +227,3 @@ DIO.Sign.4.sec=Other information necessary in order for the contract to be bindi
 DIO.Sign.5.sec={DIO.Seal}
 
 DIO.Sign.6.sec=Signature ............................................................................................
-
-DIO.Sign.=[Z/paras/s6]
-
-90.Sec={DEO.Sign.sec}<br><br>{DIO.Sign.sec}
