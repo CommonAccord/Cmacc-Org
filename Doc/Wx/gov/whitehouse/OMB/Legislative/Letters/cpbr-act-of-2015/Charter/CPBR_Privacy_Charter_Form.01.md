@@ -6,7 +6,7 @@ Org.Handle=<font color="green">PPPL</font>
 
 Doc.Title={P1.Name.Full} Privacy Policy
 
-Charter.Link=<a href="http://github.com/CommonAccord/Cmacc-Org/Doc/Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md">github.com/CommonAccord/Cmacc-Org/Doc/Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md</a>
+Charter.Link=<a href="http://github.com/CommonAccord/Cmacc-Org/tree/master/Doc/Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md">github.com/CommonAccord/Cmacc-Org/tree/master/Doc/Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md</a>
 
 P1.Handle=<font color="green">Member Company</font>
 
