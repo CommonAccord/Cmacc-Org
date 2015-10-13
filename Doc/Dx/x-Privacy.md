@@ -16,4 +16,8 @@ Patient.FR.=[Dx/Acme_FR/12-PatientConsentForm/01-MMatignon]
 
 Privacy.US.=[Dx/Acme/03-Policies/01-Privacy_v0.md]
 
-Model.Root=<ol><li>{Data.UK.Model.Root}<li>{Data.DE.Model.Root}<li> {Data.FR.Model.Root}<li>{Patient.FR.Model.Root}<li>{Privacy.US.Model.Root}</ol>
+-=-Master Supply Agreement - Personal Data Provisions:
+
+MSA.=[Wx/com/gepower/MasterServiceAgreement/Form/Doc_v01.md]
+
+Model.Root=<ol><li>{Data.UK.Model.Root}<li>{Data.DE.Model.Root}<li> {Data.FR.Model.Root}<li>{Patient.FR.Model.Root}<li>{Privacy.US.Model.Root}<li>{MSA.PersonalData.Sec}</ol>
