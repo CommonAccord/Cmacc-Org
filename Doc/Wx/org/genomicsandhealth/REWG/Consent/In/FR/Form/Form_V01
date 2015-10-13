@@ -28,8 +28,6 @@ Doc.Ti=GA4GH modèle de partage de données Formulaire de consentement
 
 1.1.3.Sen=Ce projet est guidé par {Framework.URL}.
 
-Framework.URL=www.commonaccord.org/GA4GH/REWG/Cadre/V01
-
 1.2.sec=Le {Study.Name.Full} comprendra tout ou partie de ce qui suit: {1.2.List}
 
 1.2.1.sec=Les données recueillies au cours du projet

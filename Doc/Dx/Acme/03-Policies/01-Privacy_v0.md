@@ -1,9 +1,9 @@
-Company.Handle=Company
+P1.Handle=<font color="green">Acme</font>
 
-Company.=[U/id/acme_incorporated]
+P1.=[U/id/acme_incorporated]
 
-Version.YMD=2015-09-28
+=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md]
 
-ToU.URL={Company.www}/Terms_of_Use.html
-  
-=[Wx/com/moynihanpartners/PrivacyPolicy/Form/Doc_v01.md]
+Note=Does not relate to financial, therefore does not require Fair Credit Reporting Act provisions.
+
+Title.1.6.Sec={NoFCRP.Title.1.6.Sec}

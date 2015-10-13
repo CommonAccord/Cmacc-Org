@@ -24,7 +24,7 @@ Note=Making specific terms such as "covered entity".  (Doing it for each of the 
  
 4.=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Format.01.md]
 
-4.2.sec="{P1.Handle}" means {P1.N,E,A}.
+4.2.Sec="{P1.Handle}" means {P1.N,E,A}.
 
 Note=Trimming out secs 4.5 and 4.6 regarding rule making.  Again, this could be made simpler.
 

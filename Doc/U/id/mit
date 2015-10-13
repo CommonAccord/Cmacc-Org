@@ -6,5 +6,6 @@ Name.Full=Massachusetts Institute of Technology
 
 Addr.Type=official
 
-entity=corporation
+Entity=corporation
 
+OSP=MIT - Office of Special Projects
