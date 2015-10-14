@@ -1,4 +1,4 @@
-Steps for automating StlStartupLawyer Employee Handbook:
+Ti=Steps for automating StlStartupLawyer Employee Handbook:
 
 1.sec=Put the Word .doc into a Form/History folder (for reference)
 
@@ -11,8 +11,10 @@ Steps for automating StlStartupLawyer Employee Handbook:
 
 3.3.sec=Replace each double carriage return ("<cr><cr>") with "<cr><cr>=" at the beginning of each new line.  Doc_x02.md
 
-3.=[Z/ol/s3]
+3.4.sec=Did the basic structuring for the introduction (always the most fiddly part) and Part One (easy).  Made it 1.3.a type numbering system (by 1.3.=[Z/ol-a/s2]).  Can change.  Could also leave it all as 1.1.1.1, and then fix in CSS. 
+  
+3.5.sec=Bryan ...
 
-=[Z/ol/3]
+3.=[Z/ol/s5]
 
-
+=[Z/ol/s3]
