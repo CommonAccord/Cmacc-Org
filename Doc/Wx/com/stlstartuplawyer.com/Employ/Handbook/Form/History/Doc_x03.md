@@ -67,7 +67,8 @@ Note=Optional sections are all included.  They can be deleted by manipulating th
 1.4.1.sec=We are required by law to verify the eligible employment status of all new employees. To comply we must determine that any new employee meets the terms of the Immigration Reform and Control Act of 1986.  As a condition of employment all new hires or rehired employees must properly complete, sign and date the first section of the Immigration and Naturalization Service Form I-9.  The form must be completed and on file before you are allowed to start work.
 
 Note=Optional: 
-1.4.2.secAdd E-Verify provision for companies required to participate in the E-Verify Program (i.e. government contractors with contracts >$5,000)
+
+1.4.2.sec={E-Verify provision for companies required to participate in the E-Verify Program (i.e. government contractors with contracts >$5,000)}
 
 1.4.=[Z/para/s2]
 
