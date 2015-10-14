@@ -1,11 +1,10 @@
-
-
 =EMPLOYEE HANDBOOK
 
 =[Company Logo]
 
 =              MASTER VERSION
-Revised:  June 2015
+
+=Revised:  June 2015
 
 =INTRODUCTION
 
@@ -27,8 +26,7 @@ Revised:  June 2015
 
 =Please read this Handbook carefully and keep it as a reference guide.  If this Handbook fails to answer any important questions, ask [your supervisor/other title] for clarification.
 
-=
-PART ONE
+=PART ONE
 
 =GENERAL EMPLOYMENT INFORMATION
 
@@ -61,7 +59,8 @@ PART ONE
 =[Background/Reference Checks]
 
 =(Include if Company is required to conduct background checks by law or if the Company has certain high risk positions (handling money, handling sensitive information) and prefers to conduct background checks on some or all employees.)
-[Note: Some states have restrictions on background checks and the Company should seek guidance for each state in which it has employees before conducting background checks.]
+
+=[Note: Some states have restrictions on background checks and the Company should seek guidance for each state in which it has employees before conducting background checks.]
 
 =[Company Name] may conduct reference and background checks on [all/certain] new [and current] employees [depending upon their position with the Company]. Employees who are required to submit to such background checks, including criminal and credit history reports, must sign consent forms as required by the Company.
 
