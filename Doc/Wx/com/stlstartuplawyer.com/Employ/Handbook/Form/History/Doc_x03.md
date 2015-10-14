@@ -48,7 +48,7 @@ Title.=[Z/paras/s4]
 
 1.1.2.sec=The company makes reasonable accommodations for qualified individuals with disabilities as required by law. Employees who would like to request a reasonable accommodation should contact {name/position/title}.
 
-1.1.=[Z/ol/s2]
+1.1.=[Z/ol-a/s2]
 
 1.2.Ti=At-Will Employment
 
@@ -64,7 +64,12 @@ Note=Optional sections are all included.  They can be deleted by manipulating th
 
 1.4.Ti=Immigration Law Compliance
 
-1.4.sec=We are required by law to verify the eligible employment status of all new employees. To comply we must determine that any new employee meets the terms of the Immigration Reform and Control Act of 1986.  As a condition of employment all new hires or rehired employees must properly complete, sign and date the first section of the Immigration and Naturalization Service Form I-9.  The form must be completed and on file before you are allowed to start work.  {Optional:  Add E-Verify provision for companies required to participate in the E-Verify Program  (i.e. government contractors with contracts >$5,000)}
+1.4.1.sec=We are required by law to verify the eligible employment status of all new employees. To comply we must determine that any new employee meets the terms of the Immigration Reform and Control Act of 1986.  As a condition of employment all new hires or rehired employees must properly complete, sign and date the first section of the Immigration and Naturalization Service Form I-9.  The form must be completed and on file before you are allowed to start work.
+
+Note=Optional: 
+1.4.2.secAdd E-Verify provision for companies required to participate in the E-Verify Program (i.e. government contractors with contracts >$5,000)
+
+1.4.=[Z/para/s2]
 
 1.5.Ti=Employment Applications
 
@@ -84,21 +89,27 @@ Note=Optional sections are all included.  They can be deleted by manipulating th
 
 ={Include Applicable Categories}
 
-1.7.1.sec=•	Full-time Regular Employees -- Employees hired to work a workweek of {forty (40)} hours or more on a regular basis. Your position may require a regular schedule of more than {40} hours a week. Full-time regular employees may be "exempt" or "nonexempt" as defined below. These employees will be eligible for benefits (such as {medical, dental, vision, life insurance}, etc.) as well as Paid Time Off and Holiday pay.
+1.7.1.sec=Full-time Regular Employees -- Employees hired to work a workweek of {forty (40)} hours or more on a regular basis. Your position may require a regular schedule of more than {40} hours a week. Full-time regular employees may be "exempt" or "nonexempt" as defined below. These employees will be eligible for benefits (such as {medical, dental, vision, life insurance}, etc.) as well as Paid Time Off and Holiday pay.
 
 ={Note:  Less than 40 hours may be established as full-time.  Under the Affordable Care Act, 30 hours will be considered full-time; however, that provision has not been implemented at this time.  Eligibility for insurance benefits is determined by the individual benefit plans, which must be consulted in drafting the handbook benefit eligibility requirements.}
 
-1.7.2.sec=•	Reduced Regular Employees – Hourly employees hired to work a normal, reduced workweek of {thirty (30) to thirty-nine (39)} hours on a regular basis. Your position may occasionally require more than {39} hours a week. {Add, if applicable: These employees will be eligible for benefits (such as medical, dental, vision, life insurance, etc.) as well as Paid Time Off and Holiday pay.}  Reduced Regular Employee status is only available to nonexempt employees.
+1.7.2.1.sec=Reduced Regular Employees – Hourly employees hired to work a normal, reduced workweek of {thirty (30) to thirty-nine (39)} hours on a regular basis. Your position may occasionally require more than {39} hours a week.
 
-={Note:  This is an optional category.  The range of hours may be changed.  If this category is used, different hourly requirements can be set.  Eligibility for insurance benefits is determined by the individual benefit plans, which must be consulted in drafting the handbook benefit eligibility requirements.}
+Note=Add, if applicable:
 
-1.7.3.sec=•	Part-time Regular Employees – Employees hired to work fewer than {thirty (30)} hours per week on a regular basis. Such employees may be "exempt" or "nonexempt" as defined below. These employees {will/will not} be eligible for benefits (such as medical, dental, vision, life insurance, etc.) and {will/will not} be eligible for Paid Time Off or Holiday pay.}
+1.7.2.2.sec=These employees will be eligible for benefits (such as medical, dental, vision, life insurance, etc.) as well as Paid Time Off and Holiday pay.}  Reduced Regular Employee status is only available to nonexempt employees.
 
-={Note: This is an optional category.  If this category is used, different hourly requirements can be set.  Eligibility for insurance benefits is determined by the individual benefit plans, which must be consulted in drafting the handbook benefit eligibility requirements.}
+1.7.2.=[Z/para/s2]
 
-1.7.4.sec=•	Introductory Employees – Introductory employees are those with fewer than 90 days of service or who have worked 90 days but who have had their introductory status extended. Introductory employees {are/are not} eligible for {some} Company benefits.  Introductory employees are evaluated at or near the end of their first 90 days of service, at which time a decision will be made to continue their service as a regular employee, to extend their introductory period, or to terminate their employment. Successful completion of the introductory period does not guarantee continued employment and does not alter an employee’s at-will employment status.
+=Note:  This is an optional category.  The range of hours may be changed.  If this category is used, different hourly requirements can be set.  Eligibility for insurance benefits is determined by the individual benefit plans, which must be consulted in drafting the handbook benefit eligibility requirements.
 
-1.7.5.sec=•	Temporary Employees – Employees engaged to work full time or part time with the understanding that their employment will typically be terminated upon completion of a specific project or assignment. Temporary employees will not be eligible for benefits (such as medical, dental, vision, life insurance, etc.) and will not be eligible for Paid Time Off or Holiday pay. A temporary employee may be offered and may accept a new temporary assignment, including consecutive temporary assignments, and still retain temporary status. Temporary employees may be "exempt" or "nonexempt" as defined below. Individuals contracted from temporary employment agencies for specific assignments are considered employees of the respective agency and are not considered employees of {Company Name}. Temporary agency employees are paid by the respective agency and are not Company employees and are not eligible for Company benefits.}
+1.7.3.sec=Part-time Regular Employees – Employees hired to work fewer than {thirty (30)} hours per week on a regular basis. Such employees may be "exempt" or "nonexempt" as defined below. These employees {will/will not} be eligible for benefits (such as medical, dental, vision, life insurance, etc.) and {will/will not} be eligible for Paid Time Off or Holiday pay.}
+
+=Note: This is an optional category.  If this category is used, different hourly requirements can be set.  Eligibility for insurance benefits is determined by the individual benefit plans, which must be consulted in drafting the handbook benefit eligibility requirements.
+
+1.7.4.sec=Introductory Employees – Introductory employees are those with fewer than 90 days of service or who have worked 90 days but who have had their introductory status extended. Introductory employees {are/are not} eligible for {some} Company benefits.  Introductory employees are evaluated at or near the end of their first 90 days of service, at which time a decision will be made to continue their service as a regular employee, to extend their introductory period, or to terminate their employment. Successful completion of the introductory period does not guarantee continued employment and does not alter an employee’s at-will employment status.
+
+1.7.5.sec=Temporary Employees – Employees engaged to work full time or part time with the understanding that their employment will typically be terminated upon completion of a specific project or assignment. Temporary employees will not be eligible for benefits (such as medical, dental, vision, life insurance, etc.) and will not be eligible for Paid Time Off or Holiday pay. A temporary employee may be offered and may accept a new temporary assignment, including consecutive temporary assignments, and still retain temporary status. Temporary employees may be "exempt" or "nonexempt" as defined below. Individuals contracted from temporary employment agencies for specific assignments are considered employees of the respective agency and are not considered employees of {Company Name}. Temporary agency employees are paid by the respective agency and are not Company employees and are not eligible for Company benefits.}
 
 =Note:  Temporary employees have been held to be “joint employees” of the staffing companies placing them and companies where they are placed in some jurisdictions.  Consult with your attorney for specific requirements if you engage temporary employees.
 
@@ -106,11 +117,11 @@ JGH=Check this, which is a kind of half section:
 
 1.7.6.sec=Each regular and temporary employee will further be classified as either exempt or non-exempt.
 
-1.7.7.sec=•	Nonexempt Employees − Employees who are required to be paid at least minimum wage and overtime at the federal, state or local prescribed wage rate, whichever is higher. Nonexempt employees may be paid hourly or salary and are required to complete and provide accurate records of their hours worked.
+1.7.7.sec=Nonexempt Employees − Employees who are required to be paid at least minimum wage and overtime at the federal, state or local prescribed wage rate, whichever is higher. Nonexempt employees may be paid hourly or salary and are required to complete and provide accurate records of their hours worked.
 
-1.7.8.sec=•	Exempt Employees – Employees who are not eligible for overtime and in some cases also not subject to minimum wage regulations, in accordance with applicable federal, state and local wage and hour laws.  Exempt employees are paid a salary and are expected to work a sufficient number of hours to complete their assigned work duties and responsibilities to meet the goals and client service standards of the Company.
+1.7.8.sec=Exempt Employees – Employees who are not eligible for overtime and in some cases also not subject to minimum wage regulations, in accordance with applicable federal, state and local wage and hour laws.  Exempt employees are paid a salary and are expected to work a sufficient number of hours to complete their assigned work duties and responsibilities to meet the goals and client service standards of the Company.
 
-1.7.=[Z/ol/s8]
+1.7.=[Z/ol-a/s8]
 
 1.8.Ti=New Employee Introductory Period
 
@@ -118,7 +129,7 @@ JGH=Check this, which is a kind of half section:
 
 1.8.2.sec=In your first days of employment, you will be provided with an overview of your job responsibilities and the Company’s policies, procedures and benefits. Your supervisor will spend time with you to ensure that you are aware of your job responsibilities during the first weeks of employment.  During the 90 day period, your supervisor will conduct an evaluation of your progress.  The purpose of this evaluation is to provide you and your supervisor with an opportunity to discuss your progress to assure that you understand your job responsibilities.  After 90 days, or at any time within the introductory period at the Company’s discretion, you will either be reclassified to regular employee status or your employment with the Company will end.  In special circumstances, an extension of the introductory period may be warranted.
 
-1.8.=[Z/ol/s2]
+1.8.=[Z/ol-a/s2]
 
 1.9.Ti=Personnel Records
 
@@ -130,7 +141,7 @@ JGH=Check this, which is a kind of half section:
 
 1.10.2.sec=Requests for employment verification for credit or mortgage purposes should be referred to {position/title}. Certain information will be provided only if the employee has signed a release.
 
-1.10.=[Z/ol/s2]
+1.10.=[Z/ol-a/s2]
 
 1.11.Alt1.Ti=Employment of Relatives
 
@@ -144,7 +155,7 @@ JGH=Check this, which is a kind of half section:
 
 1.11.Alt2.2.sec=In the event you become a spouse, partner, or relative by marriage with another employee after you begin employment, you must disclose this relationship to your supervisor.  The company reserves the right to take action to avoid actual, potential or perceived conflicts of interest or issues of favoritism from such relationships, which may include a transfer or reassignment, or if transfer or reassignment is not possible, separation from employment for either or both employees.
 
-1.11.Alt2.=[Z/ol/s2]
+1.11.Alt2.=[Z/ol-a/s2]
 
 1.11.SecName=1.11
 
@@ -170,7 +181,7 @@ JGH=Check this, which is a kind of half section:
 
 1.13.3.sec=If an Alternate Work Arrangement is granted, {Company Name} has the right to cancel, suspend, or modify an employee's Alternate Work Arrangement privilege at any time, for any reason. An Alternate Work Arrangement is not a contract of employment and employment under any such arrangement remains at-will.  Daily and weekly work schedules, including Alternate Work Arrangements, can be modified at the Company’s discretion to meet changing business conditions, including but not limited to the Company’s need for employees to work overtime.
 
-1.13.=[Z/ol/s3]
+1.13.=[Z/ol-a/s3]
 
 1.14.Ti=Performance/Salary Reviews
 
@@ -188,7 +199,7 @@ Note=Assigment -> Assignment
 
 1.16.2.sec=All employees will be judged by the same performance standards and will be subject to scheduling demands, regardless of any existing outside work requirements. If it is determined that an employee’s outside work interferes with performance, safety or the ability to meet the requirements of {Company Name} as they are modified from time to time, the employee may be asked to terminate the outside employment if he/she desires to remain with {Company Name}.  Outside employment that constitutes a conflict of interest is prohibited. Employees also may not receive any income or material gain from individuals outside {Company Name} for materials produced or services rendered while performing their jobs with {Company Name} {optional: and you agree to sign the Company’s Confidentiality and Assigment of Intellectual Property Agreement.}
 
-1.16.=[Z/ol/s2]
+1.16.=[Z/ol-a/s2]
 
 1.17.Ti=Separation from Employment
 
@@ -208,7 +219,7 @@ Note=Optional:
 
 1.17.3.sec=The Company does not provide letters of recommendation for former employees. We will confirm position/title and dates of employment in response to inquiries from outside parties.  All reference requests must be directed to the President of the Company and no other Company employee is authorized to provide a response to any inquiries about a former employee’s employment.
 
-1.17.=[Z/ol/s3]
+1.17.=[Z/ol-a/s3]
 
 1.18.Ti=Return of Company Property
 
@@ -216,11 +227,7 @@ Note=Optional:
 
 1.=[Z/ol/18]
 
-=[Z/ol/1]
-
-=PART TWO
-
-=PAYROLL AND BENEFITS
+2.Ti=PART TWO - PAYROLL AND BENEFITS
 
 =Pay Day
 
@@ -486,9 +493,7 @@ Note=Optional:
 
 =The Company pays for certain employee parking.  You will be given information on company paid parking during orientation.}
 
-=PART THREE
-
-=EMPLOYEE RESPONSIBILITIES AND CONDUCT
+3.Ti=PART THREE - EMPLOYEE RESPONSIBILITIES AND CONDUCT
 
 =Harassment Prohibition
 
@@ -1056,9 +1061,7 @@ Note=Optional:
 
 =5.	If you are not satisfied with the resolution, within three (3) days of being notified of the decision, you may make a written appeal to the President of the Company.  If you do not receive a response within fifteen (15) days the appeal is presumed denied and the original resolution stands.
 
-=PART FOUR
-
-=WORKPLACE SAFETY
+4.Ti=PART FOUR - WORKPLACE SAFETY
 
 =Building Security
 
@@ -1151,3 +1154,5 @@ Note=Optional:
 =Date
 
 =Book Number: _________
+
+=[Z/ol/4]
