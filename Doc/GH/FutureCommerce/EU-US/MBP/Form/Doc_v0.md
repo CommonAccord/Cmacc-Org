@@ -12,7 +12,9 @@ Ti=Personal Information Security Practices
 
 1.4.Ti=Facility
 
-1.=[Z/ol/4]
+1.5.Ti=Compartmentalization
+
+1.=[Z/ol/5]
 
 2.Ti=Organizational Measures
 
@@ -25,6 +27,8 @@ Ti=Personal Information Security Practices
 2.3.Ti=Premises
 
 2.3.1.Ti=Lease Provisions
+
+2.4.Ti=User/Customer/Patient/Principal Agreement
 
 2.9.Ti=Government
 
