@@ -109,21 +109,21 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 6.3.0.sec=Hospitals may make presumptive eligibility determinations for:
 
-6.3.1.sec=• Children aged 0-18 and young adults aged 19-20 eligible for MassHealth Standard
+6.3.1.sec=Children aged 0-18 and young adults aged 19-20 eligible for MassHealth Standard
 
-6.3.2.sec=• Pregnant women eligible for MassHealth Standard
+6.3.2.sec=Pregnant women eligible for MassHealth Standard
 
-6.3.3.sec=• Former foster care youth up to age 26 eligible for MassHealth Standard
+6.3.3.sec=Former foster care youth up to age 26 eligible for MassHealth Standard
 
-6.3.4.sec=• Adults aged 21-64 eligible for MassHealth CarePlus
+6.3.4.sec=Adults aged 21-64 eligible for MassHealth CarePlus
 
-6.3.5.sec=• Parents or other caretaker relatives eligible for MassHealth Standard
+6.3.5.sec=Parents or other caretaker relatives eligible for MassHealth Standard
 
-6.3.6.sec=• Uninsured individuals with breast or cervical cancer eligible for MassHealth Standard
+6.3.6.sec=Uninsured individuals with breast or cervical cancer eligible for MassHealth Standard
 
-6.3.7.sec=• HIV positive individuals eligible for MassHealth Standard or HIV-Family Assistance
+6.3.7.sec=HIV positive individuals eligible for MassHealth Standard or HIV-Family Assistance
 
-6.3.8.sec=• Children who are non-qualified permanent residents under color of law (PRUCOLs) eligible for MassHealth Family Assistance
+6.3.8.sec=Children who are non-qualified permanent residents under color of law (PRUCOLs) eligible for MassHealth Family Assistance
 
 6.3.=[Z/f/ol/s8]
 
@@ -149,19 +149,19 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 8.0.sec=A Hospital’s application to elect to make presumptive eligibility determinations may be rejected if it fails to meet any one of the following criteria:
 
-8.1.Ti=A. Proper Submission
+8.1.Ti=Proper Submission
 
 8.1.sec=Each Hospital must submit a complete application and one (1) copy in accordance with these instructions to the designated address in this RFA. (See Section IX of this RFA.)
 
-8.2.Ti=B. Acceptance of Agreement
+8.2.Ti=Acceptance of Agreement
 
 8.2.sec=Appendix A, the Hospital-Determined Presumptive Eligibility Contract, is the Contract that will be awarded pursuant to this RFA. The applicant must accept the provisions of Appendix A without revision by signing the last page of Appendix A.
 
-8.3.Ti=C. Certification
+8.3.Ti=Certification
 
 8.3.sec=The Hospital must complete Appendix B and certify that all information and documentation required to be on file with MassHealth is complete, current and correct.
 
-8.4.Ti=D. Executive Order 504
+8.4.Ti=Executive Order 504
 
 8.4.1.sec=All contracts entered into by state agencies after January 1, 2009 must contain provisions requiring applicants to certify that they have read EXECUTIVE ORDER 504, that they have reviewed and will comply with all information, security programs, plans, guidelines, standards and policies that apply to the work they will be performing for their contracting agency, that they will communicate these provisions to and enforce them against their subcontractors, and that they will implement and maintain any other reasonable and appropriate security procedures and practices necessary to protect personal information to which they are given access as part of the contract from unauthorized access, destruction, use, modification, disclosure or loss. The provisions shall be enforced through the contracting agency and the Operational Services Division. Any breach shall be regarded as a material breach of the contract that may subject the Applicant to appropriate sanctions.
 
@@ -173,11 +173,11 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 9.Ti=RFA Information
 
-9.1.Ti=A. Issuing Office
+9.1.Ti=Issuing Office
 
 9.1.sec=Commonwealth of Massachusetts<br>Executive Office of Health and Human Services Office of Medicaid<br>One Ashburton Place, 11 floor<br>Boston, MA 02108
 
-9.2.Ti=B. Comm-PASS Transition to COMMBUYS eProcurement System
+9.2.Ti=Comm-PASS Transition to COMMBUYS eProcurement System
 
 9.2.1.sec=The Commonwealth Procurement Access & Solicitation System (Comm-PASS), in use since 2004, is being retired and replaced by a new eProcurement system known as COMMBUYS. In order for data to migrate from Comm-PASS to COMMBUYS the Operational Services Division (OSD) has identified a transition period during which no new solicitations or updates to existing solicitations and contracts will be able to be published by agency staff on Comm-PASS. This transition period is tentatively scheduled for February 28, 2014 – March 23, 2014. During the transition period any information that EHS would normally post to Comm-PASS will be posted to the following website: http://www.mass.gov/eohhs/comm-pass.
 
@@ -189,7 +189,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 9.2.=[Z/f/ol/s4]
 
-9.3.Ti=C. Applicants’ Conference Call
+9.3.Ti=Applicants’ Conference Call
 
 9.3.1.sec=Applicants and interested parties are invited to attend a non-mandatory Applicants’ Conference Call. EOHHS will address questions pertaining to this RFA at that time. Oral answers shall be given if the information is then available. Written answers may be prepared for certain questions of general interest and made available to prospective applicants after the date of the conference as described in Section IX.B.
 
@@ -205,39 +205,39 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 9.4.=[Z/f/ol/s2]
 
-9.5.Ti=E. Addendum or Withdrawal of RFA
+9.5.Ti=Addendum or Withdrawal of RFA
 
 9.5.sec=If it becomes necessary to revise any part of this RFA, or if additional data is necessary to clarify any of its provisions, EOHHS reserves the right to amend this RFA at any time. Any such amendment will be posted as described in Section IX.B. EOHHS further reserves the right to terminate this procurement in whole or in part at any time.
 
-9.6.Ti=F. Anticipated Date of Contractor Selection
+9.6.Ti=Anticipated Date of Contractor Selection
 
 9.6.sec=EOHHS anticipates selection of Contractors on a rolling basis.
 
-9.7.Ti=G. Anticipated Date of Contract Commencement
+9.7.Ti=Anticipated Date of Contract Commencement
 
 9.7.sec=EOHHS anticipates that the Contracts will commence no earlier than April 7, 2014.
 
-9.8.Ti=H. Public Records
+9.8.Ti=Public Records
 
 9.8.sec=All applications and related documents submitted in response to this RFA are public records under the Massachusetts Freedom of Information Law, M.G.L. c. 66, Section 10, and M.G.L. c. 4, Section 7, regarding public access to such documents. Statements inconsistent with public record laws will be disregarded.
 
-9.9.Ti=I. Limitations
+9.9.Ti=Limitations
 
 9.9.sec=This Request for Application does not commit EOHHS to award a Contract, to pay any costs incurred in the preparation of the application, or to procure or contract for services or supplies. EOHHS reserves the right to accept or reject any and all applications received as a result of this request, or to cancel this RFA in any part or in its entirety if it is in the best interest of EOHHS to do so. To the extent that the provisions or standards require State Plan approval by the Centers for Medicare and Medicaid Services (CMS), Contracts are subject to such approval. EOHHS reserves the right to amend the RFA as necessary to meet federal requirements.
 
-9.10.Ti=J. Cost of Application
+9.10.Ti=Cost of Application
 
 9.10.sec=No costs or expenses incurred by applicants in submitting a response to this RFA shall be borne by the Commonwealth.
 
-9.11.Ti=K. Return of Applications
+9.11.Ti=Return of Applications
 
 9.11.sec=The Commonwealth shall be under no obligation to return any materials submitted by an applicant in response to this RFA.
 
-9.12.Ti=L. Reasonable Accommodation
+9.12.Ti=Reasonable Accommodation
 
 9.12.sec=Applicants with disabilities or hardships that seek reasonable accommodation, which may include the receipt of RFA information in an alternative format, must submit a written statement to the RFA contact person describing the Applicant’s disability and the requested accommodation to the contact person for the RFA. EOHHS reserves the right to reject unreasonable requests.
 
-9.13.Ti=M. Privacy and Security of Health Information
+9.13.Ti=Privacy and Security of Health Information
 
 9.13.sec=Applicants shall comply with all state and federal laws, regulations, policies and procedures relating to confidentiality, privacy, and security.
 
