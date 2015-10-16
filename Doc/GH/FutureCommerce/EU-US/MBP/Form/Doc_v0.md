@@ -30,6 +30,20 @@ Ti=Personal Information Security Practices
 
 2.4.Ti=User/Customer/Patient/Principal Agreement
 
+2.4.1.Ti=ToU/Privacy - Airline Reservations
+
+/2.4.1.=[Form_of_Agreement]
+
+2.4.2.Ti=Patient Consent - Clinical Trial
+
+/2.4.2.=[Form_of_Agreement]
+
+2.4.3.Ti=Patient Consent - Genome
+
+2.4.3.=[Wx/org/genomicsandhealth/REWG/Consent/In/EN/Form/Form_V02]
+
+2.4.=[Z/ol/3]
+
 2.9.Ti=Government
 
 2.=[Z/ol/9]
