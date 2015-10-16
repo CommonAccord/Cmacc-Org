@@ -1,5 +1,7 @@
 Ti=Personal Information Security Practices
 
+0.sec=Shard, discard, recharge. 
+
 1.Ti=Technical Measures
 
 1.1.Ti=Transmission
