@@ -6,9 +6,16 @@ Ti=Applicant
 
 1.0.sec=Please use a name composed of latin characters. 
 
-1.1.sec={Name.Full}
+1.1.Ti=Add your ID:
+
+1.1.sec={ID.Input}
+
+1.2.Ti=If you don't have an ID, we will make one for you:
+
+1.2.sec={Name.Full}
 
 1.90.sec=When you have completed this, please go on to the next question.
+
 
 2.Ti=Address
 
@@ -18,7 +25,7 @@ Ti=Applicant
 
 90.sec=Thank you for completing this questionnaire.  If you have any suggestions for improvement of this form, please contact {Author.Name.First}, at {Author.Email}.
 
-1.=[Z/ol/s1]
+1.=[Z/ol/2]
 
 2.=[Z/ol/s1]
 
@@ -27,6 +34,8 @@ Ti=Applicant
 Note=This form is maintained by:
 
 Author.=[U/id/roberta_robinson]
+
+ID.Input=<form action="demo_form.asp">Identity: [U/id/<input type="text" name="ID.URL">]<input type="submit" value="Submit"></form>
 
 Name.Full=<form action="demo_form.asp">First name: <input type="text" name="Name.First"><br>Last name: <input type="text" name="Name.Last"><br><input type="submit" value="Submit"></form>
 
