@@ -6,7 +6,7 @@ Ti=Applicant
 
 1.0.sec=Please use a name composed of latin characters. 
 
-1.1.sec={Name}
+1.1.sec={Name.Full}
 
 1.90.sec=When you have completed this, please go on to the next question.
 
@@ -14,8 +14,22 @@ Ti=Applicant
 
 2.0.sec=Please use the address where you most often purchase coffee and do email.
 
-2.1.sec={SpiritualHome}
+2.1.sec={SpiritualHome.Box}
 
-90.sec=Thank you for completing this questionnaire.  If you have any suggestions for improvement of this form, please contact {FormAuthor}
+90.sec=Thank you for completing this questionnaire.  If you have any suggestions for improvement of this form, please contact {Author.Name.First}, at {Author.Email}.
+
+1.=[Z/ol/s1]
+
+2.=[Z/ol/s1]
 
 =[Z/ol/2]
+
+Note=This form is maintained by:
+
+Author.=[U/id/roberta_robinson]
+
+Name.Full=<form action="demo_form.asp">First name: <input type="text" name="Name.First"><br>Last name: <input type="text" name="Name.Last"><br><input type="submit" value="Submit"></form>
+
+SpiritualHome.Box=<form action="demo_form.asp">Coffee Shop: <input type="text" name="SpiritualHome"><input type="submit" value="Submit"></form>
+
+Note=In an XWiki-like rendering - the missing fields can be clicked and filled in.  That is not as good (in this use) as having text fields.  The system could know to render missing fields as text fields if they were either bracketed with something <input>{Name.Full}</input> or used a naming convention like {INPUT:Name.Full}.  The first solution seems better.

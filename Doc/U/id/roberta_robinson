@@ -6,7 +6,9 @@ Sign.=[U/id/roberta_robinson]
 
 Sign.Title=Self
 
-Name.Full=Roberta Robinson
+Name.First=Roberta
+
+Name.Last=Robinson
 
 Addr.Type=business
 
