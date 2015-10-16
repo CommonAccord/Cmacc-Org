@@ -1,21 +1,31 @@
-=Appendix A
-=MassHealth Hospital-Determined Presumptive Eligibility Contract
-=(Applicants are instructed to fill in the blanks and sign)
-=Appendix A – RY 2014 Hospital-Determined Presumptive Eligibility RFA
-=1
-=MassHealth Hospital-Determined Presumptive Eligibility Contract
-=Agreement between the Commonwealth of Massachusetts, acting by and through its Executive
-=Office of Health and Human Services (hereinafter “EOHHS”), and
-=(legal name of Contractor or Qualified Hospital)
-=(hereinafter “the Contractor” or Qualified Hospital), with a principal place of business located at:
-=(address(es) of Hospital[s])
-=This non-financial Agreement (“Agreement”) is between the Commonwealth of Massachusetts, Executive Office of Health and Human Services (“EOHHS”) located at One Ashburton Place, Boston, Massachusetts 02108, and (the “Qualified Hospital” or “Contractor”), a MassHealth-participating Hospital with a principal place of business at (collectively the “Parties”).
-=WHEREAS, EOHHS is the Secretariat of the Commonwealth of Massachusetts responsible for administering the Medicaid program and the Children’s Health Insurance Program, and other health and human services programs designed to pay for medical services for eligible individuals under 42 U.S.C. § 1396 et seq., 42 U.S.C. § 1397aa et seq., and M.G.L. c. 118E, § 1 et. seq., and other state and federal laws;
-=WHEREAS, in accordance with 42 U.S.C. § 1396a(a)(47)(B) and the federal regulation at 42 CFR 435.1110, Hospitals may elect to make presumptive eligibility determinations for certain individuals that appear eligible for Medicaid coverage; and
-=WHEREAS, the Qualified Hospital elects to determine presumptive eligibility in accordance with 42 CFR 435.1110, 130 CMR 450.110 and consistent with federal and state laws, regulations, policies and procedures and subject to the terms of this Agreement;
-=
-=NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein
-=
+Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b></center>
+
+0.1.sec=(Applicants are instructed to fill in the blanks and sign)
+
+0.2.sec=Agreement between the Commonwealth of Massachusetts, acting by and through its Executive
+
+0.3.sec=Office of Health and Human Services (hereinafter “EOHHS”), and
+
+0.4.sec=(legal name of Contractor or Qualified Hospital)
+
+0.5.sec=(hereinafter “the Contractor” or Qualified Hospital), with a principal place of business located at:
+
+0.6.sec=(address(es) of Hospital[s])
+
+0.7.0.sec=This non-financial Agreement (“Agreement”) is between the Commonwealth of Massachusetts, Executive Office of Health and Human Services (“EOHHS”) located at One Ashburton Place, Boston, Massachusetts 02108, and (the “Qualified Hospital” or “Contractor”), a MassHealth-participating Hospital with a principal place of business at (collectively the “Parties”).
+
+0.7.1.sec=WHEREAS, EOHHS is the Secretariat of the Commonwealth of Massachusetts responsible for administering the Medicaid program and the Children’s Health Insurance Program, and other health and human services programs designed to pay for medical services for eligible individuals under 42 U.S.C. § 1396 et seq., 42 U.S.C. § 1397aa et seq., and M.G.L. c. 118E, § 1 et. seq., and other state and federal laws;
+
+0.7.2.sec=WHEREAS, in accordance with 42 U.S.C. § 1396a(a)(47)(B) and the federal regulation at 42 CFR 435.1110, Hospitals may elect to make presumptive eligibility determinations for certain individuals that appear eligible for Medicaid coverage; and
+
+0.7.3.sec=WHEREAS, the Qualified Hospital elects to determine presumptive eligibility in accordance with 42 CFR 435.1110, 130 CMR 450.110 and consistent with federal and state laws, regulations, policies and procedures and subject to the terms of this Agreement;
+
+0.7.=[Z/ol-none/s3]
+
+0.90.sec=NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein
+
+0.=[Z/paras/s7]
+
 1.Ti=A. The Qualified Hospital agrees:
 
 1.1.Ti=Requirements
@@ -170,17 +180,24 @@
 
 3.=[Z/f/ol/s11]
 
-90.sec=IN WITNESS WHEREOF, the Parties have caused their authorized representatives to sign below to indicate their acceptance of the terms and conditions of this Agreement.
+90.0.sec=IN WITNESS WHEREOF, the Parties have caused their authorized representatives to sign below to indicate their acceptance of the terms and conditions of this Agreement.
+
+90.1.sec=Name of Hospital Licensee
+
+90.2.sec=FEIN (Tax ID #):
+
+90.3.sec=Signature of Authorized Representative
+
+90.4.sec=Print Name ____________________________ Print Title _____________________________ Date _________________________________
+
+90.5.sec=EOHHS
+
+90.6.sec=Signature of Authorized Representative
+
+90.7.sec=Print Name ____________________________ Print Title _____________________________ Date _________________________________
+
+90.8.sec=___ Print Title _____________________________ Date _________________________________ 
+
+90.=[Z/paras/s8]
 
 =[Z/f/ol/3]
-
-=Name of Hospital Licensee
-=FEIN (Tax ID #):
-=Signature of Authorized Representative
-=Print Name ____________________________ Print Title _____________________________ Date _________________________________
-=EOHHS
-=Signature of Authorized Representative
-=Print Name ____________________________ Print Title _____________________________ Date _________________________________
-=￼￼Appendix A – RY 2014 Hospital-Determined Presumptive Eligibility RFA
-=9
-=___ Print Title _____________________________ Date _________________________________
