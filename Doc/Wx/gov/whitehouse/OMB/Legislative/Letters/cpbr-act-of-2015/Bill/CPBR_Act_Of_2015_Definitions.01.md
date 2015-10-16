@@ -46,7 +46,7 @@ Note=some differences seem intentional, but is "stored" different than "retained
 
 1.2.1.Ti=De-identified data
 
-1.2.1.0.sec=The term "{personal_data}" shall not include data otherwise described by paragraph (1) that {a_covered_entity} (either directly or through an agent)&emdash;
+1.2.1.0.sec=The term "{personal_data}" shall not include data otherwise described by paragraph (1) that {a_covered_entity} (either directly or through an agent)&mdash;
 
 1.2.1.1.sec=alters such that there is a reasonable basis for expecting that the data could not be linked as a practical matter to a specific individual or device;
 
@@ -72,9 +72,9 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 1.2.4.0.sec=The term "{personal_data}" shall not include cyber threat indicators {used.or} in order to investigate, mitigate, or otherwise respond to a cybersecurity threat or incident, when processed for those purposes.
 
-1.2.4.1.0.sec=The term "cyber threat indicator" means information&emdash;
+1.2.4.1.0.sec=The term "cyber threat indicator" means information&mdash;
 
-1.2.4.1.1.0.sec=that is necessary to indicate, describe or identify&emdash;
+1.2.4.1.1.0.sec=that is necessary to indicate, describe or identify&mdash;
 
 1.2.4.1.1.1.sec=malicious reconnaissance, including communications that reasonably appear to be transmitted for the purpose of gathering technical information related to a cyber threat;
 
@@ -104,7 +104,7 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 2.1.Ti=In General
 
-2.1.0.sec="{Covered_entity}" means a person that {uses.or} {personal_data} in or affecting interstate commerce.  Such term does not include&emdash;
+2.1.0.sec="{Covered_entity}" means a person that {uses.or} {personal_data} in or affecting interstate commerce.  Such term does not include&mdash;
 
 2.1.1.sec=the Federal Government, the Government of any {State}, the Government of any Indian tribe, or any political subdivision, department, agency, component, entity, or instrumentality thereof;
 
@@ -112,7 +112,7 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 2.1.3.sec=a natural person, unless acting in a non-de-minimis commercial capacity;
 
-2.1.4.0.sec=any person that&emdash;
+2.1.4.0.sec=any person that&mdash;
 
 2.1.4.1.sec={uses.or} {personal_data} of fewer than 10,000 individuals and devices during any 12-month period, or has 5 or fewer employees; and
 
@@ -138,7 +138,7 @@ Note=Different list than for uses.or
 
 2.2.1.sec=To the extent that a person {uses.or} {personal_data} needed to conduct research relating directly to security threats to or vulnerabilities in devices or networks, or to address threats or vulnerabilities identified by that research, such person shall not be deemed {a_covered_entity} for purposes of sections 101, 102, 103, 104, or 106 of Title I of {this_Act}.
 
-2.2.2.0.sec=This exception shall apply only so long as such person&emdash;
+2.2.2.0.sec=This exception shall apply only so long as such person&mdash;
 
 2.2.2.1.sec=uses such {personal_data} exclusively for the activities described by subparagraph (A);
 
@@ -192,7 +192,7 @@ Note=is this use of "collected" intended to be covered by the defined term?
 
 Ti="{Context}"
 
-11.0.sec="{Context}" means the circumstances surrounding {a_covered_entity}'s processing of {personal_data}, including but not limited to&emdash;
+11.0.sec="{Context}" means the circumstances surrounding {a_covered_entity}'s processing of {personal_data}, including but not limited to&mdash;
  
 11.1.sec=the extent and frequency of direct interactions between individuals and {the_covered_entity}, if any;
 
