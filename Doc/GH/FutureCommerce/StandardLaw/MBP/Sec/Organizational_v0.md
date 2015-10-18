@@ -18,7 +18,15 @@ Ti=Organizational Measures
 
 3.Ti=Contractors
 
-4.Ti=Premises
+4.Ti=Locations
+
+4.0.sec=We store and treat our information in the following jurisdictions:
+
+4.1.sec=We collect personal data via websites hosted in {Collect.Countries}
+
+4.2.sec=We store and treat it in the following additional countries: {Store.Countries}
+
+4.=[Z/f/ol/s2]
 
 5.Ti=Other ...
 
