@@ -1,6 +1,6 @@
 Ti=Applicant
 
-0.sec=Please fill in this information based on the criteria which ....
+0.sec=Please fill in this information {test} based on the criteria which ....
 
 1.Ti=Name
 
