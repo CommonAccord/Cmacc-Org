@@ -8,6 +8,10 @@ Data.DE.=[Dx/Acme_DE/01-EU-US-DataTransfer/Doc_v0.md]
 
 Data.FR.=[Dx/Acme_FR/11-EU-US-DataTransfer/Doc_v0.md]
 
+Note=Not quite complete and not yet a demo example:
+
+Data.EL.Form.=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EL/Form/Clauses_v0.md]
+
 -=-Patient Consent for Genetics Research (channeling GA4GH model patient consent):
 
 Patient.FR.=[Dx/Acme_FR/12-PatientConsentForm/01-MMatignon]
