@@ -1,6 +1,6 @@
-Ti=Anhang 1 zu den Standardvertragsklauseln
+=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018--Common/Form/Appendix1_Outline_v0.md]
 
-0.Ti=</i>
+Ti=Anhang 1 zu den Standardvertragsklauseln
 
 0.1.sec=Dieser Anhang ist Bestandteil der Klauseln und muss von den Parteien ausgefüllt und unterzeichnet werden
 
@@ -18,7 +18,6 @@ Ti=Anhang 1 zu den Standardvertragsklauseln
 
 3.sec=Die übermittelten personenbezogenen Daten betreffen folgende Kategorien betroffener Personen (bitte genau angeben): <b>{PD.CategoriesOfDataSubjects}</b>
 
-
 4.Ti=Kategorien von Daten
 
 4.sec=Die übermittelten personenbezogenen Daten gehören zu folgenden Datenkategorien (bitte genau angeben): <b>{PD.CategoriesOfData}</b>
@@ -27,11 +26,9 @@ Ti=Anhang 1 zu den Standardvertragsklauseln
 
 5.sec=Die übermittelten personenbezogenen Daten umfassen folgende besondere Datenkategorien (bitte genau angeben): <b>{PD.SpecialCategoriesOfData}</b>
 
-
 6.Ti=Verarbeitung
 
 6.sec=Die übermittelten personenbezogenen Daten werden folgenden grundlegenden Verarbeitungsmaßnahmen unterzogen (bitte genau angeben): <b>{PD.BasicProcessingActivities}</b>
-
 
 DEO.Ti=DATENEXPORTEUR
 
@@ -44,5 +41,3 @@ DIO.Ti=DATENIMPORTEUR
 DIO.Sign.1.sec=Name: {DIO.Name.Full}
 
 DIO.Sign.2.sec=Unterschrift des/der Bevollmächtigten: ......................................
-
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Appendix1_v0.md]

@@ -1,14 +1,10 @@
-Ti=Appendix 1 to the Standard Contractual Clauses
+=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018--Common/Form/Appendix1_Outline_v0.md]
 
-0.Ti=</i>
+Ti=Appendix 1 to the Standard Contractual Clauses
 
 0.1.sec=This Appendix forms part of the Clauses and must be completed and signed by the parties
 
 0.2.sec=The Member States may complete or specify, according to their national procedures, any additional necessary information to be contained in this Appendix
-
-0.=[Z/ol-none/s2]
-
-
 
 1.Ti=Data exporter
 
@@ -34,8 +30,6 @@ Ti=Appendix 1 to the Standard Contractual Clauses
 
 6.sec=The personal data transferred will be subject to the following basic processing activities (please specify): <b>{PD.BasicProcessingActivities}</b>
 
-=[Z/ol-none/6]
-
 90.Sec={DEO.Sign.sec}<br>{DIO.Sign.sec}
 
 DEO.Ti=DATA EXPORTER
@@ -44,13 +38,8 @@ DEO.Sign.1.sec=Name: {DEO.Name.Full}
 
 DEO.Sign.2.sec=Authorised Signature ................................................................................
 
-DEO.Sign.=[Z/ol-none/s2]
-
-
 DIO.Ti=DATA IMPORTER
 
 DIO.Sign.1.sec=Name: {DIO.Name.Full}
 
 DIO.Sign.2.sec=Authorised Signature ................................................................................
- 
-DIO.Sign.=[Z/ol-none/s2]

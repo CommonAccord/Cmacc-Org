@@ -1,3 +1,5 @@
+=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018--Common/Form/Appendix1_Outline_v0.md]
+
 Ti=Appendice 1 Des clauses contractuelles types
 
 0.1.sec=Le présent appendice fait partie des clauses et doit être rempli et signé par les parties.
@@ -40,5 +42,3 @@ DIO.Ti=IMPORTATEUR DE DONNÉES
 DIO.Sign.1.sec=Nom: {DIO.Name.Full}
 
 DIO.Sign.2.sec=Signature autorisée: ..............................................................................................
-
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Appendix1_v0.md]
