@@ -216,7 +216,7 @@ DEO.Sign.3.sec= Διεύθυνση: {DEO.Sign.Addr.1,2}
 
 DEO.Sign.4.sec= Άλλες πληροφορίες που απαιτούνται για να θεωρηθεί η σύμβαση δεσμευτική (αν υπάρχουν): {DEO.Sign.ValidatingInformation}
 
-DEO.Sign.5.sec={Deal.Seal}
+DEO.Sign.5.sec={DEO.Seal}
 
 DEO.Sign.6.sec=Υπογραφή ............................................  
 
@@ -230,6 +230,6 @@ DIO.Sign.3.sec= Διεύθυνση: {DIO.Sign.Addr.1,2}
 
 DIO.Sign.4.sec= Άλλες πληροφορίες που απαιτούνται για να θεωρηθεί η σύμβαση δεσμευτική (αν υπάρχουν): {DIO.Sign.ValidatingInformation}
 
-DIO.Sign.5.sec={Deal.Seal}
+DIO.Sign.5.sec={DIO.Seal}
 
 DIO.Sign.6.sec=Υπογραφή ............................................
