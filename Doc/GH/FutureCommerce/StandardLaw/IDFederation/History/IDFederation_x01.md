@@ -18,82 +18,11 @@ Title.=[Z/f/paras/s3]
 
 1.1.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Business_Scope_v0.md]
 
-1.2.Ti=1.02 Communications and Policies
+1.2.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Business_Communications_v0.md]
 
-1.2.1.Ti=1.02(a) Official Communication
+1.3.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Business_Participation_v0.md]
 
-1.2.1.1.sec=Official communications by the ID Federation may only be made or approved by the Policy Authority, or a Party that has been expressly authorized by the Policy Authority to make such communications. The ID Federation is not responsible for any unauthorized communications including unauthorized use of the Trust Mark.
-
-1.2.1.2.sec=Published materials may be accessible through the ID Federation website or other means designated or approved by the Policy Authority from time to time. Any materials that are not freely available to the public (including those behind website logon, password-protected or explicitly labeled) may not be shared or distributed publicly.
-
-1.2.1.=[Z/f/ol/s2]
-
-1.2.2.Ti=02(b) Formal Policies and Official Document
-
-1.2.2.sec=The Policy Authority, or its designees, shall promulgate and amend Formal Policies and Official Documents from time to time and ensure the current version of each such document is available at the ID Federation website. When the text of this Trust Framework explicitly refers to a Formal Policy and/or Official Document as “incorporated by reference,” then the content of that policy or other document shall have the same force and effect as if directly published within this Trust Framework.
-
-1.2.=[Z/f/ol/2]
-
-1.3.Ti=1.03 Participation in the ID Federation
-
-1.3.0.sec=The following Rules apply to Participation in the ID Federation.
-
-1.3.1.Ti=1.03(a) Eligibility
-
-1.3.1.0.sec=In order to be a Participant in the ID Federation, a Party must:
-
-1.3.1.1.sec= Be involved in the provision of, sale, distribution, licensing, or use of a financial or insurancerelated product or service;
-
-1.3.1.2.sec= Meet or exceed the applicable requirements of the Trust Framework, including for Certified Services (when applicable);
-
-1.3.1.3.sec= Execute the Participation Agreement, indicating the Role(s) it will conduct as defined in this Trust Framework;
-
-1.3.1.4.sec= Have or intend to have an Existing Commercial Relationship with one or more other Participants; and
-
-1.3.1.5.sec= Remain in compliance with all applicable Rules of the Trust Framework, including payment of applicable fees.
-
-1.3.1.=[Z/f/ol/s5]
-
-1.3.2.Ti=1.03(b) Continued Compliance
-
-1.3.2.sec=Every Party shall remain in compliance with the current Rules of this Trust Framework for so long as the Party is a Participant in the ID Federation. Every Party must review the ID Federation website or other means designated or approved by the Policy Authority from time to time for updates to the Trust Framework, including without limitation the Formal Policies, Official Documents, or Rules.
-1.3.=[Z/f/ol/2]
-
-1.4.Ti=1.04 Termination and Suspension
-
-1.4.0.sec=All rights and obligations of a Participant under the Trust Framework cease upon termination or suspension, subject to provisions of Section 2.11. The ID Federation may terminate this Trust Framework, with respect to all Members, for any reason and at any time with advance notice to each Member. Upon termination or suspension, fees paid relative to Participation, including any related to Assessment for a Certified Service, will not be reimbursed. Notwithstanding the foregoing, the ID Federation shall return any available funds on a pro rata basis to Members (based on the fees paid by each Member) in the event that the ID Federation terminates the Trust Framework as to all Members.
-
-1.4.1.Ti=1.04(a) Voluntary Termination
-
-1.4.1.sec=Any Party may voluntarily terminate its Participation in the ID Federation for any reason by written notice to the Federation Operator. Information about a terminated Participant shall be removed from the Participant Directory, including information about any Certified Service of the Participant. Members of the ID Federation shall be given notice of the termination of the Party’s Participation in the ID Federation, which may be by mail, email, or general notice to all Participants.
-
-1.4.2.Ti=1.04(b) Involuntary Suspension and Termination
-
-1.4.2.0.sec=If, for any reason, the Federation Operator and/or the Policy Authority become aware or reasonably suspect that a Participant is violating the Rules of this Trust Framework, it may request that an executive level employee of the Participant be available for resolution of the matter. A Participant shall reasonably participate in such discussions. If, upon discussion of the matter, there is good cause to believe that a Participant is in violation of the Rules of this Trust Framework, the following consequences may be pursued.
-
-1.4.2.1.Ti=1.04(b)(i) Warning
-
-1.4.2.1.sec=The Policy Authority or the Federation Operator may provide a warning to a Participant for violation of the Rules of this Trust Framework. Warnings shall include a description of the violation, a description of the corrective action or actions sought, and a time frame within which to cure the violations. 
-
-1.4.2.2.Ti=1.04(b)(ii) Audit
-
-1.4.2.2.sec=In the event the Policy Authority believes the discussions described in Section 1.04(b) have not resulted in resolution of the violation of the Rules of this Trust Framework by a Participant within the time frame to cure noted in the warning, and the Participant that has been warned asserts it is in fact in compliance, then the Policy Authority may request that the Participant’s President, CEO, COO, or senior employee of the Participant who is directly involved with the ID Federation be reasonably available for purposes of resolving the matter. The Participant may present evidence in its discretion in support of its compliance with the Trust Framework.
-
-1.4.2.3.Ti=1.04(b)(iii) Suspension
-
-1.4.2.3.sec=The Policy Authority may suspend a Participant for violation of the Rules of this Trust Framework. As determined by the Policy Authority, a notice of suspension may be effective immediately–in the case of a serious violation threatening the security of the ID Federation or the rights or property of any Participant in the ID Federation (in the sole discretion of the Policy Authority)-or the suspension may be effective after a notice period and an opportunity to cure. A notice of suspension shall be delivered in writing by the Federation Operator to the business and technical contacts identified by the Participant. The notice of suspension shall include a description of the violation, a description of the corrective action or actions sought, and a time frame within which to cure the violations. During the suspension term, the Participant shall be removed from the Participant Directory, including information about any Certified Service of the Participant. Members of the ID Federation shall be given notice of the suspension of the Party’s Participation in the ID Federation. Any suspension longer than one (1) year shall be considered an involuntary termination. A suspension may also become an involuntary termination if corrective action does not take place within the time frame required in the notice of suspension. In either instance, the Policy Authority may involuntarily terminate the Participant with thirty (30) days written notice.
-
-1.4.2.4.Ti=1.04(b)(iv) Involuntary Termination
-
-1.4.2.4.sec=The Policy Authority may cause a Participant to be involuntarily terminated for serious violation of the Rules of this Trust Framework (in the sole discretion of the Policy Authority). A notice of involuntary termination may be effective immediately, in the case of a serious violation threatening the security of the ID Federation or the rights or property of any Participant in the ID Federation (in the sole discretion of the Policy Authority), or the involuntary termination may be effective after a notice period and an opportunity to cure. A notice of termination shall be delivered in writing by the Policy Authority to the Business and Technical Contacts for the Participant. The notice of termination shall include a description of the violation and, if applicable, a description of the corrective action or actions sought and a time frame within which to cure the violations. Information about an involuntarily terminated Participant shall be removed from the Participant Directory, including information about any Certified Service of the Participant. Members of the ID Federation shall be given notice of the termination of the Party’s Participation in the ID Federation.
-
-1.4.2.=[Z/f/ol/4]
-
-1.4.3.Ti=1.04(c) Reinstatement
-
-1.4.3.sec=Any suspended or terminated Participant may be reinstated as an active Participant of the ID Federation. Reinstatement of an involuntarily terminated Participant shall require approval by the Policy Authority upon determination that the circumstances giving rise to the suspension or termination have been resolved. A Party undergoing reinstatement from suspension or termination must successfully complete any actions reasonably requested by the Policy Authority. 1.04(d) No Liability for Suspension or Termination Each Member acknowledges and agrees that the Policy Authority has the right to make suspension and termination determinations, and any related determination, as described herein in its discretion and in no event will a Participant hold the Policy Authority, or any individual member, employee, contractor or agent of the Policy Authority or any other Participant liable for any such determination. 
-
-1.4.=[Z/f/ol/3]
+1.4.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Business_Termination_v0.md]
 
 1.5.Ti=1.05 Business Practices and Operations
 
@@ -121,74 +50,11 @@ Title.=[Z/f/paras/s3]
 
 1.=[Z/f/ol/6]
 
+2.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Legal_v0.md]
+
 =[Z/f/ol/2]
 
 
-2.Ti=Article 2: Legal
-
-2.01 Participation Legal Criteria
-
-Each Participant in the ID Federation must execute the Participation Agreement, indicating the respective Role or Roles applicable to that Participant. Each Participant shall pay the applicable fees. In no event will the ID Federation be responsible for refunding any fees paid.
-2.02 Liability
-2.02(a) Liability Between Participants
-The relevant provisions of any Existing Commercial Contract between Participants, that governs the activities and subject matter contemplated herein, shall first and foremost govern the relationship of and liability between those Participants in the ID Federation. In the event of a conflict between the terms of the aforementioned Existing Commercial Contract and the relevant provisions of this Trust Framework, including the Participation Agreement, the Existing Commercial Contract shall govern. In the event that there is no Existing Commercial Contract between relevant Participants, or if such an Existing Commercial Contract does exist but does not address the activities and subject matter contemplated under this Trust Framework, then the provisions of the Trust Framework shall govern.
-2.02(a)(i) Disclaimers
-ANY SPECIFICATION PROVIDED BY THE ID FEDERATION UNDER THIS TRUST FRAMEWORK AND ANY SERVICES PROVIDED BY THE ID FEDERATION ARE OFFERED WITHOUT ANY WARRANTY WHATSOEVER, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY OF DESIGN, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND IN PARTICULAR, ANY WARRANTY OF NON-INFRINGEMENT IS EXPRESSLY DISCLAIMED. ANY USE OF THIS SPECIFICATION IN WHOLE OR IN ANY PART SHALL BE MADE ENTIRELY AT THE IMPLEMENTER'S OWN RISK, AND NEITHER ID FEDERATION, NOR ANY OF ITS MEMBERS OR SUBMITTERS, SHALL HAVE ANY LIABILITY WHATSOEVER TO ANY IMPLEMENTER OR THIRD PARTY FOR ANY DAMAGES OF ANY NATURE WHATSOEVER, DIRECTLY OR INDIRECTLY, ARISING FROM THE USE OF THIS SPECIFICATION. THE ID FEDERATION EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, AND ALL OBLIGATIONS OR LIABILITIES FOR DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OF THIRD PARTY SERVICES, WHETHER OR NOT RECOMMENDED BY, REFERRED BY, OR PROVIDED THROUGH THE ID FEDERATION, INCLUDING BUT NOT LIMITED TO THE SERVICES OF THE ASSESSOR.
-Trust Framework | Trust Federation 04/30/14
-7
-Final Trust Framework 20140429 web
-2.02(a)(ii) Limitation of Liability
-As between Participants, each Participant shall be responsible for harm caused by its own acts and omissions and not for the acts or omissions of any other Participant, and each Participant shall be responsible for such harm to the extent that it was caused by the Participant’s breach of the provisions of the Trust Framework arising out of its negligent conduct or willful misconduct.
-2.02(a)(iii) Limitation of Damages
-In no event will the ID Federation or a Participant be liable for any consequential, indirect, incidental, punitive, special, or exemplary damages, including, without limitation, damages for lost profits, business interruption or loss of data incurred by another Participant as result of any activity undertaken pursuant to this Trust Framework, even if the ID Federation or the Participant has been advised of the possibility of such damages. In no event will the ID Federation or a Participant be liable for any direct damages hereunder, except, in the case of a Participant, for damages to the extent caused by the Participant’s breach of the provisions of the Trust Framework arising out of its negligent conduct or willful misconduct. In no event will a Participant with a Certified Service have an entire cumulative liability for any direct liabilities, losses, claims, judgments, damages, expenses, or costs arising out of this Trust Framework — whether sounding in contract, tort or otherwise — that exceeds the greater of: (i) an amount equal to three (3) times the amount of the annual fee paid by such Participant pursuant to the Trust Framework during any consecutive twelve (12) month period; or (ii) $500,000.00, whichever is greater.
-2.02(b) Liability Between Participants and Non-Participants
-These Rules are made solely and specifically among and for the benefit of Participants. No person who is not a Participant shall have any rights, interest or claims under these Rules or be entitled to any benefits under or on account of these Rules, whether as a third party beneficiary or otherwise. There shall be no liability by a Participant to a person who is a not a Participant.
-2.03 Antitrust Policy
-The Antitrust Policy is hereby incorporated by reference into this Trust Framework and is attached hereto at Appendix C.
-2.04 Intellectual Property
-2.04(a) Intellectual Property Rights Policy
-The Intellectual Property Rights Policy is hereby incorporated by reference into this Trust Framework and is attached hereto at Appendix D.
-2.04(b) Copyright and Restricted Access
-The copyright for the Trust Framework, including without limitation the Formal Policies, Official Documents, or Rules shall belong to the ID Federation. Any materials published without access restrictions and publicly available on the ID Federation website shall be made available pursuant to the Terms of Use on the ID Federation website. Any materials published with access restrictions on the ID Federation website shall be subject to the 
-Trust Framework | Trust Federation 04/30/14
-8
-Final Trust Framework 20140429 web
-additional restrictions in Section 2.07.
-2.05 Dispute Resolution
-2.05(a) Disputes Between Participants
-2.05(a)(i) Negotiation
-In the event of any dispute, claim, question, or disagreement arising from or relating to these Rules or the breach thereof, the relevant Participants shall use their best efforts to settle the dispute, claim, question, or disagreement. To this effect, they shall consult and negotiate with each other in good faith and, recognizing their mutual interests, attempt to reach a just and equitable solution satisfactory to both parties.
-2.05(a)(ii) Mediation
-If a dispute arises out of or relates to these Rules, or the breach thereof, and if the dispute cannot be settled through negotiation, the parties agree first to try in good faith to settle the dispute by mediation administered by the American Arbitration Association under its Commercial Mediation Procedures before resorting to arbitration, litigation, or some other dispute resolution procedure (as permitted by this Trust Framework).
-2.05(a)(iii) Arbitration
-If Participants do not reach a resolution of the dispute by mediation within a period of sixty (60) days, then, upon notice by either Party to the other, all disputes, claims, questions, or differences shall be finally settled by arbitration administered by arbitration. Any controversy or claim arising out of or relating to these Rules, or the breach thereof, shall be settled by arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules (including the Optional Rules for Emergency Measures of Protection), and judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. 
-2.05(a)(iv) Intellectual Property Disputes
-Notwithstanding the foregoing, any controversy or claim arising out of or relating to these Rules, or the breach thereof involving intellectual property rights shall not be subject to arbitration.
-2.06 Governing Law
-This Trust Framework, including any directly included or incorporated by reference Formal Policy, Official Document, Agreement, Requirement or other Rule, shall be governed by and interpreted in accordance with the laws of Delaware, and exclusive venue for any and all disputes under law or jurisprudence hereunder, including mediation or arbitration, shall lie in the state or federal courts located in the State of Delaware.
-2.07 Confidentiality
-Nothing in this Trust Framework requires confidentiality other than the following:
- Any information provided as part of the Certification process or Certified Services that is mutually agreed by the applicant and the Federation Operator and/or the Policy Authority to be confidential;
- Information that is sensitive, proprietary, mission critical, high value or otherwise may pose a  security risk to the ID Federation and is designated as Confidential by the Federation Operator and/or the Policy Authority; or
- By application of Section 2.9 of this Trust Framework, the terms of any Existing Commercial Contract, including the terms of any Non-Disclosure Agreement or other terms related to confidentiality or trade secrets shall continue to govern.2.07 Confidentiality
-Nothing in this Trust Framework is intended to affect the obligations of the Parties under Existing Commercial Contracts.
-2.08 Incorporation of Documents
-In order to be incorporated into this Trust Framework, the Trust Framework must incorporate a specific named document or the document must explicitly state that it is incorporated into the Trust Framework.
-2.09 Order of Precedence
-In the event of a conflict between any Existing Commercial Contract, on the one hand, and this Trust Framework, including the Participation Agreement, on the other, the Existing Commercial Contract shall govern in all respects. In the event of a conflict between the Participation Agreement and this Trust Framework then the terms of the Participation Agreement shall govern.
-2.10 Amendment
-This Trust Framework, including all Policies incorporated by reference, may be amended by the Board of Directors from time to time in accordance with the Trust Framework Amendment and Change Management Policy, which is hereby incorporated by reference and is attached hereto at Appendix E.
-2.11 Survival
-The following obligations shall survive termination or suspension: 1.04, 1.04(d), 1.06, 2.01, 2.02 (including all subparts), 2.04 (including all subparts), 2.05 (including all subparts), 2.06, 2.07, 2.08, 2.09, 2.11, and 2.12. The following obligations shall additionally survive suspension: 1.04(c).
-2.12 Notice
-All notices that are required or may be given pursuant to the Trust Framework must be in writing and shall be deemed duly given or made as of the date delivered personally, sent by a recognized courier service, sent by a recognized overnight delivery service, sent by facsimile or email (but only if followed by transmittal by a recognized courier service, by a recognized overnight delivery service or delivered in hand for delivery within three (3) business days) or sent by registered or certified mail, postage prepaid, to the parties at the following addresses (or to the attention of such other Person or such other address as any Party may provide to the other Party by notice in accordance with this section.
-2.13 Assignment
-The ID Federation may assign this Trust Framework in accordance with the Bylaws.
-2.14 Definitions
-All capitalized terms shall have the definition assigned in the Glossary, which is attached hereto at Appendix F. 
-Trust Framework | Trust Federation 04/30/14
-10
-Final Trust Framework 20140429 web
 Article 3: Technical
 3.01 Use Cases
 3.01(a) Technical Scope
