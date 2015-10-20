@@ -6,7 +6,7 @@ Ti={Co.Letterhead}
 
 0.3.sec=Ladies and Gentlemen:
 
-0.90.sec=This letter will confirm our agreement that pursuant to and effective as of your purchase of [________] shares of Series [_] Preferred Stock of {Co.Name.Full} (the “Company”),  [Investor Name] (the “Investor”) shall be entitled to the following contractual management rights, in addition to any rights to non-public financial information, inspection rights, and other rights specifically provided to all investors in the current financing:
+0.90.sec=This letter will confirm our agreement that pursuant to and effective as of your purchase of [________] shares of Series [_] Preferred Stock of {Company.Name.Full} (the “Company”),  [Investor Name] (the “Investor”) shall be entitled to the following contractual management rights, in addition to any rights to non-public financial information, inspection rights, and other rights specifically provided to all investors in the current financing:
 
 0.xlist={0.blist}
 
@@ -24,7 +24,7 @@ Ti={Co.Letterhead}
 
 Note=Signature seems backwards in the original
 
-90.sec=Very truly yours,<br>{Investor.Name.Full}<br>By: ___________________<br>{Investor.Sign.Name.Full}<br>{Investor.Sign.Title}<br><br>Agreed and Accepted:<br>{Co.Sign.Block}
+90.sec=Very truly yours,<br>{Investor.Name.Full}<br>By: ___________________<br>{Investor.Sign.Name.Full}<br>{Investor.Sign.Title}<br><br>Agreed and Accepted:<br>{Company.Sign.Block}
 
 DocBody={Doc}
 

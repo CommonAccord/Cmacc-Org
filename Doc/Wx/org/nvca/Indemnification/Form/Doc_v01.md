@@ -250,7 +250,7 @@ Doc.Title=INDEMNIFICATION AGREEMENT
 
 17.1.sec=To Indemnitee at the address set forth below Indemnitee signature hereto.
 
-17.2.sec=To the Company at:<br>{Co.Notice.Block}
+17.2.sec=To the Company at:<br>{Company.Notice.Block}
 
 17.90.sec=or to such other address as may have been furnished to Indemnitee by the Company or to the Company by Indemnitee, as the case may be.
 

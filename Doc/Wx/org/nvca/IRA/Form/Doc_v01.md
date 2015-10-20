@@ -308,6 +308,8 @@ Note=If this provision is included in the Agreement, careful attention should be
 
 4.2.Ti=Directed IPO Shares
 
+4.2.sec=MISSING TEXT!! GET FROM ORIGINAL
+
 4.3.Ti=Termination
 
 4.3.sec=The covenants set forth in Subsection 4.1 [and Subsection 4.2] shall terminate and be of no further force or effect (i) immediately before the consummation of the IPO, [(ii) when the Company first becomes subject to the periodic reporting requirements of Section 12(g) or 15(d) of the Exchange Act,] [or (iii) upon a Deemed Liquidation Event, as such term is defined in the Company’s Certificate of Incorporation,] whichever event occurs first [and, as to each Major Investor, in accordance with Subsection 4.1(e)]. 

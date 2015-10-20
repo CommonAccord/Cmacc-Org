@@ -87,7 +87,7 @@ Note=Setting up the alternatives:
 
 2.1.3.sec=Subject to the terms of Section 3 below, each Key Holder hereby unconditionally and irrevocably grants to the Investors a Secondary Refusal Right to purchase all or any portion of the Transfer Stock not purchased by the Company pursuant to the Right of First Refusal, as provided in this Subsection 2.1(c).  If the Company does not intend to exercise its Right of First Refusal with respect to all Transfer Stock subject to a Proposed Key Holder Transfer, the Company must deliver a Secondary Notice to the selling Key Holder and to each Investor to that effect no later than fifteen (15) days after the selling Key Holder delivers the Proposed Transfer Notice to the Company.  To exercise its Secondary Refusal Right, an Investor must deliver an Investor Notice to the selling Key Holder and the Company within ten (10) days after the Company’s deadline for its delivery of the Secondary Notice as provided in the preceding sentence.
 
-2.1.4.sec=Undersubscription of Transfer Stock
+2.1.4.Ti=Undersubscription of Transfer Stock
 
 2.1.4.sec=If options to purchase have been exercised by the Company and the Investors with respect to some but not all of the Transfer Stock by the end of the ten (10) day period specified in the last sentence of Subsection 2.1(c) (the “Investor Notice Period”), then the Company shall, immediately after the expiration of the Investor Notice Period, send written notice (the “Company Undersubscription Notice”) to those Investors who fully exercised their Secondary Refusal Right within the Investor Notice Period (the “Exercising Investors”).  Each Exercising Investor shall, subject to the provisions of this Subsection 2.1(d), have an additional option to purchase all or any part of the balance of any such remaining unsubscribed shares of Transfer Stock on the terms and conditions set forth in the Proposed Transfer Notice.  To exercise such option, an Exercising Investor must deliver an Undersubscription Notice to the selling Key Holder and the Company within ten (10) days after the expiration of the Investor Notice Period.  In the event there are two (2) or more such Exercising Investors that choose to exercise the last-mentioned option for a total number of remaining shares in excess of the number available, the remaining shares available for purchase under this Subsection 2.1(d) shall be allocated to such Exercising Investors pro rata based on the number of shares of Transfer Stock such Exercising Investors have elected to purchase pursuant to the Secondary Refusal Right (without giving effect to any shares of Transfer Stock that any such Exercising Investor has elected to purchase pursuant to the Company Undersubscription Notice).  If the options to purchase the remaining shares are exercised in full by the Exercising Investors, the Company shall immediately notify all of the Exercising Investors and the selling Key Holder of that fact.
 
@@ -326,6 +326,8 @@ Note=Setting up the alternatives:
 
 6.=[Z/ol/19]
 
+90.Ti=</i>
+
 90.1.sec=IN WITNESS WHEREOF, the parties have executed this [Amended and Restated] Right of First Refusal and Co-Sale Agreement as of the date first written above.
 
 
@@ -337,9 +339,7 @@ Note=Setting up the alternatives:
 
 90.5.sec=<hr><hr><h3>Schedule A<br>Investors</h3>{Sch.1.Doc}<hr><hr><h3>Schedule B<br>Key Holders</h3>{Sch.2.Doc}<hr><hr><h3>Exhibit A<br>Key Holders</h3>{Exh.1.Doc}
 
-90.xlist={90.blist}
-
-90.=[Z/ol/s5]
+90.=[Z/paras/s5]
 
 =[Z/ol/6]
 
@@ -358,10 +358,6 @@ Exh.1.90.1.sec=Dated as of the [__] day of [__________, _____].
 
 Exh.1.90.2.sec={Investor.Spouse.Sign.Block}
 
-Exh.1.90.=[Z/ol/s2]
+Exh.1.90.=[Z/paras/s2]
 
-Exh.1.90.xlist={Exh.1.90.blist}
-
-Exh.1.xlist={Exh.1.blist}
-
-Exh.1.=[Z/ol/s3]
+Exh.1.=[Z/paras/s3]

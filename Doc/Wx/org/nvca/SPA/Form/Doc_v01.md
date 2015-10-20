@@ -176,7 +176,7 @@ Ftn47=<a href="#_ftn47" name="_ftnref" title="">[47]</a>
 
 3.6.3.sec=Any legend required by the securities laws of any state to the extent such laws are applicable to the {Shares} represented by the certificate, instrument, or book entry so legended.
 
-3.6..=[Z/ol/s3]
+3.6.=[Z/ol/s3]
 
 3.7.Ti=Accredited Investor
 
@@ -423,12 +423,17 @@ Ftn62=<a href="#_ftn62" name="_ftnref" title="">[62]</a>
 
 6.=[Z/ol/17]
 
-90.Signature.InWitness=IN WITNESS WHEREOF, the parties have executed this {Series_A_Preferred_Stock} Purchase {Agreement} as of the date first written above.
+90.1.sec=IN WITNESS WHEREOF, the parties have executed this {Series_A_Preferred_Stock} Purchase {Agreement} as of the date first written above.
+
+90.2.sec={Company.Sign.Block}<br>{Founders.Sign.Block}<br>{Purchasers.Sign.Block}
+
+90.3.sec=<b>Exhibits</b><br>{Exhibit.Sec}
 
 =[Z/ol/6]
 
 DocBody={Doc}
 
+90.
 COMPANY:
 
 By:    
@@ -474,29 +479,29 @@ Address:
 </div>
 <div>
 
-<strong><u>EXHIBITS</u></strong>
+Attach.List=<strong><u>EXHIBITS</u></strong>
 
-Exhibit.A.Ti=Schedule of {Purchasers}
+Exhibit.1.Ti=Schedule of {Purchasers}
 
-Exhibit.B.Ti=Form of Amended and {Restated_Certificate} of Incorporation
+Exhibit.2.Ti=Form of Amended and {Restated_Certificate} of Incorporation
 
-Exhibit.C.Ti=Disclosure Schedule
+Exhibit.3.Ti=Disclosure Schedule
 
-Exhibit.D.Ti=Form of {Indemnification_Agreement}
+Exhibit.4.Ti=Form of {Indemnification_Agreement}
 
-Exhibit.E.Ti=Form of Invester' Rights {Agreement}
+Exhibit.5.Ti=Form of Invester' Rights {Agreement}
 
-Exhibit.F.Ti=Form of {Management_Rights_Letter}
+Exhibit.6.Ti=Form of {Management_Rights_Letter}
 
-Exhibit.G.Ti=Form of {Right_of_First_Refusal_and_Co-Sale_Agreement}
+Exhibit.7.Ti=Form of {Right_of_First_Refusal_and_Co-Sale_Agreement}
 
-Exhibit.H.Ti=Form of {Voting _Agreement}
+Exhibit.8.Ti=Form of {Voting _Agreement}
 
-Exhibit.I.Ti=Form of Legal Opinion of {Co.Atty.Name.Full}
+Exhibit.9.Ti=Form of Legal Opinion of {Co.Atty.Name.Full}
 
-Exhibit.J.Ti=Milestone Events
+Exhibit.10.Ti=Milestone Events
 
-
+Exhibit.=[Z/ol/10]
 
 Exhibit.C.Body=This Schedule of Exceptions is made and given pursuant to Section 2 of the {Series_A_Preferred_Stock} Purchase {Agreement}, dated as of [date]  (the "{Agreement}"), between [{Company} name] (the "{Company}") and the {Purchasers} listed on Schedule A thereto. All capitalized terms used but not defined herein shall have the meanings as defined in the {Agreement}, unless otherwise provided. The section numbers below correspond to the section numbers of the representations and warranties in the {Agreement}; provided<em>, </em>however, that any information disclosed herein under any section number shall be deemed to be disclosed and incorporated into any other section number under the {Agreement} where such disclosure would be appropriate and such appropriateness is reasonably apparent from the face of such disclosure. Nothing in this Schedule of Exceptions is intended to broaden the scope of any representation or warranty contained in the {Agreement} or to create any covenant. Inclusion of any item in this Schedule of Exceptions (1) does not represent a determination that such item is material or establish a standard of materiality, (2) does not represent a determination that such item did not arise in the ordinary course of business, (3) does not represent a determination that the transactions contemplated by the {Agreement} require the consent of third parties, and (4) shall not constitute, or be deemed to be, an admission to any third party concerning such item. This Schedule of Exceptions includes brief descriptions or summaries of certain agreements and instruments, copies of which are available upon reasonable request. Such descriptions do not purport to be comprehensive, and are qualified in their entirety by reference to the text of the documents described, true and complete copies of which have been provided to the Investors or their respective counsel
  
