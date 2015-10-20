@@ -1,0 +1,9 @@
+Sec=<b>{Ti}</b><br>{sec}
+
+Model.Root={Sec}
+
+0.sec=</i>
+
+90.sec=</i>
+
+sec=<b>..sec...</b>

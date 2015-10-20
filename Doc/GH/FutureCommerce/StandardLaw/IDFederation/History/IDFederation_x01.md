@@ -21,11 +21,13 @@ Title.=[Z/f/paras/s3]
 
 4.Ti=Article 4: Appendices
 
-1.sec=The Appendices set forth below are attached hereto and incorporated herein. Appendices may be changed from time to time by the Policy Authority as permitted hereunder or pursuant to the Change Management procedure set forth in the Trust Framework. Any changes will be posted on the ID Federation Website. Regardless of whether or not a notice of change has been sent out to all Participants, the Participants shall have the obligation of complying with any changes.
+4.1.sec=The Appendices set forth below are attached hereto and incorporated herein. Appendices may be changed from time to time by the Policy Authority as permitted hereunder or pursuant to the Change Management procedure set forth in the Trust Framework. Any changes will be posted on the ID Federation Website. Regardless of whether or not a notice of change has been sent out to all Participants, the Participants shall have the obligation of complying with any changes.
 
-2.sec=MAKE LIST OF APPENDIXES
+4.2.sec=MAKE LIST OF APPENDIXES 
 
 4.=[Z/f/ol/s2]
+
+90.sec=<b>Appendixes</b><ol><li><b>Appendix A</b><br>{AppendixA.Sec}<li><b>Appendix B</b><br>{AppendixB.Sec}<li><b>Appendix C</b><br>{AppendixC.Sec}<li><b>Appendix D</b><br>{AppendixD.Sec}</ol>
 
 AppendixA.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix_Certification_v0.md]
 
