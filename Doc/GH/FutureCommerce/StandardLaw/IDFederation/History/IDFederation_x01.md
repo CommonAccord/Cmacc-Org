@@ -20,16 +20,25 @@ Title.=[Z/f/paras/s3]
 
 
 4.Ti=Article 4: Appendices
-=The Appendices set forth below are attached hereto and incorporated herein. Appendices may be changed from time to time by the Policy Authority as permitted hereunder or pursuant to the Change Management procedure set forth in the Trust Framework. Any changes will be posted on the ID Federation Website. Regardless of whether or not a notice of change has been sent out to all Participants, the Participants shall have the obligation of complying with any changes.
-=Appendix A: Certification Policy
-=Appendix B: ID Federation Trust Mark Policy
-=Appendix C: Antitrust Policy
-=Appendix D: Intellectual Property Rights Policy
-=Appendix E: Change Management Policy
-=Appendix F: Glossary
-=Appendix G: Use Cases Specification
-=Appendix H: Resources
-=Appendix E
-=Appendix F
-=Appendix G
+
+1.sec=The Appendices set forth below are attached hereto and incorporated herein. Appendices may be changed from time to time by the Policy Authority as permitted hereunder or pursuant to the Change Management procedure set forth in the Trust Framework. Any changes will be posted on the ID Federation Website. Regardless of whether or not a notice of change has been sent out to all Participants, the Participants shall have the obligation of complying with any changes.
+
+2.sec=MAKE LIST OF APPENDIXES
+
+4.=[Z/f/ol/s2]
+
+AppendixA.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix_Certification_v0.md]
+
+AppendixB.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix_TrustMarkPolicy_v0.md]
+
+AppendixC.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix_Antitrust_v0.md]
+
+AppendixD.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix_IPRightsPolicy_v0.md]
+
+AppendixE.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix_AmendmentPolicy_v0.md]
+
+AppendixF.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix_Glossary_v0.md]
+
+AppendixG.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix_High-LevelUseCases_v0.md]
+
 =[Z/f/ol/4]
