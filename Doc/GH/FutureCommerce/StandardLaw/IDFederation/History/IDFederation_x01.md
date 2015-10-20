@@ -27,7 +27,7 @@ Title.=[Z/f/paras/s3]
 
 4.=[Z/f/ol/s2]
 
-90.sec=<b>Appendixes</b><ol><li><b>Appendix A</b><br>{AppendixA.Sec}<li><b>Appendix B</b><br>{AppendixB.Sec}<li><b>Appendix C</b><br>{AppendixC.Sec}<li><b>Appendix D</b><br>{AppendixD.Sec}</ol>
+90.sec=<b>Appendixes</b><ol><li><b>Appendix A</b><br>{AppendixA.Sec}<li><b>Appendix B</b><br>{AppendixB.Sec}<li><b>Appendix C</b><br>{AppendixC.Sec}<li><b>Appendix D</b><br>{AppendixD.Sec}<li><b>Appendix E</b><br>{AppendixE.Sec}<li><b>Appendix F</b><br>{AppendixF.Sec}</ol>
 
 AppendixA.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix_Certification_v0.md]
 
