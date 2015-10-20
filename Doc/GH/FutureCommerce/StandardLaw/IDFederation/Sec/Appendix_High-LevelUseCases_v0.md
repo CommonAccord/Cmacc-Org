@@ -1,4 +1,5 @@
-Model.Root=<a href="http://commonaccord.org/Doc/GH/FutureCommerce/StandardLaw/IDFederation/History/AttachH.pdf"> alt="Exhibit" style="width:304px;height:228px;"</a>
+Model.Root=<img src="http://commonaccord.org/Doc/GH/FutureCommerce/StandardLaw/IDFederation/History/AttachH.pdf"> 
+
 
 ID Federation Use Cases Specification
 Ti=High-Level Technical Use Cases
