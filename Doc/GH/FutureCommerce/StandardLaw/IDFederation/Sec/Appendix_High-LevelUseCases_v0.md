@@ -1,13 +1,23 @@
+Model.Root=<a href="Doc/GH/FutureCommerce/StandardLaw/IDFederation/History/AttachH.pdf"> alt="Exhibit" style="width:304px;height:228px;"</a>
+
 ID Federation Use Cases Specification
-High-Level Technical Use Cases
-The High-Level Technical Use Cases below satisfy all of the business use cases outlined in Section 1.01 of this document as well as logical extensions of those business use cases which could exist, but were not described. 
-Table 1 below provides an indexed cross-reference for each of those business use cases, listing the high-level technical use case that addresses each business use case, followed by Detailed Use Case analyses for each of the high-level use cases.
+Ti=High-Level Technical Use Cases
+
+1.sec=The High-Level Technical Use Cases below satisfy all of the business use cases outlined in Section 1.01 of this document as well as logical extensions of those business use cases which could exist, but were not described. 
+
+2.sec=Table 1 below provides an indexed cross-reference for each of those business use cases, listing the high-level technical use case that addresses each business use case, followed by Detailed Use Case analyses for each of the high-level use cases.
 Table 1
-Business# Technical# Use Case Description Individual User
-1 iv Direct Carrier Quote on Carrier Website IdP Agency Producer
-2 iv Direct Carrier Inquiry/Endorsement on Carrier Website IdP Agency Producer
-3 vi Carrier Inquiry/Endorsement from Agency Management System to Carrier Website IdP Agency Producer
-4 vi Comparative Quote from Agency Management System to Comparative Rater IdP Agency Producer
+
+Table.0.sec=Business# Technical# Use Case Description Individual User
+
+Table.1.sec=1 iv Direct Carrier Quote on Carrier Website IdP Agency Producer
+
+Table.2.sec=2 iv Direct Carrier Inquiry/Endorsement on Carrier Website IdP Agency Producer
+
+Table.3.sec=3 vi Carrier Inquiry/Endorsement from Agency Management System to Carrier Website IdP Agency Producer
+
+Table.4.sec=4 vi Comparative Quote from Agency Management System to Comparative Rater IdP Agency Producer
+
 5 vi Comparative Quote directly from Agency Management System IdP Agency Producer
 6 vi Comparative Quote directly from Comparative Rater IdP Agency Producer
 7 iv First Notice of Loss on Carrier Website IdP Agency Producer
@@ -34,7 +44,8 @@ Business# Technical# Use Case Description Individual User
 28 iii or v All Individual Users logging into Identity Provider System Remote Worker
 29 ii or iv or vi Direct Login to Carrier/Agency/Vendor Website IdP Agency Producer
 30 i or iii or v Direct Login to Carrier/Agency/Vendor Website Non-IdP Agency Producer
-Note: Consumers can act as Individual Users in any of the high-level use cases described below, but a participating User Authority must be responsible for requesting provisioning, managing access to, and de-provisioning the Credentials and Tokens issued by a participating Identity Provider.
+
+4.sec=Note: Consumers can act as Individual Users in any of the high-level use cases described below, but a participating User Authority must be responsible for requesting provisioning, managing access to, and de-provisioning the Credentials and Tokens issued by a participating Identity Provider.
 (i) Individual User accesses participating Vendor Systems (IdP & RPs) via non-participating Agency – “Non-Participating Agency to Participating Vendor”
 1) Agency provides access to Vendor systems, but is not a Participant in the ID Federation
 2) Vendor system (IdP) Authenticates Individual User via Vendor system login page
@@ -102,4 +113,4 @@ Currently Out of Scope Use Cases
  Participating IdP attempts to accesses Participating RP via Non-Participant – “NonParticipant Pass-Through”
  Consumer (IdP) accesses Agency (RP)
  Consumer (IdP) accesses Vendor (RP)
- Consumer (IdP) accesses Carrier (RP)  
+ Consumer (IdP) accesses Carrier (RP)
