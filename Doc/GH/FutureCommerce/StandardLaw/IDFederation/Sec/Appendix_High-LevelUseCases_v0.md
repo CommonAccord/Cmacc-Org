@@ -1,4 +1,6 @@
-Model.Root=<img src="http://commonaccord.org/Doc/GH/FutureCommerce/StandardLaw/IDFederation/History/AttachH.pdf"> 
+Model.Root={Sec}
+
+Sec=<img src="http://commonaccord.org/Doc/GH/FutureCommerce/StandardLaw/IDFederation/History/AttachH.jpg"> 
 
 
 ID Federation Use Cases Specification
