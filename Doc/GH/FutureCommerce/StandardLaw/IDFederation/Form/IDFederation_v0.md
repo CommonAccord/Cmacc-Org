@@ -16,7 +16,7 @@ Business.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Business/_v0.md]
 
 Legal.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Legal/_v0.md]
 
-Technical.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Technical_v0.md]
+Technical.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Technical/_v0.md]
 
 Appendix.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix/_v0.md]
 
