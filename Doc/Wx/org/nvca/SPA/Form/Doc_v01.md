@@ -4,7 +4,7 @@ Doc.Title=SERIES A PREFERRED STOCK PURCHASE AGREEMENT
 
 0.sec={0.1.sec}<br>{0.2.sec}
 
-0.1.sec=THIS SERIES A PREFERRED STOCK PURCHASE AGREEMENT (this "<strong>{Agreement}</strong>"), is made as of {AGT.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the "<strong>{Company}</strong>"), the investors listed on <u>Exhibit A</u> attached to {this_Agreement} (each a "<strong>{Purchaser}</strong>" and together the "<strong>{Purchasers}</strong>") {Prologue.ThisAgreement.Ins1}
+0.1.sec=THIS SERIES A PREFERRED STOCK PURCHASE AGREEMENT (this "<strong>{Agreement}</strong>"), is made as of {AGT.Effective.YMD} by and among {Company.Name.Full}, a Delaware corporation (the "<strong>{Company}</strong>"), the investors listed on <u>Exhibit A</u> attached to {this_Agreement} (each a "<strong>{Purchaser}</strong>" and together the "<strong>{Purchasers}</strong>") {Prologue.ThisAgreement.Ins1}
 
 Prologue.ThisAgreement.Ins1=and the persons listed as "{Founder}s" on the signature pages to {this_Agreement} (each a "<strong>{Founder}</strong>" and together the "<strong>{Founder}s</strong>").
 
@@ -136,77 +136,79 @@ Ftn13=<a href="#_ftn13" name="_ftnref" title=""><sup>[13]</sup></a>
 
 Ftn44=<a href="#_ftn44" name="_ftnref" title="">[44]</a>
 
-3.Ti=Representations and Warranties of the {Purchasers}
+3P.Ti=Representations and Warranties of the {Purchasers}
 
 Fnt45=<a href="#_ftn45" name="_ftnref" title="">[45]</a>
 
-3.0.sec=Each {Purchaser} hereby represents and warrants to the {Company}, severally and not jointly, that:
+3.Sec={3P.Sec}<li>{3A.Sec}
 
-3.1.Ti=Authorization
+3P.0.sec=Each {Purchaser} hereby represents and warrants to the {Company}, severally and not jointly, that:
 
-3.1.sec=The {Purchaser} has full power and authority to enter into the {Transaction_Agreements}. The {Transaction_Agreements} to which the {Purchaser} is a party, when executed and delivered by the {Purchaser}, will constitute valid and legally binding obligations of the {Purchaser}, enforceable in accordance with their terms, except (a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance and any other laws of general application affecting enforcement of creditors' rights generally, and as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies, or (b) to the extent the indemnification provisions contained in the {Investors'_Rights_Agreement} may be limited by applicable federal or state securities laws.
+3P.1.Ti=Authorization
 
-3.2.Ti=Purchase Entirely for Own Account
+3P.1.sec=The {Purchaser} has full power and authority to enter into the {Transaction_Agreements}. The {Transaction_Agreements} to which the {Purchaser} is a party, when executed and delivered by the {Purchaser}, will constitute valid and legally binding obligations of the {Purchaser}, enforceable in accordance with their terms, except (a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance and any other laws of general application affecting enforcement of creditors' rights generally, and as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies, or (b) to the extent the indemnification provisions contained in the {Investors'_Rights_Agreement} may be limited by applicable federal or state securities laws.
+
+3P.2.Ti=Purchase Entirely for Own Account
 
 Ftn46=<a href="#_ftn46" name="_ftnref" title="">[46]</a>
 
-3.2.sec=This {Agreement} is made with the {Purchaser} in reliance upon the {Purchaser}'s representation to the {Company}, which by the {Purchaser}'s execution of {this_Agreement}, the {Purchaser} hereby confirms, that the {Shares} to be acquired by the {Purchaser} will be acquired for investment for the {Purchaser}'s own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that the {Purchaser} has no present intention of selling, granting any participation in, or otherwise distributing the same. By executing {this_Agreement}, the {Purchaser} further represents that the {Purchaser} does not presently have any contract, undertaking, agreement or arrangement with any {Person} to sell, transfer or grant participations to such {Person} or to any third {Person}, with respect to any of the {Shares}. The {Purchaser} has not been formed for the specific purpose of acquiring the {Shares}.
+3P.2.sec=This {Agreement} is made with the {Purchaser} in reliance upon the {Purchaser}'s representation to the {Company}, which by the {Purchaser}'s execution of {this_Agreement}, the {Purchaser} hereby confirms, that the {Shares} to be acquired by the {Purchaser} will be acquired for investment for the {Purchaser}'s own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that the {Purchaser} has no present intention of selling, granting any participation in, or otherwise distributing the same. By executing {this_Agreement}, the {Purchaser} further represents that the {Purchaser} does not presently have any contract, undertaking, agreement or arrangement with any {Person} to sell, transfer or grant participations to such {Person} or to any third {Person}, with respect to any of the {Shares}. The {Purchaser} has not been formed for the specific purpose of acquiring the {Shares}.
 
-3.3.Ti=Disclosure of Information
+3P.3.Ti=Disclosure of Information
 
-3.3.sec=The {Purchaser} has had an opportunity to discuss the {Company}'s business, management, financial affairs and the terms and conditions of the offering of the {Shares} with the {Company}'s management and has had an opportunity to review the {Company}'s facilities. The foregoing, however, does not limit or modify the representations and warranties of the {Company} in Section 2 of {this_Agreement} or the right of the {Purchasers} to rely thereon.
+3P.3.sec=The {Purchaser} has had an opportunity to discuss the {Company}'s business, management, financial affairs and the terms and conditions of the offering of the {Shares} with the {Company}'s management and has had an opportunity to review the {Company}'s facilities. The foregoing, however, does not limit or modify the representations and warranties of the {Company} in Section 2 of {this_Agreement} or the right of the {Purchasers} to rely thereon.
 
-3.4.Ti=Restricted Securities
+3P.4.Ti=Restricted Securities
 
-3.4.sec=The {Purchaser} understands that the {Shares} have not been, and will not be, registered under the {Securities_Act}, by reason of a specific exemption from the registration provisions of the {Securities_Act} which depends upon, among other things, the bona fide nature of the investment intent and the accuracy of the {Purchaser}'s representations as expressed herein. The {Purchaser} understands that the {Shares} are "restricted securities" under applicable U.S. federal and state securities laws and that, pursuant to these laws, the {Purchaser} must hold the {Shares} indefinitely unless they are registered with the Securities and Exchange Commission and qualified by state authorities, or an exemption from such registration and qualification requirements is available. The {Purchaser} acknowledges that the {Company} has no obligation to register or qualify the {Shares}, or the Common Stock into which it may be converted, for resale except as set forth in the {Investors'_Rights_Agreement}. The {Purchaser} further acknowledges that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding period for the {Shares}, and on requirements relating to the {Company} which are outside of the {Purchaser}'s control, and which the {Company} is under no obligation and may not be able to satisfy. [The {Purchaser} acknowledges that the {Company} filed a registration statement for a public offering of its Common Stock, which was withdrawn effective [_____ __, 20_]. The {Purchaser} understands that this offering is not intended to be part of the public offering, and that the {Purchaser} will not be able to rely on the protection of Section 11 of the {Securities_Act}.]
+3P.4.sec=The {Purchaser} understands that the {Shares} have not been, and will not be, registered under the {Securities_Act}, by reason of a specific exemption from the registration provisions of the {Securities_Act} which depends upon, among other things, the bona fide nature of the investment intent and the accuracy of the {Purchaser}'s representations as expressed herein. The {Purchaser} understands that the {Shares} are "restricted securities" under applicable U.S. federal and state securities laws and that, pursuant to these laws, the {Purchaser} must hold the {Shares} indefinitely unless they are registered with the Securities and Exchange Commission and qualified by state authorities, or an exemption from such registration and qualification requirements is available. The {Purchaser} acknowledges that the {Company} has no obligation to register or qualify the {Shares}, or the Common Stock into which it may be converted, for resale except as set forth in the {Investors'_Rights_Agreement}. The {Purchaser} further acknowledges that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding period for the {Shares}, and on requirements relating to the {Company} which are outside of the {Purchaser}'s control, and which the {Company} is under no obligation and may not be able to satisfy. [The {Purchaser} acknowledges that the {Company} filed a registration statement for a public offering of its Common Stock, which was withdrawn effective [_____ __, 20_]. The {Purchaser} understands that this offering is not intended to be part of the public offering, and that the {Purchaser} will not be able to rely on the protection of Section 11 of the {Securities_Act}.]
 
 Ftn47=<a href="#_ftn47" name="_ftnref" title="">[47]</a>
 
-3.5.Ti=No Public Market
+3P.5.Ti=No Public Market
 
-3.5.sec=The {Purchaser} understands that no public market now exists for the {Shares}, and that the {Company} has made no assurances that a public market will ever exist for the {Shares}.
+3P.5.sec=The {Purchaser} understands that no public market now exists for the {Shares}, and that the {Company} has made no assurances that a public market will ever exist for the {Shares}.
 
-3.6.Ti=Legends
+3P.6.Ti=Legends
 
-3.6.0.sec=The {Purchaser} understands that the {Shares} and any securities issued in respect of or exchange for the {Shares}, may be notated with one or all of the following legends:
+3P.6.0.sec=The {Purchaser} understands that the {Shares} and any securities issued in respect of or exchange for the {Shares}, may be notated with one or all of the following legends:
 
-3.6.1.sec="THE SHARES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF. NO SUCH TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933."
+3P.6.1.sec="THE SHARES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF. NO SUCH TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933."
 
-3.6.2.sec=Any legend set forth in, or required by, the other {Transaction_Agreements}.</li>
+3P.6.2.sec=Any legend set forth in, or required by, the other {Transaction_Agreements}.</li>
 
-3.6.3.sec=Any legend required by the securities laws of any state to the extent such laws are applicable to the {Shares} represented by the certificate, instrument, or book entry so legended.
+3P.6.3.sec=Any legend required by the securities laws of any state to the extent such laws are applicable to the {Shares} represented by the certificate, instrument, or book entry so legended.
 
-3.6.=[Z/ol/s3]
+3P.6.=[Z/ol/s3]
 
-3.7.Ti=Accredited Investor
+3P.7.Ti=Accredited Investor
 
-3.7.sec=The {Purchaser} is an accredited investor as defined in Rule 501(a) of Regulation D promulgated under the {Securities_Act}.
+3P.7.sec=The {Purchaser} is an accredited investor as defined in Rule 501(a) of Regulation D promulgated under the {Securities_Act}.
 
-3.8.Ti=Foreign Investors
+3P.8.Ti=Foreign Investors
 
-3.8.sec=If the {Purchaser} is not a United States person (as defined by Section 7701(a)(30) of the {Code}), the {Purchaser} hereby represents that it has satisfied itself as to the full observance of the laws of its jurisdiction in connection with any invitation to subscribe for the {Shares} or any use of {this_Agreement}, including (i) the legal requirements within its jurisdiction for the purchase of the {Shares}, (ii) any foreign exchange restrictions applicable to such purchase, (iii) any governmental or other consents that may need to be obtained, and (iv) the income tax and other tax consequences, if any, that may be relevant to the purchase, holding, redemption, sale, or transfer of the {Shares}. The {Purchaser}'s subscription and payment for and continued beneficial ownership of the {Shares} will not violate any applicable securities or other laws of the {Purchaser}'s jurisdiction.
+3P.8.sec=If the {Purchaser} is not a United States person (as defined by Section 7701(a)(30) of the {Code}), the {Purchaser} hereby represents that it has satisfied itself as to the full observance of the laws of its jurisdiction in connection with any invitation to subscribe for the {Shares} or any use of {this_Agreement}, including (i) the legal requirements within its jurisdiction for the purchase of the {Shares}, (ii) any foreign exchange restrictions applicable to such purchase, (iii) any governmental or other consents that may need to be obtained, and (iv) the income tax and other tax consequences, if any, that may be relevant to the purchase, holding, redemption, sale, or transfer of the {Shares}. The {Purchaser}'s subscription and payment for and continued beneficial ownership of the {Shares} will not violate any applicable securities or other laws of the {Purchaser}'s jurisdiction.
 
-3.9.Ti=No General Solicitation
+3P.9.Ti=No General Solicitation
 
-3.9.sec=Neither the {Purchaser}, nor any of its officers, directors, employees, agents, stockholders or partners has either directly or indirectly, including, through a broker or finder (a) engaged in any general solicitation, or (b) published any advertisement in connection with the offer and sale of the {Shares}.
+3P.9.sec=Neither the {Purchaser}, nor any of its officers, directors, employees, agents, stockholders or partners has either directly or indirectly, including, through a broker or finder (a) engaged in any general solicitation, or (b) published any advertisement in connection with the offer and sale of the {Shares}.
 
 Ftn48=<a href="#_ftn48" name="_ftnref" title="">[48]</a>
 
-3.10.Ti=Exculpation Among {Purchasers}
+3P.10.Ti=Exculpation Among {Purchasers}
 
-3.10.sec=The {Purchaser} acknowledges that it is not relying upon any {Person}, other than the {Company} and its officers and directors, in making its investment or decision to invest in the {Company}. [The {Purchaser} agrees that neither any {Purchaser} nor the respective controlling {Person}s, officers, directors, partners, agents, or employees of any {Purchaser} shall be liable to any other {Purchaser} for any action heretofore taken or omitted to be taken by any of them in connection with the purchase of the {Shares}.]
+3P.10.sec=The {Purchaser} acknowledges that it is not relying upon any {Person}, other than the {Company} and its officers and directors, in making its investment or decision to invest in the {Company}. [The {Purchaser} agrees that neither any {Purchaser} nor the respective controlling {Person}s, officers, directors, partners, agents, or employees of any {Purchaser} shall be liable to any other {Purchaser} for any action heretofore taken or omitted to be taken by any of them in connection with the purchase of the {Shares}.]
 
 Ftn49=<a href="#_ftn49" name="_ftnref" title="">[49]</a>
 
-3.11.Ti=Residence
+3P.11.Ti=Residence
 
-3.11.sec=If the {Purchaser} is an individual, then the {Purchaser} resides in the state or province identified in the address of the {Purchaser} set forth on Exhibit A; if the {Purchaser} is a partnership, corporation, limited liability company or other entity, then the office or offices of the {Purchaser} in which its principal place of business is identified in the address or addresses of the {Purchaser} set forth on Exhibit A.
+3P.11.sec=If the {Purchaser} is an individual, then the {Purchaser} resides in the state or province identified in the address of the {Purchaser} set forth on Exhibit A; if the {Purchaser} is a partnership, corporation, limited liability company or other entity, then the office or offices of the {Purchaser} in which its principal place of business is identified in the address or addresses of the {Purchaser} set forth on Exhibit A.
 
-3.12.Ti=Consent to Promissory Note Conversion and Termination
+3P.12.Ti=Consent to Promissory Note Conversion and Termination
 
-3.12.sec=Each {Purchaser}, to the extent that such {Purchaser}, as set forth on the Schedule of {Purchasers}, is a holder of any promissory note of the {Company} being converted and/or cancelled in consideration of the issuance hereunder of {Shares} to such {Purchaser}, hereby agrees that the entire amount owed to such {Purchaser} under such note is being tendered to the {Company} in exchange for the applicable {Shares} set forth on the Schedule of {Purchasers}, and effective upon the {Company}'s and such {Purchaser}'s execution and delivery of {this_Agreement}, without any further action required by the {Company} or such {Purchaser}, such note and all obligations set forth therein shall be immediately deemed repaid in full and terminated in their entirety, including, but not limited to, any security interest effected therein.
+3P.12.sec=Each {Purchaser}, to the extent that such {Purchaser}, as set forth on the Schedule of {Purchasers}, is a holder of any promissory note of the {Company} being converted and/or cancelled in consideration of the issuance hereunder of {Shares} to such {Purchaser}, hereby agrees that the entire amount owed to such {Purchaser} under such note is being tendered to the {Company} in exchange for the applicable {Shares} set forth on the Schedule of {Purchasers}, and effective upon the {Company}'s and such {Purchaser}'s execution and delivery of {this_Agreement}, without any further action required by the {Company} or such {Purchaser}, such note and all obligations set forth therein shall be immediately deemed repaid in full and terminated in their entirety, including, but not limited to, any security interest effected therein.
 
-3.=[Z/ol/12]
+3P.=[Z/ol/12]
 
 Ftn50=<a href="#_ftn50" name="_ftnref" title="">[50]</a>
 
@@ -234,7 +236,7 @@ Ftn51=<a href="#_ftn51" name="_ftnref" title="">[51]</a>
 
 4.5.Ti=Opinion of {Company} Counsel
 
-4.5.sec=The {Purchasers} shall have received from {Co.Atty.Name.Full}, counsel for the {Company}, an opinion, dated as of the {Initial_Closing}, in substantially the form of Exhibit I attached to {this_Agreement}.
+4.5.sec=The {Purchasers} shall have received from {Company.Atty.Name.Full}, counsel for the {Company}, an opinion, dated as of the {Initial_Closing}, in substantially the form of Exhibit I attached to {this_Agreement}.
 
 4.6.Ti=Board of Directors
 
@@ -497,13 +499,13 @@ Exhibit.7.Ti=Form of {Right_of_First_Refusal_and_Co-Sale_Agreement}
 
 Exhibit.8.Ti=Form of {Voting _Agreement}
 
-Exhibit.9.Ti=Form of Legal Opinion of {Co.Atty.Name.Full}
+Exhibit.9.Ti=Form of Legal Opinion of {Company.Atty.Name.Full}
 
 Exhibit.10.Ti=Milestone Events
 
 Exhibit.=[Z/ol/10]
 
-Exhibit.C.Body=This Schedule of Exceptions is made and given pursuant to Section 2 of the {Series_A_Preferred_Stock} Purchase {Agreement}, dated as of [date]  (the "{Agreement}"), between [{Company} name] (the "{Company}") and the {Purchasers} listed on Schedule A thereto. All capitalized terms used but not defined herein shall have the meanings as defined in the {Agreement}, unless otherwise provided. The section numbers below correspond to the section numbers of the representations and warranties in the {Agreement}; provided<em>, </em>however, that any information disclosed herein under any section number shall be deemed to be disclosed and incorporated into any other section number under the {Agreement} where such disclosure would be appropriate and such appropriateness is reasonably apparent from the face of such disclosure. Nothing in this Schedule of Exceptions is intended to broaden the scope of any representation or warranty contained in the {Agreement} or to create any covenant. Inclusion of any item in this Schedule of Exceptions (1) does not represent a determination that such item is material or establish a standard of materiality, (2) does not represent a determination that such item did not arise in the ordinary course of business, (3) does not represent a determination that the transactions contemplated by the {Agreement} require the consent of third parties, and (4) shall not constitute, or be deemed to be, an admission to any third party concerning such item. This Schedule of Exceptions includes brief descriptions or summaries of certain agreements and instruments, copies of which are available upon reasonable request. Such descriptions do not purport to be comprehensive, and are qualified in their entirety by reference to the text of the documents described, true and complete copies of which have been provided to the Investors or their respective counsel
+Exhibit.3.sec=This Schedule of Exceptions is made and given pursuant to Section 2 of the {Series_A_Preferred_Stock} Purchase {Agreement}, dated as of [date]  (the "{Agreement}"), between [{Company} name] (the "{Company}") and the {Purchasers} listed on Schedule A thereto. All capitalized terms used but not defined herein shall have the meanings as defined in the {Agreement}, unless otherwise provided. The section numbers below correspond to the section numbers of the representations and warranties in the {Agreement}; provided<em>, </em>however, that any information disclosed herein under any section number shall be deemed to be disclosed and incorporated into any other section number under the {Agreement} where such disclosure would be appropriate and such appropriateness is reasonably apparent from the face of such disclosure. Nothing in this Schedule of Exceptions is intended to broaden the scope of any representation or warranty contained in the {Agreement} or to create any covenant. Inclusion of any item in this Schedule of Exceptions (1) does not represent a determination that such item is material or establish a standard of materiality, (2) does not represent a determination that such item did not arise in the ordinary course of business, (3) does not represent a determination that the transactions contemplated by the {Agreement} require the consent of third parties, and (4) shall not constitute, or be deemed to be, an admission to any third party concerning such item. This Schedule of Exceptions includes brief descriptions or summaries of certain agreements and instruments, copies of which are available upon reasonable request. Such descriptions do not purport to be comprehensive, and are qualified in their entirety by reference to the text of the documents described, true and complete copies of which have been provided to the Investors or their respective counsel
  
 
 
@@ -534,5 +536,6 @@ Ftn63=<a href="#_ftn63" name="_ftnref" title="">[63]</a>
 
 3A.5.sec=Such {Founder} has not been (a) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his business or property; (b) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (c) subject to any order, judgment, or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him from engaging, or otherwise imposing limits or conditions on his engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (d) found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
 
+3A.=[Z/f/ol/5]
 
 =[Wx/org/nvca/SPA/Sec/DefinedTerms_v01.md]
