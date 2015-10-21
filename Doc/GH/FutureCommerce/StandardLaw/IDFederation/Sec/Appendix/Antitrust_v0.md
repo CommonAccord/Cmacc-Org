@@ -14,23 +14,23 @@ Ti=Antitrust Policy
 
 2.0.sec=Certain topics should never be discussed at, or in connection with, any ID Federation meeting or other ID Federation activity, nor should you ever form an agreement with any other ID Federation Member or any one else in connection with these topics. In particular, DO NOT at any time discuss, or agree upon:
 
-2.1.sec= Your current or future prices, or any strategies relating to pricing
+2.1.sec=Your current or future prices, or any strategies relating to pricing
 
-2.2.sec= Any increase or decrease in prices, or other terms (e.g., discounts) relating to prices
+2.2.sec=Any increase or decrease in prices, or other terms (e.g., discounts) relating to prices
 
-2.3.sec= Your market shares or those of others
+2.3.sec=Your market shares or those of others
 
-2.4.sec= Levels of investment or development, or changes to such levels
+2.4.sec=Levels of investment or development, or changes to such levels
 
-2.5.sec= Your current or future design or marketing strategies.
+2.5.sec=Your current or future design or marketing strategies.
 
-2.6.sec= How much or little you are capable of producing or will sell of any product or service
+2.6.sec=How much or little you are capable of producing or will sell of any product or service
 
-2.7.sec= Whether you have submitted a bid, or will or will not bid, in any given situation
+2.7.sec=Whether you have submitted a bid, or will or will not bid, in any given situation
 
-2.8.sec= Where each of you will or will not sell any product or service
+2.8.sec=Where each of you will or will not sell any product or service
 
-2.9.sec= Whether you will or will not deal with any third party
+2.9.sec=Whether you will or will not deal with any third party
 
 2.=[Z/f/ol/s9]
 

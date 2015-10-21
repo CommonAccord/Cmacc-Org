@@ -12,17 +12,16 @@ Title.=[Z/f/paras/s3]
 
 0.sec=Our mission is promoting information security and identity management for trusted transactions across the financial services and insurance industries for purposes including but not limited to reducing transaction friction, lowering cost and bolstering independent agent access.
 
-1.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Business_v0.md]
+Business.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Business/_v0.md]
 
-2.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Legal/_v0.md]
+Legal.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Legal/_v0.md]
 
-3.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Technical_v0.md]
+Technical.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Technical_v0.md]
 
-4.Sec={Appendix.Sec}
+Appendix.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendix/_v0.md]
+
+Olist=<ol><li>{Business.Sec}<li>{Legal.Sec}<li>{Technical.Sec}<li>{Appendix.Sec}</ol>
 
 90.sec=<hr><hr><br>{Appendix.List.sec}
-
-Appendix.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Appendixes_v0.md]
-
   
-=[Z/f/ol/4]
+=[Z/ol/Base]
