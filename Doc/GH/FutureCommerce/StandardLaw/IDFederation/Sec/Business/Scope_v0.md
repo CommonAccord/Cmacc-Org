@@ -4,7 +4,7 @@
 
 1.2.sec=Parties may also have a capacity within the ID Federation. One simple example is that an insurance carrier may be a Member of the ID Federation and, in that capacity, the insurance carrier could vote on Rule changes. At the same time, that Party may also be a Relying Party, and in that capacity they are subject to the Rules in this Trust Framework.
 
-1.=[Z/f/ol/s2]
+1.=[Z/ol-i/s2]
 
 2.Ti=Roles
 
@@ -18,7 +18,7 @@
 
 2.1.3.sec=Certified Services: An IdP may have one or more active Certified Services that have been certified by an ID Federation-identified Assessor under the Trust Framework Certification Policy that is hereby incorporated by reference into this Trust Framework and is attached hereto at Appendix A.
 
-2.1.=[Z/f/ol/s3]
+2.1.=[Z/ol/s3]
 
 2.2.Ti=Relying Party
 
@@ -26,7 +26,7 @@
 
 2.2.2.sec=Certified Services: ID Federation members will not require a Certified Service to perform the role of Relying Party but an RP may have one or more active Certified Services if the RP acts as an Identity Provider.
 
-2.2.=[Z/f/ol/s2]
+2.2.=[Z/ol-i/s2]
 
 2.3.Ti=User Authority
 
@@ -44,6 +44,6 @@
 
 2.6.sec=An Assessor is a third party who is responsible for certifying the service of an applicant based on a neutral and independent assessment and testing as determined by the Policy Authority from time to time.
 
-2.=[Z/f/ol/6]
+2.=[Z/ol-i/6]
 
-=[Z/f/ol/2]
+=[Z/ol-a/2]

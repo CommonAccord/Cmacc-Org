@@ -1,4 +1,3 @@
-
 Ti=Liability
 
 1.Ti=Liability Between Participants
@@ -21,10 +20,10 @@ Ti=Liability
 
 1.3.=[Z/para/s2]
 
-1.=[Z/f/ol/3]
+1.=[Z/ol-i/3]
 
 2.Ti=Liability Between Participants and Non-Participants
 
 2.sec=These Rules are made solely and specifically among and for the benefit of Participants. No person who is not a Participant shall have any rights, interest or claims under these Rules or be entitled to any benefits under or on account of these Rules, whether as a third party beneficiary or otherwise. There shall be no liability by a Participant to a person who is a not a Participant.
 
-=[Z/f/ol/2]
+=[Z/ol-a/2]
