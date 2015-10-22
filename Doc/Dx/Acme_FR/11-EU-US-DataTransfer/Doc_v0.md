@@ -8,7 +8,6 @@ DEO.Sign.Addr.1,2={DEO.Addr.1,2}
 
 DEO.OtherInformationToIdentify=N/A
 
-
 DIO.Activities=<font color="red">Acme Incorporated fabrique de produits pour des personnes avec difficultés d'audition.</font>
 
 Note2=These override the Acme Incorporated defaults. 
@@ -29,4 +28,4 @@ DEO.Activities=<font color="red">{DEO.Name.Full} offre des services d'adaptation
 
 =[Dx/Acme/09-EU-US-DataTransfer/Doc_v0.md]
 
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-FR/Form/Doc_v0.md]
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/FR/Form/Doc_v0.md]

@@ -21,4 +21,4 @@ b)
 
 2.2.2.sec=der Datenimporteur die Möglichkeit hat, mit dem Datenexporteur bei der Verteidigung in der Schadenersatzsache bzw. der Einigung über die Höhe des Schadenersatzes zusammenzuarbeiten.
 
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Appendix2_v0.md]
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/00/Form/Appendix2_Outline_v0.md]

@@ -1,6 +1,6 @@
 Note=Uses the common outline for all Model Clauses:
 
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018--Common/Form/Clauses_Outline_v0.md]
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/00/Form/Clauses_Outline_v0.md]
 
 Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 

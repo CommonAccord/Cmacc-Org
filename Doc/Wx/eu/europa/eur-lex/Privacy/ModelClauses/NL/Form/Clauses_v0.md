@@ -1,4 +1,4 @@
-=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/_Common/Form/Clauses_Outline_v0.md]
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/00/Form/Clauses_Outline_v0.md]
 
 BIJLAGE
 

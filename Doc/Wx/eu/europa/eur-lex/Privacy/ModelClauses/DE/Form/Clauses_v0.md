@@ -2,7 +2,7 @@ ANHANG
 
 Note=The outline structure of all the different language versions of the Model Clauses is the same.  Sharing an outline assures this and makes it easier to trace differences or make modifications across a number of different versions. 
 
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018--Common/Form/Clauses_Outline_v0.md]
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/00/Form/Clauses_Outline_v0.md]
 
 Doc.Title=STANDARDVERTRAGSKLAUSELN (AUFTRAGSVERARBEITER)
 

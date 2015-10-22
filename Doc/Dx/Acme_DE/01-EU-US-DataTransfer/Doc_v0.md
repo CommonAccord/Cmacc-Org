@@ -14,4 +14,4 @@ DEO.Activities={DEO.Name.Full} provides proximity services for hard of hearing i
 
 =[Dx/Acme/09-EU-US-DataTransfer/Doc_v0.md]
 
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-DE/Form/Doc_v0.md]
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/DE/Form/Doc_v0.md]

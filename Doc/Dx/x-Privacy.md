@@ -4,13 +4,15 @@
 
 Data.UK.=[Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md]
 
+Data.GR.=[Dx/Acme_GR/01-EU-US-DataTransfer/Doc_v0.md]
+
 Data.DE.=[Dx/Acme_DE/01-EU-US-DataTransfer/Doc_v0.md]
 
 Data.FR.=[Dx/Acme_FR/11-EU-US-DataTransfer/Doc_v0.md]
 
-Note=Not quite complete and not yet a demo example:
+Note=No example yet, but the text for the Dutch version:
 
-Data.EL.Form.=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EL/Form/Clauses_v0.md]
+Form.NL.=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/NL/Form/Doc_v0.md]
 
 -=-Patient Consent for Genetics Research (channeling GA4GH model patient consent):
 

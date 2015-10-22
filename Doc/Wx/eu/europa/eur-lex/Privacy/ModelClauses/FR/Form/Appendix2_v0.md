@@ -1,4 +1,4 @@
-TI=Appendice 2 Des clauses contractuelles types
+Ti=Appendice 2 Des clauses contractuelles types
 
 0.sec=Le présent appendice fait partie des clauses et doit être rempli et signé par les parties.
 
@@ -19,4 +19,4 @@ dommage, dépense ou perte encourus par cette première partie.
 
 2.2.2.sec=l’importateur de donnés se voie offrir la possibilité de coopérer avec l’exportateur de données à la défense et au règlement de la plainte.
 
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Appendix2_v0.md]
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/00/Form/Appendix2_Outline_v0.md]

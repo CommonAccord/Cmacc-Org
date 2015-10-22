@@ -4,7 +4,7 @@ Note=Acme Inc's information and compliance policies:
 
 Note=English language version of the EU Model Clauses:
 
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Doc_v0.md]  
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/EN/Form/Doc_v0.md]  
 
 DEO.=[U/id/acme_uk]
 

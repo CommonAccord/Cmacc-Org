@@ -1,4 +1,4 @@
-=[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018--Common/Form/Appendix1_Outline_v0.md]
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/00/Form/Appendix1_Outline_v0.md]
 
 Ti=Appendix 1 to the Standard Contractual Clauses
 

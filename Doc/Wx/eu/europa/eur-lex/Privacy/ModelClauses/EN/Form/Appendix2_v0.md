@@ -1,10 +1,10 @@
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/00/Form/Appendix2_Outline_v0.md]
+
 Ti=Appendix 2 to the Standard Contractual Clauses
 
 0.sec=This Appendix forms part of the Clauses and must be completed and signed by the parties.
 
 1.Ti=Description of the technical and organisational security measures implemented by the data importer in accordance with Clauses 4(d) and 5(c) (or document/legislation attached):
-
-1.sec={DIO.SecurityMeasures}
 
 =ILLUSTRATIVE INDEMNIFICATION CLAUSE (OPTIONAL) 
 
@@ -15,10 +15,5 @@ Ti=Appendix 2 to the Standard Contractual Clauses
 2.2.0.sec=Indemnification is contingent upon:
 
 2.2.1.sec=the data exporter promptly notifying the data importer of a claim; and
+
 2.2.2.sec=the data importer being given the possibility to cooperate with the data exporter in the defence and settlement of the claim (1).
-
-2.2.=[Z/ol-a/s2]
-
-2.=[Z/paras/s2]
-
-=[Z/ol/2]
