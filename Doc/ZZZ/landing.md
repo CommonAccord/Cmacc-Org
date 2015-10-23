@@ -2,9 +2,9 @@ DemoDocName=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md
 
 Site-Name=Cmacc-Org
 
-Name.CommonAccord.Org=New.CommonAccord.Org
+Name.CommonAccord.Org=CommonAccord.Org
 
-Model.Root=<p align="center">{Logo}<br><br><b>{Name.CommonAccord.Org}</b></center></p>{Table.sec}
+Model.Root=<p align="center">{Logo}<br><br><b>{Name.CommonAccord.Org}</b></center></p><b><a href="http://old.commonaccord.org">old.commonaccord.org</a></b><br>{Table.sec}
 
 Logo=<img src="visual/cmacc-trans.png" style="width:35%" />
 
