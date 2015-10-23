@@ -1,6 +1,6 @@
-Ti=Policy
+Ti=Business - Policy
 
-0.sec=This section specifies principles and matters that do not fall neatly into either technical or organizational.  
+0.sec=This section specifies arrangements, principles, and structural matters.  They are supported by the Legal and Technical matters. 
 
 1.Ti=Shard, guard, discard, recharge.
  
@@ -17,6 +17,16 @@ Ti=Policy
 1.4.sec=Instead of needlessly retaining information, we re-request it from the source (app or person) from which we obtained it.
 
 1.=[Z/ol/s4]
+
+2.Ti=Locations
+
+2.0.sec=We store and treat our information in the following jurisdictions:
+
+2.1.sec=We collect personal data via websites hosted in {Collect.Countries}
+
+2.2.sec=We store and treat it in the following additional countries: {Store.Countries}
+
+2.=[Z/f/ol/s2]
 
 2.Ti=Other
 

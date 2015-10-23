@@ -1,4 +1,4 @@
-Ti=Technical Measures
+Ti=Technical
 
 1.Ti=Transmission
 
