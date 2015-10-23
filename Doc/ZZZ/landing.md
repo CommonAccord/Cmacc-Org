@@ -4,11 +4,11 @@ Site-Name=Cmacc-Org
 
 Name.CommonAccord.Org=CommonAccord.Org
 
-Model.Root=<p align="center">{Logo}<br><br><b>{Name.CommonAccord.Org}</b></center></p><b><a href="http://old.commonaccord.org">old.commonaccord.org</a></b><br>{Table.sec}
+Model.Root=<p align="center">{Logo}<br><br><b>{Name.CommonAccord.Org}</b></center></p><br>{Table.sec}
 
 Logo=<img src="visual/cmacc-trans.png" style="width:35%" />
 
-Table.sec=<table><tr><td width="50%">{IntroContent}</td><td>   </td><td>{TwitterBlock.sec}<br><br>{OtherSites.sec}</td></tr></table>
+Table.sec=<table><tr><td width="50%">{IntroContent}</td><td>   </td><td>{TwitterBlock.sec}<br><br><b><a href="http://old.commonaccord.org">old.commonaccord.org</a></b><br>{OtherSites.sec}</td></tr></table>
 
 IntroContent={DocumentsFolder.sec}<br><br>{Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br><br>{PageSource.sec}
 
