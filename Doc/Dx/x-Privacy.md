@@ -22,6 +22,8 @@ Patient.FR.=[Dx/Acme_FR/12-PatientConsentForm/01-MMatignon]
 
 Privacy.US.=[Dx/Acme/03-Policies/01-Privacy_v0.md]
 
+Privacy.FR.=[Dx/Acme_FR/13-PrivacyPolicy/Doc_v0.md]
+
 -=-Master Supply Agreement - Personal Data Provisions:
 
 MSA.=[Wx/com/gepower/MasterServiceAgreement/Form/Doc_v01.md]
