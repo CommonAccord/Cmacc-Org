@@ -30,6 +30,8 @@ MSA.=[Wx/com/gepower/MasterServiceAgreement/Form/Doc_v01.md]
 
 Note=See also:
 
+IDFederation.=[GH/FutureCommerce/StandardLaw/IDFederation/Form/IDFederation_v0.md]
+
 ICANN.=[Wx/org/icann/resources/pages/model-privacy-policy-2012-02-25-en.md]
 
 Model.Root=<ol><li>{Data.UK.Model.Root}<li>{Data.DE.Model.Root}<li> {Data.FR.Model.Root}<li>{Patient.FR.Model.Root}<li>{Privacy.US.Model.Root}<li>{MSA.PersonalData.Sec}</ol>
