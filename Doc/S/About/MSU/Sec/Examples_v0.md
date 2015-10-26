@@ -18,7 +18,7 @@ Ti=Two examples:
 
 3.Ti=Document:
 
-3.sec={SAFE.0.Sec}
+3.sec=<font color="orange">{SAFE.0.Sec}</font>
 
 SAFE.=[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]
 

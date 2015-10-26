@@ -1,8 +1,17 @@
 Ti=The problem:
 
-1.sec=Legal text is a mess
+0.sec=Legal text is a mess:
 
-2.sec=Repetitive, ever-varying, not improving, hard to find, hard to evaluate.
+1.sec=repetitive,
 
-=[Z/ol/s2]
+2.sec=ever-varying,
 
+3.sec=not improving,
+
+4.sec=hard to find, and
+
+5.sec=hard to evaluate.
+
+90.sec=How did it get this way?
+
+=[Z/para/s5]
