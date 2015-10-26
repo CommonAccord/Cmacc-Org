@@ -10,6 +10,8 @@ Ti=CommonAccord - bringing the world to agreement
 
 5.=[S/About/MSU/Sec/Solution_v0.md]
 
-6.=[S/About/MSU/Sec/Examples_v0.md]  
+6.=[S/About/MSU/Sec/Examples_v0.md]
+
+7.=[S/About/MSU/Sec/Whither_v0.md]
 
 =[Z/ol/6]
