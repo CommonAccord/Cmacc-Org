@@ -1,7 +1,6 @@
 from=http://mvcr.herokuapp.com/  Nov 1, 2015
 
-Model.Root=<ol><li>{PII-Principal.Sec}<li>{DataController.Sec}<li>{PurposeSpecification.Sec}<li>{SensitivePersonalInformation.Sec}<li>{InformationSharing.Sec}<li>...</ol>
-
+Model.Root=<ol><li>{PII-Principal.Sec}<li>{DataController.Sec}<li>{PurposeSpecification.Sec}<li>{SensitivePersonalInformation.Sec}<li>{InformationSharing.Sec}<li>{OptionalOrInReview.Sec}</ol>
 
 PII-Principal.=[Wx/org/consentreceipt/api/Sec/PII-Principal_v0.md]
 
@@ -13,10 +12,4 @@ SensitivePersonalInformation.=[Wx/org/consentreceipt/api/Sec/SensitivePersonalIn
 
 InformationSharing.=[Wx/org/consentreceipt/api/Sec/InformationSharing_v0.md]
 
-=* Optional Or In Review
-
-=Short Notice Link
-
-=http://example.com/shortnotice
-
-=Scope
+OptionalOrInReview.=[Wx/org/consentreceipt/api/Sec/OptionalOrInReview_v0.md]
