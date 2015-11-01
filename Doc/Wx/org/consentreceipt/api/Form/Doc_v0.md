@@ -1,36 +1,17 @@
 from=http://mvcr.herokuapp.com/  Nov 1, 2015
 
-Model.Root=<ol><li>...<li>{DataController.Sec}<li>{PurposeSpecification.Sec}<li>...</ol>
+Model.Root=<ol><li>{PII-Principal.Sec}<li>{DataController.Sec}<li>{PurposeSpecification.Sec}<li>{SensitivePersonalInformation.Sec}<li>{InformationSharing.Sec}<li>...</ol>
 
-=PII Principal
 
-=example@example.com
+PII-Principal.=[Wx/org/consentreceipt/api/Sec/PII-Principal_v0.md]
 
 DataController.=[Wx/org/consentreceipt/api/Sec/DataController_v0.md]
 
 PurposeSpecification.=[Wx/org/consentreceipt/api/Sec/PurposeSpecification_v0.md]
 
-=Sensitive Personal Information
+SensitivePersonalInformation.=[Wx/org/consentreceipt/api/Sec/SensitivePersonalInformation_v0.md]
 
-=Check this box if any of data types legally sensitive in the jurisdiction and context in which it is being shared?
-
-=Other  
-
-=* Information Sharing
-
-=Sharing
-
-=Sharing For the purpose of 
-
-=Choose category
-
-=Data to
-
-=3rd Party Name or/3rd Party Category
-
-=For the purpose of
-
-=Choose purpose
+InformationSharing.=[Wx/org/consentreceipt/api/Sec/InformationSharing_v0.md]
 
 =* Optional Or In Review
 
