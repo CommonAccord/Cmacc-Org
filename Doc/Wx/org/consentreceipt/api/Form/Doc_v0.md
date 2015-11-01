@@ -1,81 +1,39 @@
-Required Field
+from=http://mvcr.herokuapp.com/  Nov 1, 2015
 
-Jurisdiction of organisation
+=PII Principal
 
-Id of natural person
+=example@example.com
 
-Service Title
+DataController.=[Wx/org/consentreceipt/api/Sec/DataController_v0.md]
 
-Privacy Policy Link
+PurposeSpecification.=[Wx/org/consentreceipt/api/Sec/PurposeSpecification_v0.md]
 
-Link to Short Privacy Notice
+=Sensitive Personal Information
 
-Data Controller
- Is acting on behalf of company taking consent?
+=Check this box if any of data types legally sensitive in the jurisdiction and context in which it is being shared?
 
-Contact Name
+=Other  
 
-Contact Name
+=* Information Sharing
 
-Company Name
+=Sharing
 
-Company Name
+=Sharing For the purpose of 
 
-Address
+=Choose category
 
-Address
+=Data to
 
-Contact Email
+=3rd Party Name or/3rd Party Category
 
-example@example.com
+=For the purpose of
 
-Phone Number
+=Choose purpose
 
-00-000-000-0000
-Consent Transaction Data
-Subject:
+=* Optional Or In Review
 
-Privacy Policy
+=Short Notice Link
 
-Consent:
+=http://example.com/shortnotice
 
-agree
-
-Subject:
-
-Terms of Service
-
-Consent:
-
-agree
-Purposes
-+ Add New Field
-PII Categories
-Category:
-
-name
-
-Value:
-
-Alice
-
-Category:
-
-email
-
-Value:
-
-example@example.com
-Sensitive Information
-+ Add New Field
-3rd party sharing of personal information
-+ Add New Field
-Consent Context
-+ Add New Field
-Resource Server Identifier
-
-http://example.com/protected
-
-Oauth Scopes
-
-read update
+=Scope

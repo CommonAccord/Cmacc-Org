@@ -1,81 +1,52 @@
-Required Field
+from=http://mvcr.herokuapp.com/  Nov 1, 2015
 
-Jurisdiction of organisation
+PII Principal
 
-Id of natural person
-
-Service Title
-
-Privacy Policy Link
-
-Link to Short Privacy Notice
+example@example.com
 
 Data Controller
- Is acting on behalf of company taking consent?
+Is acting on behalf of company taking consent?
 
 Contact Name
 
-Contact Name
+Dave Controller
 
 Company Name
 
-Company Name
+Data Controller Inc.
 
 Address
 
-Address
+123 St., Place
 
 Contact Email
 
-example@example.com
+dave@datacontroller.com
 
 Phone Number
 
-00-000-000-0000
-Consent Transaction Data
-Subject:
+00-123-341-2351
+Privacy Policy URL
 
-Privacy Policy
+http://example.com/privacy
+Purpose Specification
+Purpose Add Purpose
+Sensitive Personal Information
+Check this box if any of data types legally sensitive in the jurisdiction and context in which it is being shared?
+Other  
 
-Consent:
+* Information Sharing
+Sharing
+Sharing For the purpose of 
+Choose category
+Data to
 
-agree
+3rd Party Name or/3rd Party Category
+For the purpose of
+Choose purpose
 
-Subject:
+* Optional Or In Review
+Short Notice Link
 
-Terms of Service
-
-Consent:
-
-agree
-Purposes
-+ Add New Field
-PII Categories
-Category:
-
-name
-
-Value:
-
-Alice
-
-Category:
-
-email
-
-Value:
-
-example@example.com
-Sensitive Information
-+ Add New Field
-3rd party sharing of personal information
-+ Add New Field
-Consent Context
-+ Add New Field
-Resource Server Identifier
-
-http://example.com/protected
-
-Oauth Scopes
-
-read update
+http://example.com/shortnotice
+Scope
