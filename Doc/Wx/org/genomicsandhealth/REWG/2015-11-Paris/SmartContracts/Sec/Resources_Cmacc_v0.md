@@ -4,29 +4,12 @@ Ti=CommonAccord Texts Relating to Patient Consents
 
 1.sec=<a href="index.php?action=list&file=Wx/org/genomicsandhealth/REWG/Demo/">Wx/org/genomicsandhealth/REWG/Demo/</a>
 
-2.1.Ti=UMA - Minimum Viable Consent Receipt (MVCR) 
+2.=[Wx/org/genomicsandhealth/REWG/2015-11-Paris/SmartContracts/Sec/Resources_Cmacc_UMA_v0.md]
 
-2.1.sec=<a href="index.php?action=source&file=Wx/org/consentreceipt/api/Form/Doc_v0.md">[Wx/org/consentreceipt/api/Form/Doc_v0.md]</a>
+3.=[Wx/org/genomicsandhealth/REWG/2015-11-Paris/SmartContracts/Sec/Resources_Cmacc_FutureOfCommerce_v0.md]
 
-2.2.Ti=Patient Consent Sequence - @agropper - NYPresbyterian model
+4.Ti=Data Privacy - EU Model Clauses for export of personal data
 
-2.2.sec=<a href="index.php?action=list&file=GHx/KantaraInitiative/ROI/steps/">[GHx/KantaraInitiative/ROI/steps/]</a>
+4.sec=<a href="index.php?action=source&file=Dx/x-Privacy.md">[Dx/x-Privacy.md]</a>
 
-2.=[Z/ol/2]
-
-
-3.Ti=Future of Commerce
-
-3.1.Ti=ID Federation
-
-3.1.sec=<a href="index.php?action=source&file=GH/FutureCommerce/StandardLaw/IDFederation/Form/Doc_v0.md">GH/FutureCommerce/StandardLaw/IDFederation/Form/Doc_v0.md</a>
-
-3.2.Ti=Stub of Minimum Best Practices (MBP) for Personal Data Transfers
-
-3.2.sec=<a href="index.php?action=source&file=GH/FutureCommerce/StandardLaw/MBP/Form/Doc_v0.md">[GH/FutureCommerce/StandardLaw/MBP/Form/Doc_v0.md]</a>
-
-3.=[Z/ol/2]
-
-
-
-=[Z/ol/3]
+=[Z/ol/4]
