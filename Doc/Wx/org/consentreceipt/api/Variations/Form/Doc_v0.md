@@ -25,4 +25,4 @@ WhatIf.Sec=<b>What If provisions for events, foreseen or otherwise, that may hap
 
 =[Wx/org/consentreceipt/api/Form/Doc_v0.md]  
 
-csuf,ed=collected, stored, used, forwarded
+csuf,_ed=collected, stored, used, forwarded
