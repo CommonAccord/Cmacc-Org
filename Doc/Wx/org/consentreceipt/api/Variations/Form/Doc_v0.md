@@ -21,7 +21,7 @@ Why.Sec=<b>Why the information is being {csuf,_ed}</b><ol><li>{Why.1.Sec}<li>{Wh
 
 How.Sec=<b>How will information be {csuf,_ed}</b><br>This section is for details and technical specifications. <ol>{WhenDisclosed.Sec}<li>{WhenDeleted.Sec}</ol>
 
-WhatIf.Sec=<b>What If provisions for events, foreseen or otherwise, that may happen.<ol><li>{GovernmentDemands.Sec}<li>{Liability.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}</ol>
+WhatIf.Sec=<b>What-if provisions for events, foreseen or otherwise, that we hope don't happen<ol><li>{GovernmentDemands.Sec}<li>{Liability.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}</ol>
 
 =[Wx/org/consentreceipt/api/Form/Doc_v0.md]  
 
