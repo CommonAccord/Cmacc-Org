@@ -1,26 +1,26 @@
 =[Z/Agt/DefinedTerms_Base.md]
 
-Confidential_Information={d-}Confidential Information{-d}
+Confidential_Information=<font color="green">Confidential Information</font>
 
-Confidential_Information_of_the_Disclosing_Party={d-}Confidential Information{-d} of the {Disclosing_Party}
+Confidential_Information_of_the_Disclosing_Party=<font color="green">Confidential Information</font> of the {Disclosing_Party}
 
-Disclosing_Party={d-}Disclosing Party{-d}
+Disclosing_Party=<font color="green">Disclosing Party</font>
 
 The_Disclosing_Party=The {Disclosing_Party}
 
 the_Disclosing_Party=the {Disclosing_Party}
 
-Each_Party=Each {d-}Party{-d}
+Each_Party=Each <font color="green">Party</font>
 
-each_Party=each {d-}Party{-d}
+each_Party=each <font color="green">Party</font>
 
-Neither_Party=Neither {d-}Party{-d}
+Neither_Party=Neither <font color="green">Party</font>
 
-the_other_Party=the other {d-}Party{-d}
+the_other_Party=the other <font color="green">Party</font>
 
-Permitted_Use={d-}Permitted Use{-d}
+Permitted_Use=<font color="green">Permitted Use</font>
 
-Receiving_Party={d-}Receiving Party{-d}
+Receiving_Party=<font color="green">Receiving Party</font>
 
 The_Receiving_Party=The {Receiving_Party}
 

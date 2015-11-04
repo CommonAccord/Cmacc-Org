@@ -1,0 +1,5 @@
+Model.Root={Claim.Doc.Body}
+
+Claim.Doc.Body=<p>&#8194;</p><p>Notice of Claim:</p><p>&#8194;</p><p>To: {Seller.N,A} &#8194;"Seller"</p><p>From: {Purchaser.N,A} "Purchaser"</p>	<p>CC: {Escrow.N,A} "Escrow Agent"</p><p>Date: {Claim.YMD}</p><p>Re: Claim</p><p>{Seller.Dear}:</p><p>This will inform you that on {Delivery.YMD}, {Shipper.Name.Full} delivered package {Parcel.#} to {Purchaser.me/us}. The contents were sent by you and described as:</p><ul><li><p>{Product.Description}.</p></li></ul>	<p>This notifies you and the Escrow Agent under the terms of our Escrow Agreement dated {Escrow.Effective.YMD} of {Purchaser.my/our} "Claim."</p><p>The Claim is:</p><ul><li>{Purchaser.Claim.Description}</li></ul><p>{Purchaser.I/We} would appreciate it if you would remedy this problem by:</p><ul><li>{Purchaser.Remedy.Description}</li></ul><p>Your response is required by {Seller.Claim.Response.Delay}.</p><p>{Purchaser.Sign.Block}</p>
+	
+            
