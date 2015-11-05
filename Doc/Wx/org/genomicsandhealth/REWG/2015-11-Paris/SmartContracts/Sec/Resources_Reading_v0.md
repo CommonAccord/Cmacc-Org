@@ -8,4 +8,8 @@ Ti=Reading on Blockchain and P2P transacting
 
 2.sec=An argument that blockchain for business can't be Bitcoin.  Also an approachable explanation of basic mechanism of public key.  <a href="http://www.capco.com/uploads/articlefiles/630/file_0_1444905301.pdf">www.capco.com/uploads/articlefiles/</a>
 
-=[Z/ol/2]
+3.Ti=@leashless - Vinay Gupta - consultant to Ethereum
+
+3.sec=Superb article framing the impact of blockchain: <a href="https://medium.com/@ConsenSys/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.mbz4a9w2i">Programmable Blockchains in Context: Ethereum's Future</a>
+
+=[Z/ol/3]
