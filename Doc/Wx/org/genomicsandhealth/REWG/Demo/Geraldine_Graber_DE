@@ -1,8 +1,8 @@
 =[Wx/org/genomicsandhealth/REWG/Demo/Consent_To_Study_DE]
 
-Donor.=[core/id/geraldine_graber]
+Donor.=[U/id/geraldine_graber]
 
-Clinician.=[core/id/alison_andrews]
+Clinician.=[U/id/alison_andrews]
 
 KontaktAkademische=Nein
 
