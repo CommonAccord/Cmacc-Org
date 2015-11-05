@@ -10,7 +10,7 @@ DataAccessor.1.=[U/id/quake_incorporated]
 
 DataAccessor.2.=[U/id/fabulous_express_inc]
 
-DataAccessor.Sec={DataAccessor.Sec.2}
+DataAccessor.sec={DataAccessor.sec.2}
 
 Arbitrator.=[U/id/solomon_shirley]
 
