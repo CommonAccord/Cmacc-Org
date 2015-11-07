@@ -1,89 +1,45 @@
-Study.Inv1.Name.Full=
-
-Study.Org.Name.Full=
-
-Study.Funder.List.Name=
-
-Study.Contact.N,A=
-
-Study.Name.Full=
-
-Study.REB.Name.Full=
-
-Study.www.me.com=
-
-Study.Description=
-
-3.1.List =
-
-3.1.List.123.cl =
-
-Study.Duration.Expected=
-
-Study.PersonalData.Retained.Duration=
-
-5.1.sec =
-
-Study.PDO.Name.Full=
-
-9.2.1.Sen =
-
-Study.Contact.Phone=
-
-Study.Contact.Email=
-
-Study.Contact.Name.Full=
-
-Study.Ombuds.Name.Full=
-
-Study.Ombuds.Phone=
-
-Study.Ombuds.Email=
-
-ContactForFutureStudy.Answer =
-
-ContactForFutureCare.Answer =
-
-ContactForFutureCare.Yes =
-
-Donor.Email=
-
-Donor.xSignature=
-
-Donor.Sign.YMD=
-
-Clinician.xSignature=
-
-Clinician.Sign.YMD=
-
-Clinician.Confirm.CopyGivenToSubject!=
-
-
-WAS=2015/10/06 : 1444168437
-
 =[Wx/org/genomicsandhealth/REWG/Consent/All/Form/Outline_V01]
+
 4.3.1.Sen={4.3.1.1.Sen}
 
 Study.Inv1.Role=Principal Investigator
+
 Study.Org.Role=Organization Name
+
 Study.Funder.Role=Funded by
+
 Study.Contact.Role=Contact Person
+
 :=:
+
 ;=;
+
 and=and
 
 Doc.Ti=GA4GH Model Data Sharing Consent Form
+
 1.Ti=Introduction
+
 2.Ti=Purpose
+
 3.Ti=Participation
+
 4.Ti=Access to the Data
+
 5.Ti=Compensation; Reimbursement
+
 6.Ti=Benefits of the Research
+
 7.Ti=Risks of Participation
+
 8.Ti=Privacy
+
 9.Ti=Withdrawal
+
 10.Ti=Reports
+
 11.Ti=When We May Recontact You
+
 12.Ti=Contact Information
 
 1.Ti=Introduction
@@ -226,6 +182,7 @@ Framework.URL=www.commonaccord.org/GA4GH/REWG/Framework/V01
 8.2.sec=These safeguards make it difficult to know which personal information came from you or any other participant. However, we cannot guarantee that you will never be re-identified.
 
 8.3.1.Sen=Researchers who wish to access the database will be required to apply to {m-}{Study.PDO.Name.Full}{-m} who will examine their credentials and data security plan.
+
 8.3.2.Sen=They will also make sure the proposed research project is consistent with your consent.
 
 8.3.3.Sen=You will not be identified if findings from your data are presented at scientific conferences or appear in scientific publications. 
@@ -265,10 +222,15 @@ Sign.3=I have been provided all the information I need to make a decision. I hav
 Sign.4.Intro=I agree:
 
 Sign.4.1=that my personal, medical and genetic data can be deposited in online, controlled-access scientific databases
+
 Sign.4.2=that my data be studied by researchers from around the world
+
 Sign.4.3=that I will not be identified in scientific publications and at conferences
+
 Sign.4.4=that I will not receive any profits if commercially valuable product(s) result from these studies
+
 Sign.4.5=that my data cannot be removed if it is already used in a dataset or published
+
 Sign.4.6=to give access to data from my stored tissues for study where applicable
  
 Sign.5=I know that participating is my choice. I understand that I may withdraw at any time without having to give a reason.
