@@ -7,6 +7,9 @@ Study.Contact.Role=Personne à contacter
 ;= ;
 and=et
 Doc.Ti=GA4GH modèle de partage de données Formulaire de consentement
+
+GUIDs.cl=Etude : {Study.GUID} / Consentement : {Consent.GUID}
+
 1.Ti=Présentation
 2.Ti=Objet
 3.Ti=Participation

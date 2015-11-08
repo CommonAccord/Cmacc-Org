@@ -6,6 +6,8 @@ Clinician.=[U/id/alison_andrews]
 
 ContactForFutureStudy.Answer=Yes
 
+Consent.GUID=C-U5432
+
 ContactForFutureCare.Answer={ContactForFutureCare.Yes}
 
 Donor.xSignature=xROBERTA ROBINSON

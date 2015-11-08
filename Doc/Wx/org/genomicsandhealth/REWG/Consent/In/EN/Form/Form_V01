@@ -18,6 +18,8 @@ and=and
 
 Doc.Ti=GA4GH Model Data Sharing Consent Form
 
+GUIDs.cl=Study : {Study.GUID} / Consent : {Consent.GUID}
+
 1.Ti=Introduction
 
 2.Ti=Purpose

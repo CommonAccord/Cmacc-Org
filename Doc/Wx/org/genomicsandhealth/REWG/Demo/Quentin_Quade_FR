@@ -1,5 +1,7 @@
 =[Wx/org/genomicsandhealth/REWG/Demo/Consent_To_Study_FR]
 
+Consent.GUID=C-65432
+
 Donor.=[U/id/quentin_quade]
 
 Clinician.=[U/id/alison_andrews]
@@ -10,10 +12,10 @@ ContactForFutureCare.Answer=No
 
 Donor.xSignature=xQUENTIN QUADE
 
-Donor.Sign.YMD=November 17, 2014
+Donor.Sign.YMD=17 novembre 2014
 
 Clinician.xSignature=xALISON ANDREWS
 
-Clinician.Sign.YMD=November 17, 2014
+Clinician.Sign.YMD=17 novembre 2014
 
 Clinician.Confirm.CopyGivenToSubject=YES

@@ -12,6 +12,8 @@ Funder.=[U/id/nih]
 
 Funder.List.Name={Funder.N,A}
 
+GUID=ST-123456
+
 REB.Name.Full={Org.OSP}
 
 Name.Full=Aphasia Inquiry

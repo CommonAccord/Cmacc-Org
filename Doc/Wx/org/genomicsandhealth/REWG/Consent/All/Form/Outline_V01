@@ -9,7 +9,7 @@ Doc={Doc.Top}<br><hr><br>{Doc.Secs}<br><br>{Doc.Sign}
 
 
 
-Doc.Top=<center><b><span style="text-transform: uppercase">{Doc.Ti}</span></b></center><br><br><table><tr><td valign="top">{Study.Inv1.Role}{:}</td><td width="10%"></td><td>{Study.Inv1.Name.Full}</td></tr><tr><td valign="top">{Study.Org.Role}{:} </td><td width="10%"></td><td>{Study.Org.Name.Full}</td></tr><tr><td valign="top">{Study.Funder.Role}{:}</td><td width="10%"></td><td>{Study.Funder.List.Name}</td></tr><tr><td valign="top">{Study.Contact.Role}{:}</td><td width="10%"></td><td>{Study.Contact.N,A}</td></tr></table>
+Doc.Top=<center><b><span style="text-transform: uppercase">{Doc.Ti}</span></b><br>{GUIDs.cl}</center><br><br><table><tr><td valign="top">{Study.Inv1.Role}{:}</td><td width="10%"></td><td>{Study.Inv1.Name.Full}</td></tr><tr><td valign="top">{Study.Org.Role}{:} </td><td width="10%"></td><td>{Study.Org.Name.Full}</td></tr><tr><td valign="top">{Study.Funder.Role}{:}</td><td width="10%"></td><td>{Study.Funder.List.Name}</td></tr><tr><td valign="top">{Study.Contact.Role}{:}</td><td width="10%"></td><td>{Study.Contact.N,A}</td></tr></table>
 
 Doc.Secs=<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</ol>
 

@@ -16,6 +16,8 @@ and=und
 
 Doc.Ti=GA4GH Modell Data Sharing Einverständniserklärung
 
+GUIDs.cl=Forschungsprojekt : {Study.GUID} / Formular : {Consent.GUID}
+
 1.Ti=Einleitung
 
 2.Ti=Zweck

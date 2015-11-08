@@ -4,16 +4,18 @@ Donor.=[U/id/geraldine_graber]
 
 Clinician.=[U/id/alison_andrews]
 
+Consent.GUID=C-93333A
+
 KontaktAkademische=Nein
 
 KontaktMedezinische=Ja
 
 Donor.xSignature=xGERALDINE GRABER
 
-Donor.Sign.YMD=November 10, 2014
+Donor.Sign.YMD=10 November 2014
 
 Clinician.xSignature=xALISON ANDREWS
 
-Clinician.Sign.YMD=November 10, 2014
+Clinician.Sign.YMD=10 November 2014
 
 KopieAnTeilNehmer=Ja!
