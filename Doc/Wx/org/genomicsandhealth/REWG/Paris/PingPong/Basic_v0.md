@@ -13,3 +13,9 @@ Ti=Basics
 90.sec=?
 
 =[Z/ol/s4]
+
+Bis.1.=[Wx/org/genomicsandhealth/REWG/Beacon/Consent_Categories.md]
+
+Bis.2.=[Wx/org/genomicsandhealth/REWG/Beacon/Consent_Requirements.md]
+
+Bis.3.=[Wx/org/genomicsandhealth/REWG/Demo/Roberta_Robinson_US]
