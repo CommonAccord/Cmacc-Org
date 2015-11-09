@@ -30,6 +30,10 @@ Remedy.Xnum=6
 
 Misc.Xnum=7
 
+Conf.Engage.Access.SecName=Conf.Engage.Access
+
+Conf.Term.SecName=Conf.Term
+
 =[Z/Agt/Agt.md]
 
 =[Wx/com/cooleygo/US/NDA/Sec/DefinedTerms_v01.md]
