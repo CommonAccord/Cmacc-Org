@@ -1,7 +1,5 @@
 Ti=Medical Domain of Use:
 
-1.sec=My rare disease
+1.sec=JWT Provisions<br><i>{JTW.2.?}</i>
 
-2.sec=Generally
-
-=[Z/ol/s2]
+=[Z/ol/s1]

@@ -1,9 +1,11 @@
 Ti=Permitted Uses
 
-1.sec=research
+1.sec=Research
 
-2.sec=treatment
+2.sec=Treatment
 
-3.sec=publication
+3.sec=Publication
 
-=[Z/ol/s3]
+4.sec=JWT Provisions<br><i>{JTW.3.?}</i>
+
+=[Z/ol/s4]

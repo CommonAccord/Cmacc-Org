@@ -1,7 +1,5 @@
 Ti=Data May Be Shared With:
 
-1.sec=My medical professionals
+1.sec=JWT Provisions<br><i>{JTW.1.?}</i>
 
-2.sec=Research community
-
-=[Z/ol/s2]
+=[Z/ol/s1]
