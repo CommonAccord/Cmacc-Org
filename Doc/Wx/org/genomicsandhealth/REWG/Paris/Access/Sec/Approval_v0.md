@@ -1,7 +1,5 @@
 Ti=Approvals Required
 
-1.sec=study lead
+1.sec=JWT Provisions<br><i>{JTW.1.?}</i>
 
-2.sec=IRB
-
-=[Z/ol/s2]
+=[Z/ol/s1]

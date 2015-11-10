@@ -1,5 +1,7 @@
-Ti=Data May Be Shared With:
+Ti=Data May Be Shared With
 
-1.sec=JWT Provisions<br><i>{JTW.1.?}</i>
+1.sec=My clinicians
 
-=[Z/ol/s1]
+2.sec=Others
+
+=[Z/ol/s2]

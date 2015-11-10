@@ -1,4 +1,4 @@
-Ti=Contact Me:
+Ti=Contact Me
 
 1.Ti=Directly
 
