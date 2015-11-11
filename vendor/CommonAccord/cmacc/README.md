@@ -1,2 +1,0 @@
-# ccmac
-CommonAccord code

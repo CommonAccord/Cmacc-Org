@@ -6,7 +6,7 @@ ini_set("allow_url_include", true);
 #include("header.php");
 
 
-/*require('./vendor/autoload.php'); */
+/*require('./Code/autoload.php'); */
 ini_set("allow_url_include", true);
 
 $lib_path = LIB_PATH;

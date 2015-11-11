@@ -2,10 +2,10 @@
 /.listings { display: none;
 }
 </style>
-<img src="./visual/cmacc-consent.png"><br>
+<img src="./File/cmacc-consent.png"  height="502" width="752><br><br>
 
 <div class="row">
-   This example illustrates the use of CommonAccord for the creation of Consent Forms, which can inherit different clauses according to the language, jurisdiction, situation of the patient, nature of the study, etc. In the pages, switch between the tabs (Source, Render, or Edit) to see how it works:
+<p>   This example illustrates the use of CommonAccord for the creation of Consent Forms, which can inherit different clauses according to the language, jurisdiction, situation of the patient, nature of the study, etc. In the pages, switch between the tabs (Source, Edit, and <b>Document</b>) to see how it works:
 <ul><li>Common Resources<ul>
 <li><a href="/index.php?action=source&file=./Wx/org/genomicsandhealth/REWG/Consent/All/Form/Outline_V01">Outline_V01</a>: The taxonomy of the template Consent Form</li>
    <li>Forms  (Note: <font color="red">ONLY the first of these, the "US" English version, is text from the GA4GH.  The French and German were done by plopping the English text into Google translate.</font>)<ul>
