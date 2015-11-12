@@ -75,21 +75,23 @@ Geo.Europe={DNS.EU}; {DNS.CH}
 7.0.sec=The further distribution of the info and of derivatives.  This is a category that in medicine is probably only applicable to intermediaries, not the subject.  Is this the equivalent set of issues as Creative Commons BY-SA etc.?  Would that help comprehension?
 
 7.=[Wx/org/genomicsandhealth/REWG/Paris/Access/Sec/Attribution_v0.md]
- 
-7.=[Wx/org/genomicsandhealth/REWG/Paris/Access/Sec/When_v0.md]
 
-8.Ti=Approve.
+8.Ti=When. 
 
-8.=[Wx/org/genomicsandhealth/REWG/Paris/Access/Sec/Approval_v0.md]
+8.=[Wx/org/genomicsandhealth/REWG/Paris/Access/Sec/When_v0.md]
 
-9.Ti=Security.
+9.Ti=Approve.
 
-9.=[Wx/org/genomicsandhealth/REWG/Paris/Access/Sec/Security_v0.md]
+9.=[Wx/org/genomicsandhealth/REWG/Paris/Access/Sec/Approval_v0.md]
 
-10.Ti=Dragon.
+10.Ti=Security.
 
-10.0.sec="Dragons" lie here.  TBD, unknown, watch out, etc.  From Wilbanks.
+10.=[Wx/org/genomicsandhealth/REWG/Paris/Access/Sec/Security_v0.md]
 
-=[Z/ol/10]  
+11.Ti=Dragon.
+
+11.0.sec="Dragons" lie here.  TBD, unknown, watch out, etc.  From Wilbanks.
+
+=[Z/ol/11]  
 
 =[Wx/org/genomicsandhealth/REWG/Paris/Access/Form/_v0.md]
