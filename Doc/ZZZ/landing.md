@@ -6,7 +6,7 @@ Name.CommonAccord.Org=CommonAccord.Org
 
 Model.Root=<p align="center">{Logo}<br><br><b>{Name.CommonAccord.Org}</b></center></p><br>{Table.sec}
 
-Logo=<img src="visual/cmacc-trans.png" style="width:35%" />
+Logo=<img src="File/cmacc-trans.png" style="width:35%" />
 
 Table.sec=<table><tr><td width="50%">{IntroContent}</td><td>   </td><td>{TwitterBlock.sec}<br><br><b><a href="http://old.commonaccord.org">old.commonaccord.org</a></b><br>{OtherSites.sec}</td></tr></table>
 
