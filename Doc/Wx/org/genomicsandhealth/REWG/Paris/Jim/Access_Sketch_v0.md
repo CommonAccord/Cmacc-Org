@@ -60,19 +60,19 @@ Geo.Europe={DNS.EU}; {DNS.CH}
 
 4.Ti=Domain.
 
-4.sec=The area of use.  Examples would include for all medical purposes, for the subject's precise medical condition, and places in between or elsewhere.  (Goal., Purpose. ?)
+4.sec=The area of use.  Examples would include for all medical purposes, for the subject's precise medical condition, and places in between or elsewhere.  (Domain., Field. ?)
 
 5.Ti=Contact.
 
 5.sec=May or must the subject be recontacted?  Return results, ask for more permissions, etc.
 
-6.Ti=Use.
+6.Ti=For.
 
 6.=[Wx/org/genomicsandhealth/REWG/Paris/Access/Sec/Use_v0.md]
 
-7.Ti=Attribution.
+7.Ti=Relay.
 
-7.0.sec=This is a category that in medicine is probably only applicable to intermediaries, not the subject.  Is this the equivalent set of issues as Creative Commons BY-SA etc.?  Would that help comprehension?
+7.0.sec=The further distribution of the info and of derivatives.  This is a category that in medicine is probably only applicable to intermediaries, not the subject.  Is this the equivalent set of issues as Creative Commons BY-SA etc.?  Would that help comprehension?
 
 7.=[Wx/org/genomicsandhealth/REWG/Paris/Access/Sec/Attribution_v0.md]
  
