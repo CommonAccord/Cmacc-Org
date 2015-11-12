@@ -78,7 +78,7 @@ switch ($_REQUEST['action']) {
 
     case 'edit':
 
-        include('edit.php');
+        include('./view/edit.php');
         break;
 
     default:
