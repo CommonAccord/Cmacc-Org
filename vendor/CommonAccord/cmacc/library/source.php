@@ -1,6 +1,5 @@
 <body style="margin:20;padding:0">
 <?php
-/*require('./Code/autoload.php'); */
 ini_set("allow_url_include", true);
 include("header.php");
 
