@@ -1,6 +1,6 @@
 From=http://web.mit.edu/tlo/www/misc/forms.html.
 
-=[Z/agt/Agt.md]
+=[Z/Agt/Agt.md]
 
 =[Wx/edu/mit/tlo/NDA/Sec/Phrases_v0.md]
 
