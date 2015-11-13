@@ -1,10 +1,7 @@
+1.=[Dx/MIT/02-NDAs/01-Mutual_v0.md]
 
+2.=[Dx/MIT/02-NDAs/02-Inbound_v0.md]
 
-1.=[doc/mit/MIT_SponsoredResearch_Demo_1]
-2.=[doc/mit/MIT_NDA_Demo_1_Mutual]
-3.=[doc/mit//MIT_NDA_Demo_2_Inbound]
-4.=[doc/mit/MIT_NDA_Demo_3_Outbound]
+3.=[Dx/MIT/02-NDAs/03-Outbound_v0.md]
 
-Model.Root=<ol><li>{1.Model.Root}</li><li>{2.Model.Root}</li><li>{3.Model.Root}</li><li>{4.Model.Root}</li>
-
-			
+Model.Root=<ol><li>{1.Model.Root}<li>{2.Model.Root}<li>{3.Model.Root}</ol>
