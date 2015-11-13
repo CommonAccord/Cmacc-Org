@@ -1,0 +1,33 @@
+=[core/form/agt/research/sponsored/Form_MIT_Edu_OSP_USA]
+
+=[core/ids/mit_quake]
+
+AGT.Title=Sponsored Research Agreement
+
+P1.Handle=MIT
+
+P2.Handle=Quake
+
+AGT.Effective.YMD=August 1, 2014
+
+Investigator.ID.N,T,A=<b>Samantha Syngros, Professor, c/o {P1.OSP}, {P1.Addr.1,2}</b>
+
+Investigator.Handle=<b>Professor Syngros</b>
+
+Project.Period.Begin=<b>September 1, 2014</b>
+
+Project.Period.End=<b>August 31, 2015</b>
+
+Project.Cost.Max=<b>$65,000</b>
+
+Laws.Of=the Commonwealth of Massachusetts
+
+P1.xSignature=x S Shirley
+
+P2.xSignature=x C Kendall
+
+Sign.YMD=September 1, 2014
+
+
+
+						
