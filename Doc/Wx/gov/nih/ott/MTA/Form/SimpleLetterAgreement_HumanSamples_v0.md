@@ -23,7 +23,7 @@ Intro.Therefore=RECIPIENT and PROVIDER agree as follows:
 
 Sections=<ol><li>{1.sec}</li><li>{2.sec}</li><li>{3.sec}</li><li>{4.sec}</li><li>{5.sec}</li><li>{6.sec}</li><li>{7.sec}</li><li>{8.sec}</li><li>{9.sec}</li><li>{10.sec}</li><li>{11.sec}</li><li>{12.sec}</li><li>{13.sec}</li><li>{14.sec}</li><li>{15.sec}</li><li>{16.sec}</li><li>{17.sec}</li></ol>
 
-1.sec=PROVIDER will transfer to RECIPIENT the following: <font color="magenta">{Material.Description}</font>  with the following data <font color="magenta">{Data.Description}</font> (collectively "Human Material").
+1.sec=PROVIDER will transfer to RECIPIENT the following: <font color="magenta">{Data.Description}</font> (collectively "Human Material").
 
 2.sec=Descriptive title of RECIPIENT's research with Human Material is:  <font color="magenta">{P2.Research_Project.Description}</font> ("Research Project").
 
@@ -31,7 +31,7 @@ Sections=<ol><li>{1.sec}</li><li>{2.sec}</li><li>{3.sec}</li><li>{4.sec}</li><li
 
 4.sec=Select {4= includes Personally Identifiable Information} - either<ol><li>{4.NO } <br><font color="magenta">{4.NO}</font></li><li>or</li><li> {4.YES } <br><font color="magenta">{4.YES}</font></li></ol> 
 
-4.NO=PROVIDER will not provide RECIPIENT with personally identifiable information or the code to personally identifiable information with Human Material
+4.NO=PROVIDER will not provide RECIPIENT with personally identifiable information or the code to personally identifiable information with Human Material.
 
 4.YES=PROVIDER will provide RECIPIENT with personally identifiable information or the code to personally identifiable information with Human Material.  RECIPIENT's use of Human Material is subject to:<ol type="a"><li>{4.a};</li><li>{4.b}; and</li><li>{4.c}</li></ol>
 
@@ -47,7 +47,7 @@ Sections=<ol><li>{1.sec}</li><li>{2.sec}</li><li>{3.sec}</li><li>{4.sec}</li><li
 
 4.c.3=make no further use or disclosure of the information unless approved by the PROVIDER, except as required by law
 
-5.sec=RECIPIENT will only use Human Material for the Research Project
+5.sec=RECIPIENT will only use Human Material for the Research Project.
 
 6.sec=RECIPIENT represents that it has obtained Institutional Review Board approval, as appropriate, to use Human Material.	 
 
@@ -85,28 +85,22 @@ Sections=<ol><li>{1.sec}</li><li>{2.sec}</li><li>{3.sec}</li><li>{4.sec}</li><li
 
 17.sec=This MTA shall be construed in accordance with United States Federal law as applied by the Federal courts in the District of Columbia. 
 
-Agt.Sign={Sign.Intro}<br>{Sign.Block}
+Agt.Sign={Sign.Intro}<br><br>{Sign.Field}
+
 Sign.Intro=The Parties have executed this MTA by their respective duly authorized officers on the day and year hereinafter written.  Any communication or notice to be given shall be forwarded in writing to the respective addresses listed below.
 
-Sign.Block={P1.Officer.Sign.Block}<br>{P1.Coordinator.Sign.Block}<br>{P2.Officer.Sign.Block}<br>{P2.Scientist.Sign.Block}
+Sign.Field={P1.Officer.Sign.Field}<br>{P1.Coordinator.Sign.Field}<br>{P2.Officer.Sign.Field}<br>{P2.Scientist.Sign.Field}
 
 FOR PROVIDER:
-P1.Officer.Sign.Block=<table width="80%"><tr><td width="40%">FOR PROVIDER:</td><td width="10%"></td><td width="30%">    </td></tr><tr><td><font color="magenta">{P1.Officer.xSignature}</font><br>(Signature of Authorized Official)</td><td></td><td><font color="magenta">{P1.Officer.Sign.YMD}</font><br>Date</td></tr><tr><td><font color="magenta">{P1.Officer.Name.Full}, {P1.Officer.Title}</font><br>(Printed Name and Title)</td><td></td></tr></table>					
+
+P1.Officer.Sign.Field=<table width="80%"><tr><td width="40%">FOR PROVIDER:</td><td width="10%"></td><td width="30%">    </td></tr><tr><td><font color="magenta">{P1.Officer.xSignature}</font><br>(Signature of Authorized Official)</td><td></td><td><font color="magenta">{P1.Officer.Sign.YMD}</font><br>Date</td></tr><tr><td><font color="magenta">{P1.Officer.Name.Full}, {P1.Officer.Title}</font><br>(Printed Name and Title)</td><td></td></tr></table>					
 
 FOR PROVIDER - Coordinator:
-P1.Coordinator.Sign.Block=<table width="80%"><tr><td width="40%"><font color="magenta">{P1.Coordinator.xSignature}</font><br>(Signature of NIH Technology Development Coordinator)</td><td width="10%">   </td><td width="30%"><font color="magenta">{P1.Coordinator.Sign.YMD}</font><br>Date</td></tr><tr><td><font color="magenta">{P1.Coordinator.Name.Full}, {P1.Coordinator.Title}</font><br>(Printed Name and Title)</td><td></td></tr><tr><td>Mailing Address for Notices</td><td></td><td><font color="magenta">{P1.Notice.Block}</font></td></tr></table>
+
+P1.Coordinator.Sign.Field=<table width="80%"><tr><td width="40%"><font color="magenta">{P1.Coordinator.xSignature}</font><br>(Signature of NIH Technology Development Coordinator)</td><td width="10%">   </td><td width="30%"><font color="magenta">{P1.Coordinator.Sign.YMD}</font><br>Date</td></tr><tr><td><font color="magenta">{P1.Coordinator.Name.Full}, {P1.Coordinator.Title}</font><br>(Printed Name and Title)</td><td></td></tr><tr><td>Mailing Address for Notices</td><td></td><td><font color="magenta">{P1.Notice.Block}</font></td></tr></table>
 
 
 FOR RECIPIENT:
-P2.Officer.Sign.Block=<table width="80%"><tr><td width="40%">FOR RECIPIENT:</td><td width="10%"></td><td width="30%">    </td></tr><tr><td><font color="magenta">{P2.Officer.xSignature}</font><br>(Signature of Authorized Official)</td><td></td><td><font color="magenta">{P2.Officer.Sign.YMD}</font><br>Date</td></tr><tr><td><font color="magenta">{P2.Officer.Name.Full}, {P2.Officer.Title}</font><br>(Printed Name and Title)</td><td></td></tr><tr><td>Mailing Address for Notices</td><td></td><td><font color="magenta">{P2.Notice.Block}</font></td></tr></table>
+P2.Officer.Sign.Field=<table width="80%"><tr><td width="40%">FOR RECIPIENT:</td><td width="10%"></td><td width="30%">    </td></tr><tr><td><font color="magenta">{P2.Officer.xSignature}</font><br>(Signature of Authorized Official)</td><td></td><td><font color="magenta">{P2.Officer.Sign.YMD}</font><br>Date</td></tr><tr><td><font color="magenta">{P2.Officer.Name.Full}, {P2.Officer.Title}</font><br>(Printed Name and Title)</td><td></td></tr><tr><td>Mailing Address for Notices</td><td></td><td><font color="magenta">{P2.Notice.Block}</font></td></tr></table>
 					
-P2.Scientist.Sign.Block=RECIPIENT INVESTIGATOR:<br>I have read and understood the terms and conditions of this MTA and I agree to abide by them in the receipt and use of the Human Material. <br><font color="magenta">{P2.Scientist.xSignature}</font><br>(Signature)<br><font color="magenta">{P2.Scientist.YMD}</font><br>Date
-				
-
-m-=<font color="{mcolor}">
--m=</font>
-mcolor=magenta
-
-n-=<font color="{ncolor}">
--n=</font>
-ncolor=magenta
+P2.Scientist.Sign.Field=RECIPIENT INVESTIGATOR:<br>I have read and understood the terms and conditions of this MTA and I agree to abide by them in the receipt and use of the Human Material. <br><font color="magenta">{P2.Scientist.xSignature}</font><br>(Signature)<br><font color="magenta">{P2.Scientist.YMD}</font><br>Date

@@ -37,13 +37,13 @@ Signature={Sign.Intro}<br>{P1.Sign.Block}<br>{P1.Officer.Certify}<br><br>{P2.Sig
 
 Sign.Intro=The PROVIDER, RECIPIENT and RECIPIENT SCIENTIST must sign both copies of this letter and return one signed copy to the PROVIDER. The PROVIDER will then send the MATERIAL. 
 
-P1.Sign.Block=<span style="text-transform: uppercase">{P1.Handle}</span>INFORMATION and AUTHORIZED SIGNATURE <br>{P1.Handle} Scientist: {P1.Scientist.Name.Full}</font> <br>{P1.Handle} Organization:  <font color="magenta">{P1.Name.Full}</font> <br>Address: <font color="magenta">{P1.Addr.1,2}</font> <br>Name of Authorized Official: <font color="magenta">{P1.Officer.Name.Full}</font> <br>Title of Authorized Official: <font color="magenta">{P1.Officer.Title}</font> 
+P1.Sign.Block=<span style="text-transform: uppercase">{P1.Handle}</span> INFORMATION and AUTHORIZED SIGNATURE <br>{P1.Handle} Scientist: {P1.Scientist.Name.Full}</font> <br>{P1.Handle} Organization:  <font color="magenta">{P1.Name.Full}</font> <br>Address: <font color="magenta">{P1.Addr.1,2}</font> <br>Name of Authorized Official: <font color="magenta">{P1.Officer.Name.Full}</font> <br>Title of Authorized Official: <font color="magenta">{P1.Officer.Title}</font> 
 
 P1.Handle=Provider
 
 P1.Officer.Certify=Certification of Authorized Official: This Simple Letter Agreement <font color="magenta">{has/has not}</font> been modified.<br><font color="magenta">{P1.Officer.xSignature}</font><br> Signature of Authorized Official<br><font color="magenta">{P1.Sign.YMD}</font><br> Date 
 
 P2.Handle=Recipient
-P2.Sign.Block=<span style="text-transform: uppercase">{P2.Handle}</span>INFORMATION and AUTHORIZED SIGNATURE <br>{P2.Handle} Scientist: <font color="magenta">{P2.Scientist.Name.Full}</font> <br>{P2.Handle} Organization:  <font color="magenta">{P2.Name.Full}</font> <br>Address: <font color="magenta">{P2.Addr.1,2}</font> <br>Name of Authorized Official: <font color="magenta">{P2.Officer.Name.Full}</font> <br>Title of Authorized Official: <font color="magenta">{P2.Officer.Title}</font> 
+P2.Sign.Block=<span style="text-transform: uppercase">{P2.Handle}</span> INFORMATION and AUTHORIZED SIGNATURE <br>{P2.Handle} Scientist: <font color="magenta">{P2.Scientist.Name.Full}</font> <br>{P2.Handle} Organization:  <font color="magenta">{P2.Name.Full}</font> <br>Address: <font color="magenta">{P2.Addr.1,2}</font> <br>Name of Authorized Official: <font color="magenta">{P2.Officer.Name.Full}</font> <br>Title of Authorized Official: <font color="magenta">{P2.Officer.Title}</font> 
 
 P2.Scientist.Certify=Certification of Recipient Scientist: I have read and understood the conditions outlined in this Agreement and I agree to abide by them in the receipt and use of the MATERIAL. <br><font color="magenta">{P2.Scientist.xSignature}</font> <br>Date<br><font color="magenta">{P2.Scientist.Sign.YMD}</font>
