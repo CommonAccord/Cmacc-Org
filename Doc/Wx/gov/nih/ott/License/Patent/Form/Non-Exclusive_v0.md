@@ -1,16 +1,16 @@
-=[Wx/gov/nih/license/patent/Form/Form_NIH_Exclusive_Patent_License]
+=[Wx/gov/nih/ott/license/patent/Form/Exclusive_v0.md]
 
 Def.First_Commercial_Sale="<strong>First Commercial Sale</strong>" means the initial transfer by or on behalf of the <strong>Licensee</strong> of <strong>Licensed Products </strong>or the initial practice of a <strong>Licensed Process</strong> by or on behalf of the <strong>Licensee </strong>in exchange for cash or some equivalent to which value can be assigned for the purpose of determining <strong>Net Sales</strong>.
 
-LicSub.Sec=<b><u>Sublicensing</u>.- The Licensee has no right to sublicense.</b>
+LicSub.Sec=<b><u>Sublicensing</u>. The Licensee has no right to sublicense.</b>
 
 Govt.Reserve.Sec={Govt.Reserve.LicenseToPractice.SupplyProducts.Sen}.
 
-Prosecute.Sec=<b><u>Patent Filing, Prosecution and Maintenance</u>- {Prosecute.ByLsor.Sec}</b>
+Prosecute.Sec=<b><u>Patent Filing, Prosecution and Maintenance</u> {Prosecute.ByLsor.Sec}</b>
 
 Prosecute.ByLsor.Sec=<b>The <strong>NIH</strong> agrees to take responsibility for the preparation, filing, prosecution, and maintenance of any and all patent applications or patents included in the Licensed Patent Rights.</b>
 
-Enforce.Lsor.Sec=<b>In the event that a declaratory judgment action alleging invalidity of any of the <strong>Licensed Patent Rights</strong> shall be brought against the <strong>NIH</strong>, The<strong> NIH</strong> agrees to notify the <strong>Licensee</strong> that an action alleging invalidity has been brought.- The<strong> NIH</strong> does not represent that it shall commence legal action to defend against a declaratory action alleging invalidity. -The <strong>Licensee</strong> shall take no action to compel the <strong>Government</strong> either to initiate or to join in any declaratory judgment action.- Should the <strong>Government</strong> be made a party to any suit by motion or any other action of the <strong>Licensee</strong>, the <strong>Licensee</strong> shall reimburse the <strong>Government</strong> for any costs, expenses, or fees, which the <strong>Government</strong> incurs as a result of the motion or other action.- Upon the <strong>Licensee's</strong> payment of all costs incurred by the <strong>Government</strong> as a result of the <strong>Licensee's</strong> joinder motion or other action, these actions by the <strong>Licensee</strong> shall not be considered a default in the performance of any material obligation under this <strong>Agreement</strong>.</b>
+Enforce.Lsor.Sec=<b>In the event that a declaratory judgment action alleging invalidity of any of the <strong>Licensed Patent Rights</strong> shall be brought against the <strong>NIH</strong>, The<strong> NIH</strong> agrees to notify the <strong>Licensee</strong> that an action alleging invalidity has been brought. The<strong> NIH</strong> does not represent that it shall commence legal action to defend against a declaratory action alleging invalidity.  The <strong>Licensee</strong> shall take no action to compel the <strong>Government</strong> either to initiate or to join in any declaratory judgment action. Should the <strong>Government</strong> be made a party to any suit by motion or any other action of the <strong>Licensee</strong>, the <strong>Licensee</strong> shall reimburse the <strong>Government</strong> for any costs, expenses, or fees, which the <strong>Government</strong> incurs as a result of the motion or other action. Upon the <strong>Licensee's</strong> payment of all costs incurred by the <strong>Government</strong> as a result of the <strong>Licensee's</strong> joinder motion or other action, these actions by the <strong>Licensee</strong> shall not be considered a default in the performance of any material obligation under this <strong>Agreement</strong>.</b>
 
 2.9=<b>{2}.8??</b>
 
@@ -42,7 +42,7 @@ Owe.CostRunningSurrender.Notice.Days=<b>sixty (60) days</b>
 
 Commerce.Effort.LicSub.Sec={_delete_}</b>
 
-Enforce.Sec=<b><u>Infringement and Patent Enforcement</u>.<ol><li>{Enforce.InfringeNotify.Sec}</li><li>{Enforce.Lsor.Sec}</li></ol></b>
+Enforce.Sec=<b><b>Infringement and Patent Enforcement</b>.<ol><li>{Enforce.InfringeNotify.Sec}</li><li>{Enforce.Lsor.Sec}</li></ol></b>
 
 Report.LicSub.Sec={_delete_}
 
