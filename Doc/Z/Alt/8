@@ -1,6 +1,6 @@
 Alt=[Z/ol/8]
 
-Sec=<font color="red">{Alt0.Sec}:{AltOlist}</font>
+Sec=<b>{Ti}</b><br>{sec}
 
 Alt0.Sec=Select one - {SecName}.Sec={{SecName}.AltX.Sec}where X is 1-8
 
