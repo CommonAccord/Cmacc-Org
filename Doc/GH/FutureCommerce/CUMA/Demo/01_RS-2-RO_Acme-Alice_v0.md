@@ -2,4 +2,4 @@
 
 RO.=[U/id/Alice]
 
-EffectiveDate.YMD=November 14, 2015
+RS.Sign.YMD=November 14, 2015
