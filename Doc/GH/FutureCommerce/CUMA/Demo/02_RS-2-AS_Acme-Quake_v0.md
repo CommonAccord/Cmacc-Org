@@ -8,7 +8,7 @@ Note=This is the form for this document:
 
 Note=This is the existing state of the paperwork:
 
-=[GH/FutureCommerce/CUMA/Demo/01-3_RS-2-RO_Acme-Alice_v0.md]
+=[GH/FutureCommerce/CUMA/Demo/01-2_RO-2-RS_Acme-Alice_v0.md]
 
 RS.Sign.YMD=November 25, 2015
 

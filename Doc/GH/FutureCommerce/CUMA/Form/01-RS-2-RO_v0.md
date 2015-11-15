@@ -12,7 +12,9 @@ PolicyType.90.Sec=Except as expressly provided in this Section, we will reject a
 
 PolicyType.=[Z/ol/2]
 
-Misc.Sec=<b>Miscellaneous</b><ol><li>{IDF.Dispute.1.Sec}<li>{IDF.Law.Sec}</ol>
+Misc.Sec=<b>Miscellaneous</b><br>{Misc.sec}
+
+Misc.sec=<ol><li>{IDF.Dispute.1.Sec}<li>{IDF.Law.Sec}</ol>
 
 IDF.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Legal/_v0.md]
 
