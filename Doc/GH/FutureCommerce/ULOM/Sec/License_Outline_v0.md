@@ -1,3 +1,5 @@
+Note=The thought is that we can do all licensing (of all kinds) from a common tree.  This would accelerate codification and machine readability.
+
 Note=moved Def to the back, modularized BackEnd.Secs, changed "Govt.Sec" to "Reserve.Sec" (which seems to capture most of the thrust). 
 
 Patent.Olist=<ol><li>{Setting.Sec}<li>{Lic.Sec}<li>{LicSub.Sec}<li>{Reserve.Sec}<li>{Royalty.Sec}<li>{Prosecute.Sec}<li>{Record.Sec}<li>{Report.Sec}<li>{Commerce.Sec}<li>{Enforce.Sec}<li>{BackEnd.Secs}</ol>
