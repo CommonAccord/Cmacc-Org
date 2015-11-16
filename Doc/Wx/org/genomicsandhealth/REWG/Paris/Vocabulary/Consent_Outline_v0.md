@@ -20,7 +20,7 @@ Ti=Issues in Consent
 
 5.3.Ti=Data Use Categories
 
-5.3.=[Wx/org/genomicsandhealth/REWG/2015-11-Paris/DataUseCategories/_v1-3.md]
+5.3.=[Wx/org/genomicsandhealth/REWG/Paris/DataUseCategories/_v1-3.md]
 
 5.4.Ti=Conditions
 

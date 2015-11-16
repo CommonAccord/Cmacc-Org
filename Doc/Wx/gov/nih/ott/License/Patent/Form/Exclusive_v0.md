@@ -1,22 +1,31 @@
-Note=This is intended to be demonstrative, and has been through many generations of versions.  It does not fully conform to the original.  See <a href="https://www.ott.nih.gov/forms-model-agreements">https://www.ott.nih.gov/forms-model-agreements</a> for originals. 
+Note=This is intended to be demonstrative, and has been through many generations of versions.  It does not fully conform to the original.  See <a href="https://www.ott.nih.gov/forms-model-agreements">https://www.ott.nih.gov/forms-model-agreements</a> for originals.
 
-=[Z/agt/Agt.md]
+=[Z/Agt/Agt.md]
 
 Olist=<ol><li>{Setting.Sec}</li><li>{Def.Sec}</li><li>{Lic.Sec}</li><li>{LicSub.Sec}</li><li>{Govt.Sec}</li><li>{Royalty.Sec}</li><li>{Prosecute.Sec}</li><li>{Record.Sec}</li><li>{Report.Sec}</li><li>{Commerce.Sec}</li><li>{Enforce.Sec}</li><li>{Disclaim.Sec}</li><li>{Term.Sec}</li><li>{Misc.Sec}</li></ol>
 
 <b>Setting</b>=-
+
 Setting.Sec=<b>Background</b>.<ol><li>{Setting.Inventor.Create.Sen}</li><li>{Setting.Inventor.Assign.Lsor.Sen}</li><li>{Setting.Lsor.Authority.Sen}</li><li>{Setting.Lsor.Transfer.Sen}</li><li>{Setting.Lsee.Receive.Sen}</li></ol>	
+
 Setting.Inventor.Create.Sen=In the course of conducting biomedical and behavioral research, {P1.Handle} or the FDA investigators made inventions that may have commercial applicability.
+
 Setting.Inventor.Assign.Lsor.Sen=By assignment of rights from {P1.Handle} or FDA employees and other inventors, HHS, on behalf of the Government, owns intellectual property rights claimed in any United States or foreign patent applications or patents corresponding to the assigned inventions. HHS also owns any tangible embodiments of these inventions actually reduced to practice by {P1.Handle} or the FDA.
+
 Setting.Lsor.Authority.Sen=The Secretary of HHS has delegated to {P1.Handle} the authority to enter into this Agreement for the licensing of rights to these inventions.
+
 Setting.Lsor.Transfer.Sen={P1.Handle} desires to transfer these inventions to the private sector through commercialization licenses to facilitate the commercial development of products and processes for public use and benefit.
+
 Setting.Lsee.Receive.Sen=The Licensee desires to acquire commercialization rights to certain of these inventions in order to develop processes, methods, or marketable products for public use and benefit.
 
 Def.Sec=<b>Definitions</b>. <ol><li>{Def.Affiliate(s)}</li><li>{Def.Benchmarks}</li><li>{Def.Commercial_Development_Plan}</li><li>{Def.CRADA}</li><li>{Def.FDA}</li><li>{Def.First_Commercial_Sale}</li><li>{Def.Government}</li><li>{Def.Licensed_Fields_of_Use}</li><li>{Def.Licensed_Patent_Rights}</li><li>{Def.Licensed_Processes}</li><li>{Def.Licensed_Products}</li><li>{Def.Licensed_Territory}</li><li>{Def.Net_Sales}</li><li>{Def.Practical_Application}</li><li>{Def.Research_License}</li></ol>
 
 Def.Affiliate(s)="Affiliate(s)” means a corporation or other business entity, which directly or indirectly is controlled by or controls, or is under common control with the Licensee. For this purpose, the term "control" shall mean ownership of more than fifty percent (50%) of the voting stock or other ownership interest of the corporation or other business entity, or the power to elect or appoint more than fifty percent (50%) of the members of the governing body of the corporation or other business entity.
+
 Def.Benchmarks="Benchmarks” mean the performance milestones that are set forth in Appendix D.
+
 Def.Commercial_Development_Plan="Commercial Development Plan” means the written commercialization plan attached as Appendix E.
+
 Def.CRADA="CRADA” means a Cooperative Research and Development Agreement.
 
 Def.FDA="FDA” means the Food and Drug Administration.
@@ -30,7 +39,8 @@ Def.Licensed_Fields_of_Use="Licensed Fields of Use” means the fields of use id
 Def.Licensed_Patent_Rights="Licensed Patent Rights” shall mean:<ol><li>{LPR.Listed._Cl};</li><li>{LPR.Incl._Cl}</li><li>{LPR.Foreign._Cl}; and</li><li>{LPR.Except._Cl}.</li></ol>
 
 LPR.Listed._Cl=Patent applications (including provisional patent applications and PCT patent applications) or patents listed in Appendix A, all divisions and continuations of these applications, all patents issuing from these applications, divisions, and continuations, and any reissues, reexaminations, and extensions of these patents
- 
+
+
 LPR.Incl._Cl=to the extent that the following contain one or more claims directed to the invention or inventions disclosed in 2.9(1):{LPR.Incl._Lost}
 
 LPR.Incl._Lost=<ol><li>{LPR.Incl.CIP._Cl};</li><li>{LPR.Incl.Div._Cl};</li><li>{LPR.Incl.Fruit._Cl};</li><li>{LPR.Incl.Priority._Cl}; and</li><li>{LPR.Incl.Reissue._Cl};</li></ol>
@@ -49,7 +59,6 @@ LPR.Foreign._Cl=to the extent that the following contain one or more claims dire
 
 LPR.Except._Cl=Licensed Patent Rights shall not include 2.9(2) or 2.9(3) to the extent that they contain one or more claims directed to new matter which is not the subject matter disclosed in 2.9(1)
 
-
 Def.Licensed_Processes="Licensed Processes” means processes which, in the course of being practiced, would be within the scope of one or more claims of the Licensed Patent Rights that have not been held unpatentable, invalid or unenforceable by an unappealed or unappealable judgment of a court of competent jurisdiction.
 
 Def.Licensed_Products="Licensed Products” means tangible materials which, in the course of manufacture, use, sale, or importation, would be within the scope of one or more claims of the Licensed Patent Rights that have not been held unpatentable, invalid or unenforceable by an unappealed or unappealable judgment of a court of competent jurisdiction.
@@ -67,6 +76,7 @@ Def.Research_License="Research License” means a nontransferable, nonexclusive 
 Lic.Sec=<b>Grant of Rights</b><ol><li>{Lic.Grant.Sec}</li><li>{Lic.Exclude.Sec}</li></ol>
 
 Lic.Grant.Sec=<b>Grant</b>. The Licensor hereby grants and the Licensee accepts, subject to the terms and conditions of this Agreement, an exclusive license under the Licensed Patent Rights in the Licensed Territory to make and have made, to use and have used, to sell and have sold, to offer to sell, and to import any Licensed Products in the Licensed Fields of Use and to practice and have practiced any Licensed Process(es) in the Licensed Fields of Use.
+
 Lic.Exclude.Sec=<b>Excluded</b>. This Agreement confers no license or rights by implication, estoppel, or otherwise under any patent applications or patents of the {P1.Handle} other than the Licensed Patent Rights regardless of whether these patents are dominant or subordinate to the Licensed Patent Rights.
 
 LicSub.Sec=<b>Sub-Licensing</b>. <ol><li>{LicSub.Grant.Sec}</li><li>{LicSub.Subject.Sec}</li><li>{LicSub.Term.Subject.Sec}</li><li>{LicSub.Report.Start.Sec}</li></ol>
@@ -82,8 +92,8 @@ LicSub.Term.Subject.Sec=Any sublicenses granted by the Licensee shall provide fo
 LicSub.Report.Start.Sec=The Licensee agrees to forward to the {P1.Handle} a complete copy of each fully executed sublicense agreement postmarked within thirty (30) days of the execution of the agreement. To the extent permitted by law, the {P1.Handle} agrees to maintain each sublicense agreement in confidence.
 
 <b>Govt Sec 5</b>=
-Govt.Sec=<b>Statutory and {P1.Handle} Requirements and Reserved Government Rights</b>. <ol><li>{Govt.Reserve.LicenseToPractice.Sec}</li><li>{Govt.Reserve.LicBack.Sec}</li><li>{Govt.MakeInUS.Sec}</li><li>{Govt.FutureCRADA.Sec}</li><li>{Govt.ForcedLicense.Sec}</li><li>{Govt.ForcedLicense.Appeal.Sec}</li></ol>
 
+Govt.Sec=<b>Statutory and {P1.Handle} Requirements and Reserved Government Rights</b>. <ol><li>{Govt.Reserve.LicenseToPractice.Sec}</li><li>{Govt.Reserve.LicBack.Sec}</li><li>{Govt.MakeInUS.Sec}</li><li>{Govt.FutureCRADA.Sec}</li><li>{Govt.ForcedLicense.Sec}</li><li>{Govt.ForcedLicense.Appeal.Sec}</li></ol>
 
 Govt.Reserve.LicenseToPractice.Sec=the {P1.Handle} reserves on behalf of the Government an irrevocable, nonexclusive, 	nontransferable, royalty-free license for the practice of all inventions licensed 	under the Licensed Patent Rights throughout the world by or on behalf of the 	Government and on behalf of any foreign government or international 	organization pursuant to any existing or future treaty or agreement to which the 	Government is a signatory. Prior to the First Commercial Sale,  the Licensee 	agrees to provide the {P1.Handle} with reasonable quantities of the Licensed Products 	or materials made through the Licensed Processes for {P1.Handle} research use; and
 
@@ -99,7 +109,6 @@ Govt.ForcedLicense.Research.Sec=In addition to the reserved license of Paragraph
 
 Govt.ForcedLicense.PublicInterest.Sec=in exceptional circumstances, and in the event that the Licensed Patent Rights are Subject Inventions made under a CRADA, the Government, pursuant to 15 U.S.C. §3710a(b)(1)(B), retains the right to require the Licensee to grant to a responsible applicant a nonexclusive, partially exclusive, or exclusive sublicense to use the Licensed Patent Rights in the Licensed Field of Use on terms that are reasonable under the circumstances, or if the Licensee fails to grant this license, the Government retains the right to grant the license itself. The exercise of these rights by the Government shall only be in exceptional circumstances and only if the Government determines:<ol><li>{Govt.ForcedLicense.PublicInterest.Health._Cl}</li><li>{Govt.ForcedLicense.PublicInterest.FedReg._Cl}</li><li>{Govt.ForcedLicense.PublicInterest.Fail._Cl}</li></ol>
 
-
 Govt.ForcedLicense.PublicInterest.Health._Cl=the action is necessary to meet health or safety needs that are not reasonably satisfied by the Licensee;
 
 Govt.ForcedLicense.PublicInterest.FedReg._Cl=the action is necessary to meet requirements for public use specified by Federal regulations, and these requirements are not reasonably satisfied by the Licensee; or
@@ -108,8 +117,8 @@ Govt.ForcedLicense.PublicInterest.Fail._Cl=the Licensee has failed to comply wit
 
 Govt.ForcedLicense.Appeal.Sec=the determination made by the Government under this Paragraph 5.4 is subject to administrative appeal and judicial review under 35 U.S.C. §203(b)
 
-
 <b>6. Royalty</b>=-
+
 Royalty.Sec=<b>Royalties</b>. <ol><li>{Royalty.Fix.Issue.Sec}</li><li>{Royalty.Fix.Annual.Sec}</li><li>{Royalty.Earn.Sec}</li><li>{Royalty.Bench.Sec}</li><li>{Royalty.LicSub.Sec}</li><li>{Royalty.End.Sec}</li><li>{Royalty.Cumulate.Sec}</li><li>{Royalty.Insider.Sec}</li><li>{Royalty.CostPrior.Sec}</li><li>{Royalty.CostRunning.Sec}</li><li>{Royalty.CostProof.Sec}</li><li>{Royalty.CostRunningSurrender.Sec}</li></ol>
 
 Royalty.Fix.Issue.Sec=The Licensee agrees to pay the {P1.Handle} a noncreditable, nonrefundable license issue royalty as set forth in Appendix C.
@@ -128,15 +137,24 @@ Royalty.End.PatAppAbandon._cl=the application has been abandoned and not continu
 
 Royalty.End.PatEnd._cl=the patent expires or irrevocably lapses
 
-Royalty.End.PatInvalid._cl=the patent has been held to be invalid or unenforceable by an unappealed or 
+Royalty.End.PatInvalid._cl=the patent has been held to be invalid or unenforceable by an unappealed or
+
 unappealable decision of a court of competent jurisdiction or administrative agency
+
 Royalty.Cumulate.Sec=No multiple royalties shall be payable because any Licensed Products or Licensed Processes are covered by more than one of the Licensed Patent Rights.
+
 Royalty.Insider.Sec=On sales of the Licensed Products by the Licensee to sublicensees or on sales made in other than an arms-length transaction, the value of the Net Sales attributed under this Article 6 to this transaction shall be that which would have been received in an arms-length transaction, based on sales of like quantity and quality products on or about the time of this transaction.
+
 Royalty.CostPrior.Sec=With regard to unreimbursed expenses associated with the preparation, filing, prosecution, and maintenance of all patent applications and patents included within the Licensed Patent Rights and paid by the {P1.Handle} prior to the effective date of this Agreement, the Licensee shall pay the {P1.Handle}, as an additional royalty, within sixty (60) days of the {P1.Handle}’s submission of a statement and request for payment to the Licensee, an amount equivalent to these unreimbursed expenses previously paid by the {P1.Handle}.
+
 Royalty.CostRunning.Sec=With regard to unreimbursed expenses associated with the preparation, filing, prosecution, and maintenance of all patent applications and patents included within the Licensed Patent Rights and paid by the {P1.Handle} on or after the effective date of this Agreement, the {P1.Handle}, at its sole option, may require the Licensee:
+
 Royalty.CostRunning.Annual._cl=to pay the {P1.Handle} on an annual basis, within sixty (60) days of the {P1.Handle}’s submission of a statement and request for payment, a royalty amount equivalent to these unreimbursed expenses paid during the previous calendar year(s);
+
 Royalty.CostRunning.AttyFee._cl=to pay these unreimbursed expenses directly to the law firm employed by the {P1.Handle} to handle these functions. However, in this event, the {P1.Handle} and not the Licensee shall be the client of the law firm; or
+
 Royalty.CostRunning.FileFee._cl=in limited circumstances, the Licensee may be given the right to assume responsibility for the preparation, filing, prosecution, or maintenance of any patent application or patent included with the Licensed Patent Rights. In that event, the Licensee shall directly pay the attorneys or agents engaged to prepare, file, prosecute, or maintain these patent applications or patents and shall provide the {P1.Handle} with copies of each invoice associated with these services as well as documentation that these invoices have been paid.
+
 Royalty.CostProof.Sec=The {P1.Handle} agrees, upon written request, to provide the Licensee with summaries of patent prosecution invoices for which the {P1.Handle} has requested payment from the Licensee under Paragraphs {Royalty.CostPrior._cl.Xref} and {Royalty.CostRunning._cl.Xref}. The Licensee agrees that all information provided by the {P1.Handle} related to patent prosecution costs shall be treated as confidential commercial information and shall not be released to a third party except as required by law or a court of competent jurisdiction.
 
 Royalty.CostRunningSurrender.Sec=The Licensee may elect to surrender its rights in any country of the Licensed Territory under any of the Licensed Patent Rights upon ninety (90) days written notice to the {P1.Handle} and owe no payment obligation under Paragraph {Royalty.CostRunning.Sec} for patent-related expenses paid in that country after ninety (90) days of the effective date of the written notice.
@@ -153,10 +171,9 @@ Prosecute.Report.Sec=Each party shall promptly inform the other as to all matter
 
 Record.Sec=<b>Record Keeping</b>. The Licensee agrees to keep accurate and correct records of the Licensed Products made, used, sold, or imported and the Licensed Processes practiced under this Agreement appropriate to determine the amount of royalties due the {P1.Handle}. These records shall be retained for at least five (5) years following a given reporting period and shall be available during normal business hours for inspection, at the expense of the {P1.Handle}, by an accountant or other designated auditor selected by the {P1.Handle} for the sole purpose of verifying reports and royalty payments hereunder. The accountant or auditor shall only disclose to the {P1.Handle} information relating to the accuracy of reports and royalty payments made under this Agreement. If an inspection shows an underreporting or underpayment in excess of {Record.Audit.Underpay.$} for any twelve (12) month period, then the Licensee shall reimburse the {P1.Handle} for the cost of the inspection at the time the Licensee pays the unreported royalties, including any additional royalties as required by Paragraph 9.8. All royalty payments required under this Paragraph shall be due within sixty (60) days of the date the {P1.Handle} provides to the Licensee notice of the payment due.
 
-
 <b>Reports</b>=-
-Report.Sec=<b>Reports on Progress, Benchmarks, Sales, and Payments</b><ol><li>{Report.Plan.Sec}</li><li>{Report.Progress.Sec}</li><li>{Report.Bench.Sec}</li><li>{Report.Royalty.Sec}</li><li>{Report.LicSub.Sec}</li><li>{Pay.Currency.Sec}</li><li>{Bear.Tax.Sec}</li><li>{Pay.Late.Sec}</li><li>{Report.Conf.Sec}</li></ol>
 
+Report.Sec=<b>Reports on Progress, Benchmarks, Sales, and Payments</b><ol><li>{Report.Plan.Sec}</li><li>{Report.Progress.Sec}</li><li>{Report.Bench.Sec}</li><li>{Report.Royalty.Sec}</li><li>{Report.LicSub.Sec}</li><li>{Pay.Currency.Sec}</li><li>{Bear.Tax.Sec}</li><li>{Pay.Late.Sec}</li><li>{Report.Conf.Sec}</li></ol>
 
 Report.Plan.Sec=Prior to signing this Agreement, the Licensee has provided the {P1.Handle} with the Commercial Development Plan in Appendix E, under which the Licensee intends to bring the subject matter of the Licensed Patent Rights to the point of Practical Application. This Commercial Development Plan is hereby incorporated by reference into this Agreement. Based on this plan, performance Benchmarks are determined as specified in Appendix D.
 
@@ -176,7 +193,6 @@ Pay.Late.Sec=Additional royalties may be assessed by the {P1.Handle} on any paym
 
 Report.Conf.Sec=All plans and reports required by this Article {Report.Sec.Xnum} and marked "confidential” by the Licensee shall, to the extent permitted by law, be treated by the {P1.Handle} as commercial and financial information obtained from a person and as privileged and confidential, and any proposed disclosure of these records by the {P1.Handle} under the Freedom of Information Act (FOIA), 5 U.S.C. §552 shall be subject to the predisclosure notification requirements of 45 C.F.R. §5.65(d).
 
-
 Commerce.Sec=<b>Performance</b>.<ol><li>{Commerce.Effort.Sec}</li><li>{Commerce.PublicAccess.Sec}</li><li>{Commerce.PatientAssistance.Sec}</li><li>{Commerce.Educate.Sec}</li><li>{Commerce.Sample.Sec}</li></ol>
 
 Commerce.Effort.Sec=The Licensee shall use its reasonable commercial efforts to bring the Licensed Products and the Licensed Processes to Practical Application. "Reasonable commercial efforts” for the purposes of this provision shall include adherence to the Commercial Development Plan in Appendix E and performance of the Benchmarks in Appendix D. The efforts of a sublicensee shall be considered the efforts of the Licensee.
@@ -190,9 +206,11 @@ Commerce.Educate.Sec=The Licensee agrees, after it’s First Commercial Sale and
 Commerce.Sample.Sec=The Licensee agrees to supply, to the Mailing Address for Agreement Notices indicated on the Signature Page, the Office of Technology Transfer, {P1.Handle} with inert samples of the Licensed Products or the Licensed Processes or their packaging for educational and display purposes only.
 
 <b>Enforcement</b>=-
+
 Enforce.Sec=<b>Infringement and Patent Enforcement</b>.<ol><li>{Enforce.InfringeNotify.Sec}</li><li>{Enforce.Lcsee.Sec}</li><li>{Enforce.Challenge.Sec}</li><li>{Enforce.Cost.Sec}</li><li>{Enforce.LcsorCoop.Sec}</li></ol>
 
 Enforce.InfringeNotify.Sec=The {P1.Handle} and the Licensee agree to notify each other promptly of each infringement or possible infringement of the Licensed Patent Rights, as well as, any facts which may affect the validity, scope, or enforceability of the Licensed Patent Rights of which either party becomes aware.
+
 <b>Enforce.Lcsee.Cont._Para<b>=has been modified. The original seemed plainly misformatted.
 
 Enforce.Lcsee.Sec=Pursuant to this Agreement and the provisions of 35 U.S.C. Part 29, the Licensee may: <ol><li>{Enforce.Lcsee.Sue._cl};</li><li>{Enforce.Lcsee.Recover._cl}; or</li><li>{Enforce.Lcsee.Settle._cl}.</li></ol> {Enforce.Lcsee.Cont._Para}
@@ -200,6 +218,7 @@ Enforce.Lcsee.Sec=Pursuant to this Agreement and the provisions of 35 U.S.C. Par
 Enforce.Lcsee.Sue._cl=bring suit in its own name, at its own expense, and on its own behalf for infringement of presumably valid claims in the Licensed Patent Rights;
 
 Enforce.Lcsee.Recover._cl=in any suit, enjoin infringement and collect for its use, damages, profits, and awards of whatever nature recoverable for the infringement;
+
 Enforce.Lcsee.Settle._cl=settle any claim or suit for infringement of the Licensed Patent Rights provided, however, that the {P1.Handle} and appropriate Government authorities shall have the first right to take such actions
 
 Enforce.Lcsee.Cont._Para=If the Licensee desires to initiate a suit for patent infringement, the Licensee shall notify the {P1.Handle} in writing. If the {P1.Handle} does not notify the Licensee of its intent to pursue legal action within ninety (90) days, the Licensee shall be free to initiate suit. The {P1.Handle} shall have a continuing right to intervene in the suit. The Licensee shall take no action to compel the Government either to initiate or to join in any suit for patent infringement. The Licensee may request the Government to initiate or join in any suit if necessary to avoid dismissal of the suit. Should the Government be made a party to any suit, the Licensee shall reimburse the Government for any costs, expenses, or fees which the Government incurs as a result of the motion or other action, including all costs incurred by the Government in opposing the motion or other action. In all cases, the Licensee agrees to keep the {P1.Handle} reasonably apprised of the status and progress of any litigation. Before the Licensee commences an infringement action, the Licensee shall notify the {P1.Handle} and give careful consideration to the views of the {P1.Handle} and to any potential effects of the litigation on the public health in deciding whether to bring suit.
@@ -207,7 +226,9 @@ Enforce.Lcsee.Cont._Para=If the Licensee desires to initiate a suit for patent i
 Enforce.Challenge.Sec=In the event that a declaratory judgment action alleging invalidity or non-infringement of any of the Licensed Patent Rights shall be brought against the Licensee or raised by way of counterclaim or affirmative defense in an infringement suit brought by the Licensee under Paragraph {Enforce.Lcsee.Sec.Xref}, pursuant to this Agreement and the provisions of 35 U.S.C. Part 29 or other statutes, the Licensee may: <ol><li>{Enforce.Challenge.Defend._cl};</li><li>{Enforce.Challenge.Recover._cl}; and</li><li>{Enforce.Challenge.Settle._cl}.</li></ol> {Enforce.Challenge.Cont._Para}
 
 Enforce.Challenge.Defend._cl=defend the suit in its own name, at its own expense, and on its own behalf for presumably valid claims in the Licensed Patent Rights
+
 Enforce.Challenge.Recover._cl=in any suit, ultimately to enjoin infringement and to collect for its use, damages, profits, and awards of whatever nature recoverable for the infringement
+
 Enforce.Challenge.Settle._cl=settle any claim or suit for declaratory judgment involving the Licensed Patent Rights-provided, however, that the {P1.Handle} and appropriate Government authorities shall have the first right to take these actions and shall have a continuing right to intervene in the suit
 
 Enforce.Challenge.Cont._Para=If the {P1.Handle} does not notify the Licensee of its intent to respond to the legal action within a reasonable time, the Licensee shall be free to do so. The Licensee shall take no action to compel the Government either to initiate or to join in any declaratory judgment action. The Licensee may request the Government to initiate or to join any suit if necessary to avoid dismissal of the suit. Should the Government be made a party to any suit by motion or any other action of the Licensee, the Licensee shall reimburse the Government for any costs, expenses, or fees, which the Government incurs as a result of the motion or other action. If the Licensee elects not to defend against the declaratory judgment action, the {P1.Handle}, at its option, may do so at its own expense. In all cases, the Licensee agrees to keep the {P1.Handle} reasonably apprised of the status and progress of any litigation. Before the Licensee commences an infringement action, the Licensee shall notify the {P1.Handle} and give careful consideration to the views of the {P1.Handle} and to any potential effects of the litigation on the public health in deciding whether to bring suit.
@@ -216,9 +237,7 @@ Enforce.Cost.Sec=In any action under Paragraphs {Enforce.Lcsee.Sec.Xnum} or {Enf
 
 Enforce.LcsorCoop.Sec=The {P1.Handle} shall cooperate fully with the Licensee in connection with any action under Paragraphs {Enforce.Lcsee.Sec.Xnum} or {Enforce.Challenge.Sec.Xnum}  The {P1.Handle} agrees promptly to provide access to all necessary documents and to render reasonable assistance in response to a request by the Licensee.
 
-
 Term.Sec=<b>Term, Termination, and Modification of Rights</b>.<ol><li>{Term.Agreed.Sec}</li><li>{Term.Stop.Lcsor.Breach.Sec}</li><li>{Term.Stop.Lcsor.Broke.Sec}</li><li>{Term.Stop.Lscee.Elect.Sec}</li><li>{Term.Stop.Lcsor.Breach.Specific.Sec}</li><li>{Term.Stop.Lcsor.Breach.Specific.Process.Sec}</li><li>{LicSub.Lcsor.Compel.PublicHealth.Sec}</li><li>{Term.Stop.Lcsor.LaterPublicUseLaw.Sec}</li><li>{Term.Stop.Lcsee.Appeal.Sec}</li><li>{Term.After.Sec}</li></ol>
-
 
 Term.Agreed.Sec=This Agreement is effective when signed by all parties, unless the provisions of Paragraph 14.16 are not fulfilled, and shall extend to the expiration of the last to expire of the Licensed Patent Rights unless sooner terminated as provided in this Article {Term.Sec.Xnum}.
 
@@ -231,17 +250,23 @@ Term.Stop.Lscee.Elect.Sec=The Licensee shall have a unilateral right to terminat
 Term.Stop.Lcsor.Breach.Specific.Sec=The {P1.Handle} shall specifically have the right to terminate or modify, at its option, this Agreement, if the {P1.Handle} determines that the Licensee:<ol><li>{Term.Stop.Lcsor.Breach.Specific.Commerce._cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.Bench._cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.Lie._cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.Material._cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.PublicAccess._cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.HealthNeed._cl}</li><li>{Term.Stop.Lcsor.Breach.Specific.DomesticProduction._cl}</li></ol>
 
 Term.Stop.Lcsor.Breach.Specific.Commerce._cl=is not executing the Commercial Development Plan submitted with its request for a license and the Licensee cannot otherwise demonstrate to the {P1.Handle}’s satisfaction that the Licensee has taken, or can be expected to take within a reasonable time, effective steps to achieve the Practical Application of the Licensed Products or the Licensed Processes;
+
 Term.Stop.Lcsor.Breach.Specific.Bench._cl=has not achieved the Benchmarks as may be modified under Paragraph 9.2;
+
 Term.Stop.Lcsor.Breach.Specific.Lie._cl=has willfully made a false statement of, or willfully omitted a material fact in the license application or in any report required by this Agreement;
+
 Term.Stop.Lcsor.Breach.Specific.Material._cl=has committed a material breach of a covenant or agreement contained in this Agreement;
+
 Term.Stop.Lcsor.Breach.Specific.PublicAccess._cl=is not keeping the Licensed Products or the Licensed Processes reasonably available to the public after commercial use commences;
+
 Term.Stop.Lcsor.Breach.Specific.HealthNeed._cl=cannot reasonably satisfy unmet health and safety needs; or
+
 Term.Stop.Lcsor.Breach.Specific.DomesticProduction._cl=cannot reasonably justify a failure to comply with the domestic production requirement of Paragraph 5.2 unless waived.
 
 Term.Stop.Lcsor.Breach.Specific.Process.Sec=In making the determination referenced in Paragraph 13.5, the {P1.Handle} shall take into account the normal course of such commercial development programs conducted with sound and reasonable business practices and judgment and the annual reports submitted by the Licensee under Paragraph 9.2. Prior to invoking termination or modification of this Agreement under Paragraph 13.5, the {P1.Handle} shall give written notice to the Licensee providing the Licensee specific notice of, and a ninety (90) day opportunity to respond to, the {P1.Handle}’s concerns as to the items referenced in 13.5(1)-13.5(7). If the Licensee fails to alleviate the {P1.Handle}’s concerns as to the items referenced in 13.5(1)-13.5(7) or fails to initiate corrective action to the {P1.Handle}’s satisfaction, the {P1.Handle} may terminate this Agreement.
 
 LicSub.Lcsor.Compel.PublicHealth.Sec=When the public health and safety so require, and after written notice to the Licensee providing the Licensee a sixty (60) day opportunity to respond, the {P1.Handle} shall have the right to require the Licensee to grant sublicenses to responsible applicants, on reasonable terms, in any Licensed Fields of Use under the Licensed Patent Rights, unless the Licensee can reasonably demonstrate that the granting of the sublicense would not materially increase the availability to the public of the subject matter of the Licensed Patent Rights. The {P1.Handle} shall not require the granting of a sublicense unless the responsible applicant has first negotiated in good faith with the Licensee.
- 
+
 Term.Stop.Lcsor.LaterPublicUseLaw.Sec=The {P1.Handle} reserves the right according to 35 U.S.C. §209(d)(3) to terminate or modify this Agreement if it is determined that this action is necessary to meet the requirements for public use specified by federal regulations issued after the date of the license and these requirements are not reasonably satisfied by the Licensee.
 
 Term.Stop.Lcsee.Appeal.Sec=Within thirty (30) days of receipt of written notice of the {P1.Handle}'s unilateral decision to modify or terminate this Agreement, the Licensee may, consistent with the provisions of 37 C.F.R. §404.11, appeal the decision by written submission to the designated {P1.Handle} official. The decision of the designated the {P1.Handle} official shall be the final agency decision. The Licensee may thereafter exercise any and all administrative or judicial remedies that may be accesable.
@@ -249,7 +274,6 @@ Term.Stop.Lcsee.Appeal.Sec=Within thirty (30) days of receipt of written notice 
 Term.After.Sec=Within ninety (90) days of expiration or termination of this Agreement under this Article 13, a final report shall be submitted by the Licensee. Any royalty payments, including those incurred but not yet paid (such as the full minimum annual royalty), and those related to patent expenses, due to the {P1.Handle} shall become immediately due and payable upon termination or expiration. If terminated under this Article 13, sublicensees may elect to convert their sublicenses to direct licenses with the {P1.Handle} pursuant to Paragraph 4.3. Unless otherwise specifically provided for under this Agreement, upon termination or expiration of this Agreement, the Licensee shall return all Licensed Products or other materials included within the Licensed Patent Rights to the {P1.Handle} or provide the {P1.Handle} with certification of the destruction thereof. The Licensee may not be granted additional {P1.Handle} licenses if the final reporting requirement is not fulfilled.
 
 Disclaim.Sec=<b>Negation of Warranties and Indemnification</b>. <ol><li>{Disclaim.Lcsor.Warranty.Sec}</li><li>{Disclaim.Lcsor.PatentValidity.Sec}</li><li>{Disclaim.Lcsor.Merchantability.Sec}</li><li>{Disclaim.Lcsor.Enforce.Sec}</li><li>{Remedy.Lcsor.Indemn.Sec}</li><li>{Rep.Lscee.Insure.Sec}</li></ol>
-
 
 Disclaim.Lcsor.Warranty.Sec=<b>Warranties</b>. The {P1.Handle} offers no warranties other than those specified in Article 1.
 
@@ -262,22 +286,23 @@ Disclaim.Lcsor.Enforce.Sec=<b>Merchantability or Fitness</b>. The {P1.Handle} do
 Remedy.Lcsor.Indemn.Sec=<b>Indemnification of Licensor</b>. The Licensee shall indemnify and hold the {P1.Handle}, its employees, students, fellows, agents, and consultants harmless from and against all liability, demands, damages, expenses, and losses, including but not limited to death, personal injury, illness, or property damage in connection with or arising out of:<ol><li>{Remedy.Lcsor.Indemn.UseOfPatentRights._cl}</li><li>{Remedy.Lcsor.Indemn.Products._cl}</li></ol>
 
 Remedy.Lcsor.Indemn.UseOfPatentRights._cl=the use by or on behalf of the Licensee, its sublicensees, directors, employees, or third parties of any Licensed Patent Rights; or
+
 Remedy.Lcsor.Indemn.Products._cl=the design, manufacture, distribution, or use of any Licensed Products, Licensed Processes or materials by the Licensee, or other products or processes developed in connection with or arising out of the Licensed Patent Rights.
 
 Rep.Lscee.Insure.Sec=<b>Insurance</b>. The Licensee agrees to maintain a liability insurance program consistent with sound business practice.
 
-
-
-
 Misc.Sec=<b>General Provisions</b>.<ol><li>{Misc.Waive.Sec}</li><li>{Misc.Entire.Sec}</li><li>{Misc.Sever.Sec}</li><li>{Misc.Amend.Sec}</li><li>{Misc.Law.Sec}</li><li>{Misc.Notice.Sec}</li><li>{Misc.Assign.Sec}</li><li>{Misc.AbideMaterialsLaw.Sec}</li><li>{Misc.AbideUSLaw.Sec}</li><li>{Misc.PatentMarking.Sec}</li><li>{Disclaim.Lcsor.Endorse.Sec}</li><li>{Dispute.Sec}</li><li>{Disclaim.AntitrustImmunity.Sec}</li><li>{Misc.RecordAgreement.Sec}</li><li>{Misc.Survive.Sec}</li><li>{Term.Start.Cond.PromptSign.Sec}</li></ol>
 
 Misc.Waive.Sec=<b>Waiver</b>. Neither party may waive or release any of its rights or interests in this Agreement except in writing. The failure of the Government to assert a right hereunder or to insist upon compliance with any term or condition of this Agreement shall not constitute a waiver of that right by the Government or excuse a similar subsequent failure to perform any of these terms or conditions by the Licensee.
+
 Misc.Entire.Sec=<b>Entire Agreement</b>. This Agreement constitutes the entire agreement between the parties relating to the subject matter of the Licensed Patent Rights, the Licensed Products and the Licensed Processes, and all prior negotiations, representations, agreements, and understandings are merged into, extinguished by, and completely expressed by this Agreement.
 
 Misc.Sever.Sec=<b>Severable</b>. The provisions of this Agreement are severable, and in the event that any provision of this Agreement shall be determined to be invalid or unenforceable under any controlling body of law, this determination shall not in any way affect the validity or enforceability of the remaining provisions of this Agreement.
 
 Misc.Amend.Sec=<b>Amendment</b>. If either party desires a modification to this Agreement, the parties shall, upon reasonable notice of the proposed modification by the party desiring the change, confer in good faith to determine the desirability of the modification. No modification shall be effective until a written amendment is signed by the signatories to this Agreement or their designees.
+
 Misc.Law.Sec=<b>Law</b>. The construction, validity, performance, and effect of this Agreement shall be governed by Federal law as applied by the Federal courts in the District of Columbia.
+
 Misc.Notice.Sec=<b>Notices</b>. All Agreement notices required or permitted by this Agreement shall be given by prepaid, first class, registered or certified mail or by an express/overnight delivery service provided by a commercial carrier, properly addressed to the other party at the address designated on the following Signature Page, or to another address as may be designated in writing by the other party. Agreement notices shall be considered timely if the notices are received on or before the established deadline date or sent on or before the deadline date as verifiable by U.S. Postal Service postmark or dated receipt from a commercial carrier. Parties should request a legibly dated U.S. Postal Service postmark or obtain a dated receipt from a commercial carrier or the U.S. Postal Service. Private metered postmarks shall not be acceptable as proof of timely mailing.
 
 Misc.Assign.Sec=<b>Assignment</b>. This Agreement shall not be assigned or otherwise transferred (including any transfer by legal process or by operation of law, and any transfer in bankruptcy or insolvency, or in any other compulsory procedure or order of court) except to the Licensee’s Affiliate(s) without the prior written consent of the {P1.Handle}. The parties agree that the identity of the parties is material to the formation of this Agreement and that the obligations under this Agreement are nondelegable. In the event that the {P1.Handle} approves a proposed assignment, the Licensee shall pay the {P1.Handle}, as an additional royalty, one percent (1%) of the fair market value of any consideration received for any assignment of this Agreement within sixty (60) days of the assignment.

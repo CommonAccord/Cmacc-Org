@@ -68,4 +68,4 @@ Misc.Xnum=12
 
 =[Z/Sec/12]
 
-DocBody=<!DOCTYPE html><html><head><title>{PageName}</title><style>ol (Curly-)list-style-type: decimal;(-Curly) ol ol (Curly-)list-style-type: decimal;(-Curly) ol ol ol (Curly-)list-style-type: lower-alpha;(-Curly) ol ol ol ol (Curly-)list-style-type: lower-roman;(-Curly) ol ol ol ol ol (Curly-)list-style-type: decimal;(-Curly) ol ol ol ol ol ol (Curly-)list-style-type: upper-roman;(-Curly) ol ol ol ol ol ol ol (Curly-)list-style-type: lower-alpha;(-Curly)</style></head><body>{Doc}
+DocBody=<!DOCTYPE html><html><head><style>ol (Curly-)list-style-type: decimal;(-Curly) ol ol (Curly-)list-style-type: decimal;(-Curly) ol ol ol (Curly-)list-style-type: lower-alpha;(-Curly) ol ol ol ol (Curly-)list-style-type: lower-roman;(-Curly) ol ol ol ol ol (Curly-)list-style-type: decimal;(-Curly) ol ol ol ol ol ol (Curly-)list-style-type: upper-roman;(-Curly) ol ol ol ol ol ol ol (Curly-)list-style-type: lower-alpha;(-Curly)</style></head><body>{Doc}
