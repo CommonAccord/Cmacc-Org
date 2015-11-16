@@ -14,11 +14,11 @@ Blockchain=<a href="http://www3.weforum.org/docs/WEF_The_future__of_financial_se
 
 IoT=<a href="http://www.slideshare.net/_hd/ibm-adept">http://www.slideshare.net/_hd/ibm-adept</a>
 
-Blockchain.=[Wx/org/genomicsandhealth/REWG/2015-11-Paris/SmartContracts/Sec/Blockchain_v0.md]
+Blockchain.=[Wx/org/genomicsandhealth/REWG/Paris/Jim/Presentation/SmartContracts/Sec/Blockchain_v0.md]
 
-SmartContract.=[Wx/org/genomicsandhealth/REWG/2015-11-Paris/SmartContracts/Sec/SmartContracts_v0.md]
+SmartContract.=[Wx/org/genomicsandhealth/REWG/Paris/Jim/Presentation/SmartContracts/Sec/SmartContracts_v0.md]
 
-Resource.=[Wx/org/genomicsandhealth/REWG/2015-11-Paris/SmartContracts/Sec/Resources_v0.md]
+Resource.=[Wx/org/genomicsandhealth/REWG/Paris/Jim/Presentation/SmartContracts/Sec/Resources_v0.md]
 
 Olist=<ol><li>{Blockchain.Sec}<li>{SmartContract.Sec}<li>{Resource.Sec}</ol>
 
