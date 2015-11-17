@@ -13,3 +13,7 @@ Hardware.=[GH/FutureCommerce/ULOM/Sec/OSS_Hardware_Outline_v0.md]
 BackEnd.Secs={Liability.Sec}<li>{Term.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}<li>{Def.Sec}
 
 =[Z/Agt/Agt.md]
+
+Note=Cf.
+
+MIT.Assign=[Wx/edu/mit/tlo/IPIA/Form/_v0.md]
