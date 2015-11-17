@@ -1,4 +1,4 @@
-Note=The thought is that we can do all licensing (of all kinds) from a common tree.  This would accelerate codification and machine readability.
+Note=The thought is that we can do all licensing from a common tree.  This would accelerate codification and machine readability.
 
 Note=moved Def to the back, modularized BackEnd.Secs, changed "Govt.Sec" to "Reserve.Sec" (which seems to capture most of the thrust). 
 
