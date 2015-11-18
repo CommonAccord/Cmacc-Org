@@ -13,3 +13,5 @@ Note=From Creative Commons - here is source format [Wx/org/creativecommons/Licen
 
 CreativeCommons.Olist=<ol><li>{Def.Sec}<li>{Scope.Sec}<li>{Reserve.Sec}<li>{Database.Sec}<li>{Liability.Sec}<li>{Term.Sec}<li>{Other.Sec}<li>{Interpretation.Sec}</ol>
 
+
+CRL.=[Wx/edu/crl/liblicense/Model/Form/Form_v14_r15-05_v0.md]
