@@ -1,5 +1,3 @@
-
-
 Ti=MISCELLANEOUS PROVISIONS
 
 1.Ti=Assignment and Transfer
@@ -8,7 +6,7 @@ Ti=MISCELLANEOUS PROVISIONS
 
 2.Ti=Governing Law
 
-2.sec=This Agreement shall be interpreted and construed according to, and governed by, the laws of [enter venue convenient to Licensor and Licensee], without regard to its conflict of laws rules. The federal or state courts located in [enter venue convenient to Licensor and Licensee] shall have jurisdiction to hear any dispute under this Agreement.
+2.sec=This Agreement shall be interpreted and construed according to, and governed by, the laws of {Law.State.the}, without regard to its conflict of laws rules. The federal or state courts located in {Dispute.Seat} shall have jurisdiction to hear any dispute under this Agreement.
 
 Note={For state institutions, the governing law and venue may be determined by policy, statute or the state’s constitution. Liblicense editors recommend discussing governing law and venue requirements with your general counsel or an appropriate administrator.}
 
@@ -34,11 +32,10 @@ Note={For state institutions, the governing law and venue may be determined by p
 
 8.Ti=Notices
 
-8.sec=All notices given pursuant to this Agreement shall be in writing and shall be sent to the person who is the signatory to the Agreement at the contract addresses noted in the signature section of this Agreement. All notices may be hand delivered, or shall be deemed received within [enter time period] after mailing if sent by registered or certified mail, return receipt requested. If any notice is sent by facsimile or electronic mail, confirmation copies must be sent by mail or by hand delivery to the specified address. Either party may from time to time change its Notice Address by written notice to the other party.
+8.sec=All notices given pursuant to this Agreement shall be in writing and shall be sent to the person who is the signatory to the Agreement at the contract addresses noted in the signature section of this Agreement. All notices may be hand delivered, or shall be deemed received within {notice_time_period} after mailing if sent by registered or certified mail, return receipt requested. If any notice is sent by facsimile or electronic mail, confirmation copies must be sent by mail or by hand delivery to the specified address. Either party may from time to time change its Notice Address by written notice to the other party.
 
 9.Ti=Survivability
 
 9.sec=Sections 1, 3, 4.3, 7, 8, 9, 10.1, and 10.2 hereof, all indemnification obligations and perpetual license rights shall survive the expiration or termination of the Agreement.
 
 =[Z/Sec/9]
-
