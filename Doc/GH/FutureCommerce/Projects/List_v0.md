@@ -1,32 +1,6 @@
 Ti=Future Law - Suggestions for CommonAccord-Related Projects
 
-1.Ti=Management - Strategy
-
-1.1.Ti=Center for Decentralized Law
-
-1.1.0.sec=A political, organizational, financial plan for a novel NFP - the Center for Decentralized Law
-
-1.1.1.sec=Origin <a href="https://docs.google.com/document/d/1eizIqpx_ni8KaGkk3bVKvBBDoRy2eTEtvPHE0hiar7c/edit">decentralized approach to interface between law and blockchain</a>
-
-1.1.=[Z/ol/s1]
-
-1.2.Ti=New Business Models in an Economy of Frictionless Law and IT
-
-1.2.1.sec=New business based on ease of exposing and finding services and products.  (Yellow Pages, White Pages, universal product catalog, impact of the last mile.)
-
-1.2.2.sec=IoT -> IoP.  Using the "object model" and communications protocols of IoT to help persons (individuals and organizations) interact. 
-
-1.2.=[Z/ol/s2]
-
-1.3.Ti=Impact of Frictionless Law on Companies and Government
-
-1.3.sec=Publishing and aggregation models (BaaS - bureaucracy as a service)
-
-1.4.Ti=City as Commons
-
-
-1.=[Z/ol/4]
-
+1.=[GH/FutureCommerce/Projects/Sec/Business_v0.md]
 
 2.Ti=Law
 
