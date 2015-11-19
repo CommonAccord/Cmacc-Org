@@ -77,7 +77,7 @@ Note=Improve these references:
 
 2.3.Ti=Impact on Litigation of Transparency
 
-3.sec=Class actions, access to justice, business models for practice of law.
+2.3.sec=Class actions, access to justice, business models for practice of law.
 
 2.=[Z/ol/3]
 
