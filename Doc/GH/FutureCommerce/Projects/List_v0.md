@@ -8,12 +8,22 @@ Ti=Future Law - Suggestions for CommonAccord-Related Projects
 
 1.1.1.sec=Origin <a href="https://docs.google.com/document/d/1eizIqpx_ni8KaGkk3bVKvBBDoRy2eTEtvPHE0hiar7c/edit">decentralized approach to interface between law and blockchain</a>
 
-1.1.=[Z/ol/s1]
+1.2.Ti=New Business Models in an Economy of Frictionless Law and IT
 
-1.2.Ti=Impact of Frictionless Law on Companies and Government
+1.2.1.sec=New business based on ease of exposing and finding services and products.  (Yellow Pages, White Pages, universal product catalog, impact of the last mile.)
+
+1.2.2.sec=IoT -> IoP.  Using the "object model" and communications protocols of IoT to help persons (individuals and organizations) interact. 
+
+1.2.=[Z/ol/s2]
+
+1.3.Ti=Impact of Frictionless Law on Companies and Government
+
+1.3.sec=Publishing and aggregation models (BaaS - bureaucracy as a service)
+
+1.4.Ti=City as Commons
 
 
-1.=[Z/ol/2]
+1.=[Z/ol/4]
 
 
 2.Ti=Law
@@ -49,7 +59,6 @@ Note=Improve these references:
 
 2.2.3.sec=<a href="index.php?action=list&file=Wx/org/creativecommons/License/4_0/">CC licenses in "source" format</a>
 
-
 2.2.4.Ti=UC Regents' Library License
 
 2.2.4.sec=<a href="index.php?action=list&file=Wx/org/cdlib/vendor/License/Form/">Library <- Publisher </a>
@@ -60,7 +69,15 @@ Note=Improve these references:
 
 2.2.=[Z/ol/5]
 
-2.=[Z/ol/2]
+2.3.Ti=Privacy - EU->US Transfers (Schrems, etc.)
+
+2.3.sec=[Dx/Acme_FR/11-EU-US-DataTransfer/Doc_v0.md]
+
+2.3.Ti=Impact on Litigation of Transparency
+
+3.sec=Class actions, access to justice, business models for practice of law.
+
+2.=[Z/ol/3]
 
 3.Ti=Tech
 
