@@ -37,24 +37,28 @@ Note=Improve these references:
 
 2.2.0.sec=Licensing is a very broad, very complex problem, with ever increasing importance in the information economy.  People could work on a particular kind - or on a "universal" approach to licenses where there is a trunk, branches, twigs, leaves resulting in each kind of license being textually connected to all other licenses.  "DRY" in software lingo. 
 
-2.2.1.Ti=Patent Licensing
+2.2.1.Ti=Everything Licensing
 
-2.2.1.sec=<a href="index.php?action=list&file=Wx/gov/nih/ott/License/Patent/Form/">NIH model Patent License Agreement (Exclusive and Non-Exclusive)</a>
+2.2.1.sec=<a href="/index.php?action=source&file=GH/FutureCommerce/ULOM/Sec/License_Outline_v0.md">License tree</a>
 
-2.2.2.Ti=Creative Commons
+2.2.2.Ti=Patent Licensing
 
-2.2.2.sec=<a href="index.php?action=list&file=Wx/org/creativecommons/License/4_0/">CC licenses in "source" format</a>
+2.2.2.sec=<a href="index.php?action=list&file=Wx/gov/nih/ott/License/Patent/Form/">NIH model Patent License Agreement (Exclusive and Non-Exclusive)</a>
+
+2.2.3.Ti=Creative Commons
+
+2.2.3.sec=<a href="index.php?action=list&file=Wx/org/creativecommons/License/4_0/">CC licenses in "source" format</a>
 
 
-2.2.3.Ti=UC Regents' Library License
+2.2.4.Ti=UC Regents' Library License
 
-2.2.3.sec=<a href="index.php?action=list&file=Wx/org/cdlib/vendor/License/Form/">Library <- Publisher </a>
+2.2.4.sec=<a href="index.php?action=list&file=Wx/org/cdlib/vendor/License/Form/">Library <- Publisher </a>
 
-2.2.4.Ti=Open Source Hardware Licensing
+2.2.5.Ti=Open Source Hardware Licensing
 
 2.2.4.sec=<a href="index.php?action=list&file=Wx/org/solderpad/License/Form/">SolderPad Open source hardware license (also shows one approach to "releases")</a>
 
-2.2.=[Z/ol/4]
+2.2.=[Z/ol/5]
 
 2.=[Z/ol/2]
 
