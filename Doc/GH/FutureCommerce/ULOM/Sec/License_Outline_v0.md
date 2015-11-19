@@ -14,6 +14,6 @@ BackEnd.Secs={Liability.Sec}<li>{Term.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}<li>{De
 
 =[Z/Agt/Agt.md]
 
-Note=Cf.
+Note=Cf.  Not license, assignment, but many issues overlap.
 
 MIT.Assign=[Wx/edu/mit/tlo/IPIA/Form/_v0.md]
