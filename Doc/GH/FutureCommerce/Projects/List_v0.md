@@ -8,6 +8,8 @@ Ti=Future Law - Suggestions for CommonAccord-Related Projects
 
 1.1.1.sec=Origin <a href="https://docs.google.com/document/d/1eizIqpx_ni8KaGkk3bVKvBBDoRy2eTEtvPHE0hiar7c/edit">decentralized approach to interface between law and blockchain</a>
 
+1.1.=[Z/ol/s1]
+
 1.2.Ti=New Business Models in an Economy of Frictionless Law and IT
 
 1.2.1.sec=New business based on ease of exposing and finding services and products.  (Yellow Pages, White Pages, universal product catalog, impact of the last mile.)
