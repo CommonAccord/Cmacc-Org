@@ -6,16 +6,16 @@ Ti=Skeleton of a License Agreement
 
 3.Ti=Definitions
 
-4.Ti=License Grant
- 
-5.Ti=Compensation
- 
-6.Ti=Obligations of the Parties
+4.=[GH/FutureCommerce/ULOM/Bryan/Sec/Grant_v0.md] 
 
-7.Ti=Term and Termination
- 
-8.Ti=Conflict Resolution
+5.=[GH/FutureCommerce/ULOM/Bryan/Sec/Compensation_v0.md] 
 
-9.Ti=Other Common Clauses
+6.=[GH/FutureCommerce/ULOM/Bryan/Sec/Obligations_v0.md] 
+
+7.=[GH/FutureCommerce/ULOM/Bryan/Sec/Term_v0.md] 
+
+8.=[GH/FutureCommerce/ULOM/Bryan/Sec/Conflict_v0.md] 
+
+9.=[GH/FutureCommerce/ULOM/Bryan/Sec/Common_v0.md] 
 
 =[Z/ol/9]
