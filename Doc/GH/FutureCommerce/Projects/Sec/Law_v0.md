@@ -43,11 +43,10 @@ Note=Improve these references:
 
 3.Ti=Privacy - EU->US Transfers (Schrems, etc.)
 
-3.sec=[Dx/Acme_FR/11-EU-US-DataTransfer/Doc_v0.md]
+3.sec=<a href="index.php?action=doc&file=Dx/Acme_FR/11-EU-US-DataTransfer/Doc_v0.md">Dx/Acme_FR/11-EU-US-DataTransfer/Doc_v0.md</a>
 
 3.Ti=Impact on Litigation of Transparency
 
 3.sec=Class actions, access to justice, business models for practice of law.
 
 =[Z/ol/3]
-
