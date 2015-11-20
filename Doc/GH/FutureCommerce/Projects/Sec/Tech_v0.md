@@ -12,7 +12,19 @@ Ti=Tech
 
 3.=[Z/ol/2]
 
-4.Ti=Graph Visualization and Uses of Aggregate Data
+4.=[GH/FutureCommerce/Projects/Project/cmacc-ui_v0.md]
 
-5.Ti=APIs to Oracles for Places, Assets, Shipping, Products, Govt, etc. 
-=[Z/ol/5]
+5.Ti=Hashed File Names
+
+5.1.sec=Experiment with pretend saving name determined by hash:
+
+5.2.=[S/Sandbox/HashFileNames/qwErty004.md]
+
+5.=[Z/ol/s2]
+
+6.Ti=Graph Visualization and Uses of Aggregate Data
+
+7.Ti=APIs to Oracles for Places, Assets, Shipping, Products, Govt, etc. 
+
+
+=[Z/ol/7]
