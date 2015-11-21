@@ -2,7 +2,11 @@ Ti=Skeleton of a License Agreement
 
 1.Ti=Identification of the Parties
 
+1.sec= The License Agreement is made effective as of {EffectiveDate} between {Grantor}, of {GrantorCompany} {GrantorCompanyAddress} and {Grantee} of {GranteeCompany} {GranteeCompanyAddress}.
+
 2.Ti=Recitals
+
+2.sec= Whereas, {because.secs}
 
 3.Ti=Definitions
 
