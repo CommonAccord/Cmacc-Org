@@ -1,6 +1,6 @@
 Ti=Degrees of Exclusivity
 
-sec=Exclusive/Non-Exclusive ... NIH/LibLicense/CDLIB/CooleyGo.
+sec=<a href="index.php?action=source&file=GH/FutureCommerce/ULOM/Bryan/Sec/Grant_Exclusivity_v0.md">Exclusive/Non-Exclusive ... NIH/LibLicense/CDLIB/CooleyGo.</a>
 
 Patent.Exclusive.NIH.=[Wx/gov/nih/ott/License/Patent/Sec/License_v0.md]
 
