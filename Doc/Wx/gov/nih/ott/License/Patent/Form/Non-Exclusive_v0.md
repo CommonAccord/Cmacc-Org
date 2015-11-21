@@ -1,12 +1,16 @@
+Note=FORM HAS CHANGED!  Needs a redo - https://www.ott.nih.gov/forms-model-agreements#MLA
+
 =[Wx/gov/nih/ott/license/patent/Form/Exclusive_v0.md]
 
 Def.First_Commercial_Sale="<strong>First Commercial Sale</strong>" means the initial transfer by or on behalf of the <strong>Licensee</strong> of <strong>Licensed Products </strong>or the initial practice of a <strong>Licensed Process</strong> by or on behalf of the <strong>Licensee </strong>in exchange for cash or some equivalent to which value can be assigned for the purpose of determining <strong>Net Sales</strong>.
 
-LicSub.Sec=<b><u>Sublicensing</u>. The Licensee has no right to sublicense.</b>
+Lic.Grant.Sec=<b>Grant</b><br>The <strong>NIH</strong> hereby grants and the <strong>Licensee</strong> accepts, subject to the terms and conditions of this <strong>Agreement</strong>, a nonexclusive license under the <strong>Licensed Patent Rights</strong> in the <strong>Licensed Territory</strong> to make and have made, to use and have used, to sell and have sold, to offer to sell, and to import any <strong>Licensed Products</strong> in the <strong>Licensed Fields of Use</strong> and to practice and have practiced any <strong>Licensed Processes</strong> in the <strong>Licensed Fields of Use</strong>.
+
+LicSub.Sec=<b>Sublicensing.</b><br>The Licensee has no right to sublicense.
 
 Govt.Reserve.Sec={Govt.Reserve.LicenseToPractice.SupplyProducts.Sen}.
 
-Prosecute.Sec=<b><u>Patent Filing, Prosecution and Maintenance</u> {Prosecute.ByLsor.Sec}</b>
+Prosecute.Sec=<b>Patent Filing, Prosecution and Maintenance</b><br> {Prosecute.ByLsor.Sec}
 
 Prosecute.ByLsor.Sec=The <strong>NIH</strong> agrees to take responsibility for the preparation, filing, prosecution, and maintenance of any and all patent applications or patents included in the Licensed Patent Rights.
 

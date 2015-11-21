@@ -10,11 +10,9 @@ Ti=Materials
 
 1.2.sec={Licensee} and {Authorized_Users} acknowledge that the copyright and title to the {Licensed_Materials} and any trademarks or service marks relating thereto remain with {Licensor}.  Neither {Licensee} nor {Authorized_Users} shall have right, title or interest in the {Licensed_Materials} except as expressly set forth in {this_Agreement}.
 
-1.3.Ti=Grant of License
+1.3.=[Wx/org/cdlib/vendor/License/Sec/Grant_NonExclusive.md]
 
-1.3.sec={Licensor} hereby grants to {Licensee} non-exclusive, non-transferable, worldwide, perpetual right to the {Licensed_Materials} and to provide the {Licensed_Materials} to {Authorized_Users} in accordance with {this_Agreement}.
-
-1.4.=[Wx/org/cdlib/vendor/License/Sec/Grant.md]
+1.4.=[Wx/org/cdlib/vendor/License/Sec/Grant_Perpetual.md]
 
 PerpetualLicense.Xref=Section 1.4
 

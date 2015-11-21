@@ -1,6 +1,6 @@
 Ti=Grant of Rights 
 
-1.Ti=Degrees of Exclusivity
+1.=[GH/FutureCommerce/ULOM/Bryan/Sec/Grant_Exclusivity_v0.md]
 
 2.Ti=Sublicenses 
 

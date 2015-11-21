@@ -71,13 +71,7 @@ Def.Practical_Application="Practical Application” means to manufacture in the 
 
 Def.Research_License="Research License” means a nontransferable, nonexclusive license to make and to use the Licensed Products or the Licensed Processes as defined by the Licensed Patent Rights for purposes of research and not for purposes of commercial manufacture or distribution or in lieu of purchase.
 
-<b>License</b>=-
-
-Lic.Sec=<b>Grant of Rights</b><ol><li>{Lic.Grant.Sec}</li><li>{Lic.Exclude.Sec}</li></ol>
-
-Lic.Grant.Sec=<b>Grant</b>. The Licensor hereby grants and the Licensee accepts, subject to the terms and conditions of this Agreement, an exclusive license under the Licensed Patent Rights in the Licensed Territory to make and have made, to use and have used, to sell and have sold, to offer to sell, and to import any Licensed Products in the Licensed Fields of Use and to practice and have practiced any Licensed Process(es) in the Licensed Fields of Use.
-
-Lic.Exclude.Sec=<b>Excluded</b>. This Agreement confers no license or rights by implication, estoppel, or otherwise under any patent applications or patents of the {P1.Handle} other than the Licensed Patent Rights regardless of whether these patents are dominant or subordinate to the Licensed Patent Rights.
+Lic.=[Wx/gov/nih/ott/License/Patent/Sec/License_v0.md]
 
 LicSub.Sec=<b>Sub-Licensing</b>. <ol><li>{LicSub.Grant.Sec}</li><li>{LicSub.Subject.Sec}</li><li>{LicSub.Term.Subject.Sec}</li><li>{LicSub.Report.Start.Sec}</li></ol>
 
