@@ -10,6 +10,8 @@ Copyright.NonExclusive.LibLicense.=[Wx/edu/crl/liblicense/Model/Sec/Grant_NonExc
 
 Copyright.NonExclusive.CDLIB.=[Wx/org/cdlib/vendor/License/Sec/Grant_NonExclusive.md]
 
-All.WorkProduct.CooleyGo.=[Wx/com/cooleygo/US/Consult/Sec/Ownership_OtherRights_v01.md]
+WorkProduct.CooleyGo.=[Wx/com/cooleygo/US/Consult/Sec/Ownership_OtherRights_v01.md]
 
-Copyright.CC.=[Wx/org/creativecommons/License/4_0/Sec/Grant_v01.md]
+Copyright.CC.=[Wx/org/creativecommons/License/4_0/Sec/Grant_v01.md] 
+
+TM.PWeiss.=[Wx/com/docracy/4790/Sec/License_v0.md]
