@@ -51,14 +51,7 @@ s2a=<u>{s2a.Title}</u><ol><li>{s2a1}</li><li>{s2a2}</li><li>{s2a3}</li><li>{s2a4
 
 s2a.Title=License grant
 
-
-s2a1={s2a1.0}:<ol type='A'><li>{s2a1A}; and</li><li>{s2a1B}.</li></ol>
-
-s2a1.0=Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to
-
-s2a1A=reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only
-
-s2a1B=produce, reproduce, and Share Adapted Material for NonCommercial purposes only
+s2a=[Wx/org/creativecommons/License/4_0/Sec/Grant_v01.md]
 
 s2a2=<span style="text-decoration: underline;">Exceptions and Limitations</span>. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
@@ -222,6 +215,4 @@ m-=<font color='{acolor}'>
 
 -m=</font>
 
-acolor=magenta      
-
-                        
+acolor=magenta
