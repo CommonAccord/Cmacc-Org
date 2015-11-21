@@ -1,6 +1,6 @@
 Ti=Degrees of Exclusivity
 
-sec=Exclusive/Non-Exclusive ... NIH.
+sec=Exclusive/Non-Exclusive ... NIH/LibLicense/CDLIB.
 
 Patent.Exclusive.NIH.=[Wx/gov/nih/ott/License/Patent/Sec/License_v0.md]
 
