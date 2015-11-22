@@ -16,7 +16,7 @@ Ti=Miscellaneous
 
 4.=[Wx/com/techstars/Equity/NotePurchase/Sec/Misc_v01.md]
 
-5.Ti=Library Copywrite - CDLIB
+5.Ti=Library Copyright - CDLIB
 
 5.=[Wx/org/cdlib/vendor/License/Sec/Misc.md]
 
@@ -36,4 +36,12 @@ Ti=Miscellaneous
 
 9.=[Wx/com/gepower/MasterServiceAgreement/Sec/Miscellaneous_v01.md]
 
-=[Z/ol/9]
+10.Ti=Saint Louis Startup Lawyer - NDA
+
+10.=[Wx/com/stlstartuplawyer.com/NDA/Sec/Misc_v0.md]
+
+11.Ti=LawPatch
+
+11.=[GH/lawpatch/us-boilerplate/Sec/_v0.md]
+
+=[Z/ol/11]
