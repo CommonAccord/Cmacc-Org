@@ -1,5 +1,5 @@
 <div class="row">
-<div class="col-md-4"><img height=300 src="visual/escrow.png"></div>
+<div class="col-md-4"><img height=300 src="File/escrow.png"></div>
 <div class="col-md-6"> 
 
    An escrow to assure that the online seller of goods gets paid only after the purchaser has received the goods and has had a certain time to inspect them.  Subdivided into five steps, each building on the previous one:<br>
