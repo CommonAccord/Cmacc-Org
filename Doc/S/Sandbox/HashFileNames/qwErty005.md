@@ -3,6 +3,5 @@ Note=This adds materials from an unhashed filename.  Would need to hash the rend
 Misc.=[Wx/edu/crl/liblicense/Model/Sec/Misc_v0.md]
 
 FriendlyName=S/Agt/License/Copyright/Form/LibLicense_Misc_v0.md
-
-=[S/Sandbox/HashFileNames/qwErty004.md]
  
+=[S/Sandbox/HashFileNames/qwErty004.md]
