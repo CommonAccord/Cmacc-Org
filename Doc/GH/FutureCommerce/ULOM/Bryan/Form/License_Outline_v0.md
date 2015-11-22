@@ -8,7 +8,13 @@ Ti=Skeleton of a License Agreement
 
 Note=Not sure how to handle this.  The "object model" of a license agreement is Agt -extended by-> BackEnd Sections -extended by-> License provisions.  
 
+Note=BackEnd sections kit, mix of Term, Liability, Dispute, Remedy, Misc, and can be Def(initions).
+
+BackEnd.=[GH/FutureCommerce/ULOM/Bryan/Sec/BackEnd_Sections_v0.md]
+
 Note=BackEnd includes:
+
+Dispute.=[GH/FutureCommerce/ULOM/Bryan/Sec/BackEnd_Dispute_v0.md]
 
 Misc.=[GH/FutureCommerce/ULOM/Bryan/Sec/BackEnd_Misc_v0.md]
 

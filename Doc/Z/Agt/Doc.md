@@ -4,7 +4,9 @@ DocBody={Doc}
 
 Intro.Sec=<br>{Intro.sec}<br>
 
-90.Sec={End.Sec}
+90.Sec={End.Sec}{Attach.Sec}
+
+Attach.Sec=</i>
 
 End.Sec=<br>{End.sec}<br>
 
