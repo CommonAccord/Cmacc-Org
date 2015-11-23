@@ -1,6 +1,6 @@
 Note=They populate it with the sections from the Docracy license.
 
-=[GH/FutureCommerce/ULOM/Bryan/Demo/03_Acme_Robinson_LicenseOutline_v01.md]
+=[GH/FutureCommerce/ULOM/Bryan/Demo/03_Acme_Robinson_License_Outline_v01.md]
 
 Secs={Grant.Sec}<li>{Ownership.Sec}<li>{Term.Sec}<li>{Compensation.Sec}<li>{Use.Sec}<li>{Indemnification.Sec}<li>{Assign.Sec}<li>{Notice.Sec}<li>{Arbitration.Sec}<li>{Independent.Sec}<li>{Misc.Sec}  
 

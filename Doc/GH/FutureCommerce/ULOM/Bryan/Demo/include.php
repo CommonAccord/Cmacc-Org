@@ -1,0 +1,1 @@
+These are the steps of a negotiation between Acme and Robinson.<ol><li>They exchange contact info.<li>They agree on a form of agreement.<li>They agree on major headings of a license agreement.<li>They populate it with provisions from a Docracy license form.<li>They do the deal points and sign.</ol>
