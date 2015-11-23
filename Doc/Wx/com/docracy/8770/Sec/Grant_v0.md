@@ -6,4 +6,4 @@ Ti=Grant of License
 
 3.sec=Licensee hereby accepts such license and agrees that Licensee shall not use the Work except in accordance with the terms and conditions of this Agreement. Licensee acknowledges and agrees that the license granted herein is non-exclusive and that Licensor may license others to use the Work.
 
-=[Z/ol-AA/s3]
+=[Z/ol/s3]

@@ -6,4 +6,4 @@ Ti=Miscellaneous
 
 3.sec=This Agreement may be executed in several counterparts, each of which shall be deemed an original, but all of which shall constitute one and the same document.
 
-=[Z/ol-AA/s3]
+=[Z/ol/s3]

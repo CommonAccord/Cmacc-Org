@@ -6,5 +6,4 @@ Ti=Term and Termination
 
 3.sec=Upon termination or expiration of the license granted under this Agreement by operation of law or otherwise, all rights, including the right to use the Work, privileges and obligations arising from this Agreement shall cease to exist.
 
-=[Z/ol-AA/s3]
-
+=[Z/ol/s3]

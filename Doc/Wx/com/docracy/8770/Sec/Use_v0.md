@@ -4,4 +4,4 @@ Ti=Use of the Work
 
 2.sec=Licensee shall provide Licensor, upon Licensor’s request, with representative samples of how Licensee is using the Work. If, at any time, any use of the Work fails to conform to Licensor’s standards, Licensor may provide to Licensee notice of said failure. Licensee shall cure said failure within {Cure.Period} from the date of such notice. In the event that said failure is not cured within the period described in the preceding sentence, Licensor may then terminate this Agreement immediately, non-conforming copies of the Work destroyed or promptly submitted to Licensor. If Licensor fails to approve any modifications or changes to the Work within {Change.Refuse.Period} of Licensee advising Licensor of proposed changes, Licensor’s approval shall be deemed to have been granted.
 
-=[Z/ol-AA/s2]
+=[Z/ol/s2]

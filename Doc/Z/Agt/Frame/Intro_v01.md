@@ -1,6 +1,6 @@
 Sec={sec}
 
-sec=<ul type="none" style="padding-left: 0"><li>{Persons.sec}<li>{EffectiveDate.sec}</ul>{This.Sec} {Because.Sec} {That.Sec}
+sec=<ul type="none" style="padding-left: 0"><li>{Persons.sec}<li>{EffectiveDate.sec}</ul>{This.Sec} {Recite.Sec} {That.Sec}
 
 Note=Choices of persons in the intro block (copy one into your doc):
 
@@ -72,7 +72,9 @@ F5.sec={F5.N,E,A} ("{F5.Handle}")
 
 F6.sec={F6.N,E,A} ("{F6.Handle}") 
  
-EffectiveDate.sec=EFFECTIVE DATE: {Agt.Effective.YMDT} (the "{Effective_Date}")
+/Note=The conventional legal method of just giving a day will not be sufficient in many online systems.  So provide for date and time. 
+
+EffectiveDate.sec=Effective Date: {Agt.Effective.YMDT} (the "{Effective_Date}")
 
 /Note=Default to just the day - backward compatibility
 
@@ -82,9 +84,9 @@ This.Sec={This.sec}
 
 This.sec=This {Doc.Title} (the "{Agreement}") is made as of the {Effective_Date} by and between the {parties}.
 
-Because.Sec=<ul type="none"> <li>{Because.sec}</ul>
+Recite.Sec=<br><br>{Recite.sec}<br>
 
-Because.sec=<b>Whereas:</b><ul type="none" style="padding-left: 0">{Because.secs}</ul>
+Recite.sec=<b>Recitals:</b><ul type="none">{Recite.secs}</ul>
 
 That.Sec={That.sec}
 
