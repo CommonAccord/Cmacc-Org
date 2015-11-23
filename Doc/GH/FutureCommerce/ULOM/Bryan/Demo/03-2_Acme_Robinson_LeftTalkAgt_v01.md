@@ -12,7 +12,7 @@ Doc.GUID=65543456
 
 =[GH/FutureCommerce/ULOM/Bryan/Demo/02_Acme_Robinson_Agt_v01.md]
 
-Olist=<ol><li>{Limit.Sec}<li>{Term.2.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}<li>{Def.Sec}</ol>
+Olist=<ol><li>{Interact.Sec}<li>{Limit.Sec}<li>{Term.2.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}<li>{Def.Sec}</ol>
 
 EffectiveDate.YMD=<b>2015-11-23</b>
 
@@ -21,6 +21,14 @@ NoticePeriod.TimeSpan=<b>seven calendar days</b>
 Dispute.Seat=<b>Kansas City, Missouri</b>
 
 Recite.secs={Note1}
+
+Interact.Ti=Interaction
+
+Interact.1.sec=The {parties} wish to interact with one another in good faith, confident that neither {party} will expect that they have made any commitment to the other unless that commitment is formalized in writing.  
+
+Interact.2.sec=Each {party} agrees that it will not disclose to the other {party} any {Confidential_Information} (neither its own, nor that of any third person) except under a written addition to this {Doc.Title} referencing its GUID ({Doc.GUID}).
+
+Interact.=[Z/ol/s2]  
 
 Misc.Assign.1.sec={Misc.Assign.1.Alt1.sec}
 Misc.Assign.2.sec={Misc.Assign.2.Alt1.sec}
