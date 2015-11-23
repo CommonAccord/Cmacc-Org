@@ -2,6 +2,10 @@ MessageToUser=GUID-543212345
 
 Doc.Title=Acme - Robinson License Agreement
 
+P1.Handle=<b>Licensor</b>
+
+P2.Handle=<b>Licensee</b>
+
 EffectiveDate.YMD=2015-12-01
 
 Recite.secs=Robinson wishes to use data resources of Acme.
@@ -25,8 +29,6 @@ Law.State.the=<b>the State of Missouri</b>
 Arbitration.Seat=<b>Kansas City, MO</b>
 
 Arbitration.Rules=<b>AAA Commercial Arbitration Rules</b>
-
-PageBreak=
 
 P1.xSignature=xANDREA ANG
 
