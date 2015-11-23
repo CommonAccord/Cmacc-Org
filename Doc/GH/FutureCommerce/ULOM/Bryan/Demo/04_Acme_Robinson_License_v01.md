@@ -1,4 +1,4 @@
-Note=They populate it with the sections from the Docracy license.
+Note=They populate it with the sections from the Docracy license. (We have to do some shoehorning.  The Notice and Assignment sections are often in Misc, and here are forced into Misc.
 
 =[GH/FutureCommerce/ULOM/Bryan/Demo/03_Acme_Robinson_License_Outline_v01.md]
 
