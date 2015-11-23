@@ -1,5 +1,7 @@
 Olist=<ol><li>{Conf.Sec}<li>{Rep.Sec}<li>{Term.Sec}<li>{Limit.Sec}<li>{Dispute.Sec}<li>{Remedy.Sec}<li>{Misc.Sec}<li>{Def.Sec}</ol>
 
+Doc.Title=NDA
+
 Conf.Engage.Access.sec={Conf.Engage.Access.Alt1.sec}
 
 Conf.Term.Sec={Conf.Term.Alt2.Sec}
@@ -22,4 +24,4 @@ Def.5.sec="{Confidential_Information}" is defined in Section {Conf.Def.Xnum}.
 
 Def.secs={Def.1.sec}<li>{Def.2.sec}<li>{Def.3.sec}<li>{Def.4.sec}<li>{Def.5.sec}
   
-=[GH/FutureCommerce/ULOM/Bryan/Demo/03-2_Acme_Robinson_LeftTalkAgt_v01.md]
+=[GH/FutureCommerce/ULOM/Bryan/Demo/06_Acme_Robinson_LeftTalkAgt_v01.md]
