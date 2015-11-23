@@ -12,7 +12,7 @@ Doc.GUID=65543456
 
 =[GH/FutureCommerce/ULOM/Bryan/Demo/02_Acme_Robinson_Agt_v01.md]
 
-Olist=<ol><li>{Interact.Sec}<li>{Limit.Sec}<li>{Term.2.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}<li>{Def.Sec}</ol>
+Olist=<ol><li>{Interact.Sec}<li>{Term.2.Sec}<li>{Limit.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}<li>{Def.Sec}</ol>
 
 EffectiveDate.YMD=<b>2015-11-23</b>
 
