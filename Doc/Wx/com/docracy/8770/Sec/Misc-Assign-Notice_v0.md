@@ -1,6 +1,6 @@
 Ti=Miscellaneous
 
-Secs={Assign.Sec}<li>{Notice.Sec}<li>{Other.Secs}</ol>
+Secs={Assign.Sec}<li>{Notice.Sec}<li>{Other.Secs}
 
 Assign.=[Wx/com/docracy/8770/Sec/Assign_v0.md]
 
