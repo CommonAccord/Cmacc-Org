@@ -1,6 +1,6 @@
 /Note=used with the Univ of California Standard License Agreement for library materials [License/CRright/Library/01.md]
 
-=[Z/Agt/Sec/DefinedTerms_Base.md]
+=[Z/Agt/Out/DefinedTerms_Base.md]
 
 Authorized_User=<font color="green">Authorized_User</font>
 
