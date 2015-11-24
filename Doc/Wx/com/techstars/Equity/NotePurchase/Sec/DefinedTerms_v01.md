@@ -1,4 +1,4 @@
-=[Z/Agt/Sec/DefinedTerms_Base.md]
+=[Z/Agt/Out/DefinedTerms_Base.md]
 
 Act=<font color="green">Act</font>
 
