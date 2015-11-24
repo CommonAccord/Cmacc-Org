@@ -5,7 +5,7 @@ Ti=License Grant
 Secs={GrantTo.Sec}<li>{Whom.Sec}<li>{Type.Sec}<li>{Sublicense.Sec}<li>{ToDo.Sec}<li>{WithWhat.Sec}
 
 
-=[Z/Agt/Sec/0]
+=[Z/Agt/Out/0]
 
 
 Sen={GrantTo.cl} {Whom.cl} {Type.cl} license, {Sublicense.cl}, {ToDo.cl} {WithWhat.cl}.
