@@ -4,15 +4,15 @@ sec={If.Cl}, {the_Consultant} {GrantLicense.Sen}  {Waive.Sen}
 
 If.Cl=If {the_Consultant} has any rights, including without limitation "artist's rights" or "moral rights," in the {Work_Product} which cannot be assigned
 
-GrantLicense.Sen={Grant.cl} {ToWhom.cl} {License.cl}, {Sublicense.cl}, {ToDo.cl} {WithWhat.cl}.
+GrantLicense.Sen={Grant.cl} {ToWhom.cl} {Type.cl} license, {Sublicense.cl}, {ToDo.cl} {WithWhat.cl}.
 
 Grant.cl=hereby unconditionally and irrevocably grants to
 
 ToWhom.cl={the_Client} 
 
-License.cl=an exclusive (even as to {the_Consultant}), worldwide, fully paid{q} and royalty-free, irrevocable, perpetual license
+Type.cl=an exclusive (even as to {the_Consultant}), worldwide, fully paid{q} and royalty-free, irrevocable, perpetual
 
-SubLicense.cl=with rights to sublicense through multiple tiers of sublicensees
+Sublicense.cl=with rights to sublicense through multiple tiers of sublicensees
 
 ToDo.cl=to use, reproduce, distribute, create derivative works of, publicly perform{q} and publicly display
 
