@@ -12,4 +12,4 @@ DefaultByLicensee.sec=Licensee shall provide Licensor, upon Licensor’s request
 
 DefaultByLicensee.=[Z/ol/0]  
 
-=[Wx/com/docracy/8770/Sec/Use_Outline_v0.md]
+=[Wx/com/docracy/8770/Out/Use_v0.md]

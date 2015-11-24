@@ -19,4 +19,4 @@ Counterpart.sec=This Agreement may be executed in several counterparts, each of 
 Counterpart.=[Z/ol/0]
 
 
-=[Wx/com/docracy/8770/Sec/Misc_Outline_v0.md]
+=[Wx/com/docracy/8770/Out/Misc_v0.md]

@@ -1,4 +1,4 @@
 Secs={ThirdPartyClaims.Sec}<li>{ThirdPartyInfringement.Sec}
 
-=[Z/Agt/Sec/0]
+=[Z/Agt/Out/0]
 

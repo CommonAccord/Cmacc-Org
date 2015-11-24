@@ -20,4 +20,4 @@ Stop.Effect.sec=Upon termination or expiration of the license granted under this
 
 Stop.Effect.=[Z/ol/0]
 
-=[Wx/com/docracy/8770/Sec/Term_Outline_v0.md]
+=[Wx/com/docracy/8770/Out/Term_v0.md]

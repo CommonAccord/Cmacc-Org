@@ -12,7 +12,4 @@ Renewal.sec=Renewals or extensions of this Agreement are subject to additional f
 
 Renewal.=[Z/ol/0]
 
-=[Wx/com/docracy/8770/Sec/Comp_Outline_v0.md]
-
-
- 
+=[Wx/com/docracy/8770/Out/Comp_v0.md]

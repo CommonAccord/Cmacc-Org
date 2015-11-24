@@ -18,4 +18,4 @@ Accept.sec=Licensee hereby accepts such license and agrees that Licensee shall n
 
 Accept.=[Z/ol/0]
 
-=[Wx/com/docracy/8770/Sec/Grant_Outline_v0.md]
+=[Wx/com/docracy/8770/Out/Grant_v0.md]

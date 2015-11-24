@@ -12,4 +12,4 @@ ThirdPartyInfringement.sec=Licensor has the right, but shall not be obligated, t
 
 ThirdPartyInfringement.=[Z/ol/0]
 
-=[Wx/com/docracy/8770/Sec/Indemnify_Outline_v0.md]
+=[Wx/com/docracy/8770/Out/Indemnify_v0.md]

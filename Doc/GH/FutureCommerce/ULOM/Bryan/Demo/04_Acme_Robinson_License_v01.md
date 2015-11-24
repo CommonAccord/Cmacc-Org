@@ -1,4 +1,4 @@
-Note=They populate it with the sections from the Docracy license. (We have to do some shoehorning.  The Notice and Assignment sections are often in Misc, and here are forced into Misc.
+Note=They populate it with the sections from the Docracy license. (We have to do some shoehorning.  The Notice and Assignment sections are often in Misc, and here are forced into Misc.)
 
 =[GH/FutureCommerce/ULOM/Bryan/Demo/03_Acme_Robinson_License_Outline_v01.md]
 
@@ -24,4 +24,4 @@ Notice.=[Wx/com/docracy/8770/Sec/Notice_v0.md]
 
 Misc.=[Wx/com/docracy/8770/Sec/Misc-Assign-Notice_v0.md]  
 
-Def.Sec=Definitions are integrated in the text.
+Def.Sec=<b>Definitions</b><br>Definitions are integrated in the text.
