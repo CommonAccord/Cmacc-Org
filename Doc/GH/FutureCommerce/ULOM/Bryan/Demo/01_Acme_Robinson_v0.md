@@ -8,4 +8,4 @@ P1.Handle=Acme
 
 P2.Handle=Robinson
 
-Model.Root=This record starts our contact, and creates NO legal commitments.<ol><li>{P1.Notice.Block}<li>{P2.Notice.Block}</ol>
+Note=No Model.Root, therefore no "Document" view.  This just brings together parties.  It is not a document.
