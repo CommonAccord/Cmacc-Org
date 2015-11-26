@@ -2,4 +2,4 @@ Ti=Royalty
 
 Secs={UpFront.Sec}<li>{Renewal.Sec}
 
-=[Z/Agt/Out/0]
+=[S/Agt/Out0]

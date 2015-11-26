@@ -6,4 +6,4 @@ Ti=Dispute
 
 Secs={Law.Sec}<li>{Forum.Sec}<li>{Jury.Sec}<li>{AttyFee.Sec}<li>{Injunct.Sec}
 
-=[Z/Agt/Out/0]
+=[S/Agt/Out0]
