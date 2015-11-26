@@ -1,3 +1,6 @@
+Note=This is the Table section of <a href="https://www.fca.org.uk/your-fca/documents/guidance-consultations/gc15-06">https://www.fca.org.uk/your-fca/documents/guidance-consultations/gc15-06</a>, visited 2015-11-26.
+
+
 Ti=Areas that firms should consider in relation to outsourcing to the cloud and other third-party IT services
 
 0.sec=The table below sets out areas for firms to consider in outsourcing, including how they should discharge their oversight obligations.
