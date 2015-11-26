@@ -1,8 +1,8 @@
-Note=Really rough.  Needs to be broken out into separate pieces and restated.  But this step can next evolve into an NDA, a Assignment, a Consulting, a User Agreement, etc.
+Note=Really rough.  Needs to be broken out into separate pieces and restated.  But this step can next evolve into an NDA, Assignment, Consulting, User Agreement, etc.
 
-Note1=The parties want to meet, talk, exchange views and information, without commitment.  Reversing a legal device like a CopyLeft License, this LeftTalk agreement creates a kind of legal Cone of Rationality (a "Get Smart Contract").  
+Note1=The parties want to meet, talk, exchange views and information, without commitment.  Reversing a legal device (like a CopyLeft License), this LeftTalk agreement creates a legal Cone of Rationality (a "Get Smart Contract").  
 
-Note2=For convenience, we reference all the sections but only use some of them.
+Note2=For convenience, we reference all the sections, but only use some of them.
 
 Dispute.sec=Any disputes under {this_Agreement} may be brought in the state courts and the Federal courts for {Dispute.Seat}, and the parties hereby consent to the personal jurisdiction and exclusive venue of these courts.
 
