@@ -8,3 +8,7 @@ sec={0.sec}<ol><li>{Secs}</ol>
 
 Note=Defaulting the intro section to nothing. 
 0.sec=</i>
+
+Note=Example at [GH/FutureCommerce/ULOM/Bryan/Demo/93_Acme-Robinson-LicensePopulated_v0.md]
+
+Note=Theory at <a href="https://github.com/CommonAccord/Cmacc-Org/issues/9">https://github.com/CommonAccord/Cmacc-Org/issues/9</a>
