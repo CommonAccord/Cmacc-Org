@@ -1,3 +1,5 @@
+Note=This is the outline of an exclusive patent license agreement [Wx/gov/nih/ott/License/Patent/Exclusive/Form/_v0.md], in TLDR order. 
+
 Front.=[S/Agt/Out/Sec/FrontSecs_License_Patent_Exclusive_bNIH_v0.md]
 
 Note=Wierdly brief and ambiguous statement (IMHO) in Misc.5.sec: <i>{Misc.5.sec}</i>.
