@@ -4,4 +4,4 @@ Ti=Remedies
 
 Secs={Security.Sec}<li>{SetOff.Sec}<li>{Joint.Sec}<li>{FurtherEffort.Sec}<li>{Indemnity.Sec}
 
-=[S/Agt/Out0]
+=[Law/Out/Out0]

@@ -20,6 +20,6 @@ Term.=[Wx/com/docracy/8770/Out/Term_v0.md]
 
 Def.Sec=<b>Definitions</b><br>Definitions are integrated in the text.
 
-Front.=[S/Agt/Out/Sec/FrontSecs_bDocracy-License-8770_v0.md]
+Front.=[Law/Out/Sec/FrontSecs_bDocracy-License-8770_v0.md]
 
-=[S/Agt/Form/Agt_wTLDR-SubSecs.md]
+=[Law/Out/Form/Agt_wTLDR-SubSecs.md]

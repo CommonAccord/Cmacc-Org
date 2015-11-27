@@ -8,4 +8,4 @@ Notice.=[Wx/com/docracy/8770/Sec/Notice_v0.md]
 
 Other.=[Wx/com/docracy/8770/Sec/Misc_v0.md]  
  
-=[S/Agt/Out0]
+=[Law/Out/Out0]

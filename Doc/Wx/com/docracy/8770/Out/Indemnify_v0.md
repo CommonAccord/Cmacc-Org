@@ -1,3 +1,5 @@
+Ti=Indemnification
+
 Secs={ThirdPartyClaims.Sec}<li>{ThirdPartyInfringement.Sec}
 
-=[S/Agt/Out0]
+=[Law/Out/Out0]

@@ -8,12 +8,10 @@ DocBody={Doc}
 
 Foot.Sec={Attach.Sec}
 
-/Attach.Sec=</i>
+Intro.=[Law/Out/Frame/Intro_v0.md]
 
-Intro.=[S/Agt/Frame/Intro_v0.md]
+Sign.=[Law/Out/Frame/End_v0.md]
 
-Sign.=[S/Agt/Frame/End_v0.md]
-
-=[S/Agt/Frame/DefinedTerms_Base_v0.md]
+=[Law/Out/Frame/DefinedTerms_Base_v0.md]
   
 =[Z/ol/Base]

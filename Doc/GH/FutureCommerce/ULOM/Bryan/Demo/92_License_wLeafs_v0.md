@@ -1,4 +1,3 @@
-
 Grant.=[Wx/com/docracy/8770/Sec/Grant_v0.md]
 
 Ownership.=[Wx/com/docracy/8770/Sec/Ownership_v0.md]
@@ -22,4 +21,4 @@ Misc.Notice.=[Wx/com/docracy/8770/Sec/Notice_v0.md]
 Misc.=[Wx/com/docracy/8770/Sec/Misc-Assign-Notice_v0.md]  
 
 
-=[S/Agt/Form/Agt_Docracy_License-8770_v0.md]
+=[Law/Out/Form/Agt_Docracy_License-8770_v0.md]
