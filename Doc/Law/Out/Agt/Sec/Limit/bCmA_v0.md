@@ -1,6 +1,6 @@
 Ti=Limits, Disclaimers, Etc.
 
-Relationship.=[Law/Out/Sec/Limit_Relationship_bCmA_v0.md]
+Relationship.=[Law/Out/Agt/Sec/Limit/Relationship/bCmA_v0.md]
   
 Secs={Relationship.Sec}<li>{Warranty.Sec}
 

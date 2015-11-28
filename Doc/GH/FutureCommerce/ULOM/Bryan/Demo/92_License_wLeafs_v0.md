@@ -20,5 +20,4 @@ Misc.Notice.=[Wx/com/docracy/8770/Sec/Notice_v0.md]
 
 Misc.=[Wx/com/docracy/8770/Sec/Misc-Assign-Notice_v0.md]  
 
-
-=[Law/Out/Form/Agt_Docracy_License-8770_v0.md]
+=[Law/Out/Agt/Form/License/Other/bDocracy/8770_v0.md]
