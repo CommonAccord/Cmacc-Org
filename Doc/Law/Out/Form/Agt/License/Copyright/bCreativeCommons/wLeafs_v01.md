@@ -16,4 +16,4 @@ Interpretation.=[Wx/org/creativecommons/License/4_0/Sec/Interpretation_v01.md]
 
 =[Z/ol/0]
 
-=[Law/Out/Agt/Form/License/Copyright/bCreativeCommons/_v01.md]
+=[Law/Out/Form/Agt/License/Copyright/bCreativeCommons/_v01.md]
