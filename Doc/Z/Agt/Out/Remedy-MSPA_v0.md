@@ -5,4 +5,4 @@ Ti=Remedies
 Secs={Security.Sec}<li>{Joint.Sec}<li>{Further.Sec}<li>{Indemnify.Sec}
 
 
-=[S/Agt/Out0]
+=[Law/Out/Out0]
