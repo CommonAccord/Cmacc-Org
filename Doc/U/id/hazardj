@@ -18,14 +18,16 @@ Addr.Type=temporary
 
 Twitter.Followers=116
 
-Phone=650.454.5007
+Phone=
 
 Email=james.g.hazard@gmail.com
 
-Fax=650.204.9101
+Fax=
 
 Nationality=United States of America
 
 Name.Maiden/Other=None
+
 DOB=January 13, 1953
-MedicalRecordNumber=MR-1234556			
+
+MedicalRecordNumber=MR-1234556
