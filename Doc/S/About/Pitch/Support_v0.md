@@ -3,7 +3,7 @@ Meat.Secs={Legal.Sec}<li>{Technical.Sec}<li>{Uses.Sec}<li>{Organization.Sec}
 Executive.sec=A very small investment of effort could greatly accelerate the codification and democratization of legal systems.  The codification is part of a transition to open source, peer-based payment systems such as blockchain.  The goal of this first stage would be codification of some important areas of legal transacting and a plan for a foundation that would hold text for the benefit of the public.
 
 
-Overview.1.sec=CommonAccord handles documents much more efficiently than other systems.  It expresses all documents as leaves on a tree, all of which trace back to trunks of codified materials.  The key innovation is a list-based approach to text "objects."  By radically simplifying the key notions of programming, this extends to all users the advantages of programming.  It permits the demystification of both law and IT.
+Overview.1.sec=CommonAccord handles documents more efficiently than other systems.  It expresses all documents as leaves on a tree, all of which trace back to trunks of codified materials.  The key innovation is a list-based approach to text "objects."  By radically simplifying the key notions of programming, this extends to all users the advantages of programming.  It permits the demystification of both law and IT.
 
 Overview.2.0.sec=Expressing documents in CommonAccord format enables: 
 

@@ -6,25 +6,25 @@ Secs={Executive.Sec}<li>{Overview.Sec}<li>{Meat.Secs}<li>{Budget.Sec}<li>{Backgr
 
 Executive.Ti=Executive Summary
 
-Executive.sec=dummy
+Executive.sec=TBD
 
 Executive.=[Z/ol/0]
 
 Overview.Ti=Overview
 
-Overview.sec=dummy
+Overview.sec=TBD
 
 Overview.=[Z/ol/0]
 
 Budget.Ti=Budget
 
-Budget.sec=dummy
+Budget.sec=TBD
 
 Budget.=[Z/ol/0]
 
 Background.Ti=Background
 
-Background.sec=dummy
+Background.sec=TBD
 
 Background.=[Z/ol/0]
 
