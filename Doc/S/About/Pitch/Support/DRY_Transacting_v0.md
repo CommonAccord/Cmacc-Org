@@ -1,0 +1,47 @@
+Ti=Object Model for {DRY} {P2P} Transacting
+
+1.sec=Each person has one or more {PDS}s.
+
+2.sec=The {PDSs} consist of {Cmacc} {lists} and "other" files. The {lists} are formatted as files (canonical) or as records in a database, for instance a graph database.
+ 
+3.sec=The user can manage the {lists} (files) by adding, deleting, archiving, etc.  They can use tools such as text editors, git (and GitHub) to collaborate on collections of {lists}.  
+
+4.sec=Transactions are done by creating and synchronizing some new {list}s across the {PDSs} of the participants.  This can be done by any method satisfactory to the participants.  Some possibilities include git-based repos for the particular transactions, file attachments to emails or sharing a server.
+
+5.sec=A preferred way to transact is to exchange {lists} via payment systems, where signature and transfer of value is handled by the payment system.  Payment systems give receipts which can be used to record and reference {lists}.
+
+6.sec=In many circumstances, participants will not need to retain all of the details of a transaction.  By automating access and using hashes to allow post-hoc verification, {PDSs} can run a "{DRY}" transaction system - where each element of data has a canonical source and all uses of that data consist of copies of the necessary portions which are discarded as soon as no longer needed. 
+
+7.sec=Access to a {PDS} may be managed directly by the owner of the {PDS}, but the owner may also arrange for a hosting service or other person to provide access.  Hosting, and therefore reliable access, is particularly important in a {DRY} data environment where others may need rapid, reliable access to elements of the data.  "Hosting" may be virtual, for instance on a blockchain or similar technology. 
+  
+8.sec=The permissions, requests, and receipts for access can be handled like other transactions in the system - each is a transaction stored in the participants' {PDSs}, and subject to agreement regarding discarding.
+
+=[Z/ol/s8]
+
+
+Def.PDS={PDS} means a collection of information, organized as files or a database, which contain information about a person (natural, legal or role).  
+
+Def.Cmacc={Cmacc} is lists of key/values, where the content of the values is either i) a string of html text, ii) the identifier of another list, or iii) other content (thereby associated with the "object" that the list represents).  A {Cmacc} document is the result of rendering a list, where one starts with a single key (by default "Model.Root") and expands any {expression}s in the value.  The exansion is based on the "first" matching key, where the key is found by scanning the list (from top to bottom) and then any other lists referenced in the list, recursively, depth-first.  (Details for "prefixing" and "deprefixing.")
+
+Def.DRY={DRY} means <a href="https://en.wikipedia.org/wiki/Don%27t_repeat_yourself">don't repeat yourself</a>.  It is a method for improving consistency and reliability in a system.  In a data environment, it is a way to reduce vulnerability from promiscuous creation of needless versions of information. 
+DRY=<font color="green">DRY</font>
+
+Cmacc=<font color="green">Cmacc</font>
+
+List=<font color="green">List</font>
+
+Lists=<font color="green">Lists</font>
+
+list=<font color="green">list</font>
+
+lists=<font color="green">lists</font>
+
+PDSs=<font color="green">Personal Data Stores</font>
+
+PDS=<font color="green">Personal Data Store</font>
+
+P2P=<font color="green">Peer-to-Peer</font>
+
+P2p=<font color="green">Peer-to-peer</font>
+
+p2p=<font color="green">peer-to-peer</font>

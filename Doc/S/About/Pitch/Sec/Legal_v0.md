@@ -8,11 +8,11 @@ Ti=Legal Applications
 
 1.1.Ti=An NIH Patent License Agreement
 
-1.1.sec=[Wx/gov/nih/ott/License/Patent/Exclusive/Form/_v0.md]
+1.1.sec=<a href="index.php?action=source&file=/Wx/gov/nih/ott/License/Patent/Exclusive/Form/_v0.md">Wx/gov/nih/ott/License/Patent/Exclusive/Form/_v0.md</a>
 
 1.2.Ti=Tree
 
-1.2.sec=The outline for a patent license perched on a tree of Agt/License/Patent - [Law/Out/Form/Agt/License/Patent/Exclusive/bNIH_v0.md]
+1.2.sec=The outline for a patent license perched on a tree of Agt/License/Patent - <a href="index.php?action=source&file=Law/Out/Form/Agt/License/Patent/Exclusive/bNIH_v0.md">Law/Out/Form/Agt/License/Patent/Exclusive/bNIH_v0.md</a>
 
 2.Ti=Improving legal systems
 
