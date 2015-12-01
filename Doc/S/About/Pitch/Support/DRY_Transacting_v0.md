@@ -4,13 +4,13 @@ Ti=Object Model for {DRY} {P2P} Transacting
 
 2.sec=The {PDSs} consist of {Cmacc} {lists} and "other" files. The {lists} are formatted as files (canonical) or as records in a database, for instance a graph database.
  
-3.sec=The user can manage the {lists} (files) by adding, deleting, archiving, etc.  They can use tools such as text editors, git (and GitHub) to collaborate on collections of {lists}.  
+3.sec=The user can manage the {lists} (files) by adding, deleting, archiving, etc.  They can use tools such as text editors and git (and GitHub) to collaborate on collections of {lists}.  This can be improved by interfaces and apps.
 
-4.sec=Transactions are done by creating and synchronizing some new {list}s across the {PDSs} of the participants.  This can be done by any method satisfactory to the participants.  Some possibilities include git-based repos for the particular transactions, file attachments to emails or sharing a server.
+4.sec=Transactions are done by creating and synchronizing some new {list}s across the {PDSs} of the participants.  This can be done by any method satisfactory to the participants.  Some possibilities include git-based repos for the particular transactions, file attachments to emails, or sharing a server.
 
-5.sec=A preferred way to transact is to exchange {lists} via payment systems, where signature and transfer of value is handled by the payment system.  Payment systems give receipts which can be used to record and reference {lists}.
+5.sec=A preferred way to transact is to exchange {lists} via payment systems, where signature and transfer of value is handled by the payment system.  Payment systems give receipts which can be used to record and reference {lists}.  More advanced payment systems such as blockchains may automate transaction flows and conditions.
 
-6.sec=In many circumstances, participants will not need to retain all of the details of a transaction.  By automating access and using hashes to allow post-hoc verification, {PDSs} can run a "{DRY}" transaction system - where each element of data has a canonical source and all uses of that data consist of copies of the necessary portions which are discarded as soon as no longer needed. 
+6.sec=In many circumstances, participants will not need to retain all of the details of a transaction.  By automating access and using hashes to allow post-hoc verification, {PDSs} can make a "{DRY}" transaction system - where each element of data has a canonical source and all uses of that data consist of copies of the necessary portions that are discarded as soon as no longer needed. 
 
 7.sec=Access to a {PDS} may be managed directly by the owner of the {PDS}, but the owner may also arrange for a hosting service or other person to provide access.  Hosting, and therefore reliable access, is particularly important in a {DRY} data environment where others may need rapid, reliable access to elements of the data.  "Hosting" may be virtual, for instance on a blockchain or similar technology. 
   
