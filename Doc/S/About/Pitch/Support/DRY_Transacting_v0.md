@@ -28,6 +28,8 @@ DRY=<font color="green">DRY</font>
 
 Cmacc=<font color="green">Cmacc</font>
 
+CDL=<font color="green">Center for Distributed Law</font>
+
 List=<font color="green">List</font>
 
 Lists=<font color="green">Lists</font>

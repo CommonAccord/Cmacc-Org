@@ -10,6 +10,10 @@ Legal.=[S/About/Pitch/Sec/Legal_v0.md]
 
 Technical.=[S/About/Pitch/Sec/Technical_v0.md]
 
+Organization.=[S/About/Pitch/Sec/Organization_v0.md]
+
 =[Law/Out/Form/Proposal/Funding/NFP/CmA_v0.md]
 
 Contact.=[U/id/hazardj]
+
+=[S/About/Pitch/Support/DRY_Transacting_v0.md]

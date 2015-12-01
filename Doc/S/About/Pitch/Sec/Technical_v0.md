@@ -13,15 +13,15 @@ Ti=Technical
 
 3.Ti=Extensions
 
-3.1.sec=CommonAccord in its current form has an extremely limited feature set.  Pretty much you can add or override a key=value, or you can add another list.  Puncto.  This keeps it simple and "declarative" - any aspect of the result can be modified by the end-user by a key=value or other list.  Puncto. 
+3.1.sec=CommonAccord in its current form has an extremely limited feature set.  You can add or override a key=value, or you can add another list.  Puncto.  This keeps it simple - any aspect of the result can be modified by the end-user creating or modifying a key=value or adding a list. 
 
 3.2.sec=But this has limitations.  There are no spreadsheet functions, for instance to add a column of numbers.  No database access functions, for instance to return a list of products ordered.  Not even automatic paragraph (re)numbering.
 
-3.3.sec=We think these solutions should come from technical layers of the solution, not from CommonAccord.  For instance in blockchain, the "smart contract" notion has such calculations.  (The original fitting point identified by Primavera.) Instead of doing an addition of a column of numbers, a CommonAccord text can simply reference the total, which the smart contract can provide.  Similarly in other systems of automation.  It may be interesting when integrating CommonAccord to conceive of some functionality as "smart lists."  Inclusion of a list such as PY:=&#91;W/org/python/python_v3-0] would permit evaluation of statements such as {PY:(Price+Tax)}.  There is work yet to do here.
+3.3.sec=These solutions can, and probably should, come from technical layers of the solution, not from CommonAccord.  For instance in blockchain, the "smart contracts" support calculations.  (The original fitting point identified by Primavera.) Instead of doing an addition of a column of numbers, a CommonAccord text can simply reference the total, which the smart contract can provide.  Similarly in other systems of automation.  It may be interesting when integrating CommonAccord to conceive of some functionality as "smart lists."  Inclusion of a list such as PY:=[W/org/python/python_v3-0] would permit evaluation of statements such as {PY:(Price+Tax)}.  There is work yet to do here.
 
 3.=[Z/ol/s3]
 
-4.Ti=CommonAccord - hashed
+4.Ti=CommonAccord - Hashed
 
 4.1.sec=Instead of using a hierarchical file tree with natural language names, it is possible to save each edit as a file whose name is created by hashing the file.  If the reference to the file which provides the previous state is included as a link at the end of the file, this provides a reliable way to have rapid increments on the texts without conflict.  If one further saves a key=value which has a notional folder/s/and/file/name, then there can be two views of the code, one of which looks like a folder view and the other like hashes.
 
