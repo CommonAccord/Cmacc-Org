@@ -4,7 +4,7 @@ Ti=Overview
 
 2.0.sec=Expressing documents in CommonAccord format enables: 
 
-2.1.sec=The legal profession to "get on the same page."  Via model document projects and contributions from interested parties, it is possible to achieve consistency and continuous improvement in the same way that software is developed.
+2.1.sec=Legal actors to "get on the same page."  Via model document projects and contributions from interested parties, it is possible to achieve consistency and continuous improvement in the same way that software is developed.
 
 2.2.sec=Parties to negotiate from public models.
 
