@@ -8,7 +8,7 @@ Ti=Overview
 
 2.2.sec=Parties to negotiate from public models.
 
-2.3.sec=Efficient management of the legal function.  Creation of new documents is a matter of additional parameters on an existing ones.  This makes it easy to supervise, to prepare reports, to identify trends and anomalies.
+2.3.sec=Efficient management of the legal function.  Creation of new documents is a matter of additional parameters on existing ones.  This makes it easy to supervise, to prepare reports, to identify trends and anomalies.
 
 2.4.sec=Efficient operation of marketplaces.  An ideal market allows participants to transact by negotiating only deal points. Inclusion allows any transaction to serve as a precedent for others.  By eliminating the cost of reproducing a precedent, patterns of use can sharpen and become quasi-standards.
 
@@ -16,6 +16,6 @@ Ti=Overview
 
 2.=[Z/ol/s5]
 
-3.sec=The CommonAccord document model is compatible with new peer-based transacting platforms such as blockchain and necessary for their extension to the full range of relationships.  When combined with access systems such as UMA (user-managed-access), it provides a complete, simple, open source system of automation.  Because these systems are built with strong encryption and the system is simple, it can be much more secure than the existing complex infrastructure.
+3.sec=The CommonAccord document model is compatible with new peer-based transacting platforms such as blockchain, and perhaps necessary for their extension to the full range of relationships.  When combined with access systems such as UMA (user-managed-access), it provides a complete, simple, open source system of automation.  Because these systems are built with strong encryption, are simple, and start from scratch, they can be much more secure than legacy infrastructure.
 
 =[Z/ol/s3]
