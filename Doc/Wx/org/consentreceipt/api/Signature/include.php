@@ -8,5 +8,5 @@ Two (or more) persons signing can be handled as one person then the other, with 
 <br>
 We could use more expressive names, but shorter ones are easy to use in the document text.  TBDebated.
 <br>
-In each case, the "identity" of the "person" may be a hash or other unique string.
+In each case, the "identity" (here a filename) of the "person" may be a hash or other unique string.
 
