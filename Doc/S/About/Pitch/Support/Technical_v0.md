@@ -2,10 +2,7 @@ Ti=Technical
 
 1.Ti=CommonAccord - bare
 
-1.1.sec=CommonAccord is organized as folders of files, with bare key=value pairs.  The notion is that each participant (including CommonAccord.org) is a node in a peer-to-peer system of "personal data stores."  You have your, I have mine, we have CommonAccord and whoever else we want.  Transacting is a matter of adding a file (or ping-pong of one file after another) to each of our PDSs.  We can do that however we want.  We can even share PDSs, either through a trusted party or third party, or on a blockchain or similar shared resource.  
-1.2.sec=The file data model can be transformed into JSON, XML, a graph database or whatever is efficient or compatible.  We anticipate that JSON will be used for many exchanges, certainly those on blockchain.  Graph databases may be used internally, especially for large PDSs.
-
-1.=[Z/ol/s2]
+1.sec=CommonAccord is organized as folders of files, with bare key=value pairs.  The notion is that each participant is a node in a peer-to-peer system of "personal data stores."  You have yours, I have mine, we have CommonAccord.org and whoever else we want.  Transacting is a matter of adding a file or group of files to each of our PDSs.  We can do that however we want.  We can share PDSs via git, through a third party, or on a blockchain or similar shared resource.  
 
 2.Ti=Blockchain and UMA
 
@@ -29,4 +26,12 @@ Ti=Technical
 
 4.=[Z/ol/s2]
 
-=[Z/ol/4]
+5.Ti=CommonAccord - JSON, XML, Graph
+
+5.1.sec=The file data model of bare key=values can be transformed into JSON, XML, a graph database or whatever is efficient or compatible.  We anticipate that JSON will be used for many exchanges, certainly those on blockchain.  Graph databases may be used internally, especially for large PDSs.
+
+5.2.sec=Graph query languages may also prove to be the most generalizable way of expressing relationships that are more than simply traversing the prefixed links from one list to another.  For instance, while links currently support the idea of CEO.Spouse.Dog.Name, there is no way to get from the dog to the Dog's Spouse's CEO's company's name.  That might look like --Dog.--Spouse.--CEO.Name, or perhaps something else. 
+
+5.=[Z/ol/s2]
+
+=[Z/ol/5]

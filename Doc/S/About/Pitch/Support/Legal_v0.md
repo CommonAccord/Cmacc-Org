@@ -18,6 +18,6 @@ Ti=Legal Applications
 
 2.sec=Weak legal systems can be improved by codified legal documents, secure auditing, and mobilephone access. <a href="https://docs.google.com/document/d/1ZQA4LPeKqTz7K3YrlG5cT3So-GooJRWSkLmfu8umSjk/edit">Reinforcing Legal Institutions and the Rule of Law through Peer-to-Peer Transacting</a>
 
-1.=[Z/ol/2]
+1.=[Z/ol/s2]
 
-=[Z/ol/2]
+=[Z/ol/s2]

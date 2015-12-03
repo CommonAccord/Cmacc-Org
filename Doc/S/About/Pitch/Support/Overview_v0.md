@@ -1,6 +1,6 @@
 Ti=Overview
 
-1.sec=CommonAccord handles documents more efficiently than other systems.  It expresses all documents as leaves on a tree, all of which trace back to trunks of codified materials.  The key innovation is a list-based approach to text "objects."  By radically simplifying the key notions of programming, this extends to all users the advantages of programming.  It permits the demystification of both law and IT.
+1.sec=CommonAccord handles documents more efficiently than other systems.  It expresses all documents as leaves on a tree, which trace back to trunks of codified materials.  The key innovation is a list-based approach to text "objects."  By radically simplifying the key notions of programming, this extends to all users the advantages of programming.  It permits the demystification of both law and IT.
 
 2.0.sec=Expressing documents in CommonAccord format enables: 
 
