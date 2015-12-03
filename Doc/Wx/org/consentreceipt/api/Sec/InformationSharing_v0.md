@@ -2,14 +2,14 @@ Ti=Information Sharing
 
 1.Ti=Sharing
 
-1.sec={Kind of data?} 
+1.sec={Share/Yes/No} 
 
 2.Ti=Data to
 
-2.sec={3rd Party Name or/3rd Party Category}
+2.sec={ShareTo.NameOrCategory}
 
 3.Ti=For the purpose of
 
-3.sec={Choose purpose}
+3.sec={SharePurpose}
 
 =[Z/ol/3]

@@ -1,5 +1,5 @@
 Ti=PII Principal
 
-sec={example@example.com}
+sec={P1.Name.Full}
 
 =[Z/ol/0]
