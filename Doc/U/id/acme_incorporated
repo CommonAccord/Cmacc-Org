@@ -26,7 +26,7 @@ Addr.Type=principal business
 
 Notice.Name.Ms={President.Name.Full}, {President.Title}
 
-SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
+SignBy=By: <u>{xSignature}</u><br>Name: {Sign.Name.Full}<br>Its: {Sign.Title}
 
 Sign.=[U/id/andrea_ang]
 
