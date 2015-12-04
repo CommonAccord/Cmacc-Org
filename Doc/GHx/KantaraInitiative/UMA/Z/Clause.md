@@ -1,8 +1,8 @@
 Model.Root={Clause}
 
-Clause=<b>Title:</b> {Title}<br><br><b>Text:</b> {Text}<br><br><b>Comments:</b> {Comments}<br><br><b>Issues:</b> {Issues}
+Clause=<b>Title:</b> {Ti}<br><br><b>Text:</b> {sec}<br><br><b>Comments:</b> {Comments}<br><br><b>Issues:</b> {Issues}
 
-Sec=<b>{Title}</b><br>{Text}
+Sec=<b>{Ti}</b><br>{sec}
 
 Comments=None Signaled
 

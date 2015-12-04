@@ -1,14 +1,14 @@
 Ti=Overview
 
-1.sec=CommonAccord handles documents more efficiently than other systems.  It expresses all documents as leaves on a tree, which trace back to trunks of codified materials.  The key innovation is a list-based approach to text "objects."  By radically simplifying the key notions of programming, this extends to all users the advantages of programming.  It permits the demystification of both law and IT.
+1.sec=CommonAccord handles documents more efficiently than other systems.  It expresses all documents as leafs on a tree tracing back to trunks of codified materials.  The key innovation is a simple approach to text "objects."  By radically simplifying the key notions of programming, all users gain the principal advantages of programming.  It permits the demystification of both law and IT.
 
-2.0.sec=Expressing documents in CommonAccord format enables: 
+2.0.sec=Expressing documents in CommonAccord format enables:
 
 2.1.sec=Legal actors to "get on the same page."  Via model document projects and contributions from interested parties, it is possible to achieve consistency and continuous improvement in the same way that software is developed.
 
 2.2.sec=Parties to negotiate from public models.
 
-2.3.sec=Efficient management of the legal function.  Creation of new documents is a matter of additional parameters on existing ones.  This makes it easy to supervise, to prepare reports, to identify trends and anomalies.
+2.3.sec=Efficient management of the legal function.  Creation of new documents is a matter of additional leafs on existing ones.  This makes it easy to supervise, to prepare reports, to identify trends and anomalies.
 
 2.4.sec=Efficient operation of marketplaces.  An ideal market allows participants to transact by negotiating only deal points. Inclusion allows any transaction to serve as a precedent for others.  By eliminating the cost of reproducing a precedent, patterns of use can sharpen and become quasi-standards.
 
@@ -19,3 +19,5 @@ Ti=Overview
 3.sec=The CommonAccord document model is compatible with new peer-based transacting platforms such as blockchain, and perhaps necessary for their extension to the full range of relationships.  When combined with access systems such as UMA (user-managed-access), it provides a complete, simple, open source system of automation.  Because these systems are built with strong encryption, are simple, and start from scratch, they can be much more secure than legacy infrastructure.
 
 =[Z/ol/s3]
+
+Note="Leafs" is used instead of leaves, on the justification that is is a "headless" noun - Pinker and computer mice.  "Leaves" also invites momentary confusion of the "eats leaves and shoots" variety.
