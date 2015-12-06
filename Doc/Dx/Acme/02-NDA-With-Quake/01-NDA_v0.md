@@ -8,7 +8,7 @@ P2.Handle=Quake
 
 EffectiveDate.YMD=September 26, 2015
 
-Because.secs={P1.Handle} and {P2.Handle} wish to explore a possible business relationship and to assure that each shall appropriately respect and preserve the confidentiality of the other's information.
+Recite.secs={P1.Handle} and {P2.Handle} wish to explore a possible business relationship and to assure that each shall appropriately respect and preserve the confidentiality of the other's information.
 
 Conf.Engage.Access.Sec={Conf.Engage.Access.Alt3.Sec}
 
