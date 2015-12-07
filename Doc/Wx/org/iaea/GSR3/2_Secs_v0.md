@@ -294,12 +294,7 @@ Human factors
 
 52.=[Z/ol-a/s2]
 
-Model.Root={H.Sec}
-
 =[Z/ol/s52]
-
-H.=[Z/paras/9]
-
 
 9 ‘Protection and safety is optimized’ means that optimization of protection and safety has been applied and the result of that process has been implemented.
 
