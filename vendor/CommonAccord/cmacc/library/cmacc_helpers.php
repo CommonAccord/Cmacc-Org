@@ -2,12 +2,6 @@
 error_reporting(E_ALL);
 $path = ROOT . '/Doc/';
 
-//$URLForDocsInRepo = URLFORDOCSINREPO ;
-
-//$Render_the_Document= "Render the Document";
-
-//$Completions_Message = "Open Completions - copy from here, paste into your document, and complete:";
-
 $Text_Edit_Window_Size = TEXTEDITWINDOWSIZE ;
 
 if (!isset($_REQUEST['action'])) {
@@ -26,7 +20,7 @@ switch ($_REQUEST['action']) {
 
     case 'list':
 
-        include('list.php');
+        include('./view/list.php');
         break;
 
 
@@ -59,7 +53,7 @@ switch ($_REQUEST['action']) {
         $filenameX = basename($dir);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("source.php");
+        include("./view/source.php");
 
         break;
 
@@ -80,6 +74,27 @@ switch ($_REQUEST['action']) {
 
         include('./view/edit.php');
         break;
+
+   case 'openedit':
+
+        include('./view/openedit.php');
+        break;
+
+case 'json':
+
+        include('./view/json.php');
+        break;
+
+   case 'doc':
+
+        include('./view/doc.php');
+        break;
+
+   case 'print':
+
+        include('./view/print.php');
+        break;
+
 
     default:
         include($_REQUEST['action'] . '.php');

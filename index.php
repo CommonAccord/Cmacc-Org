@@ -26,7 +26,7 @@ DEFINE('URLFORDOCSINREPO', URLFORREPO . "/blob/master/Doc/");	// Docs in the rep
 
 DEFINE('TEXT_EDIT_WINDOW_SIZE', 'cols=120 rows=30'); //Sets the size of the text edit window in both edit.php and openedit.php
 
-DEFINE('TEXT_EDIT_AREA_STYLE', 'font-size: 16px; padding:10px;'); //Sets the size of the text edit window in both edit.php and openedit.php
+DEFINE('TEXT_EDIT_AREA_STYLE', 'font-size: 16px; padding:10px;'); //Sets the font size in both edit.php and openedit.php
 
 include("cmacc_helpers.php");
 
