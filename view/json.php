@@ -40,11 +40,11 @@ foreach($contents as $n) {
         }
 
         else if(preg_match('/\[(.+?)\]/', $v, $matches)) {
-                $v = "<a href=$_SERVER[PHP_SELF]?action=source&file=$matches[1]>$v</a>";
+                $v = "<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$v</a>";
         }
 
         echo "<tr>";
-        if(isset($v)) { echo "\"$k\" : \"$v\"<br>"; }
+        if(isset($v)) { echo "\"$k\" : \"$v\" ; <br><br>"; }
         else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
 }
