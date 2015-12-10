@@ -57,6 +57,39 @@ switch ($_REQUEST['action']) {
 
         break;
 
+case 'json':
+
+        if (isset($_REQUEST['submit'])) {
+
+            $file_name = $path . $dir;
+
+            if (file_exists($file_name)) {
+
+                if (is_writeable($file_name)) {
+                    $fp = fopen($file_name, "w");
+                    $data = $_REQUEST['newcontent'];
+                    $data = preg_replace('/\r\n/', "\n", $data);
+                    $data = trim($data);
+                    fwrite($fp, $data);
+                    fclose($fp);
+                } else {
+                    print '<span style="color: red">ERROR: File ' . $dir . ' is not write able.</style>';
+                }
+            } else {
+                print '<span style="color: red">ERROR: File ' . $dir . ' does not exists.</style>';
+            }
+        }
+
+        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
+        $contents = explode("\n", $content);
+        $rootdir = pathinfo($dir);
+        $filenameX = basename($dir);
+
+        //source.php includes the formatting for the table that displays the components of a document
+        include("./view/json.php");
+
+        break;
+
     case 'render':
 
         if (isset($_REQUEST['submit'])) {
@@ -80,11 +113,7 @@ switch ($_REQUEST['action']) {
         include('./view/openedit.php');
         break;
 
-case 'json':
-
-        include('./view/json.php');
-        break;
-
+    
    case 'doc':
 
         include('./view/doc.php');
