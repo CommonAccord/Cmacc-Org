@@ -31,7 +31,7 @@ include("$lib_path/view-tabs.php");
 
 <?php
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
-        <textarea id='textedit' ". TEXT_EDIT_WINDOW_SIZE." name='newcontent' style='".TEXT_EDIT_AREA_STYLE."'>";
+        <textarea id='textedit' cols=120 rows=30 name='newcontent' style='font-size: 16px; padding:10px;'>";
 
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
 
