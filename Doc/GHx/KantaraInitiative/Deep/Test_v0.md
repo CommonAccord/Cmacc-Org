@@ -2,7 +2,7 @@ Secs={UMA.1.1.Sec}<li>{RSO.Sec}<li>{ASO.Sec}<li>{Notice.Sec}
 
 UMA.1.1.Ti=Definitions
 
-UMA.1.1.0.sec=Capitalized terms used in this Agreement shall have the following meanings.
+UMA.1.1.0.sec=Capitalized terms used in {this_Agreement} shall have the following meanings.
 
 RSO.Sec=<b>Engagements of the {UMA.RSO}</b><br>The {UMA.RSO} agrees:<ol><li>{UMA.3.1.cl}; and<li>to take out the garbage.</ol>
 
