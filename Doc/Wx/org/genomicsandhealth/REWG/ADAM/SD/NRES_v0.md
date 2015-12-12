@@ -4,16 +4,16 @@ Consent.Abbreviation=NRES
 
 Consent.Description=No restrictions on data use.
 
-ADAM.Domain=for any domain
+ADAM.Country={ADAM.Permit.Country.0.sec}
 
-ADAM.Person=by any person
+ADAM.Organizations={ADAM.Permit.Organization.0.sec}
 
-ADAM.Organizations=by all organizations
+ADAM.Person={ADAM.Permit.Person.0.sec}
 
-ADAM.Country=within any country/location
+ADAM.Domain={ADAM.Permit.Domain.0.sec}
 
-ADAM.Terms=none (to all 10)
+ADAM.Meta={ADAM.Meta.1.0.sec}
 
-ADAM.Meta=There are no other restrictions/limitations…
+ADAM.Agree={ADAM.Agree.List-1:0;_2:0;_3:0;_4:0;_5:0;_6:0;_7:0;_8:0;_9:0;_10:0}
 
 =[Wx/org/genomicsandhealth/REWG/ADAM/SD/Form_v0.md]
