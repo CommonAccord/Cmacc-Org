@@ -4,7 +4,9 @@ DocBody={Sec}
 
 Doc={Head.Sec}<br>{sec}{Foot.Sec} 
 
-Head.Sec=<font color="grey">{MessageToUser} GUID: {Doc.GUID}</font><center><h4>{Head.sec}</h4></center>
+Head.Sec={Head.Message}<center><h4>{Head.sec}</h4></center>
+
+Head.Message=<font color="grey">{MessageToUser} GUID: {Doc.GUID}</font>
 
 Head.sec={Doc.Title}
 
