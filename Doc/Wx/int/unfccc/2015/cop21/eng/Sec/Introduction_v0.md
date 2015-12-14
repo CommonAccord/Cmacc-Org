@@ -1,11 +1,8 @@
-
 1.sec=The {Parties_to_this_Agreement},
 
 2.sec=Being Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as “{the_Convention}”,
 
-2.sec=Pursuant to the Durban Platform for Enhanced Action established by decision 1/CP.17 of the Conference of the
-
-3.sec=Parties to {the_Convention} at its seventeenth session,
+3.sec=Pursuant to the Durban Platform for Enhanced Action established by decision 1/CP.17 of the Conference of the {Parties_to_the_Convention} at its seventeenth session,
 
 4.sec=In pursuit of the objective of {the_Convention}, and being guided by its principles, including the principle of equity and common but differentiated responsibilities and respective capabilities, in the light of different national circumstances,
 
