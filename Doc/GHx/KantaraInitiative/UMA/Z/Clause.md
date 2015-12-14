@@ -1,17 +1,17 @@
-Model.Root={Clause}
+Model.Root={Page}
 
-Clause=<b>Title:</b> {Ti}<br><br><b>Text:</b> {sec}<br><br><b>Comments:</b> {Comments}<br><br><b>Issues:</b> {Issues}
+Page=<b>Title:</b> {Ti}<br><br><b>Text:</b> {Text}<br><br><b>Comments:</b> {Comments}<br><br><b>Issues:</b> {Issues}
 
-Sec=<b>{Ti}</b><br>{sec}
+Sec=<b>{Ti}</b><br>{Text}
 
 Comments=None Signaled
 
 Issues=None Signaled
 
-AS-PAT-RS-Valid=When the Authorization Server issues a PAT to a Resource Server and as long as the PAT is valid
+AS-PAT-RS-Valid=When the {Authorization_Server} issues a {PAT} to a {Resource_Server} and as long as the {PAT} is valid
 
-ROgainsAP=the Resource Server Operator gains an obligation to the Authorizing Party
+ROgainsAP=the {Resource_Server_Operator} gains an obligation to the {Authorizing_Party}
 
-ASO=Authorization Server Operator
+ASO={Authorization_Server_Operator}
 
-RSO=Resource Server Operator
+RSO={Resource_Server_Operator}
