@@ -1,8 +1,8 @@
 Ti=Litigation Fact Sheet
 
-Plaintiff1.=[S/Sandbox/Litigation/Acme_v_Quake/Case/FactSheet_Plaintiff1_v0.md]
+Plaintiff1.=[S/Sandbox/Litigation/Acme_v_Quake/Case/FactSheet_Acme_v0.md]
 
-Defendant1.=[S/Sandbox/Litigation/Acme_v_Quake/Case/FactSheet_Defendant1_v0.md]
+Defendant1.=[S/Sandbox/Litigation/Acme_v_Quake/Case/FactSheet_Quake_v0.md]
 
 Forum.=[U/id/gov_uscourts_mad.md]
 
