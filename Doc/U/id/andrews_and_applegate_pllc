@@ -1,7 +1,3 @@
-=[U/class/ID_Entity]
-
-=[U/at/US/MA/Suffolk/Boston/State_Street/Geo]
-
 Name.Full=Andrews & Applegate PLLC
 
 Email=info@andrewandapplegate.com
@@ -18,4 +14,8 @@ Addr.Type=principal business
 
 Andrews.=[U/id/alison_andrews]
 
-Applegate.=[U/id/alicia_applegate]					  
+Applegate.=[U/id/alicia_applegate]
+
+=[U/class/ID_Entity]
+
+=[U/at/US/MA/Suffolk/Boston/State_Street/Geo]

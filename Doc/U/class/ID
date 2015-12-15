@@ -16,6 +16,8 @@ N/1/2={Name.Full}<br>{Addr.1/2}
 
 N,A={Name.Full}, {Addr.1,2}
 
+N,1,2={Name.Full}, {Addr.1,2}
+
 N/A={Name.Full}<br>{Addr.1/2}
 
 D/N/1/2={Contact.Dear}<br>{N/1/2}

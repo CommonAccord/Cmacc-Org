@@ -1,24 +1,14 @@
+Note=This is a quick demo using a form of Settlement Agreement proposed by a well-respected class action lawyer as a model.  I have very quickly used it with the model Case/FactSheet.  There are some inconsistencies - e.g., there is only one plaintiff, not a class.  The purpose is to test the fact sheet and give an idea of what can be done. 
+
 PleadingHeader.North={Case.Forum.Name.Full}
 
-PleadingHeader.West=<span style="text-transform:uppercase">{Plaintiffs.Name.Full}</span> on behalf of themselves and all others similarly situated<br><center>Plaintiffs,</center><br>v.<br><br><span style="text-transform:uppercase">{Defendants.Name.Full}</span><br><center>Defendant.</center>
+PleadingHeader.West=<span style="text-transform:uppercase">{Case.Plaintiffs.Name.Full}</span> on behalf of themselves and all others similarly situated<br><center>Plaintiffs,</center><br>v.<br><br><span style="text-transform:uppercase">{Case.Defendants.Name.Full}</span><br><center>Defendant.</center>
 
 PleadingHeader.East=CASE No. 3:30-cv-2345
 
 PleadingHeader.South=Settlement Agreement
 
-Plaintiffs.Named={Plaintiffs.Name.Full}
-
-Plaintiffs.Name.Full={Case.Plaintiff1.Party.Name.Full}
-
-Defendant.Name.Full={Case.Defendant1.Party.Name.Full}
-
-Defendants.Name.Full={Case.Defendant1.Party.Name.Full}
-
 ClassMembers.Description=all former employees of Defendant
-
-Class.Counsel.Description={Case.Plaintiff1.Firm.N/1/2}
-
-Plaintiff.Counsel.Lead.Name.Full={Case.Plaintiff1.Firm.N/1/2}
 
 Legal.Fee.%=33%
 
@@ -47,7 +37,6 @@ QSF.Distributions.List=(a) the sum of $5,000 to each of the Class Representative
 Notice.ToPostClass=, as well as a Court-approved notice to former employees of Defendant who, according to Defendant's records, meet all of the criteria for inclusion in the Settlement Class except that their employment terminated after {Class.Cutoff.Date} ("Post-Class Terminees")
 
 HandlingOfPostClass=The notice to the Post-Class Terminees (the "Post-Class Terminee Notice") will inform them that: people whose employment terminated after {Class.Cutoff.Date} are not entitled to payment under the Settlement; company records indicate that they were terminated after {Class.Cutoff.Date}, therefore they will not receive any payment under the settlement; and, if they believe that their employment ended, involuntarily and without cause, before {Class.Cutoff.Date} and (1) they wish to be paid from the Settlement, they must notify Class Counsel no later than thirty (30) days from the mailing of the Post-Class Terminee Notice and provide evidence of their date of actual termination, or (2) they wish to be excluded from the Settlement, they must submit a valid and timely request for exclusion.  The Notice will also inform them that, if they fail to provide evidence of their actual termination date, they will lose the right to participate in the Settlement, and that if they do not submit a valid and timely request for exclusion, they will be bound by the Release set forth in paragraph {Release.Xnum} of this Settlement Agreement with respect to claims arising from a termination occurring on or between {Class.Begin.Date} through {Class.Cutoff.Date}. Should a Post-Class Terminee prove to the satisfaction of Class Counsel that their termination date was incorrect in Defendant's records and that their employment was in fact terminated involuntarily and without cause on or between {Class.Begin.Date} and {Class.Cutoff.Date}, the Settlement amounts for the Settlement Class Members will be adjusted to accommodate any such Post-Class Terminee's settlement claim, and the rights of such Post-Class Terminee shall be subject to the Release set forth in the preceding paragraph in the same manner and to the same extent as all other Settlement Class members. The Post-Class Terminees are listed on Exhibit B, attached hereto. Exhibit B contains the last known address for each Post-Class Terminee according to the materials produced during discovery.
-
 
 Case.=[S/Sandbox/Litigation/Acme_v_Quake/Case/FactSheet_v0.md]
 

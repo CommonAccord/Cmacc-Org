@@ -1,6 +1,3 @@
-=[U/class/ID]
-
-
 entity=legal person
 
 entity.a=a {entity}
@@ -56,3 +53,5 @@ me/we=we
 me/us=us
 
 my/our=our
+
+=[U/class/ID]
