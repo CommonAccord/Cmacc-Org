@@ -1,7 +1,3 @@
-Model.Root={Settlement.Doc.Body}
-
-Settlement.Doc.Body={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}<br><br>{Text.Sec}<br>
-
 ThisSettlement.Sec=This Settlement Agreement and Release ("Settlement Agreement") is entered into by and between {Case.Plaintiffs.Named} (the "Named Plaintiffs" and/or "Class Representatives"), on behalf of themselves and on behalf of a Settlement Class defined herein (the "Settlement Class") on the one hand and {Case.Defendant.Name.Full} ("Defendant") on the other hand, in order to resolve the above-captioned lawsuit and all "Claims," as defined below.  The Defendant and the Named Plaintiffs will collectively be referred to hereafter as the "Parties".  
 
 Recitals.Sec=This Settlement Agreement is made with respect to the following recitals:<br>{Recital.List}
@@ -126,8 +122,15 @@ Notice.sec=Any notices issued pursuant to the terms of this Settlement Agreement
 
 Signature.sec=Executed this {Sign.YMD.this_of}.<br><br>{Signature.Block}
 
+PleadingHeader.North={Case.Forum.Name.Full}
+
+PleadingHeader.West=<span style="text-transform:uppercase">{Case.Plaintiffs.Name.Full}</span> on behalf of themselves and all others similarly situated<br><center>Plaintiffs,</center><br>v.<br><br><span style="text-transform:uppercase">{Case.Defendants.Name.Full}</span><br><center>Defendant.</center>
+
 Case.Caption=<div style="text-transform:uppercase; text-align:center;" width="100%">{PleadingHeader.North}</div><br><br><table><tr><td width="60%">{PleadingHeader.West}</td><td>       </td><td  width="30%">{PleadingHeader.East}</td></tr></table><br><br><center><b>{PleadingHeader.South}</b></center><br>
 
+Model.Root={Settlement.Doc.Body}
+
+Settlement.Doc.Body={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}<br><br>{Text.Sec}<br>
 
 Settlement_Amount.Xnum=2
 
