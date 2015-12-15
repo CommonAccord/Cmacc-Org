@@ -175,13 +175,38 @@ Misc.NoOpenFiling.tx=<b>Filing {Protected Material}</b><br> Without written perm
 
 FinalDisposition.Sec=<b>FINAL DISPOSITION</b><br>Within 60 days after the final disposition of this action, as defined in paragraph {4}, each {Receiving Party} must return all {Protected Material} to the {Producing Party} or destroy such material. As used in this subdivision, "all {Protected Material}" includes all copies, abstracts, compilations, summaries, and any other format reproducing or capturing any of the {Protected Material}. Whether the {Protected Material} is returned or destroyed, the {Receiving Party} must submit a written certification to the {Producing Party} (and, if not the same person or entity, to the {Designating Party}) by the 60 day deadline that (1) identifies (by category, where appropriate) all the {Protected Material} that was returned or destroyed and (2) affirms that the {Receiving Party} has not retained any copies, abstracts, compilations, summaries or any other format reproducing or capturing any of the {Protected Material}. Notwithstanding this provision, {Counsel} are entitled to retain an archival copy of all pleadings, motion papers, trial, deposition, and hearing transcripts, legal memoranda, correspondence, deposition and trial exhibits, expert reports, attorney work product, and consultant and expert work product, even if such materials contain {Protected Material}. Any such archival copies that contain or constitute {Protected Material} remain subject to this Protective Order as set forth in Section {4} (DURATION).
 
+Conf Shorthand=The full phrases are fiddly to write and can be automated better through shorthand.  The actual completion of the definitions takes place in the Definitions page.
+
+C.1="{Confidential}"
+
+C.2="{Highly Confidential - Attorneys' Eyes Only}"
+
+C.2.="{Highly Confidential - Attorneys' Eyes Only}."
+
+C.3="{Highly Confidential - Source Code}"
+
+C.1or2="{Confidential}" or "{Highly Confidential - Attorneys' Eyes Only}"
+
+C.1or2.="{Confidential}" or "{Highly Confidential - Attorneys' Eyes Only}."
+
+C.2or3="{Confidential}" or "{Highly Confidential - Attorneys' Eyes Only}"
+
+C.1and2="{Confidential}" and "{Highly Confidential - Attorneys' Eyes Only}"
+
+C.1,2,or3="{Confidential}," "{Highly Confidential - Attorneys' Eyes Only}," or "{Highly Confidential - Source Code}"
+
+C.1,2,or3.="{Confidential}," "{Highly Confidential - Attorneys' Eyes Only}," or "{Highly Confidential - Source Code}."
+
+C.3.="{Highly Confidential - Source Code}"
+
+
 Agt2Bind=-
 
 Agt2Bind.ExhA={Agt2Bind} ({ExhA})
 
 Agt2Bind.AsExhA={Agt2Bind} that is attached hereto as {ExhA}
 
-Conf Shorthand=The full phrases are fiddly to write and can be automated better through shorthand.  The actual completion of the definitions takes place in the Definitions page.
+
 
 Cross-references=-
 
@@ -233,5 +258,61 @@ FtNt6=<sup>6</sup>
 FtNt7=<sup>7</sup>
 FtNt8=<sup>8</sup>
 FtNt9=<sup>9</sup>
+
+
+Civil Local Rule 79-5=<font color=green>Civil Local Rule 79-5</font>
+
+Protected Material=<font color=green>Protected Material</font>
+
+Counsel=<font color=green>Counsel</font>
+
+Receiving Party=<font color=green>Receiving Party</font>
+
+Designating Party=<font color=green>Designating Party</font>
+
+PROTECTED MATERIAL=<font color=green>PROTECTED MATERIAL</font>
+
+Party=<font color=green>Party</font>
+
+Non-Party=<font color=green>Non-Party</font>
+
+Disclosure or Discovery Material=<font color=green>Disclosure or Discovery Material</font>
+
+Producing Party=<font color=green>Producing Party</font>
+
+Confidential=<font color=green>Confidential</font>
+
+Highly Confidential - Attorneys' Eyes Only=<font color=green>Highly Confidential - Attorneys' Eyes Only</font>
+
+Highly Confidential - Source Code=<font color=green>Highly Confidential - Source Code</font>
+
+Challenging Party=<font color=green>Challenging Party</font>
+
+Parties=<font color=green>Parties</font>
+
+Civil Local Rule 7=<font color=green>Civil Local Rule 7</font>
+
+Outside Counsel of Record=<font color=green>Outside Counsel of Record</font>
+
+House Counsel=<font color=green>House Counsel</font>
+
+Expert=<font color=green>Expert</font>
+
+Professional Vendors=<font color=green>Professional Vendors</font>
+
+Designated House Counsel=<font color=green>Designated House Counsel</font>
+
+NON-PARTY=<font color=green>NON-PARTY</font>
+
+Requesting Party=<font color=green>Requesting Party</font>
+
+FRCP 26(b)(5)(B)=<font color=green>FRCP 26(b)(5)(B)</font>
+
+FRE 502(d) and (e)=<font color=green>FRE 502(d) and (e)</font>
+
+Civil Local Rule 79-5(e)=<font color=green>Civil Local Rule 79-5(e)</font>
+
+Civil Local Rule 79-5(e)(2)=<font color=green>Civil Local Rule 79-5(e)(2)</font>
+
 
 =[Law/Out/Form/Litig/Plead/Base_v0.md]
