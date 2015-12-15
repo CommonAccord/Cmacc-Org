@@ -1,5 +1,3 @@
-=[core/form/litigation/plead/protective_order/CAND_Protect_Order_Library]
-
 Plead.Proponent.Sec={Plead.Proponent.Df}
 
 Plead.Title=STIPULATED PROTECTIVE ORDER
@@ -58,4 +56,6 @@ Df1.Firm.Addr.1,2={Df1.Firm.Addr.1}, {Df1.Firm.Addr.2}
 
 <b>General Elements</b>=To be transferred to boilerplate.
 Pn1.Name,Entity={Pn1.Name.Full}, {Pn1.EntityType.a}
-Df1.Name,Entity={Df1.Name.Full}, {Df1.EntityType.a}
+Df1.Name,Entity={Df1.Name.Full}, {Df1.EntityType.a}  
+
+=[Wx/gov/uscourts/cand/model-protective-orders/Patent/Protect_Order_Library_v0.md]
