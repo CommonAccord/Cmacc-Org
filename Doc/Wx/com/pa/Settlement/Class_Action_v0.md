@@ -128,9 +128,12 @@ PleadingHeader.West=<span style="text-transform:uppercase">{Case.Plaintiffs.Name
 
 Case.Caption=<div style="text-transform:uppercase; text-align:center;" width="100%">{PleadingHeader.North}</div><br><br><table><tr><td width="60%">{PleadingHeader.West}</td><td>       </td><td  width="30%">{PleadingHeader.East}</td></tr></table><br><br><center><b>{PleadingHeader.South}</b></center><br>
 
-Model.Root={Settlement.Doc.Body}
+/Model.Root={Settlement.Doc.Body}
 
-Settlement.Doc.Body={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}<br><br>{Text.Sec}<br>
+/Settlement.Doc.Body={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}<br><br>{Text.Sec}<br>
+
+Header.South={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}
+
 
 Settlement_Amount.Xnum=2
 
@@ -149,3 +152,5 @@ Opt-out.VoidableIfExceeds=ten (10)
 Post-Class.VoidableIfExceeds=ten (10)
 
 Post-Class.VoidableIfExceeds-1=nine (9)
+
+=[Law/Out/Form/Litig/Plead/Base_v0.md]

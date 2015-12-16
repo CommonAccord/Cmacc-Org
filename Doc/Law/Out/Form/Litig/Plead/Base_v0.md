@@ -1,24 +1,26 @@
-Head.Sec={Proponent.sec}<br><br><center><span style="text-transform: uppercase;">{Forum.Name.Full}</span></center><br><table frame="below"><tr><td width="500">{Case.Caption.Plaintiff/v/Defendant}</td><td width="500"><br>Case No. {Case.#}<br>{Title}</td></tr></table>
+Proponent.=[Law/Out/Form/Litig/Plead/Proponent/_v0.md]
 
-Proponent.Alt1.sec={Plaintiff1.Firm.Team}<br>{Plaintiff1.Firm.Name/Address/Telephone/Fax}<br>Attorneys for Plaintiff<br><span style="text-transform: uppercase;">{Plaintiff1.Name.Full}</span> 
+Case.Caption.Short={Plaintiff1.Party.Name.Full} v. {Defendant1.Party.Name.Full}
 
-Proponent.Alt2.sec={Defendant1.Firm.Team}<br>{Defendant1.Firm.Name/Address/Telephone/Fax}<br>Attorneys for Defendant<br><span style="text-transform: uppercase;">{Defendant1.Name.Full}</span> 
+Case.Caption.Full={Plaintiff1.Party.Name,Entity}<br> <center>Plaintiff</center><br>v.<br><br>{Defendant1.Party.Name,Entity}<br><center>Defendant</center>
 
-Proponent.=[Z/Alt/2]
+Sign.Sec=<table><tr><td width="500">Dated: {Sign.YMD}</td><td width="500">{Sign.Block.sec}</td></tr></table>
 
-Proponent.SecName=Proponent
+Sign.Block.=[Law/Out/Form/Litig/Plead/Sign/_v0.md]
 
-Case.Caption={Plaintiff1.Name.Full} v. {Defendant1.Name.Full}
-
-Case.Caption.Plaintiff/v/Defendant={Plaintiff1.Name,Entity}<br> <center>Plaintiff</center><br>v. <br><br>{Defendant1.Name,Entity}<br><center>Defendant</center>
-
-Sign.Sec=<table><tr><td width="500">Dated: {Sign.Date.YMD}</td><td width="500">{Sign.Block}</td></tr></table>
-
-Sign.Block.Defendant1.Atty.1={Defendant1.Name.Full}<br><br>By: <br>{Defendant1.Atty1.Name.Full}<br>Attorneys for Defendant<br>{Defendant1.Name.Full}
-
-Sign.Block.Pf1.Atty.1={Plaintiff1.Name.Full}<br><br>By: <br>{Plaintiff1.Atty1.Name.Full}<br>Attorneys for Plaintiff<br>{Plaintiff1.Name.Full}
+Sign.Block.SecName=Sign.Block
 
 Case.Name={Plaintiff1.Name.Full} v. {Defendant1.Name.Full}
+
+Head.Sec={Head.North}<br><table frame="below"><tr><td width="500">{Head.West}</td><td>{Head.East}</td></tr></table>{Head.South}
+
+Head.North=<center><span style="text-transform: uppercase;">{Forum.Name.Full}</span></center>
+
+Head.West={Proponent.sec}<br><br>{Case.Caption.Full}
+
+Head.East=Case No. {Case.#}<br>{Title}
+
+Head.South=</i>
 
 Doc={Head.Sec}<br><br>{Text.Sec}<br><br>{Sign.Sec}<br><hr>{Attach.Sec}
 
