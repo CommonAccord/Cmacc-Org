@@ -1,6 +1,6 @@
 Model.Root={Page}
 
-Page=<b>Title:</b> {Title}<br><br><b>Text:</b> {Text}<br><br><b>Comments:</b> {Comments}<br><br><b>Issues:</b> {Issues}
+Page=<b>Title:</b> {Title}<br><br><b>Text:</b> {Text}<br><br><b>Comments:</b> {Comments} {Issues}
 
 
 Text={Condition}, {Parties} {Duty}.
@@ -13,4 +13,4 @@ Ti={Title}
 
 Comments=None Signaled
 
-Issues=None Signaled
+Issues=</i>
