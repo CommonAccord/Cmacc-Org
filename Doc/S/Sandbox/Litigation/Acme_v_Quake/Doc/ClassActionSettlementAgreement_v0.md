@@ -1,8 +1,14 @@
 Note=This is a quick demo using a form of Settlement Agreement proposed by a well-respected class action lawyer as a model.  I have very quickly used it with the model Case/FactSheet.  There are some inconsistencies - e.g., there is only one plaintiff, not a class.  The purpose is to test the fact sheet and give an idea of what can be done. 
 
-PleadingHeader.East=CASE No. 3:30-cv-2345
+Header.East=CASE No. 3:30-cv-2345
 
-PleadingHeader.South=Settlement Agreement
+Header.South=Settlement Agreement
+
+Note=No signature section on this document.
+
+Sign.Sec=</i>
+
+Attach.Sec=</i>
 
 ClassMembers.Description=all former employees of Defendant
 

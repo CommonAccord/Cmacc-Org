@@ -122,17 +122,16 @@ Notice.sec=Any notices issued pursuant to the terms of this Settlement Agreement
 
 Signature.sec=Executed this {Sign.YMD.this_of}.<br><br>{Signature.Block}
 
-PleadingHeader.North={Case.Forum.Name.Full}
+Header.West=<span style="text-transform:uppercase">{Case.Plaintiffs.Name.Full}</span> on behalf of themselves and all others similarly situated<br><center>Plaintiffs,</center><br>v.<br><br><span style="text-transform:uppercase">{Case.Defendants.Name.Full}</span><br><center>Defendant.</center>
 
-PleadingHeader.West=<span style="text-transform:uppercase">{Case.Plaintiffs.Name.Full}</span> on behalf of themselves and all others similarly situated<br><center>Plaintiffs,</center><br>v.<br><br><span style="text-transform:uppercase">{Case.Defendants.Name.Full}</span><br><center>Defendant.</center>
+Header.South={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}
 
-Case.Caption=<div style="text-transform:uppercase; text-align:center;" width="100%">{PleadingHeader.North}</div><br><br><table><tr><td width="60%">{PleadingHeader.West}</td><td>       </td><td  width="30%">{PleadingHeader.East}</td></tr></table><br><br><center><b>{PleadingHeader.South}</b></center><br>
+/Case.Caption=<div style="text-transform:uppercase; text-align:center;" width="100%">{PleadingHeader.North}</div><br><br><table><tr><td width="60%">{PleadingHeader.West}</td><td>       </td><td  width="30%">{PleadingHeader.East}</td></tr></table><br><br><center><b>{PleadingHeader.South}</b></center><br>
 
 /Model.Root={Settlement.Doc.Body}
 
 /Settlement.Doc.Body={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}<br><br>{Text.Sec}<br>
 
-Header.South={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}
 
 
 Settlement_Amount.Xnum=2
