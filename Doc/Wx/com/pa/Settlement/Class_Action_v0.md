@@ -1,3 +1,5 @@
+Introduction.Sec={ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}
+
 ThisSettlement.Sec=This Settlement Agreement and Release ("Settlement Agreement") is entered into by and between {Case.Plaintiffs.Named} (the "Named Plaintiffs" and/or "Class Representatives"), on behalf of themselves and on behalf of a Settlement Class defined herein (the "Settlement Class") on the one hand and {Case.Defendant.Name.Full} ("Defendant") on the other hand, in order to resolve the above-captioned lawsuit and all "Claims," as defined below.  The Defendant and the Named Plaintiffs will collectively be referred to hereafter as the "Parties".  
 
 Recitals.Sec=This Settlement Agreement is made with respect to the following recitals:<br>{Recital.List}
@@ -40,7 +42,7 @@ Recital.AgreeToSettle=The Parties have agreed to fully and finally compromise, s
 
 NowTherefore.Sec=NOW THEREFORE, as material considerations and inducements to the execution of this Settlement Agreement, and in consideration of the mutual promises and agreements set forth herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:
 
-Text.Sec=<ol><li>{ClassCertification.sec}</li><li>{QSF.sec}</li><li>{EffectiveDate.sec}</li><li>{ListOfClassMembers.sec}</li><li>{Release.sec}</li><li>{MotionToApprove.sec}</li><li>{NoEffectOnOpt-outs.sec}</li><li>{DefendantPayToQSF.sec}</li><li>{Release2.sec}</li><li>{Dismissal.sec}</li><li>{QSF.NoticesToClass.sec}</li><li>{QSF.Disbursement.sec}</li><li>{BearOwnCosts-RefrainFromOtherSuit.sec}</li><li>{EvidenceForEnforcement.sec}</li><li>{Successors.sec}</li><li>{Law.sec}</li><li>{Entire.sec}</li><li>{Counterparts.sec}</li><li>{JointDrafting.sec}</li><li>{ConditionedOnEffectiveDate.sec}</li><li>{AntiWaiver.sec}</li><li>{NoAdmissionOfLiability.sec}</li><li>{NoAdmissionOfClass.sec}</li><li>{VoidIfNoCourtApproval.sec}</li><li>{Shredding.sec}</li><li>{VoidableClassChange.sec}</li><li>{WellInformed.sec}</li><li>{Publicity.sec}</li><li>{Notice.sec}</ol>
+Text.Sec={Introduction.Sec}<ol><li>{ClassCertification.sec}</li><li>{QSF.sec}</li><li>{EffectiveDate.sec}</li><li>{ListOfClassMembers.sec}</li><li>{Release.sec}</li><li>{MotionToApprove.sec}</li><li>{NoEffectOnOpt-outs.sec}</li><li>{DefendantPayToQSF.sec}</li><li>{Release2.sec}</li><li>{Dismissal.sec}</li><li>{QSF.NoticesToClass.sec}</li><li>{QSF.Disbursement.sec}</li><li>{BearOwnCosts-RefrainFromOtherSuit.sec}</li><li>{EvidenceForEnforcement.sec}</li><li>{Successors.sec}</li><li>{Law.sec}</li><li>{Entire.sec}</li><li>{Counterparts.sec}</li><li>{JointDrafting.sec}</li><li>{ConditionedOnEffectiveDate.sec}</li><li>{AntiWaiver.sec}</li><li>{NoAdmissionOfLiability.sec}</li><li>{NoAdmissionOfClass.sec}</li><li>{VoidIfNoCourtApproval.sec}</li><li>{Shredding.sec}</li><li>{VoidableClassChange.sec}</li><li>{WellInformed.sec}</li><li>{Publicity.sec}</li><li>{Notice.sec}</ol>
 
 ClassCertification.sec=The Parties agree to certification of the Settlement Class, as defined above, for settlement purposes only.  The Parties have agreed that the best evidence available in this case suggests that all the Settlement Class Members who satisfy the above definition are listed on Exhibit A hereto.  The named Plaintiffs shall be named as Class Representatives and {Case.Class.Counsel.Description} shall be appointed Class Counsel.
 
@@ -123,8 +125,6 @@ Notice.sec=Any notices issued pursuant to the terms of this Settlement Agreement
 Signature.sec=Executed this {Sign.YMD.this_of}.<br><br>{Signature.Block}
 
 Header.West=<span style="text-transform:uppercase">{Case.Plaintiffs.Name.Full}</span> on behalf of themselves and all others similarly situated<br><center>Plaintiffs,</center><br>v.<br><br><span style="text-transform:uppercase">{Case.Defendants.Name.Full}</span><br><center>Defendant.</center>
-
-Header.South={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}
 
 /Case.Caption=<div style="text-transform:uppercase; text-align:center;" width="100%">{PleadingHeader.North}</div><br><br><table><tr><td width="60%">{PleadingHeader.West}</td><td>       </td><td  width="30%">{PleadingHeader.East}</td></tr></table><br><br><center><b>{PleadingHeader.South}</b></center><br>
 
