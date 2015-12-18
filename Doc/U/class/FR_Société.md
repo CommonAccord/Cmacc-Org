@@ -2,9 +2,8 @@ Model.Root=<ol><li>{Champs.Base}<li>FormeJuridique : {FormeJuridique}<li>Capital
 
 =[U/class/FR_ID.md]
 
-Sign.Bloc=<table><tr><td>{Nom}</td></tr><tr><td>par : <br><br>{Dirigeant1.Nom}, son {Dirigeant1.Titre}</td></tr><tr><td>Date : {Sign.Date}</td></tr></table>
+Sign.Bloc=<table><tr><td>{Nom}</td></tr><tr><td>par : {Dirigeant1.xSignature}<br><br>{Dirigeant1.Nom}, son {Dirigeant1.Titre}</td></tr><tr><td>Date : {Sign.Date}</td></tr></table>
   
-
 Name.Full={Nom} {Entity}
 
 Entity={FormeJuridique}
