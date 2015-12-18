@@ -1,6 +1,6 @@
 Ti=Object Model for {DRY} {P2P} Transacting
 
-1.sec=Each person has one or more {PDS}s.
+1.sec=Each person has one or more {PDSs}.
 
 2.sec=A {PDS} consists of {Cmacc} "{lists}" and other files. The {lists} are formatted as files (canonical) or as records in a database, for instance a graph database.
  
