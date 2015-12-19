@@ -8,40 +8,40 @@ Authorizing_Party=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA
 
 Client=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Client_v0.md" style="color:green; text-decoration:none">Client</a>
 
-Client_Operator=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Client_Operator_v0.md" style="text-decoration:none; color:#5B4513">Client Operator</font>
+Client_Operator=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Client_Operator_v0.md" style="text-decoration:none; color:#5B4513">Client Operator</a>
 
-Conformance=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Conformance_v0.md" style="text-decoration:none; color:green">Conformance</font>
+Conformance=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Conformance_v0.md" style="text-decoration:none; color:green">Conformance</a>
 
-Individual=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Individual_v0.md" style="text-decoration:none; color:#5B4513">Individual</font>
+Individual=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Individual_v0.md" style="text-decoration:none; color:#5B4513">Individual</a>
 
-Individuals=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Individual_v0.md" style="text-decoration:none; color:#5B4513">Individuals</font>
+Individuals=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Individual_v0.md" style="text-decoration:none; color:#5B4513">Individuals</a>
 
-Legal_Person=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Legal_Person_v0.md" style="text-decoration:none; color:#5B4513">Legal Person</font>
+Legal_Person=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Legal_Person_v0.md" style="text-decoration:none; color:#5B4513">Legal Person</a>
 
-Legal_Persons=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Legal_Person_v0.md" style="text-decoration:none; color:#5B4513">Legal Persons</font>
+Legal_Persons=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Legal_Person_v0.md" style="text-decoration:none; color:#5B4513">Legal Persons</a>
 
-Requesting_Party=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Requesting_Party_v0.md" style="text-decoration:none; color:#5B4513">Requesting Party</font>
+Requesting_Party=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Requesting_Party_v0.md" style="text-decoration:none; color:#5B4513">Requesting Party</a>
 
-Requesting_Party_Agent=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Requesting_Party_Agent_v0.md" style="text-decoration:none; color:#5B4513">Requesting Party Agent</font>
+Requesting_Party_Agent=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Requesting_Party_Agent_v0.md" style="text-decoration:none; color:#5B4513">Requesting Party Agent</a>
 
-Resource_Server=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Resource_Server_v0.md" style="text-decoration:none; color:green">Resource Server</font>
+Resource_Server=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Resource_Server_v0.md" style="text-decoration:none; color:green">Resource Server</a>
 
-Resource_Server_Operator=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Resource_Server_Operator_v0.md" style="text-decoration:none; color:#5B4513">Resource Server Operator</font>
+Resource_Server_Operator=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Resource_Server_Operator_v0.md" style="text-decoration:none; color:#5B4513">Resource Server Operator</a>
 
-Person=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Person_v0.md" style="text-decoration:none; color:#5B4513">Person</font>
+Person=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Person_v0.md" style="text-decoration:none; color:#5B4513">Person</a>
 
-Persons=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Person_v0.md" style="text-decoration:none; color:#5B4513">Persons</font>
+Persons=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Person_v0.md" style="text-decoration:none; color:#5B4513">Persons</a>
 
 Note=Abbreviations
 
-AAT=<font color="#BB0000">AAT</font>
+AAT=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/AAT_v0.md" style="text-decoration:none; color:#BB0000">AAT</a>
 
-API=<font color="green">API</font>
+API=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/API_v0.md" style="text-decoration:none; color:green">API</a>
 
-PAT=<font color="#BB0000">PAT</font>
+PAT=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/PAT_v0.md" style="text-decoration:none; color:#BB0000">PAT</a>
 
-RPT=<font color="#BB0000">RPT</font>
+RPT=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/RPT_v0.md" style="text-decoration:none; color:#BB0000">RPT</a>
 
-RPTs=<font color="#BB0000">RPTs</font>
+RPTs=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/RPT_v0.md" style="text-decoration:none; color:#BB0000">RPTs</a>
 
-UMA=<font color="green">UMA</font>
+UMA=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/UMA_v0.md" style="text-decoration:none; color:green">UMA</a>
