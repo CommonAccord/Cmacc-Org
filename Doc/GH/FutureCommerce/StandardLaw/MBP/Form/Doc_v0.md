@@ -14,6 +14,6 @@ Technical.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Technical/SecurityReq
 
 Technical.Alt2.=[GH/FutureCommerce/StandardLaw/MBP/Sec/Technical_v0.md]
 
-=[Z/ol/1]
+sec=<ol><li>{Business.Sec}<li>{Legal.Sec}<li>{Technical.Sec}</ol>
 
-secs=<ol><li>{Business.Sec}<li>{Legal.Sec}<li>{Technical.Sec}</ol>
+=[Z/ol/1]
