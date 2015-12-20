@@ -26,7 +26,11 @@ Ti=Introduction
 
 7.0.sec=For review purposes, please note the following open issues; if providing comments in email, referencing specific issue item numbers would be helpful:
 
-7.1.sec=UMA has for some years used (Non-Person Entity} ({Legal_Person}) strictly in a "person" sense, legally speaking. Therefore, we were stuck using {Person} rather than "person". But the term {Legal_Person} comes from the technical world, referring to hardware, servers, and -- on occasion -- organizations (for example, a PKI certificate standing for a whole company). It has been suggested that "Person" would be much more natural than "Subject". So, should we switch? This would have the benefit of freeing up "NPE" for client devices, hardware servers, etc. as well.
+7.1.Note=Reflecting a change in 7.1.sec by renaming the existing one with a version number and replacing it with a new one. 
+
+7.1.sec=Per the group discussion on 2015-12-18, we now use {Person}, {Individual}, {Legal_Person} to refer to things that the law considers to have capacity to contract.  Note that there are variations in this around the world.  This also does not deal with the issue of {Individual} under legal incapacity, nor with the authority of a person to sign for a {Legal_Person}.
+
+7.1.sec.01=UMA has for some years used (Non-Person Entity} ({Legal_Person}) strictly in a "person" sense, legally speaking. Therefore, we were stuck using {Person} rather than "person". But the term {Legal_Person} comes from the technical world, referring to hardware, servers, and -- on occasion -- organizations (for example, a PKI certificate standing for a whole company). It has been suggested that "Person" would be much more natural than "Subject". So, should we switch? This would have the benefit of freeing up "NPE" for client devices, hardware servers, etc. as well.
 
 7.2.sec=The obligations are still phrased as obligations, vs., say, commitments or agreements. Do we feel comfortable with this?
 
@@ -39,3 +43,4 @@ Ti=Introduction
 7.=[Z/ol/s5]
 
 =[Z/paras/s7]
+  
