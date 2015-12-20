@@ -8,4 +8,4 @@ Duty=to represent the legitimate bearer of the {RPT} or its authorized represent
 
 Comments=In the case where the "bearer" {RPT} profile or any other bearer-style {RPT} profile is used, the token may not be bound in any technically confirmable way to the specific client and requesting party it applies to. Defining and using different {UMA} token profiles can mitigate the risk of failure or malice on the {Requesting_Party}'s part. The "authorized representative" phrase is intended to clear the way for token-chaining profiles or similar.
 
-=[GH/KantaraInitiative/UMA-Text/Z/Clause_v0.md]
+=[GH/KantaraInitiative/UMA-Text/Z/Clause_0.md]

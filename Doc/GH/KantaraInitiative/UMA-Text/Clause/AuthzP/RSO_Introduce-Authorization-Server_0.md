@@ -8,4 +8,4 @@ Duty=to introduce the desired {Authorization_Server} to this {Resource_Server} i
 
 Comments=Once the {Authorization_Server_Operator} becomes the {Authorizing_Party}’s authorization proxy, the {Resource_Server_Operator} begins relying on it in other, more specific ways. How the {Authorizing_Party} indicated the desired {Authorization_Server} to the host is out of band for {UMA}; it is the {Authorizing_Party}'s responsibility to check that it has been redirected to an acceptable {Authorization_Server} before the {Authorization_Server} successfully issues the {PAT}. This obligation can be removed through {PAT} revocation.
 
-=[GH/KantaraInitiative/UMA-Text/Z/Clause_v0.md]
+=[GH/KantaraInitiative/UMA-Text/Z/Clause_0.md]

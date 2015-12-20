@@ -10,4 +10,4 @@ Comments=The {Resource_Server_Operator}, as a {Person} that is otherwise potenti
 
 Issues=The relying party traditionally always has the right of refusal. The resource server may have additional authorization context available only to it that suggests it should not grant access, for example. Should this obligation be struck?
 
-=[GH/KantaraInitiative/UMA-Text/Z/Clause_v0.md]
+=[GH/KantaraInitiative/UMA-Text/Z/Clause_0.md]

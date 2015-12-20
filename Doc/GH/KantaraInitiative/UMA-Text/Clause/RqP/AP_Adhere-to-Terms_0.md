@@ -10,4 +10,4 @@ Comments=This key obligation enables the end-to-end access authorization agreeme
 
 Issues=<b>NEEDS DISCUSSION.</b> Note that the obligation goes into effect the first time a {Client} gains access under the power of a "currently valid permission". If there was more than one valid permission attached to different sets of promises, if a secure record was not kept by the {Resource_Server} and/or {Authorization_Server} of which permission was used for granting access (<b>an opportunity for transaction receipts?</b>), ambiguity is introduced. Defining and using {RPT} profiles other than the "bearer" profile might lessen the potential ambiguity. <b>Alternative choices:</b> Should the condition be earlier, say, when the {RPT} is issued, or even when the {Requesting_Party}/{Client} provides claims (if any are provided)?
 
-=[GH/KantaraInitiative/UMA-Text/Z/Clause_v0.md]
+=[GH/KantaraInitiative/UMA-Text/Z/Clause_0.md]

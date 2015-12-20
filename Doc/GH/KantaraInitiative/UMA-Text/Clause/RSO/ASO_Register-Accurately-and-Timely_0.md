@@ -8,4 +8,4 @@ Duty=to register resource set descriptions accurately and timely and according t
 
 Comments=The original condition was "When the {Authorization_Server} issues a {PAT} to the {Resource_Server} and as long as the {PAT} is valid". That is, it relied on an action that involved token issuance. We now suspect this is too specific, though in dynamic introduction by the {Authorizing_Party}, this might well be the time. The original commentary on this condition was "At a later stage, the {Resource_Server} has the opportunity to register resource sets, but its responsibility for performing this task begins now. The {Resource_Server_Operator} may have contracted with the {Authorizing_Party} for service-level agreements to respond specifically to timeliness needs and so on. This obligation can be removed through {PAT} revocation."
 
-=[GH/KantaraInitiative/UMA-Text/Z/Clause_v0.md]
+=[GH/KantaraInitiative/UMA-Text/Z/Clause_0.md]

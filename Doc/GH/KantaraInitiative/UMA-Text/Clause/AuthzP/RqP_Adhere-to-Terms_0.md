@@ -8,4 +8,4 @@ Duty=to adhere to the terms offered to and accepted by the {Requesting_Party} in
 
 Comments=For example, the Authorizing User cannot subsequently protest or sue the {Requesting_Party} for resale of the user’s data if this was allowed by the terms of access authorization.
 
-=[GH/KantaraInitiative/UMA-Text/Z/Clause_v0.md]
+=[GH/KantaraInitiative/UMA-Text/Z/Clause_0.md]

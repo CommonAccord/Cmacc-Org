@@ -2,15 +2,15 @@ Title=Abbreviations
 
 Introduction.sec=This framework uses the following abbreviations.
 
-UMA.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/UMA_v0.md]
+UMA.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/UMA_0.md]
 
-API.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/API_v0.md]
+API.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/API_0.md]
 
-PAT.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/PAT_v0.md]
+PAT.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/PAT_0.md]
 
-AAT.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/AAT_v0.md]
+AAT.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/AAT_0.md]
 
-RPT.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/RPT_v0.md]
+RPT.=[GH/KantaraInitiative/UMA-Text/Terminology/Abbreviation/RPT_0.md]
 
 Text={Introduction.sec}<dl>{UMA.DT}{API.DT}{PAT.DT}{AAT.DT}{RPT.DT}</dl>
 
@@ -18,4 +18,4 @@ Comments=Tokens are critical to managing authorization and auditing of resource 
 
 Issues=None Signaled
 
-=[GH/KantaraInitiative/UMA-Text/Z/Clause_v0.md]
+=[GH/KantaraInitiative/UMA-Text/Z/Clause_0.md]
