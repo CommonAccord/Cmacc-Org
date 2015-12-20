@@ -43,7 +43,7 @@ foreach($contents as $n) {
                 $v = "<a href=$_SERVER[PHP_SELF]?action=source&file=$matches[1]>$v</a>";
         }
 
-        echo "<tr>";
+        echo "<tr id=$k>";
         if(isset($v)) { echo "<th height='10' style='text-align:right'>$k</th><td width='20'></td><td>$v</td>"; }
         else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
