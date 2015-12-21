@@ -8,6 +8,7 @@ P2.Handle={UMA.Resource_Server_Operator}
 
 Secs={UMA.RSO.Sec}<li>{UMA.ASO.Sec}<li>{UMA.AuthzP.Sec}<li>{Loss.Sec}<li>{Misc.Sec}
 
+Doc.Title=Key Agreement
 
 =[Z/Agt/Agt_v01.md]
 
@@ -25,4 +26,4 @@ Loss.Sec=<b>Loss or Compromise</b><br>{Notice.sec}
 
 Note=Adrian - There are bilateral contracts between the operators of the lock (RSO) Alice as the AS operator (ASO), and Bob as responsible for the key (RqP)  These contracts must all include a provision for 
 
-Notice.sec=notice to the counter-party of the contract if the lock, AS, or key are lost or otherwise compromised.
+Notice.sec=Each party agrees to give notice to the other parties of the contract if the lock, AS, or key are lost or otherwise compromised.
