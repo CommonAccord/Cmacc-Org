@@ -2,7 +2,7 @@ Title={Authorization_Server_Operator}-{Authorizing_Party}: Follow-Policies-Accur
 
 Condition=When the {Authorization_Server} issues a {PAT} to a {Resource_Server} and as long as the {PAT} is valid
 
-Parties=the {Resource_Server_Operator} gains an obligation to the {Authorizing_Party}
+Parties=the {Authorization_Server_Operator} gains an obligation to the {Authorizing_Party}
 
 Duty=to adhere to the {Authorizing_Party}'s policies accurately and timely in granting permissions
 
