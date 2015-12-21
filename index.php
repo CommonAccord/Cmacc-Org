@@ -4,7 +4,7 @@ DEFINE('ROOT' ,dirname(__FILE__) ); // Root directory of site
 
 DEFINE('URLFORREPO', 'https://github.com/CommonAccord/Cmacc-Org');	// The repo home
 
-DEFINE('LANDING_MD', 'ZZZ/landing.md');	// The repo home
+DEFINE('LANDING_MD', 'ZZZ/landing.md');	// The website home
 
 DEFINE('SOURCE_TAB_MESSAGE', 'Source');	// Tab
 
@@ -16,7 +16,7 @@ DEFINE('DOC_TAB_MESSAGE', 'Document');	// Tab
 
 DEFINE('PRINT_TAB_MESSAGE', 'Print');	// Tab
 
-DEFINE('LIB_PATH', ROOT . '/vendor/CommonAccord/cmacc/library'); // Create global variable to our library	
+DEFINE('LIB_PATH', ROOT . '/vendor/CommonAccord/cmacc/library'); // Create global variable to our library
 
 ini_set('include_path', ini_get('include_path') . PATH_SEPARATOR . LIB_PATH . DIRECTORY_SEPARATOR);	// Include it in PHP include/require search
 
