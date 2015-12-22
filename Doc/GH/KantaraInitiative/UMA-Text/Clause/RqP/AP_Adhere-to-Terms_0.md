@@ -4,7 +4,9 @@ Condition=When the {Client} successfully gains access from a {Resource_Server} t
 
 Parties=the {Requesting_Party} using that {Client} gains an obligation to the {Authorizing_Party}
 
-Duty=to adhere to any terms it agreed to in order to gain the permission.
+Duty={Duty.1}
+
+Duty.1=to adhere to any terms it agreed to in order to gain the permission
 
 Comments=This key obligation enables the end-to-end access authorization agreement that {UMA} exists to forge. At a previous stage, the {Requesting_Party} asked for a relevant permission from the {Authorization_Server} and might have had to provide claims of a promissory nature. Accepting access to the protected resource binds the {Requesting_Party} to any terms it agreed to using the claims mechanism, for example, agreeing only to read the resource rather than modifying it, or forbearing from selling the resource data to someone else.
 
