@@ -4,7 +4,7 @@ DocBody={Doc}
 
 0.Sec={Intro.sec}<br>
 
-90.Sec={Sign.Sec}
+90.Sec={End.Sec}
 
 Foot.Sec={Attach.Sec}
 
@@ -12,7 +12,7 @@ Foot.Sec={Attach.Sec}
 
 Intro.=[Z/Agt/Frame/Intro_v01.md]
 
-Sign.=[Z/Agt/Frame/End_v01.md]
+End.=[Z/Agt/Frame/End_v01.md]
 
 =[Z/ol/Base]
 
