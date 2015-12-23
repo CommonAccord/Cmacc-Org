@@ -13,7 +13,7 @@ Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 Introduction.sec=<b>Overview:</b><ul><li>{CmA.Quick.sec}<li>{Code-ification.sec}<li>{OnGitHub.sec}<li> {InfoLinks.sec} <li>{DeCenter.sec}</ul>
 
 
-CmA.Quick.sec=CommonAccord is legal text codified and "code-ified," like software source code. Objects, plain text, git, collaboration. Each person has "personal data stores" - files of plain text that state their relationships and transaction history.  Transacting is done by adding new files and synchronizing them with partners. Synchronization can be done by git, blockchain or any other method. The "Cmacc" data format, in which peers program their own text, can help simplify IT.
+CmA.Quick.sec=CommonAccord is legal text codified and "code-ified," like software source code. Objects, plain text, git, collaboration. Each person can have one or many "personal data stores" - collections of text files that state their relationships and transaction history.  Transacting is done by adding new files and synchronizing them with partners. Synchronization can be done by git, blockchain or any other method. The files can also be expressed in <a href="http://www.commonaccord.org/index.php?action=json&file=Dx/Acme_FR/04-NDA-From-Quake-FR/Doc_v0.md">JSON</a> or managed as <a href="http://neo4j.com/graphgist/github-HazardJ%2Fgists%2F%2FDoc_Source_Graph.adoc/">graphs</a>.
 
 Code-ification.sec=Codification of documents with legal significance - contracts, permits, organizational documents, consents and medical records - can make them transparent, well-understood and continuously improving.  It can demystifying law and encourage <a href="http://p2pfoundation.net/Common_Accord">P2P autonomy</a>.
 
