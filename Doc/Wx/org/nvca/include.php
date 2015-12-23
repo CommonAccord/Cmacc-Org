@@ -1,0 +1,1 @@
+The <a href="http://nvca.org/resources/model-legal-documents/">NVCA model documents</a> are a reference.  Here, we have the base for code-ifying them.  They need work from lawyers who know the industry.
