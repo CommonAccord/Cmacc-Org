@@ -10,6 +10,8 @@ Recite.secs={Recite.6.sec}<br>{Recite.1.sec}<br>{Recite.2.sec}<br>{Recite.5.sec}
 
 Roles.Sec=<b>Roles</b><br>In {this_Agreement}:<ol><li>{Role.P2.sec}<li>{Role.P3.sec}</ol>
 
-UMA.Sections={UMA.Terminology.Sec}<li>{UMA.RqP.Sec}<li>{UMA.RSO.Sec}
+Note1=Seems no obligations from RSO to RqP.  Right?
+
+UMA.Obligations={UMA.RqP.RSO.Sec}
 
 =[GHx/KantaraInitiative/PandaPass/Form/Base_0.md]

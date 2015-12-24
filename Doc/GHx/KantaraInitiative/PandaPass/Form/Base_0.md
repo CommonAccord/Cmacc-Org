@@ -20,7 +20,7 @@ Recite.6.sec={P1.Handle} means {P1.Name.Full} of {P1.Addr.1,2}.
 
 Recite.7.sec={P3.Handle} wishes to obtain authorization from {P2.Handle} to make a delivery directly to {P1.Handle}'s room.  
 
-Secs={Roles.Sec}<li><i>{UMA.Sections}</i><li>{Loss.Sec}<li>{Misc.Sec}
+Secs={Roles.Sec}<li>{UMA.Terminology.Sec}<li><b>UMA Obligations</b><ol><li><i>{UMA.Obligations}</i></ol><li>{Loss.Sec}<li>{Misc.Sec}
 
 Role.P1.sec={P1.Handle} has the roles of {UMA.Authorizing_Party} and {UMA.Authorization_Server_Operator}.
 
