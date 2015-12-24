@@ -8,7 +8,13 @@ P2.=[U/id/halltune_inc]
 
 P2.Handle=<b>Hotel</b>
 
-Recite.secs={P1.Handle} is a guest at {P2.Handle} staying from {Residence.Begin.YMDT} to {Residence.End.YMDT} in room {Room.#}.<br>{P2.Handle} uses an electronic key system for accessing rooms and other facilities and allows guests to use their own authorization systems. (Some services offered incur additional charges.)
+Recite.secs={Recite.1.sec}<br>{Recite.2.sec} {Recite.3.sec}
+
+Recite.1.sec={P1.Handle} is a guest at {P2.Handle} staying from {Residence.Begin.YMDT} to {Residence.End.YMDT} in room {Room.#}.
+
+Recite.2.sec={P2.Handle} uses an electronic key system for accessing rooms and other facilities and allows guests to use their own authorization systems.
+
+Recite.3.sec=(Some services incur additional charges.)
 
 Doc.GUID=Alice-HP-12345
 
@@ -20,19 +26,17 @@ Residence.End.YMDT=2015-12-25:12:00:00
 
 Room.#=345
 
-  
-Note2=<b>Standard part - can be a form:</b>
+  Note2=<b>Standard part - can be a form:</b>
 
+Secs={Roles.Sec}<li><i>{UMA.Sections}</i><li>{Loss.Sec}<li>{Misc.Sec}
 
-Secs={Definitions.Sec}<li>{UMA.RSO.Sec}<li>{UMA.ASO.Sec}<li>{UMA.AuthzP.Sec}<li>{Loss.Sec}<li>{Misc.Sec}
+Roles.Sec=<b>Roles</b><br>In {this_Agreement}:<ol><li>{Role.P1.sec}<li>{Role.P2.sec}</ol>
 
-Definitions.Sec=<b>Definitions</b><br>In {this_Agreement}:<ol><li>{Def.AuthzP.sec}<li>{Def.ASO.sec}<li>{Def.RSO.sec}</ol>
+UMA.Sections={UMA.Terminology.Sec}<li>{UMA.RSO.Sec}<li>{UMA.ASO.Sec}<li>{UMA.AuthzP.Sec}
 
-Def.AuthzP.sec={UMA.Authorizing_Party} means {P1.Handle}.
+Role.P1.sec={P1.Handle} has the roles of {UMA.Authorizing_Party} and {UMA.Authorization_Server_Operator}.
 
-Def.ASO.sec={UMA.Authorization_Server_Operator} means {P1.Handle}.
-
-Def.RSO.sec={UMA.Resource_Server_Operator} means {P2.Handle}.
+Role.P2.sec={P2.Handle} has the role of {UMA.Resource_Server_Operator}.
 
 Doc.Title=Key Agreement
 
