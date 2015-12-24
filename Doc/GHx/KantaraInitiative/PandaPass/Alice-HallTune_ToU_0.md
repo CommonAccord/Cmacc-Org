@@ -26,7 +26,7 @@ Note2=<b>Standard part - can be a form:</b>
 
 Secs={Definitions.Sec}<li>{UMA.RSO.Sec}<li>{UMA.ASO.Sec}<li>{UMA.AuthzP.Sec}<li>{Loss.Sec}<li>{Misc.Sec}
 
-Definitions.Sec=<b>Definitions</b>In {this_Agreement}:<ol><li>{Def.AuthzP.sec}<li>{Def.ASO.sec}<li>{Def.RSO.sec}</ol>
+Definitions.Sec=<b>Definitions</b><br>In {this_Agreement}:<ol><li>{Def.AuthzP.sec}<li>{Def.ASO.sec}<li>{Def.RSO.sec}</ol>
 
 Def.AuthzP.sec={UMA.Authorizing_Party} means {P1.Handle}.
 
