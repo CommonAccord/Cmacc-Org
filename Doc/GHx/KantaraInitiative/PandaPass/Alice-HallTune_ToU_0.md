@@ -1,12 +1,38 @@
+Note1=<b>Custom part for this transaction:</b>
+
 P1.=[U/id/Alice]
 
-P1.Handle={UMA.Authorizing_Party} and {UMA.Authorization_Server_Operator}
+P1.Handle=<b>Guest</b>
 
 P2.=[U/id/halltune_inc]
 
-P2.Handle={UMA.Resource_Server_Operator}
+P2.Handle=<b>Hotel</b>
 
-Secs={UMA.RSO.Sec}<li>{UMA.ASO.Sec}<li>{UMA.AuthzP.Sec}<li>{Loss.Sec}<li>{Misc.Sec}
+Recite.secs={P1.Handle} is a guest at {P2.Handle} staying from {Residence.Begin.YMDT} to {Residence.End.YMDT} in room {Room.#}.<br>{P2.Handle} uses an electronic key system for accessing rooms and other facilities and allows guests to use their own authorization systems. (Some services offered incur additional charges.)
+
+Doc.GUID=Alice-HP-12345
+
+EffectiveDate.YMD=2015-12-23
+
+Residence.Begin.YMDT=2015-12-24:18:00:00
+
+Residence.End.YMDT=2015-12-25:12:00:00
+
+Room.#=345
+
+  
+Note2=<b>Standard part - can be a form:</b>
+
+
+Secs={Definitions.Sec}<li>{UMA.RSO.Sec}<li>{UMA.ASO.Sec}<li>{UMA.AuthzP.Sec}<li>{Loss.Sec}<li>{Misc.Sec}
+
+Definitions.Sec=<b>Definitions</b>In {this_Agreement}:<ol><li>{Def.AuthzP.sec}<li>{Def.ASO.sec}<li>{Def.RSO.sec}</ol>
+
+Def.AuthzP.sec={UMA.Authorizing_Party} means {P1.Handle}.
+
+Def.ASO.sec={UMA.Authorization_Server_Operator} means {P1.Handle}.
+
+Def.RSO.sec={UMA.Resource_Server_Operator} means {P2.Handle}.
 
 Doc.Title=Key Agreement
 
