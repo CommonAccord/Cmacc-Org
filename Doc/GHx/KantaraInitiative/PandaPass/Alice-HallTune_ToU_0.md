@@ -22,6 +22,8 @@ Misc.the_Consultant=a party
 
 Misc.the_Client=the other party
 
+Misc.5.sec={Misc.NDA.Entire.Alt1.sec}
+
 Loss.Sec=<b>Loss or Compromise</b><br>{Notice.sec}
 
 Note=Adrian - There are bilateral contracts between the operators of the lock (RSO) Alice as the AS operator (ASO), and Bob as responsible for the key (RqP)  These contracts must all include a provision for 

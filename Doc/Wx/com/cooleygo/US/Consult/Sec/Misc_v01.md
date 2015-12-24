@@ -1,3 +1,5 @@
+Note=The CooleyGo miscellaneous sections for Consulting are largely the same as for NDA.  So we reuse the NDA provisions here.  The "Entire" section is different, and the difference is stated here.
+
 Ti=Miscellaneous
 
 1.=[Wx/com/cooleygo/US/NDA/Sec/Misc_Assign_v01.md]
@@ -24,12 +26,12 @@ P2.the={the_Consultant}
 
 /Note="The Agreement may ...."
 
-NDA.Entire.=[Wx/com/cooleygo/US/NDA/Sec/Misc_Amend_v01.md]
-
-5.sec={NDA.Entire.sec}  The terms of {this_Agreement} will govern all services undertaken by {the_Consultant} for {the_Client}; provided, however, that in the event of any conflict between the terms of {this_Agreement} and any {Project_Assignment}, the terms of the applicable {Project_Assignment} will control.  
+5.sec={NDA.Entire.Alt1.sec}  The terms of {this_Agreement} will govern all services undertaken by {the_Consultant} for {the_Client}; provided, however, that in the event of any conflict between the terms of {this_Agreement} and any {Project_Assignment}, the terms of the applicable {Project_Assignment} will control.  
 
 6.=[Wx/com/cooleygo/US/NDA/Sec/Misc_Amend_v01.md]
 
 7.=[Wx/com/cooleygo/US/NDA/Sec/Misc_Counterparts_v01.md]
 
 =[Z/ol/7]
+
+NDA.Entire.=[Wx/com/cooleygo/US/NDA/Sec/Misc_Entire_v01.md]
