@@ -1,6 +1,7 @@
 <?php
 error_reporting(E_ALL);
 $path = ROOT . '/Doc/';
+ini_set("allow_url_include", true);
 
 $Text_Edit_Window_Size = TEXTEDITWINDOWSIZE ;
 
@@ -14,6 +15,12 @@ if (isset($_REQUEST['file'])) {
 } else {
     $dir = './';
 }
+
+//let each view have access to the file path and name
+
+        $rootdir = pathinfo($dir);
+        $filenameX = basename($dir);
+        $lib_path = LIB_PATH;
 
 
 switch ($_REQUEST['action']) {
@@ -49,8 +56,6 @@ switch ($_REQUEST['action']) {
 
         $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
         $contents = explode("\n", $content);
-        $rootdir = pathinfo($dir);
-        $filenameX = basename($dir);
 
         //source.php includes the formatting for the table that displays the components of a document
         include("./view/source.php");

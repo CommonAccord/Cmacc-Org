@@ -1,7 +1,7 @@
 <span style="line-height: 120%;">
 Much of "the law" is a set of naming conventions for shared ideas. So is the web.<br>
 
-   The top level expressed here is:<ol><li>
+   The top level expressed here is:<ul><li>
 
   "D" for your deals.  You will NOT share these publicly, of course. We use "Dx" here because the examples aren't real deals.<li>
 
@@ -17,10 +17,9 @@ Much of "the law" is a set of naming conventions for shared ideas. So is the web
 
 "W" is intended to denote a www. website.  "Wx" because not official.<li>
 
-"Z" is little bits of infrastructure text.<li>
+"Z" is little bits of infrastructure text.
 
-  "ZZZ" is text that helps define the website."
+</ul>
 
-</ol>
 A place to start might be: <a href="index.php?action=list&file=Dx/Acme/">Acme</a>.
  

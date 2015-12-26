@@ -1,24 +1,12 @@
 <body style="margin:20;padding:0">
-
 <?php
 
-ini_set("allow_url_include", true);
-#include("header.php");
-
-
-/*require('./Code/autoload.php'); */
-ini_set("allow_url_include", true);
-
-$lib_path = LIB_PATH;
+include("header.php");
 
 include("$lib_path/view-tabs.php");
 
-//This displays the path, current file name, and provides the edit and show options //
-
 
 ?>
-</div>
-
 
 
 <div id="tab-source">

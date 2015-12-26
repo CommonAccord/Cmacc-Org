@@ -1,22 +1,16 @@
 <body style="margin:20;padding:0">
 <?php
-/*require('./Code/autoload.php'); */
-ini_set("allow_url_include", true);
-
-
-//This displays the path, current file name, and provides the edit and show options //
-
-$lib_path = LIB_PATH;
 
 include("$lib_path/view-tabs.php");
 
-echo "<hr><br>";
+echo "<hr><hr><br>";
 ?>
 
 
 <?php
 
 $lib_path = LIB_PATH;
+
 $document = `perl $lib_path/parser.pl $path/$dir`;
 
 $minDocLength = 1;

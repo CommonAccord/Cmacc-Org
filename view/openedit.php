@@ -1,16 +1,12 @@
 <body style="margin:20;padding:0">
-
 <?php
 
-ini_set("allow_url_include", true);
-
-$lib_path = LIB_PATH;
-$document = `perl $lib_path/openedit-parser.pl $path/$dir`;
+include("header.php");
 
 include("$lib_path/view-tabs.php");
 
 ?>
-</div>
+
 
 <div id="tab-source">
 
@@ -21,6 +17,7 @@ include("$lib_path/view-tabs.php");
 <div id="tab-edit">
 
 <?php
+
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=120 rows=30 name='newcontent' style='font-size: 16px; padding:10px;'>";
 
