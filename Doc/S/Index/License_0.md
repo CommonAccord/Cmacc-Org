@@ -17,4 +17,9 @@ Ti=License
 
 4.sec=<a href="index.php?action=source&file=Wx/com/ycombinator/Sales/Form/Order_TermsAndConditions_v0.md">Wx/com/ycombinator/Sales/Form/Order_TermsAndConditions_v0.md</a>
 
-=[Z/ol/4]
+
+5.Ti=Library Electronic Rights Agreement
+
+5.sec=<a href="index.php?action=source&file=Wx/edu/crl/liblicense/Model/Form/Form_v14_r15-05_v0.md">Wx/edu/crl/liblicense/Model/Form/Form_v14_r15-05_v0.md</a>
+
+=[Z/ol/5]
