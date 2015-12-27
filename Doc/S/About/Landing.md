@@ -6,7 +6,7 @@ Logo=<img src="File/cmacc-trans.png" style="width:35%" />
 
 Site.Name=CommonAccord.Org
 
-Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td><td>{TwitterBlock.sec}<br><br><b><a href="https://github.com/CommonAccord/Cmacc-Org/commits/master">Latest Activity on GitHub</a></b><br><br>{RecentWork.Sec}</td></tr></table>
+Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td><td>{TwitterBlock.sec}<br><br><b><a href="https://github.com/CommonAccord/Cmacc-Org/commits/master">Latest Activity on GitHub</a></b><br><br>{DocumentsFolder.sec}<br>{SubjectIndex.Sec}<br>{RecentWork.Sec}</td></tr></table>
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
@@ -39,13 +39,15 @@ Technical.sec=The files can also be expressed in <a href="http://www.commonaccor
 
 SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{Views.List.sec}<li>{PageSource.sec}</ul>
 
-DocumentsFolder.sec=Top level <a href="index.php?action=list&file=/">folder of files</a>.
-
 Views.List.sec=Each file on the site has six "views": <a href="index.php?action=source&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">Source</a>.  E.g., click on <a href="index.php?action=doc&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">"Document"</a>.
 
 PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance): <a href="index.php?action=source&file=S/About/Landing.md">Landing Page Source</a>.
   
 DemoDocName=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md
+
+DocumentsFolder.sec=<a href="index.php?action=list&file=/">Top level</a> folder of files.
+
+SubjectIndex.Sec=<a href="index.php?action=list&file=/S/Index">Subject Index</a> of (some) materials.
 
 RecentWork.=[S/About/RecentWork/0.md]
 
