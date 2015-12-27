@@ -39,7 +39,7 @@ H.5.Ti=APPLICATION OF THE PRINCIPLES OF RADIATION PROTECTION
 
 H.5.sec=<div style="background-color:lightgrey;">{Req.1.Sec}</div>
 
-=[Wx/org/iaea/GSR3/Requirement/1_v0.md]
+=[Wx/org/iaea/GSR3/Requirement/1_0.md]
 
 H.6.Ti=RESPONSIBILITIES OF THE GOVERNMENT{Footnote_10}
 

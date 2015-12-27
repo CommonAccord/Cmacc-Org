@@ -18,21 +18,21 @@ Codification.sec=Codification of documents with legal significance can make them
 
 Code-ification.sec={PDS.sec}<li>{OnGitHub.sec}<li> {InfoLinks.sec} <li>{DeCenter.sec}
 
-PDS.sec=Each person can have folders of files that state their legal relationships and transaction histories.  These are private, under their control, handled however they want. They transact by synchronizing new files with partners. Synchronization can be done by git, blockchain, or any other method the parties find satisfactory, including email, Skype, and Slack.
+PDS.sec=P2P enables everyone to have folders of files that state their legal relationships and transaction histories with everyone else.  These are private, under their control, handled however they want. They transact by synchronizing new files with partners. Synchronization can be done by git, blockchain, or any other method the parties find satisfactory, including email, Skype, and Slack.
 
 OnGitHub.sec=All of the text, and the little bit of code that brings it together, is on <a href="http://github.com/CommonAccord/Cmacc-Org">GitHub</a>.
 
 InfoLinks.sec={ParserByPrimavera.sec} {Peer2Peer.sec} {XrayView.sec} {Slashdot.sec} {Technical.sec}
 
-ParserByPrimavera.sec=This website uses a parser done by <a href="https://cyber.law.harvard.edu/people/pdefilippi">Primavera</a>.
+ParserByPrimavera.sec=This website uses a parser done by <a href="https://cyber.law.harvard.edu/people/pdefilippi">Primavera De Filippi of Harvard's Berkman Center</a>.
 
-Peer2Peer.sec=It supports a <a href="index.php?action=doc&file=S/About/Pitch/Support/DRY_Transacting_v0.md">"DRY," peer-to-peer transaction model</a>, including with <a href="http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf">blockchain and UMA (pdf)</a>.  There can be  <a href="http://financialcryptography.com/mt/archives/001556.html">close coupling of "smart contracts" and the text</a>, enabling <a href="http://iang.org/ricardian/">"Ricardian" contracts</a>.
+Peer2Peer.sec=It supports a <a href="index.php?action=doc&file=S/About/Pitch/Support/DRY_Transacting_v0.md">"DRY," peer-to-peer transaction model</a>, including with <a href="http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf">blockchain and UMA (pdf)</a>.  There can be  <a href="http://financialcryptography.com/mt/archives/001556.html">close coupling of "smart contracts" and contract text</a>, enabling <a href="http://iang.org/ricardian/">"Ricardian" contracts</a>.
 
-XrayView.sec=A taste of the "experience" of working this way can be seen  in this <a href="https://www.youtube.com/watch?v=4ZfsyTPYFIA">YouTube video</a>.
+XrayView.sec=A taste of the "experience" can be seen  in this <a href="https://www.youtube.com/watch?v=4ZfsyTPYFIA">YouTube video</a>.
 
-Slashdot.sec=The vision was articulated <a href="http://news.slashdot.org/story/13/07/25/1814255/attorney-jim-hazard-is-working-to-open-source-law-video">in an OSCON interview with Slashdot</a>
+Slashdot.sec=The vision was articulated in an <a href="http://news.slashdot.org/story/13/07/25/1814255/attorney-jim-hazard-is-working-to-open-source-law-video"> OSCON interview with Slashdot</a>
 
-DeCenter.sec=We are working toward a "<a href="index.php?action=doc&file=S/About/Pitch/Support_v0.md">Center for Decentralized Law</a>.  The project is open source. You can contribute: as a lawyer to legal documents, as a coder to our software, as a platform by interfacing with our materials, as a business by using the system, as a benefactor by supporting the effort.  <a href="http://github.com/commonaccord/cmacc-org">Contribute on GitHub</a> or <a href="mailto:commonaccord@gmail.com?Subject=Contact" target="_top">email commonaccord@gmail.com.</a>
+DeCenter.sec=We are working toward a "<a href="index.php?action=doc&file=S/About/Pitch/Support_v0.md">Center for Decentralized Law</a>," a trustee for global legal code.  The project is open source. You can contribute: as a lawyer to legal documents, as a coder to our software, as a platform by interfacing with our materials, as a business by using the system, as a benefactor by supporting the effort.  <a href="http://github.com/commonaccord/cmacc-org">Contribute on GitHub</a> or <a href="mailto:commonaccord@gmail.com?Subject=Contact" target="_top">email commonaccord@gmail.com.</a>
 
 Technical.sec=The files can also be expressed in <a href="http://www.commonaccord.org/index.php?action=json&file=Dx/Acme_FR/04-NDA-From-Quake-FR/Doc_v0.md">JSON</a> or managed as <a href="http://neo4j.com/graphgist/github-HazardJ%2Fgists%2F%2FDoc_Source_Graph.adoc/">graphs</a>.
 
