@@ -47,7 +47,7 @@ DemoDocName=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md
 
 DocumentsFolder.sec=<a href="index.php?action=list&file=/">Top level</a> folder of files.
 
-SubjectIndex.Sec=<a href="index.php?action=list&file=/S/Index">Subject Index</a> of (some) materials.
+SubjectIndex.Sec=<a href="index.php?action=list&file=/S/Index/">Subject Index</a> of (some) materials.
 
 RecentWork.=[S/About/RecentWork/0.md]
 
