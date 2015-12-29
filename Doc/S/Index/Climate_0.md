@@ -12,4 +12,8 @@
 
 3.sec=<a href="index.php?action=source&file=/Wx/org/iaea/GSR3/0.md">Wx/org/iaea/GSR3/0.md</a>
 
+4.Ti=Power Purchase Agreement (old - Bonneville Power Authority)
+
+4.sec=<a href="index.php?action=source&file=Wx/gov/bpa/power/wind/PPA/Form/0.md">Wx/gov/bpa/power/wind/PPA/Form/0.md</a>
+
 =[Z/ol/3]

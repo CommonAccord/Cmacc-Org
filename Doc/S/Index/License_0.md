@@ -22,4 +22,8 @@ Ti=License
 
 5.sec=<a href="index.php?action=source&file=Wx/edu/crl/liblicense/Model/Form/Form_v14_r15-05_v0.md">Wx/edu/crl/liblicense/Model/Form/Form_v14_r15-05_v0.md</a>
 
-=[Z/ol/5]
+6.Ti=NIH model exclusive Patent License
+
+6.sec=<a href="index.php?action=source&file=Wx/gov/nih/ott/License/Patent/Exclusive/Form/_v0.md">Wx/gov/nih/ott/License/Patent/Exclusive/Form/_v0.md</a>
+
+=[Z/ol/6]
