@@ -18,12 +18,14 @@ include("$lib_path/view-tabs.php");
 
 <?php
 
+-$document = `perl $lib_path/openedit-parser.pl $path/$dir`;
+
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=120 rows=30 name='newcontent' style='font-size: 16px; padding:10px;'>";
 
 echo $document;
 
-echo "\nWAS=" . date("Y/m/d") . " : " . time() . "\n\n";
+echo "WAS=" . date("Y/m/d") . " : " . time() . "\n\n\n";
 
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
 
