@@ -18,7 +18,7 @@ Header.North=<center><span style="text-transform: uppercase;">{Case.Forum.Name.F
 
 Header.West={Proponent.sec}<br><br>{Case.Caption.Full}
 
-Header.East=Case No. {Case.Case#}<br>{Case.Title}
+Header.East=Case No. {Case.#}<br>{Case.Title}
 
 Header.South=</i>
 
