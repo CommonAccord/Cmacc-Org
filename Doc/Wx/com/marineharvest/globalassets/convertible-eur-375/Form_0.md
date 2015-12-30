@@ -4,4 +4,6 @@ Summary.=[Wx/com/marineharvest/globalassets/convertible-eur-375/Deal/Summary_0.m
 
 Legal.=[Wx/com/marineharvest/globalassets/convertible-eur-375/Sec/Text_0.md]
 
-Model.Root=<ul type="none"><li>{Intro.sec}<li><div style="text-transform: uppercase">{Summary.Sec}</div><li>{Legal.Sec}</ul>
+=[Wx/com/marineharvest/globalassets/convertible-eur-375/Sec/ParameterizedTerms_0.md]
+
+Model.Root=<ul type="none"><li>{Intro.sec}<li>{Summary.Sec}<li><div style="text-transform:uppercase">{Legal.Sec}</div></ul>
