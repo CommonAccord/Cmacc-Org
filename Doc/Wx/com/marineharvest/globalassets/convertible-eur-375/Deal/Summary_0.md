@@ -1,12 +1,15 @@
+Note=There seems to be something unusual going on in the use of capitalized terms.  They sometimes refer to defined terms (good), sometimes seem to refer to the names of items in the Summary (hmm) and sometimes to things that aren't defined here at all.  Perhaps they are defined elsewhere?
+
+
 Ti=Summary Term Sheet of the Loan Agreement
 
 1.Ti=Issuer 
 
-1.sec=Marine Harvest ASA (the “Issuer”)
+1.sec=Marine Harvest ASA (the “{Issuer}”)
 
 2.Ti=The Bonds
 
-2.sec=Convertible bonds (the “Bonds”), convertible into ordinary shares of the Issuer (the “Shares”)
+2.sec=Convertible bonds (the “{Bonds}”), convertible into ordinary shares of the Issuer (the “{Shares}”)
 
 3.Ti=Status of Bonds
 
@@ -26,7 +29,7 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 7.Ti=Issue Size
 
-7.sec=EUR 375 million (the “Loan”)
+7.sec=EUR 375 million (the “{Loan}”)
 
 8.Ti=Maturity Date
 
@@ -42,7 +45,7 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 11.Ti=Coupon
 
-11.sec=0.875% payable semi-annually in arrear on 6 May and 6 November of each year, commencing on 6 November 2014 (each an “Interest Payment Date”)
+11.sec=0.875% payable semi-annually in arrear on 6 May and 6 November of each year, commencing on 6 November 2014 (each an “{Interest_Payment_Date}”)
 
 12.Ti=Yield to Maturity
 
@@ -80,7 +83,7 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 18.2.0.sec=“Parity Value” means, in respect of any dealing day, the EUR amount calculated as follows:
 
-18.2.1.sec=ܸܲ ൌ ܰ ൈ ܸܹܣܲ
+18.2.1.sec=PV = N x VWAP
 
 18.2.2.0.sec=where:
 
@@ -114,7 +117,7 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 20.2.=[Z/ol-a/s3]
 
-20.3=“Valuation Date” means the date falling three dealing days prior to the Maturity Date.
+20.3.sec=“Valuation Date” means the date falling three dealing days prior to the Maturity Date.
 
 20.4.sec=“Current Value” in respect of a Share on the Valuation Date shall mean 99% of the average of the Volume Weighted Average Price of the Share for the twenty consecutive dealing days ending on the Valuation Date, translated into EUR at the spot rate of exchange prevailing at the close of business on each such dealing day. 
 
@@ -144,7 +147,7 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 24.2.3.0.sec=(ii) convert its Bonds at the Change of Control Conversion Price, as set out below (adjusted to reflect any previous Adjustment to the Conversion Price (if applicable)):
 
-24.2.3.1.sec=ܲ ൌ ሾܴܲ ൈ ሺܰ െ ݊ሻሿ ൅ ሾሺܱܥܲ ൈ ݊ሻሿ ܰ
+24.2.3.1.sec=<table><tr><td>COCCP = </td><td align="center">[RP x (N - n)] + [(OCP x n)]<br><hr>N</td></table>
 
 24.2.3.2.sec=where:
 
