@@ -83,7 +83,13 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 18.Ti=Issuer Call
 
-18.1.sec=The {Issuer} may, on or after 6 June 2017, with a twenty (20) Banking Days notice period, call the remaining part of the {Loan} in cash at its par value plus accrued interest, provided that the {Parity_Value} on each of at least twenty (20) dealing days within a period of thirty (30) consecutive dealing days ending not earlier than the dealing day prior to the date of the redemption notice, have exceeded EUR 130,000. Each {Bondholder} may, within the {Exercise_Period}, elect to exercise its Conversion Right after having received the {Issuer}’s call option notice.
+IssuerCall.YMD=6 June 2017
+
+IssuerCall.Threshold.$=EUR 130,000
+
+IssuerCall.Numerator.$=EUR 100,000
+
+18.1.sec=The {Issuer} may, on or after {IssuerCall.YMD}, with a twenty (20) Banking Days notice period, call the remaining part of the {Loan} in cash at its par value plus accrued interest, provided that the {Parity_Value} on each of at least twenty (20) dealing days within a period of thirty (30) consecutive dealing days ending not earlier than the dealing day prior to the date of the redemption notice, have exceeded {IssuerCall.Threshold.$}. Each {Bondholder} may, within the {Exercise_Period}, elect to exercise its Conversion Right after having received the {Issuer}’s call option notice.
 
 18.2.0.sec=“{Parity_Value}” means, in respect of any dealing day, the EUR amount calculated as follows:
 
@@ -93,7 +99,7 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 18.2.2.1.sec=PV = the {Parity_Value}.
 
-18.2.2.2.sec=N = the number of {Shares} determined by dividing EUR 100,000 by the Conversion Price in effect on such dealing day (rounded down, if necessary, to the nearest whole {Share}).
+18.2.2.2.sec=N = the number of {Shares} determined by dividing {IssuerCall.Numerator.$} by the Conversion Price in effect on such dealing day (rounded down, if necessary, to the nearest whole {Share}).
 
 18.2.2.3.sec=VWAP = the Volume Weighted Average Price of a {Share} on such dealing day (provided that if on any such dealing day the {Shares} shall have been quoted cumDividend or cum-any other entitlement, the closing price on such dealing day shall be deemed to be the amount thereof reduced by an amount equal to the Fair Market Value of any such Dividend or entitlement per {Share} as at the date of first public announcement of such Dividend or entitlement (or, if that is not a dealing day, the immediately preceding dealing day)), translated into EUR at the Prevailing Rate on such dealing day.
 
@@ -204,12 +210,15 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 30.Ti=Governing Law
 
-30.sec=Disputes arising out of or in connection with the Loan Agreement which are not resolved amicably shall be resolved in accordance with Norwegian law and in the Norwegian courts.
+30.sec=Disputes arising out of or in connection with the Loan Agreement which are not resolved amicably shall be resolved in accordance with {Applicable.law} and in the {Dispute.forum}.
+
+Applicable.law=Norwegian law
+
+Dispute.forum=Norwegian courts
 
 31.Ti=Approvals/Permissions
 
 31.sec=The issuance of the {Bonds} is subject to the due execution of all necessary corporate resolutions for the approval and issuance of the {Bonds} and the (loan) documentation in connection therewith by the {Issuer}, including but not limited to the conversion rights and the execution of the Loan Agreement and the due fulfilment of customary conditions precedent.
-
 
 32.Ti=Issuer’s Ownership of Bonds
 
@@ -221,15 +230,21 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 34.Ti=Launch Date
 
-34.sec=24 April 2014
+LaunchDate.YMD=24 April 2014
+
+34.sec={LaunchDate.YMD}
 
 35.Ti=Pricing and Allocations
 
-35.sec=24 April 2014
+PricingAndAllocationsDate.YMD=24 April 2014
+
+35.sec={PricingAndAllocationsDate.YMD}
 
 36.Ti=Settlement / Closing Date
 
-36.sec=Expected on or around 6 May 2014
+Settlement/ClosingDate.YMD=6 May 2014
+
+36.sec=Expected on or around {Settlement/ClosingDate.YMD}
 
 37.Ti=Use of Proceeds
 
@@ -248,7 +263,9 @@ Ti=Summary Term Sheet of the Loan Agreement
 
 40.1.sec=By subscribing for and/or accepting an allocation of {Bonds}, each subscriber (a “{Subscriber}”) irrevocably authorises and instructs the {Managers} to subscribe for the number of {Bonds} allocated to the relevant {Subscriber} in the issuance of the {Bonds} on behalf of the relevant {Subscriber}.
 
-40.2.sec=The {Bonds} will be transferred to the relevant {Subscriber}'s account with the Norwegian Central Securities Depository (Verdipapirsentralen) on the Settlement Date provided that the Loan Trustee has confirmed that all documents required related to the issuance of the {Bonds} have been received.
+SecuritiesDepository.Name=Norwegian Central Securities Depository (Verdipapirsentralen)
+
+40.2.sec=The {Bonds} will be transferred to the relevant {Subscriber}'s account with the {SecuritiesDepository.Name} on the Settlement Date provided that the Loan Trustee has confirmed that all documents required related to the issuance of the {Bonds} have been received.
 
 40.3.sec=The {Bonds} shall be governed by the Loan Agreement, the principal terms and conditions of which are set out herein. Each {Subscriber}, by subscribing for and/or accepting an allocation of {Bonds}, acknowledges having received the principal terms of the {Bonds}. By subscribing for and/or accepting an allocation of {Bonds}, each {Subscriber} irrevocable authorises the Loan Trustee to execute the Loan Agreement on behalf of the relevant {Subscriber}, and each {Subscriber} thereby acknowledges having accepted the Loan Agreement and agrees to be bound by the terms and condition set out therein.
 
