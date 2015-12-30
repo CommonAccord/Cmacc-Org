@@ -1,7 +1,3 @@
-Plead.Attach.Sec={ExhA.Text}
-
-ExhA.=[Wx/gov/uscourts/cand/model-protective-orders/Patent/Exh_A_Agreement_to_be_Bound_v0.md]
-
 Text.Sec=<ol><li>{Purpose.Sec}</li><li>{Def.Sec}</li><li>{Scope.Sec}</li><li>{Duration.Sec}</li><li>{Designate.Sec}</li><li>{Challenge.Sec}</li><li>{Access.Sec}</li><li>{ProsecutionBar.Sec}</li><li>{SourceCode.Sec}</li><li>{OtherLit.Sec}</li><li>{Non-PartyInfo.Sec}</li><li>{Leak.Sec}</li><li>{Spill.Sec}</li><li>{Misc.Sec}</li><li>{FinalDisposition.Sec}</li><ol>
 
 Designate.Sec=<b>DESIGNATING {PROTECTED MATERIAL}</b><br><ol><li>{Designate.WithRestraint.tx}</li><li>{Designate.Manner.tx}</li><li>{Designate.Failure.tx}</li></ol>
@@ -200,7 +196,9 @@ C.1,2,or3.="{Confidential}," "{Highly Confidential - Attorneys' Eyes Only}," or 
 C.3.="{Highly Confidential - Source Code}"
 
 
-Agt2Bind=-
+Agt2Bind=<font color="green">Acknowledgement and Agreement to be Bound</font>
+
+ExhA=<font color="green">Exhibit A</font>
 
 Agt2Bind.ExhA={Agt2Bind} ({ExhA})
 
@@ -314,5 +312,8 @@ Civil Local Rule 79-5(e)=<font color=green>Civil Local Rule 79-5(e)</font>
 
 Civil Local Rule 79-5(e)(2)=<font color=green>Civil Local Rule 79-5(e)(2)</font>
 
+Attach.Sec={ExhA.Doc}
+
+ExhA.=[Wx/gov/uscourts/cand/model-protective-orders/Patent/Exh_A_Agreement_to_be_Bound_v0.md]
 
 =[Law/Out/Form/Litig/Plead/Base_v0.md]

@@ -16,15 +16,15 @@ ThePatent.Filing.Date=April 2, 2010
 
 <b>The Case</b>=-
 
-Case.Forum.Name.Full=United States District Court for the Northern District of California
+Forum.Name.Full=United States District Court for the Northern District of California
 
-Case.Case#=<b>C10 0012</b>
+#=<b>C10 0012</b>
 
-Case.Title=AIII v. SAS
+Title=AIII v. SAS
 
-Case.Complaint.File.MDY=July 5, 2012
+Complaint.File.MDY=July 5, 2012
 
-Case.Court.Jurisd.Abbrev=N.D. Cal.
+Court.Jurisd.Abbrev=N.D. Cal.
 
 Judge1.Name.Full=Hon. Meagan Majeured
 
@@ -50,13 +50,13 @@ Defendant1.Party.EntityType=California Corporation
 
 <b>P1's Law Firm</b>=-
 
-Plaintiff1.Firm.Team={Plaintiff1.Atty.1.N,Bar/Email}<br>{Plaintiff1.Atty.2.N,Bar/Email}
+Plaintiff1.Firm.Team={Plaintiff1.Atty1.N,Bar/Email}<br>{Plaintiff1.Atty2.N,Bar/Email}
 
-Plaintiff1.Atty.1.Name.Full=Charles S. Goodly
+Plaintiff1.Atty1.Name.Full=Charles S. Goodly
 
-Plaintiff1.Atty.1.N,Bar/Email={Plaintiff1.Atty.1.Name.Full} (State Bar No. 12345)<br>csg@delois.com
+Plaintiff1.Atty1.N,Bar/Email={Plaintiff1.Atty1.Name.Full} (State Bar No. 12345)<br>csg@delois.com
 
-Plaintiff1.Atty.2.N,Bar/Email=Chandler Gento (State Bar No. 23456)<br>cg@delois.com
+Plaintiff1.Atty2.N,Bar/Email=Chandler Gento (State Bar No. 23456)<br>cg@delois.com
 
 Plaintiff1.Firm.Name/Address/Telephone/Fax=Delois & Sendar<br>2222 El Camino Real<br>Mountain View, CA 94040<br>Telephone: 650.444.1000<br>Facsimile:  +1.650.444.1001
 
@@ -69,13 +69,13 @@ Default_Field={RFP.Proponent}
 
 <b>P1's Law Firm</b>=-
 
-Defendant1.Firm.Team={Defendant1.Atty.1.N,Bar/Email}<br>{Defendant1.Atty.2.N,Bar/Email}
+Defendant1.Firm.Team={Defendant1.Atty.1.N,Bar/Email}<br>{Defendant1.Atty2.N,Bar/Email}
 
-Defendant1.Atty.1.Name.Full=Albert Alemagne
+Defendant1.Atty1.Name.Full=Albert Alemagne
 
-Defendant1.Atty.1.N,Bar/Email={Defendant1.Atty.1.Name.Full} (State Bar No. 98765)<br>aa@avermore.com
+Defendant1.Atty1.N,Bar/Email={Defendant1.Atty1.Name.Full} (State Bar No. 98765)<br>aa@avermore.com
 
-Defendant1.Atty.2.N,Bar/Email=Elizabeth Eleno (State Bar No. 87654)<br>ee@avermore.com
+Defendant1.Atty2.N,Bar/Email=Elizabeth Eleno (State Bar No. 87654)<br>ee@avermore.com
 
 Defendant1.Firm.Name/Address/Telephone/Fax={Defendant1.Firm.Name}<br>{Defendant1.Firm.Addr.1}<br>{Defendant1.Firm.Addr.2}<br>Telephone: 650.543.2000<br>Fascimile:  +1.650.543.2001
 
@@ -91,6 +91,4 @@ Defendant1.Firm.Addr.1,2={Defendant1.Firm.Addr.1}, {Defendant1.Firm.Addr.2}
 
 Plaintiff1.Party.Name,Entity={Plaintiff1.Party.Name.Full}, {Plaintiff1.Party.EntityType.a}
 
-Defendant1.Party.Name,Entity={Defendant1.Party.Name.Full}, {Defendant1.Party.EntityType.a}  
-
-=[Wx/gov/uscourts/cand/model-protective-orders/Patent/Protect_Order_Library_v0.md]
+Defendant1.Party.Name,Entity={Defendant1.Party.Name.Full}, {Defendant1.Party.EntityType.a}

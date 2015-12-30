@@ -1,20 +1,12 @@
 Header.North={Case.Forum.Name.Full}
 
-Header.West=<span style="text-transform:uppercase">{Plaintiffs.Name.Full}</span> on behalf of themselves and all others similarly situated<br><center>Plaintiffs,</center><br>v.<br><br><span style="text-transform:uppercase">{Defendants.Name.Full}</span><br><center>Defendant.</center>
+Header.West=<span style="text-transform:uppercase">{Case.Plaintiff1.Party.Name.Full}</span> on behalf of themselves and all others similarly situated<br><center>Plaintiffs,</center><br>v.<br><br><span style="text-transform:uppercase">{Case.Defendant1.Party.Name.Full}</span><br><center>Defendant.</center>
 
 Header.East=CASE No. 3:30-cv-2345
 
 Header.South=Settlement Agreement
 
 Sign.Sec=</i>
-
-Plaintiffs.Named={Plaintiffs.Name.Full}
-
-Plaintiffs.Name.Full={Case.Plaintiff1.Party.Name.Full}
-
-Defendant.Name.Full={Case.Defendant1.Party.Name.Full}
-
-Defendants.Name.Full={Case.Defendant1.Party.Name.Full}
 
 ClassMembers.Description=all former employees of Defendant
 
