@@ -2,4 +2,6 @@ Ti=Form
 
 sec=Registered form (registered in the {Registry.Name})
 
-=[Z/ol/0]
+Sec=<b>{Ti}</b><br>{sec}
+
+Model.Root={Sec}

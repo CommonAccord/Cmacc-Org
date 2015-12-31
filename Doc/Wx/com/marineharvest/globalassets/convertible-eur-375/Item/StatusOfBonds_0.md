@@ -2,4 +2,6 @@ Ti=Status of Bonds
 
 sec=Senior unsecured obligations of the {Issuer}
 
-=[Z/ol/0]
+Sec=<b>{Ti}</b><br>{sec}
+
+Model.Root={Sec}
