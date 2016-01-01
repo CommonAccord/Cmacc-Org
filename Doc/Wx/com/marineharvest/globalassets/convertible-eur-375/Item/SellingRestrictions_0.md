@@ -4,6 +4,6 @@ Ti=Selling Restrictions
 
 2.sec=No sale in the US or to investors in Canada, Australia, Japan or South Africa
 
-3.sec=Sales to institutional investors only in Austria, Spain, Germany, France, UK, Netherlands, Norway as per market practice
+3.sec=Sales to institutional investors only in {SellingRestrictions.WhiteListCountries} as per market practice
 
 =[Z/paras/s3]

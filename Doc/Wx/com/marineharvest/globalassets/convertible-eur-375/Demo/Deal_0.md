@@ -6,8 +6,6 @@ Issuer.Name.Full=Marine Harvest ASA
 
 UnderlyingShares.Quantity.#=31.92 million
 
-Registry.Name=Norwegian Registry of Securities
-
 Bonds.Name.Full=<font color="magenta">EUR 375 million Senior Unsecured Convertible Bonds due 2019</font>
 
 Prohibited.Offering.Jurisdictions=<font color="magenta">the U.S. or Canada, Australia, Japan</font>
@@ -52,10 +50,6 @@ IssuerCall.Numerator.$=<font color="magenta">EUR 100,000</font>
 
 Lock-up.DD=90
 
-Applicable.law=Norwegian law
-
-Dispute.forum=Norwegian courts
-
 CrossDefault.Threshold.$=EUR 15 million
 
 LaunchDate.YMD=24 April 2014
@@ -72,8 +66,6 @@ SettlementAgent=Credit Suisse
 
 PayingAndConversionAgent=DNB Bank ASA
 
-SecuritiesDepositary.Name=The Norwegian Central Securities Depository (VPS)
-
 SecurityCodes.ISIN=NO0010710395
 
 CommonCode.#=106342555
@@ -81,5 +73,7 @@ CommonCode.#=106342555
 Joint-Bookrunners.Names=Credit Suisse, Goldman Sachs International
 
 Co-managers.Names=ABN AMRO, BNP Paribas, Deutsche Bank, DNB Markets, Nordea Markets, Rabobank International
+
+=[Wx/com/marineharvest/globalassets/convertible-eur-375/Case/Norway_0.md]
 
 =[Wx/com/marineharvest/globalassets/convertible-eur-375/Form_0.md]
