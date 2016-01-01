@@ -1,5 +1,7 @@
 Note=Some parameters for Norwegian issuances
 
+ReferenceSharePrice.Exchange=<font color="blue">Oslo Stock Exchange</font>
+
 Registry.Name=<font color="blue">Norwegian Registry of Securities</font>
 
 Applicable.law=<font color="blue">Norwegian law</font>

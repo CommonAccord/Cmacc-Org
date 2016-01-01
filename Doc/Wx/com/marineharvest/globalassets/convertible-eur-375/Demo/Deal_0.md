@@ -34,8 +34,6 @@ YieldToMaturity.%=0.875%
 
 ConversionPremium.%=35%
 
-Term.ReferenceSharePrice.sec=<font color="brown">{Term.ReferenceSharePrice.Oslo.sec}</font>
-
 ReferenceSharePrice.$=<font color="magenta">EUR 8.7019</font>
 
 FixedExchangeRate.$/$=NOK 8.2741/ EUR1.00
