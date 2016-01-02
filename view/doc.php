@@ -21,7 +21,7 @@ $document=str_replace("{","<font color='red'>{",$document);
 
 $document=str_replace("}","}</font>",$document);
 
-//kludge to let html headers have formatting.
+//kludge to let html headers have formatting. (ToDo - remove as no longer needed bz of header control?)
 
 $document=str_replace("(Curly-)","{",$document);
 
