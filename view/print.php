@@ -1,5 +1,16 @@
-<body style="margin:40;padding:0">
 <?php
+
+$htmlHead = `perl $lib_path/parser-head.pl $path/$dir`;
+
+if (strlen($htmlHead) > 5){ 
+
+  echo $htmlHead;
+}
+
+ else {
+   echo "<!DOCTYPE html><head><link  href='Doc/Z/CSS/Doc.css' rel='stylesheet' /></head><body>";
+ }
+
 
 $lib_path = LIB_PATH;
 $document = `perl $lib_path/parser-print.pl $path/$dir`;

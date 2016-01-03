@@ -1,6 +1,16 @@
 <?php
 
-echo `perl $lib_path/parser-head.pl $path/$dir`;
+$htmlHead = `perl $lib_path/parser-head.pl $path/$dir`;
+
+if (strlen($htmlHead) > 5){ 
+
+  echo $htmlHead;
+}
+
+ else {
+   echo "<!DOCTYPE html><head><link  href='Doc/Z/CSS/Doc.css' rel='stylesheet' /></head><body>";
+ }
+
 
 include("$lib_path/view-tabs.php");
 
@@ -18,17 +28,9 @@ $document=str_replace("{","<font color='red'>{",$document);
 
 $document=str_replace("}","}</font>",$document);
 
-//kludge to let html headers have formatting. (ToDo - remove as no longer needed bz of header control?)
-
-$document=str_replace("(Curly-)","{",$document);
-
-$document=str_replace("(-Curly)","}",$document);
-
- 
   echo $document;}
  else {
    echo "Nothing to Show";
-
 
 }
 ?>
