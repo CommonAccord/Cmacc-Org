@@ -1,13 +1,10 @@
-<body style="margin:20;padding:0">
 <?php
+
+echo `perl $lib_path/parser-head.pl $path/$dir`;
 
 include("$lib_path/view-tabs.php");
 
 echo "<hr><hr><br>";
-?>
-
-
-<?php
 
 $lib_path = LIB_PATH;
 
