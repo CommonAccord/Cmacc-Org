@@ -78,7 +78,7 @@ Standard_Preferred_Stock=<span class="definedterm">Standard Preferred Stock</spa
 
 Valuation_Cap=<span class="definedterm">Valuation Cap</span>
 
-=[Z/Agt/Out/definedterms_Base.md]
+=[Z/Agt/Out/DefinedTerms_Base.md]
 
 dPageName=Wx/com/ycombinator/SAFE/Sec/YC-Safe_Note_DT.01.md
 
