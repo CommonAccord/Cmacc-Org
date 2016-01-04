@@ -1,5 +1,7 @@
 Doc.Title=NFP Proposal Outline
 
+Head.Message=</i>
+
 0.sec=Date: {EffectiveDate.YMD}
 
 Secs={Executive.Sec}<li>{Overview.Sec}<li>{Meat.Secs}<li>{Budget.Sec}<li>{Background.Sec}
