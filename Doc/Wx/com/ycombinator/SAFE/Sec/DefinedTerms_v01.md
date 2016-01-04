@@ -1,84 +1,84 @@
-Capital_Stock=<font color="green">Capital Stock</font>
+Capital_Stock=<span class="definedterm">Capital Stock</span>
 
-Cash-Out_Investors=<font color="green">Cash-Out Investors</font>
+Cash-Out_Investors=<span class="definedterm">Cash-Out Investors</span>
 
-Change_of_Control=<font color="green">Change of Control</font>
+Change_of_Control=<span class="definedterm">Change of Control</span>
 
-Common_Stock=<font color="green">Common Stock</font>
+Common_Stock=<span class="definedterm">Common Stock</span>
 
-Company=<font color="green">Company</font>
+Company=<span class="definedterm">Company</span>
 
-The_Company=The <font color="green">Company</font>
+The_Company=The <span class="definedterm">Company</span>
 
-the_Company=the <font color="green">Company</font>
+the_Company=the <span class="definedterm">Company</span>
 
-Company_Capitalization=<font color="green">Company Capitalization</font>
+Company_Capitalization=<span class="definedterm">Company Capitalization</span>
 
-Conversion_Price=<font color="green">Conversion Price</font>
+Conversion_Price=<span class="definedterm">Conversion Price</span>
 
-Discount=<font color="green">Discount</font>
+Discount=<span class="definedterm">Discount</span>
 
-Discount_Price=<font color="green">Discount Price</font>
+Discount_Price=<span class="definedterm">Discount Price</span>
 
-Discount_Rate=<font color="green">Discount Rate</font>
+Discount_Rate=<span class="definedterm">Discount Rate</span>
 
-Dissolution_Event=<font color="green">Dissolution Event</font>
+Dissolution_Event=<span class="definedterm">Dissolution Event</span>
 
-Dissolving_Investors=<font color="green">Dissolving Investors</font>
+Dissolving_Investors=<span class="definedterm">Dissolving Investors</span>
 
-Distribution=<font color="green">Distribution</font>
+Distribution=<span class="definedterm">Distribution</span>
 
-Equity_Financing=<font color="green">Equity Financing</font>
+Equity_Financing=<span class="definedterm">Equity Financing</span>
 
-Initial_Public_Offering=<font color="green">Initial Public Offering</font>
+Initial_Public_Offering=<span class="definedterm">Initial Public Offering</span>
 
-Investor=<font color="green">Investor</font>
+Investor=<span class="definedterm">Investor</span>
 
-The_Investor=The <font color="green">Investor</font>
+The_Investor=The <span class="definedterm">Investor</span>
 
-the_Investor=the <font color="green">Investor</font>
+the_Investor=the <span class="definedterm">Investor</span>
 
-This_instrument=This <font color="green">instrument</font>
+This_instrument=This <span class="definedterm">instrument</span>
 
-this_instrument=this <font color="green">instrument</font>
+this_instrument=this <span class="definedterm">instrument</span>
 
-instrument=this <font color="green">instrument</font>
+instrument=this <span class="definedterm">instrument</span>
 
-Liquidity_Capitalization=<font color="green">Liquidity Capitalization</font>
+Liquidity_Capitalization=<span class="definedterm">Liquidity Capitalization</span>
 
-Liquidity_Event=<font color="green">Liquidity Event</font>
+Liquidity_Event=<span class="definedterm">Liquidity Event</span>
 
-Liquidity_Price=<font color="green">Liquidity Price</font>
+Liquidity_Price=<span class="definedterm">Liquidity Price</span>
 
-parties=<font color="green">parties</font>
+parties=<span class="definedterm">parties</span>
 
-party=<font color="green">party</font>
+party=<span class="definedterm">party</span>
 
-Preferred_Stock=<font color="green">Preferred Stock</font>
+Preferred_Stock=<span class="definedterm">Preferred Stock</span>
 
-Pro_Rata_Rights_Agreement=<font color="green">Pro Rata Rights Agreement</font>
+Pro_Rata_Rights_Agreement=<span class="definedterm">Pro Rata Rights Agreement</span>
 
-Purchase_Amount=<font color="green">Purchase Amount</font>
+Purchase_Amount=<span class="definedterm">Purchase Amount</span>
 
-Purchase_Amounts=<font color="green">Purchase Amounts</font>
+Purchase_Amounts=<span class="definedterm">Purchase Amounts</span>
 
-Safe=<font color="green">Safe</font>
+Safe=<span class="definedterm">Safe</span>
 
-Safes=<font color="green">Safes</font>
+Safes=<span class="definedterm">Safes</span>
 
-Safe_Preferred_Stock=<font color="green">Safe Preferred Stock</font>
+Safe_Preferred_Stock=<span class="definedterm">Safe Preferred Stock</span>
 
-Safe_Preferred_Stock=<font color="green">Safe Preferred Stock</font>
+Safe_Preferred_Stock=<span class="definedterm">Safe Preferred Stock</span>
 
-Safe_Price=<font color="green">Safe Price</font>
+Safe_Price=<span class="definedterm">Safe Price</span>
 
-Securities_Act=<font color="green">Securities Act</font>
+Securities_Act=<span class="definedterm">Securities Act</span>
 
-Standard_Preferred_Stock=<font color="green">Standard Preferred Stock</font>
+Standard_Preferred_Stock=<span class="definedterm">Standard Preferred Stock</span>
 
-Valuation_Cap=<font color="green">Valuation Cap</font>
+Valuation_Cap=<span class="definedterm">Valuation Cap</span>
 
-=[Z/Agt/Out/DefinedTerms_Base.md]
+=[Z/Agt/Out/definedterms_Base.md]
 
 dPageName=Wx/com/ycombinator/SAFE/Sec/YC-Safe_Note_DT.01.md
 

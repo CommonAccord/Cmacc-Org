@@ -70,27 +70,27 @@ Misc.=[Wx/com/cooleygo/US/NDA/Sec/Misc_v01.md]
 =[Z/Agt/Out/DefinedTerms_Base.md]
 
 
-Confidential_Information=<font color="green">Confidential Information</font>
+Confidential_Information=<span class="DefinedTerm">Confidential Information</span>
 
-Confidential_Information_of_the_Disclosing_Party=<font color="green">Confidential Information</font> of the {Disclosing_Party}
+Confidential_Information_of_the_Disclosing_Party=<span class="DefinedTerm">Confidential Information</span> of the {Disclosing_Party}
 
-Disclosing_Party=<font color="green">Disclosing Party</font>
+Disclosing_Party=<span class="DefinedTerm">Disclosing Party</span>
 
 The_Disclosing_Party=The {Disclosing_Party}
 
 the_Disclosing_Party=the {Disclosing_Party}
 
-Each_Party=Each <font color="green">Party</font>
+Each_Party=Each <span class="DefinedTerm">Party</span>
 
-each_Party=each <font color="green">Party</font>
+each_Party=each <span class="DefinedTerm">Party</span>
 
-Neither_Party=Neither <font color="green">Party</font>
+Neither_Party=Neither <span class="DefinedTerm">Party</span>
 
-the_other_Party=the other <font color="green">Party</font>
+the_other_Party=the other <span class="DefinedTerm">Party</span>
 
-Permitted_Use=<font color="green">Permitted Use</font>
+Permitted_Use=<span class="DefinedTerm">Permitted Use</span>
 
-Receiving_Party=<font color="green">Receiving Party</font>
+Receiving_Party=<span class="DefinedTerm">Receiving Party</span>
 
 The_Receiving_Party=The {Receiving_Party}
 

@@ -35,10 +35,10 @@ Def.Personal_Information.sec="{Personal_Information.sec}" means any and all info
 
 P1.Handle={Principal}
 
-Principal=<font color="green">Principal</font>
+Principal=<span class="DefinedTerm">Principal</span>
 
-P1/1.Handle=<font color="green">Resource Owner</font>
+P1/1.Handle=<span class="DefinedTerm">Resource Owner</span>
 
-P2.Handle=<font color="green">Trusted Agent</font>
+P2.Handle=<span class="DefinedTerm">Trusted Agent</span>
 
-Personal_Information=<font color="green">Personal Information</font>
+Personal_Information=<span class="DefinedTerm">Personal Information</span>

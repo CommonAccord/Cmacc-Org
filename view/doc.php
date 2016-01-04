@@ -14,7 +14,6 @@ if (strlen($htmlHead) > 5){
 
 include("$lib_path/view-tabs.php");
 
-echo "<hr><hr><br>";
 
 $lib_path = LIB_PATH;
 

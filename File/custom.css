@@ -94,7 +94,6 @@ h4
 	/*  Define the background color for all the EVEN background rows  */
 	.TFtable tr:nth-child(even){
 	}
-	.TFtable tr a { color: steelblue; }
 
 
 

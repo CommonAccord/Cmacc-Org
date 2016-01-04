@@ -17,5 +17,5 @@ echo "<a href=" . URLFORDOCSINREPO . $dir.">GitHub</a> &emsp; ";
 
 echo "<a href=" . URLFORREPO . "/search?utf8=✓&q=" .$dir. ">Used By</a>";
 
-
+echo "<hr>"
 ?>

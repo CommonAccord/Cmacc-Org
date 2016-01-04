@@ -1,11 +1,14 @@
 .token {
 	color: maroon ;
+        text-decoration: none;
 }  
 
 .person {
 	color: #4B2503 ;
+        text-decoration: none;
 }  
 
 .definedterm {
 	color: green ;
+        text-decoration: none;
 }

@@ -5,7 +5,7 @@ include("header.php");
 
 include("$lib_path/view-tabs.php");
 
-echo "<div class='container'><div id='tabs'><ul><li><a href='#tab-source'>Source</a></li></ul><div id='tab-render'></div><div id='tab-source'> <table class='TFtable';>";
+echo "<div class='container'><h4>Source:</h4><table class='TFtable';>";
 foreach($contents as $n) {
         list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
 

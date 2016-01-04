@@ -12,15 +12,15 @@ Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
 Introduction.sec=<b>Overview:</b><ul><li>{CmAQuick.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
-CmAQuick.sec=CommonAccord is an initiative to create a global code of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We "code-ify" them, treat them as files of plain text, organized in folders and shared on GitHub, like source code.  The shared materials can be iterated and will converge to form online legal codes of transacting.  These will be used in "object models" for transacting. 
+CmAQuick.sec=CommonAccord is an initiative to create a global code of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We "code-ify" them by treating them like software source code - files of text, organized in folders and shared on GitHub.  Code-ifying is not hard or complicated, and the infrastructure is robust, public, and free.  The shared materials can be iterated and will converge to form online legal codes of transacting.  These will be used in "object models" for transacting. 
 
-Codification.sec=Codification of documents with legal significance can make them transparent, well-understood, and continuously improving.  It can demystify law and encourage <a href="http://p2pfoundation.net/Common_Accord">P2P autonomy</a>.
+Codification.sec=Codification of legal form documents can make them transparent, well-understood, and continuously improving.  It can demystify law and encourage <a href="http://p2pfoundation.net/Common_Accord">peer-based governance and autonomy</a>.
 
 Code-ification.sec={PDS.sec}<li>{Synchronization.sec}<li>{OnGitHub.sec}<li> {InfoLinks.sec} <li>{DeCenter.sec}
 
-PDS.sec=This enables everyone to have folders of files that state their legal relationships and transaction histories with everyone else, private, under their control, handled however they want. 
+PDS.sec=Each participant has their own files that state their legal relationships and transaction histories with each of their partners.  The files are private, under their control, shared and handled exactly as they want. 
 
-Synchronization.sec=Participants transact by synchronizing files with partners. Synchronization can be done by git, blockchain, or any other method the parties find satisfactory.  Blockchain is a particularly important fit.  Blockchain "smart contracts" can automate routine transaction functions while the legal text provides a frame for legal enforceability. 
+Synchronization.sec=Participants transact by synchronizing files with partners. Synchronization can be done by git, blockchain, or any other method that the parties find satisfactory.  <a href="http://www.linuxfoundation.org/news-media/announcements/2015/12/linux-foundation-unites-industry-leaders-advance-blockchain">Blockchain is a particularly important fit.</a>  Blockchain "smart contracts" can automate routine transaction functions while the legal text provides a frame for legal enforceability. 
 
 OnGitHub.sec=All of the text, and the little bit of code that brings it together, is on <a href="http://github.com/CommonAccord/Cmacc-Org">GitHub</a>.
 

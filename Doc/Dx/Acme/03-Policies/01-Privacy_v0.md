@@ -1,4 +1,4 @@
-P1.Handle=<font color="green">Acme</font>
+P1.Handle=<span class="DefinedTerm">Acme</span>
 
 P1.=[U/id/acme_incorporated]
 
