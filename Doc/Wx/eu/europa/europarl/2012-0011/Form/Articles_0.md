@@ -44,4 +44,26 @@
 
 23.=[Wx/eu/europa/europarl/2012-0011/Article/23_v0.md]
 
-=[Z/ol/23]
+24.=[Wx/eu/europa/europarl/2012-0011/Article/24_v0.md]
+
+25.=[Wx/eu/europa/europarl/2012-0011/Article/25_v0.md]
+
+26.=[Wx/eu/europa/europarl/2012-0011/Article/26_v0.md]
+
+27.=[Wx/eu/europa/europarl/2012-0011/Article/27_v0.md]
+
+28.=[Wx/eu/europa/europarl/2012-0011/Article/28_v0.md]
+
+29.=[Wx/eu/europa/europarl/2012-0011/Article/29_v0.md]
+
+30.=[Wx/eu/europa/europarl/2012-0011/Article/30_v0.md]
+
+31.=[Wx/eu/europa/europarl/2012-0011/Article/31_v0.md]
+
+32.=[Wx/eu/europa/europarl/2012-0011/Article/32_v0.md]
+
+33.=[Wx/eu/europa/europarl/2012-0011/Article/33_v0.md]
+
+34.=[Wx/eu/europa/europarl/2012-0011/Article/34_v0.md]
+
+=[Z/ol/34]
