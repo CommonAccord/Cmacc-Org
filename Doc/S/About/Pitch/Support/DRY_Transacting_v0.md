@@ -18,7 +18,9 @@ Note=Discuss:
  
 8.sec=The permissions, requests, and receipts for access can be handled like other transactions in the system - each is a transaction stored in the participants' {PDSs}, and subject to agreement regarding discarding.
 
-=[Z/ol/s8]
+9.sec=See, e.g., <a href="http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf">http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf</a>
+
+=[Z/ol/s9]
 
 
 Def.PDS={PDS} means a collection of information, organized as files or a database, which contain information about a person (natural, legal or role).  
@@ -26,26 +28,27 @@ Def.PDS={PDS} means a collection of information, organized as files or a databas
 Def.Cmacc={Cmacc} is lists of key/values, where the content of the values is either i) a string of html text, ii) the identifier of another list, or iii) other content (thereby associated with the "object" that the list represents).  A {Cmacc} document is the result of rendering a list, where one starts with a single key (by default "Model.Root") and expands any {expression}s in the value.  The exansion is based on the "first" matching key, where the key is found by scanning the list (from top to bottom) and then any other lists referenced in the list, recursively, depth-first.  (Details for "prefixing" and "deprefixing.")
 
 Def.DRY={DRY} means <a href="https://en.wikipedia.org/wiki/Don%27t_repeat_yourself">don't repeat yourself</a>.  It is a method for improving consistency and reliability in a system.  In a data environment, it is a way to reduce vulnerability from promiscuous creation of needless versions of information. 
-DRY=<font color="green">DRY</font>
 
-Cmacc=<font color="green">Cmacc</font>
+DRY=<span class="definedterm">DRY</span>
 
-CDL=<font color="green">Center for Distributed Law</font>
+Cmacc=<span class="definedterm">Cmacc</span>
 
-List=<font color="green">List</font>
+CDL=<span class="definedterm">Center for Distributed Law</span>
 
-Lists=<font color="green">Lists</font>
+List=<span class="definedterm">List</span>
 
-list=<font color="green">list</font>
+Lists=<span class="definedterm">Lists</span>
 
-lists=<font color="green">lists</font>
+list=<span class="definedterm">list</span>
 
-PDSs=<font color="green">Personal Data Stores</font>
+lists=<span class="definedterm">lists</span>
 
-PDS=<font color="green">Personal Data Store</font>
+PDSs=<span class="definedterm">Personal Data Stores</span>
 
-P2P=<font color="green">Peer-to-Peer</font>
+PDS=<span class="definedterm">Personal Data Store</span>
 
-P2p=<font color="green">Peer-to-peer</font>
+P2P=<span class="definedterm">Peer-to-Peer</span>
 
-p2p=<font color="green">peer-to-peer</font>
+P2p=<span class="definedterm">Peer-to-peer</span>
+
+p2p=<span class="definedterm">peer-to-peer</span>
