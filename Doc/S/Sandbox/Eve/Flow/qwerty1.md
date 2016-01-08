@@ -2,7 +2,7 @@ Doc.GUID=qwerty1.md
 
 EffectiveDate.YMD=2016-01-07:h07m15s23
 
-P1.=[U/id/alice]
+P1.=[U/id/Alice]
 
 P2.=[U/id/agate_health_systems]
 
