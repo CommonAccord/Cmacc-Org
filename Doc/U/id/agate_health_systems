@@ -20,8 +20,6 @@ Privacy.Email=privacy@{Domain.Com}
 
 State={Addr.State}
 
-Handle=Agate
-
 App=HealthApp
 
 Network=HealNet

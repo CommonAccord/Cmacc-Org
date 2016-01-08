@@ -28,6 +28,8 @@ Parties.List.1-5={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}
 
 Parties.List.1-6={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}<li>{P6.sec}
 
+Parties.List.1,2={P1.sec}<li>{P2.sec}
+
 Parties.List.1,3={P1.sec}<li>{P3.sec}
 
 Parties.List.2,3={P2.sec}<li>{P3.sec}

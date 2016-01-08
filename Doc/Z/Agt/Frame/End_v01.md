@@ -25,6 +25,8 @@ Sign.List.1-5=<table><tr>{P1.Sign.td}<td width="100px"></td>{P2.Sign.td}</tr><tr
 
 Sign.List.1-6=<table><tr><td valign="top" width="300px">{P1.Sign.Block}</td><td width="100px"></td><td valign="top" width="300px">{P2.Sign.Block}</td></tr><tr><td valign="top" width="300px">{P3.Sign.Block}</td><td></td><td valign="top" width="300px">{P4.Sign.Block}</td></tr><tr><td valign="top" width="300px">{P5.Sign.Block}</td><td></td><td valign="top" width="300px">{P6.Sign.Block}</td></tr></table>
 
+Sign.List.1,2=<table><tr><td valign="top" width="300px">{P1.Sign.Block}</td><td width="100px"></td><td valign="top" width="300px">{P2.Sign.Block}</td></tr></table>
+
 Sign.List.1,3=<table><tr><td valign="top" width="300px">{P1.Sign.Block}</td><td width="100px"></td><td valign="top" width="300px">{P3.Sign.Block}</td></tr></table>
 
 Sign.List.1,4=<table><tr><td valign="top" width="300px">{P1.Sign.Block}</td><td width="100px"></td><td valign="top" width="300px">{P4.Sign.Block}</td></tr></table>
