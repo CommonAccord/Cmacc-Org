@@ -6,7 +6,7 @@ Meat.Secs={Legal.Sec}<li>{Technical.Sec}<li>{Organization.Sec}
 
 Executive.sec={CmA.Quick.sec}<br>{Goal.sec}
 
-CmA.Quick.sec=CommonAccord is legal text codified and "code-ified," like software source code. Objects, plain text, git, collaboration.   Legal code-ification is part of the transition to open source, peer-based transacting such as blockchain, and decentralized governance.  
+CmA.Quick.sec=CommonAccord is legal text codified and "code-ified," like software source code. Objects, plain text, git, collaboration.   Legal code-ification is part of the transition to open source, peer-based transacting such as blockchain and decentralized governance.  
 
 Goal.sec=The goal of this first stage would be codification of some important areas of legal transacting and a plan for a foundation that would hold text for the benefit of the public.
 

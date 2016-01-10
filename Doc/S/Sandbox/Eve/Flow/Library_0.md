@@ -1,4 +1,4 @@
-RPT.Request.Sec=<b>Desired Access</b><ol><li>{UMA.Resource_Server} Name:<br>{RS.Name}<li><b>Data:</b><br>{DataDescription.sec}<li>Time:</b><ol><li><b>Beginning:</b><br>{Period.Begin.YMD}<li><b>Ending:</b><br>{Period.End.YMD}</ol><li><b>Purpose:</b><br>{Purpose.cl}<li><b>The information obtained will be deleted no later than:</b>{Erase.YMD}</ol>
+RPT.Request.Sec=<b>Desired Access</b><ol><li><b>{UMA.Resource_Server_Operator} Name:</b><br>{RS.Name}<li><b>Database Name:</b><br>{Data.Title}<li><b>Data:</b><br>{DataDescription.sec}<li><b>Time:</b><ol><li><b>Beginning:</b><br>{Period.Begin.YMD}<li><b>Ending:</b><br>{Period.End.YMD}</ol><li><b>Purpose:</b><br>{Purpose.cl}<li><b>The information obtained will be deleted no later than:</b><br>{Erase.YMD}</ol>
 
 Note=Basics
 
