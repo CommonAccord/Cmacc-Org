@@ -28,9 +28,16 @@ Some error-handling - notably - a list (file) is not found, or references of key
 
 Presentation in the current "views" of Doc and Print, and also in an Xray view. (For Xray, a video and precedent code are available, it is similar to the Doc view but requires care in keeping track of which list a key/value came from.)  The Xray view should be customizable by, for instance different presentation (CSS) of values from a particular list or from a particular time period, author, etc. 
 
-3. Edit with a number of functions - i) override a key/value by creating a new one and saving the result as a new list that references the existing one ii) include a new list, iii) comment or curate lists and key/values, iv) radio buttons of a collection of possible key/values (from search) saving the result as a key/value in a new list (the goal is that _all_ elements that result in a view are persisted as new lists of key/values).
+4. Edit with a number of functions - i) override a key/value by creating a new one and saving the result as a new list that references the existing one ii) include a new list, iii) comment or curate lists and key/values, iv) radio buttons of a collection of possible key/values (from search) saving the result as a key/value in a new list (the goal is that _all_ elements that result in a view are persisted as new lists of key/values).
 
-4.  Search and reporting functions.  The result of queries for, e.g.: 1) from a list, provide a listing of includable keys, with filtering by various criteria, 2) from a specified list, all lists which reference the specified list (and recursively lists which reference those lists) with possibility of filtering, 3) a list of all the key/values that are actually used in document (this "flattening" of the list-inclusions can be useful for a counterparty to easily propose modifications and to maintain confidentiality of the object model when dealing with a partner). 
+5.  Search and reporting functions.  The result of queries for, e.g.: 1) from a list, provide a listing of includable keys, with filtering by various criteria, 2) from a specified list, all lists which reference the specified list (and recursively lists which reference those lists) with possibility of filtering, 3) a list of all the key/values that are actually used in document (this "flattening" of the list-inclusions can be useful for a counterparty to easily propose modifications and to maintain confidentiality of the object model when dealing with a partner). 
 
-5. Sharing parts of the database by access, and possibility of export of parts.
+6. Sharing parts of the database by access, and possibility of export of parts.
+
+Link(s):
+
+http://neo4j.com/graphgist/github-HazardJ%2Fgists%2F%2FDoc_Source_Graph.adoc/
+
+
+
 
