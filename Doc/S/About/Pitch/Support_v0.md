@@ -1,6 +1,6 @@
 Doc.Title=CommonAccord - Center for Decentralized Law
 
-EffectiveDate.YMD=January 4, 2016
+EffectiveDate.YMD=January 12, 2016
 
 Meat.Secs={Legal.Sec}<li>{Technical.Sec}<li>{Organization.Sec}
 

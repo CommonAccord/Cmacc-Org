@@ -1,13 +1,13 @@
 Note=Some parameters for Norwegian issuances
 
-ReferenceSharePrice.Exchange=<font color="blue">Oslo Stock Exchange</font>
+ReferenceSharePrice.Exchange=<span class="jurisdiction">Oslo Stock Exchange</span>
 
-Registry.Name=<font color="blue">Norwegian Registry of Securities</font>
+Registry.Name=<span class="jurisdiction">Norwegian Registry of Securities</span>
 
-Applicable.law=<font color="blue">Norwegian law</font>
+Applicable.law=<span class="jurisdiction">Norwegian law</span>
 
-Dispute.forum=<font color="blue">Norwegian courts</font>
+Dispute.forum=<span class="jurisdiction">Norwegian courts</span>
 
-SecuritiesDepositary.Name=<font color="blue">Norwegian Central Securities Depository (VPS)</font>
+SecuritiesDepositary.Name=<span class="jurisdiction">Norwegian Central Securities Depository (VPS)</span>
 
-SellingRestrictions.WhiteListCountries=<font color="blue">Austria, Spain, Germany, France, UK, Netherlands, Norway</font>
+SellingRestrictions.WhiteListCountries=<span class="jurisdiction">Austria, Spain, Germany, France, UK, Netherlands, Norway</span>
