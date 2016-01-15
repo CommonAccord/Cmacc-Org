@@ -6,7 +6,7 @@ ValuationCap.$=$2,000,000
 
 Discount.%=8%
 
-Law.State.the=the State of California
+Law.=[U/at/US/CA/Geo]
 
 Company.=[U/id/acme_incorporated]
 

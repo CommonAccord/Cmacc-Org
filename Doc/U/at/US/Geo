@@ -4,5 +4,8 @@ Addr.Nation=United States of America
 
 Addr.UK=USA
 
+State.the=the {State/Commonwealth} {Addr.State}
 
-			
+Note=Set a default - only exceptions are MA, PA and VA, right?  And "District" of Columbia.
+
+State/Commonwealth=State
