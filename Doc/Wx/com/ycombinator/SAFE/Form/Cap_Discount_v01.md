@@ -20,6 +20,8 @@ Investor.Handle={Investor}
 
 =[Z/ol/0]
 
+=[Wx/com/ycombinator/SAFE/Sec/DefinedTerms_v01.md]
+
 Event.Xnum=1
 
 Def.Xnum=2
@@ -29,7 +31,5 @@ cRep.Xnum=3
 iRep.Xnum=4
 
 Misc.Xnum=5
-
-=[Wx/com/ycombinator/SAFE/Sec/DefinedTerms_v01.md]
 
 Ti=</i>
