@@ -24,7 +24,7 @@ Ti=CANADA
 
 6.Ti=ACCURACY
 
-6.sec=Personal information shall be as accurate, complete, and up-­‐t0-­‐date as is necessary for the purposes for which it is to be used.
+6.sec=Personal information shall be as accurate, complete, and up-­to­-date as is necessary for the purposes for which it is to be used.
  
 7.Ti=SAFEGUARDS
 
