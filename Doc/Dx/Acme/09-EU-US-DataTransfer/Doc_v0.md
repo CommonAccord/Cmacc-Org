@@ -2,17 +2,11 @@ NOTE=This is a master data sheet.  It is used when the various European subs mak
 
 NOTE=SECURITY REGIME:
 
-SecurityRegime.=[GH/FutureCommerce/StandardLaw/MBP/Form/Doc_v0.md]
-
 DIO.SecurityMeasures=<font color="orange">{SecurityRegime.Sec}</font>
 
 Audit.Time.Interval=Bimonthly
-
-Audit.Organization.=[U/id/solomon_shirley]
  
 Note1=No info about the DEO because that will be provided by the sub.
-
-DIO.=[U/id/acme_incorporated]
 
 NOTE=We select a hypothetical UK version of the Model Clauses (Member Countries may add protections.)
 
@@ -35,3 +29,9 @@ PD.SpecialCategoriesOfData=Medical histories.
 PD.BasicProcessingActivities=Schedule management, warranty status and fulfillment.
 
 PersonnelPolicy.Link=<a href="www.acme.com/links/personnelpolicy.html">www.acme.com/links/personnelpolicy.html</a>
+
+Audit.Organization.=[U/id/solomon_shirley]
+
+SecurityRegime.=[GH/FutureCommerce/StandardLaw/MBP/Form/Doc_v0.md]
+
+DIO.=[U/id/acme_incorporated]
