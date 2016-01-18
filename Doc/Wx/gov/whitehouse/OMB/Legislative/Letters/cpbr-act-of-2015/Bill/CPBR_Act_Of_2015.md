@@ -1,5 +1,7 @@
 Doc.Title=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
+DocBody={Doc}
+
 0.Ti=Bill
 
 0.sec=To establish baseline protections for individual privacy in the commercial arena and to foster timely, flexible implementations of these protections through enforceable codes of conduct developed by diverse stakeholders.

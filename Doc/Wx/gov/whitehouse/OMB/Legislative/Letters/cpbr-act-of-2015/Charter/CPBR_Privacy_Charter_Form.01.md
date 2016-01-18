@@ -1,14 +1,12 @@
-Act.=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015.md]
+Org.Name.Full=<span class="person">Public Privacy Partners, Ltd.</span>
 
-Org.Name.Full=<font color="green">Public Privacy Partners, Ltd.</font>
-
-Org.Handle=<font color="green">PPPL</font>
+Org.Handle=<span class="person">PPPL</span>
 
 Doc.Title={P1.Name.Full} Privacy Policy
 
 Charter.Link=<a href="http://github.com/CommonAccord/Cmacc-Org/tree/master/Doc/Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md">github.com/CommonAccord/Cmacc-Org/tree/master/Doc/Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md</a>
 
-P1.Handle=<font color="green">Member Company</font>
+P1.Handle=<span class="person">Member Company</span>
 
 0.1.sec=To assure the protection of the {personal_data} of {P1.Handle}'s users, {P1.Handle} has adopted a {Doc.Title}.
 
@@ -16,13 +14,9 @@ P1.Handle=<font color="green">Member Company</font>
 
 0.3.sec=The {Doc.Title} is presented so that you can see {P1.Handle}'s policy, but you can also click to see precisely the differences between our policy and the {Charter}, and you can see the way the {Charter}'s provisions correspond to the requirements of {the_Act}.  By clicking to see the {Charter}, you will also be able to see the comments and ratings collected by {Org.Handle} and to see how other members of {Org.Handle} use the {Charter}. 
 
-0.=[Z/Sec/s3]
+0.=[Z/paras/s3]
 
-0.Sec={0.blist}
-
-Note=Making specific terms such as "covered entity".  (Doing it for each of the Definitions and Title 1.  This could be simplified.)
- 
-4.=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Format.01.md]
+0.Ti=</i>
 
 4.2.Sec="{P1.Handle}" means {P1.N,E,A}.
 
@@ -32,8 +26,6 @@ Title.1.3.Secs={Title.1.3.1.Sec}<li>{Title.1.3.2.Sec}<li>{Title.1.3.3.Sec}<li>{T
 
 Title.1.=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Format.01.md]
 
-
-=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015.md]
 
 Secs={4.Sec}<li>{Title.1.1.Sec}<li>{Title.1.2.Sec}<li>{Title.1.3.Sec}<li>{Title.1.4.Sec}<li>{Title.1.5.Sec}<li>{Title.1.6.Sec}<li>{Title.1.7.Sec}
 
@@ -54,10 +46,16 @@ Title.1.6.4.sec={P1.Handle} is an entity subject to Fair Credit Reporting Act (1
 
 90.Sec=See {Charter.Link}.
 
-FCRA=<font color="green">FCRA</font>
+FCRA=<span class="definedterm">FCRA</span>
 
-Charter=<font color="green">Charter</font>
+Charter=<span class="definedterm">Charter</span>
 
-PageName=Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md
+
+4.=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Format.01.md]
+
+Act.=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015.md]
+Note=Making specific terms such as "covered entity".  (Doing it for each of the Definitions and Title 1.  This could be simplified.)
+
+=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015.md]
 
   

@@ -1,4 +1,4 @@
-DocBody=<!DOCTYPE html><html><head><title>(Curly-)PageName(-Curly)</title><style>ol (Curly-)list-style-type: decimal;(-Curly) ol ol (Curly-)list-style-type: lower-alpha;(-Curly) ol ol ol (Curly-)list-style-type: decimal;(-Curly) ol ol ol ol (Curly-)list-style-type: upper-alpha;(-Curly) ol ol ol ol ol (Curly-)list-style-type: lower-roman;(-Curly) ol ol ol ol ol ol (Curly-)list-style-type: upper-roman;(-Curly) ol ol ol ol ol ol ol (Curly-)list-style-type: lower-alpha;(-Curly)</style></head><body>{Doc}
+Html.Head=<!DOCTYPE html><html><head><title>{PageName}</title><style>ol {list-style-type: decimal;} ol ol {list-style-type: lower-alpha;} ol ol ol {list-style-type: decimal;} ol ol ol ol {list-style-type: upper-alpha;} ol ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol ol {list-style-type: upper-roman;} ol ol ol ol ol ol ol {list-style-type: lower-alpha;}</style></head>
 
 d-=<font color="green">
 
