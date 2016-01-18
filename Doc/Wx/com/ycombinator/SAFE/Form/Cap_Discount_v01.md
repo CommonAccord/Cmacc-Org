@@ -1,26 +1,10 @@
-0.=[Wx/com/ycombinator/SAFE/Sec/Intro_v01.md]
+Model.Root={Intro.Sec}<ol><li>{Event.Sec}<li>{Def.Sec}<li>{cRep.Sec}<li>{iRep.Sec}<li>{Misc.Sec}</ol>{Sign.Sec}
 
-Secs={Event.Sec}<li>{Def.Sec}<li>{cRep.Sec}<li>{iRep.Sec}<li>{Misc.Sec}
-
-Event.=[Wx/com/ycombinator/SAFE/Sec/Event_v02.md]
-
-Def.=[Wx/com/ycombinator/SAFE/Sec/Def_v01.md]
-
-cRep.=[Wx/com/ycombinator/SAFE/Sec/cRep_v02.md]
-
-iRep.=[Wx/com/ycombinator/SAFE/Sec/iRep_v02.md]
-
-Misc.=[Wx/com/ycombinator/SAFE/Sec/Misc_v02.md]
-
-90.Sec=IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.<br><br>{Company.Sign.Block}<br><br>{Investor.Sign.Block}
+Sign.Sec=IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.<br><br>{Company.Sign.Block}<br><br>{Investor.Sign.Block}
   
 Company.Handle={Company}
 
 Investor.Handle={Investor}
-
-=[Z/ol/0]
-
-=[Wx/com/ycombinator/SAFE/Sec/DefinedTerms_v01.md]
 
 Event.Xnum=1
 
@@ -33,3 +17,19 @@ iRep.Xnum=4
 Misc.Xnum=5
 
 Ti=</i>
+
+Intro.=[Wx/com/ycombinator/SAFE/Sec/Intro_v01.md]
+
+Event.=[Wx/com/ycombinator/SAFE/Sec/Event_v02.md]
+
+Def.=[Wx/com/ycombinator/SAFE/Sec/Def_v01.md]
+
+cRep.=[Wx/com/ycombinator/SAFE/Sec/cRep_v02.md]
+
+iRep.=[Wx/com/ycombinator/SAFE/Sec/iRep_v02.md]
+
+Misc.=[Wx/com/ycombinator/SAFE/Sec/Misc_v02.md]
+
+=[Wx/com/ycombinator/SAFE/Sec/DefinedTerms_v01.md]
+
+=[Z/ol/0]

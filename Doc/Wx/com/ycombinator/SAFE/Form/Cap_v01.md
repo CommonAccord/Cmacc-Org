@@ -2,7 +2,7 @@ Note=Safe Cap, No Discount
 
 Note=Removing Discount Rate
 
-0.5.Sec=<b></b>
+Intro.5.Sec=</i>
 
 Note=Number of shares calculation
 

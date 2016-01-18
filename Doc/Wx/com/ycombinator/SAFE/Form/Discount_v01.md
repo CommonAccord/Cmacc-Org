@@ -2,7 +2,7 @@ Note=Safe Discount, No Cap
 
 Note=Removing Cap
 
-0.4.Sec=<b></b>
+Intro.4.Sec=</i>
 
 Note=Number of shares calculation
 

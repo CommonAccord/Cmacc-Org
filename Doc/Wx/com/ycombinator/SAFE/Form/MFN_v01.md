@@ -2,7 +2,7 @@ Note=Safe MFN
 
 Note=Removing both definitions and reference to other definitions
 
-0.secs={0.1.Sec}<br><br>{0.2.Sec}<br><br>{0.3.Sec}
+Intro.secs={Intro.1.Sec}<br><br>{Intro.2.Sec}<br><br>{Intro.3.Sec}
 
 Note="Preferred Stock" is used, but not defined!!
 
