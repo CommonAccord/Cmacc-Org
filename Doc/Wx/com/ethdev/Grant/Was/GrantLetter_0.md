@@ -1,4 +1,4 @@
-Ti=Private and Confidential  ÐΞVgrant Scheme – Offer Letter
+Doc.Title=Private and Confidential  ÐΞVgrant Scheme – Offer Letter
 
 0.sec=Further to your application dated {Application.Date.YMD}, we are pleased to offer you a DEVgrant in the sum of {Pay.Total.$} in order to support the project described in your application (the DEVgrant​). This Letter sets out the terms and conditions of the DEVgrant Scheme (the Scheme​), and our offer of the DEVgrant is conditional upon your acceptance of these terms and conditions. Please read this Letter carefully, and, if you wish to accept the DEVgrant, please sign and return to us the enclosed copy of the Letter.
 
@@ -42,24 +42,25 @@ Ti=Private and Confidential  ÐΞVgrant Scheme – Offer Letter
 
 90.4.sec=Signed: {P2.xSignature} Dated {P2.Sign.YMD}
 
-90.5.sec=<hr><hr>{Attach.Sec}
+90.5.sec=<hr><hr>{Attach.sec}
 
-90.=[Z/ol-none/s5]
+90.=[Z/paras/s5]
 
 90.Sec={90.sec}
 
 =[Z/ol-none/4]
 
-Attach.1.Ti=Appendix 1 – The Project
+DocBody={Doc}
 
-Attach.2.Ti=Appendix 2
+Attach.1.Ti=Appendix 1 - The Project
+
+Attach.2.Ti=Appendix 2 - DEVgrant Scheme Conditions
 
 Attach.2.=[Wx/com/ethdev/Grant/Was/SchemeConditions_0.md]
  
-Attach.3.Ti=Appendix 3 ­ Ethereum Project Contributor Asset Distribution Terms
+Attach.3.Ti=Appendix 3 ­- Ethereum Project Contributor Asset Distribution Terms
 
-Attach.0.sec=The Ethereum Project Contributor Asset Distribution Terms are those set out below, or such other
-licence terms as we specify from time to time:
+Attach.3.0.sec=The Ethereum Project Contributor Asset Distribution Terms are those set out below, or such other licence terms as we specify from time to time:
 
 Attach.3.=[Wx/com/ethdev/Grant/Was/ContributorLicense_0.md]
 
