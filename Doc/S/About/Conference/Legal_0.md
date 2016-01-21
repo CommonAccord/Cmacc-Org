@@ -1,6 +1,6 @@
 Ti=Legal Code
 
-1.sec=Codification
+1.=[S/About/Conference/Legal_Codification_0.md]
 
 2.sec=Multilingual, multijurisdictional
 

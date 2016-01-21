@@ -1,7 +1,11 @@
-Ti=Center for Decentralized Law
+Ti=Codification
 
-1.sec=Organization, purpose, funding
+1.sec=Tools
 
-2.sec=Relationship with equivalent organizations for different jurisdictions and interest groups  
+2.sec=Organizations
 
-=[Z/ol/s2]
+3.sec=Object Models and Naming Conventions
+
+4.sec=Complementary Materials - Commentary, Aggregations, Etc.
+
+=[Z/ol/s4]
