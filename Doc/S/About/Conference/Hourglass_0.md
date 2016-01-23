@@ -16,9 +16,10 @@ Ti=Hourglass of Transacting:
 
 7.sec=                                                                   JSON, graph, <b>files</b>, XML
 
-8.sec=                                          Ethereum, Bitcoin, SQL, Python, Word, Effacts, SalesForce 
+8.sec=                                   email, SMS, <b>deal room</b>, <b>git</b>, <b>blockchain</b>, IPFS  
+
+9.sec=                                          Ethereum, Bitcoin, SQL, Python, Word, Effacts, SalesForce 
  
-9.sec=                     email, SMS, <b>deal room</b>, <b>git</b>, <b>blockchain</b>, IPFS, CouchDB and others  
 
 
 90.Sec=</center><br><br><a href="https://books.google.fr/books?id=NiATs-C6nlQC&lpg=PP1&dq=isbn%3A0300145349&pg=PA68#v=onepage&q&f=false">Zittrain, Jonathan, The Internet and How to Stop It, page 68</a>
