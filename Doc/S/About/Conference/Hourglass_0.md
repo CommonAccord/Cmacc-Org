@@ -10,7 +10,7 @@ Ti=Hourglass of Transacting:
 
 4.sec=Create Read Update Share Delete
 
-5.sec=<span style="text-transform:uppercase"><b>                                                                 Cmacc Record                            </b></span>
+5.sec=<span style="text-transform:uppercase"><b>                                                                 Cmacc                            </b></span>
 
 6.sec=                                                 JSON, graph, <b>files</b>, XML
 
