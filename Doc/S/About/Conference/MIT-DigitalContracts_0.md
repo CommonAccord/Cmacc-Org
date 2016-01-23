@@ -1,4 +1,4 @@
-Ti=Interoperable Contracts, Relationships, Governance and Services
+Ti=Digital Contracts, Security, Blockchain and Services
 
 Time=(Provisional) May 23-24
 

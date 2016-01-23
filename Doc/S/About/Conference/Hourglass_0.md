@@ -2,16 +2,23 @@ Ti=Hourglass of Transacting:
 
 0.sec=<center>
 
-1.sec=Quicken, SalesForce, Effacts, SAP, lorem ipsum, lorem ipsum, lorem ipsum, lorem ipsum, 
+1.sec=Alice1 Alice2 Alice3 - Acme1  Acme2 Acme3 - Advisor1 Advisor2 Advisor3  - Agency1 Agency2 Agency3 
+ 
+2.sec=Selling, Trading, Supply Chains, Banking, Medical, Permits, Organization, Accounting, Taxes, Reporting
 
-2.sec=Accounting, Taxes, Reporting, Trading, Operations, Supply Chains, Banking
+3.sec=Find, Discuss, Specify, Agree, Deliver, Pay, Notify, Dispute, Resolve, Rate
 
-3.sec=<b>                                                                 Cmacc Record                            </b>
+4.sec=Create Read Update Share Delete
 
-4.sec=                                                graph, files, JSON, XML, SQL
+5.sec=<span style="text-transform:uppercase"><b>                                                                 Cmacc Record                            </b></span>
 
-5.sec=                     git, blockchain, IPFS, deal room, email, SMS, CouchDB and others  
+6.sec=                                                 JSON, graph, <b>files</b>, XML
+
+7.sec=Ethereum, Bitcoin, SQL, Python, Word, Effacts, SalesForce 
+ 
+8.sec=                     email, SMS, <b>deal room</b>, <b>git</b>, <b>blockchain</b>, IPFS, CouchDB and others  
+
 
 90.Sec=</center><br><br><a href="https://books.google.fr/books?id=NiATs-C6nlQC&lpg=PP1&dq=isbn%3A0300145349&pg=PA68#v=onepage&q&f=false">Zittrain, Jonathan, The Internet and How to Stop It, page 68</a>
  
-=[Z/paras/s5]
+=[Z/paras/s8]
