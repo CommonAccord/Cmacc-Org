@@ -1,6 +1,6 @@
 Intro.Ti=Introduction
 
-Intro.1.sec=Bitcoin, blockchain and the Open Ledger Initiative have launched a dynamic in which systems of transacting are converging, becoming standardized and open-sourced.  The convergence applies to software and can apply to legal text, the original kind of "code."  The point of convergence, <a href="index.php?action=doc&file=S/About/Conference/Hourglass_0.md">waist of the hourglass</a>,  could be a common record format and shared "object model".
+Intro.1.sec=Bitcoin, blockchain and the Open Ledger Initiative have launched a dynamic in which systems of transacting are converging, becoming standardized and open-sourced.  The convergence applies to software and can apply to legal text, the original kind of "code."  The point of convergence, <a href="index.php?action=doc&file=S/About/Conference/Stack/Hourglass_0.md">waist of the hourglass</a>,  could be a common record format and shared "object model".
 
 Intro.2.sec=Transacting will become more rapid and secure.  It could become more democratic, but will disrupt incumbents and institutions.
 
