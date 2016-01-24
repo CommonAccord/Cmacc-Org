@@ -2,11 +2,11 @@ arg1=1.045
 
 arg2=2016-01-18:h12m00s00
 
+Record.YMD:HMS=2016-01-18:h08m13s34
+
 from.=[U/id/acme_incorporated]
 
 to.=[U/id/roberta_robinson]
-
-Record.YMD:HMS=2016-01-18:h08m13s34
 
 =[S/Sandbox/Blockchain/TransactionTypeQw3rty02.md]
 
