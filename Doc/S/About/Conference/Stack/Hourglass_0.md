@@ -18,9 +18,9 @@ Ti=Hourglass of Transacting:
 
 8.sec=                                   email, SMS, http, git, blockchain, IPFS  
 
-9.sec=                         JavaScript, Python, SQL, Ethereum, Bitcoin
+9.sec=                         JavaScript, Python, SQL, Lisp, Ethereum, Bitcoin
 
-10.sec=GitHub, Mediawiki, Effacts, Ravel Law, SalesForce, Banks, TurboTax, Amazon, etc.
+10.sec=GitHub, Mediawiki, Banks, Effacts, Ravel Law, SalesForce, Wikipedia, TurboTax, Amazon, Google Maps, etc.
 
 
 90.Sec=</center><br><br><a href="https://books.google.fr/books?id=NiATs-C6nlQC&lpg=PP1&dq=isbn%3A0300145349&pg=PA68#v=onepage&q&f=false">Zittrain, Jonathan, The Internet and How to Stop It, page 68</a>
