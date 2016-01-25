@@ -8,7 +8,7 @@ Intro.3.sec=The conference will explore the techniques, uses and consequences of
 
 Menu.Ti=Menu
 
-Menu.0.sec=We expect the field to evolve rapidly.  We now see the potluck as {Menu.Length} courses:
+Menu.0.sec=The field will evolve rapidly.  We now see the potluck as {Menu.length} courses:
 
 Menu.1.sec=Tech - Authorization, security and DRY data management; Apps, APIs, etc. <a href="/index.php?action=doc&file=S/About/Conference/Stack/PDS/Tech_0.md">more</a>
 
