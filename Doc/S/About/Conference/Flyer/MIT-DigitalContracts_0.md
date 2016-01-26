@@ -4,11 +4,11 @@ Time=(Provisional) May 23-24
 
 Location=MIT Media Lab, 6th Floor
 
-Organizers.and={Organizer.1} and {Organizer.2}
+Organizers.and={Organizer1.Name.Full} and {Organizer2.Name.Full}
 
-Organizer.1=Thomas Hardjono
+Organizer1.=[U/id/findthomas]
 
-Organizer.2=James Hazard
+Organizer2.=[U/id/hazardj]
 
 Contact.Email=commonaccord@gmail.com ('til better)
 

@@ -1,6 +1,6 @@
 =[U/class/ID_He]
 
-=[U/at/US/MA/Middlesex/Somerville/Geo]			
+=[U/at/FR/Paris/Geo]			
 
 Name.First=James
 
@@ -10,24 +10,16 @@ Name.Middle=Gardiner
 
 Name.M=G
 
-Addr.1=73 Apple Street
-
-Addr.Zip=02144
-
 Addr.Type=temporary
 
-Twitter.Followers=116
+Twitter.Followers=403
 
 Phone=
 
-Email=james.g.hazard@gmail.com
+Email=commonaccord@gmail.com
 
 Fax=
 
 Nationality=United States of America
 
 Name.Maiden/Other=None
-
-DOB=January 13, 1953
-
-MedicalRecordNumber=MR-1234556
