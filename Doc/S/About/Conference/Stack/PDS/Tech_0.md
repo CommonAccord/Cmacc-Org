@@ -1,17 +1,21 @@
 Ti=Tech Stack:
 
-1.sec=Access - login credentialing
+0.sec=<center>
+
+1.sec=Data Analytics
+
+2.sec=API and Interfaces: transacting systems, ERM, document management, etc.
+
+3.sec=Implementations: browser, app, graph, applications
+
+4.sec=Scripts:  basic functional operations
    
-2.sec=Functions (CRUD, Share, Parse, Run)
+5.sec=CRUD, Share, Parse, Run
 
-3.sec=Scripts
+6.sec=Access Management
 
-4.sec=Interface/Implementation (Browser, App, Graph, Applications)
+7.sec=<b>Cmacc</b>
 
-5.sec=Storage
+90.sec=</center>
 
-6.sec=Data Analytics
-
-7.sec=Interface to backends
-
-=[Z/ol/s7]
+=[Z/paras/s7]
