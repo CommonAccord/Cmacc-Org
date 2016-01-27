@@ -1,7 +1,11 @@
-1.sec=Date: {Conference.Time} at {Conference.Location}
+1.sec=Date: {Conference.Time}
 
-2.sec=Organizers: {Conference.Organizers.and};   Contact Email {Conference.Contact.Email}
+2.sec=Place: {Conference.Location}
 
-3.sec=Twitter Handle: {Conference.Twitter.Handle}; URL: {Conference.Link}
+3.sec=Organizers: {Conference.Organizers.and}
 
-=[Z/paras/s3]
+4.sec=Contact Email: {Conference.Contact.Email}
+
+5.sec=Twitter Handle: {Conference.Twitter.Handle}; URL: {Conference.Link}
+
+=[Z/paras/s5]

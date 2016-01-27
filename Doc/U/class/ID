@@ -51,7 +51,7 @@ SignDated.FR=Date : {Sign.YMD}
 
 Model.Root={Addr.Table}
 
-Addr.Table=<table  rules='rows'; border=1><tr><th>ID:</th><td></td><td></td></tr><tr><th>N,E,A:</th><td></td><td>{N,E,A}</td></tr><tr><th>Twitter.Followers:</th><td></td><td>{Twitter.Followers}</td></tr><tr><th>N/1/2:</th><td></td><td>{N/1/2}</td></tr><tr><th>Notice.Block:</th><td></td><td>{Notice.Block}</td><tr><tr><th>Sign.Block:</th><td></td><td>{Sign.Block}</td><tr></table>
+Addr.Table=<table  rules='rows'; border=1><tr><th>ID:</th><td></td><td></td></tr><tr><th>N,E,A:</th><td></td><td>{N,E,A}</td></tr><tr><th>Twitter.Followers:</th><td></td><td>{Twitter.Followers}</td></tr><tr><th>N/A/T/E/F:</th><td></td><td>{N/A/T/E/F}</td></tr><tr><th>Notice.Block:</th><td></td><td>{Notice.Block}</td><tr><tr><th>Sign.Block:</th><td></td><td>{Sign.Block}</td><tr></table>
 
 Pronoun.List={male/female}, {He/She}, {he/she}, {Him/Her}, {him/her}, {His/Her}, {his/her}, {His/Hers}, {his/hers}, {Himself/Herself}, {himself/herself}
 

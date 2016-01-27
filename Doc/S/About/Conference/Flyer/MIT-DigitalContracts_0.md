@@ -1,14 +1,16 @@
 Ti=Digital Contracts, Security, Blockchain and Services
 
-Time=(Provisional) May 23-24
+Time=May 23-24
 
-Location=MIT Media Lab, 6th Floor
+Location={Location.N,1,2}, 6th Floor
 
 Organizers.and={Organizer1.Name.Full} and {Organizer2.Name.Full}
 
 Organizer1.=[U/id/findthomas]
 
 Organizer2.=[U/id/hazardj]
+
+Location.=[U/id/mit_media_lab]
 
 Contact.Email=commonaccord@gmail.com ('til better)
 
