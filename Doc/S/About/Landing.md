@@ -42,11 +42,13 @@ DeCenter.sec=We are working toward a "{CDL.Link}," a trustee for global legal co
 Technical.sec=The files can also be expressed as <a href="http://www.commonaccord.org/index.php?action=json&file=Dx/Acme_FR/04-NDA-From-Quake-FR/Doc_v0.md">JSON</a> or as <a href="http://neo4j.com/graphgist/github-HazardJ%2Fgists%2F%2FDoc_Source_Graph.adoc/">graphs</a>.
 
 
-SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{Views.List.sec}<li>{PageSource.sec}</ul>
+SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{Views.List.sec}<li>{PageSource.sec}<li>{MITConference.sec}</ul>
 
 Views.List.sec=Each file on the site has six "views": <a href="index.php?action=source&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">Source</a>.  E.g., click on <a href="index.php?action=doc&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">"Document"</a>.
 
 PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance): <a href="index.php?action=source&file=S/About/Landing.md">Landing Page Source</a>.
+
+MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Conference</a>
 
 CDL.Link=<a href="index.php?action=doc&file=S/About/Pitch/Support_v0.md">Center for Decentralized Law</a>  
 

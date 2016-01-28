@@ -1,29 +1,3 @@
-Intro.Ti=Introduction
+Note=Now just a cmacc symlink
 
-Intro.1.sec=Bitcoin, blockchain and the Open Ledger Initiative have launched a dynamic in which systems of transacting are converging, becoming standardized and open-sourced.  The convergence applies to software and can apply to legal text, the original kind of "code."  The point of convergence could be a common record format and shared "object model".
-
-Intro.2.sec=Transacting will become more rapid and secure.  It could become more democratic, but will disrupt incumbents and institutions.
-
-Intro.3.sec=The conference will explore the techniques, uses and consequences of a transparent transacting platform.  We imagine it as a potluck, with participants bringing things they have shared.
-
-Menu.Ti=Menu
-
-Menu.0.sec=The field will evolve rapidly.  We now see the potluck as {Menu.length} courses:
-
-Menu.1.sec=Tech - A <a href="/index.php?action=doc&file=S/About/Conference/Stack/PDS/Tech_0.md">common record format</a>.  Authorization, security and DRY transaction system; apps, APIs, applications, legacy etc. <a href="index.php?action=doc&file=S/About/Conference/Stack/Hourglass_0.md">>></a>
-
-Menu.2.sec=Law - Form documents, object models for legal domains, systems of commentary, codification, working groups, etc. <a href="/index.php?action=doc&file=S/About/Conference/Stack/PDS/LegalDocuments_0.md">>></a>
-
-Menu.3.sec=Participants - banks, insurers, merchants, consultants, governments, associations, advocates, publishers, etc.
-
-Menu.4.sec=Governance - prospects for <a href="https://www.tni.org/en/publication/multi-stakeholderism-a-corporate-push-for-a-new-form-of-global-governance">"a wider, multifaceted system of global cooperation"</a> (@wef)  Decentralized governance, privacy, climate, access to justice.  And governance of the shared tech and legal materials.
-
-Menu.=[Z/ol/s4]
-
-Model.Root=<center><b>{Conference.Ti}</b></center><br>{Head.sec}<br>{Intro.Sec}<br><br>{Menu.sec}  
-
-Conference.=[S/About/Conference/Flyer/MIT-DigitalContracts_0.md]
-
-Head.=[S/About/Conference/Flyer/Head_0.md]
-
-Intro.=[Z/paras/s3]
+=[S/About/Conference/Flyer/0.md]
