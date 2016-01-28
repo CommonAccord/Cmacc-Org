@@ -12,7 +12,7 @@ Ti=Tech Stack:
    
 5.sec=CRUD, Share, Parse, Run
 
-6.sec=Access Management
+6.sec=<a href="index.php?action=doc&file=GH/KantaraInitiative/UMA-Text/0.md">Access Management</a>
 
 7.sec=<a href="index.php?action=source&file=Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md">Cmacc</a>
 
