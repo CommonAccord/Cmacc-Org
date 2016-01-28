@@ -2,8 +2,14 @@ Note=This is a stub.
 
 Ti=Sharing
 
-1.sec=Copy-based: Email, git, blockchain
+0.sec=Starting to think broadly about ways that access to a file can be provided:
 
-2.sec="Access"-based:  http, file systems, proprietary systems; UMA
+1.sec=Transaction-based:  blockchain, exchange, merchant, payment
 
-=[Z/ol/s2]
+2.sec="Access"-based:  UMA; http, local database or network
+
+3.sec=Copy-based: git, email
+
+90.sec=Needs much more work.
+
+=[Z/ol/s3]
