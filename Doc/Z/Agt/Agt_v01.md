@@ -8,7 +8,7 @@ DocBody={Doc}
 
 Foot.Sec={Attach.Sec}
 
-/Attach.Sec=</i>
+Attach.Sec=</i>
 
 Intro.=[Z/Agt/Frame/Intro_v01.md]
 

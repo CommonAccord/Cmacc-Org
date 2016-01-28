@@ -2,33 +2,33 @@ Note=q is the Oxford comma.  Here it is set to null.
 
 q=</i>
 
-Agreement=<font color="green">Agreement</font>
+Agreement=<span class="definedterm">Agreement</span>
 
-This_Agreement=This <font color="green">Agreement</font>
+This_Agreement=This <span class="definedterm">Agreement</span>
 
-this_Agreement=this <font color="green">Agreement</font>
+this_Agreement=this <span class="definedterm">Agreement</span>
 
-Effective_Date=<font color="green">Effective Date</font>
+Effective_Date=<span class="definedterm">Effective Date</span>
 
-the_Effective_Date=the <font color="green">Effective Date</font>
+the_Effective_Date=the <span class="definedterm">Effective Date</span>
 
-Client=<font color="green">Client</font>
+Client=<span class="definedterm">Client</span>
 
-The_Client=The <font color="green">Client</font>
+The_Client=The <span class="definedterm">Client</span>
 
-the_Client=the <font color="green">Client</font>
+the_Client=the <span class="definedterm">Client</span>
 
-Company=<font color="green">Company</font>
+Company=<span class="definedterm">Company</span>
 
-The_Company=The <font color="green">Company</font>
+The_Company=The <span class="definedterm">Company</span>
 
-the_Company=the <font color="green">Company</font>
+the_Company=the <span class="definedterm">Company</span>
 
-Customer=<font color="green">Customer</font>
+Customer=<span class="definedterm">Customer</span>
 
-The_Customer=The <font color="green">Customer</font>
+The_Customer=The <span class="definedterm">Customer</span>
 
-the_Customer=the <font color="green">Customer</font>
+the_Customer=the <span class="definedterm">Customer</span>
 
 P1.The=The {P1.Handle}
 
@@ -38,53 +38,53 @@ P2.The=The {P2.Handle}
 
 P2.the=the {P2.Handle}
 
-parties=<font color="green">Parties</font>
+parties=<span class="definedterm">Parties</span>
 
-party=<font color="green">Party</font>
+party=<span class="definedterm">Party</span>
 
-Parties=<font color="green">Parties</font>
+Parties=<span class="definedterm">Parties</span>
 
-Party=<font color="green">Party</font>
+Party=<span class="definedterm">Party</span>
 
-Root.Xref=<font color="darkblue">Section</font>
+Root.Xref=<span class="xref">Section</span>
 
-1.Xref=<font color="darkblue">Section 1</font>
+1.Xref=<span class="xref">Section 1</span>
 
-2.Xref=<font color="darkblue">Section 2</font>
+2.Xref=<span class="xref">Section 2</span>
 
-3.Xref=<font color="darkblue">Section 3</font>
+3.Xref=<span class="xref">Section 3</span>
 
-4.Xref=<font color="darkblue">Section 4</font>
+4.Xref=<span class="xref">Section 4</span>
 
-5.Xref=<font color="darkblue">Section 5</font>
+5.Xref=<span class="xref">Section 5</span>
 
-6.Xref=<font color="darkblue">Section 6</font>
+6.Xref=<span class="xref">Section 6</span>
 
-7.Xref=<font color="darkblue">Section 7</font>
+7.Xref=<span class="xref">Section 7</span>
 
-8.Xref=<font color="darkblue">Section 8</font>
+8.Xref=<span class="xref">Section 8</span>
 
-9.Xref=<font color="darkblue">Section 9</font>
+9.Xref=<span class="xref">Section 9</span>
 
-10.Xref=<font color="darkblue">Section 10</font>
+10.Xref=<span class="xref">Section 10</span>
 
-11.Xref=<font color="darkblue">Section 11</font>
+11.Xref=<span class="xref">Section 11</span>
 
-12.Xref=<font color="darkblue">Section 12</font>
+12.Xref=<span class="xref">Section 12</span>
 
-13.Xref=<font color="darkblue">Section 13</font>
+13.Xref=<span class="xref">Section 13</span>
 
-14.Xref=<font color="darkblue">Section 14</font>
+14.Xref=<span class="xref">Section 14</span>
 
-15.Xref=<font color="darkblue">Section 15</font>
+15.Xref=<span class="xref">Section 15</span>
 
-16.Xref=<font color="darkblue">Section 16</font>
+16.Xref=<span class="xref">Section 16</span>
 
-17.Xref=<font color="darkblue">Section 17</font>
+17.Xref=<span class="xref">Section 17</span>
 
-18.Xref=<font color="darkblue">Section 18</font>
+18.Xref=<span class="xref">Section 18</span>
 
-19.Xref=<font color="darkblue">Section 19</font>
+19.Xref=<span class="xref">Section 19</span>
 
 
 DT.Base=<b>DT.Base</b><ol><li>Agreement<ol><li><b>Agreement</b>: {Agreement}<li><b>This_Agreement</b>: {This_Agreement}<li><b>this_Agreement</b>: {this_Agreement}</ol><li><b>Effective_Date:</b> {Effective_Date}<li><b>P1 - P1:</b> {P1.The}; {P2.The}<li><b>Party:</b><ol><li>{Party}<li>{party}<li>{Parties}<li>{parties}</ol></ol>
