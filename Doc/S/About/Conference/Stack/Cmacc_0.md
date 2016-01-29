@@ -1,10 +1,10 @@
 Ti=Cmacc
 
-0.sec=Cmacc is pronounced "Smack."   It is the informal name for the CommonAccord data model.  The following is a pretty formal description of Cmacc:
+0.sec=Cmacc is pronounced "Smack."   It is the informal name for the CommonAccord data model.  The following is a semi-formal description of Cmacc:
 
 1.sec=A Cmacc repository is a folder of files ("Files"), which may have subfolders. 
 
-2.0.sec=The files are plain text, and have lists of key/values ("Key/Value"), where a Value can be either a string or the name of another File.  For instance:
+2.0.sec=The Files are plain text, and each consists of a list of key/values ("Key/Value"), where the Value can be either a string or the name of another File.  For instance:
 
 2.1.sec=Model.Root={HW}
 
@@ -18,15 +18,15 @@ Ti=Cmacc
  
 2.=[Z/ol-none/s4]
 
-3.sec=A File can be rendered into a text (the "Doc" view of the File) by starting with a specific Key (currently "Model.Root") and expanding its Value.  Expanding is done by replacing any strings wrapped in {braces} (Variable). 
+3.sec=A File can be rendered into a text (the "Doc" view of the File) by starting with a specific Key (currently "Model.Root") and expanding its Value.  Expansion is done by replacing any strings wrapped in {braces} (Variable). 
 
 4.sec=The replacement is based on matching the Variable name with the <i>first</i> matching Key name.
 
-5.sec=A [Path/Name_of_Another_File] is matched with a file path and name.  The effect is is as if the File in that file was copied into the current File.
+5.sec=The notion of "first" is based on the File.  The first Key in the File (reading down from the top) is the first.  If there is no Key that matches, then referenced Files are searched, in the order they appear (reading from the top), recursively, depth-first.  The match of a Key in a referenced File is, of course, based on the "prefixed" Key (see the next two items). 
 
-6.sec=The notion of "first" is based on the File.  The first Key in the File (reading from the top) is the first.  If there is no Key that matches, then referenced Files are searched, in the order they appear (reading from the top), recursively, depth-first.  The match, of course, is with the prefixed Key. 
+6.sec=A [Path/Name_of_Another_File] is matched with a file path and name.  The effect is is as if the list of Key/Values in that File was copied into the current File.
 
-7.sec=The only other feature is "prefixing."  When referencing another File, the Key can be empty (see below in the source view of this File) or it can be a string (see 3.= in this File).  If the Key has a string, then the string is added to the front of each Key in the referenced File and to each Variable in the referenced File.  This is chained, so that if a File uses a prefix when referencing another File, and that other File uses a prefix when referencing a third File, the prefix of the third File is the first prefix tacked on to the second prefix.  This chaining can be as long as you want.  When expanding a prefixed Variable, if no match is found, then the right-most prefixing link is removed and it is tried again.  (This sounds complicated, but is extremely convenient and comports with what we expect the great majority of the time.)
+7.sec=The only other feature is "prefixing."  When referencing another File, the Key for the reference can be empty (see below in the source view of this File) or it can be a string (see 2.= in this File).  If the Key has a string, then the string is added to the front of each Key and to the front of each Variable in the referenced File.  This is chained, so that if a File3 uses a prefix "Buyer." when referencing File2, and File2 uses a prefix "CEO." when referencing File1, then each of the Keys in File1 is treated as being prefixed by "Buyer.CEO." This chaining can be as long as you want.  When expanding a prefixed Variable, if no match is found, then the right-most prefixing link is removed and it is tried again.  ("Buyer.") (This sounds complicated, but is extremely convenient and comports with our instincts the great majority of the time.)
 
 8.0.sec=Some examples:
 
