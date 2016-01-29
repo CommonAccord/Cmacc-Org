@@ -1,4 +1,4 @@
-Ti=Digital Contracts, Security, Blockchain and Services
+Ti=Digital Contracting, Security, Ledgers and Governance
 
 Time=May 23-24
 
