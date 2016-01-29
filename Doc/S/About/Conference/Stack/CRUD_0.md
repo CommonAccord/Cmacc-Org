@@ -18,7 +18,7 @@ Ti=CRUD
 
 5.Ti=Render
 
-5.sec=Render is some forms of "read."  Render has at least three formats - i) Print, ii) Doc and iii) Xray. 
+5.sec=Render is some forms of "read."  Render has at least four formats - i) Print, ii) Doc, iii) Xray, iv) a list of each of the Key/Values used in the Doc view (complete Doc, but without object model). 
 
 6.Ti=Access
 
