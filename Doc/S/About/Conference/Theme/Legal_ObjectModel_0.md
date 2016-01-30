@@ -10,7 +10,7 @@ Ti=Object Model for a legal World
 
 4.sec=Forms <a href="index.php?action=list&file=Wx/">from websites</a> and <a href="index.php?action=list&file=GHx/">from repositories</a>. 
 
-5.sec=There are of course subcategories, such as female, and composites such as Matters.
+5.sec=There are of course refinements, such as female, and composites such as transactions or <a href="index.php?action=source&file=Wx/gov/uscourts/cand/model-protective-orders/Patent/Demo_ProtectiveOrder_0.md">cases</a>.
 
 90.sec=We suggest <a href="index.php?action=list&file=">one organization of the folders</a>, but this needs much more attention.
 
