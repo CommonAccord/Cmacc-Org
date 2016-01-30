@@ -25,41 +25,20 @@ if (isset($_REQUEST['file'])) {
 
 switch ($_REQUEST['action']) {
 
-    case 'list':
+   case 'doc':
 
-        include('./view/list.php');
+        include('./view/doc.php');
+        break;
+
+    case 'edit':
+
+        include('./view/edit.php');
         break;
 
 
-    case 'source':
+    case 'list':
 
-        if (isset($_REQUEST['submit'])) {
-
-            $file_name = $path . $dir;
-
-            if (file_exists($file_name)) {
-
-                if (is_writeable($file_name)) {
-                    $fp = fopen($file_name, "w");
-                    $data = $_REQUEST['newcontent'];
-                    $data = preg_replace('/\r\n/', "\n", $data);
-                    $data = trim($data);
-                    fwrite($fp, $data);
-                    fclose($fp);
-                } else {
-                    print '<span style="color: red">ERROR: File ' . $dir . ' is not write able.</style>';
-                }
-            } else {
-                print '<span style="color: red">ERROR: File ' . $dir . ' does not exists.</style>';
-            }
-        }
-
-        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
-        $contents = explode("\n", $content);
-
-        //source.php includes the formatting for the table that displays the components of a document
-        include("./view/source.php");
-
+        include('./view/list.php');
         break;
 
 case 'json':
@@ -95,6 +74,57 @@ case 'json':
 
         break;
 
+   case 'nav':
+
+        include('./view/nav.php');
+        break;
+
+   case 'openedit':
+
+        include('./view/openedit.php');
+        break;
+
+    
+
+   case 'print':
+
+        include('./view/print.php');
+        break;
+
+
+
+    case 'source':
+
+        if (isset($_REQUEST['submit'])) {
+
+            $file_name = $path . $dir;
+
+            if (file_exists($file_name)) {
+
+                if (is_writeable($file_name)) {
+                    $fp = fopen($file_name, "w");
+                    $data = $_REQUEST['newcontent'];
+                    $data = preg_replace('/\r\n/', "\n", $data);
+                    $data = trim($data);
+                    fwrite($fp, $data);
+                    fclose($fp);
+                } else {
+                    print '<span style="color: red">ERROR: File ' . $dir . ' is not write able.</style>';
+                }
+            } else {
+                print '<span style="color: red">ERROR: File ' . $dir . ' does not exists.</style>';
+            }
+        }
+
+        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
+        $contents = explode("\n", $content);
+
+        //source.php includes the formatting for the table that displays the components of a document
+        include("./view/source.php");
+
+        break;
+
+
     case 'render':
 
         if (isset($_REQUEST['submit'])) {
@@ -107,28 +137,6 @@ case 'json':
             echo "</div></div>";
         }
         break;
-
-    case 'edit':
-
-        include('./view/edit.php');
-        break;
-
-   case 'openedit':
-
-        include('./view/openedit.php');
-        break;
-
-    
-   case 'doc':
-
-        include('./view/doc.php');
-        break;
-
-   case 'print':
-
-        include('./view/print.php');
-        break;
-
 
     default:
         include($_REQUEST['action'] . '.php');

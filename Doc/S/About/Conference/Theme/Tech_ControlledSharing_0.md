@@ -1,6 +1,6 @@
 Ti=Controlled Sharing Theme
 
-1.sec=A common Record format ("<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Cmacc</a>")
+1.sec=The "<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Cmacc</a>" record format
 
 2.sec=Giving access to protected-resource (private repo) <a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD</a>
 

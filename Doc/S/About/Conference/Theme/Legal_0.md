@@ -2,7 +2,7 @@ Ti=Legal Theme
 
 1.sec=Hello Legal World - a tech stack for new legal (git, editors, version control, etc.) 
 
-2.sec=Object model for the World
+2.sec=Object model for the legal world
 
 3.sec=Documents as objects
 

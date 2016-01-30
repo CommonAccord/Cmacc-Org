@@ -9,9 +9,11 @@ echo "<div class='container'>___<hr><table class='TFtable';>";
 foreach($contents as $n) {
         list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
 
+	//for remote files via http
         if(preg_match('/\[\?(.+?)\]/', $v, $matches)) {
                 $v = "<a href=$matches[1]>$v</a>";
         }
+	//for local files
 
         else if(preg_match('/\[(.+?)\]/', $v, $matches)) {
                 $v = "<a href=$_SERVER[PHP_SELF]?action=source&file=$matches[1]>$v</a>";
