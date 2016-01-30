@@ -1,19 +1,11 @@
-Ti=Legal Code
+Ti=Legal Object Model and Documents Theme
 
-1.=[S/About/Conference/Theme/Legal_Codification_0.md]
+1.sec=Hello Legal World - a tech stack for new legal (git, editors, version control, etc.) 
 
-2.sec=Multilingual, multijurisdictional
+2.sec=Object model
 
-3.sec=General Counsel perspective
+3.sec=Documents
 
-4.sec=Access to Justice
+4.sec=Codification - projects and organizations
 
-5.sec=Disputes
-
-6.sec=Rule of Law
-
-7.sec=Optimizing Legal Systems
-
-8.sec=The New Legal Profession
-
-=[Z/ol/s8]
+=[Z/ol/s4]
