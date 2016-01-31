@@ -1,5 +1,7 @@
 Ti=CRUD
 
+0.sec=This lists a few operations on Cmacc Files.  This is only a start, and may be incorrect, but the idea will be apparent.  If there are a few canonical operations, then they can interoperate well, even when implemented in different applications and via decentralized access.
+  
 1.Ti=Create
 
 1.sec=Create: i) an empty File with a user-determined name so the use can start a new editing exercise; ii) from a File, create a new File with the current File referenced at the bottom (extending, revising the current File). 
