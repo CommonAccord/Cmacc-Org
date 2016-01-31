@@ -1,6 +1,6 @@
 Ti=Legal Theme
 
-1.sec=Hello Legal World - a tech stack for new legal (git, editors, version control, etc.) 
+1.sec=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_HelloWorld_0.md">Hello Legal World</a> - a tech stack for new legal (git, editors, version control, etc.) 
 
 2.sec=Object model for <a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_ObjectModel_0.md">the legal world</a>
 

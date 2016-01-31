@@ -1,7 +1,9 @@
 Ti=Integrations Theme
 
-1.sec=Integration with databases
+0.sec=Integration with:
 
-2.sec=Integration with transaction systems
+1.sec=databases
+
+2.sec=transaction systems
 
 =[Z/ol/s2]

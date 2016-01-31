@@ -1,6 +1,6 @@
 Ti=Object Model for a legal World
 
-0.sec="Object model" is a mouthful for many.  In the context of CommonAccord, it can be understood as the classification and organization of files in the system.  At the top level, we have something like:
+0.sec="Object model" is a mouthful for many.  In the context of CommonAccord, it can be understood as the organization of files on a hard drive  At the top level, we have something like:
 
 1.sec=<a href="index.php?action=list&file=U/id/">Persons</a> (individuals, legal persons, roles and pseudonyms)
 
@@ -10,7 +10,7 @@ Ti=Object Model for a legal World
 
 4.sec=Forms <a href="index.php?action=list&file=Wx/">from websites</a> and <a href="index.php?action=list&file=GHx/">from repositories</a>. 
 
-5.sec=There are of course refinements, such as female, and composites such as transactions or <a href="index.php?action=source&file=Wx/gov/uscourts/cand/model-protective-orders/Patent/Demo_ProtectiveOrder_0.md">cases</a>.
+5.sec=There are of course refinements such as female, and composites such as transactions or <a href="index.php?action=source&file=Wx/gov/uscourts/cand/model-protective-orders/Patent/Demo_ProtectiveOrder_0.md">cases</a>.
 
 90.sec=We suggest <a href="index.php?action=list&file=">one organization of the folders</a>, but this needs much more attention.
 

@@ -8,8 +8,6 @@ Ti=Implementation:  Blockchains and Ledgers Theme
 
 4.sec=Reconstructability and accountability
 
-5.0.sec=Integration:
-
 5.=[S/About/Conference/Theme/Tech_Integration_0.md]
 
 =[Z/ol/s5]
