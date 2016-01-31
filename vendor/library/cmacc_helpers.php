@@ -36,12 +36,12 @@ switch ($_REQUEST['action']) {
         break;
 
 
-    case 'list':
+   case 'html':
 
-        include('./view/list.php');
+        include('./view/html.php');
         break;
 
-case 'json':
+    case 'json':
 
         if (isset($_REQUEST['submit'])) {
 
@@ -74,23 +74,23 @@ case 'json':
 
         break;
 
-   case 'nav':
 
-        include('./view/nav.php');
+    case 'list':
+
+        include('./view/list.php');
         break;
+
 
    case 'openedit':
 
         include('./view/openedit.php');
         break;
 
-    
 
    case 'print':
 
         include('./view/print.php');
         break;
-
 
 
     case 'source':

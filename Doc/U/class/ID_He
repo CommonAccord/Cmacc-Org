@@ -1,5 +1,3 @@
-=[U/class/ID_Individual]
-
 Male/Female=Male
 
 male/female=male
@@ -22,4 +20,6 @@ his/hers=his
 
 Himself/Herself=Himself
 
-himself/herself=himself				
+himself/herself=himself
+
+=[U/class/ID_Individual]
