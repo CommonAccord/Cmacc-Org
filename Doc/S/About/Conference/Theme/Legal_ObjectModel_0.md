@@ -8,7 +8,7 @@ Ti=Object Model for a legal World
 
 3.sec=<a href="index.php?action=list&file=U/is/">Properties</a>
 
-4.sec=Forms <a href="index.php?action=list&file=Wx/">from websites</a> and <a href="index.php?action=list&file=GHx/">from repositories</a>. 
+4.sec=Forms <a href="index.php?action=list&file=Wx/">from websites</a> and <a href="index.php?action=list&file=GH/">from repositories</a>. 
 
 5.sec=There are of course refinements such as <a href="index.php?action=source&file=U/class/ID_She">female</a>, and composites such as transactions or <a href="index.php?action=source&file=Wx/gov/uscourts/cand/model-protective-orders/Patent/Demo_ProtectiveOrder_0.md">cases</a>.
 
