@@ -11,7 +11,7 @@ At bottom a few links to other lists.
 
 <tr><td><b>University Research Related</b></td><td></td></tr>
 <tr><td>http://www.brown.edu/research/policies-and-compliance</td><td></td></tr>
-<tr><td>http://www.cctec.cornell.edu/forms/index.php</td><td>Cornell Tech Transfer folks</td></tr>
+<tr><td>http://www.ctl.cornell.edu/inventors/inventor-forms.php</td><td>Cornell Tech Transfer folks</td></tr>
 <tr><td>http://research.ucdavis.edu/f/f</td><td></td></tr>
 <tr><td>http://web.mit.edu/tlo/www/misc/forms.html   </td><td>MIT Tech Licensing Office - NDAs, etc.</td></tr>
 <tr><td>http://www.grants.gov/web/grants/forms.html</td><td>Jumping off place for forms relating to government research grants</td></tr>
