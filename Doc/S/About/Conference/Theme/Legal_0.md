@@ -6,6 +6,6 @@ Ti=Legal Theme
 
 3.sec=Documents as objects
 
-4.sec=Collaboration and codification - <a href="https://github.com/CommonAccord/Cmacc-Org/tree/master/Doc/S/Project/List_0.md">projects</a>, organizations, methods
+4.sec=Collaboration and codification - <a href="https://github.com/CommonAccord/Cmacc-Org/tree/master/Doc/S/Link/Project/List_0.md">projects, organizations, methods
 
 =[Z/ol/s4]
