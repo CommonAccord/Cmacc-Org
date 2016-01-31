@@ -4,8 +4,6 @@ Ti=Legal Theme
 
 2.sec=Object model for <a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_ObjectModel_0.md">the legal world</a>
 
-3.sec=Documents as objects
+3.sec=Collaboration and codification - <a href="https://github.com/CommonAccord/Cmacc-Org/tree/master/Doc/S/Link/Project/List_0.md">projects</a>, organizations, methods
 
-4.sec=Collaboration and codification - <a href="https://github.com/CommonAccord/Cmacc-Org/tree/master/Doc/S/Link/Project/List_0.md">projects</a>, organizations, methods
-
-=[Z/ol/s4]
+=[Z/ol/s3]
