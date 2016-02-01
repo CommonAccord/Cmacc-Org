@@ -8,6 +8,6 @@ Ti=Object Model for Legal Documents
 
 3.sec=The form can be used with deal information to make a <a href="index.php?action=doc&file=Dx/Acme/02-NDA-With-Quake/01-NDA_v0.md">a completed document</a>
 
-90.sec=<img src="https://github.com/CommonAccord/Cmacc-Org/raw/master/File/Doc/S/About/Conference/Flyer/Legal_Document_ObjectModel.jpg" height="500" width="700">
+90.sec=<img src="index.php?action=raw&file=S/About/Conference/Image/Legal_Document_ObjectModel.jpg" height="500" width="700">
 
 =[Z/ol/s3]

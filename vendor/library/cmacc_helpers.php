@@ -93,6 +93,11 @@ switch ($_REQUEST['action']) {
         break;
 
 
+   case 'raw':
+
+        include('./view/raw.php');
+        break;
+
     case 'source':
 
         if (isset($_REQUEST['submit'])) {

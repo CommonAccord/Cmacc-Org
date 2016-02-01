@@ -8,6 +8,8 @@ Ti=<a href="index.php?action=doc&file=S/About/Conference/Theme/Governance_0.md">
 
 1.=[Z/ol/s2]
   
-2.sec=Interaction with governance - global, national, enterprise, local, civil
+2.sec=Interaction with governance - global, national, local, civil
 
-=[Z/ol/s2]
+3.sec=Enterprise organization, shape, management
+
+=[Z/ol/s3]

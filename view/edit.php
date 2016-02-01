@@ -28,6 +28,9 @@ echo '  </textarea><br>
         <input class="btn btn-info" type="submit" name="submit" value="Save">
         <input type="hidden" name="file" value="'.$dir.'">
         <input type="hidden" name="action" value="source">
+
+        Note: if you are on the public site, feel free to experiment.  Your changes are temporary and will be discarded when the site next updates from the Github repo.
+
         </form>';
 
 ?>

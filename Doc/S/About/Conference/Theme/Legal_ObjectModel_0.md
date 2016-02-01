@@ -18,6 +18,6 @@ Ti=Object Model for a Legal System
 
 3.sec=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_Transaction_ObjectModel_0.md"> Transactions</a> are collections of persons, facts, documents and events.
 
-90.sec=We suggest <a href="index.php?action=list&file=">one organization of the folders</a>, but this needs much more attention.<br><br><img src="https://github.com/CommonAccord/Cmacc-Org/raw/master/File/Doc/S/About/Conference/Flyer/Legal_System_ObjectModel.jpg" height="500" width="700">
+90.sec=We suggest <a href="index.php?action=list&file=">one organization of the folders</a>, but this needs much more attention.<br><br><img src="index.php?action=raw&file=S/About/Conference/Image/Legal_System_ObjectModel.jpg" height="500" width="700">
 
 =[Z/ol/s3]

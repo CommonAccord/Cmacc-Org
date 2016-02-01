@@ -1,6 +1,8 @@
-This is begun from a list that was at beta.commonaccord.org.
+Note=<a href="index.php?action=html&file=S/Link/Project/List_0.md">View in plain text</a>
 
-This list is arbitrary and incomplete.  It should be expressed as a graph.  The goal here is to start.  Note, too, that it is all in English and very US-centric.  There is a rest of world out there.
+This list is arbitrary and incomplete.  It is best read on the Github site (click above) - because of some use of markdown.  
+
+(It should be expressed as a graph.)  The goal here is to start.  Note, too, that it is all in English and very US-centric.  There is a rest of world out there.
 
 The ideal for legal forms is that they be unrestricted, curated and rated, with links to authors.  Forums instead of forms.
 
