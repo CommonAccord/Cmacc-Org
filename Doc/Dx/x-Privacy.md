@@ -1,6 +1,4 @@
--=List of Privacy Related Agreements
-
--=-Data Transfer Agreements (channeling EU Model Clauses):
+Data Transfer Agreements (channeling EU Model Clauses):=
 
 Data.UK.=[Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md]
 
@@ -16,21 +14,21 @@ Data.NL.=[Dx/Acme_NL/01-EU-US-DataTransfer/Doc_v0.md]
 
 Data.ES.=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/ES/Form/Clauses_v0.md]
 
--=-Patient Consent for Genetics Research (channeling GA4GH model patient consent):
+Patient Consent for Genetics Research (channeling GA4GH model patient consent):=
 
 Patient.FR.=[Dx/Acme_FR/12-PatientConsentForm/01-MMatignon]
 
--=-Privacy Policy (channeling US "Consumer Privacy Bill of Rights") 
+Privacy Policy (channeling US "Consumer Privacy Bill of Rights")=
 
 Privacy.US.=[Dx/Acme/03-Policies/01-Privacy_v0.md]
 
 Privacy.FR.=[Dx/Acme_FR/13-PrivacyPolicy/Doc_v0.md]
 
--=-Master Supply Agreement - Personal Data Provisions:
+Master Supply Agreement - Personal Data Provisions:=
 
 MSA.=[Wx/com/gepower/MasterServiceAgreement/Form/Doc_v01.md]
 
-Note=See also:
+Also:=
 
 IDFederation.=[GH/FutureCommerce/StandardLaw/IDFederation/Form/IDFederation_v0.md]
 

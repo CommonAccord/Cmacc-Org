@@ -1,9 +1,0 @@
-Ti=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_0.md">Legal Theme</a>
-
-1.sec=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_HelloWorld_0.md">Hello Legal World</a> - a tech stack for new legal (git, editors, version control, etc.) 
-
-2.sec=Object model for <a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_ObjectModel_0.md">the legal world</a>
-
-3.sec=Collaboration and codification - <a href="index.php?action=html&file=S/Link/Project/List_0.md">projects</a>, organizations, methods
-
-=[Z/ol/s3]

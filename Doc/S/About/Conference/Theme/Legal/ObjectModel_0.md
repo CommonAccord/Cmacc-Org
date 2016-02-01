@@ -14,10 +14,10 @@ Ti=Object Model for a Legal System
 
 1.=[Z/ol/s4]
 
-2.sec=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_Document_ObjectModel_0.md">Documents</a> (including forms) can also have an object structure.
+2.sec=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal/Document_ObjectModel_0.md">Documents</a> (including forms) can also have an object structure.
 
-3.sec=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_Transaction_ObjectModel_0.md"> Transactions</a> are collections of persons, facts, documents and events.
+3.sec=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal/Transaction_ObjectModel_0.md"> Transactions</a> are collections of persons, facts, documents and events.
 
-90.sec=We suggest <a href="index.php?action=list&file=">one organization of the folders</a>, but this needs much more attention.<br><br><img src="index.php?action=raw&file=S/About/Conference/Image/Legal_System_ObjectModel.jpg" height="500" width="700">
+90.sec=We suggest <a href="index.php?action=list&file=">one organization of the folders</a>, but this needs much more attention.<br><br><img src="index.php?action=raw&file=S/About/Conference/Image/Legal/System_ObjectModel.jpg" height="500" width="700">
 
 =[Z/ol/s3]
