@@ -8,6 +8,6 @@ Ti=Object Model for a Legal Transaction
 
 3.sec=Another example is a <a href="index.php?action=source&file=Wx/gov/uscourts/cand/model-protective-orders/Patent/Demo_ProtectiveOrder_0.md">law suit</a>.
 
-90.sec=<br><br><img src="https://github.com/CommonAccord/Cmacc-Org/raw/master/File/Doc/S/About/Conference/Flyer/Legal_Transaction_ObjectModel.jpg" height="500" width="700">
+90.sec=<br><br><img src="index.php?action=raw&file=S/About/Conference/Image/Legal_Transaction_ObjectModel.jpg" height="500" width="700">
 
 =[Z/ol/s2]

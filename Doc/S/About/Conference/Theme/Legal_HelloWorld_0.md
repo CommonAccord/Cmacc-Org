@@ -1,6 +1,6 @@
 Ti=Hello World for Legal
 
-0.sec=The legal community - both lawyers and clients - mostly uses word processing (Word) for documents.  The online world does not, blockchain cannot, etc.  The purpose of this document and theme is to suggest appropriate tools and links to resources about how to use those.
+0.sec=The legal community - both lawyers and clients - mostly uses word processing (Word) for documents.  The online world does not, blockchain cannot, etc.  The purpose of this document and theme is to suggest appropriate tools and links to resources about how to use them.
 
 1.sec=Git and Github
 
