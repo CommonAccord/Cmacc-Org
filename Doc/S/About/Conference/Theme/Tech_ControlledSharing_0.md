@@ -1,4 +1,4 @@
-Ti=Controlled Sharing Theme
+Ti=<a href="index.php?action=doc&file=S/About/Conference/Theme/Tech_ControlledSharing_0.md">Controlled Sharing Theme</a>
 
 1.sec=The "<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Cmacc</a>" record format
 

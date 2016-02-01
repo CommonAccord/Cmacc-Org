@@ -1,4 +1,4 @@
-Ti=CRUD
+Ti=<a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD</a>
 
 0.sec=This lists a few operations on Cmacc Files.  This is only a start, and may be incorrect, but the idea will be apparent.  If there are a few canonical operations, then they can interoperate well, even when implemented in different applications and via decentralized access.
   

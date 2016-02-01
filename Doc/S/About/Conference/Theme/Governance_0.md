@@ -1,4 +1,4 @@
-Ti=Governance Theme
+Ti=<a href="index.php?action=doc&file=S/About/Conference/Theme/Governance_0.md">Governance Theme</a>
 
 1.0.sec=Managing public repos long term
 

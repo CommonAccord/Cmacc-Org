@@ -1,4 +1,4 @@
-Ti=Cmacc
+Ti=<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Cmacc</a>
 
 0.sec=Cmacc is pronounced "Smack."   It is the informal name for the CommonAccord data model.  The following is a semi-formal description of Cmacc.  The description is based on a file format for a Cmacc "Record".  A Record may be in any format, but for a variety of reasons to be expanded, the File format seems canonical.  With that understanding:
 

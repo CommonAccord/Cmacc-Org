@@ -1,4 +1,4 @@
-Ti=Legal Theme
+Ti=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_0.md">Legal Theme</a>
 
 1.sec=<a href="index.php?action=doc&file=S/About/Conference/Theme/Legal_HelloWorld_0.md">Hello Legal World</a> - a tech stack for new legal (git, editors, version control, etc.) 
 
