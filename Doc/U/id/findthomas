@@ -1,11 +1,9 @@
-=[U/class/ID_He]
-
-=[U/at/US/MA/Middlesex/Cambridge/Massachusetts_Avenue/77/Geo]			
-
 Name.First=Thomas
 
 Name.Last=Hardjono
 
-Name.Full={Name.First} {Name.Last}
-
 Email=hardjono@mit.edu
+
+=[U/class/ID_He]
+
+=[U/at/US/MA/Middlesex/Cambridge/Massachusetts_Avenue/77/Geo]

@@ -1,7 +1,3 @@
-=[U/class/ID_He]
-
-=[U/at/FR/Paris/Geo]			
-
 Name.First=James
 
 Name.Last=Hazard
@@ -14,12 +10,12 @@ Addr.Type=temporary
 
 Twitter.Followers=403
 
-Phone=
-
 Email=commonaccord@gmail.com
-
-Fax=
 
 Nationality=United States of America
 
 Name.Maiden/Other=None
+
+=[U/class/ID_He]
+
+=[U/at/FR/Paris/Geo]

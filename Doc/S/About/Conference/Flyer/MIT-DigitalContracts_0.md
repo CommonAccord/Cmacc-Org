@@ -4,11 +4,7 @@ Time=May 23-24
 
 Location={Location.N,1,2}, 6th Floor
 
-Organizers.and={Organizer1.Name.Full} and {Organizer2.Name.Full}
-
-Organizer1.=[U/id/findthomas]
-
-Organizer2.=[U/id/hazardj]
+Organizers.and={Who.Hardjono.Name.Full} and {Who.Hazard.Name.Full}
 
 Location.=[U/id/mit_media_lab]
 
