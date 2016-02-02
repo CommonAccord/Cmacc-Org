@@ -1,3 +1,5 @@
+Ti=Climate
+
 1.Ti="Paris Agreement"
 
 1.sec=<a href="index.php?action=source&file=Wx/int/unfccc/2015/cop21/eng/l09r01_With-SemanticArticles_v0.md">Wx/int/unfccc/2015/cop21/eng/l09r01_With-SemanticArticles_v0.md</a>
