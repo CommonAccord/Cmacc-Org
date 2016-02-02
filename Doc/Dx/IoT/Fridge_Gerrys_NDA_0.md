@@ -1,7 +1,3 @@
-P1.=[U/id/GUID_123454321.md]
-
-P2.=[U/id/gerrys_grapes_llc]
-
 Doc.Title=One-Way Non-Disclosure Agreement
 
 P1.Handle=Fridge
@@ -35,5 +31,9 @@ Misc.Assign.sec=<ol><li>{Misc.Assign.1.Alt2.sec}<li>{Misc.Assign.2.Alt1.sec}<li>
 Misc.Entire.Sec={Misc.Entire.Alt2.Sec}
 
 Law.State.the=the Commonwealth of Massachusetts
+
+P1.=[U/id/GUID_123454321.md]
+
+P2.=[U/id/gerrys_grapes_llc]
 
 =[Wx/com/cooleygo/US/NDA/Form/Doc_v01.md]
