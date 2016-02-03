@@ -1,6 +1,6 @@
-Ti=Digital Contracting, Security, Ledgers and Governance
+Ti=Digital Contracts, Identities & Blockchains
 
-Time=May 23-24
+Time=May 23-24, 2016
 
 Location={Location.N,1,2}, 6th Floor
 
