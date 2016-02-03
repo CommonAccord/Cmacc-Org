@@ -8,6 +8,8 @@ Sign.Bloc=<table border="0" cellpadding="1" cellspacing="1" style="width:300px">
 
 N,E,A={Name.Full}, {entity.a} whose {Addr.Type} address is {Addr.1,2}
 
+Name,Twitter={Name.Full}, {Twitter.Handle}
+
 ListType={N/A/L/G/T}
 
 N/A/L/G/T={Name.Full}, {entity.a}<br> Whose {Addr.Type} address is {Addr.1,2}<br> LinkedIn: <a href="http://linkedin.com/in/{LinkedIn.Handle}">{LinkedIn.Handle}</a><br>GitHub: <a href="http://github.com/{GitHub.Handle}">{GitHub.Handle}</a><br>Twitter: <a href="http://twitter.com/{Twitter.Handle}">{Twitter.Handle}</a><br>Say Something: {SomethingToSay}

@@ -1,5 +1,3 @@
-=[U/class/ID]
-
 entity=individual
 
 entity.a=an {entity}
@@ -51,3 +49,5 @@ my/our=my
 Model.Root={Addr.Table}<br>{Pronoun.List}
 
 SignBy=By: <u>{xSignature}</u>
+
+=[U/class/ID]
