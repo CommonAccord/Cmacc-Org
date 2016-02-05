@@ -4,6 +4,8 @@ Time=May 23-24, 2016
 
 Location={Location.N,1,2}, 6th Floor
 
+Host={Who.Pentland.Name.Full}
+
 Organizers.and={Who.Hardjono.Name.Full} and {Who.Hazard.Name.Full}
 
 Location.=[U/id/mit_media_lab]
