@@ -4,7 +4,7 @@ Ti=<a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD</
   
 1.Ti=Create
 
-1.sec=Create: i) an empty File with a user-determined name so the use can start a new editing exercise; ii) from a File, create a new File with the current File referenced at the bottom (extending, revising the current File). 
+1.sec=Create: i) an empty File with a user-determined name so the use can start a new editing exercise; ii) from a File, create a new File with the current File referenced at the bottom (extending, revising the current File); iii) create a File as in i) or ii) but with the name of the File being a hash of the File (with an optional notional Path and File name expressed as a Key/Value in the File). 
 
 2.Ti=Read
 
@@ -20,7 +20,7 @@ Ti=<a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD</
 
 5.Ti=Render
 
-5.sec=Render some forms of "read."  Render has at least four formats - i) Print, ii) Doc, iii) Xray, iv) a list of each of the Key/Values used in the Doc view (complete Doc, but without object model). 
+5.sec=Render some forms of "read."  Render has at least four formats - i) Print, ii) Doc, iii) Xray, iv) a list of each of the Key/Values used in rendering the Doc view (i.e., the complete text of the Doc, but not assembled)(useful for editing outside an app, e.g. by someone who doesn't use the app). 
 
 6.Ti=Access
 
