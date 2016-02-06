@@ -16,6 +16,6 @@ Ti=Tech Stack:
 
 7.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Cmacc</a>
 
-90.sec=</center><br><a href="index.php?action=doc&file=S/About/Conference/Stack/LegalDocuments_0.md">Legal Documents</a>
+90.sec=</center><br><a href="index.php?action=doc&file=S/About/Conference/Stack/Legal/Documents_0.md">Legal Documents</a>
 
 =[Z/paras/s7]

@@ -14,7 +14,7 @@ Ti=Folders
 
 2.1.sec=Organized by names of parties?
 
-2.2.=[S/About/Conference/Stack/TermSources_0.md]
+2.2.=[S/About/Conference/Stack/Legal/Sources_0.md]
 
 2.3.Ti=Identities
  
