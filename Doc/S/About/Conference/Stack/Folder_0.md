@@ -1,6 +1,6 @@
 Ti=Folders
 
-0.sec=This doc suggests a canonical organization of folders in a repo.  The emphasis is on "suggest":  this suggestion is certainly wrong, though it reflects a great deal of (one person's) experience.   The basic notion is that we organize the top-level folders by function.
+0.sec=This doc suggests a canonical organization of folders in a repo.  The emphasis is on "suggest";  this suggestion is certainly wrong, though it reflects a great deal of (one person's) experience.   The basic notion is that we organize the top-level folders by function.
 
 1.Ti=Folder Organization
 
@@ -14,7 +14,7 @@ Ti=Folders
 
 2.1.sec=Organized by names of parties?
 
-2.2.=[S/About/Conference/Stack/PDS/Terms_0.md]
+2.2.=[S/About/Conference/Stack/TermSources_0.md]
 
 2.3.Ti=Identities
  
