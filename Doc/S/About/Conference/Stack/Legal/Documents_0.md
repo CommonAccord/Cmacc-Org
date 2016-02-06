@@ -10,7 +10,7 @@ Ti=Legal Documents
  
 4.sec=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/0.md">Clauses</a>
 
-5.sec=<a href="index.php?action=doc&file=Z/Agt/Agt_v01.md">Types</a>
+5.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Legal/Doc_Frame_0.md">Frames</a>
 
 90.sec=</center>
 
