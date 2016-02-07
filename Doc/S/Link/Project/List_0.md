@@ -1,4 +1,12 @@
-Note=<a href="index.php?action=html&file=S/Link/Project/List_0.md">View in plain text</a>
+Ti=List of projects
+
+0.sec=A small sample of the vast range of document projects.  Please let us know about yours! (Please also help us figure out a better way to catalog them.)  : 
+
+1.sec=<a href="https://github.com/CommonAccord/Cmacc-Org/blob/master/Doc/S/Link/Project/List_0.md">On GitHub (recommended).</a>
+
+2.sec=<a href="index.php?action=html&file=S/Link/Project/List_0.md">On CommonAccord.org in plain text (second best).</a>
+
+=[Z/ol/s2]
 
 This list is arbitrary and incomplete.  It is best read on the Github site (click above) - because of some use of markdown.  
 
