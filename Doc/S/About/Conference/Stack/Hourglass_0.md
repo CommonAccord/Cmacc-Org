@@ -20,7 +20,7 @@ Ti=Hourglass of Transacting:
 
 9.sec=                                   email, SMS, http, git, blockchain, IPFS  
 
-10.sec=                         JavaScript, Python, SQL, Lisp, Ethereum, Bitcoin
+10.sec=                         JavaScript, Python, SQL, Lisp, Solidity, Bitcoin
 
 11.sec=Banks, Merchants, Consultants, Manufacturers, Shippers, Wikipedia, Maps, Registries,  etc.
 
