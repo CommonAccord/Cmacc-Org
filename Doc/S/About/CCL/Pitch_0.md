@@ -20,11 +20,24 @@ Ti=<center>Proposal - Request for Support<br>{CCL}</center>
 
 2.Ti=Solution
 
-2.1.sec=A secure, “DRY”, peer-to-peer, open source transacting system based on a common record format, a common “object model”, cryptographically based access control, and users’ choice of communication protocols.
+2.1.0.sec=A secure, peer-to-peer, open source transacting system based on:
 
-2.2.sec=Collaboration on legal documents using the infrastructure of software code:  git, GitHub, html and editors.
+2.1.1.sec=a common record format;
+
+2.1.2.sec=shared “object models”;
+
+2.1.3.sec=a decentralized, user-controlled data model; 
+
+2.1.4.sec=cryptographically-based access control; and
+
+2.1.5.sec=users’ choice of communication technologies.
+
+2.1.=[Z/ol-i/s5]
+
+2.2.sec=Collaboration on legal documents using the methods and infrastructure of software code:  git, GitHub, html and editors.
 
 2.3.sec=A {CCL} to assist codification efforts, coordinate with national and sector equivalents, and provide a forum for governance. 
+
 2.=[Z/ol/s3]
 
 3.Ti=Impact
