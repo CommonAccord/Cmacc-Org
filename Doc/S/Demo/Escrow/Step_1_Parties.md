@@ -10,7 +10,7 @@ Arbitrator.=[U/id/solomon_shirley]
 
 ARB.=[S/Demo/Escrow/Form/JAMS_Arbitration_Chicago.md]
 
-Dispute.Notice.Within.days={m-}5 days{-m}
+Dispute.Notice.Within.days=5 days
 
 Delivery-Claim.Delay=24 hours
 
