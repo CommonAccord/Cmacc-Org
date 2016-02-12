@@ -1,4 +1,4 @@
-Note=From https://aws.amazon.com/fr/service-terms/ Section 57.10
+Note=From https://aws.amazon.com/fr/service-terms/ Section 57.10.  Tweeted in https://twitter.com/amac/status/698232785757143041
 
 Ti=Zombies Escape Clause
 
