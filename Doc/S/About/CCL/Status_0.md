@@ -8,7 +8,7 @@ Ti=Status
 
 1.2.sec=CommonAccord has a data model (Cmacc) that can extend Hyperledger to all legal relationships and be a standard for integration with legacy systems such as Word (legal), ECM and ERM.
 
-1.3.sec=There is a well-established tradition of legal codification, including bar and trade groups, agencies, and legal clinics.  The {HLP} can be enhanced and accelerated by combining the benefits of open source legal with open source tech.
+1.3.sec=There is a well-established tradition of legal codification, including bar and trade groups, agencies, and legal clinics.
 
 1.4.sec=Access control based on OAuth is very well-widely used and well understood. 
 
