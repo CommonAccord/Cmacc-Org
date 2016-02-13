@@ -25,7 +25,11 @@ Ti=Cmacc Extensions
 6.Ti=Non-recursive Includes
 
 6.sec=Include the Key/Values in a File, but not it's references.  A notation such as P1.=[!U/id/acme_incorporated] would include Keys from that File, but not from =[U/class/ID_Entity] etc. 
+
+7.Ti=Prefixed Key/Values in a File
+
+7.sec=If there are a number of Key/Values where each Key begins the same .. Product.Price=x ; Product.ID=321 ; etc., it might be convenient to be able to express this as <br>Product:<ul type=none><li>Price=x<li>ID=321</ul> or the like.  Variables in such indented elements would need to be evaluated as prefixed. 
  
-=[Z/ol/6]
+=[Z/ol/7]
 
 ID.HazardJ.=[U/id/hazardj]
