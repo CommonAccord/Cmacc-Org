@@ -1,8 +1,8 @@
 Ti=Problem
 
-0.sec=Transacting is slow, uncertain and expensive.
+0.sec=Transacting is slow, insecure, uncertain and expensive.
 
-1.sec=There are problems of payment, clearing, automation and interoperability that the <a href="http://hyperledger.org">Linux Foundation's {HLP}</a> is addressing.
+1.sec=There are problems of payment, clearing, automation and interoperability being addressed by that the blockchain community, and particularly the <a href="http://hyperledger.org">Linux Foundation's {HLP}</a>.
 
 2.sec=Legal compliance and optimization remain expensive, slow and uncertain.
 
