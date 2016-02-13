@@ -1,6 +1,6 @@
 Ti=Solution
 
-0.sec=Add open-source codified legal documents to the {HLP} open-source automation platform:
+0.sec=Add open-source codified legal documents to blockchain automation platforms:
 
 1.sec=Codify legal documents and records using the "Cmacc" data model and the tools of open source;
 

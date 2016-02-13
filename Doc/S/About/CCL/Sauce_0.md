@@ -1,11 +1,11 @@
 Ti=Sauce
 
-1.sec=A unique record format that is extremely simple and has the power of a "graph" object model with multiple prototype inheritance.
+1.sec=A simple record format that has the power of a "graph" object model with multiple prototype inheritance.
 
-2.sec=Fit with OAuth-UMA proven security approach.
+2.sec=A large number of sample legal document solutions. 
 
-3.sec=Codification of legal.
+3.sec=Fit with blockchain and OAuth-UMA security.
 
-4.sec=Fifteen years of efforts and thought-leadership regarding need for a source-based approach to legal codification.
+4.sec=Fifteen years of efforts regarding source-based legal codification.
  
 =[Z/ol/s4]
