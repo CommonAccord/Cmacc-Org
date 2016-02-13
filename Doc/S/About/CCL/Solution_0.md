@@ -4,7 +4,7 @@ Ti=Solution
 
 1.sec=Codify legal documents and records using the "Cmacc" data model and the tools of open source;
 
-2.sec=Iterate a general legal "object model"; and
+2.sec=Iterate a legal "object model" to describe persons, properties, places, transactions and relationships; and
 
 3.sec=Add a layer of user-managed access control.
 

@@ -1,6 +1,8 @@
 Ti=Plan
 
-1.Ti=Conference - MIT - Digital Contracts, Identities & Blockchains
+0.sec=There is currently no legal structure to hold the shared legal text, which we expect to become a legal operating system. Nor are there national or trade-sector equivalents.  Creating a structure, tentatively called the "{CCL}" is purpose of this proposal and an expected focus of the <a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">conference at MIT on May 23-24</a>.
+
+1.Ti=Conference - MIT - <a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Digital Contracts, Identities & Blockchains</a>
 
 1.1.sec=Presentations and discussions with participants and stakeholders
 
@@ -8,12 +10,14 @@ Ti=Plan
 
 1.=[Z/ol/s2]
 
-2.Ti=Staff
+2.=[S/About/CCL/Proponents_0.md]
 
-2.sec=TBD
-
-3.Ti=Budget
+3.Ti=Staff
 
 3.sec=TBD
 
-=[Z/ol/3]
+4.Ti=Budget
+
+4.sec=TBD
+
+=[Z/ol/4]

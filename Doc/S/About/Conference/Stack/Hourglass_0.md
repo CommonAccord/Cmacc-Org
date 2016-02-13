@@ -14,15 +14,13 @@ Ti=Hourglass of Transacting:
 
 6.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Object Model</a>
 
-7.sec=                                                                   JSON, graph, <b>files</b>, XML
+7.sec=                                                                   <b>files</b>, JSON, graph,  XML
 
-8.sec=JavaScript <b>perl-parser</b> Mediwiki 
+8.sec=JavaScript or <a href="https://github.com/CommonAccord/Cmacc-Org/blob/master/vendor/library/parser.pl">other parser</a>
 
-9.sec=                                   email, SMS, http, git, blockchain, IPFS  
+9.sec=                                   blockchains, git, IPFS, other means of sharing
 
-10.sec=                         JavaScript, Python, SQL, Lisp, Solidity, Bitcoin
-
-11.sec=Banks, Merchants, Consultants, Manufacturers, Shippers, Wikipedia, Maps, Registries,  etc.
+10.sec=                         Solidity, Bitcoin, and other execution of instructions
 
 
 90.Sec=</center><br><br><a href="https://books.google.fr/books?id=NiATs-C6nlQC&lpg=PP1&dq=isbn%3A0300145349&pg=PA68#v=onepage&q&f=false">Zittrain, Jonathan, The Internet and How to Stop It, page 68</a><br><center> {Theme.Cmacc-Access-Ledger.jpg}</center>
@@ -30,4 +28,4 @@ Ti=Hourglass of Transacting:
 Theme.=[S/About/Conference/Theme/0.md]
 
  
-=[Z/paras/s11]
+=[Z/paras/s10]
