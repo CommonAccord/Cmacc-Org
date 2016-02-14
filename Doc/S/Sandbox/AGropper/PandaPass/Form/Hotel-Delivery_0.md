@@ -14,4 +14,4 @@ Note1=Seems no obligations from RSO to RqP.  Right?
 
 UMA.Obligations={UMA.RqP.RSO.Sec}
 
-=[GHx/KantaraInitiative/PandaPass/Form/Base_0.md]
+=[S/Sandbox/AGropper/PandaPass/Form/Base_0.md]

@@ -12,4 +12,4 @@ UMA.Obligations={UMA.RqP.ASO.Sec}<li>{UMA.ASO.RpP.Sec}<li>{UMA.AuthzP.RqP.Sec}
 
 Note1=<b>Use the base form:</b>
 
-=[GHx/KantaraInitiative/PandaPass/Form/Base_0.md]
+=[S/Sandbox/AGropper/PandaPass/Form/Base_0.md]
