@@ -33,6 +33,8 @@ At bottom a few links to other lists.
 
 ==Other Model Docs==
 <table><tr><td><b>A Tiny Slice of the Rest</b></td><td></td></tr>
+
+<tr><td>http://theodi.org/open-banking-standard</td><td>UK Open Banking Standard</td></tr>
 <tr><td>http://www.clausebuilder.org</td><td>American Arbitration Assn (adr.org) Clause Building Tool</td></tr>
 <tr><td>http://abanet.org/abastore/index.cfm?section=main&fm=Product.AddToCart&pid=5070636 ABA Model Share Purchase Agreement</td><td>ABA - trying to find a list of all their materials.</td></tr>
 <tr><td>[http://books.google.com/books?id=Se6WohjS83sC&printsec=frontcover&dq=inauthor:%22American+Bar+Foundation.+Corporate+Debt+Financing+Project%22&hl=en&sa=X&ei=AXKZUt24NYScjALj-4CwBg&ved=0CEUQ6AEwAQ#v=onepage&q&f=false American Bar Foundation - Model Debenture Indenture]</td><td>This project from the age of typewriters casts a long shadow.  See the discussion of the rationale at page 3 of this reference.</td></tr>
