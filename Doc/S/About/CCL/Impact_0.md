@@ -1,9 +1,13 @@
 Ti=Impact
 
-1.sec=Improved access to justice; greater legal certainty; greater productivity; advancement of self-governance, rule of law, privacy and healthcare delivery.
+1.sec=Rapid legal codification.
 
-2.sec=Greater security and robustness of IT systems for individuals, enterprise and government.
+2.sec=Improved speed, transparency and certainty in business dealings.
 
-3.sec=Greater transparency of institutions. 
+3.sec=Greater access to justice, rule of law and self-governance.
 
-=[Z/ol/s3]
+4.sec=Greater transparency of institutions. 
+
+5.sec=Improved outcomes for social objectives such as privacy, health, climate and decentralization.
+ 
+=[Z/ol/s5]
