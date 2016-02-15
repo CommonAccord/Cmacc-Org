@@ -1,4 +1,4 @@
-Name.First=Alex
+Name.First=Alex "Sandy"
 
 Name.Last=Pentland
 

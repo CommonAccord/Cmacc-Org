@@ -6,4 +6,4 @@ Roles.Sec=<b>Roles</b><br>In {this_Agreement}:<ol><li>{Role.P1.sec}<li>{Role.P2.
 
 UMA.Obligations={UMA.RSO.ASO.Sec}<li>{UMA.ASO.RSO.Sec}<li>{UMA.AuthzP.RSO.Sec}
 
-=[GHx/KantaraInitiative/PandaPass/Form/Base_0.md]
+=[S/Sandbox/AGropper/PandaPass/Form/Base_0.md]

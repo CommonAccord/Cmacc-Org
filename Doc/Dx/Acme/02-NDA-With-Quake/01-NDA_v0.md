@@ -1,7 +1,3 @@
-P1.=[U/id/acme_incorporated]
-
-P2.=[U/id/quake_incorporated]
-
 P1.Handle=Acme
 
 P2.Handle=Quake
@@ -30,4 +26,8 @@ Misc.Assign.3.sec={Misc.Assign.3.Alt1.sec}
 
 Misc.Entire.Sec={Misc.Entire.Alt2.Sec}
 
-=[Wx/com/cooleygo/US/NDA/Form/Doc_v01.md]
+P1.=[U/id/acme_incorporated]
+
+P2.=[U/id/quake_incorporated]
+
+=[Wx/com/cooleygo/US/NDA/Form/0.md]

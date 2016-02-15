@@ -1,7 +1,3 @@
-DEO.=[U/id/Acme_SARL.md]
-
-DEO.Sign.=[U/id/TW/mdangear.md]
-
 DEO.Sign.Title=Dirigeant
 
 DEO.Sign.Addr.1,2={DEO.Addr.1,2}
@@ -25,6 +21,10 @@ DEO.Sign.ValidatingInformation=<font color="red">Approbation de son assemblée g
 DEO.Seal=//ACME France SARL//
 
 DEO.Activities=<font color="red">{DEO.Name.Full} offre des services d'adaptation et de après-vente pour des produits d'{DIO.Name.Full}.</font>
+
+DEO.=[U/id/Acme_SARL.md]
+
+DEO.Sign.=[U/id/TW/mdangear.md]
 
 =[Dx/Acme/09-EU-US-DataTransfer/Doc_v0.md]
 
