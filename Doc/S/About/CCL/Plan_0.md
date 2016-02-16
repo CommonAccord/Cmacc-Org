@@ -1,6 +1,6 @@
 Ti=Plan
 
-0.sec=There is currently no legal structure to hold the shared legal text, which we expect to become a legal operating system. Nor are there national or trade-sector equivalents.  Creating a structure, tentatively called the "{CCL}" is purpose of this proposal and an expected focus of the conference at MIT on May 23-24.
+0.sec=There is currently no legal structure to hold the shared legal text, which we expect to evolve into a legal operating system. Nor are there national or trade-sector equivalents.  Creating a structure, tentatively called the "{CCL}" is purpose of this proposal and an expected focus of the conference at MIT on May 23-24.
 
 1.Ti=Conference - MIT - <a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Digital Contracts, Identities & Blockchains</a>
 
