@@ -14,7 +14,7 @@ Ti=Section
 
 2.5.sec="Secs" is completed with a number of Sections, for instance: &#123;1.Sec}&#60;li>&#123;2.Sec}. "secs" is completed with title-less sections:  &#123;1.sec}&#60;li>&#123;2.sec}.
 
-2.90.sec=The kit is not mandatory and not complete.  It can be improved and expanded.  Notably, 0.sec and 90.sec could be Intro.sec and Extro.sec, or something along those lines.
+2.90.sec=The kit is not mandatory and not complete.  It can be improved and expanded.  Notably, 0.sec and 90.sec could be Intro.sec and Extro.sec, or something along those lines. 
 
 2.=[Z/ol/s5] 
 
