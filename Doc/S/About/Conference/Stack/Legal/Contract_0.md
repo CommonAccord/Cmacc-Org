@@ -8,7 +8,7 @@ Ti=Contract
 
 1.2.0.sec=The context often is:
 
-1.2.1.sec=two Parties (it can be more but can't be less); and
+1.2.1.sec=two Parties (there can be more but can't be fewer); and
 
 1.2.2.sec=a Form of contract agreement.
 
