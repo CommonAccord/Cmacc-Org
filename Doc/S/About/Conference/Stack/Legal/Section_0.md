@@ -19,3 +19,5 @@ Ti=Section
 2.=[Z/ol/s5] 
 
 =[Z/ol/s2]
+
+Note=This File spells out some of the special characters, notably the { so that they are not evaluated.  Editing on GitHub retains the spelled-out form.  As usual, the GitHub interface is well-adapted. 
