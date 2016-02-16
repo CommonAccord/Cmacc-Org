@@ -30,13 +30,13 @@ Ti=Contract
 
 3.Ti=Form
 
-3.0.sec=A contract Form can be formatted in various ways.  There are conventional format agreements (which vary somewhat from one language and tradition to another), letter agreements, notes, etc.  It may be convenient to start with the most formal because they are the most common.  An agreement can be understood as nested Variables.
+3.0.sec=A contract Form can be formatted in various ways.  There are conventional format agreements (which vary somewhat from one language and tradition to another), letter agreements, notes, etc.  It may be convenient to start with the most formal because they are the most common.  An agreement can be understood as nesting:
 
-3.1.sec=At root, there is a Header, a Frame, a Footer, and possibly attachments.
+3.1.sec=A root consisting of a Header, a Frame, a Footer and (optionally) attachments.
 
-3.2.sec=The Frame consists of a Heading, Sections and Signature.
+3.2.sec=The <a href="index.php?action=source&file=Z/Agt/Agt_v01.md">Frame</a> consists of a Heading, Sections and Signature.
 
-3.3.sec=The Heading is a title and some summary information, a description of the parties, a statement that the document is an agreement, background, and an introductory line for the sections.
+3.3.sec=The Heading is a title and some summary information, a description of the parties, a statement that the document is an agreement, background, and an introductory sentence for the sections.
 
 3.4.sec=The Sections are the meat of the agreement and commonly are an outline with subjects such as the business deal, conditions, representations, term, disputes, remedies and miscellaneous.
 
