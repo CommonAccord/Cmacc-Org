@@ -1,4 +1,4 @@
-Note=To change the number of parties: Intro.Parties.List={Intro.Parties.List.1-3} and Sign.Parties={Sign.Parties.1-3}.  To populate your document, add sections - in FrontEnd.Secs - and in the BackEnd.Secs.  This presents a generic BackEnd.  To override all, use Secs=whatever you want.
+Note=To change the number of parties: Intro.Parties.List={Intro.Parties.List.1-3} and Sign.Parties={Sign.Parties.1-3}.  To populate your document, add sections.  To override all, use Secs=whatever you want.
 
 DocBody={Doc}
 

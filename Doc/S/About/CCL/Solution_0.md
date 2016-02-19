@@ -8,4 +8,6 @@ Ti=Solution
 
 3.sec=Add a layer of user-managed access control.
 
-=[Z/ol/s3]
+4.sec=Integrate with blockchain and other platforms, such as git, document management, document assembly and enterprise contract management systems. 
+
+=[Z/ol/s4]
