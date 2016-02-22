@@ -1,7 +1,8 @@
-Model.Root=<b>{Ti}</b><br>{Intro.sec}<ol><li>{Repo.Sec}<li>{File.Sec}<li>{Doc.Sec}<li>{EG.Sec}</ol>{Extro.sec}
+Model.Root=<b>{Ti}</b><br>{Intro.sec}<ol><li>{Repo.Sec}<li>{File.Sec}<li>{Doc.Sec}<li>{EG.Sec}<li>{Plus.Sec}</ol>{Extro.sec}
 
 Ti=<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Cmacc</a>
-Intro.sec=Cmacc is pronounced "Smack."   It is the informal name for the CommonAccord data model.  The following is a semi-formal description of Cmacc.  The description is based on a file format for a Cmacc "Record".  A Record may be in any format, but for a variety of reasons to be expanded, the File format seems canonical.  With that as prologue:
+
+Intro.sec=Cmacc is pronounced "Smack."   It is the informal name for the CommonAccord data model.  The following is a semi-formal description of Cmacc.  The description is based on a file format for a Cmacc "Record".  A Record may be in any format, but for a variety of reasons to be expanded, the File format seems canonical.  (The functional part of a Record is only slightly more complex than a "Dictionary" as used in Python. The difference is that one can "prefix" another dictionary.) With that as prologue:
 
 Repo.Ti=Repository
 
@@ -52,5 +53,7 @@ EG.1.sec=A File of deal points references parties and a form of document:  <a hr
 EG.2.sec=File names may be "hashes", guaranteeing uniqueness and allowing certain kinds of proof even when maintaining the confidentiality of information in a "DRY" system: <a href="index.php?action=list&file=S/Sandbox/Blockchain/">S/Sandbox/Blockchain/</a>
 
 EG.=[Z/ol/s2] 
+
+Plus.=[S/About/Conference/Stack/Cmacc_Extensions_0.md]
 
 Extro.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Folder_0.md">Folders</a>.
