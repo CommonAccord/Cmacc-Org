@@ -94,7 +94,7 @@ At bottom a few links to other lists.
 
 ==Some corporate form docs==
 <table rules='rows'>
-<tr><td>http://www-05.ibm.com/support/operations/us/en/documents.html</td><td></td></tr>
+<tr><td>http://www-05.ibm.com/support/operations/us/en/documents.html</td><td>Many of the linked docs not available, but a few are.</td></tr>
 </table>
 
 ==Some other Lists of Lists==
