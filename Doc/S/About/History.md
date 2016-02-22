@@ -14,21 +14,21 @@ Ti=Cmacc Background
 
 1.6.sec=In 2010, Ludovic Dubost made a version using the XWiki platform.  In that version, we had the possibility to "prefix" the keys and variables in another list.  There were a few minor unneeded complexities that we had not worked out, but the basic idea was fully there.  Ludovic also coded a remarkable "Xray" view of the rendered text that was more or less wysiwyg - indeed better than wysiwyg because it also reflected the structure of the sources. 
 
-1.7.sec=Except for the first RoR version, each of these dealt only with local sources, they imposed a hub.  That creates obvious problems of confidentiality and robustness.  Alan Littleford then did a version based on CouchDB distributed data model, which in some respects anticipates many of the benefits of a blockchain approach.
+1.7.sec=Except for the first RoR version, each of these dealt only with local sources, they imposed a hub.  That creates obvious problems of confidentiality and robustness.  Alan Littleford then did a version based on CouchDB distributed data model, which anticipates some of the benefits of blockchains.
 
-1.8.sec=Lun Yuen, who also supported the project in other ways, coded a version that had some original notions of versioning, and a somewhat different way of formatting key/values.
+1.8.sec=Lun Yuen, who also supported the project in other very important ways, coded a version that had some new notions of versioning and a somewhat different approach to formatting key/values.  It also had some ability to use variables in names of files and keys, as well as in the values (text). 
 
 1.=[Z/ol-none/s8]
 
 2.Ti=Berkman, MIT, Primavera and GitHub
 
-2.1.sec=In 2014, in connection with a legal hackathon at MIT, I was referred to Primavera De Filippi at Harvard's Berkman Center because of her work on smart contracts and blockchains.  Primavera saw the connection between smart contracts and legal text, but also the problems of the various frameworks that CommonAccord then was in.  She recoded the app, rapidly, in perl, enabling use of flat files (the first time since the original RoR version).  This permitted us to host the app and content as a repo on GitHub, to run the app locally or via services such as Heroku with a very minimal install.  It enabled a fully decentralized data model, working just like collaboration on software by the open source community.  It was also the first version with lazy evaluation of files as well as keys.  This enables unlimited use of the object model.  Her coding was done rapidly, famously at a McDonalds in Buenos Aires and overnight at the Media Lab, and it has performance issues and little error-handling.  But it is perfectly accurate and adequate in what it does.  It can be the measure of compliance.
+2.1.sec=In 2014, in connection with a legal hackathon at MIT, I was referred to Primavera De Filippi at Harvard's Berkman Center because of her work on smart contracts and blockchains.  Primavera saw the connection between smart contracts and legal text, but also the problems of the various frameworks that CommonAccord then was in.  She recoded the app, rapidly, in perl, enabling use of flat files, for the first time since the original RoR version.  This permitted us to host the app and content as a repo on GitHub, to run the app locally or via services such as Heroku with a very minimal install.  It enabled a fully decentralized data model based on repositories, working just like collaboration on software by the open source community.  It was also the first version with lazy evaluation of files.  This enables unlimited use of the object model.  Her coding was done rapidly, famously at a McDonalds in Buenos Aires and overnight at the Media Lab, and has performance issues and very little error-handling.  But it is perfectly accurate.  It can be the measure of compliance.
 
-2.2.0.sec=Since that recoding, I figured out solutions to a few problems.  The most important solutions are:
+2.2.0.sec=Since that recoding, I figured out solutions to a few problems.  The most important of these are:
 
 2.2.1.sec=Widgets for common format elements - notably sections and subsections.  Most legal documents, and many others, are outlines.  These widgets make it very easy to onboard and maintain a new document.  They invite consistency in format without imposing it.
 
-2.2.2.sec=Organizing the file system into an image of the web (at /W/) and GitHub (at /GH/) so that materials are organized by author (actually by host), rather than trying to develop a generic naming scheme.  This has been greatly simplifying and liberating.  (There are also a few subject matter classifications, such as  /D/ for transactions; /U/ for persons, places and things; /S/ for shared, common materials, /P/ for private materials.
+2.2.2.sec=Organizing the file system into an image of the web (at /W/) and GitHub (at /GH/) so that materials are organized by author (actually by host), rather than trying to develop a generic naming scheme.  This has been greatly simplifying and liberating.  (There are also a few subject matter classifications, such as  /D/ for transactions; /U/ for persons, places and things; /S/ for shared, common materials, /P/ for private materials.)
 
 2.2.=[Z/ol/s2]
 
@@ -36,7 +36,7 @@ Ti=Cmacc Background
 
 3.Ti=MIT, Access Control, DRY transaction, Conference
 
-3.1.sec=In connection with the User-Managed-Access legal working group, we iterated a set of legal materials.  Thomas Hardjono and I collaborated on an architecture for a secure approach to digital contracts based on Cmacc documents and user-managed access control.  This can be a complement to blockchain-based proof, signature and automation.
+3.1.sec=In connection with the User-Managed-Access legal working group, we iterated a set of legal materials.  Thomas Hardjono and I collaborated on an architecture for a secure approach to digital contracts based on Cmacc documents and user-managed access control.  This can be a complement to blockchain-based proof, signature, payment and automation.
 
 3.2.sec=Finally, the blockchain movement has gained so much momentum that it now is moving even very large organizations to reconsider their approaches to automation, payments and proof.  This is an occasion to reconsider legal.  The Cmacc model also can offer a simple approach to compatibility with existing ("legacy?") systems such as document management, contract management, and generally speaking the legal system.
 
