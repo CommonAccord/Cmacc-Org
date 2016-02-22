@@ -4,21 +4,21 @@ Ti=Cmacc Background
 
 1.1.sec=In the 1990s, as we in the legal profession were adapting to word processing, networks and document management, I kept watching the progress of the open source community.  From the GNU origins to the Linux kernel, the various distributions and ways of sharing, it seemed that law, too, could be handled as source code. 
 
-1.2.sec=I played a lot with document automation, at first in Microsoft Word, since that was the tool all we lawyers used.  I made a system for adding addresses to documents and for keeping a log of them.  I came pretty close to making a document assembly system.  In doing that, I had to struggle with the complexities of Word, which was and is vastly more complicated than HTML, the choice of text on the web.  I had a semi-usable system when the upgrade to a next version of Word meant a major change in the programming language.
+1.2.sec=I played a lot with document automation, at first in Microsoft Word, since that was the tool all we lawyers used.  I made a system for adding addresses to documents and for keeping a log of them.  I came pretty close to making a document assembly system.  In doing that, I had to struggle with the complexities of Word, which was and is vastly more complicated than HTML, the choice of text on the web.  I had an almost-usable system when the upgrade to a next version of Word meant a major change in the programming language, and I gave up.
 
-1.3.sec=Still, it seemed that legal text would be better if shared, and Wikipedia showed a good way to organize modules of text, and the power of a community.  I made some tentative efforts, but bumped up against the gap between the wiki content and the need for the modules to come together to form documents.
+1.3.sec=Still, it seemed that legal text would be better if shared.  Wikis showed a good way to organize modules of text and the power of a community.  I made some tentative efforts, but bumped up against the gap between the wiki content and the need for the modules to come together to form documents.  I explored content management and software package management systems, but got lost in technicalities.
 
-1.4.sec=Some years later, I had a hunch about how snippets of text could be assembled into documents.  I expressed the hunch as best I could to Jay Hancock, who coded a system based on Ruby on Rails.  I spent much of a year learning the framework and enough Ruby to be able to continue work, and one day the critical idea found me.  That idea is what I have since learned is prototype inheritance.
+1.4.sec=Some years later, I had a hunch about how snippets of text could be assembled into documents.  I expressed the hunch as best I could to Jay Hancock, who coded a system based on Ruby on Rails.  I spent much of a year learning the framework and enough Ruby to be able to continue work, and one day the critical idea found me.  That idea is what I have since learned is prototype inheritance. The RoR app could render documents from sources that were in local files, in a database or at URLs, all at the same time.  This meant that I could use an html editor like OpenOffice to edit large texts and could put small texts in a local version of Mediawiki.  
 
-1.5.sec=The RoR app could render documents from sources that were in local files, in a database or at URLs, all at the same time.  This meant that I could use an html editor like OpenOffice to edit large texts and could put small texts in a local version of Mediawiki.  
+1.5.sec=In order to make the texts generally available, I figured that it would make sense to have an extension written for Mediawiki.  That would permit documents to be rendered on the site.  This system, written in 2009 by Andrew Fitzpatrick, still works and is available on Github.   The basic choices made then (key/value pairs, delimited by line feeds ... ) have been durable.  Texts from the Mediawiki version can be copied into the current parser with only very modest modifications.  A Mediawiki instance can be a collaboration environment, creating resources for a decentralized web, including the current implementation.
 
-1.6.sec=In order to make the texts generally available, I figured that it would make sense to have an extension written for Mediawiki.  That would permit documents to be rendered on the site.  This system, written in 2009 by Andrew Fitzpatrick, still works.   The texts can be copied into the current parser with only very modest modifications.
+1.6.sec=In 2010, Ludovic Dubost made a version using the XWiki platform.  In that version, we had the possibility to "prefix" the keys and variables in another list.  There were a few minor unneeded complexities that we had not worked out, but the basic idea was fully there.  Ludovic also coded a remarkable "Xray" view of the rendered text that was more or less wysiwyg - indeed better than wysiwyg because it also reflected the structure of the sources. 
 
-1.7.sec=There were limitations that I sensed by could not quite describe until some time later, in 2010 when Ludovic Dubost made a version using the XWiki platform.  In that version, we had the possibility to "prefix" another list.  There were a few minor unneeded complexities, but the basic idea was fully there.  Ludovic also coded a remarkable view of the rendered text that was more or less wysiwyg - in some respects much better than wysiwyg because in reflected the structure of the sources. 
+1.7.sec=Except for the first RoR version, each of these dealt only with local sources, they imposed a hub.  That creates obvious problems of confidentiality and robustness.  Alan Littleford then did a version based on CouchDB distributed data model, which in some respects anticipates many of the benefits of a blockchain approach.
 
-1.8.sec=Except for the first RoR version, each of these were based on a hub.  That creates obvious problems of confidentiality and robustness.  Alan Littleford then did a version based on CouchDB distributed data model.  There followed another hub-based version that had some original notions of versioning.
+1.8.sec=Lun Yuen, who also supported the project in other ways, coded a version that had some original notions of versioning, and a somewhat different way of formatting key/values.
 
-1.=[Z/ol/s8]
+1.=[Z/ol-none/s8]
 
 2.Ti=Berkman, MIT, Primavera and GitHub
 
@@ -32,7 +32,7 @@ Ti=Cmacc Background
 
 2.2.=[Z/ol/s2]
 
-2.=[Z/ol/s2]
+2.=[Z/ol-none/s2]
 
 3.Ti=MIT, Access Control, DRY transaction, Conference
 
@@ -42,6 +42,6 @@ Ti=Cmacc Background
 
 3.3.sec=This led to the organization of the Conference.
 
-3.=[Z/ol/s3]
+3.=[Z/ol-none/s3]
 
 =[Z/ol/3]
