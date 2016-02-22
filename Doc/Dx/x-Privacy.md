@@ -26,7 +26,7 @@ Privacy.FR.=[Dx/Acme_FR/13-PrivacyPolicy/Doc_v0.md]
 
 Master Supply Agreement:=Personal Data Provisions
 
-MSA.=[Wx/com/gepower/MasterServiceAgreement/Form/Doc_v01.md]
+MSA.=[Wx/com/gepower/MasterServiceAgreement/Form/0.md]
 
 Also:=
 
