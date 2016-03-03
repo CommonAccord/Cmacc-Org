@@ -1,6 +1,6 @@
 EU Model Clauses:=
 
-Data.UK.=[Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md]
+Data.UK.=[Dx/Acme_UK/01-EU-US-DataTransfer/Doc_0.md]
 
 Data.DE.=[Dx/Acme_DE/01-EU-US-DataTransfer/Doc_v0.md]
 
