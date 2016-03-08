@@ -90,6 +90,13 @@ At bottom a few links to other lists.
 <tr><td></td><td></td></tr>
 </table>
 
+
+
+==Some corporate form docs==
+<table rules='rows'>
+<tr><td>http://www-05.ibm.com/support/operations/us/en/documents.html</td><td>Many of the linked docs not available, but a few are.</td></tr>
+</table>
+
 ==Some other Lists of Lists==
 <table rules='rows'>
 <tr><td>http://www.personal.psu.edu/rcr5122/Departments.html</td><td>From @richard1000 </td></tr>

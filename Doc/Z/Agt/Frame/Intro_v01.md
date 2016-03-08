@@ -90,9 +90,9 @@ This.Sec={This.sec}
 
 This.sec=This {Doc.Title} (the "{Agreement}") is made as of the {Effective_Date} by and between the {parties}.
 
-Recite.Sec=<br><br>{Recite.sec}<br>
+Recite.Sec=<br><br><b>{Recite.Ti}:</b><ul type="none">{Recite.secs}</ul>
 
-Recite.sec=<b>Recitals:</b><ul type="none">{Recite.secs}</ul>
+Recite.Ti=Recitals
 
 That.Sec={That.sec}
 

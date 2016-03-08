@@ -1,19 +1,19 @@
-Mots=utilisés
+Ti=Dictionnaire
 
-Partie={d-}Partie{-d}
+Partie=<span class="definedterm">Partie</span>
 
-partie={d-}Partie{-d}
+partie=<span class="definedterm">Partie</span>
 
-Parties={d-}Parties{-d}
+Parties=<span class="definedterm">Parties</span>
 
-parties={d-}Parties{-d}
+parties=<span class="definedterm">Parties</span>
 
-Accord={d-}Accord{-d}
+Accord=<span class="definedterm">Accord</span>
 
-Date_de_l'Accord={d-}Date de l'Accord{-d}
+Date_de_l'Accord=<span class="definedterm">Date de l'Accord</span>
 
-Partie_Tierce_Identifiée={d-}Partie Tierce Identifiée{-d}
+Partie_Tierce_Identifiée=<span class="definedterm">Partie Tierce Identifiée</span>
 
-Parties_Tierce_Identifiées={d-}Parties Tierce Identifiées{-d}
+Parties_Tierce_Identifiées=<span class="definedterm">Parties Tierce Identifiées</span>
 
-null=</u>
+null=</i>

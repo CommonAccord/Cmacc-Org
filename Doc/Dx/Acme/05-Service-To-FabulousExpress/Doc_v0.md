@@ -1,7 +1,3 @@
-P1.=[U/id/fabulous_express_inc]
-
-P2.=[U/id/acme_incorporated]
-
 EffectiveDate.YMD=<b>October 1, 2015</b>
 
 Because.secs=<b>{P1.Name.Full} may wish to obtain a variety of services from {P2.Name.Full} </b>
@@ -52,8 +48,14 @@ Auto.Occur.$=<b>$1,000,000</b>
 
 Prof.Occur.$=<b>$1,000,000</b>
 
-Law.State=<b>Massachusetts</b>
+Dispute.=[U/at/US/MA/Geo]
 
-Forum.cl=<b>the federal or state courts sitting for the county of Suffolk, Massachusetts</b>
+P1.=[U/id/fabulous_express_inc]
+
+P1.Handle={Company}
+
+P2.=[U/id/acme_incorporated]
+
+P2.Handle={Supplier}
 
 =[Wx/com/gepower/MasterServiceAgreement/Form/0.md]

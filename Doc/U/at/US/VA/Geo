@@ -2,5 +2,6 @@
 
 Addr.State=Virginia
 
-Addr.ST=VA
+State/Commonwealth=Commonwealth
 
+Addr.ST=VA
