@@ -1,15 +1,18 @@
-Ti=types of customers
+Model.Root={Content}
 
-1.sec=end users
+Note= the various types of customers are: end users, influencers, recommenders, economic buyer, decision maker. And then we should always also consider who are the saboteurs
 
-2.sec=influencers
+Content=<ol><li>{Type}</li><li>{Problem}</li><li>{DayInTheLife}</li><li>{Organization}</li><li>{ROI}</li><li>{MVP}</li></ol>
+=[Z/ol/s6] 
 
-3.sec=recommenders
+Type=What type of customer 
 
-4.sec=economic buyer
+Problem=What problem is the customer trying to solve
 
-5.sec=decision maker
+DayInTheLife=A day in the life of the customer
 
-6.sec=saboteurs
+Organization=Organization and who are the influencers within the organization
 
-=[Z/ol/s6]
+ROI=Return on investment
+
+MVP=Minimum set of features
