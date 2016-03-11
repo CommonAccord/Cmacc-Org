@@ -20,7 +20,7 @@ Further.=[Wx/com/techstars/Equity/NotePurchase/Sec/Further_v01.md]
 
 Misc.=[Wx/com/techstars/Equity/NotePurchase/Sec/Misc_v01.md]
 
-90.=[Z/Agt/Agt_End.md]
+90.=[Z/Agt/Frame/End_v01.md]
 
 =[Z/ol/0]
 
