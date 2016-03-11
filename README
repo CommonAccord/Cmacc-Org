@@ -1,0 +1,19 @@
+# CommonAccord
+
+## How to run the docker image?
+
+If you have a docker setup, including environment export, up and running, you
+can `make run` to have a stack up in a few seconds. The first run will take a
+bit of time as docker downloads the PHP/Apache image, but subsequent runs
+should take less than a second.
+
+Running the code using the docker method have several benefits. One of the most
+obvious is that the codebase is decoupled from the documents base: while the
+code is running in an isolated container within docker, your documents can stay
+on your computer wherever you want. You just need to specify `DOCPATH=...` on
+run to have your documents mounted (read/write) into the runtime container.
+
+For example::
+
+    DOCPATH=/Users/johndoe/Documents/LegalDocuments make start
+
