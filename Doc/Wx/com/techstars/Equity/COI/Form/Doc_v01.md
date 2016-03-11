@@ -1,4 +1,6 @@
-DocBody=<!DOCTYPE html><html><style>ol (Curly-)list-style-type: decimal;(-Curly) ol ol (Curly-)list-style-type: upper-roman;(-Curly) ol ol ol (Curly-)list-style-type: upper-alpha;(-Curly) ol ol ol ol (Curly-)list-style-type: decimal;(-Curly) ol ol ol ol ol (Curly-)list-style-type: lower-alpha;(-Curly) ol ol ol ol ol ol (Curly-)list-style-type: lower-roman;(-Curly) ol ol ol ol ol ol ol (Curly-)list-style-type: upper-alpha;(-Curly) ol ol ol ol ol ol ol ol (Curly-)list-style-type: decimal;(-Curly)</style><body>{Doc}
+Html.Head=<style>ol {list-style-type: decimal;} ol ol {list-style-type: upper-roman;} ol ol ol {list-style-type: upper-alpha;} ol ol ol ol {list-style-type: decimal;} ol ol ol ol ol {list-style-type: lower-alpha;} ol ol ol ol ol ol {list-style-type: lower-roman;} ol ol ol ol ol ol ol {list-style-type: upper-alpha;} ol ol ol ol ol ol ol ol {list-style-type: decimal;}</style>
+
+DocBody={Doc}
 
 PageName=Startup/Techstars/Form/Techstars_SeriesAA_Incorp.01.md
 
@@ -8,7 +10,7 @@ Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
 
 0.sec={F1.Name.Full} hereby certifies that:
 
-1.sec=The original name of this company is [NEWCO, INC.]. and the date of filing the original Certificate of Incorporation of this company with the Secretary of State of the State of Delaware was [December 12, 2010].
+1.sec=The original name of this company is {Co.Name.Full.First}. and the date of filing the original Certificate of Incorporation of this company with the Secretary of State of the State of Delaware was {Co.COI.File.First.YMD}.
 
 2.sec={F1.he/she} is the duly elected and acting {F1.Title} of {Co.Name.Full}, a Delaware corporation.
 
@@ -21,6 +23,5 @@ Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
 90.1.sec=IN WITNESS WHEREOF, {Co.Name.Full} has caused this Amended and Restated Certificate of Incorporation to be signed by its {F1.Title} this {Agt.Effective.YMD}.
 
 90.2.sec={Co.Sign.Block}
-
 
 =[Z/ol/s5]

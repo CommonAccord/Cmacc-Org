@@ -8,8 +8,6 @@
 
 4.=[Wx/com/techstars/Equity/COI/Sec/Issue_v01.md]
 
-5.0.sec=<b> </b>
-
 5.1.sec=The liability of the directors of the Company for monetary damages shall be eliminated to the fullest extent under applicable law.
 
 5.2.sec=Any repeal or modification of this Article V shall only be prospective and shall not affect the rights under this Article V in effect at the time of the alleged occurrence of any action or omission to act giving rise to liability.
