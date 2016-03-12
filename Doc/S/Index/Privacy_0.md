@@ -16,4 +16,8 @@ Ti=Privacy
 
 4.sec=<a href="index.php?action=source&file=Wx/gov/seattle/murray/privacy/Form/Doc_v0.md">Wx/gov/seattle/murray/privacy/Form/Doc_v0.md</a>
 
+5.Ti=Automattic Privacy Policy
+
+5.sec=<a href="index.php?action=source&file=Wx/com/automattic/Privacy/0.md">Wx/com/automattic/Privacy/0.md</a>
+
 =[Z/ol/4]
