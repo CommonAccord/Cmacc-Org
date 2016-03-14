@@ -1,3 +1,7 @@
+Note= per comment on UMA thread
+
+Doc.Title={P1.Handle} Data Use Policy
+
 P1.Handle=<span class="definedterm">Acme</span>
 
 P1.SupportTeam.Link=<a href="http://en.support.acme.com/">support team</a>
