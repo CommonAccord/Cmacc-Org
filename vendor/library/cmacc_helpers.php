@@ -3,7 +3,7 @@ error_reporting(E_ALL);
 $path = ROOT . '/Doc/';
 ini_set("allow_url_include", true);
 
-$Text_Edit_Window_Size = TEXTEDITWINDOWSIZE ;
+$Text_Edit_Window_Size = 'cols=120 rows=30' ;
 
 if (!isset($_REQUEST['action'])) {
     $_REQUEST['action'] = "landing";
