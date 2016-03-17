@@ -1,7 +1,3 @@
-=[S/Demo/Escrow/Step_1_Parties.md]
-
-Purchaser.=[U/id/roberta_robinson]
-
 Product.Description=eighteen cases of grape preserves
 
 Price.$=$650.00
@@ -13,3 +9,7 @@ Escrow.Sign.YMD=2014-08-13
 Escrow.Effective.YMD={Escrow.Sign.YMD}
 
 Purchaser.Dear=Dear Ms. Robinson
+
+Purchaser.=[U/id/roberta_robinson]
+
+=[S/Demo/Escrow/Step_1_Parties.md]

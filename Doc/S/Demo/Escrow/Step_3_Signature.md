@@ -1,5 +1,3 @@
-=[S/Demo/Escrow/Step_2_Order.md]
-
 MessageToUser=Signed!
 
 Seller.xSignature=xGERRY
@@ -17,3 +15,5 @@ Escrow.Sign.YMD=2014-08-13:12:05
 Arbitrator.xSignature=xSOLOMON SHIRLEY
 
 Arbitrator.Sign.YMD=2014-08-13:12:03
+
+=[S/Demo/Escrow/Step_2_Order.md]
