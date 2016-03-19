@@ -1,0 +1,13 @@
+Model.Root={Sec}
+
+Sec=<table border=1>{Rows}</table>
+
+Rows={0.Sec}{Secs}{90.Sec}
+
+0.Sec=<tr><th>{0.sec}</th></tr>
+
+Secs=<tr><td>{1.sec}</td></tr><tr><td>{2.sec}</td></tr><tr><td>{3.sec}</td></tr>
+
+90.Sec=<tr><th>{90.sec}</th></tr>
+
+=[Z/tb/c/6]
