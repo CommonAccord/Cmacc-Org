@@ -1,0 +1,15 @@
+=[Z/ol/Base]
+
+Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}
+
+secs={1.sec}</li><li>{2.sec}</li><li>{3.sec}</li><li>{4.sec}</li><li>{5.sec}</li><li>{6.sec}</li><li>{7.sec}
+
+secs;and={1.sec};<li>{2.sec};<li>{3.sec};<li>{4.sec};<li>{5.sec};<li>{6.sec}; and<li>{7.sec}.
+
+secs;or={1.sec};<li>{2.sec};<li>{3.sec};<li>{4.sec};<li>{5.sec};<li>{6.sec}; or<li>{7.sec}.
+
+sens={1.sec} {2.sec} {3.sec} {4.sec} {5.sec} {6.sec} {7.sec}
+
+Length=Seven
+  
+length=seven
