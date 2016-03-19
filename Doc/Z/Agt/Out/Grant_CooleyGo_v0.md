@@ -2,7 +2,7 @@ Note=This is from CooleyGo.  Good architecture?
 
 Ti=License Grant
 
-Secs={GrantTo.Sec}<li>{Whom.Sec}<li>{Type.Sec}<li>{Sublicense.Sec}<li>{ToDo.Sec}<li>{WithWhat.Sec}
+Secs={GrantTo.Sec}</li><li>{Whom.Sec}</li><li>{Type.Sec}</li><li>{Sublicense.Sec}</li><li>{ToDo.Sec}</li><li>{WithWhat.Sec}
 
 =[Law/Out/Out0]
 

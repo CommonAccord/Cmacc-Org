@@ -1,8 +1,8 @@
 =[Z/ol/Base]
 
-Secs={1.Sec}<li>{2.Sec}<li>{3.Sec}
+Secs={1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}
 
-secs={1.sec}<li>{2.sec}<li>{3.sec}
+secs={1.sec}</li><li>{2.sec}</li><li>{3.sec}
 
 secs;and={1.sec};<li>{2.sec}; and<li>{3.sec}.
 

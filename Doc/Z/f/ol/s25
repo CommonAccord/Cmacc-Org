@@ -1,6 +1,6 @@
-Sec=<b>{Ti}</b><br>{0.sec}<ol><li>{1.sec}<li>{2.sec}<li>{3.sec}<li>{4.sec}<li>{5.sec}<li>{6.sec}<li>{7.sec}<li>{8.sec}<li>{9.sec}<li>{10.sec}<li>{11.sec}<li>{12.sec}<li>{13.sec}<li>{14.sec}<li>{15.sec}<li>{16.sec}<li>{17.sec}<li>{18.sec}<li>{19.sec}<li>{20.sec}<li>{21.sec}<li>{22.sec}<li>{23.sec}<li>{24.sec}<li>{25.sec}</ol>{90.sec}
+Sec=<b>{Ti}</b><br>{0.sec}<ol><li>{1.sec}</li><li>{2.sec}</li><li>{3.sec}</li><li>{4.sec}</li><li>{5.sec}</li><li>{6.sec}</li><li>{7.sec}</li><li>{8.sec}</li><li>{9.sec}</li><li>{10.sec}</li><li>{11.sec}</li><li>{12.sec}</li><li>{13.sec}</li><li>{14.sec}</li><li>{15.sec}</li><li>{16.sec}</li><li>{17.sec}</li><li>{18.sec}</li><li>{19.sec}</li><li>{20.sec}</li><li>{21.sec}</li><li>{22.sec}</li><li>{23.sec}</li><li>{24.sec}</li><li>{25.sec}</li></ol>{90.sec}
 
-sec={0.sec}<ol><li>{1.sec}<li>{2.sec}<li>{3.sec}<li>{4.sec}<li>{5.sec}<li>{6.sec}<li>{7.sec}<li>{8.sec}<li>{9.sec}<li>{10.sec}<li>{11.sec}<li>{12.sec}<li>{13.sec}<li>{14.sec}<li>{15.sec}<li>{16.sec}<li>{17.sec}<li>{18.sec}<li>{19.sec}<li>{20.sec}<li>{21.sec}<li>{22.sec}<li>{23.sec}<li>{24.sec}<li>{25.sec}</ol>{90.sec}
+sec={0.sec}<ol><li>{1.sec}</li><li>{2.sec}</li><li>{3.sec}</li><li>{4.sec}</li><li>{5.sec}</li><li>{6.sec}</li><li>{7.sec}</li><li>{8.sec}</li><li>{9.sec}</li><li>{10.sec}</li><li>{11.sec}</li><li>{12.sec}</li><li>{13.sec}</li><li>{14.sec}</li><li>{15.sec}</li><li>{16.sec}</li><li>{17.sec}</li><li>{18.sec}</li><li>{19.sec}</li><li>{20.sec}</li><li>{21.sec}</li><li>{22.sec}</li><li>{23.sec}</li><li>{24.sec}</li><li>{25.sec}</li></ol>{90.sec}
 
 Model.Root={Sec}
 

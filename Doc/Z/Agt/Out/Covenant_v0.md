@@ -1,5 +1,5 @@
 Ti=Covenants
 
-Secs={Conf.Sec}<li>{Compete.Sec}<li>{Cooperate.Sec}
+Secs={Conf.Sec}</li><li>{Compete.Sec}</li><li>{Cooperate.Sec}
 
 =[Law/Out/Out0]

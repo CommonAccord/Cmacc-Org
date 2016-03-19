@@ -1,6 +1,6 @@
 Sec={sec}
 
-sec=<ul type="none" style="padding-left: 0"><li>{Persons.sec}<li>{EffectiveDate.sec}</ul>{This.Sec} {Recite.Sec} {That.Sec}
+sec=<ul type="none" style="padding-left: 0"><li>{Persons.sec}</li><li>{EffectiveDate.sec}</li></ul>{This.Sec} {Recite.Sec} {That.Sec}
 
 Note=Choices of persons in the intro block (copy one into your doc):
 
@@ -12,27 +12,27 @@ Parties.Sec=<b>{Parties.Ti}</b>{Parties.xlist}
 
 Parties.Ti=By and Betweeen:
 
-Parties.xlist=<ul type="none"><li>{Parties.List}<li>{Parties.Def.sec}</ul>
+Parties.xlist=<ul type="none"><li>{Parties.List}</li><li>{Parties.Def.sec}</li></ul>
 
 Parties.Def.sec=Each a "{party}" and collectively the "{parties}."
 
 Parties.List={Parties.List.1-2}
 
-Parties.List.1-2={P1.sec}<li>{P2.sec}
+Parties.List.1-2={P1.sec}</li><li>{P2.sec}
 
-Parties.List.1-3={P1.sec}<li>{P2.sec}<li>{P3.sec}
+Parties.List.1-3={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}
 
-Parties.List.1-4={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}
+Parties.List.1-4={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}</li><li>{P4.sec}
 
-Parties.List.1-5={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}
+Parties.List.1-5={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}</li><li>{P4.sec}</li><li>{P5.sec}
 
-Parties.List.1-6={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}<li>{P6.sec}
+Parties.List.1-6={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}</li><li>{P4.sec}</li><li>{P5.sec}</li><li>{P6.sec}
 
-Parties.List.1,2={P1.sec}<li>{P2.sec}
+Parties.List.1,2={P1.sec}</li><li>{P2.sec}
 
-Parties.List.1,3={P1.sec}<li>{P3.sec}
+Parties.List.1,3={P1.sec}</li><li>{P3.sec}
 
-Parties.List.2,3={P2.sec}<li>{P3.sec}
+Parties.List.2,3={P2.sec}</li><li>{P3.sec}
 
 P1.sec={P1.N,E,A} ("{P1.Handle}") 
 
@@ -50,21 +50,21 @@ Friends.Sec=<b>{Friends.Ti}</b>{Friends.xlist}
 
 Friends.Ti=Third Parties referenced but not party to this {Agreement}:
 
-Friends.xlist=<ul type="none"><li>{Friends.List}<li>{Friends.Define.sec}</ul>
+Friends.xlist=<ul type="none"><li>{Friends.List}</li><li>{Friends.Define.sec}</li></ul>
 
 Friends.Define.sec=Each a "{Named_Third_Party}" and collectively the "{Named_Third_Parties}."
 
 Friends.List={Friends.List.1,2,3,4,5,6}
 
-Friends.List.1,2={F1.sec}<li>{F2.sec}
+Friends.List.1,2={F1.sec}</li><li>{F2.sec}
 
-Friends.List.1,2,3={F1.sec}<li>{F2.sec}<li>{F3.sec}
+Friends.List.1,2,3={F1.sec}</li><li>{F2.sec}</li><li>{F3.sec}
 
-Friends.List.1,2,3,4={F1.sec}<li>{F2.sec}<li>{F3.sec}<li>{F4.sec}
+Friends.List.1,2,3,4={F1.sec}</li><li>{F2.sec}</li><li>{F3.sec}</li><li>{F4.sec}
 
-Friends.List.1,2,3,4,5={F1.sec}<li>{F2.sec}<li>{F3.sec}<li>{F4.sec}<li>{F5.sec}
+Friends.List.1,2,3,4,5={F1.sec}</li><li>{F2.sec}</li><li>{F3.sec}</li><li>{F4.sec}</li><li>{F5.sec}
 
-Friends.List.1,2,3,4,5,6={F1.sec}<li>{F2.sec}<li>{F3.sec}<li>{F4.sec}<li>{F5.sec}<li>{F6.sec}
+Friends.List.1,2,3,4,5,6={F1.sec}</li><li>{F2.sec}</li><li>{F3.sec}</li><li>{F4.sec}</li><li>{F5.sec}</li><li>{F6.sec}
 
 F1.sec={F1.N,E,A} ("{F1.Handle}")
 
@@ -90,7 +90,7 @@ This.Sec={This.sec}
 
 This.sec=This {Doc.Title} (the "{Agreement}") is made as of the {Effective_Date} by and between the {parties}.
 
-Recite.Sec=<br><br><b>{Recite.Ti}:</b><ul type="none">{Recite.secs}</ul>
+Recite.Sec=<br><br><b>{Recite.Ti}:</b><ul type="none">{Recite.secs}</li></ul>
 
 Recite.Ti=Recitals
 

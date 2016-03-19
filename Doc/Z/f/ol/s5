@@ -1,6 +1,6 @@
-Sec=<b>{Ti}</b><br>{0.sec}<ol><li>{1.sec}<li>{2.sec}<li>{3.sec}<li>{4.sec}<li>{5.sec}</ol>{90.sec}
+Sec=<b>{Ti}</b><br>{0.sec}<ol><li>{1.sec}</li><li>{2.sec}</li><li>{3.sec}</li><li>{4.sec}</li><li>{5.sec}</li></ol>{90.sec}
 
-sec={0.sec}<ol><li>{1.sec}<li>{2.sec}<li>{3.sec}<li>{4.sec}<li>{5.sec}</ol>{90.sec}
+sec={0.sec}<ol><li>{1.sec}</li><li>{2.sec}</li><li>{3.sec}</li><li>{4.sec}</li><li>{5.sec}</li></ol>{90.sec}
 
 Model.Root={Sec}
 

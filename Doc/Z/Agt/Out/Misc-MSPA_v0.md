@@ -2,6 +2,6 @@ Note=Inspired by [Wx/org/americanbar/MSPA/Form/_v0.md], the ABA's Model Share Pu
 
 Ti=Miscellaneous
 
-Secs={Expense.Sec}<li>{Publicity.Sec}<li>{Entire.Sec}<li>{Amend.Sec}<li>{Assign.Sec}<li>{ThirdParty.Sec}<li>{Cumulative.Sec}<li>{Waive.Sec}<li>{Notice.Sec}<li>{Sever.Sec}<li>{Time.Sec}<li>{Counterpart.Sec}
+Secs={Expense.Sec}</li><li>{Publicity.Sec}</li><li>{Entire.Sec}</li><li>{Amend.Sec}</li><li>{Assign.Sec}</li><li>{ThirdParty.Sec}</li><li>{Cumulative.Sec}</li><li>{Waive.Sec}</li><li>{Notice.Sec}</li><li>{Sever.Sec}</li><li>{Time.Sec}</li><li>{Counterpart.Sec}
 
 =[Law/Out/Out0]

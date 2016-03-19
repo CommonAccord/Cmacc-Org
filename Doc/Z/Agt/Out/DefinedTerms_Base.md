@@ -87,4 +87,4 @@ Root.Xref=<span class="xref">Section</span>
 19.Xref=<span class="xref">Section 19</span>
 
 
-DT.Base=<b>DT.Base</b><ol><li>Agreement<ol><li><b>Agreement</b>: {Agreement}<li><b>This_Agreement</b>: {This_Agreement}<li><b>this_Agreement</b>: {this_Agreement}</ol><li><b>Effective_Date:</b> {Effective_Date}<li><b>P1 - P1:</b> {P1.The}; {P2.The}<li><b>Party:</b><ol><li>{Party}<li>{party}<li>{Parties}<li>{parties}</ol></ol>
+DT.Base=<b>DT.Base</b><ol><li>Agreement<ol><li><b>Agreement</b>: {Agreement}<li><b>This_Agreement</b>: {This_Agreement}<li><b>this_Agreement</b>: {this_Agreement}</li></ol><li><b>Effective_Date:</b> {Effective_Date}<li><b>P1 - P1:</b> {P1.The}; {P2.The}<li><b>Party:</b><ol><li>{Party}</li><li>{party}</li><li>{Parties}</li><li>{parties}</li></ol></ol>

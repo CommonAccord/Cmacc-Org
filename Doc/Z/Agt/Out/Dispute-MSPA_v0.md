@@ -4,6 +4,6 @@ Note=There will be differing opinions, particularly on whether some of these sho
 
 Ti=Dispute
 
-Secs={Law.Sec}<li>{Forum.Sec}<li>{Jury.Sec}<li>{AttyFee.Sec}<li>{Injunct.Sec}
+Secs={Law.Sec}</li><li>{Forum.Sec}</li><li>{Jury.Sec}</li><li>{AttyFee.Sec}</li><li>{Injunct.Sec}
 
 =[Law/Out/Out0]

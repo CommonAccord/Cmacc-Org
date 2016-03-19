@@ -1,6 +1,6 @@
 Note=Pour parameteriser le nombre de parties et d'autres personnes.
 
-Personnes.Sec={Parties.Sec}<li>{Amies.Sec}
+Personnes.Sec={Parties.Sec}</li><li>{Amies.Sec}
  
 Parties.Liste={Parties.Liste.2}
 
@@ -10,21 +10,21 @@ Note=le document
 
 Model.Root={Sec}
 
-Sec=<ul type="none" style="padding-left: 0"><li>{Personnes.Sec}<li>{Date.Sec}</ul>{Que.Sec}{Conviennent.sec}
+Sec=<ul type="none" style="padding-left: 0"><li>{Personnes.Sec}</li><li>{Date.Sec}</ul>{Que.Sec}{Conviennent.sec}
 
 Parties.Sec=<b>{Parties.Ti}</b>{Parties.xliste}
 
-Parties.xliste=<ul type="none"><li>{Parties.Liste}<li>{Parties.Def.sec}</ul>
+Parties.xliste=<ul type="none"><li>{Parties.Liste}</li><li>{Parties.Def.sec}</ul>
 
-Parties.Liste.2={P1.sec}<li>{P2.sec}
+Parties.Liste.2={P1.sec}</li><li>{P2.sec}
 
-Parties.Liste.3={P1.sec}<li>{P2.sec}<li>{P3.sec}
+Parties.Liste.3={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}
 
-Parties.Liste.4={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}
+Parties.Liste.4={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}</li><li>{P4.sec}
 
-Parties.Liste.5={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}
+Parties.Liste.5={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}</li><li>{P4.sec}</li><li>{P5.sec}
 
-Parties.Liste.6={P1.sec}<li>{P2.sec}<li>{P3.sec}<li>{P4.sec}<li>{P5.sec}<li>{P6.sec}
+Parties.Liste.6={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}</li><li>{P4.sec}</li><li>{P5.sec}</li><li>{P6.sec}
 
 P1.1.sec={P1.Nom}
 
@@ -141,15 +141,15 @@ Amies.Ti=Des tierces mentionnés dans cette {Accord}:
 
 Amies.Sec=<b>{Amies.Ti}</b>{Amies.xliste}
 
-Amies.Liste.2={Amie1.sec}<li>{Amie2.sec}
+Amies.Liste.2={Amie1.sec}</li><li>{Amie2.sec}
 
-Amies.Liste.3={Amie1.sec}<li>{Amie2.sec}<li>{Amie3.sec}
+Amies.Liste.3={Amie1.sec}</li><li>{Amie2.sec}</li><li>{Amie3.sec}
 
-Amies.Liste.4={Amie1.sec}<li>{Amie2.sec}<li>{Amie3.sec}<li>{Amie4.sec}
+Amies.Liste.4={Amie1.sec}</li><li>{Amie2.sec}</li><li>{Amie3.sec}</li><li>{Amie4.sec}
 
-Amies.Liste.5={Amie1.sec}<li>{Amie2.sec}<li>{Amie3.sec}<li>{Amie4.sec}<li>{Amie5.sec}
+Amies.Liste.5={Amie1.sec}</li><li>{Amie2.sec}</li><li>{Amie3.sec}</li><li>{Amie4.sec}</li><li>{Amie5.sec}
 
-Amies.Liste.6={Amie1.sec}<li>{Amie2.sec}<li>{Amie3.sec}<li>{Amie4.sec}<li>{Amie5.sec}<li>{Amie6.sec}
+Amies.Liste.6={Amie1.sec}</li><li>{Amie2.sec}</li><li>{Amie3.sec}</li><li>{Amie4.sec}</li><li>{Amie5.sec}</li><li>{Amie6.sec}
 
 Amie1.sec={Amie1.N,E,A} ("{Amie1.Role}")
 

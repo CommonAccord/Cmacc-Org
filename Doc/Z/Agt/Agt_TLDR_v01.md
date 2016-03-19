@@ -1,6 +1,6 @@
 /Note=Agreement with standard secs populated
 
-Secs={FrontEnd.Secs}<li>{RTLDRMD.Secs}
+Secs={FrontEnd.Secs}</li><li>{RTLDRMD.Secs}
   
 =[Z/Agt/Agt_v01.md]
 
