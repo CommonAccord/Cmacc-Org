@@ -1,0 +1,9 @@
+Model.Root={Sec}
+
+Sec=<table border=1>{0.Sec}{secs}{90.Sec}</table>
+
+0.Sec=<tr><th>{0.sec}</th></tr>
+
+secs=<tr><td>{1.sec}</td></tr><tr><td>{2.sec}</td></tr><tr><td>{3.sec}</td></tr><tr><td>{4.sec}</td></tr><tr><td>{5.sec}</td></tr><tr><td>{6.sec}</td></tr><tr><td>{7.sec}</td></tr><tr><td>{8.sec}</td></tr><tr><td>{9.sec}</td></tr>
+
+90.Sec=<tr><th>{90.sec}</th></tr>

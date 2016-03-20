@@ -1,12 +1,10 @@
 Model.Root={Sec}
 
-Sec=<table border=1>{Rows}</table>
-
-Rows={0.Sec}{Secs}{90.Sec}
+Sec=<table border=1>{0.Sec}{secs}{90.Sec}</table>
 
 0.Sec=<tr><th>{0.sec}</th></tr>
 
-Secs=<tr><td>{1.sec}</td></tr>
+secs=<tr><td>{1.sec}</td></tr>
 
 90.Sec=<tr><th>{90.sec}</th></tr>
 
