@@ -38,9 +38,10 @@
 2.6.sec=n/a
 
 90.Sec=</i>
+
 =[Z/tb/r/2]
 
-=[Z/tb/c/6]
+=[Z/tb/c/7]
 	 
 Grantor - ASO	n/a	Yes	Authorization services agreement	n/a	n/a	This has no technical artifact in UMA, and therefore no exact or obvious moment of appearing "on stage" for our work. Does this have an impact on whether it is in scope based on the rationale above? We agreed there are definitely reasons to have UMA-specific clauses, looking at our draft ones.
 Grantor - RSO	RSO - ASO	Yes	Resource protection agreement	PAT	OAuth client credentials for RS	It's awkward to have a two-party agreement resting on a PAT. There are plenty of agreements where there are multiple Persons in one of the roles, but we're not so sure about true three-role agreements.
