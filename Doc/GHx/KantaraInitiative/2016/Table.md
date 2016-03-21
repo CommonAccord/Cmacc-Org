@@ -1,16 +1,20 @@
-0.1.sec=Trust relationship
+Column.1.sec=Trust relationship
 
-0.2.sec=Dependencies on existing nonfunctional requirements
+Column.2.sec=Dependencies on existing nonfunctional requirements
 
-0.3.sec=In scope for model text work?
+Column.3.sec=In scope for model text work?
 
-0.4.sec=(Candidate names of agreements formed out of our official clauses)
+Column.4.sec=(Candidate names of agreements formed out of our official clauses)
 
-0.5.sec=Technical artifact
+Column.5.sec=Technical artifact
 
-0.6.sec=Dependencies on existing technical artifacts
+Column.6.sec=Dependencies on existing technical artifacts
 
-0.7.sec=Discussion
+Column.7.sec=Discussion
+
+Column.=[GHx/KantaraInitiative/2016/Column.md]
+
+td.sec={1.sec}</td><td>{2.sec}</td><td>{3.sec}</td><td>{4.sec}</td><td>{5.sec}</td><td>{6.sec}</td><td>{7.sec}
 
 1.1.sec=Resource Subject - Grantor (if they are different)
 
