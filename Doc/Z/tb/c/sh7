@@ -1,0 +1,21 @@
+sec={1.sec}</th><th>{2.sec}</th><th>{3.sec}</th><th>{4.sec}</th><th>{5.sec}</th><th>{6.sec}</th><th>{7.sec}
+
+Model.Root=<table border=1><tr><th>{sec}</th></tr></table>
+
+hsec={1.sec}</th><th>{2.sec}</th><th>{3.sec}</th><th>{4.sec}</th><th>{5.sec}</th><th>{6.sec}</th><th>7.sec}
+
+Note=Creating default empty fields:
+
+1.sec=</i>
+  
+2.sec=</i>
+
+3.sec=</i>
+
+4.sec=</i>
+
+5.sec=</i>
+
+6.sec=</i>
+
+7.sec=</i>
