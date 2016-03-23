@@ -1,10 +1,10 @@
 Model.Root={Sec}
 
-Sec={SautDePage}<br>{Fait.sec}<br>{Parties.xliste}
+Sec={SautDePage}<br>{Fait.sec}<br>{Parties.Liste}
 
 Fait.sec=Fait à {Accord.Sign.Lieu}, le {Accord.Sign.Date},
 
-Parties.xliste={Parties.Liste.2}
+Parties.Liste={Parties.Liste.2}
 
 Parties.Liste.2=<table><tr>{P1.Sign.td}<td width="100px"></td>{P2.Sign.td}</tr></table>
 

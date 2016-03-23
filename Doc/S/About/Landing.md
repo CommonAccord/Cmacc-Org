@@ -50,7 +50,7 @@ PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance)
 
 MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Conference</a>
 
-CCL.Link=<a href="index.php?action=doc&file=S/About/CCL/Pitch_0.md">Center for Collaborative Law</a>  
+CCL.Link=<a href="index.php?action=doc&file=S/About/CCL/0.md">Center for Collaborative Law</a>  
 
 DemoDocName=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md
 

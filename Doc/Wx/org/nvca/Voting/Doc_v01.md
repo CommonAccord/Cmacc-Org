@@ -7,11 +7,13 @@ Ti=</i>
 0.1.Ti=RECITALS
 
 
-0.1.1.0.sec={m-}Select One{-m}
+0.1.1.=[Z/Alt/2]
 
-0.1.1.1.sec=Concurrently with the execution of this Agreement, the Company and the Investors are entering into a Series A Preferred Stock Purchase Agreement (the “Purchase Agreement”) providing for the sale of shares of the Company’s Series A Preferred Stock, and in connection with that agreement the parties desire to provide the Investors with the right, among other rights, to designate the election of certain members of the board of directors of the Company (the “Board”) in accordance with the terms of this Agreement.]
+0.1.1.Alt1.sec=Concurrently with the execution of this Agreement, the Company and the Investors are entering into a Series A Preferred Stock Purchase Agreement (the “Purchase Agreement”) providing for the sale of shares of the Company’s Series A Preferred Stock, and in connection with that agreement the parties desire to provide the Investors with the right, among other rights, to designate the election of certain members of the board of directors of the Company (the “Board”) in accordance with the terms of this Agreement.]
+ 
+0.1.1.Alt2.sec=Concurrently with the execution of this Agreement, the Company and the certain of the Investors are entering into a Series [B] Preferred Stock Purchase Agreement (the “Purchase Agreement”) providing for the sale of shares of the Company’s Series B Preferred Stock (“Series B Preferred Stock”). Certain of the Investors (the “Existing Investors”) and the Key Holders are parties to the Voting Agreement dated [_____] by and among the Company and the parties thereto (the “Prior Agreement”). The parties to the Prior Agreement desire to amend and restate that agreement to provide those Investors purchasing shares of the Company’s Series [B] Preferred Stock with the right, among other rights, to elect certain members of the board of directors of the Company (the “Board”) in accordance with the terms of this Agreement.]
 
-0.1.1.2.sec=Concurrently with the execution of this Agreement, the Company and the certain of the Investors are entering into a Series [B] Preferred Stock Purchase Agreement (the “Purchase Agreement”) providing for the sale of shares of the Company’s Series B Preferred Stock (“Series B Preferred Stock”). Certain of the Investors (the “Existing Investors”) and the Key Holders are parties to the Voting Agreement dated [_____] by and among the Company and the parties thereto (the “Prior Agreement”). The parties to the Prior Agreement desire to amend and restate that agreement to provide those Investors purchasing shares of the Company’s Series [B] Preferred Stock with the right, among other rights, to elect certain members of the board of directors of the Company (the “Board”) in accordance with the terms of this Agreement.]
+0.1.1.SecName=0.1.1
 
 0.1.1.=[Z/ol/s2]
 
@@ -46,11 +48,11 @@ Note=is there a bug in Sec_01 ??
 
 1.2.2.sec=One person designated by [Name of 2d Investor] (the “Name of 2d Investor Designee”), which individual shall initially be [_____________] for so long as such Stockholders and their Affiliates continue to own beneficially at least [__________] shares of Common Stock of the Company (including shares of Common Stock issued or issuable upon conversion of Series A Preferred Stock), which number is subject to appropriate adjustment for all stock splits, dividends, combinations, recapitalizations and the like.
 
-1.2.3.0.sec={m-}Select One 1.2.3.sec= {-m}
+1.2.3.=[Z/Alt/2]
 
-1.2.3.1.sec=[Alternative 1: For so long as the Key Holders [who are then providing services to the Company as officers, employees or consultants] hold at least [____] shares of Common Stock (as adjusted for any stock splits, stock dividends, recapitalizations or the like), one individual designated by the holders of a majority of the Shares of Common Stock [held by the Key Holders], which individual shall initially be [___________];
+1.2.3.Alt1.sec=[Alternative 1: For so long as the Key Holders [who are then providing services to the Company as officers, employees or consultants] hold at least [____] shares of Common Stock (as adjusted for any stock splits, stock dividends, recapitalizations or the like), one individual designated by the holders of a majority of the Shares of Common Stock [held by the Key Holders], which individual shall initially be [___________];
 
-1.2.3.2.sec=[Alternative 2: [name of Key Holder], for so long as [name of Key Holder] [remains an [officer] [employee] of the Company] [holds at least [_____] Shares (as adjusted for stock splits, stock dividends, recapitalizations or the like)] [holds at least [_____]% of the outstanding capital stock of the Company on an as-converted-to-Common Stock basis] [, except that if [name of Key Holder] declines or is unable to serve, his or her successor shall be designated by [name of alternate Key Holder] [the holders of a majority of the shares of Common Stock of the Company];
+1.2.3.Alt2.sec=[Alternative 2: [name of Key Holder], for so long as [name of Key Holder] [remains an [officer] [employee] of the Company] [holds at least [_____] Shares (as adjusted for stock splits, stock dividends, recapitalizations or the like)] [holds at least [_____]% of the outstanding capital stock of the Company on an as-converted-to-Common Stock basis] [, except that if [name of Key Holder] declines or is unable to serve, his or her successor shall be designated by [name of alternate Key Holder] [the holders of a majority of the shares of Common Stock of the Company];
 
 1.2.3.=[Z/ol/s2]
 

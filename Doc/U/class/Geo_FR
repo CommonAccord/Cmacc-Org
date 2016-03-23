@@ -4,30 +4,30 @@ Adr.#_Rue={Adr.Rue.#}, {Adr.Rue}
 
 Adr.#_Rue,Suite={Adr.#_Street}, {Addr.Suite}
 
-Adr.2={Adr.Zip} {Adr.Ville}
+Adr.2={Adr.CP} {Adr.Ville}
 
 Adr.1,2={Adr.1}, {Adr.2}
 
 Adr.1/2={Adr.1}<br>{Adr.2}
 
-Adr.1/2/UK={Adr.1}<br>{Adr.2}<br>{Adr.Nation}
+Adr.1/2/Pays={Adr.1}<br>{Adr.2}<br>{Adr.Pays}
 
-Adr.UK={Adr.Nation}
+Adr.UK={Adr.FR}
 
 Model.Root={Geo.?}
 
-Geo.?={Adr.1/2/UK}	
+Geo.?={Adr.1/2/Pays}	
 
 Note=Conversion:
 
-Addr.Street={Adr.Rue}
+Addr.Street={Adr.Rue.Nom}
 
 Addr.Street.#={Adr.Rue.#}
 
-Addr.Zip={Adr.Zip}
+Addr.Zip={Adr.CP}
 
 Addr.1={Adr.#_Rue}
 
 Addr.ST=</i>
 
-Addr.2={Adr.Zip} {Adr.Ville}
+Addr.2={Adr.CP} {Adr.Ville}
