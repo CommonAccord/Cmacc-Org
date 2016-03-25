@@ -4,7 +4,13 @@ Authorization_Server=<a href="index.php?action=source&file=GH/KantaraInitiative/
 
 Authorization_Server_Operator=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Authorization_Server_Operator_0.md" class="person">Authorization Server Operator</a>
 
-Authorizing_Party=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Authorizing_Party_0.md"  class="person">Authorizing Party</a>
+Resource_Subject=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Resource_Subject_0.md"  class="person">Resource Subject</a>
+
+Grantor=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Grantor_0.md"  class="person">Grantor</a>
+
+Note=Authorizing_Party will be deprecated:
+
+Authorizing_Party={Grantor}
 
 Client=<a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/Terminology/Term/Client_0.md" class="definedterm">Client</a>
 

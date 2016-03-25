@@ -11,7 +11,9 @@ Person.=[GH/KantaraInitiative/UMA-Text/Terminology/Term/Person_0.md]
 
 Conformance.=[GH/KantaraInitiative/UMA-Text/Terminology/Term/Conformance_0.md]
 
-Authorizing_Party.=[GH/KantaraInitiative/UMA-Text/Terminology/Term/Authorizing_Party_0.md]
+Resource_Subject.=[GH/KantaraInitiative/UMA-Text/Terminology/Term/Resource_Subject_0.md]
+
+Grantor.=[GH/KantaraInitiative/UMA-Text/Terminology/Term/Grantor_0.md]
 
 Authorization_Server.=[GH/KantaraInitiative/UMA-Text/Terminology/Term/Authorization_Server_0.md]
 
@@ -31,6 +33,6 @@ Requesting_Party_Agent.=[GH/KantaraInitiative/UMA-Text/Terminology/Term/Requesti
 
 Comments.=[GH/KantaraInitiative/UMA-Text/Terminology/Comments_0.md]
 
-Text={Introduction.sec}<dl><dl>{Individual.DT}{Legal_Person.DT}{Person.DT}{Conformance.DT}{Authorizing_Party.DT}{Authorization_Server.DT}{Authorization_Server_Operator.DT}{Resource_Server.DT}{Resource_Server_Operator.DT}{Client.DT}{Client_Operator.DT}{Requesting_Party.DT}{Requesting_Party_Agent.DT}</dl></dl>
+Text={Introduction.sec}<dl><dl>{Individual.DT}{Legal_Person.DT}{Person.DT}{Conformance.DT}{Resource_Subject.DT}{Grantor.DT}{Authorization_Server.DT}{Authorization_Server_Operator.DT}{Resource_Server.DT}{Resource_Server_Operator.DT}{Client.DT}{Client_Operator.DT}{Requesting_Party.DT}{Requesting_Party_Agent.DT}</dl></dl>
 
 =[GH/KantaraInitiative/UMA-Text/Z/Clause_0.md]
