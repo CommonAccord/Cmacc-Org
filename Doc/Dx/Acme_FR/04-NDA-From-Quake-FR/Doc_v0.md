@@ -1,13 +1,3 @@
-=[GHx/jurismatic/jurismatic/03-Engagement_de_confidentialité/Form/Doc_v0.md]
-
-P1.=[U/id/Acme_SARL.md]
-
-P2.=[U/id/Quake_SA.md]
-
-P1.Sign.=[U/id/Jean_Valjean.md]
-
-P2.Sign.=[U/id/Marie_Matignon.md]
- 
 P1.Sign.Titre.son/sa=sa {P1.Sign.Titre}
 
 P1.Sign.Titre=Directeur de recherche
@@ -31,3 +21,13 @@ Litige.TdC.Ville={P1.RCS.Adresse.Ville}
 SautDePage=</i>
 
 Accord.Sign.Lieu={P1.Adresse.Ville}
+
+P1.=[U/id/Acme_SARL.md]
+
+P2.=[U/id/Quake_SA.md]
+
+P1.Sign.=[U/id/Jean_Valjean.md]
+
+P2.Sign.=[U/id/Marie_Matignon.md]
+
+=[GHx/jurismatic/jurismatic/03-Engagement_de_confidentialité/Form/Doc_v0.md]
