@@ -16,123 +16,19 @@ Parties.Sec=<b>{Parties.Ti}</b>{Parties.xliste}
 
 Parties.xliste=<ul type="none"><li>{Parties.Liste}</li><li>{Parties.Def.sec}</ul>
 
-Parties.Liste.2={P1.sec}</li><li>{P2.sec}
+Parties.Liste.2={P1.Partie.sec}</li><li>{P2.Partie.sec}
 
-Parties.Liste.3={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}
+Parties.Liste.3={P1.Partie.sec}</li><li>{P2.Partie.sec}</li><li>{P3.Partie.sec}
 
-Parties.Liste.4={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}</li><li>{P4.sec}
+Parties.Liste.4={P1.Partie.sec}</li><li>{P2.Partie.sec}</li><li>{P3.Partie.sec}</li><li>{P4.Partie.sec}
 
-Parties.Liste.5={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}</li><li>{P4.sec}</li><li>{P5.sec}
+Parties.Liste.5={P1.Partie.sec}</li><li>{P2.Partie.sec}</li><li>{P3.Partie.sec}</li><li>{P4.Partie.sec}</li><li>{P5.Partie.sec}
 
-Parties.Liste.6={P1.sec}</li><li>{P2.sec}</li><li>{P3.sec}</li><li>{P4.sec}</li><li>{P5.sec}</li><li>{P6.sec}
-
-P1.1.sec={P1.Nom}
-
-P1.2.sec={P1.FormeJuridique} au capital de {P1.CapitalEnLettres}
-
-P1.3.sec=Immatriculée au RCS de {P1.RCS.Adresse.Ville} sous le numéro {P1.RCS.#}
-
-P1.4.sec=Dont le siège social est situé {P1.Siège.Adresse.1,2}
-
-P1.5.sec=Représentée par {P1.Sign.M/Mme-Nom} en qualité de {P1.Sign.Titre}, dûment habilité aux fins des présentes,
-
-P1.6.sec=<div align="right">ci-après dénommé(e) la « {P1.Handle} »,</div>
-
-P1.=[Z/paras/s6]
-
-
-P2.1.sec={P2.Nom}
-
-P2.2.sec={P2.FormeJuridique} au capital de {P2.CapitalEnLettres}
-
-P2.3.sec=Immatriculée au RCS de {P2.RCS.Adresse.Ville} sous le numéro {P2.RCS.#}
-
-P2.4.sec=Dont le siège social est situé {P2.Siège.Adresse.1,2}
-
-P2.5.sec=Représentée par {P2.Sign.M/Mme-Nom} en qualité de {P2.Sign.Titre}, dûment habilité aux fins des présentes,
-
-P2.6.sec=<div align="right">ci-après dénommé(e) la « {P2.Handle} »,</div>
-
-P2.=[Z/paras/s6]
-
-Note=for an individual: 
-
-P2i.1.sec={P2.Nom}
-
-P2i.2.sec=une personne physique
-
-P2i.3.sec=Dont l'adresse est {P2.Adresse.1,2}
-
-P2i.4.sec=<div align="right">ci-après dénommé(e) la « {P2.Handle} »,</div>
-
-P2i.=[Z/paras/s4]
-
-
-
-P3.1.sec={P3.Nom}
-
-P3.2.sec={P3.FormeJuridique} au capital de {P3.CapitalEnLettres}
-
-P3.3.sec=Immatriculée au RCS de {P3.RCS.Adresse.Ville} sous le numéro {P3.RCS.#}
-
-P3.4.sec=Dont le siège social est situé {P3.Siège.Adresse.1,2}
-
-P3.5.sec=Représentée par {P3.Sign.M/Mme-Nom} en qualité de {P3.Sign.Titre}, dûment habilité aux fins des présentes,
-
-P3.6.sec=<div align="right">ci-après dénommé(e) la « {P3.Handle} »,</div>
-
-P3.=[Z/paras/s6]
-
-
-P4.1.sec={P4.Nom}
-
-P4.2.sec={P4.FormeJuridique} au capital de {P4.CapitalEnLettres}
-
-P4.3.sec=Immatriculée au RCS de {P4.RCS.Adresse.Ville} sous le numéro {P4.RCS.#}
-
-P4.4.sec=Dont le siège social est situé {P4.Siège.Adresse.1,2}
-
-P4.5.sec=Représentée par {P4.Sign.M/Mme-Nom} en qualité de {P4.Sign.Titre}, dûment habilité aux fins des présentes,
-
-P4.6.sec=<div align="right">ci-après dénommé(e) la « {P4.Handle} »,</div>
-
-P4.=[Z/paras/s6]
-
-
-P5.1.sec={P5.Nom}
-
-P5.2.sec={P5.FormeJuridique} au capital de {P5.CapitalEnLettres}
-
-P5.3.sec=Immatriculée au RCS de {P5.RCS.Adresse.Ville} sous le numéro {P5.RCS.#}
-
-P5.4.sec=Dont le siège social est situé {P5.Siège.Adresse.1,2}
-
-P5.5.sec=Représentée par {P5.Sign.M/Mme-Nom} en qualité de {P5.Sign.Titre}, dûment habilité aux fins des présentes,
-
-P5.6.sec=<div align="right">ci-après dénommé(e) la « {P5.Handle} »,</div>
-
-P5.=[Z/paras/s6]
-
-
-
-P6.1.sec={P6.Nom}
-
-P6.2.sec={P6.FormeJuridique} au capital de {P6.CapitalEnLettres}
-
-P6.3.sec=Immatriculée au RCS de {P6.RCS.Adresse.Ville} sous le numéro {P6.RCS.#}
-
-P6.4.sec=Dont le siège social est situé {P6.Siège.Adresse.1,2}
-
-P6.5.sec=Représentée par {P6.Sign.M/Mme-Nom} en qualité de {P6.Sign.Titre}, dûment habilité aux fins des présentes,
-
-P6.6.sec=<div align="right">ci-après dénommé(e) la « {P6.Handle} »,</div>
-
-P6.=[Z/paras/s6]
+Parties.Liste.6={P1.Partie.sec}</li><li>{P2.Partie.sec}</li><li>{P3.Partie.sec}</li><li>{P4.Partie.sec}</li><li>{P5.Partie.sec}</li><li>{P6.Partie.sec}
 
 Parties.Ti=Entre les {parties} :
 
 Parties.Def.sec=Dénommés individuellement une « {partie} » et collectivement  les « {parties} »
-
 
 
 Amies.xliste=<ul type="none"><li>{Amies.Liste}<li>Dénommés individuellement une « {Partie_Tierce_Identifiée} » et collectivement  les « {Parties_Tierce_Identifiées} »</ul>

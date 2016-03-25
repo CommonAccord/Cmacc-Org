@@ -1,15 +1,17 @@
 Nom=La Caisse des dépôts et consignations
 
-Forme.Juridique=établissement spécial créé par la loi du 18 avril 1816 et codifiée aux article L 518-2 et suivants du code monétaire et financier
+FormeJuridique=établissement spécial créé par la loi du 18 avril 1816 et codifiée aux article L 518-2 et suivants du code monétaire et financier
 
-, sise au 
-
+Siège.Adresse.1,2={Adresse.1} {Adresse.2}
+ 
 Adresse.1=56 rue de Lille
 
 Adresse.Ville=PARIS
 
 Adresse.CP=75007
 
-=[U/class/FR_Société.md]
+Partie.2.sec={FormeJuridique}, sise au {Adresse.1} {Adresse.Ville} {Adresse.CP}
 
-, représentée par _____________ , ci-après désignée la «
+Partie.3.sec=</i>
+
+=[U/class/FR_Société.md]

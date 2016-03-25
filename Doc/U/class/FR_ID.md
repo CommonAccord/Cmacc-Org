@@ -17,3 +17,7 @@ Adr-1,2,3={Adresse.1,3}
 Adresse.1,2={Adresse.1}, {Adresse.2}
 
 Forme={FormeJuridique}
+
+Adresse.Pays=France
+
+Adresse.PY=FR
