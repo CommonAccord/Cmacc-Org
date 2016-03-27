@@ -33,7 +33,7 @@ Parties.Def.sec=Dénommés individuellement une « {partie} » et collectivement
 
 Amies.xliste=<ul type="none"><li>{Amies.Liste}<li>Dénommés individuellement une « {Partie_Tierce_Identifiée} » et collectivement  les « {Parties_Tierce_Identifiées} »</ul>
 
-Amies.Ti=Des tierces mentionnés dans cette {Accord}:
+Amies.Ti=Des tierces mentionnés dans cette {Accord} :
 
 Amies.Sec=<b>{Amies.Ti}</b>{Amies.xliste}
 
@@ -61,6 +61,8 @@ Amie6.sec={Amie6.N,E,A} ("{Amie6.Role}")
 
 Date.Sec=DATE EFFECTIVE: {Effective.Date} (la « {Date_de_l'Accord} » )
 
-Que.Sec=<ul type="none"><li>{Que.secs}</ul>
+Que.Sec=<b>{Que.Ti}</b><ul type="none"><li>{Que.secs}</ul>
+
+Que.Ti=Preambule :
 
 Conviennent.sec=il a été convenu ce qui suit :
