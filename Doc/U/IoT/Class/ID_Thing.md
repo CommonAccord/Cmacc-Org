@@ -1,3 +1,3 @@
 BasicAttributes=Thing: <ol><li>Type: {Thing.Type}</ol>
 
-=[U/IoT/class/ID.md]
+=[U/IoT/Class/ID.md]

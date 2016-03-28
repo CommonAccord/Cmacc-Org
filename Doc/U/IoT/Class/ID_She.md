@@ -1,3 +1,3 @@
 Gender=Female
 
-=[U/IoT/class/ID_Individual.md]
+=[U/IoT/Class/ID_Individual.md]

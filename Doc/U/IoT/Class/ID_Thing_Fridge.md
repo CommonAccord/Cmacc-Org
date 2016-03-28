@@ -1,3 +1,3 @@
 Thing.Type=Refrigerator
 
-=[U/IoT/class/ID_Thing.md]
+=[U/IoT/Class/ID_Thing.md]

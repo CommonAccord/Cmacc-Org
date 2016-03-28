@@ -2,4 +2,4 @@ Right.Type=Intellectual Property: <ol><li>{Right.Type.Sub}</ol>
 
 Name.Full=N/A
 
-=[U/IoT/class/ID_Right.md]
+=[U/IoT/Class/ID_Right.md]
