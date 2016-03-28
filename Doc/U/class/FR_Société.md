@@ -10,6 +10,10 @@ Entity={FormeJuridique}
 
 Siège.Adresse.1,2={Adresse.1} {Adresse.2}
 
+Adresse.1={Adresse.Rue}
+
+Adresse.Rue={Adresse.Rue.#} {Adresse.Rue.Nom}
+
 Addr.City={Adresse.Ville}
 
 Addr.1={Adresse.1}

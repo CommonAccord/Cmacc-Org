@@ -1,6 +1,6 @@
 Ti=Sale Deed
 
-0.sec=The Buyer purchases the Goods from the Seller as of {EffectiveDate.YMDT}
+0.sec=The Buyer purchases the Goods from the Seller as of {EffectiveDate.YMDT} for a price of {Price.$}, payment of which is authorized to be effected immediately and automatically upon signature by the second of the two parties.
 
 1.Ti=Buyer ID:
 
@@ -12,10 +12,10 @@ Ti=Sale Deed
 
 3.Ti=Goods
 
-3.sec={Good.1.Model.Root}
+3.sec={Good.sec}
 
-4.Ti=Signature:
+90.Ti=Signature:
 
-4.sec=Buyer: {Buyer.Name.Full}<br>Seller: {Seller.Sign.Block}
+90.sec=Buyer: {Buyer.Name.Full}<br>Seller: {Seller.Sign.Block}
 
-=[Z/ol/4]  
+=[Z/ol/3]

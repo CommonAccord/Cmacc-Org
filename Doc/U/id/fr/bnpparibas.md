@@ -1,5 +1,21 @@
-Name.Full=BNP Paribas
+Nom=BNP Paribas
 
-=[U/class/ID_Entity]
+FormeJuridique=Société Anonyme
 
-=[U/at/FR/Paris/Geo]
+CapitalEnLettres={Capital.#}
+
+Capital.#=2.492.770.306 euros
+ 
+RCS.Adresse.Ville=Paris
+
+RCS.#=662 042 449
+
+Adresse.Rue.#=16
+
+Adresse.Rue.Nom=bd des Italiens
+
+Adresse.CP=75009
+
+Adresse.Ville=Paris
+
+=[U/class/FR_Société.md]
