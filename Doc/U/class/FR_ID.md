@@ -21,3 +21,5 @@ Forme={FormeJuridique}
 Adresse.Pays=France
 
 Adresse.PY=FR
+
+=[U/class/ID]
