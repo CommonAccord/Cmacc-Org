@@ -1,6 +1,4 @@
-=[U/class/ID_He]
-
-=[U/at/FR/Paris/Geo]
+Model.Root=<P>{Name.Full}</P><P>{LinkedIn.Connections} connections</P><P>LinkedIn profile: {Profile.URL}</P>
 
 Name.First=Marc
 
