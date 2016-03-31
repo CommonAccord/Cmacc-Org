@@ -59,23 +59,6 @@ SP.=[Z/ol/s3]
 
 3P.=[Z/ol/s2]
 
-
-CodeEscrow.Ti=Escrow of Code
-
-CodeEscrow.1.0.sec=To the extent that any deliverables provided by {Supplier} under {this_Agreement} include software, upon {Company}’s request, {Supplier} agrees to deposit in escrow:
-
-CodeEscrow.1.1.sec=with an escrow agent designated by {Company}; and
-
-CodeEscrow.1.2.sec=pursuant to a written escrow agreement to be approved by {Company} in writing any and all materials relating to such software delivered under {this_Agreement}, included, but not limited to a copy of the object code, source code, documentation and all annotations thereto ("{Materials}”).
-
-CodeEscrow.1.=[Z/ol/s2]
-
-CodeEscrow.2.sec={Company} agrees to pay any amount necessary to create such escrow account and/or any related deposit fees. 
-
-CodeEscrow.3.sec=The escrow agreement shall provide, among other things, that in the event {this_Agreement} is terminated for insolvency or default as provided in Sections {Expire.Insolvency.Xnum} or {Expire.Default.Xnum} below, the escrowed {Materials} shall be delivered to {Company}.
-
-CodeEscrow.4.sec={Company} is hereby granted a license to use the {Materials}, when delivered to repair, modify, improve upon and use the deliverables under his Agreement as contemplated under {this_Agreement}, including but not limited to the rights to reproduce, prepare derivative works, distribute, perform, display and transmit.
-
-CodeEscrow.=[Z/ol/s4]
+CodeEscrow.=[Wx/com/gepower/MasterServiceAgreement/Sec/IP/CodeEscrow/0.md]
 
 =[Z/ol/0]
