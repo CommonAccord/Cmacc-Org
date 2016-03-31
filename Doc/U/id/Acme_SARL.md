@@ -1,5 +1,11 @@
 Nom=Acme
 
+entity.a=a {entity}
+
+entity=French société à responsabilité limitée
+
+Addr.Type=registered
+
 FormeJuridique=SARL
 
 Capital=100.000 Euros

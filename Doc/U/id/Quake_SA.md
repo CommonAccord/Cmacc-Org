@@ -1,6 +1,6 @@
 Nom=Quake
 
-FormeJuridique=SA
+FormeJuridique=société anonyme
 
 Capital=1.000.000 Euros
 
@@ -25,5 +25,9 @@ RCS.Adresse.Ville=Bobigny
 Dirigeant1.=[U/id/Marie_Matignon.md]
 
 Dirigeant1.Titre=Président
+
+entity.a=a French {FormeJuridique}
+
+Addr.Type=registered
 
 =[U/class/FR_Société.md]

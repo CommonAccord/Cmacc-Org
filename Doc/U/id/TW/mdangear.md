@@ -1,21 +1,21 @@
-=[U/class/ID_He]
-
-=[U/at/FR/Paris/Geo]
-
 Name.First=Marc
 
 Name.Last=Dangeard
 
 Name.Full={Name.First} {Name.Last}
 
-Adr.Rue.#=#
+Addr.Type=residential
 
-Adr.Rue=rue
+Adr.Rue.#=9999
 
-Adr.Zip=ZIP
+Adr.Rue=rue Doucement
+
+Adr.Zip=75757
 
 Twitter.Followers=1,865
 
 Addr.2={Adr.Zip} {Adr.Ville}
 
-Employer.=[U/id/TW/beboundtech]
+=[U/class/ID_He]
+
+=[U/at/FR/Paris/Geo]

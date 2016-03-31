@@ -22,4 +22,19 @@ Adresse.Pays=France
 
 Adresse.PY=FR
 
+Note=Converting:
+
+Name.Full={Nom}
+
+entity.a=a {FormeJuridique}
+
+Addr.1={Adresse.1}
+
+Addr.City={Adresse.Ville}
+
+Addr.ST=</i>
+
+Addr.Zip={Adresse.CP}
+
+
 =[U/class/ID]
