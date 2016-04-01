@@ -6,7 +6,7 @@ Ti=BOARD OF DIRECTORS
 
 BoardMembers.Max=3
 
-1.2.sec=Each New Investor holding more than {Investor.BoardMember.Threshold} of the shares shall have the right to appoint one {_Board} member or one non-voting {_Board} observer who shall initially be {Investor.BoardMember.Initial.Name}.
+1.2.sec=Each New Investor holding more than {Investor.BoardMember.Threshold} of the shares shall have the right to appoint one {_Board} member or one non-voting {_Board} observer who shall initially be {Round.2.Investor.BoardMember.Initial.Name.Full}.
 
 Investor.BoardMember.Threshold=15%
 

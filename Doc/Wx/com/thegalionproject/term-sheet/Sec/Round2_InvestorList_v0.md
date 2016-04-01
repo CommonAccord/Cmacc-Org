@@ -1,15 +1,11 @@
 Ti=Structure of Financing
 
-0.sec=The {_Series_A} round will amount to an aggregate of {Round2.Aggregate.Amount} in newly issued {_Series_A} based on a fully diluted pre-money valuation of {Premoney.Valuation}, i.e., {Share.Price} per share of {_Series_A} (the “{_Price}”), allocated as follows (see Appendix A):
+0.sec=The {_Series_A} round will amount to an aggregate of {Round.2.Investor.All.Investment.Amount} in newly issued {_Series_A} based on a fully diluted pre-money valuation of {Premoney.Valuation}, i.e., {Share.Price} per share of {_Series_A} (the “{_Price}”), allocated as follows (see Appendix A):
 
-1.sec={R2-Inv1.N,E,A}: {R2-Inv1.Investment.Amount},	
+Def.sec=</i>
 
-2.sec={R2-Inv2.N,E,A}: {R2-Inv2.Investment.Amount},	
+secs={Investor.All.N,E,A,Investment}
 
-3.sec={R2-Inv3.N,E,A}: {R2-Inv3.Investment.Amount},	
+Sec=<b>{Ti}</b><br>{0.sec}<ul type="none"><li>{secs}</ul>{Def.sec}
 
-4.sec={R2-Inv4.N,E,A}: {R2-Inv4.Investment.Amount},	
-
-5.sec={R2-Inv5.N,E,A}: {R2-Inv5.Investment.Amount},	
-
-=[Z/ol-none/s5]
+Model.Root={Sec}

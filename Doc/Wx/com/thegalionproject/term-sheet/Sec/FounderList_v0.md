@@ -1,13 +1,9 @@
 Ti=Founders
 
-1.sec={F1.N,E,A}
+secs={N,E,A}
 
-2.sec={F2.N,E,A}
+Def.sec=(the “{_Founders}”).
 
-3.sec={F3.N,E,A}
+Sec=<b>{Ti}</b><br><ul type="none"><li>{All.N,E,A}</ul>{Def.sec}
 
-4.sec={F3.N,E,A}
- 
-90.sec=(the “{_Founders}”).
-
-=[Z/ol-none/s4]
+Model.Root={Sec}
