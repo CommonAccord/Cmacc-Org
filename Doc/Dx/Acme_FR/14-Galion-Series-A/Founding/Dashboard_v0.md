@@ -6,4 +6,4 @@
 
 2.Handle=Robinson
 
-All.N,E,A={Founder.1.N,E,A}<li>{Founder.2.N,E,A}
+All.N,E,A={1.N,E,A}<li>{2.N,E,A}

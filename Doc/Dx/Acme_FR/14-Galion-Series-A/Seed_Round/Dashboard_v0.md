@@ -1,3 +1,11 @@
+Company.PreMoney.Value.$=500,000 Euros
+
+MajorInvestorThreshold.$=20,000 Euros
+
+Investor.Attorney.Reimburse.$=10,000 Euros
+
+Company.Cap.Option.Unallocated.%=20%
+
 Investor.1.Investment.Amount=50,000 Euros
 
 Investor.2.Investment.Amount=20,000 Euros
@@ -31,4 +39,12 @@ Investor.1.Attorney.=[U/id/quade_and_quinn]
 
 Investor.2.Attorney.=[U/id/quade_and_quinn]
 
-Investor.All.N,E,A,Investment={Investor.1.N,E,A}; Investment of: {Investor.1.Investment.Amount}<li>{Investor.2.N,E,A}; Investment of:  {Investor.2.Investment.Amount}
+Company.Director.Common.#={Founder.1.Name.Full}
+
+Company.Director.Seed.#={Seed.Investor.1.Name.Full}
+
+Company.Director.Mutual.#=Edouard Eventail
+
+KeyHolder.Vest.Begin=January 1, 2018
+
+Company.Register.State=France
