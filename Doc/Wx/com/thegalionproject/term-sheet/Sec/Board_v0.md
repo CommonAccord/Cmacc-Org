@@ -6,7 +6,7 @@ Ti=BOARD OF DIRECTORS
 
 BoardMembers.Max=3
 
-1.2.sec=Each New Investor holding more than {Investor.BoardMember.Threshold} of the shares shall have the right to appoint one {_Board} member or one non-voting {_Board} observer who shall initially be {Round.2.Investor.BoardMember.Initial.Name.Full}.
+1.2.sec=Each {_New_Investor} holding more than {Investor.BoardMember.Threshold} of the shares shall have the right to appoint one {_Board} member or one non-voting {_Board} observer who shall initially be {SeriesA.Investor.BoardMember.Initial.Name.Full}.
 
 Investor.BoardMember.Threshold=15%
 
@@ -50,7 +50,7 @@ DepartCall.years=five
 
 5.2.2.sec=the {_Company} will have a call option for a period of 3 months over the other half of the unvested shares at their nominal value
  
-5.2.3.sec=the {_Active_Founders} and the New Investors (pro rata among them) will have a call option for a period of 3 months over all other shares of the leaver at their then fair market value.
+5.2.3.sec=the {_Active_Founders} and the {_New_Investors} (pro rata among them) will have a call option for a period of 3 months over all other shares of the leaver at their then fair market value.
 
 5.2.90.sec=As an exception to the above, in case of dismissal of a {_Founder} for gross misconduct (faute lourde) before the {DepartCall.years} anniversary of Closing, all shares held by such {_Founder}, whether vested or unvested, may be purchased at their nominal value. 
 

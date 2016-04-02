@@ -4,9 +4,9 @@ Ti=Closing Conditions
 
 2.sec=negotiation of customary legal documentation in compliance with this term sheet (including a simplification of the {_Company}’s by-laws, to the extent relevant);
 	
-Note="New Investors" is used in init cap but not defined.
+Note="{_New_Investor}s" is used in init cap but not defined.
 
-3.sec=approval of the proposed investment/definitive agreements by the New Investors’ respective investment committees or other competent bodies, if applicable;
+3.sec=approval of the proposed investment/definitive agreements by the {_New_Investors}’ respective investment committees or other competent bodies, if applicable;
 
 4.sec=receipt by the Investors of anti-money laundering documents reasonably satisfactory to them;
 

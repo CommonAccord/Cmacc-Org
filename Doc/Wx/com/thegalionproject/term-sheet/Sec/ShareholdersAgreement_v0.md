@@ -2,7 +2,7 @@ Ti=Shareholders' Agreement
 
 Note="Closing" is used in init cap, but not defined, right?
 
-1.1.sec=A shareholders’ agreement (the “{_Agreement}”) will be entered into on the Closing date among the {_Founders}, the {_Seed_Investors} owning more than {ShareholderAgreement.Threshold.%} of the share capital and the New Investors, for a term of 15 years renewable.  
+1.1.sec=A shareholders’ agreement (the “{_Agreement}”) will be entered into on the Closing date among the {_Founders}, the {_Seed_Investors} owning more than {ShareholderAgreement.Threshold.%} of the share capital and the {_New_Investors}, for a term of 15 years renewable.  
 
 1.2.sec={_The_Agreement} will replace and supersede in all respect any and all pre-existing shareholders agreements entered into between the shareholders of the {_Company}.
 

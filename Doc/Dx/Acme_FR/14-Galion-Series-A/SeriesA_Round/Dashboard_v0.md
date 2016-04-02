@@ -1,3 +1,9 @@
+Shares.Full=Acme SARL Series A Preferred
+
+Premoney.Valuation=Five Million Euros
+
+Share.Price=Five Euros
+
 Investor.1.Investment.Amount=800,000 Euros
 
 Investor.2.Investment.Amount=200,000 Euros
@@ -8,7 +14,11 @@ Investor.BoardMember.Initial.Name.Full=Edouard Elenaugh
 
 Investor.1.=[U/id/Quake_SA.md]
 
+Investor.1.Handle=Quake
+
 Investor.2.=[U/id/Jean_Valjean.md]
+
+Investor.2.Handle=JV
 
 Attys=</i>
 

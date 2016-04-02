@@ -1,5 +1,5 @@
 Ti=Issuer
 
-sec={Co.N,E,A}  (the “{_Company}”)
+sec={Company.N,E,A}  (the “{_Company}”)
 
 =[Z/ol/0]

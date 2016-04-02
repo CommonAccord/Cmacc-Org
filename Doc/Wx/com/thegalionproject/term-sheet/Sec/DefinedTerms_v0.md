@@ -1,4 +1,3 @@
-
 Active_Founders=<span class="definedterm">Active Founders</span>
 
 Agreement=<span class="definedterm">Agreement</span>
@@ -19,6 +18,10 @@ IPO=<span class="definedterm">IPO</span>
 
 Minority_Holders=<span class="definedterm">Minority Holders</span>
 
+New_Investor=<span class="definedterm">New Investor</span>
+
+New_Investors=<span class="definedterm">New Investors</span>
+
 Price=<span class="definedterm">Price</span>
 
 Qualifying_IPO=<span class="definedterm">Qualifying IPO</span>
@@ -34,4 +37,3 @@ Series_A=<span class="definedterm">Series A</span>
 The_Agreement=The <span class="definedterm">Agreement</span>
 
 the_Agreement=the <span class="definedterm">Agreement</span>
-
