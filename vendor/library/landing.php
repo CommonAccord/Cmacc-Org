@@ -1,3 +1,6 @@
+<head>
+<meta name="google-site-verification" content="pW9kknEzvWYfcrDUhD2gffPzvVGNEPzrviRkpDQLqys" />
+</head>
 <body style="margin:40;padding:0">
 
 <?php
