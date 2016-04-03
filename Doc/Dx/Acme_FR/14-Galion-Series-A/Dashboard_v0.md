@@ -8,4 +8,14 @@ Company.=[U/id/Acme_SARL.md]
 
 Company.Handle=Company
 
+Dispute.Law.State.the=France
+
+DisputeResolutionJurisdiction.cl=the commercial courts sitting in and for {Dispute.City}, France
+
 Dispute.City=Paris
+
+Company.Register.State.the=France
+
+Note=No Oxford comma:
+
+q=</i>
