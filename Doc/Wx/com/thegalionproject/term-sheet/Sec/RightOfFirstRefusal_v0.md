@@ -1,6 +1,6 @@
 Ti=Right of First Refusal
 
-0.sec=The New Investors and the {_Active_Founders} will have a right of first refusal on any shares proposed to be transferred by any shareholder, with a right of oversubscription, except for transfers 
+0.sec=The {_New_Investor}s and the {_Active_Founders} will have a right of first refusal on any shares proposed to be transferred by any shareholder, with a right of oversubscription, except for transfers 
 
 1.sec=(i) to an affiliate entity, 
 
