@@ -16,6 +16,14 @@ Dispute.City=Paris
 
 Company.Register.State.the=France
 
+Note=Some housekeeping:
+
 Note=No Oxford comma:
 
 q=</i>
+
+xSignature=______________________
+
+Sign.YMD=________________________
+
+Model.Root={SeriesA.Docs}<hr><hr>{Seed.Docs}

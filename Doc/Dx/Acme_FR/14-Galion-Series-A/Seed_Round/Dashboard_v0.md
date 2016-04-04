@@ -53,11 +53,11 @@ Investor.1.Attorney.=[U/id/quade_and_quinn]
 
 Investor.2.Attorney.=[U/id/quade_and_quinn]
 
-Company.Director.Common.#={Founder.1.Name.Full}
+Company.Director.Common.#=two directors
 
-Company.Director.Seed.#={Seed.Investor.1.Name.Full}
+Company.Director.Seed.#=1 director
 
-Company.Director.Mutual.#=Edouard Eventail
+Company.Director.Mutual.#=1 director
 
 KeyHolder.Vest.Begin=January 1, 2018
 
@@ -68,3 +68,13 @@ Document Mechanics=-
 Investor-N.Row={Investor.1.Row}{Investor.2.Row}
 
 Investor.Sign.Block=<table><tr><td>{Investor.1.Sign.Block}</td><td>{Investor.2.Sign.Block}</td></tr></table>
+
+TermSheet.Effective.YMD=January 16, 2016
+
+Invest.EffectiveDate.YMD=April 6, 2016
+
+Invest.DisputeResolutionJurisdiction.cl={DisputeResolutionJurisdiction.cl}
+
+=[Wx/com/seriesseed/Binder_v0.md]
+
+Docs={TermSheet.Doc}<hr>{Invest.Doc}

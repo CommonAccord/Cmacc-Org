@@ -27,3 +27,15 @@ Investor.1.Atty.=[U/id/quade_and_quinn]
 Investor.2.Atty.=[U/id/quade_and_quinn]
 
 Investor.All.N,E,A,Investment={Investor.1.N,E,A}; Investment of:  {Investor.1.Investment.Amount}<li>{Investor.2.N,E,A}; Investment of: {Investor.2.Investment.Amount}
+
+TermSheet.Voting.sec={TermSheet.Voting.Alt1.sec}
+
+TermSheet.EffectiveDate.YMD=April 4, 2016
+
+Sign.=[Wx/com/thegalionproject/term-sheet/Sec/Sign/F-2_R1-2_R2-2_v0.md]
+
+TermSheet.=[Wx/com/thegalionproject/term-sheet/Sec/Config/v01.md]
+
+=[Wx/com/thegalionproject/Binder_v0.md]
+
+Docs={TermSheet.Model.Root}
