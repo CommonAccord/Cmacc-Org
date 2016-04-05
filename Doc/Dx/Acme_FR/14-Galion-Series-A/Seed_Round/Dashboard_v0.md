@@ -1,3 +1,5 @@
+Docs=<h3>Seed Round</h3><br><b>Term Sheet</b><br>{TermSheet.Doc}<hr><b>Investment Agreement</b><br>{Invest.Doc}<hr><b>Certificate of Incorporation</b><br>{Incorp.Doc}
+
 Company.PreMoney.Value.$=500,000 Euros
 
 Investor.All.Investment.Amount=Seventy Thousand Euros
@@ -15,7 +17,6 @@ Company.Cap.Plan.Name=Acme Employee Stock Option Plan
 PricePerShare.$=Two Euros
 
 Company.Cap.Common.Outstanding.PreMoney.#=200,000
-
 
 Company.Cap.Option.Reserve.#=50,000
 
@@ -37,6 +38,19 @@ KeyHolder.Vest.Begin=January 1, 2018
 
 Company.Register.State=France 
 
+
+Cerfificate of Incorporation=-
+
+Company.Cap.All.Auth.Max.#=100,000,000
+
+Company.Cap.Common.Auth.#=20,000,000
+
+Company.Cap.Common.Par.$=$0.01 
+
+Company.Cap.Seed.Auth.#=10,000,000
+
+Company.Cap.Seed.Par.$=$0.01
+
 Document Mechanics=-
 
 Investor-N.Row={Investor.1.Row}{Investor.2.Row}
@@ -49,6 +63,6 @@ Invest.EffectiveDate.YMD=April 6, 2016
 
 Invest.DisputeResolutionJurisdiction.cl={DisputeResolutionJurisdiction.cl}
 
-=[Wx/com/seriesseed/Binder_v0.md]
+Model.Root={Docs}
 
-Docs={TermSheet.Doc}<hr>{Invest.Doc}
+=[Wx/com/seriesseed/Binder_v0.md]

@@ -1,3 +1,5 @@
+Docs=<h3>Series A Round</h3><br><b>Term Sheet</b><br>{TermSheet.Doc}
+
 Shares.Full=Acme SARL Series A Preferred
 
 Premoney.Valuation=Five Million Euros
@@ -24,4 +26,4 @@ TermSheet.=[Wx/com/thegalionproject/term-sheet/Sec/Config/v01.md]
 
 =[Wx/com/thegalionproject/Binder_v0.md]
 
-Docs={TermSheet.Model.Root}
+Model.Root={Docs}
