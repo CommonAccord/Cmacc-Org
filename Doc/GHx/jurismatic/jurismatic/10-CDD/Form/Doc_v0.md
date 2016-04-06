@@ -255,9 +255,11 @@ Signatures précédées de la mention manuscrite «Lu et approuvé»
 
 Intro.P2.sec={Intro.P2i.sec}
 
-=[Z/FR/Agt/Accord.md]
+=[Z/Agt/FR/0.md]
 
-=[Z/ol/15]
+/=[Z/FR/Agt/Accord.md]
+
+=[Z/ol-none/15]
 
 « Modèles Jurismatic fournis sous licence Creative Commons BY-NC-SA 3.0 FR » Des changements ont eu lieu par rapport aux textes originaux.
 
