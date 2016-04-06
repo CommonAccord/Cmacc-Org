@@ -25,11 +25,7 @@ MessageToUser=Generated from a5we Dashboard
 
 Note=The funding rounds:
 
-SeriesA.=[bq/bnpp/a5we/SeriesA_Round/Dashboard_v0.md]
-
-Seed.=[bq/bnpp/a5we/Seed_Round/Dashboard_v0.md]
-
-Founder.=[bq/bnpp/a5we/Founding/Dashboard_v0.md]
+Corp.=[bq/bnpp/a5we/Corp/Dashboard_v0.md]
 
 Company.Register.Agent.=[U/id/the_corporation_company]
 
@@ -39,6 +35,6 @@ Note=By changing the following, you can render the doc you want.  (Feature will 
 
 Model.Root={Docs1}
 
-Docs1={SeriesA.Docs}<hr><hr>{Seed.Docs}
+Docs1={Corp.Cap.SeriesA.Docs}<hr><hr>{Corp.Cap.Seed.Docs}
 
-Docs2=<b>Certificate of Incorporation from the Seed Round</b>{Seed.Incorp.Doc}
+Docs2=<b>Certificate of Incorporation from the Seed Round</b>{Corp.Cap.Seed.Incorp.Doc}

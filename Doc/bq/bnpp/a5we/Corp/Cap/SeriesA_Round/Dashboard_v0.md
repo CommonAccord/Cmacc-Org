@@ -16,9 +16,9 @@ TermSheet.Voting.sec={TermSheet.Voting.Alt1.sec}
 
 TermSheet.EffectiveDate.YMD=April 4, 2016
 
-Investor.1.=[bq/bnpp/a5we/SeriesA_Round/Investor_1_v0.md]
+Investor.1.=[bq/bnpp/a5we/Corp/Cap/SeriesA_Round/Investor_1_v0.md]
 
-Investor.2.=[bq/bnpp/a5we/SeriesA_Round/Investor_2_v0.md]
+Investor.2.=[bq/bnpp/a5we/Corp/Cap/SeriesA_Round/Investor_2_v0.md]
 
 Sign.=[Wx/com/thegalionproject/term-sheet/Sec/Sign/F-2_R1-2_R2-2_v0.md]
 

@@ -24,10 +24,6 @@ Company.Cap.Option.Outstanding.#="0"
 
 Company.Cap.Option.Unallocated.#=50,000
 
-Investor.1.=[bq/bnpp/a5we/Seed_Round/Investor_1_v0.md]
-
-Investor.2.=[bq/bnpp/a5we/Seed_Round/Investor_2_v0.md]
-
 Company.Director.Common.#=two directors
 
 Company.Director.Seed.#=1 director
@@ -63,6 +59,10 @@ Invest.EffectiveDate.YMD=April 6, 2016
 
 Invest.DisputeResolutionJurisdiction.cl={DisputeResolutionJurisdiction.cl}
 
-Model.Root={Docs}
+Investor.1.=[bq/bnpp/a5we/Corp/Cap/Seed_Round/Investor_1_v0.md]
+
+Investor.2.=[bq/bnpp/a5we/Corp/Cap/Seed_Round/Investor_2_v0.md]
 
 =[Wx/com/seriesseed/Binder_v0.md]
+
+Model.Root={Docs}
