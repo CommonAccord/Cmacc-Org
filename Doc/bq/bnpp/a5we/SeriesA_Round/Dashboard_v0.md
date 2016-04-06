@@ -1,0 +1,29 @@
+Docs=<h3>Series A Round</h3><br><b>Term Sheet</b><br>{TermSheet.Doc}
+
+Shares.Full=Acme SARL Series A Preferred
+
+Premoney.Valuation=Five Million Euros
+
+Share.Price=Five Euros
+
+Investor.All.Investment.Amount=One Million Euros
+
+Investor.BoardMember.Initial.Name.Full=Edouard Elenaugh
+
+Investor.All.N,E,A,Investment={Investor.1.N,E,A}; Investment of:  {Investor.1.Investment.Amount}<li>{Investor.2.N,E,A}; Investment of: {Investor.2.Investment.Amount}
+
+TermSheet.Voting.sec={TermSheet.Voting.Alt1.sec}
+
+TermSheet.EffectiveDate.YMD=April 4, 2016
+
+Investor.1.=[bq/bnpp/a5we/SeriesA_Round/Investor_1_v0.md]
+
+Investor.2.=[bq/bnpp/a5we/SeriesA_Round/Investor_2_v0.md]
+
+Sign.=[Wx/com/thegalionproject/term-sheet/Sec/Sign/F-2_R1-2_R2-2_v0.md]
+
+TermSheet.=[Wx/com/thegalionproject/term-sheet/Sec/Config/v01.md]
+
+=[Wx/com/thegalionproject/Binder_v0.md]
+
+Model.Root={Docs}
