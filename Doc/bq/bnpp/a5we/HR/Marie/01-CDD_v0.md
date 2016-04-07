@@ -6,4 +6,8 @@ P1.=[U/id/Acme_SARL.md]
 
 P2.=[U/id/Marie_Matignon.md]
 
+P-F.Sec={P.1-2.Sec}
+
+Sign.Sec={Sign.1-2.Sec}
+
 =[GHx/jurismatic/jurismatic/10-CDD/Form/Doc_v0.md]
