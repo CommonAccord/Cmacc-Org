@@ -6,6 +6,4 @@ Ti=CommonAccord
 
 3.sec=     4 Everyone
 
-90.sec=What about free don't you understand?
-
 =[Z/ol-none/s3]
