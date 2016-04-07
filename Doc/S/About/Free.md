@@ -1,6 +1,6 @@
 Ti=CommonAccord
 
-1.sec=     2 Free IT
+1.sec=     2 Free Software
 
 2.sec=<u>+   2 Free Legal</u>
 
