@@ -1,4 +1,4 @@
-Titre=ACCORD DE CONFIDENTIALITE
+Doc.Title=ACCORD DE CONFIDENTIALITE
 
 Que.secs={Que.Cadre}<br>{Que.Conditions}
 
@@ -57,8 +57,9 @@ Que.Conditions=La Partie Divulgatrice désire donc arrêter avec la Partie Desti
 
 Litige.Tribunal.du=du Tribunal de Commerce de {Litige.TdC.Ville}
 
+=[Z/Agt/FR/0.md]
 
-=[Z/FR/Agt/Accord.md]
+Sec={sec}
 
 =[Z/ol/s11]
 
