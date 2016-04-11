@@ -14,4 +14,4 @@ Contact.Email=commonaccord@gmail.com ('til better)
 
 Twitter.Handle=<a href="https://twitter.com/search?q=%23decentlaw&src=typd">#decentlaw</a> and <a href="https://twitter.com/CommonAccord">@commonaccord</a> 
 
-Link=<a href="http://commonaccord.org/index.php?action=source&file=S/About/Conference/Flyer/MIT-DigitalContracts_0.md">S/About/Conference/Flyer/MIT-DigitalContracts_0.md</a>
+Link=<a href="/index.php?action=doc&file=S/About/Conference/Flyer/0.md">Flyer</a>
