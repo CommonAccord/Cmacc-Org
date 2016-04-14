@@ -14,7 +14,7 @@ Contact.Email=commonaccord@gmail.com ('til better)
 
 Twitter.Handle=<a href="https://twitter.com/search?q=%23decentlaw&src=typd">#decentlaw</a> and <a href="https://twitter.com/CommonAccord">@commonaccord</a> 
 
-Slack.Link=commonaccord.slack.com - join us <a href="https://commonaccord-slack-invite.herokuapp.com/">here</a>
+Slack.Link=commonaccord.slack.com - join us <a href="https://cmacc-slack-add.herokuapp.com/">here</a>
 
 EmailList.Link=commonaccord@mit.edu
 
