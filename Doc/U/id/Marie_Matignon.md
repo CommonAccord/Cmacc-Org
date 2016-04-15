@@ -10,6 +10,6 @@ Adresse.2=75022 Paris
 
 Adresse.Paye=France
 
-Email=marie@matignongitam.fr
+Email=marie@matignon.fr
 
 =[U/class/FR_Individu.md]
