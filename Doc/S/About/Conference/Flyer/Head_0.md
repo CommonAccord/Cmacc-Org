@@ -8,6 +8,6 @@
 
 5.sec=Contact Email: {Conference.Contact.Email}
 
-6.sec=Twitter Handle: {Conference.Twitter.Handle}; URL: {Conference.Link}; Email List: {Conference.EmailList.Link}; Slack: {Conference.Slack.Link} 
+6.sec=<b>Twitter Handle</b>: {Conference.Twitter.Handle}; <b>URL</b>: {Conference.Link}; <b>Email List</b>: {Conference.EmailList.Link}; <b>Slack</b>: {Conference.Slack.Link} 
 
 =[Z/paras/s6]
