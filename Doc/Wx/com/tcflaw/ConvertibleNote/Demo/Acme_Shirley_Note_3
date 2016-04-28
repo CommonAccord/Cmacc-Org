@@ -1,0 +1,13 @@
+=[Wx/com/tcflaw/ConvertibleNote/Demo/Acme_Convertible_Note]
+
+Investor.=[U/id/solomon_shirley]
+
+Note.Principal.$=$75,000
+
+Note.Issue.YMD=October 16, 2014
+
+Note.Sequence.#=3
+
+Investor.xSignature=xSOLOMON SHIRLEY
+
+Investor.Sign.YMD=October 15, 2014

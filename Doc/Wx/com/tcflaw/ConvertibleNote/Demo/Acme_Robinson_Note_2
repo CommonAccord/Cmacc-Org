@@ -1,0 +1,13 @@
+=[Wx/com/tcflaw/ConvertibleNote/Demo/Acme_Convertible_Note]
+
+Investor.=[U/id/roberta_robinson]
+
+Note.Principal.$=$50,000
+
+Note.Issue.YMD=October 15, 2014
+
+Note.Sequence.#=2
+
+Investor.xSignature=xROBERTA ROBINSON
+
+Investor.Sign.YMD=October 15, 2014
