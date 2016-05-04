@@ -1,442 +1,1435 @@
+Article 51
+Supervisory authority
 
-Ti=Article 24 - Responsibility of the controller
+1.sec=Each Member State shall provide for one or more independent public authorities to be
+responsible for monitoring the application of this Regulation, in order to protect the
+fundamental rights and freedoms of natural persons in relation to processing and to
+facilitate the free flow of personal data within the Union.
 
-1.sec=Taking into account the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for the rights and freedoms of natural persons, the controller shall implement appropriate technical and organisational measures to ensure and to be able to demonstrate that processing is performed in accordance with this Regulation. Those measures shall be reviewed and updated where necessary.
+2.sec=Each supervisory authority shall contribute to the consistent application of this Regulation
+throughout the Union. For that purpose, the supervisory authorities shall cooperate with
+each other and the Commission in accordance with Chapter VII.
 
-2.sec=Where proportionate in relation to processing activities, the measures referred to in paragraph 1 shall include the implementation of appropriate data protection policies by the controller.
+3.sec=Where more than one supervisory authority is established in a Member State, that
+Member State shall designate the supervisory authority which is to represent those
+authorities in the Board and shall set out the mechanism to ensure compliance by the other
+authorities with the rules relating to the consistency mechanism referred to in Article 63.
 
-3.sec=Adherence to approved codes of conduct as referred to in Article 40 or approved certification mechanisms as referred to in Article 42 may be used as an element by which to demonstrate compliance with the obligations of the controller.
+4.sec=Each Member State shall notify to the Commission the provisions of its law which it
+adopts pursuant to this Chapter, by … [two years from the date of entry into force of this
+Regulation] at the latest and, without delay, any subsequent amendment affecting them.
 
-Ti=Article 25 - Data protection by design and by default
+Ti=Article 52
+Independence
 
-1.sec=Taking into account the state of the art, the cost of implementation and the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for rights and freedoms of natural persons posed by the processing, the controller shall, both at the time of the determination of the means for processing and at the time of the processing itself, implement appropriate technical and organisational measures, such as pseudonymisation, which are designed to implement data-protection principles, such as data minimisation, in an effective manner and to integrate the necessary safeguards into the processing in order to meet the requirements of this Regulation and protect the rights of data subjects.
+1.sec=Each supervisory authority shall act with complete independence in performing its tasks
+and exercising its powers in accordance with this Regulation.
 
-2.sec=The controller shall implement appropriate technical and organisational measures for ensuring that, by default, only personal data which are necessary for each specific purpose of the processing are processed. That obligation applies to the amount of personal data collected, the extent of their processing, the period of their storage and their accessibility. In particular, such measures shall ensure that by default personal data are not made accessible without the individual's intervention to an indefinite number of natural persons.
+2.sec=The member or members of each supervisory authority shall, in the performance of their
+tasks and exercise of their powers in accordance with this Regulation, remain free from
+external influence, whether direct or indirect, and shall neither seek nor take instructions
+from anybody.
 
-3.sec=An approved certification mechanism pursuant to Article 42 may be used as an element to demonstrate compliance with the requirements set out in paragraphs 1 and 2 of this Article.
+3.sec=Member or members of each supervisory authority shall refrain from any action
+incompatible with their duties and shall not, during their term of office, engage in any
+incompatible occupation, whether gainful or not.
 
-Ti=Article 26 - Joint controllers
+4.sec=Each Member State shall ensure that each supervisory authority is provided with the
+human, technical and financial resources, premises and infrastructure necessary for the
+effective performance of its tasks and exercise of its powers, including those to be carried
+out in the context of mutual assistance, cooperation and participation in the Board.
 
-1.sec=Where two or more controllers jointly determine the purposes and means of processing, they shall be joint controllers. They shall in a transparent manner determine their respective responsibilities for compliance with the obligations under this Regulation, in particular as regards the exercising of the rights of the data subject and their respective duties to provide the information referred to in Articles 13 and 14, by means of an arrangement between them unless, and in so far as, the respective responsibilities of the controllers are determined by Union or Member State law to which the controllers are subject. The arrangement may designate a contact point for data subjects.
+5.sec=Each Member State shall ensure that each supervisory authority chooses and has its own
+staff which shall be subject to the exclusive direction of the member or members of the
+supervisory authority concerned.
 
-2.sec=The arrangement referred to in paragraph 1 shall duly reflect the respective roles and relationships of the joint controllers vis-à-vis the data subjects. The essence of the arrangement shall be made available to the data subject.
+6.sec=Each Member State shall ensure that each supervisory authority is subject to financial
+control which does not affect its independence and that it has separate, public annual
+budgets, which may be part of the overall state or national budget.
 
-3.sec=Irrespective of the terms of the arrangement referred to in paragraph 1, the data subject may exercise his or her rights under this Regulation in respect of and against each of the controllers.
+Ti=Article 53
+General conditions for the members of the supervisory authority
 
-Ti=Article 27 - Representatives of controllers or processors not established in the Union
+1.sec=Member States shall provide for each member of their supervisory authorities to be
+appointed by means of a transparent procedure by:
 
-1.sec=Where Article 3(2) applies, the controller or the processor shall designate in writing a representative in the Union.
+– their parliament;
 
-2.0.sec=This obligation shall not apply to:
+– their government;
 
-2.1.sec=processing which is occasional, does not include, on a large scale, processing of special categories of data as referred to in Article 9(1) or processing of personal data relating to criminal convictions and offences referred to in Article 10, and is unlikely to result in a risk to the rights and freedoms of natural persons, taking into account the nature, context, scope and purposes of the processing; or
+– their head of State; or
 
-2.2.sec=a public authority or body.
+– an independent body entrusted with the appointment under Member State law.
 
-3.sec=The representative shall be established in one of those Member States where the data subjects are and whose personal data are processed in relation to the offering of goods or services to them, or whose behaviour is monitored.
+2.sec=Each member shall have the qualifications, experience and skills, in particular in the area
+of the protection of personal data, required to perform its duties and exercise its powers.
 
-4.sec=The representative shall be mandated by the controller or processor to be addressed in addition to or instead of the controller or the processor by, in particular, supervisory authorities and data subjects, on all issues related to processing, for the purposes of ensuring compliance with this Regulation.
+3.sec=The duties of a member shall end in the event of the expiry of the term of office,
+resignation or compulsory retirement, in accordance with the law of the Member State
+concerned.
 
-5.sec=The designation of a representative by the controller or processor shall be without prejudice to legal actions which could be initiated against the controller or the processor themselves.
+4.sec=A member shall be dismissed only in cases of serious misconduct or if the member no
+longer fulfils the conditions required for the performance of the duties.
 
-Ti=Article 28 - Processor
+Ti=Article 54
+Rules on the establishment of the supervisory authority
 
-1.sec=Where processing is to be carried out on behalf of a controller, the controller shall use only processors providing sufficient guarantees to implement appropriate technical and organisational measures in such a manner that processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject.
+1.sec=Each Member State shall provide by law for all of the following:
 
-2.sec=The processor shall not engage another processor without prior specific or general written authorisation of the controller. In the case of general written authorisation, the processor shall inform the controller of any intended changes concerning the addition or replacement of other processors, thereby giving the controller the opportunity to object to such changes.
+(a) the establishment of each supervisory authority;
 
-3.0.sec=Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects and the obligations and rights of the controller. That contract or other legal act shall stipulate, in particular, that the processor:
+(b) the qualifications and eligibility conditions required to be appointed as member of
+each supervisory authority;
 
-3.1.sec=processes the personal data only on documented instructions from the controller, including with regard to transfers of personal data to a third country or an international organisation, unless required to do so by Union or Member State law to which the processor is subject; in such a case, the processor shall inform the controller of that legal requirement before processing, unless that law prohibits such information on important grounds of public interest;
+(c) the rules and procedures for the appointment of the member or members of each
+supervisory authority;
 
-3.2.sec=ensures that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality;
+(d) the duration of the term of the member or members of each supervisory authority of
+no less than four years, except for the first appointment after … [the date of entry
+into force of this Regulation], part of which may take place for a shorter period
+where that is necessary to protect the independence of the supervisory authority by
+means of a staggered appointment procedure;
 
-3.3.sec=takes all measures required pursuant to Article 32;
+(e) whether and, if so, for how many terms the member or members of each supervisory
+authority is eligible for reappointment;
 
-3.4.sec=respects the conditions referred to in paragraphs 2 and 4 for engaging another processor;
+(f) the conditions governing the obligations of the member or members and staff of each
+supervisory authority, prohibitions on actions, occupations and benefits incompatible
+therewith during and after the term of office and rules governing the cessation of
+employment.
 
-3.5.sec=taking into account the nature of the processing, assists the controller by appropriate technical and organisational measures, insofar as this is possible, for the fulfilment of the controller's obligation to respond to requests for exercising the data subject's rights laid down in Chapter III;
+2.sec=The member or members and the staff of each supervisory authority shall, in accordance
+with Union or Member State law, be subject to a duty of professional secrecy both during
+and after their term of office, with regard to any confidential information which has come
+to their knowledge in the course of the performance of their tasks or exercise of their
+powers. During their term of office, that duty of professional secrecy shall in particular
+apply to reporting by natural persons of infringements of this Regulation.
 
-3.6.sec=assists the controller in ensuring compliance with the obligations pursuant to Articles 32 to 36 taking into account the nature of processing and the information available to the processor;
+SECTION 2
+COMPETENCE, TASKS AND POWERS
 
-3.7.sec=at the choice of the controller, deletes or returns all the personal data to the controller after the end of the provision of services relating to processing, and deletes existing copies unless Union or Member State law requires storage of the personal data;
+Ti=Article 55 - Competence
 
-3.8.sec=makes available to the controller all information necessary to demonstrate compliance with the obligations laid down in this Article and allow for and contribute to audits, including inspections, conducted by the controller or another auditor mandated by the controller.
+1.sec=Each supervisory authority shall be competent for the performance of the tasks assigned to
+and the exercise of the powers conferred on it in accordance with this Regulation on the
+territory of its own Member State.
 
-90.sec=With regard to point (h) of the first subparagraph, the processor shall immediately inform the controller if, in its opinion, an instruction infringes this Regulation or other Union or Member State data protection provisions.
+2.sec=Where processing is carried out by public authorities or private bodies acting on the basis
+of points (c) or (e) of Article 6(1), the supervisory authority of the Member State
+concerned shall be competent. In such cases Article 56 does not apply.
 
+3.sec=Supervisory authorities shall not be competent to supervise processing operations of courts
+acting in their judicial capacity.
 
-4.sec=Where a processor engages another processor for carrying out specific processing activities on behalf of the controller, the same data protection obligations as set out in the contract or other legal act between the controller and the processor as referred to in paragraph 3 shall be imposed on that other processor by way of a contract or other legal act under Union or Member State law, in particular providing sufficient guarantees to implement appropriate technical and organisational measures in such a manner that the processing will meet the requirements of this Regulation. Where that other processor fails to fulfil its data protection obligations, the initial processor shall remain fully liable to the controller for the performance of that other processor's obligations.
+Ti=Article 56 - Competence of the lead supervisory authority
 
-5.sec=Adherence of a processor to an approved code of conduct as referred to in Article 40 or an approved certification mechanism as referred to in Article 42 may be used as an element by which to demonstrate sufficient guarantees as referred to in paragraphs 1 and 4 of this Article.
+1.sec=Without prejudice to Article 55, the supervisory authority of the main establishment or of
+the single establishment of the controller or processor shall be competent to act as lead
+supervisory authority for the cross-border processing carried out by that controller or
+processor in accordance with the procedure provided in Article 60.
 
-6.sec=Without prejudice to an individual contract between the controller and the processor, the contract or the other legal act referred to in paragraphs 3 and 4 of this Article may be based, in whole or in part, on standard contractual clauses referred to in paragraphs 7 and 8 of this Article, including when they are part of a certification granted to the controller or processor pursuant to Articles 42 and 43.
+2.sec=By derogation from paragraph 1, each supervisory authority shall be competent to handle a
+complaint lodged with it or a possible infringement of this Regulation, if the subject matter
+relates only to an establishment in its Member State or substantially affects data subjects
+only in its Member State.
 
-7.sec=The Commission may lay down standard contractual clauses for the matters referred to in paragraph 3 and 4 of this Article and in accordance with the examination procedure referred to in Article 93(2).
+3.sec=In the cases referred to in paragraph 2 of this Article, the supervisory authority shall inform
+the lead supervisory authority without delay on that matter. Within a period of three weeks
+after being informed the lead supervisory authority shall decide whether or not it will
+handle the case in accordance with the procedure provided in Article 60, taking into
+account whether or not there is an establishment of the controller or processor in the
+Member State of which the supervisory authority informed it.
 
-8.sec=A supervisory authority may adopt standard contractual clauses for the matters referred to in paragraph 3 and 4 of this Article and in accordance with the consistency mechanism referred to in Article 63.
+4.sec=Where the lead supervisory authority decides to handle the case, the procedure provided in Article 60 shall apply. The supervisory authority which informed the lead supervisory
+authority may submit to the lead supervisory authority a draft for a decision. The lead
+supervisory authority shall take utmost account of that draft when preparing the draft
+decision referred to in Article 60(3).
 
-9.sec=The contract or the other legal act referred to in paragraphs 3 and 4 shall be in writing, including in electronic form.
+5.sec=Where the lead supervisory authority decides not to handle the case, the supervisory
+authority which informed the lead supervisory authority shall handle it according to
 
-10.sec=Without prejudice to Articles 82, 83 and 84, if a processor infringes this Regulation by determining the purposes and means of processing, the processor shall be considered to be a controller in respect of that processing.
+Ti=Articles 61 and 62.
 
-Ti=Article 29 - Processing under the authority of the controller or processor
+6.sec=The lead supervisory authority shall be the sole interlocutor of the controller or processor
+for the cross-border processing carried out by that controller or processor.
 
-The processor and any person acting under the authority of the controller or of the processor, who has access to personal data, shall not process those data except on instructions from the controller, unless required to do so by Union or Member State law.
+Ti=Article 57 - Tasks
 
-Ti=Article 30 - Records of processing activities
+1.sec=Without prejudice to other tasks set out under this Regulation, each supervisory authority
+shall on its territory:
 
-1.0.sec=Each controller and, where applicable, the controller's representative, shall maintain a record of processing activities under its responsibility. That record shall contain all of the following information:
+(a) monitor and enforce the application of this Regulation;
 
-1.1.sec=the name and contact details of the controller and, where applicable, the joint controller, the controller's representative and the data protection officer;
+(b) promote public awareness and understanding of the risks, rules, safeguards and rights
+in relation to processing. Activities addressed specifically to children shall receive
+specific attention;
 
-1.2.sec=the purposes of the processing;
+(c) advise, in accordance with Member State law, the national parliament, the
+government, and other institutions and bodies on legislative and administrative
+measures relating to the protection of natural persons' rights and freedoms with
+regard to processing;
 
-1.3.sec=a description of the categories of data subjects and of the categories of personal data;
+(d) promote the awareness of controllers and processors of their obligations under this
+Regulation;
 
-1.4.sec=the categories of recipients to whom the personal data have been or will be disclosed including recipients in third countries or international organisations;
+(e) upon request, provide information to any data subject concerning the exercise of their
+rights under this Regulation and, if appropriate, cooperate with the supervisory
+authorities in other Member States to that end;
 
-1.5.sec=where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of appropriate safeguards;
+(f) handle complaints lodged by a data subject, or by a body, organisation or association
+in accordance with Article 80, and investigate, to the extent appropriate, the subject
+matter of the complaint and inform the complainant of the progress and the outcome
+of the investigation within a reasonable period, in particular if further investigation or
+coordination with another supervisory authority is necessary;
 
-1.6.sec=where possible, the envisaged time limits for erasure of the different categories of data;
+(g) cooperate with, including sharing information and provide mutual assistance to, other
+supervisory authorities with a view to ensuring the consistency of application and
+enforcement of this Regulation;
 
-1.7.sec=where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
+(h) conduct investigations on the application of this Regulation, including on the basis of
+information received from another supervisory authority or other public authority;
 
-2.0.sec=Each processor and, where applicable, the processor's representative shall maintain a record of all categories of processing activities carried out on behalf of a controller, containing:
+(i) monitor relevant developments, insofar as they have an impact on the protection of
+personal data, in particular the development of information and communication
+technologies and commercial practices;
 
-2.1.sec=the name and contact details of the processor or processors and of each controller on behalf of which the processor is acting, and, where applicable, of the controller's or the processor's representative, and the data protection officer;
+(j) adopt standard contractual clauses referred to in Article 28(8) and point (d) of Article 46(2);
 
-2.2.sec=the categories of processing carried out on behalf of each controller;
+(k) establish and maintain a list in relation to the requirement for data protection impact
+assessment pursuant to Article 35(4);
 
-2.3.sec=where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of appropriate safeguards;
+(l) give advice on the processing operations referred to in Article 36(2);
 
-2.4.sec=where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
+(m) encourage the drawing up of codes of conduct pursuant to Article 40 and provide an
+opinion and approve such codes of conduct which provide sufficient safeguards,
+pursuant to Article 40(5);
 
-3.sec=The records referred to in paragraphs 1 and 2 shall be in writing, including in electronic form.
+(n) encourage the establishment of data protection certification mechanisms and of data
+protection seals and marks pursuant to Article 42(1), and approve the criteria of
+certification pursuant to Article 42(5);
 
-4.sec=The controller or the processor and, where applicable, the controller's or the processor's representative, shall make the record available to the supervisory authority on request.
+(o) where applicable, carry out a periodic review of certifications issued in accordance
+with Article 42(7);
 
-5.sec=The obligations referred to in paragraphs 1 and 2 shall not apply to an enterprise or an organisation employing fewer than 250 persons unless the processing it carries out is likely to result in a risk to the rights and freedoms of data subjects, the processing is not occasional, or the processing includes special categories of data as referred to in Article 9(1) or personal data relating to criminal convictions and offences referred to in Article 10.
+(p) draft and publish the criteria for accreditation of a body for monitoring codes of
+conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
 
-Ti=Article 31 - Cooperation with the supervisory authority
+(q) conduct the accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
 
-The controller and the processor and, where applicable, their representatives, shall cooperate, on request, with the supervisory authority in the performance of its tasks.
+(r) authorise contractual clauses and provisions referred to in Article 46(3);
 
-Ti=Article 32 - Security of processing
+(s) approve binding corporate rules pursuant to Article 47;
 
-1.0.sec=Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate:
+(t) contribute to the activities of the Board;
 
-1.1.sec=the pseudonymisation and encryption of personal data;
+(u) keep internal records of infringements of this Regulation and of measures taken in
+accordance with Article 58(2); and
 
-1.2.sec=the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+(v) fulfil any other tasks related to the protection of personal data.
 
-1.3.sec=the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident;
+2.sec=Each supervisory authority shall facilitate the submission of complaints referred to in
+point (f) of paragraph 1, by measures such as a complaint submission form which may also
+be completed electronically, without excluding other means of communication.
 
-1.4.sec=a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.
+3.sec=The performance of the tasks of each supervisory authority shall be free of charge for the
+data subject and, where applicable, for the data protection officer.
 
-2.sec=In assessing the appropriate level of security account shall be taken in particular of the risks that are presented by processing, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data transmitted, stored or otherwise processed.
+4.sec=Where requests are manifestly unfounded or excessive, in particular because of their
+repetitive character, the supervisory authority may charge a reasonable fee based on
+administrative costs, or refuse to act on the request. The supervisory authority shall bear
+the burden of demonstrating the manifestly unfounded or excessive character of the
+request.
 
-3.sec=Adherence to an approved code of conduct as referred to in Article 40 or an approved certification mechanism as referred to in Article 42 may be used as an element by which to demonstrate compliance with the requirements set out in paragraph 1 of this Article.
+Ti=Article 58 - Powers
 
-4.sec=The controller and processor shall take steps to ensure that any natural person acting under the authority of the controller or the processor who has access to personal data does not process them except on instructions from the controller, unless he or she is required to do so by Union or Member State law.
+1.sec=Each supervisory authority shall have all of the following investigative powers:
 
-Ti=Article 33
+(a) to order the controller and the processor, and, where applicable, the controller's or the
+processor's representative to provide any information it requires for the performance
+of its tasks;
 
-Notification of a personal data breach to the supervisory authority
+(b) to carry out investigations in the form of data protection audits;
 
-1.sec=In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority competent in accordance with Article 55, unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons. Where the notification to the supervisory authority is not made within 72 hours, it shall be accompanied by reasons for the delay.
+(c) to carry out a review on certifications issued pursuant to Article 42(7);
 
-2.sec=The processor shall notify the controller without undue delay after becoming aware of a personal data breach.
+(d) to notify the controller or the processor of an alleged infringement of this Regulation;
 
-3.0.sec=The notification referred to in paragraph 1 shall at least:
+(e) to obtain, from the controller and the processor, access to all personal data and to all
+information necessary for the performance of its tasks;
 
-3.1.sec=describe the nature of the personal data breach including where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of personal data records concerned;
+(f) to obtain access to any premises of the controller and the processor, including to any
+data processing equipment and means, in accordance with Union or Member State
+procedural law.
 
-3.2.sec=communicate the name and contact details of the data protection officer or other contact point where more information can be obtained;
+2.sec=Each supervisory authority shall have all of the following corrective powers:
 
-3.3.sec=describe the likely consequences of the personal data breach;
+(a) to issue warnings to a controller or processor that intended processing operations are
+likely to infringe provisions of this Regulation;
 
-3.4.sec=describe the measures taken or proposed to be taken by the controller to address the personal data breach, including, where appropriate, measures to mitigate its possible adverse effects.
+(b) to issue reprimands to a controller or a processor where processing operations have
+infringed provisions of this Regulation;
 
-4.sec=Where, and in so far as, it is not possible to provide the information at the same time, the information may be provided in phases without undue further delay.
+(c) to order the controller or the processor to comply with the data subject's requests to
+exercise his or her rights pursuant to this Regulation;
 
-5.sec=The controller shall document any personal data breaches, comprising the facts relating to the personal data breach, its effects and the remedial action taken. That documentation shall enable the supervisory authority to verify compliance with this Article.
+(d) to order the controller or processor to bring processing operations into compliance
+with the provisions of this Regulation, where appropriate, in a specified manner and
+within a specified period;
 
-Ti=Article 34
+(e) to order the controller to communicate a personal data breach to the data subject;
 
-Communication of a personal data breach to the data subject
+(f) to impose a temporary or definitive limitation including a ban on processing;
 
-1.sec=When the personal data breach is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall communicate the personal data breach to the data subject without undue delay.
+(g) to order the rectification or erasure of personal data or restriction of processing
+pursuant to Articles 16, 17 and 18 and the notification of such actions to recipients to
+whom the personal data have been disclosed pursuant to Articles 17(2) and 19;
 
-2.sec=The communication to the data subject referred to in paragraph 1 of this Article shall describe in clear and plain language the nature of the personal data breach and contain at least the information and the recommendations provided for in points (b), (c) and (d) of Article 33(3).
+(h) to withdraw a certification or to order the certification body to withdraw a
+certification issued pursuant to Articles 42 and 43, or to order the certification body
+not to issue certification if the requirements for the certification are not or are no
+longer met;
 
-3.0.sec=The communication to the data subject referred to in paragraph 1 shall not be required if any of the following conditions are met: (a) the controller has implemented appropriate technical and organisational protection measures, and that those measures were applied to the personal data affected by the personal data breach, in particular those that render the personal data unintelligible to any person who is not authorised to access it, such as encryption;
+(i) to impose an administrative fine pursuant to Article 83, in addition to, or instead of
+measures referred to in this paragraph, depending on the circumstances of each
+individual case;
 
-3.2.sec=the controller has taken subsequent measures which ensure that the high risk to the rights and freedoms of data subjects referred to in paragraph 1 is no longer likely to materialise;
+(j) to order the suspension of data flows to a recipient in a third country or to an
+international organisation.
 
-3.3.sec=it would involve disproportionate effort. In such a case, there shall instead be a public communication or similar measure whereby the data subjects are informed in an equally effective manner.
+3.sec=Each supervisory authority shall have all of the following authorisation and advisory
+powers:
 
-4.sec=If the controller has not already communicated the personal data breach to the data subject, the supervisory authority, having considered the likelihood of the personal data breach resulting in a high risk, may require it to do so or may decide that any of the conditions referred to in paragraph 3 are met.
+(a) to advise the controller in accordance with the prior consultation procedure referred
+to in Article 36;
 
-Ti=Article 35 - Data protection impact assessment
+(b) to issue, on its own initiative or on request, opinions to the national parliament, the
+Member State government or, in accordance with Member State law, to other
+institutions and bodies as well as to the public on any issue related to the protection
+of personal data;
 
-1.sec=Where a type of processing in particular using new technologies, and taking into account the nature, scope, context and purposes of the processing, is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations on the protection of personal data. A single assessment may address a set of similar processing operations that present similar high risks.
+(c) to authorise processing referred to in Article 36(5), if the law of the Member State
+requires such prior authorisation;
 
-2.sec=The controller shall seek the advice of the data protection officer, where designated, when carrying out a data protection impact assessment.
+(d) to issue an opinion and approve draft codes of conduct pursuant to Article 40(5);
 
-3.0.sec=A data protection impact assessment referred to in paragraph 1 shall in particular be required in the case of:
+(e) to accredit certification bodies pursuant to Article 43;
 
-3.1.sec=a systematic and extensive evaluation of personal aspects relating to natural persons which is based on automated processing, including profiling, and on which decisions are based that produce legal effects concerning the natural person or similarly significantly affect the natural person;
+(f) to issue certifications and approve criteria of certification in accordance with Article 42(5);
 
-3.2.sec=processing on a large scale of special categories of data referred to in Article 9(1), or of personal data relating to criminal convictions and offences referred to in Article 10; or
+(g) to adopt standard data protection clauses referred to in Article 28(8) and in point (d)
+of Article 46(2);
 
-3.3.sec=a systematic monitoring of a publicly accessible area on a large scale.
+(h) to authorise contractual clauses referred to in point (a) of Article 46(3);
 
-4.sec=The supervisory authority shall establish and make public a list of the kind of processing operations which are subject to the requirement for a data protection impact assessment pursuant to paragraph 1. The supervisory authority shall communicate those lists to the Board referred to in Article 68.
+(i) to authorise administrative arrangements referred to in point (b) of Article 46(3);
 
-5.sec=The supervisory authority may also establish and make public a list of the kind of processing operations for which no data protection impact assessment is required. The supervisory authority shall communicate those lists to the Board.
+(j) to approve binding corporate rules pursuant to Article 47.
 
-6.sec=Prior to the adoption of the lists referred to in paragraphs 4 and 5, the competent supervisory authority shall apply the consistency mechanism referred to in Article 63 where such lists involve processing activities which are related to the offering of goods or services to data subjects or to the monitoring of their behaviour in several Member States, or may substantially affect the free movement of personal data within the Union.
+4.sec=The exercise of the powers conferred on the supervisory authority pursuant to this Article
+shall be subject to appropriate safeguards, including effective judicial remedy and due
+process, set out in Union and Member State law in accordance with the Charter.
 
-7.0.sec=The assessment shall contain at least:
+5.sec=Each Member State shall provide by law that its supervisory authority shall have the power
+to bring infringements of this Regulation to the attention of the judicial authorities and
+where appropriate, to commence or engage otherwise in legal proceedings, in order to
+enforce the provisions of this Regulation.
 
-7.1.sec=a systematic description of the envisaged processing operations and the purposes of the processing, including, where applicable, the legitimate interest pursued by the controller;
+6.sec=Each Member State may provide by law that its supervisory authority shall have additional
+powers to those referred to in paragraphs 1, 2 and 3. The exercise of those powers shall not
+impair the effective operation of Chapter VII.
 
-7.2.sec=an assessment of the necessity and proportionality of the processing operations in relation to the purposes;
+Ti=Article 59 - Activity reports
 
-7.3.sec=an assessment of the risks to the rights and freedoms of data subjects referred to in paragraph 1; and
+Each supervisory authority shall draw up an annual report on its activities, which may include a list
+of types of infringement notified and types of measures taken in accordance with Article 58(2).
+Those reports shall be transmitted to the national parliament, the government and other authorities
+as designated by Member State law. They shall be made available to the public, to the Commission
+and to the Board.
 
-7.4.sec=the measures envisaged to address the risks, including safeguards, security measures and mechanisms to ensure the protection of personal data and to demonstrate compliance with this Regulation taking into account the rights and legitimate interests of data subjects and other persons concerned.
+CHAPTER VII
+COOPERATION AND CONSISTENCY
+SECTION 1
+COOPERATION
 
-8.sec=Compliance with approved codes of conduct referred to in Article 40 by the relevant controllers or processors shall be taken into due account in assessing the impact of the processing operations performed by such controllers or processors, in particular for the purposes of a data protection impact assessment.
+Ti=Article 60 - Cooperation between the lead supervisory authority
+and other supervisory authorities concerned
 
-9.sec=Where appropriate, the controller shall seek the views of data subjects or their representatives on the intended processing, without prejudice to the protection of commercial or public interests or the security of processing operations.
+1.sec=The lead supervisory authority shall cooperate with the other supervisory authorities
+concerned in accordance with this Article in an endeavour to reach consensus. The lead
+supervisory authority and the supervisory authorities concerned shall exchange all relevant
+information with each other.
 
-10.sec=Where processing pursuant to point (c) or (e) of Article 6(1) has a legal basis in Union law or in the law of the Member State to which the controller is subject, that law regulates the specific processing operation or set of operations in question, and a data protection impact assessment has already been carried out as part of a general impact assessment in the context of the adoption of that legal basis, paragraphs 1 to 7 shall not apply unless Member States deem it to be necessary to carry out such an assessment prior to processing activities.
+2.sec=The lead supervisory authority may request at any time other supervisory authorities
+concerned to provide mutual assistance pursuant to Article 61 and may conduct joint
+operations pursuant to Article 62, in particular for carrying out investigations or for
+monitoring the implementation of a measure concerning a controller or processor
+established in another Member State.
 
-11.sec=Where necessary, the controller shall carry out a review to assess if processing is performed in accordance with the data protection impact assessment at least when there is a change of the risk represented by processing operations.
+3.sec=The lead supervisory authority shall, without delay, communicate the relevant information
+on the matter to the other supervisory authorities concerned. It shall without delay submit a
+draft decision to the other supervisory authorities concerned for their opinion and take due
+account of their views.
 
-Ti=Article 36 - Prior consultation
+4.sec=Where any of the other supervisory authorities concerned within a period of four weeks
+after having been consulted in accordance with paragraph 3 of this Article, expresses a
+relevant and reasoned objection to the draft decision, the lead supervisory authority shall, if
+it does not follow the relevant and reasoned objection or is of the opinion it is not relevant
+and reasoned, submit the matter to the consistency mechanism referred to in Article 63.
 
-1.sec=The controller shall consult the supervisory authority prior to processing where a data protection impact assessment under Article 35 indicates that the processing would result in a high risk in the absence of measures taken by the controller to mitigate the risk.
+5.sec=Where the lead supervisory authority intends to follow the relevant and reasoned objection
+made, it shall submit to the other supervisory authorities concerned a revised draft decision
+for their opinion. That revised draft decision shall be subject to the procedure referred to in
+paragraph 4 within a period of two weeks.
 
-2.sec=Where the supervisory authority is of the opinion that the intended processing referred to in paragraph 1 would infringe this Regulation, in particular where the controller has insufficiently identified or mitigated the risk, the supervisory authority shall, within period of up to eight weeks of receipt of the request for consultation, provide written advice to the controller and, where applicable to the processor, and may use any of its powers referred to in Article 58. That period may be extended by six weeks, taking into account the complexity of the intended processing. The supervisory authority shall inform the controller and, where applicable, the processor, of any such extension within one month of receipt of the request for consultation together with the reasons for the delay. Those periods may be suspended until the supervisory authority has obtained information it has requested for the purposes of the consultation.
+6.sec=Where none of the other supervisory authorities concerned has objected to the draft
+decision submitted by the lead supervisory authority within the period referred to in
+paragraphs 4 and 5, the lead supervisory authority and the supervisory authorities
+concerned shall be deemed to be in agreement with that draft decision and shall be bound
+by it.
 
-3.0.sec=When consulting the supervisory authority pursuant to paragraph 1, the controller shall provide the supervisory authority with:
+7.sec=The lead supervisory authority shall adopt and notify the decision to the main
+establishment or single establishment of the controller or processor, as the case may be and
+inform the other supervisory authorities concerned and the Board of the decision in
+question, including a summary of the relevant facts and grounds. The supervisory authority
+with which a complaint has been lodged shall inform the complainant on the decision.
 
-3.1.sec=where applicable, the respective responsibilities of the controller, joint controllers and processors involved in the processing, in particular for processing within a group of undertakings;
+8.sec=By derogation from paragraph 7, where a complaint is dismissed or rejected, the
+supervisory authority with which the complaint was lodged shall adopt the decision and
+notify it to the complainant and shall inform the controller thereof.
 
-3.2.sec=the purposes and means of the intended processing;
+9.sec=Where the lead supervisory authority and the supervisory authorities concerned agree to
+dismiss or reject parts of a complaint and to act on other parts of that complaint, a separate
+decision shall be adopted for each of those parts of the matter. The lead supervisory
+authority shall adopt the decision for the part concerning actions in relation to the
+controller, shall notify it to the main establishment or single establishment of the controller
+or processor on the territory of its Member State and shall inform the complainant thereof,
+while the supervisory authority of the complainant shall adopt the decision for the part
+concerning dismissal or rejection of that complaint, and shall notify it to that complainant
+and shall inform the controller or processor thereof.
 
-3.3.sec=the measures and safeguards provided to protect the rights and freedoms of data subjects pursuant to this Regulation;
+10. After being notified of the decision of the lead supervisory authority pursuant to
+paragraphs7 and 9, the controller or processor shall take the necessary measures to ensure
+compliance with the decision as regards processing activities in the context of all its
+establishments in the Union. The controller or processor shall notify the measures taken for
+complying with the decision to the lead supervisory authority, which shall inform the other
+supervisory authorities concerned.
 
-3.4.sec=where applicable, the contact details of the data protection officer;
+11. Where, in exceptional circumstances, a supervisory authority concerned has reasons to
+consider that there is an urgent need to act in order to protect the interests of data subjects,
+the urgency procedure referred to in Article 66 shall apply.
 
-3.5.sec=the data protection impact assessment provided for in Article 35; and
+12. The lead supervisory authority and the other supervisory authorities concerned shall supply
+the information required under this Article to each other by electronic means, using a
+standardised format.
 
-3.6.sec=any other information requested by the supervisory authority.
+Ti=Article 61 - Mutual assistance
 
-4.sec=Member States shall consult the supervisory authority during the preparation of a proposal for a legislative measure to be adopted by a national parliament, or of a regulatory measure based on such a legislative measure, which relates to processing.
+1.sec=Supervisory authorities shall provide each other with relevant information and mutual
+assistance in order to implement and apply this Regulation in a consistent manner, and
+shall put in place measures for effective cooperation with one another. Mutual assistance
+shall cover, in particular, information requests and supervisory measures, such as requests
+to carry out prior authorisations and consultations, inspections and investigations.
 
-5.sec=Notwithstanding paragraph 1, Member State law may require controllers to consult with, and obtain prior authorisation from, the supervisory authority in relation to processing by a controller for the performance of a task carried out by the controller in the public interest, including processing in relation to social protection and public health.
+2.sec=Each supervisory authority shall take all appropriate measures required to reply to a
+request of another supervisory authority without undue delay and no later than one month
+after receiving the request. Such measures may include, in particular, the transmission of
+relevant information on the conduct of an investigation.
 
+3.sec=Requests for assistance shall contain all the necessary information, including the purpose
+of and reasons for the request. Information exchanged shall be used only for the purpose
+for which it was requested.
 
-Ti=Article 37
+4.sec=The requested supervisory authority shall not refuse to comply with the request unless:
 
-Designation of the data protection officer
+(a) it is not competent for the subject-matter of the request or for the measures it is
+requested to execute; or
 
-1.0.sec=The controller and the processor shall designate a data protection officer in any case where:
+(b) compliance with the request would infringe this Regulation or Union or
+Member State law to which the supervisory authority receiving the request is subject.
 
-1.1.sec=the processing is carried out by a public authority or body, except for courts acting in their judicial capacity;
+5.sec=The requested supervisory authority shall inform the requesting supervisory authority of
+the results or, as the case may be, of the progress of the measures taken in order to respond
+to the request. The requested supervisory authority shall provide reasons for any refusal to
+comply with a requestpursuant to paragraph 4.
 
-1.2.sec=the core activities of the controller or the processor consist of processing operations which, by virtue of their nature, their scope and/or their purposes, require regular and systematic monitoring of data subjects on a large scale; or
+6.sec=Requested supervisory authorities shall, as a rule, supply the information requested by
+other supervisory authorities by electronic means, using a standardised format.
 
-1.3.sec=the core activities of the controller or the processor consist of processing on a large scale of special categories of data pursuant to Article 9 and personal data relating to criminal convictions and offences referred to in Article 10.
+7.sec=Requested supervisory authorities shall not charge a fee for any action taken by them
+pursuant to a request for mutual assistance. Supervisory authorities may agree on rules to
+indemnify each other for specific expenditure arising from the provision of mutual
+assistance in exceptional circumstances.
 
-1.=[Z/ol-a/s3]
+8.sec=Where a supervisory authority does not provide the information referred to in paragraph 5
+within one month of receiving the request of another supervisory authority, the requesting
+supervisory authority may adopt a provisional measure on the territory of its Member State
+in accordance with Article 55(1). In that case, the urgent need to act under Article 66(1)
+shall be presumed to be met and require an urgent binding decision from the Board
+pursuant to Article 66(2).
 
-2.sec=A group of undertakings may appoint a single data protection officer provided that a data protection officer is easily accessible from each establishment.
+9.sec=The Commission may, by means of implementing acts, specify the format and procedures
+for mutual assistance referred to in this Article and the arrangements for the exchange of
+information by electronic means between supervisory authorities, and between supervisory
+authorities and the Board, in particular the standardised format referred to in paragraph 6
+of this Article. Those implementing acts shall be adopted in accordance with the
+examination procedure referred to in Article 93(2).
 
-3.sec=Where the controller or the processor is a public authority or body, a single data protection officer may be designated for several such authorities or bodies, taking account of their organisational structure and size.
+Ti=Article 62 - Joint operations of supervisory authorities
 
-4.sec=In cases other than those referred to in paragraph 1, the controller or processor or associations and other bodies representing categories of controllers or processors may or, where required by Union or Member State law shall, designate a data protection officer. The data protection officer may act for such associations and other bodies representing controllers or processors.
+1.sec=The supervisory authorities shall, where appropriate, conduct joint operations including
+joint investigations and joint enforcement measures in which members or staff from the
+supervisory authorities of other Member States are involved.
 
-5.sec=The data protection officer shall be designated on the basis of professional qualities and, in particular, expert knowledge of data protection law and practices and the ability to fulfil the tasks referred to in Article 39.
+2.sec=Where the controller or processor has establishments in several Member States or where a
+significant number of data subjects in more than one Member State are likely to be
+substantially affected by processing operations, a supervisory authority of each of those
+Member States shall have the right to participate in joint operations. The supervisory
+authority which is competent pursuant to Article 56 (1) or 56(4) shall invite the supervisory
+authority of each of those Member States to take part in the joint operations and shall
+respond without delay to the request of a supervisory authority to participate.
 
-6.sec=The data protection officer may be a staff member of the controller or processor, or fulfil the tasks on the basis of a service contract.
+3.sec=A supervisory authority may, in accordance with Member State law, and with the
+seconding supervisory authority's authorisation, confer powers, including investigative
+powers on the seconding supervisory authority's members or staff involved in joint
+operations or, in so far as the law of the Member State of the host supervisory authority
+permits, allow the seconding supervisory authority's members or staff to exercise their
+investigative powers in accordance with the law of the Member State of the seconding
+supervisory authority. Such investigative powers may be exercised only under the guidance
+and in the presence of members or staff of the host supervisory authority. The seconding
+supervisory authority's members or staff shall be subject to the Member State law of the
+host supervisory authority.
 
-7.sec=The controller or the processor shall publish the contact details of the data protection officer and communicate them to the supervisory authority.
+4.sec=Where, in accordance with paragraph 1, staff of a seconding supervisory authority operate
+in another Member State, the Member State of the host supervisory authority shall assume
+responsibility for their actions, including liability, for any damage caused by them during
+their operations, in accordance with the law of the Member State in whose territory they
+are operating.
 
-=[Z/ol/s7]
+5.sec=The Member State in whose territory the damage was caused shall make good such
+damage under the conditions applicable to damage caused by its own staff. The
+Member State of the seconding supervisory authority whose staff has caused damage to
+any person in the territory of another Member State shall reimburse that other
+Member State in full any sums it has paid to the persons entitled on their behalf.
 
-Ti=Article 38 - Position of the data protection officer
+6.sec=Without prejudice to the exercise of its rights vis-à-vis third parties and with the exception
+of paragraph 5, each Member State shall refrain, in the case provided for in paragraph 1,
+from requesting reimbursement from another Member State in relation to damage referred
+to in paragraph 4.
 
-1.sec=The controller and the processor shall ensure that the data protection officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data.
+7.sec=Where a joint operation is intended and a supervisory authority does not, within one
+month, comply with the obligation laid down in the second sentence of paragraph 2 of this
 
-2.sec=The controller and processor shall support the data protection officer in performing the tasks referred to in Article 39 by providing resources necessary to carry out those tasks and access to personal data and processing operations, and to maintain his or her expert knowledge.
+Ti=Article, the other supervisory authorities may adopt a provisional measure on the territory
+of its Member State in accordance with Article 55. In that case, the urgent need to act
+under Article 66(1) shall be presumed to be met and require an opinion or an urgent
+binding decision from the Board pursuant to Article 66(2).
 
-3.sec=The controller and processor shall ensure that the data protection officer does not receive any instructions regarding the exercise of those tasks. He or she shall not be dismissed or penalised by the controller or the processor for performing his tasks. The data protection officer shall directly report to the highest management level of the controller or the processor.
+SECTION 2
 
-4.sec=Data subjects may contact the data protection officer with regard to all issues related to processing of their personal data and to the exercise of their rights under this Regulation.
+CONSISTENCY
 
-5.sec=The data protection officer shall be bound by secrecy or confidentiality concerning the performance of his or her tasks, in accordance with Union or Member State law.
+Ti=Article 63 - Consistency mechanism
 
-6.sec=The data protection officer may fulfil other tasks and duties. The controller or processor shall ensure that any such tasks and duties do not result in a conflict of interests.
+In order to contribute to the consistent application of this Regulation throughout the Union, the
+supervisory authorities shall cooperate with each other and, where relevant, with the Commission,
+through the consistency mechanism as set out in this Section.
 
-=[Z/ol/s6]
+Ti=Article 64 - Opinion of the Board
 
-Ti=Article 39 - Tasks of the data protection officer
+1.sec=The Board shall issue an opinion where a competent supervisory authority intends to adopt
+any of the measures below. To that end, the competent supervisory authority shall
+communicate the draft decision to the Board, when it:
 
-1.0.sec=The data protection officer shall have at least the following tasks:
+(a) aims to adopt a list of the processing operations subject to the requirement for a data
+protection impact assessment pursuant to Article 35(4);
 
-1.1.sec=to inform and advise the controller or the processor and the employees who carry out processing of their obligations pursuant to this Regulation and to other Union or Member State data protection provisions;
+(b) concerns a matter pursuant to Article 40(7) whether a draft code of conduct or an
+amendment or extension to a code of conduct complies with this Regulation;
 
-1.2.sec=to monitor compliance with this Regulation, with other Union or Member State data protection provisions and with the policies of the controller or processor in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits;
+(c) aims to approve the criteria for accreditation of a body pursuant to Article 41(3) or a
+certification body pursuant to Article 43(3);
 
-1.3.sec=to provide advice where requested as regards the data protection impact assessment and monitor its performance pursuant to Article 35;
+(d) aims to determine standard data protection clauses referred to in point (d) of Article 46(2) and Article 28(8);
 
-1.4.sec=to cooperate with the supervisory authority;
+(e) aims to authorise contractual clauses referred to in point (a) of Article 46(3); or
 
-1.5.sec=to act as the contact point for the supervisory authority on issues relating to processing, including the prior consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter.
+(f) aims to approve binding corporate rules within the meaning of Article 47.
 
-1.=[Z/ol-a/s5]
+2.sec=Any supervisory authority, the Chair of the Board or the Commission may request that any
+matter of general application or producing effects in more than one Member State be
+examined by the Board with a view to obtaining an opinion, in particular where a
+competent supervisory authority does not comply with the obligations for mutual
+assistance in accordance with Article 61 or for joint operations in accordance with
 
-2.sec=The data protection officer shall in the performance of his or her tasks have due regard to the risk associated with processing operations, taking into account the nature, scope, context and purposes of processing.
+Ti=Article 62.
 
-=[Z/ol/s2]
+3.sec=In the cases referred to in paragraphs 1 and 2, the Board shall issue an opinion on the
+matter submitted to it provided that it has not already issued an opinion on the same matter.
+That opinion shall be adopted within eight weeks by simple majority of the members of the
+Board. That period may be extended by a further six weeks, taking into account the
+complexity of the subject matter. Regarding the draft decision referred to in paragraph 1
+circulated to the members of the Board in accordance with paragraph 5, a member which
+has not objected within a reasonable period indicated by the Chair, shall be deemed to be
+in agreement with the draft decision.
 
-Ti=Article 40 - Codes of conduct
+4.sec=Supervisory authorities and the Commission shall, without undue delay, communicate by
+electronic means to the Board, using a standardised format any relevant information,
+including as the case may be a summary of the facts, the draft decision, the grounds which
+make the enactment of such measure necessary, and the views of other supervisory
+authorities concerned.
 
-1.sec=The Member States, the supervisory authorities, the Board and the Commission shall encourage the drawing up of codes of conduct intended to contribute to the proper application of this Regulation, taking account of the specific features of the various processing sectors and the specific needs of micro, small and medium-sized enterprises.
+5.sec=The Chair of the Board shall, without undue, delay inform by electronic means:
 
-2.0.sec=Associations and other bodies representing categories of controllers or processors may prepare codes of conduct, or amend or extend such codes, for the purpose of specifying the application of this Regulation, such as with regard to:
+(a) the members of the Board and the Commission of any relevant information which
+has been communicated to it using a standardised format. The secretariat of the
+Board shall, where necessary, provide translations of relevant information; and
 
-2.1.sec=fair and transparent processing;
+(b) the supervisory authority referred to, as the case may be, in paragraphs 1 and 2, and
+the Commission of the opinion and make it public.
 
-2.2.sec=the legitimate interests pursued by controllers in specific contexts;
+6.sec=The competent supervisory authority shall not adopt its draft decision referred to in
+paragraph 1 within the period referred to in paragraph 3.
 
-2.3.sec=the collection of personal data;
+7.sec=The supervisory authority referred to in paragraph 1 shall take utmost account of the
+opinion of the Board and shall within two weeks after receiving the opinion, electronically
+communicate to the Chair of the Board whether it maintains or will amend its draft
+decision and, if any, the amended draft decision, using a standardised format.
 
-2.4.sec=the pseudonymisation of personal data;
+8.sec=Where the supervisory authority concerned informs the Chair of the Board within the
+period referred to in paragraph 7 of this Article that it does not intend to follow the opinion
+of the Board, in whole or in part, providing the relevant grounds, Article 65(1) shall apply.
 
-2.5.sec=the information provided to the public and to data subjects;
+Ti=Article 65
 
-2.6.sec=the exercise of the rights of data subjects;
+Dispute resolution by the Board
 
-2.7.sec=the information provided to, and the protection of, children, and the manner in which the consent of the holders of parental responsibility over children is to be obtained;
+1.sec=In order to ensure the correct and consistent application of this Regulation in individual
+cases, the Board shall adopt a binding decision in the following cases:
 
-2.8.sec=the measures and procedures referred to in Articles 24 and 25 and the measures to ensure security of processing referred to in Article 32;
+(a) where, in a case referred to in Article 60(4), a supervisory authority concerned has
+raised a relevant and reasoned objection to a draft decision of the lead authority or
+the lead authority has rejected an objection as being not relevant or reasoned. The
+binding decision shall concern all the matters which are the subject of the relevant
+and reasoned objection, in particular whether there is an infringement of this
+Regulation;
 
-2.9.sec=the notification of personal data breaches to supervisory authorities and the communication of such personal data breaches to data subjects;
+(b) where there are conflicting views on which of the supervisory authorities concerned
+is competent for the main establishment;
 
-2.10.sec=the transfer of personal data to third countries or international organisations; or
+(c) where a competent supervisory authority does not request the opinion of the Board in
+the cases referred to in Article 64(1), or does not follow the opinion of the Board
+issued under Article 64. In that case, any supervisory authority concerned or the
+Commission may communicate the matter to the Board.
 
-2.11.sec=out-of-court proceedings and other dispute resolution procedures for resolving disputes between controllers and data subjects with regard to processing, without prejudice to the rights of data subjects pursuant to Articles 77 and 79.
+2.sec=The decision referred to in paragraph 1 shall be adopted within one month from the referral
+of the subject-matter by a two-third majority of the members of the Board. This period may
+be extended by a further month on account of the complexity of the subject-matter. The
+decision referred to in paragraph 1 shall be reasoned and addressed to the lead supervisory
+authority and all the supervisory authorities concerned and binding on them.
 
-2.=[Z/ol-a/s11]
+3.sec=Where the Board has been unable to adopt a decision within the periods referred to in
+paragraph 2, it shall adopt its decision within two weeks following the expiration of the
+second month referred to in paragraph 2 by a simple majority of the members of the Board.
+Where the members of the Board are split, the decision shall by adopted by the vote of its
+Chair.
 
-3.sec=In addition to adherence by controllers or processors subject to this Regulation, codes of conduct approved pursuant to paragraph 5 of this Article and having general validity pursuant to paragraph 9 of this Article may also be adhered to by controllers or processors that are not subject to this Regulation pursuant to Article 3 in order to provide appropriate safeguards within the framework of personal data transfers to third countries or international organisations under the terms referred to in point (e) of Article 46(2). Such controllers or processors shall make binding and enforceable commitments, via contractual or other legally binding instruments, to apply those appropriate safeguards including with regard to the rights of data subjects.
+4.sec=The supervisory authorities concerned shall not adopt a decision on the subject matter
+submitted to the Board under paragraph 1 during the periods referred to in paragraphs 2
+and 3.
 
-4.sec=A code of conduct referred to in paragraph 2 of this Article shall contain mechanisms which enable the body referred to in Article 41(1) to carry out the mandatory monitoring of compliance with its provisions by the controllers or processors which undertake to apply it, without prejudice to the tasks and powers of supervisory authorities competent pursuant to Article 55 or 56.
-5.sec=Associations and other bodies referred to in paragraph 2 of this Article which intend to prepare a code of conduct or to amend or extend an existing code shall submit the draft code, amendment or extension to the supervisory authority which is competent pursuant to Article 55. The supervisory authority shall provide an opinion on whether the draft code, amendment or extension complies with this Regulation and shall approve that draft code, amendment or extension if it finds that it provides sufficient appropriate safeguards.
+5.sec=The Chair of the Board shall notify, without undue delay, the decision referred to in
+paragraph 1 to the supervisory authorities concerned. It shall inform the Commission
+thereof. The decision shall be published on the website of the Board without delay after the
+supervisory authority has notified the final decision referred to in paragraph 6.
 
-6.sec=Where the draft code, or amendment or extension is approved in accordance with paragraph 5, and where the code of conduct concerned does not relate to processing activities in several Member States, the supervisory authority shall register and publish the code.
+6.sec=The lead supervisory authority or, as the case may be, the supervisory authority with which
+the complaint has been lodged shall adopt its final decision on the basis of the decision
+referred to in paragraph 1 of this Article, without undue delay and at the latest by one
+month after the Board has notified its decision. The lead supervisory authority or, as the
+case may be, the supervisory authority with which the complaint has been lodged, shall
+inform the Board of the date when its final decision is notified respectively to the
+controller or the processor and to the data subject. The final decision of the supervisory
+authorities concerned shall be adopted under the terms of Article 60(7), (8) and (9). The
+final decision shall refer to the decision referred to in paragraph 1 of this Article and shall
+specify that the decision referred to in that paragraph will be published on the website of
+the Board in accordance with paragraph 5 of this Article. The final decision shall attach the
+decision referred to in paragraph 1 of this Article.
 
-7.sec=Where a draft code of conduct relates to processing activities in several Member States, the supervisory authority which is competent pursuant to Article 55 shall, before approving the draft code, amendment or extension, submit it in the procedure referred to in Article 63 to the Board which shall provide an opinion on whether the draft code, amendment or extension complies with this Regulation or, in the situation referred to in paragraph 3, provides appropriate safeguards.
+Ti=Article 66 - Urgency procedure
 
-8.sec=Where the opinion referred to in paragraph 7 confirms that the draft code, amendment or extension complies with this Regulation, or, in the situation referred to in paragraph 3, provides appropriate safeguards, the Board shall submit its opinion to the Commission.
+1.sec=In exceptional circumstances, where a supervisory authority concerned considers that there
+is an urgent need to act in order to protect the rights and freedoms of data subjects, it may,
+by way of derogation from the consistency mechanism referred to in Articles 63, 64 and 65
+or the procedure referred to in Article 60, immediately adopt provisional measures
+intended to produce legal effects on its own territory with a specified period of validity
+which shall not exceed three months. The supervisory authority shall, without delay,
+communicate those measures and the reasons for adopting them to the other supervisory
+authorities concerned, to the Board and to the Commission.
 
-9.sec=The Commission may, by way of implementing acts, decide that the approved code of conduct, amendment or extension submitted to it pursuant to paragraph 8 have general validity within the Union. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 93(2).
+2.sec=Where a supervisory authority has taken a measure pursuant to paragraph 1 and considers
+that final measures need urgently be adopted, it may request an urgent opinion or an urgent
+binding decision from the Board, giving reasons for requesting such opinion or decision.
 
-10.sec=The Commission shall ensure appropriate publicity for the approved codes which have been decided as having general validity in accordance with paragraph 9.
+3.sec=Any supervisory authority may request an urgent opinion or an urgent binding decision, as
+the case may be, from the Board where a competent supervisory authority has not taken an
+appropriate measure in a situation where there is an urgent need to act, in order to protect
+the rights and freedoms of data subjects, giving reasons for requesting such opinion or
+decision, including for the urgent need to act.
 
-11.sec=The Board shall collate all approved codes of conduct, amendments and extensions in a register and shall make them publicly available by way of appropriate means.
+4.sec=By derogation from Articles 64(3) and 65(2), an urgent opinion or an urgent binding
+decision referred to in paragraphs 2 and 3 of this Article shall be adopted within two weeks
+by simple majority of the members of the Board.
 
-=[Z/ol/s11]
+Ti=Article 67 - Exchange of information
 
+The Commission may adopt implementing acts of general scope in order to specify the
+arrangements for the exchange of information by electronic means between supervisory authorities,
+and between supervisory authorities and the Board, in particular the standardised format referred to
+in Article 64.
 
-Ti=Article 41 - Monitoring of approved codes of conduct
+Those implementing acts shall be adopted in accordance with the examination procedure referred to
+in Article 93(2).
 
-1.sec=Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, the monitoring of compliance with a code of conduct pursuant to Article 40 may be carried out by a body which has an appropriate level of expertise in relation to the subject-matter of the code and is accredited for that purpose by the competent supervisory authority.
+SECTION 3
+EUROPEAN DATA PROTECTION BOARD
 
-2.0.sec=A body as referred to in paragraph 1 may be accredited to monitor compliance with a code of conduct where that body has:
+Ti=Article 68 - European Data Protection Board
 
-2.1.sec=demonstrated its independence and expertise in relation to the subject-matter of the code to the satisfaction of the competent supervisory authority;
+1.sec=The European Data Protection Board (the 'Board') is hereby established as a body of the
+Union and shall have legal personality.
 
-2.2.sec=established procedures which allow it to assess the eligibility of controllers and processors concerned to apply the code, to monitor their compliance with its provisions and to periodically review its operation;
+2.sec=The Board shall be represented by its Chair.
 
-2.3.sec=established procedures and structures to handle complaints about infringements of the code or the manner in which the code has been, or is being, implemented by a controller or processor, and to make those procedures and structures transparent to data subjects and the public; and
+3.sec=The Board shall be composed of the head of one supervisory authority of each
+Member State and of the European Data Protection Supervisor, or their respective
+representatives.
 
-2.4.sec=demonstrated to the satisfaction of the competent supervisory authority that its tasks and duties do not result in a conflict of interests.
+4.sec=Where in a Member State more than one supervisory authority is responsible for
+monitoring the application of the provisions pursuant to this Regulation, a joint
+representative shall be appointed in accordance with that Member State's law.
 
-2.=[Z/ol-a/s4]
+5.sec=The Commission shall have the right to participate in the activities and meetings of the
+Board without voting right. The Commission shall designate a representative. The Chair of
+the Board shall communicate to the Commission the activities of the Board.
 
-3.sec=The competent supervisory authority shall submit the draft criteria for accreditation of a body as referred to in paragraph 1 of this Article to the Board pursuant to the consistency mechanism referred to in Article 63.
+6.sec=In the cases referred to in Article 65, the European Data Protection Supervisor shall have
+voting rights only on decisions which concern principles and rules applicable to the Union
+institutions, bodies, offices and agencies which correspond in substance to those of this
+Regulation.
 
-4.sec=Without prejudice to the tasks and powers of the competent supervisory authority and the provisions of Chapter VIII, a body as referred to in paragraph 1 shall, subject to appropriate safeguards, take appropriate action in cases of infringement of the code by a controller or processor, including suspension or exclusion of the controller or processor concerned from the code. It shall inform the competent supervisory authority of such actions and the reasons for taking them.
+Ti=Article 69 - Independence
 
-5.sec=The competent supervisory authority shall revoke the accreditation of a body as referred to in paragraph 1 if the conditions for accreditation are not, or are no longer, met or where actions taken by the body infringe this Regulation.
+1.sec=The Board shall act independently when performing its tasks or exercising its powers
+pursuant to Articles 70 and 71.
 
-6.sec=This Article shall not apply to processing carried out by public authorities and bodies.
+2.sec=Without prejudice to requests by the Commission referred to in point (b) of Article 70(1)
+and in Article 70(2), the Board shall, in the performance of its tasks or the exercise of its
+powers, neither seek nor take instructions from anybody.
 
-=[Z/ol/s6]
+Ti=Article 70 - Tasks of the Board
 
-Ti=Article 42 - Certification
+1.sec=The Board shall ensure the consistent application of this Regulation. To that end, the Board
+shall, on its own initiative or, where relevant, at the request of the Commission, in
+particular:
 
-1.sec=The Member States, the supervisory authorities, the Board and the Commission shall encourage, in particular at Union level, the establishment of data protection certification mechanisms and of data protection seals and marks, for the purpose of demonstrating compliance with this Regulation of processing operations by controllers and processors. The specific needs of micro, small and medium-sized enterprises shall be taken into account.
+(a) monitor and ensure the correct application of this Regulation in the cases provided
+for in Articles 64 and 65 without prejudice to the tasks of national supervisory
+authorities;
 
-2.sec=In addition to adherence by controllers or processors subject to this Regulation, data protection certification mechanisms, seals or marks approved pursuant to paragraph 5 of this Article may be established for the purpose of demonstrating the existence of appropriate safeguards provided by controllers or processors that are not subject to this Regulation pursuant to Article 3 within the framework of personal data transfers to third countries or international organisations under the terms referred to in point (f) of Article 46(2). Such controllers or processors shall make binding and enforceable commitments, via contractual or other legally binding instruments, to apply those appropriate safeguards, including with regard to the rights of data subjects.
+(b) advise the Commission on any issue related to the protection of personal data in the
+Union, including on any proposed amendment of this Regulation;
 
-3.sec=The certification shall be voluntary and available via a process that is transparent.
+(c) advise the Commission on the format and procedures for the exchange of
+information between controllers, processors and supervisory authorities for binding
+corporate rules;
 
-4.sec=A certification pursuant to this Article does not reduce the responsibility of the controller or the processor for compliance with this Regulation and is without prejudice to the tasks and powers of the supervisory authorities which are competent pursuant to Article 55 or 56.
+(d) issue guidelines, recommendations, and best practices on procedures for erasing
+links, copies or replications of personal data from publicly available communication
+services as referred to in Article 17 (2);
 
-5.sec=A certification pursuant to this Article shall be issued by the certification bodies referred to in Article 43 or by the competent supervisory authority, on the basis of criteria approved by that competent supervisory authority pursuant to Article 58(3) or by the Board pursuant to Article 63. Where the criteria are approved by the Board, this may result in a common certification, the European Data Protection Seal.
+(e) examine, on its own initiative, on request of one of its members or on request of the
+Commission, any question covering the application of this Regulation and issue
+guidelines, recommendations and best practices in order to encourage consistent
+application of this Regulation;
 
-6.sec=The controller or processor which submits its processing to the certification mechanism shall provide the certification body referred to in Article 43, or where applicable, the competent supervisory authority, with all information and access to its processing activities which are necessary to conduct the certification procedure.
+(f) issue guidelines, recommendations and best practices in accordance with point (e) of
+this paragraph for further specifying the criteria and conditions for decisions based
+on profiling pursuant to Article 22(2);
 
-7.sec=Certification shall be issued to a controller or processor for a maximum period of three years and may be renewed, under the same conditions, provided that the relevant requirements continue to be met. Certification shall be withdrawn, as applicable, by the certification bodies referred to in Article 43 or by the competent supervisory authority where the requirements for the certification are not or are no longer met.
+(g) issue guidelines, recommendations and best practices in accordance with point (e) of
+this paragraph for establishing the personal data breaches and determining the undue
+delay referred to in Article 33(1) and (2) and for the particular circumstances in
+which a controller or a processor is required to notify the personal data breach;
 
-8.sec=The Board shall collate all certification mechanisms and data protection seals and marks in a register and shall make them publicly available by any appropriate means.
+(h) issue guidelines, recommendations and best practices in accordance with point (e) of
+this paragraph as to the circumstances in which a personal data breach is likely to
+result in a high risk to the rights and freedoms of the natural persons referred to in Article 34(1).
 
-=[Z/ol/s8]
+(i) issue guidelines, recommendations and best practices in accordance with point (e) of
+this paragraph for the purpose of further specifying the criteria and requirements for
+personal data transfers based on binding corporate rules adhered to by controllers and
+binding corporate rules adhered to by processors and on further necessary
+requirements to ensure the protection of personal data of the data subjects concerned
+referred to in Article 47;
 
-Ti=Article 43 - Certification bodies
+(j) issue guidelines, recommendations and best practices in accordance with point (e) of
+this paragraph for the purpose of further specifying the criteria and requirements for
+the personal data transfers on the basis of Article 49(1);
 
-1.0.sec=Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the supervisory authority in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification. Member States shall ensure that those certification bodies are accredited by one or both of the following:
+(k) draw up guidelines for supervisory authorities concerning the application of
+measures referred to in Article 58(1), (2) and (3) and the fixing of administrative
+fines pursuant to Articles 83;
 
-1.1.sec=the supervisory authority which is competent pursuant to Article 55 or 56;
+(l) review the practical application of the guidelines, recommendations and best
+practices referred to in point (e) and (f);
 
-1.2.sec=the national accreditation body named in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council1 in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the supervisory authority which is competent pursuant to Article 55 or 56.
+(m) issue guidelines, recommendations and best practices in accordance with point (e) of
+this paragraph for establishing common procedures for reporting by natural persons
+of infringements of this Regulation pursuant to Article 54(2);
 
-1.=[Z/ol-a/s2]
+(n) encourage the drawing-up of codes of conduct and the establishment of data
+protection certification mechanisms and data protection seals and marks pursuant to Articles 40 and 42;
+(o) carry out the accreditation of certification bodies and its periodic review pursuant to Article 43 and maintain a public register of accredited bodies pursuant to Article 43(6) and of the accredited controllers or processors established in third
+countries pursuant to Article 42(7);
 
-2.0.sec=Certification bodies referred to in paragraph 1 shall be accredited in accordance with paragraph 1 only where they have:
-2.1.sec=demonstrated their independence and expertise in relation to the subject-matter of the certification to the satisfaction of the competent supervisory authority;
+(p) specify the requirements referred to in Article 43(3) with a view to the accreditation
+of certification bodies under Article 42;
 
-1 Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).
+(q) provide the Commission with an opinion on the certification requirements referred to
+in Article 43(8);
 
-2.2.sec=undertaken to respect the criteria referred to in Article 42(5) and approved by the supervisory authority which is competent pursuant to Article 55 or 56 or by the Board pursuant to Article 63;
+(r) provide the Commission with an opinion on the the icons referred to in Article 12(7);
 
-2.3.sec=established procedures for the issuing, periodic review and withdrawal of data protection certification, seals and marks;
-2.4.sec=established procedures and structures to handle complaints about infringements of the certification or the manner in which the certification has been, or is being, implemented by the controller or processor, and to make those procedures and structures transparent to data subjects and the public; and
+(s) provide the Commission with an opinion for the assessment of the adequacy of the
+level of protection in a third country or international organisation, including for the
+assessment whether a third country, a territory or one or more specified sectors
+within that third country, or an international organisation no longer ensures an
+adequate level of protection. To that end, the Commission shall provide the Board
+with all necessary documentation, including correspondence with the government of
+the third country, with regard to that third country, territory or specified sector, or
+with the international organisation.
 
-2.5.sec=demonstrated, to the satisfaction of the competent supervisory authority, that their tasks and duties do not result in a conflict of interests.
+(t) issue opinions on draft decisions of supervisory authorities pursuant to the
+consistency mechanism referred to in Article 64(1), on matters submitted pursuant to Article 64(2) and to issue binding decisions pursuant to Article 65, including in cases referred to in Article 66;
+(u) promote the cooperation and the effective bilateral and multilateral exchange of
+information and best practices between the supervisory authorities;
+(v) promote common training programmes and facilitate personnel exchanges between
+the supervisory authorities and, where appropriate, with the supervisory authorities
+of third countries or with international organisations;
+(w) promote the exchange of knowledge and documentation on data protection
+legislation and practice with data protection supervisory authorities worldwide.
+5419/1/16 REV 1 234
+EN
+(x) issue opinions on codes of conduct drawn up at Union level pursuant to
 
-2.=[Z/ol-a/s5]
+Ti=Article 40(9); and
+(y) maintain a publicly accessible electronic register of decisions taken by supervisory
+authorities and courts on issues handled in the consistency mechanism.
 
-3.sec=The accreditation of certification bodies as referred to in paragraphs 1 and 2 shall take place on the basis of criteria approved by the supervisory authority which is competent pursuant to Article 55 or 56 or by the Board pursuant to Article 63. In the case of accreditation pursuant to point (b) of paragraph 1 of this Article, those requirements shall complement those envisaged in Regulation (EC) No 765/2008 and the technical rules that describe the methods and procedures of the certification bodies.
+2.sec=Where the Commission requests advice from the Board, it may indicate a time limit, taking
+into account the urgency of the matter.
 
-4.sec=The certification bodies referred to in paragraph 1 shall be responsible for the proper assessment leading to the certification or the withdrawal of such certification without prejudice to the responsibility of the controller or processor for compliance with this Regulation. The accreditation shall be issued for a maximum period of five years and may be renewed on the same conditions provided that the certification body meets the requirements set out in this Article.
+3.sec=The Board shall forward its opinions, guidelines, recommendations, and best practices to
+the Commission and to the committee referred to in Article 93 and make them public.
 
-5.sec=The certification bodies referred to in paragraph 1 shall provide the competent supervisory authorities with the reasons for granting or withdrawing the requested certification.
+4.sec=The Board shall, where appropriate, consult interested parties and give them the
+opportunity to comment within a reasonable period. The Board shall, without prejudice to
 
-6.sec=The requirements referred to in paragraph 3 of this Article and the criteria referred to in Article 42(5) shall be made public by the supervisory authority in an easily accessible form. The supervisory authorities shall also transmit those requirements and criteria to the Board. The Board shall collate all certification mechanisms and data protection seals in a register and shall make them publicly available by any appropriate means.
+Ti=Article 76, make the results of the consultation procedure publicly available.
 
-7.sec=Without prejudice to Chapter VIII, the competent supervisory authority or the national accreditation body shall revoke an accreditation of a certification body pursuant to paragraph 1 of this Article where the conditions for the accreditation are not, or are no longer, met or where actions taken by a certification body infringe this Regulation.
+Ti=Article 71
+Reports
 
-8.sec=The Commission shall be empowered to adopt delegated acts in accordance with Article 92 for the purpose of specifying the requirements to be taken into account for the data protection certification mechanisms referred to in Article 42(1).
+1.sec=The Board shall draw up an annual report regarding the protection of natural persons with
+regard to processing in the Union and, where relevant, in third countries and international
+organisations. The report shall be made public and be transmitted to the European
+Parliament, to the Council and to the Commission.
+5419/1/16 REV 1 235
+EN
 
-9.sec=The Commission may adopt implementing acts laying down technical standards for certification mechanisms and data protection seals and marks, and mechanisms to promote and recognise those certification mechanisms, seals and marks. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 93(2).
+2.sec=The annual report shall include a review of the practical application of the guidelines,
+recommendations and best practices referred to in point (l) of Article 70(1) as well as of
+the binding decisions referred to in Article 65.
 
-=[Z/ol/s9]
+Ti=Article 72
+Procedure
+
+1.sec=The Board shall take decisions by a simple majority of its members, unless otherwise
+provided for in this Regulation.
+
+2.sec=The Board shall adopt its own rules of procedure by a two-third majority of its members
+and organise its own operational arrangements.
+
+Ti=Article 73
+Chair
+
+1.sec=The Board shall elect a chair and two deputy chairs from amongst its members by simple
+majority.
+
+2.sec=The term of office of the Chair and of the deputy chairs shall be five years and be
+renewable once.
+5419/1/16 REV 1 236
+EN
+
+Ti=Article 74
+Tasks of the Chair
+
+1.sec=The Chair shall have the following tasks:
+(a) to convene the meetings of the Board and prepare its agenda;
+(b) to notify decisions adopted by the Board pursuant to Article 65 to the lead
+supervisory authority and the supervisory authorities concerned;
+(c) to ensure the timely performance of the tasks of the Board, in particular in relation to
+the consistency mechanism referred to in Article 63.
+
+2.sec=The Board shall lay down the allocation of tasks between the Chair and the deputy chairs
+in its rules of procedure.
+
+Ti=Article 75
+Secretariat
+
+1.sec=The Board shall have a secretariat, which shall be provided by the European Data
+Protection Supervisor.
+
+2.sec=The secretariat shall perform its tasks exclusively under the instructions of the Chair of the
+Board.
+5419/1/16 REV 1 237
+EN
+
+3.sec=The staff of the European Data Protection Supervisor involved in carrying out the tasks
+conferred on the Board by this Regulation shall be subject to separate reporting lines from
+the staff involved in carrying out tasks conferred on the European Data Protection
+Supervisor.
+
+4.sec=Where appropriate, the Board and the European Data Protection Supervisor shall establish
+and publish a Memorandum of Understanding implementing this Article, determining the
+terms of their cooperation, and applicable to the staff of the European Data Protection
+Supervisor involved in carrying out the tasks conferred on the Board by this Regulation.
+
+5.sec=The secretariat shall provide analytical, administrative and logistical support to the Board.
+
+6.sec=The secretariat shall be responsible in particular for:
+(a) the day-to-day business of the Board;
+(b) communication between the members of the Board, its Chair and the Commission;
+(c) communication with other institutions and the public;
+(d) the use of electronic means for the internal and external communication;
+(e) the translation of relevant information;
+(f) the preparation and follow-up of the meetings of the Board;
+(g) the preparation, drafting and publication of opinions, decisions on the settlement of
+disputes between supervisory authorities and other texts adopted by the Board.
+5419/1/16 REV 1 238
+EN
+
+Ti=Article 76
+Confidentiality
+
+1.sec=The discussions of the Board shall be confidential where the Board deems it necessary, as
+provided for in its rules of procedure.
+
+2.sec=Access to documents submitted to members of the Board, experts and representatives of
+third parties shall be governed by Regulation (EC) No 1049/2001 of the European
+Parliament and of the Council1
+.
+CHAPTER VIII
+REMEDIES, LIABILITY AND PENALTIES
+
+Ti=Article 77
+Right to lodge a complaint with a supervisory authority
+
+1.sec=Without prejudice to any other administrative or judicial remedy, every data subject shall
+have the right to lodge a complaint with a supervisory authority, in particular in the
+Member State of his or her habitual residence, place of work or place of the alleged
+infringment if the data subject considers that the processing of personal data relating to him
+or her infringes this Regulation.
+ 1 Regulation (EC) No 1049/2001 of the European Parliament and of the Council of
+30 May 2001 regarding public access to European Parliament, Council and Commission
+documents (OJ L 145, 31.5.2001, p. 43).
+5419/1/16 REV 1 239
+EN
+
+2.sec=The supervisory authority with which the complaint has been lodged shall inform the
+complainant on the progress and the outcome of the complaint including the possibility of
+a judicial remedy pursuant to Article 78.
+
+Ti=Article 78
+Right to an effective judicial remedy against a supervisory authority
+
+1.sec=Without prejudice to any other administrative or non-judicial remedy, each natural or legal
+person shall have the right to an effective judicial remedy against a legally binding
+decision of a supervisory authority concerning them.
+
+2.sec=Without prejudice to any other administrative or non-judicial remedy, each data subject
+shall have the right to a an effective judicial remedy where the supervisory authority which
+is competent pursuant to Article 55 and Article 56 does not handle a complaint or does not
+inform the data subject within three months on the progress or outcome of the complaint
+lodged pursuant to Article 77.
+
+3.sec=Proceedings against a supervisory authority shall be brought before the courts of the
+Member State where the supervisory authority is established.
+
+4.sec=Where proceedings are brought against a decision of a supervisory authority which was
+preceded by an opinion or a decision of the Board in the consistency mechanism, the
+supervisory authority shall forward that opinion or decision to the court.
+5419/1/16 REV 1 240
+EN
+
+Ti=Article 79
+Right to an effective judicial remedy
+against a controller or processor
+
+1.sec=Without prejudice to any available administrative or non-judicial remedy, including the
+right to lodge a complaint with a supervisory authority pursuant to Article 77, each data
+subject shall have the right to an effective judicial remedy where he or she considers that
+his or her rights under this Regulation have been infringed as a result of the processing of
+his or her personal data in non-compliance with this Regulation.
+
+2.sec=Proceedings against a controller or a processor shall be brought before the courts of the
+Member State where the controller or processor has an establishment. Alternatively, such
+proceedings may be brought before the courts of the Member State where the data subject
+has his or her habitual residence, unless the controller or processor is a public authority of
+a Member State acting in the exercise of its public powers.
+5419/1/16 REV 1 241
+EN
+
+Ti=Article 80
+Representation of data subjects
+
+1.sec=The data subject shall have the right to mandate a not-for-profit body, organisation or
+association which has been properly constituted in accordance with the law of a
+Member State, has statutory objectives which are in the public interest, and is active in the
+field of the protection of data subjects' rights and freedoms with regard to the protection of
+their personal data to lodge the complaint on his or her behalf, to exercise the rights
+referred to in Articles 77, 78 and 79 on his or her behalf, and to exercise the right to
+receive compensation referred to in Article 82 on his or her behalf where provided for by
+Member State law.
+
+2.sec=Member States may provide that any body, organisation or association referred to in
+paragraph 1 of this Article, independently of a data subject's mandate, has the right to
+lodge, in that Member State, a complaint with the supervisory authority which is
+competent pursuant to Article 77 and to exercise the rights referred to in Articles 78 and 79
+if it considers that the rights of a data subject under this Regulation have been infringed as
+a result of the processing.
+5419/1/16 REV 1 242
+EN
+
+Ti=Article 81
+Suspension of proceedings
+
+1.sec=Where a competent court of a Member State has information on proceedings, concerning
+the same subject matter as regards processing by the same controller or processor, that are
+pending in a court in another Member State, it shall contact that court in the other
+Member State to confirm the existence of such proceedings.
+
+2.sec=Where proceedings concerning the same subject matter as regards processing of the same
+controller or processor are pending in a court in another Member State, any competent
+court other than the court first seized may suspend its proceedings.
+
+3.sec=Where those proceedings are pending at first instance, any court other than the court first
+seized may also, on the application of one of the parties, decline jurisdiction if the court
+first seized has jurisdiction over the actions in question and its law permits the
+consolidation thereof.
+
+Ti=Article 82
+Right to compensation and liability
+
+1.sec=Any person who has suffered material or non-material damage as a result of an
+infringement of this Regulation shall have the right to receive compensation from the
+controller or processor for the damage suffered.
+5419/1/16 REV 1 243
+EN
+
+2.sec=Any controller involved in processing shall be liable for the damage caused by processing
+which infringes this Regulation. A processor shall be liable for the damage caused by
+processing only where it has not complied with obligations of this Regulation specifically
+directed to processors or where it has acted outside or contrary to lawful instructions of the
+controller.
+
+3.sec=A controller or processor shall be exempt from liability under paragraph 2 if it proves that
+it is not in any way responsible for the event giving rise to the damage.
+
+4.sec=Where more than one controller or processor, or both a controller and a processor, are
+involved in the same processing and where they are, under paragraphs 2 and 3, responsible
+for any damage caused by processing, each controller or processor shall be held liable for
+the entire damage in order to ensure effective compensation of the data subject.
+
+5.sec=Where a controller or processor has, in accordance with paragraph 4, paid full
+compensation for the damage suffered, that controller or processor shall be entitled to
+claim back from the other controllers or processors involved in the same processing that
+part of the compensation corresponding to their part of responsibility for the damage, in
+accordance with the conditions set out in paragraph 2.
+
+6.sec=Court proceedings for exercising the right to receive compensation shall be brought before
+the courts competent under the law of the Member State referred to in Article 79(2).
+5419/1/16 REV 1 244
+EN
+
+Ti=Article 83
+General conditions for imposing administrative fines
+
+1.sec=Each supervisory authority shall ensure that the imposition of administrative fines pursuant
+to this Article in respect of infringements of this Regulation referred to in paragraphs 4, 5
+and 6 shall in each individual case be effective, proportionate and dissuasive.
+
+2.sec=Administrative fines shall, depending on the circumstances of each individual case, be
+imposed in addition to, or instead of, measures referred to in points (a) to (h) and (j) of
+
+Ti=Article 58(2). When deciding whether to impose an administrative fine and deciding on the
+amount of the administrative fine in each individual case due regard shall be given to the
+following:
+(a) the nature, gravity and duration of the infringement taking into account the nature
+scope or purpose of the processing concerned as well as the number of data subjects
+affected and the level of damage suffered by them;
+(b) the intentional or negligent character of the infringement;
+(c) any action taken by the controller or processor to mitigate the damage suffered by
+data subjects;
+(d) the degree of responsibility of the controller or processor taking into account
+technical and organisational measures implemented by them pursuant to Articles 25
+and 32;
+5419/1/16 REV 1 245
+EN
+(e) any relevant previous infringements by the controller or processor;
+(f) the degree of cooperation with the supervisory authority, in order to remedy the
+infringement and mitigate the possible adverse effects of the infringement;
+(g) the categories of personal data affected by the infringement;
+(h) the manner in which the infringement became known to the supervisory authority, in
+particular whether, and if so to what extent, the controller or processor notified the
+infringement;
+(i) in case measures referred to in Article 58(2) have previously been ordered against the
+controller or processor concerned with regard to the same subject-matter, compliance
+with those measures;
+(j) adherence to approved codes of conduct pursuant to Article 40 or approved
+certification mechanisms pursuant to Article 42; and
+(k) any other aggravating or mitigating factor applicable to the circumstances of the
+case, such as financial benefits gained, or losses avoided, directly or indirectly, from
+the infringement.
+
+3.sec=If a controller or processor intentionally or negligently, for the same or linked processing
+operations, infringes several provisions of this Regulation, the total amount of the
+administrative fine shall not exceed the amount specified for the gravest infringement.
+5419/1/16 REV 1 246
+EN
+
+4.sec=Infringments of the following provisions shall, in acccordance with paragraph 2, be subject
+to administrative fines up to 10 000 000 EUR, or in the case of an undertaking, up to 2 %
+of the total worldwide annual turnover of the preceding financial year, whichever is higher:
+(a) the obligations of the controller and the processor pursuant to Articles 8, 11, 25, 26,
+27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 42 and 43;
+(b) the obligations of the certification body pursuant to Articles 42 and 43;
+(c) the obligations of the monitoring body pursuant to Article 41(4).
+
+5.sec=Infringements of the following provisions shall, in accordance with paragraph 2, be subject
+to administrative fines up to 20 000 000 EUR, or in the case of an undertaking, up to 4 %
+of the total worldwide annual turnover of the preceding financial year, whichever is higher:
+(a) the basic principles for processing, including conditions for consent, pursuant to
+
+Ti=Articles 5, 6, 7 and 9;
+(b) the data subjects' rights pursuant to Articles 12 to 22;
+(c) the transfers of personal data to a recipient in a third country or an international
+organisation pursuant to Articles 44 to 49;
+5419/1/16 REV 1 247
+EN
+(d) any obligations pursuant to Member State law adopted unter Chapter IX;
+(e) non-compliance with an order or a temporary or definitive limitation on processing
+or the suspension of data flows by the supervisory authority pursuant to Article 58(2)
+or failure to provide access in violation of Article 58(1).
+
+6.sec=Non-compliance with an order by the supervisory authority as referred to in Article 58(2)
+shall, in acccordance with paragraph 2 of this Article, be subject to administrative fines up
+to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide
+annual turnover of the preceding financial year, whichever is higher.
+
+7.sec=Without prejudice to the corrective powers of supervisory authorities pursuant to
+
+Ti=Article 58(2), each Member State may lay down the rules on whether and to what extent
+administrative fines may be imposed on public authorities and bodies established in that
+Member State.
+
+8.sec=The exercise by the supervisory authority of its powers under this Article shall be subject
+to appropriate procedural safeguards in accordance with Union and Member State law,
+including effective judicial remedy and due process.
+5419/1/16 REV 1 248
+EN
+
+9.sec=Where the legal system of the Member State does not provide for administrative fines, this
+
+Ti=Article may be applied in such a manner that the fine is initiated by the competent
+supervisory authority and imposed by competent national courts, while ensuring that those
+legal remedies are effective and have an equivalent effect to the administrative fines
+imposed by supervisory authorities. In any event, the fines imposed shall be effective,
+proportionate and dissuasive. Those Member States shall notify to the Commission the
+provisions of their laws which they adopt pursuant to this paragraph by … [two years from
+the date of entry into force of this Regulation] and, without delay, any subsequent
+amendment law or amendment affecting them.
+
+Ti=Article 84
+Penalties
+
+1.sec=Member States shall lay down the rules on other penalties applicable to infringements of
+this Regulation in particular for infringements which are not subject to administrative fines
+pursuant to Article 83, and shall take all measures necessary to ensure that they are
+implemented. Such penalties shall be effective, proportionate and dissuasive.
+
+2.sec=Each Member State shall notify to the Commission the provisions of its law which it
+adopts pursuant to paragraph 1, by … [two years from the date of entry into force of this
+Regulation] and, without delay, any subsequent amendment affecting them.
+5419/1/16 REV 1 249
+EN
+CHAPTER IX
+PROVISIONS RELATING
+TO SPECIFIC PROCESSING SITUATIONS
+
+Ti=Article 85
+Processing and freedom of expression and information
+
+1.sec=Member States shall by law reconcile the right to the protection of personal data pursuant
+to this Regulation with the right to freedom of expression and information, including
+processing for journalistic purposes and the purposes of academic, artistic or literary
+expression.
+
+2.sec=For processing carried out for journalistic purposes or the purpose of academic artistic or
+literary expression, Member States shall provide for exemptions or derogations from
+Chapter II (principles), Chapter III (rights of the data subject), Chapter IV (controller and
+processor), Chapter V (transfer of personal data to third countries or international
+organisations), Chapter VI (independent supervisory authorities), Chapter VII (cooperation
+and consistency) and Chapter IX (specific data processing situations) if they are necessary
+to reconcile the right to the protection of personal data with the freedom of expression and
+information.
+5419/1/16 REV 1 250
+EN
+
+3.sec=Each Member State shall notify to the Commission the provisions of its law which it has
+adopted pursuant to paragraph 2 and, without delay, any subsequent amendment law or
+amendment affecting them.
+
+Ti=Article 86
+Processing and public access to official documents
+Personal data in official documents held by a public authority or a public body or a private body for
+the performance of a task carried out in the public interest may be disclosed by the authority or
+body in accordance with Union or Member State law to which the public authority or body is
+subject in order to reconcile public access to official documents with the right to the protection of
+personal data pursuant to this Regulation.
+
+Ti=Article 87
+Processing of the national identification number
+Member States may further determine the specific conditions for the processing of a national
+identification number or any other identifier of general application. In that case the national
+identification number or any other identifier of general application shall be used only under
+appropriate safeguards for the rights and freedoms of the data subject pursuant to this Regulation.
+5419/1/16 REV 1 251
+EN
+
+Ti=Article 88
+Processing in the context of employment
+
+1.sec=Member States may, by law or by collective agreements, provide for more specific rules to
+ensure the protection of the rights and freedoms in respect of the processing of employees'
+personal data in the employment context, in particular for the purposes of the recruitment,
+the performance of the contract of employment, including discharge of obligations laid
+down by law or by collective agreements, management, planning and organisation of work,
+equality and diversity in the workplace, health and safety at work, protection of employer's
+or customer's property and for the purposes of the exercise and enjoyment, on an individual
+or collective basis, of rights and benefits related to employment, and for the purpose of the
+termination of the employment relationship.
+
+2.sec=Those rules shall include suitable and specific measures to safeguard the data subject's
+human dignity, legitimate interests and fundamental rights, with particular regard to the
+transparency of processing, the transfer of personal data within a group of undertakings, or
+a group of entreprises engaged in a joint economic activity and monitoring systems at the
+work place.
+
+3.sec=Each Member State shall notify to the Commission those provisions of its law which it
+adopts pursuant to paragraph 1, by … [two years from the date of entry into force of this
+Regulation] and, without delay, any subsequent amendment affecting them.
+5419/1/16 REV 1 252
+EN
+
+Ti=Article 89
+Safeguards and derogations
+relating to processing for archiving purposes in the public interest,
+scientific or historical research purposes or statistical purposes
+
+1.sec=Processing for archiving purposes in the public interest, scientific or historical research
+purposes or statistical purposes, shall be subject to appropriate safeguards, in accordance
+with this Regulation, for the rights and freedoms of the data subject. Those safeguards shall
+ensure that technical and organisational measures are in place in particular in order to
+ensure respect for the principle of data minimisation. Those measures may include
+pseudonymisation provided that those purposes can be fulfilled in that manner. Where
+those purposes can be fulfilled by further processing which does not permit or no longer
+permits the identification of data subjects, those purposes shall be fulfilled in that manner.
+
+2.sec=Where personal data are processed for scientific or historical research purposes or
+statistical purposes, Union or Member State law may provide for derogations from the
+rights referred to in Articles 15, 16, 18 and 21 subject to the conditions and safeguards
+referred to in paragraph 1 of this Article in so far as such rights are likely to render
+impossible or seriously impair the achievement of the specific purposes, and such
+derogations are necessary for the fulfilment of those purposes.
+5419/1/16 REV 1 253
+EN
+
+3.sec=Where personal data are processed for archiving purposes in the public interest, Union or
+Member State law may provide for derogations from the rights referred to in Articles 15,
+16, 18, 19, 20 and 21 subject to the conditions and safeguards referred to in paragraph 1 of
+this Article in so far as such rights are likely to render impossible or seriously impair the
+achievement of the specific purposes, and such derogations are necessary for the fulfilment
+of those purposes.
+
+4.sec=Where processing referred to in paragraphs 2 and 3 serves at the same time another
+purpose, the derogations shall apply only to processing for the purposes referred to in those
+paragraphs.
+
+Ti=Article 90
+Obligations of secrecy
+
+1.sec=Member States may adopt specific rules to set out the powers of the supervisory authorities
+laid down in points (e) and (f) of Article 58(1) in relation to controllers or processors that
+are subject, under Union or Member State law or rules established by national competent
+bodies, to an obligation of professional secrecy or other equivalent obligations of secrecy
+where this is necessary and proportionate to reconcile the right of the protection of
+personal data with the obligation of secrecy. Those rules shall apply only with regard to
+personal data which the controller or processor has received as a result ofor has obtained in
+an activity covered by that obligation of secrecy.
+5419/1/16 REV 1 254
+EN
+
+2.sec=Each Member State shall notify to the Commission the rules adopted pursuant to paragraph
+1, by … [two years from the date of entry into force of this Regulation] and, without delay,
+any subsequent amendment affecting them.
+
+Ti=Article 91
+Existing data protection rules of churches and religious associations
+
+1.sec=Where in a Member State, churches and religious associations or communities apply, at the
+time of entry into force of this Regulation, comprehensive rules relating to the protection
+of natural persons with regard to processing, such rules may continue to apply, provided
+that they are brought into line with this Regulation.
+
+2.sec=Churches and religious associations which apply comprehensive rules in accordance with
+paragraph 1 shall be subject to the supervision of an independent supervisory authority,
+which may be specific, provided that it fulfils the conditions laid down in Chapter VI of
+this Regulation.
+5419/1/16 REV 1 255
+EN
+CHAPTER X
+DELEGATED ACTS AND IMPLEMENTING ACTS
+
+Ti=Article 92
+Exercise of the delegation
+
+1.sec=The power to adopt delegated acts is conferred on the Commission subject to the
+conditions laid down in this Article.
+
+2.sec=The delegation of power referred to in Article 12(8) and Article 43(8) shall be conferred on
+the Commission for an indeterminate period of time from … [the date of entry into force of
+this Regulation].
+
+3.sec=The delegation of power referred to in Article 12(8) and Article 43(8) may be revoked at
+any time by the European Parliament or by the Council. A decision of revocation shall put
+an end to the delegation of power specified in that decision. It shall take effect the day
+following that of its publication in the Official Journal of the European Union or at a later
+date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4.sec=As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the
+European Parliament and to the Council.
+5419/1/16 REV 1 256
+EN
+
+5.sec=A delegated act adopted pursuant to Article 12(8) and Article 43(8) shall enter into force
+only if no objection has been expressed by either the European Parliament or the Council
+within a period of three months of notification of that act to the European Parliament and
+the Council or if, before the expiry of that period, the European Parliament and the Council
+have both informed the Commission that they will not object. That period shall be
+extended by three months at the initiative of the European Parliament or of the Council.
+
+Ti=Article 93
+Committee procedure
+
+1.sec=The Commission shall be assisted by a committee. That committee shall be a committee
+within the meaning of Regulation (EU) No 182/2011.
+
+2.sec=Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall
+apply.
+
+3.sec=Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in
+conjunction with Article 5 thereof, shall apply.
+5419/1/16 REV 1 257
+EN
+CHAPTER XI
+FINAL PROVISIONS
+
+Ti=Article 94
+Repeal of Directive 95/46/EC
+
+1.sec=Directive 95/46/EC is repealed with effect from … [two years from the date of entry into
+force of this Regulation].
+
+2.sec=References to the repealed Directive shall be construed as references to this Regulation.
+References to the Working Party on the Protection of Individuals with regard to the
+Processing of Personal Data established by Article 29 of Directive 95/46/EC shall be
+construed as references to the European Data Protection Board established by this
+Regulation.
+
+Ti=Article 95
+Relationship with Directive 2002/58/EC
+This Regulation shall not impose additional obligations on natural or legal persons in relation to
+processing in connection with the provision of publicly available electronic communications
+services in public communication networks in the Union in relation to matters for which they are
+subject to specific obligations with the same objective set out in Directive 2002/58/EC.
+5419/1/16 REV 1 258
+EN
+
+Ti=Article 96
+Relationship with previously concluded Agreements
+International agreements involving the transfer of personal data to third countries or international
+organisations which were concluded by Member States prior to … [the date of entry into force of
+this Regulation], and which are in accordance with Union law applicable prior to … [the date of
+entry into force of this Regulation], shall remain in force until amended, replaced or revoked.
+
+Ti=Article 97
+Commission reports
+
+1.sec=By … [4 years after the date of entry into force of this Regulation] and every four years
+thereafter, the Commission shall submit a report on the evaluation and review of this
+Regulation to the European Parliament and to the Council. The reports shall be made
+public.
+
+2.sec=In the context of the evaluations and reviews referred to in paragraph 1, the Commission
+shall examine, in particular, the application and functioning of:
+(a) Chapter V on the transfer of personal data to third countries or international
+organisations with particular regard to decisions adopted pursuant to Article 45(3) of
+this Regulation and decisions adopted on the basis of Article 25(6) of
+Directive 95/46/EC;
+(b) Chapter VII on cooperation and consistency.
+5419/1/16 REV 1 259
+EN
+
+3.sec=For the purpose of paragraph 1, the Commission may request information from
+Member States and supervisory authorities.
+
+4.sec=In carrying out the evaluations and reviews referred to in paragraphs 1 and 2, the
+Commission shall take into account the positions and findings of the European Parliament,
+of the Council, and of other relevant bodies or sources.
+
+5.sec=The Commission shall, if necessary, submit appropriate proposals to amend this
+Regulation, in particular taking into account of developments in information technology
+and in the light of the state of progress in the information society.
+
+Ti=Article 98
+Review of other Union legal acts on data protection
+The Commission shall, if appropriate, submit legislative proposals with a view to amending other
+Union legal acts on the protection of personal data, in order to ensure uniform and consistent
+protection of natural persons with regard to processing. This shall in particular concern the rules
+relating to the protection of natural persons with regard to processing by Union institutions, bodies,
+offices and agencies and on the free movement of such data.
+5419/1/16 REV 1 260
+EN
+
+Ti=Article 99
+Entry into force and application
+
+1.sec=This Regulation shall enter into force on the twentieth day following that of its publication
+in the Official Journal of the European Union.
+
+2.sec=It shall apply from … [two years from the date of entry into force of this Regulation].
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at …,
+For the European Parliament For the Council
+The President The President
