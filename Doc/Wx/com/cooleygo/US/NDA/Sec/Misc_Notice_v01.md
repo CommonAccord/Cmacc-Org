@@ -12,7 +12,7 @@ Ti=Notices
 
 4.sec=by certified or registered mail, return receipt requested, upon verification of receipt
 
-90.Sec=Notice shall be sent to the addresses set forth at the bottom of {this_Agreement} or such other address as either {Party} may specify in writing.
+00.Sec=Notice shall be sent to the addresses set forth at the bottom of {this_Agreement} or such other address as either {Party} may specify in writing.
 
 =[Z/Sec/s4]
 

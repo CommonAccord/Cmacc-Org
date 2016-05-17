@@ -55,7 +55,7 @@ Note=The following do not have headings in the original
 
 10.sec=Pursuant to K.S.A. 17-6009, the power to adopt, amend, or repeal bylaws of the Corporation is conferred upon the Board of Directors.
 
-90.sec={Affirmation.sec}<br><br>{Incorporator.Sign.Block}
+00.sec={Affirmation.sec}<br><br>{Incorporator.Sign.Block}
 
 Affirmation.sec=IN AFFIRMATION OF THE FACTS STATED ABOVE, the foregoing Amended Articles of Incorporation of {Corp.Name.Full} have been executed as of {EffectiveDate.YMD}.
 

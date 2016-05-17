@@ -16,7 +16,7 @@ Ti=Limited Consent
 
 4.3.sec=on {EndDate.YMD};
 
-4.90.sec=whichever comes first.
+4.00.sec=whichever comes first.
 
 4.=[Z/ol-a/s3]
 

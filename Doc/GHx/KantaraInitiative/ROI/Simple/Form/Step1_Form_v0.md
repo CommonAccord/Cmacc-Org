@@ -20,7 +20,7 @@ Ti=AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION
 
 6.sec={EffectiveDate.YMD}
 
-90.sec={SignatureLine}
+00.sec={SignatureLine}
 
 SignatureLine=Signature: 		I have read the detailed T&Cs  <b><u>{RO.Agree.Y/N}</u></b>
 

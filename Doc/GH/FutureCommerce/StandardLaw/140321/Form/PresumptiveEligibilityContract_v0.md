@@ -22,7 +22,7 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 0.7.=[Z/ol-none/s3]
 
-0.90.sec=NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein
+0.00.sec=NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein
 
 0.=[Z/paras/s7]
 

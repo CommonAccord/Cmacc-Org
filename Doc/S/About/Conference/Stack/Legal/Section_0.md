@@ -6,15 +6,15 @@ Ti=Section
 
 2.1.sec=A "Sec"=<b>{Ti}</b><br>{sec}
 
-2.2.sec=A "sec"={0.sec}<ol><li>{xlist}</ol>{90.sec}
+2.2.sec=A "sec"={0.sec}<ol><li>{xlist}</ol>{00.sec}
 
-2.3.sec="0.sec" and "90.sec" if not used, default to the equivalent of nothing - =</i>
+2.3.sec="0.sec" and "00.sec" if not used, default to the equivalent of nothing - =</i>
 
 2.4.sec="xlist" defaults to <ol><li>{Secs}</ol>, but can also be <ol type="i"><li>{Secs}</ol> or <ul type="none"><li>{Secs}</ul>, etc.  It can also be overridden to look for title-less sections <ol type="i"><li>{secs}</ol> or <ul type="none"><li>{secs}</ul>, etc.
 
 2.5.sec="Secs" is completed with a number of Sections, for instance: {1.Sec}<li>{2.Sec}. "secs" is completed with title-less sections:  {1.sec}<li>{2.sec}.
 
-2.90.sec=The kit is not mandatory and not complete.  It can be improved and expanded.  Notably, 0.sec and 90.sec could be Intro.sec and Extro.sec, or something along those lines.  At times, I have also experimented with "decorated" sections - for instance where each subsection ends with a ";" and the penultimate one ends with either "; and" or "; or", and the ultimate one ends with ".".  You can also eliminate the numbering ("[Z/paras/..]" or run all the subsections into a single paragraph ("[Z/para/...]").  Widgets would also be useful for lists expressed as elements in a conventional sentence, e.g., "i) first; ii) second; and iii) third."
+2.00.sec=The kit is not mandatory and not complete.  It can be improved and expanded.  Notably, 0.sec and 00.sec could be Intro.sec and Extro.sec, or something along those lines.  At times, I have also experimented with "decorated" sections - for instance where each subsection ends with a ";" and the penultimate one ends with either "; and" or "; or", and the ultimate one ends with ".".  You can also eliminate the numbering ("[Z/paras/..]" or run all the subsections into a single paragraph ("[Z/para/...]").  Widgets would also be useful for lists expressed as elements in a conventional sentence, e.g., "i) first; ii) second; and iii) third."
 
 2.=[Z/ol/s5] 
 

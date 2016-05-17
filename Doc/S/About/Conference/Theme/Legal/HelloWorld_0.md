@@ -16,6 +16,6 @@ Ti=Hello World for Legal
 
 7.sec=Vocabulary
 
-90.sec="Hello World" is a meme.  Often the first thing that a coder does to startup a system is make it return "Hello World." 
+00.sec="Hello World" is a meme.  Often the first thing that a coder does to startup a system is make it return "Hello World." 
 
 =[Z/ol/s7]

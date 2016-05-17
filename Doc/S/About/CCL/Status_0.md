@@ -10,6 +10,6 @@ Ti=Status - Convergence of Blockchain, Legal and Access Security
 
 4.sec=Decentralized access control based on OAuth and related technologies is widely used and well-understood.
 
-90.sec=The combination of Blockchain/Cmacc/Access is ripe for open-source iteration.
+00.sec=The combination of Blockchain/Cmacc/Access is ripe for open-source iteration.
 
 =[Z/ol/s4]

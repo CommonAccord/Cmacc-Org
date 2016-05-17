@@ -23,7 +23,7 @@ Corporation has a transaction or arrangement, or
 
 2.2.3.sec=a potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which the Corporation is negotiating a transaction or arrangement.
 
-2.2.90.sec=Compensation includes direct and indirect remuneration as well as gifts or favors that are substantial in nature.<br>A financial interest is not necessarily a conflict of interest.  Under Article III, Section 2, a person who has a financial interest may have a conflict of interest only if the appropriate board or committee decides that a conflict of interest exists.
+2.2.00.sec=Compensation includes direct and indirect remuneration as well as gifts or favors that are substantial in nature.<br>A financial interest is not necessarily a conflict of interest.  Under Article III, Section 2, a person who has a financial interest may have a conflict of interest only if the appropriate board or committee decides that a conflict of interest exists.
 
 2.2.=[Z/ol-a/s3]
 

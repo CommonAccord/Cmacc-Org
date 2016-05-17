@@ -22,7 +22,7 @@ Duration.2.sec=require {Supplier} to re-perform/replace the non-conforming {Serv
 
 Duration.3.sec=take such actions as may be required to cure all defects and/or bring the {Services} and/or deliverables into conformity with all requirements.
 
-Duration.90.sec=Any attempt by {Supplier} to limit, disclaim or restrict any such warranties or any remedies of {Company}, by acknowledgment or other wise, in accepting or performing {this_Agreement}, shall be null, void and ineffective without {Company}'s written consent.
+Duration.00.sec=Any attempt by {Supplier} to limit, disclaim or restrict any such warranties or any remedies of {Company}, by acknowledgment or other wise, in accepting or performing {this_Agreement}, shall be null, void and ineffective without {Company}'s written consent.
  
 Duration.=[Z/ol/s3]
 

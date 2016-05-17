@@ -12,6 +12,6 @@ Ti=The problem:
 
 5.sec=hard to evaluate.
 
-90.sec=How did it get this way?
+00.sec=How did it get this way?
 
 =[Z/para/s5]

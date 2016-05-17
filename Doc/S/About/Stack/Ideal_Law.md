@@ -12,7 +12,7 @@ Ti=Ideal
 
 5.sec=Maximize interoperability
 
-90.sec=Some of these are in tension with others, but correct handling of information permits huge gains.
+00.sec=Some of these are in tension with others, but correct handling of information permits huge gains.
 
 =[Z/ol/s5]
 

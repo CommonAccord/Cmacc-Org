@@ -20,7 +20,7 @@ Doc.Title=UNANIMOUS WRITTEN CONSENT IN LIEU OF THE ORGANIZATIONAL MEETING OF THE
 
 5.=[Z/ol-none/s3]
 											 
-90.sec=<table><tr><td valign="top" width="300px">{President.Sign.Block}</td><td width="100px"></td><td valign="top" width="300px">{Secretary.Sign.Block}</td></tr><tr><td valign="top" width="300px">{Treasurer.Sign.Block}</td></tr></table>
+00.Sec=<table><tr><td valign="top" width="300px">{President.Sign.Block}</td><td width="100px"></td><td valign="top" width="300px">{Secretary.Sign.Block}</td></tr><tr><td valign="top" width="300px">{Treasurer.Sign.Block}</td></tr></table>
 
 =[Z/ol-none/s5]
 

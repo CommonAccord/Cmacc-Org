@@ -45,7 +45,7 @@ Note=Numbering was inconsistent in the original, masked by the absence of number
 
 4.9.sec=Respecter nos obligations légales et réglementaires.
 
-4.90.sec=Nous vous informons, lors de la collecte de vos données personnelles, si certaines données doivent être obligatoirement renseignées ou si elles sont facultatives. Nous vous indiquons également quelles sont les conséquences éventuelles d’un défaut de réponse.
+4.00.sec=Nous vous informons, lors de la collecte de vos données personnelles, si certaines données doivent être obligatoirement renseignées ou si elles sont facultatives. Nous vous indiquons également quelles sont les conséquences éventuelles d’un défaut de réponse.
 
 4.=[Z/ol/s9]
 
@@ -161,7 +161,7 @@ Note=Numbering was inconsistent in the original, masked by the absence of number
 
 11.2.sec=adresse de courrier postal : {P1.Adresse.1,2}
 
-11.90.sec=Il est rappelé que toute personne peut, pour des motifs légitimes, s'opposer au traitement des données la concernant.
+11.00.sec=Il est rappelé que toute personne peut, pour des motifs légitimes, s'opposer au traitement des données la concernant.
 
 11.=[Z/f/ol/s2]  
 

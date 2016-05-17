@@ -143,7 +143,7 @@ Ti=Sequences
 
 4.Comment.=[Z/ol/s2]
 
-4.90.Sec={4.Comment.Sec}
+4.00.Sec={4.Comment.Sec}
 
 4.=[Z/ol/s3]
 

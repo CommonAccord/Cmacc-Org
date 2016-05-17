@@ -14,7 +14,7 @@ Ti=Applicant
 
 1.2.sec={Name.Full}
 
-1.90.sec=When you have completed this, please go on to the next question.
+1.00.sec=When you have completed this, please go on to the next question.
 
 
 2.Ti=Address
@@ -23,7 +23,7 @@ Ti=Applicant
 
 2.1.sec={SpiritualHome.Box}
 
-90.sec=Thank you for completing this questionnaire.  If you have any suggestions for improvement of this form, please contact {Author.Name.First}, at {Author.Email}.
+00.sec=Thank you for completing this questionnaire.  If you have any suggestions for improvement of this form, please contact {Author.Name.First}, at {Author.Email}.
 
 1.=[Z/ol/2]
 

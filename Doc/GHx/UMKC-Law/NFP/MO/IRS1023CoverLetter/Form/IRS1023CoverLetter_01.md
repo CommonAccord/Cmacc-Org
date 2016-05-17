@@ -78,7 +78,7 @@ NoteAboutClosing.Sen=Please note that we will close December 23, 2005, until Jan
 
 2.=[Z/ol/s12]
 
-90.sec={Sincerely.sec}<br><br>{Attach.sec}
+00.sec={Sincerely.sec}<br><br>{Attach.sec}
 
 Sincerely.sec=Sincerely,<br><br>______________________<br>{Clinic.Director.Name.Full}
 

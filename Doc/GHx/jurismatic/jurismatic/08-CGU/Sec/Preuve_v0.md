@@ -6,6 +6,6 @@ Ti=Données
 
 2.sec=que ces données constituent le seul mode de preuve admis entre les parties, notamment pour le calcul des sommes dues à {P1.Handle}.
 
-90.sec=L'Utilisateur peut accéder à ces données dans son Espace Personnel.
+00.sec=L'Utilisateur peut accéder à ces données dans son Espace Personnel.
 
 =[Z/ol/s2]

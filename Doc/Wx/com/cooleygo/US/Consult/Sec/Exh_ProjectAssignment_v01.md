@@ -40,7 +40,7 @@ Doc.Title=Project Assignment {ProjectAssignment.#} under Consulting Agreement
 
 5.sec=Maximum chargeable by {the_Consultant} on this {Project_Assignment}, including all items in Section 2 above, is {Project.Maximum.$}.
 
-90.sec={90.1.sec}<br><br>{90.2.sec}<br><br>{90.3.sec}
+00.sec={90.1.sec}<br><br>{90.2.sec}<br><br>{90.3.sec}
 
 90.1.sec=IN WITNESS WHEREOF, the parties have executed this {Project_Assignment} as of the date first written above.
 

@@ -4,7 +4,7 @@ Ti=Our Style Guide
 
 1.Ti=Agreement frame
 
-1.sec=Agreements can be formatted as [Z/Agt/Agt.md].  If two parties, you are done.  If three - six then point at one of the variants.  If it is not an agreement (deed, permit, etc.) use the basic section format described below and make the heading and footer as 0.Sec and 90.Sec (see below).  
+1.sec=Agreements can be formatted as [Z/Agt/Agt.md].  If two parties, you are done.  If three - six then point at one of the variants.  If it is not an agreement (deed, permit, etc.) use the basic section format described below and make the heading and footer as 0.Sec and 00.sec (see below).  
 
 2.Ti=Sections
 
@@ -16,7 +16,7 @@ Ti=Our Style Guide
 
 2.3.sec=Section headings are in bold, on a separate line from the body of the text.
 
-2.90.sec=All this is done automatically (forced on you) if you use components like [Z/ol/s3].
+2.00.sec=All this is done automatically (forced on you) if you use components like [Z/ol/s3].
 
 Note1="s3" means "s"ection bodies w/o headings, "3" of them. If you dropped the "s" it would expect 2.1.Ti=... etc. and if you did "4" it would expect 2.4.sec=... 
 

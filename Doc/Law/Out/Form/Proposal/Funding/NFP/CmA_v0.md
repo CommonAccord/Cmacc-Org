@@ -30,7 +30,7 @@ Background.sec=TBD
 
 Background.=[Z/ol/0]
 
-90.sec=<b>Contact:</b> {Contact.Name.Full}, {Contact.Email}, {Contact.Phone}
+00.Sec=<b>Contact:</b> {Contact.Name.Full}, {Contact.Email}, {Contact.Phone}
 
 DocBody={Doc}
 

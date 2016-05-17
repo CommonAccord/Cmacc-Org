@@ -20,7 +20,7 @@ Misc.=[Wx/co/500/KISS/Sec/Misc_v01.md]
 
 Approval.=[Wx/co/500/KISS/Sec/Approval_v01.md]
 
-90.Sec=<table><tr><td valign="top">{P1.Sign.Block}</td></tr><tr><td valign="top">ACKNOWLEDGED AND AGREED:<br>{P2.Sign.Block}</td></tr></table>
+00.Sec=<table><tr><td valign="top">{P1.Sign.Block}</td></tr><tr><td valign="top">ACKNOWLEDGED AND AGREED:<br>{P2.Sign.Block}</td></tr></table>
 
  Def.Xref={1.Xref}
 

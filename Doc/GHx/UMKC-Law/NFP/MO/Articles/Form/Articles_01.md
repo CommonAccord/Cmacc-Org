@@ -52,7 +52,7 @@ Doc.Title=ARTICLES OF INCORPORATION OF<br><span style="text-transform: uppercase
 
 10.sec=No substantial part of the activities of the Corporation shall be carrying on for propaganda or otherwise attempting to influence legislation, and the Corporation shall not participate in or intervene (including the publishing or distribution of statements) in any political campaign on behalf of any candidate for public office.
 
-90.sec={Affirmation.sec}<br><br><br>{Incorporator1.Sign.Block}
+00.sec={Affirmation.sec}<br><br><br>{Incorporator1.Sign.Block}
 
 Affirmation.sec=IN AFFIRMATION OF THE FACTS STATED ABOVE, the foregoing Amended and Restated Articles of Incorporation of {Corp.Name.Full} have been executed as of the {EffectiveDate.YMD}.
 

@@ -20,7 +20,7 @@ Screen.3.sec=U.S. Department of Treasury Specially Designated Nationals and Bloc
 
 Screen.4.sec=U.S. Department of State ("DOS") Debarment List: http://www.pmddtc.state.gov/compliance/debar.html.
 
-Screen.90.sec=No person or entity on any of these lists may provide any {Services} to {Company}.
+Screen.00.sec=No person or entity on any of these lists may provide any {Services} to {Company}.
 
 Screen.=[Z/ol/s4]
 

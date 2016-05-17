@@ -11,7 +11,7 @@ Ti={Personal_Data} received from {Supplier}
 4.1.sec=shall provide notice to and obtain consent from such {Supplier's_Personnel};
 4.2.sec=upon {Company}'s request, shall provide {Company} with a copy of such notice and consent to Contingent Worker Database Administrator; {CWD.Addr.1,2}.
 
-4.90.sec=By way of example only, an Example Personal Data Notice and Consent Form is attached hereto as {Agt.Exh.D}.
+4.00.sec=By way of example only, an Example Personal Data Notice and Consent Form is attached hereto as {Agt.Exh.D}.
 
 4.=[Z/ol/s2]
 

@@ -18,7 +18,7 @@ Ti=Solution:
 
 2.3.sec=use HTML.
 
-2.90.sec=Prefixed, multiple prototype inheritance.  Hard name, easy software,
+2.00.sec=Prefixed, multiple prototype inheritance.  Hard name, easy software,
 
 2.=[Z/ol/s3]
 

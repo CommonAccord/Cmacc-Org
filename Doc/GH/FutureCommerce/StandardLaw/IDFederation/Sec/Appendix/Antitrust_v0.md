@@ -38,6 +38,6 @@ Ti=Antitrust Policy
 
 4.sec=If at any time you become aware of any activity that may be in violation of any of the above rules, please bring them promptly to the attention of an ID Federation representative.
 
-90.sec=REMEMBER: All ID Federation activities must serve to promote, rather than restrict, competition to the benefit of consumers and the marketplace. Activities that do otherwise, or even appear to have the potential to do otherwise, may have serious consequences.
+00.sec=REMEMBER: All ID Federation activities must serve to promote, rather than restrict, competition to the benefit of consumers and the marketplace. Activities that do otherwise, or even appear to have the potential to do otherwise, may have serious consequences.
 
 =[Z/f/ol/s4]

@@ -34,7 +34,7 @@ Conversion_Price.Xref={Def.Xref}.2
 
 3.4.sec=the liquidation, dissolution or winding up of {the_Company};
 
-3.90.Sec=provided, however, that a transaction shall not constitute a {Corporate_Transaction} if its sole purpose is to change the state of {the_Company}'s incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held {the_Company}'s securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of {Preferred_Stock} in a bona fide financing transaction shall not be deemed a "{Corporate_Transaction}."
+3.00.Sec=provided, however, that a transaction shall not constitute a {Corporate_Transaction} if its sole purpose is to change the state of {the_Company}'s incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held {the_Company}'s securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of {Preferred_Stock} in a bona fide financing transaction shall not be deemed a "{Corporate_Transaction}."
 
 3.=[Z/ol/s4]
 

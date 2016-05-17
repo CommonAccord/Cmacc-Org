@@ -6,6 +6,6 @@ Ti=Notices
 
 2.sec={P2.Notice.Block}
 
-90.sec=Any such notice shall be effective when received.
+00.sec=Any such notice shall be effective when received.
 
 =[Z/ol/s2]

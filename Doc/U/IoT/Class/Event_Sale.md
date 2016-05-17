@@ -16,6 +16,6 @@ Ti=Sale Deed
 
 90.Ti=Signature:
 
-90.sec=Buyer: {Buyer.Name.Full}<br>Seller: {Seller.Sign.Block}
+00.sec=Buyer: {Buyer.Name.Full}<br>Seller: {Seller.Sign.Block}
 
 =[Z/ol/3]

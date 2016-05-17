@@ -13,7 +13,7 @@ Doc.Title=STATEMENT OF SOLE INCORPORATOR OF {Corp.Name.Full}
 
 1.=[Z/ol-none/s3]
 
-90.sec=Dated:   {EffectiveDate.YMD}<br><br><br>_______________________________<br>{Incorporator.Name.Full}, Incorporator
+00.sec=Dated:   {EffectiveDate.YMD}<br><br><br>_______________________________<br>{Incorporator.Name.Full}, Incorporator
 
 =[Z/ol-none/s1]
 

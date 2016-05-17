@@ -8,7 +8,7 @@ Intro.Sec=<b>Transparency</b><br>These terms are open sourced and drawn from a c
  
 PolicyType.Ti=Policy Type
 
-PolicyType.90.Sec=Except as expressly provided in this Section, we will reject any request for access to your information.
+PolicyType.00.sec=Except as expressly provided in this Section, we will reject any request for access to your information.
 
 PolicyType.=[Z/ol/2]
 

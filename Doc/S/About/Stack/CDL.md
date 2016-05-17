@@ -20,6 +20,6 @@ Ti=Center for Decentralized Law
 
 4.sec=We invite your thoughts on helping to shape CDL and make it a reality.
 
-90.sec=contact@commonaccord.org
+00.sec=contact@commonaccord.org
 
 =[Z/paras/s4]

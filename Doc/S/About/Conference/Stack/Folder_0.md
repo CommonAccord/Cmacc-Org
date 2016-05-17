@@ -26,7 +26,7 @@ Ti=Folders
 
 2.3.4.sec=Things (IoT)
 
-2.3.90.sec=Perhaps everything is a Thing.
+2.3.00.sec=Perhaps everything is a Thing.
 
 2.3.=[Z/ol/s4]
 
@@ -56,5 +56,5 @@ Ti=Folders
 
 2.=[Z/ol/5]  
 
-90.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD - Operations on Files</a>
+00.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD - Operations on Files</a>
 =[Z/ol/2]

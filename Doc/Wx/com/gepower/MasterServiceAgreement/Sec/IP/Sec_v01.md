@@ -55,7 +55,7 @@ SP.=[Z/ol/s3]
 
 3P.2.sec=any software, applications, or components or other materials, which are functionally dependent upon {Company}’s use of {Third_Party_Intellectual_Property}.
 
-3P.90.sec=If {Company} provides such written authorization, {Supplier} shall, in the absence of written agreement to the contrary, provide, at no expense to {Company}, all licenses to such {Third_Party_Intellectual_Property} and which {Company} does not already have and which are reasonably necessary for {Company} to lawfully make all uses of the {Services} and/or any deliverables contemplated in {this_Agreement}
+3P.00.sec=If {Company} provides such written authorization, {Supplier} shall, in the absence of written agreement to the contrary, provide, at no expense to {Company}, all licenses to such {Third_Party_Intellectual_Property} and which {Company} does not already have and which are reasonably necessary for {Company} to lawfully make all uses of the {Services} and/or any deliverables contemplated in {this_Agreement}
 
 3P.=[Z/ol/s2]
 

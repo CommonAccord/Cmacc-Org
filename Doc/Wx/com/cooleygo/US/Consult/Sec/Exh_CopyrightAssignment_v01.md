@@ -8,11 +8,11 @@ Doc.Title=Assignment of Copyright
 
 1.3.Ti=Copyright Office Identification No. (if any):			
 
-1.90.sec=and all of the right, title and interest of the undersigned, vested and contingent, therein and thereto.
+1.00.sec=and all of the right, title and interest of the undersigned, vested and contingent, therein and thereto.
 
 1.=[Z/ol/3]
 
-90.sec=Executed as of {EffectiveDate.YMD}.<br><br>{P2.Sign.Block}
+00.sec=Executed as of {EffectiveDate.YMD}.<br><br>{P2.Sign.Block}
 
 =[Z/ol/1]
 

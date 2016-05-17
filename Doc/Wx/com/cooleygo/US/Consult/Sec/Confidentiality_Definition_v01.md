@@ -12,6 +12,6 @@ Ti=Definition
 
 5.sec=any information regarding the skills and compensation of employees, contractors{q} or other agents of {the_Client} or its subsidiaries or affiliates.
 
-90.sec={Confidential_Information} also includes proprietary or confidential information of any third party who may disclose such information to {the_Client} or {the_Consultant} in the course of {the_Client}'s business.
+00.sec={Confidential_Information} also includes proprietary or confidential information of any third party who may disclose such information to {the_Client} or {the_Consultant} in the course of {the_Client}'s business.
 
 =[Z/ol/s5]

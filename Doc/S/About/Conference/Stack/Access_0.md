@@ -12,6 +12,6 @@ Ti=Access
 
 4.sec=Copy-based: git, email
 
-90.sec=Needs much more work.<br><a href="index.php?action=doc&file=S/About/Conference/Stack/Tech_0.md">Tech stack</a>
+00.sec=Needs much more work.<br><a href="index.php?action=doc&file=S/About/Conference/Stack/Tech_0.md">Tech stack</a>
 
 =[Z/ol/s4]

@@ -18,7 +18,7 @@ SOW.2.sec=the amount, schedule and method of compensation to be paid to {Supplie
 
 SOW.3.sec=the term of the {SOW}, if different from the term of this {MSA}.
 
-SOW.90.sec=Each {PO} and/or {SOW} issued pursuant to {this_Agreement} shall be deemed incorporated into and governed by the terms of this {MSA}, and the {Supplier}'s provision of {Services} shall be governed by this {MSA} as supplemented by the terms of the applicable {PO} and/or {SOW}. Where the terms of a {PO} or {SOW} conflict with the terms of the {MSA}, which existed prior to such {PO} or {SOW}, the terms of the pre-existing {MSA} shall prevail, except to the extent that the {PO} or {SOW} expressly states that the {MSA} is to be overridden or modified. No {Company} financial obligation will arise without issuance of a PO.
+SOW.00.sec=Each {PO} and/or {SOW} issued pursuant to {this_Agreement} shall be deemed incorporated into and governed by the terms of this {MSA}, and the {Supplier}'s provision of {Services} shall be governed by this {MSA} as supplemented by the terms of the applicable {PO} and/or {SOW}. Where the terms of a {PO} or {SOW} conflict with the terms of the {MSA}, which existed prior to such {PO} or {SOW}, the terms of the pre-existing {MSA} shall prevail, except to the extent that the {PO} or {SOW} expressly states that the {MSA} is to be overridden or modified. No {Company} financial obligation will arise without issuance of a PO.
 
 SOW.=[Z/ol/s3]
 
@@ -38,7 +38,7 @@ Affiliate.2.sec=shall be deemed a separate contract between the parties who sign
 
 Affiliate.3.sec=is an independent contractual obligation from any other {PO} or {SOW}.
 
-Affiliate.90.sec=The term "{Company}" as used in {this_Agreement} shall, for the purposes of any {PO} or {SOW}, issued by a {Company_Affiliate} hereunder, be deemed to include only the {Company_Affiliate} issuing such {PO} or {SOW}. The parties expressly agree that <span style="text-transform: uppercase">{Company} shall have no liability nor shall {Company} incur any obligation or be responsible for the failure of any {Company_Affiliate} to perform its obligations under {this_Agreement} or any {PO} or {SOW} placed hereunder</span>.
+Affiliate.00.sec=The term "{Company}" as used in {this_Agreement} shall, for the purposes of any {PO} or {SOW}, issued by a {Company_Affiliate} hereunder, be deemed to include only the {Company_Affiliate} issuing such {PO} or {SOW}. The parties expressly agree that <span style="text-transform: uppercase">{Company} shall have no liability nor shall {Company} incur any obligation or be responsible for the failure of any {Company_Affiliate} to perform its obligations under {this_Agreement} or any {PO} or {SOW} placed hereunder</span>.
 
 Affiliate.=[Z/ol/s3]
 

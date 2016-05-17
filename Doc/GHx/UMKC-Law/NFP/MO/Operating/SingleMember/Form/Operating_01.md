@@ -26,7 +26,7 @@ Misc.=[GHx/UMKC-Law/NFP/MO/Operating/SingleMember/Sec/Misc_01.md]
 
 Note=Guessed that the role is "Incorporator"
 
-90.sec={InWitness}<br>{Incorporator.Sign.Block}<br><br>{Exhibit.A.Doc}
+00.sec={InWitness}<br>{Incorporator.Sign.Block}<br><br>{Exhibit.A.Doc}
 
 InWitness=IN WITNESS WHEREOF, the undersigned has executed this {Agreement} as of the date first above written.
 

@@ -12,6 +12,6 @@ Ti=Legal Documents
 
 5.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Legal/Doc_Frame_0.md">Frames</a>
 
-90.sec=</center>
+00.sec=</center>
 
 =[Z/paras/s5]
