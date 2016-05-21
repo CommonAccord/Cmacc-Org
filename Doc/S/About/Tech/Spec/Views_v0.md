@@ -36,20 +36,6 @@ Ti=A Cmacc-compliant parser:
 
 2.=[Z/ol/s9]
 
-3.Ti="Punctuation"
+3.=[S/About/Tech/Spec/Punctuation_v0.md]
 
-3.0.sec=The parser should work with a variety of formats:
- 
-3.1.sec=the current flat file, source-code resembling
-
-3.2.sec=JSON, for instance in blockchains, IPFS, etc.
-
-3.3.sec=XML
-
-3.4.sec=Databases - SQL and graph - for enterprise management.
-
-3.5.sec=Google Docs - and why not have a mode that disrenders the text (makes into key=values) and then rerenders it with possible overrides.
-
-3.=[Z/ol/s5]
-
-=[Z/ol/3]  
+=[Z/ol/3]
