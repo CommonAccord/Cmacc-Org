@@ -30,6 +30,6 @@ Ti=Existing Features of Records
     
 6.sec=The namespace of Record names is all the Records in a specified Root.
 
-00.sec=The above is coded in Primavera's parser. 
+00.sec=This is coded in Primavera's parser.
 
 =[Z/ol/s6]
