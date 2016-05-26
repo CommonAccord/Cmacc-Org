@@ -1,8 +1,8 @@
-Ti=A Cmacc-compliant parser:  
+Ti=Cmacc-compliant rendering for blockchain and other databases:  
 
-1.Ti=Parse request format
+1.Ti=Render request format
 
-1.0.sec=A view is returned by a rendering engine from a command in a format like: {TextToBeRendered}:{View}
+0.sec=A view is returned by a rendering engine from a command in a format like: {TextToBeRendered}:{View}
 
 1.Ti=Text To Be Rendered
 
