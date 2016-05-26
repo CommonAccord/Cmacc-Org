@@ -12,6 +12,8 @@ Law.Nation=United States of America
 
 P1.Handle=Endeavor Catalyst
 
+P1.Atty.=[U/id/quade_and_quinn]
+
 P1.=[U/id/endeavor_catalyst_inc]
 
 P2.Handle=Acme
