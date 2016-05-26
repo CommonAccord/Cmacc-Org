@@ -2,15 +2,19 @@ Ti=A Cmacc-compliant parser:
 
 1.Ti=Parse request format
 
-1.0.sec=A view is returned by a parser from a command in a format like: {NameOfFile}:{NameOfKey}:{View}
+1.0.sec=A view is returned by a rendering engine from a command in a format like: {TextToBeRendered}:{View}
 
-1.1.sec=Name of File to be parsed
+1.Ti=Text To Be Rendered
 
-1.2.sec=Name of Key to use as start for parsing (instead of being fixed as "Model.Root")
+1.1.sec=The text to be rendered is a serialized version of a CommonAccord record.
 
-1.3.sec=View to be returned
+1.2.sec=E.g. "=[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]" would return that document.  
 
-1.=[Z/ol/s3]
+1.3.sec=Similarly, "Amount.$=$49,999;;=[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]" would return that document but with a modified amount.  
+
+1.4.sec=Queries can be expressed in a record, then that record combined with the record  to be interrogated (and therefore the graph of info starting from there).  "[My/Query/PriceAndDate.md];;Data.=[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]"
+
+1.=[Z/ol/s4]
 
 2.Ti=Some Views
 
