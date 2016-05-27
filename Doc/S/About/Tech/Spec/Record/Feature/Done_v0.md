@@ -1,4 +1,4 @@
-Ti=Existing Features of Records
+Ti=Implemented Features of Records
 
 1.sec=A "Record" is an ordered list of key/values.
       
