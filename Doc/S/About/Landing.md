@@ -10,7 +10,7 @@ Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td><td valign=
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec=<b>Overview:</b><ul><li>{Conference.sec}<li>{Slack.sec}<li>{CmAQuick.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec=<b>Overview:</b><ul><li>{Slack.sec}<li>{CmAQuick.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CCL.Link} 
 
