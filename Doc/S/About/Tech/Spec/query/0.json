@@ -11,4 +11,4 @@
   }
 }
 
-This would return a SAFE Investment Note, with an overridden Amount.$ of $49,000, in a print view, using a specified rendering engine.
+// This would return a SAFE Investment Note, with an overridden Amount.$ of $49,000, in a print view, using a specified rendering engine.
