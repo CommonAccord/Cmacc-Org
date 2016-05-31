@@ -11,4 +11,6 @@
   }
 }
 
-// This would return a SAFE Investment Note, with an overridden Amount.$ of $49,000, in a print view, using a specified rendering engine. The query itself can be persisted to the database, or to a log.  When persisting, it should reflect the time, the user, the time of response and perhaps the response itself. 
+// This would return a SAFE Investment Note, with an overridden Amount.$ of $49,000, in a print view, using a specified rendering engine. 
+//The query itself can be persisted to the database, or to a log.  
+//When persisting, it should reflect the time, the user, the time of response and perhaps the response itself. 
