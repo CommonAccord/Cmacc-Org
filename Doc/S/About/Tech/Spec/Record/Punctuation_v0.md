@@ -1,6 +1,6 @@
 Ti="Punctuation"
 
-0.sec=The parser should work with a variety of formats:
+0.sec=The rendering engine should work with a variety of formats:
  
 1.sec=The current flat file, source-code resembling.  This enables use with tools of software collaboration.  (Legal source prose is like software source code.)
 
