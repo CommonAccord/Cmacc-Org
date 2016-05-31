@@ -1,7 +1,7 @@
 
 { "query" : 
   {
-    "renderer" : "hashedname_of_rendering_engine",
+    "code" : "hashedname_of_rendering_engine",
     "record" : 
       {
 	"Amount.$" : "$49,999",
