@@ -1,14 +1,15 @@
 
-{ "query" : 
-  {
-    "code" : "hashedname_of_rendering_engine",
-    "record" : 
-      {
-	"Amount.$" : "$49,999",
-	"" : "[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]"
-      },
-    "view" : "print"
-  }
+{ "query" :
+	{
+		"code" : "hashedname_of_rendering_engine",
+		"record" : 
+			{
+				"Amount.$" : "$49,999",
+				"" : "[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]",
+				"Model.Root" : "{Event.Sec}"
+			},
+		"view" : "print"
+	}
 }
 
 // This would return a SAFE Investment Note, with an overridden Amount.$ of $49,000, in a print view, using a specified rendering engine. 
