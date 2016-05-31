@@ -6,10 +6,6 @@ ValuationCap.$=$2,000,000
 
 Discount.%=8%
 
-Event.Liquidity.the_Company=QQQQQQQ
-
-the_Company=AcmeRRRR
-
 Law.=[U/at/US/CA/Geo]
 
 Company.=[U/id/acme_incorporated]
