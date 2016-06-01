@@ -6,12 +6,12 @@
 			{
 				"Amount.$" : "$49,999",
 				"" : "[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]",
-				"Model.Root" : "{Event.Sec}"
+				"Model.Root" : "{Intro.Sec}"
 			},
 		"view" : "print"
 	}
 }
 
-// This would return a SAFE Investment Note, with an overridden Amount.$ of $49,000, in a print view, using a specified rendering engine. 
+// This would return the introductory part of the SAFE Investment Note, with an overridden Amount.$ of $49,000, in a print view, using a specified rendering engine. 
 //The query itself can be persisted to the database, or to a log.  
 //When persisting, it should reflect the time, the user, the time of response and perhaps the response itself. 
