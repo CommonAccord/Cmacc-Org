@@ -6,11 +6,11 @@ Ti=Appendice 1 Des clauses contractuelles types
 
 1.Ti=Exportateur de données
 
-1.sec=L’exportateur de données est (veuillez préciser brièvement vos activités qui présentent un intérêt pour le transfert): {DEO.Activities}
+1.sec=L’exportateur de données est (veuillez préciser brièvement vos activités qui présentent un intérêt pour le transfert): {Exporter.Activities}
 
 2.Ti=Importateur de données
 
-2.sec=L’importateur de données est (veuillez préciser brièvement vos activités qui présentent un intérêt pour le transfert): {DIO.Activities}
+2.sec=L’importateur de données est (veuillez préciser brièvement vos activités qui présentent un intérêt pour le transfert): {Importer.Activities}
 
 3.Ti=Personnes concernées
 
@@ -29,16 +29,16 @@ Ti=Appendice 1 Des clauses contractuelles types
 6.sec=Les données à caractère personnel transférées seront soumises aux activités de traitement de base suivantes (veuillez préciser): {PD.BasicProcessingActivities}
 
 
-DEO.Ti=EXPORTATEUR DE DONNÉES
+Exporter.Ti=EXPORTATEUR DE DONNÉES
 
-DEO.Sign.1.sec=Nom: {DEO.Name.Full}
+Exporter.Sign.1.sec=Nom: {Exporter.Name.Full}
 
-DEO.Sign.2.sec=Signature autorisée: ..............................................................................................
+Exporter.Sign.2.sec=Signature autorisée: ..............................................................................................
 
-DIO.Ti=IMPORTATEUR DE DONNÉES
+Importer.Ti=IMPORTATEUR DE DONNÉES
 
-DIO.Sign.1.sec=Nom: {DIO.Name.Full}
+Importer.Sign.1.sec=Nom: {Importer.Name.Full}
 
-DIO.Sign.2.sec=Signature autorisée: ..............................................................................................
+Importer.Sign.2.sec=Signature autorisée: ..............................................................................................
 
 =[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Appendix1_v0.md]

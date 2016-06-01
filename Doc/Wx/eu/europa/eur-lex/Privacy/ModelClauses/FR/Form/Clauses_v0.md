@@ -6,36 +6,36 @@ Doc.Title=CLAUSES CONTRACTUELLES TYPES (SOUS-TRAITANTS)
 
 0.1.sec=Aux fins de l’article 26, paragraphe 2 de la directive 95/46/CE pour le transfert des données à caractère personnel vers des sous-traitants établis dans des pays tiers qui n’assurent pas un niveau adéquat de protection des données
 
-DEO.1.sec=Nom de l’organisation exportant les données: {DEO.Name.Full}
+Exporter.1.sec=Nom de l’organisation exportant les données: {Exporter.Name.Full}
 
-DEO.2.sec=Adresse: {DEO.Addr.1,2}
+Exporter.2.sec=Adresse: {Exporter.Addr.1,2}
 
-DEO.3.sec=Téléphone {DEO.Phone}
+Exporter.3.sec=Téléphone {Exporter.Phone}
 
-DEO.4.sec=Fax {DEO.Fax};
+Exporter.4.sec=Fax {Exporter.Fax};
  
-DEO.5.sec=courrier électronique: {DEO.Email}
+Exporter.5.sec=courrier électronique: {Exporter.Email}
 
-DEO.6.sec=Autres informations nécessaires pour identifier l’organisation:  {DEO.OtherInformationToIdentify}
+Exporter.6.sec=Autres informations nécessaires pour identifier l’organisation:  {Exporter.OtherInformationToIdentify}
 
-DEO.7.sec=(ci-après dénommée l’«exportateur de données»)
+Exporter.7.sec=(ci-après dénommée l’«exportateur de données»)
 
 0.2.2.sec=d’une part, et
 
 
-DIO.1.sec=Nom de l’organisation exportant les données: {DIO.Name.Full}
+Importer.1.sec=Nom de l’organisation exportant les données: {Importer.Name.Full}
 
-DIO.2.sec=Adresse: {DIO.Addr.1,2}
+Importer.2.sec=Adresse: {Importer.Addr.1,2}
 
-DIO.3.sec=Téléphone {DIO.Phone}
+Importer.3.sec=Téléphone {Importer.Phone}
 
-DIO.4.sec=Fax {DIO.Fax};
+Importer.4.sec=Fax {Importer.Fax};
  
-DIO.5.sec=courrier électronique: {DIO.Email}
+Importer.5.sec=courrier électronique: {Importer.Email}
 
-DIO.6.sec=Autres informations nécessaires pour identifier l’organisation:  {DIO.OtherInformationToIdentify}
+Importer.6.sec=Autres informations nécessaires pour identifier l’organisation:  {Importer.OtherInformationToIdentify}
 
-DIO.7.sec=(ci-après dénommée l’«importateur de données»)
+Importer.7.sec=(ci-après dénommée l’«importateur de données»)
 
 0.2.4.sec=d’autre part, ci-après dénommés individuellement une «partie» et collectivement les «parties»
 
@@ -171,7 +171,7 @@ DIO.7.sec=(ci-après dénommée l’«importateur de données»)
 
 9.Ti=Droit applicable
 
-9.sec=Les clauses sont régies par le droit de l’État membre où l’exportateur de données est établi, à savoir {DEO.Addr.Nation}.
+9.sec=Les clauses sont régies par le droit de l’État membre où l’exportateur de données est établi, à savoir {Exporter.Addr.Nation}.
 
 
 =Clause 10
@@ -188,7 +188,7 @@ DIO.7.sec=(ci-après dénommée l’«importateur de données»)
 
 11.2.sec=Le contrat écrit préalable entre l’importateur de données et le sous-traitant ultérieur prévoit également une clause du tiers bénéficiaire telle qu’énoncée à la clause 3 pour les cas où la personne concernée est empêchée d’intenter l’action en réparation visée à la clause 6, paragraphe 1, contre l’exportateur de données ou l’importateur de données parce que ceuxci ont matériellement disparu, ont cessé d’exister en droit ou sont devenus insolvables, et que l’ensemble des obligations juridiques de l’exportateur de données ou de l’importateur de données n’a pas été transféré, par contrat ou par effet de la loi, à une autre entité leur ayant succédé. Cette responsabilité civile du sous-traitant ultérieur doit être limitée à ses propres activités de traitement conformément aux présentes clauses.
 
-11.3.sec=Les dispositions relatives aux aspects de la sous-traitance ultérieure liés à la protection des données du contrat visé au paragraphe 1 sont régies par le droit de l’État membre où l’exportateur de données est établi, à savoir {DEO.Addr.Nation}.
+11.3.sec=Les dispositions relatives aux aspects de la sous-traitance ultérieure liés à la protection des données du contrat visé au paragraphe 1 sont régies par le droit de l’État membre où l’exportateur de données est établi, à savoir {Exporter.Addr.Nation}.
 
 11.4.sec=L’exportateur de données tient une liste des accords de sous-traitance ultérieure conclus en vertu des présentes clauses et notifiés par l’importateur de données conformément à la clause 5, point j), qui sera mise à jour au moins une fois par an. Cette liste est mise à la disposition de l’autorité de contrôle de la protection des données de l’exportateur de données.
 
@@ -200,30 +200,30 @@ DIO.7.sec=(ci-après dénommée l’«importateur de données»)
 
 12.2.sec=L’importateur de données et le sous-traitant ultérieur garantissent que si l’exportateur de données et/ou l’autorité de contrôle le demandent, ils soumettront leurs moyens de traitement de données à une vérification des mesures visées au paragraphe 1.
 
-DEO.Sign.Ti=Au nom de l’exportateur de données:
+Exporter.Sign.Ti=Au nom de l’exportateur de données:
 
-DEO.Sign.1.sec=Nom (écrit en toutes lettres): {DEO.Sign.Name.Full}
+Exporter.Sign.1.sec=Nom (écrit en toutes lettres): {Exporter.Sign.Name.Full}
 
-DEO.Sign.2.sec=Fonction: {DEO.Sign.Title}
+Exporter.Sign.2.sec=Fonction: {Exporter.Sign.Title}
 
-DEO.Sign.3.sec=Adresse: {DEO.Sign.Addr.1,2}
+Exporter.Sign.3.sec=Adresse: {Exporter.Sign.Addr.1,2}
 
-DEO.Sign.4.sec=Autres informations nécessaires pour rendre le contrat contraignant (le cas échéant): {DEO.Sign.ValidatingInformation}
+Exporter.Sign.4.sec=Autres informations nécessaires pour rendre le contrat contraignant (le cas échéant): {Exporter.Sign.ValidatingInformation}
 
-DEO.Sign.5.sec=(sceau de l’organisation) {DEO.Seal}
+Exporter.Sign.5.sec=(sceau de l’organisation) {Exporter.Seal}
 
-DEO.Sign.6.sec=Signature ............................................................................................
+Exporter.Sign.6.sec=Signature ............................................................................................
 
-DIO.Sign.Ti=Au nom de l’importateur de données:
+Importer.Sign.Ti=Au nom de l’importateur de données:
 
-DIO.Sign.1.sec=Nom (écrit en toutes lettres): {DIO.Sign.Name.Full}
+Importer.Sign.1.sec=Nom (écrit en toutes lettres): {Importer.Sign.Name.Full}
 
-DIO.Sign.2.sec=Fonction: {DIO.Sign.Title}
+Importer.Sign.2.sec=Fonction: {Importer.Sign.Title}
 
-DIO.Sign.3.sec=Adresse: {DIO.Sign.Addr.1,2}
+Importer.Sign.3.sec=Adresse: {Importer.Sign.Addr.1,2}
 
-DIO.Sign.4.sec=Autres informations nécessaires pour rendre le contrat contraignant (le cas échéant): {DIO.Sign.ValidatingInformation}
+Importer.Sign.4.sec=Autres informations nécessaires pour rendre le contrat contraignant (le cas échéant): {Importer.Sign.ValidatingInformation}
 
-DIO.Sign.5.sec=(sceau de l’organisation) {DIO.Seal}
+Importer.Sign.5.sec=(sceau de l’organisation) {Importer.Seal}
 
-DIO.Sign.6.sec=Signature ............................................................................................
+Importer.Sign.6.sec=Signature ............................................................................................

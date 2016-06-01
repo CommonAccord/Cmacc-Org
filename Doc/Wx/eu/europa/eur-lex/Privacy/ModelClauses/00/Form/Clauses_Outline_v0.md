@@ -2,13 +2,13 @@ Note=http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32010D0087
 
 Note=This file provides the structure of all of the Model Clause Documents
 
-0.2.1.sec={DEO.sec}
+0.2.1.sec={Exporter.sec}
 
-DEO.=[Z/paras/s7]
+Exporter.=[Z/paras/s7]
 
-0.2.3.sec={DIO.sec}
+0.2.3.sec={Importer.sec}
 
-DIO.=[Z/paras/s7]
+Importer.=[Z/paras/s7]
 
 0.2.=[Z/ol-none/s4]
 
@@ -44,8 +44,8 @@ DIO.=[Z/paras/s7]
 
 DocBody={Doc}
 
-DEO.Sign.=[Z/paras/s6]
+Exporter.Sign.=[Z/paras/s6]
 
-DIO.Sign.=[Z/paras/s6]
+Importer.Sign.=[Z/paras/s6]
 
-90.Sec={DEO.Sign.sec}<br><br>{DIO.Sign.sec}
+90.Sec={Exporter.Sign.sec}<br><br>{Importer.Sign.sec}

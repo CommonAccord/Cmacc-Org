@@ -2,7 +2,7 @@ NOTE=This is a master data sheet.  It is used when the various European subs mak
 
 NOTE=SECURITY REGIME:
 
-DIO.SecurityMeasures=<font color="orange">{SecurityRegime.Sec}</font>
+Importer.SecurityMeasures=<font color="orange">{SecurityRegime.Sec}</font>
 
 Audit.Time.Interval=Bimonthly
  
@@ -10,13 +10,13 @@ Note1=No info about the DEO because that will be provided by the sub.
 
 NOTE=We select a hypothetical UK version of the Model Clauses (Member Countries may add protections.)
 
-DIO.OtherInformationToIdentify=N/A
+Importer.OtherInformationToIdentify=N/A
 
-DIO.Sign.ValidatingInformation=N/A
+Importer.Sign.ValidatingInformation=N/A
 
-DIO.Seal=//ACME INCORPORATED//
+Importer.Seal=//ACME INCORPORATED//
 
-DIO.Activities=Acme Incorporated makes devices for hard of hearing individuals.
+Importer.Activities=Acme Incorporated makes devices for hard of hearing individuals.
 
 Note2=These defaults can of course be overridden in the individual subsidiary forms. 
 
@@ -34,4 +34,4 @@ Audit.Organization.=[U/id/solomon_shirley]
 
 SecurityRegime.=[GH/FutureCommerce/StandardLaw/MBP/Form/Doc_v0.md]
 
-DIO.=[U/id/acme_incorporated]
+Importer.=[U/id/acme_incorporated]

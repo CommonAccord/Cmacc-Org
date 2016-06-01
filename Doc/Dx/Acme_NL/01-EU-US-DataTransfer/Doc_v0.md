@@ -1,16 +1,16 @@
-DEO.=[U/id/acme_holland]
+Exporter.=[U/id/acme_holland]
 
-DEO.Sign.=[U/id/andrea_ang]
+Exporter.Sign.=[U/id/andrea_ang]
 
-DEO.Sign.Title=Manager
+Exporter.Sign.Title=Manager
 
-DEO.Sign.Addr.1,2={DEO.Addr.1,2}
+Exporter.Sign.Addr.1,2={Exporter.Addr.1,2}
 
-DEO.OtherInformationToIdentify=N/A
+Exporter.OtherInformationToIdentify=N/A
 
-DEO.Sign.ValidatingInformation=N/A
+Exporter.Sign.ValidatingInformation=N/A
 
-DEO.Activities={DEO.Name.Full} provides proximity services for hard of hearing individuals.
+Exporter.Activities={Exporter.Name.Full} provides proximity services for hard of hearing individuals.
 
 =[Dx/Acme/09-EU-US-DataTransfer/Doc_v0.md]
 

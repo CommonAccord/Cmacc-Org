@@ -6,35 +6,35 @@ Doc.Title=MODELCONTRACTBEPALINGEN („VERWERKERS”)
 
 0.1.sec=Voor de toepassing van artikel 26, lid 2, van Richtlijn 95/46/EG, voor de doorgifte van persoonsgegevens aan verwerkers die gevestigd zijn in derde landen die geen passend beschermingsniveau waarborgen
 
-DEO.1.sec=Naam van de organisatie die de gegevens uitvoert: {DEO.Name.Full}
+Exporter.1.sec=Naam van de organisatie die de gegevens uitvoert: {Exporter.Name.Full}
 
-DEO.2.sec=Adres: {DEO.Addr.1,2}
+Exporter.2.sec=Adres: {Exporter.Addr.1,2}
 
-DEO.3.sec=Tel. {DEO.Phone};
+Exporter.3.sec=Tel. {Exporter.Phone};
 
-DEO.4.sec=fax {DEO.Fax}; 
+Exporter.4.sec=fax {Exporter.Fax}; 
 
-DEO.5.sec=e-mail: {DEO.Email}
+Exporter.5.sec=e-mail: {Exporter.Email}
 
-DEO.6.sec=Andere gegevens ter identificatie van de organisatie: {DEO.OtherInformationToIdentify}
+Exporter.6.sec=Andere gegevens ter identificatie van de organisatie: {Exporter.OtherInformationToIdentify}
 
-DEO.7.sec=(de gegevensexporteur)
+Exporter.7.sec=(de gegevensexporteur)
 
 0.2.2.sec=en
 
-DIO.1.sec=Naam van de organisatie die de gegevens invoert: {DIO.Name.Full}
+Importer.1.sec=Naam van de organisatie die de gegevens invoert: {Importer.Name.Full}
 
-DIO.2.sec=Adres: {DIO.Addr.1,2}
+Importer.2.sec=Adres: {Importer.Addr.1,2}
 
-DIO.3.sec=Tel. {DIO.Phone};
+Importer.3.sec=Tel. {Importer.Phone};
 
-DIO.4.sec=fax {DIO.Fax}; 
+Importer.4.sec=fax {Importer.Fax}; 
 
-DIO.5.sec=e-mail: {DIO.Email}
+Importer.5.sec=e-mail: {Importer.Email}
 
-DIO.6.sec=Andere gegevens ter identificatie van de organisatie: {DIO.OtherInformationToIdentify}
+Importer.6.sec=Andere gegevens ter identificatie van de organisatie: {Importer.OtherInformationToIdentify}
 
-DIO.7.sec=(de gegevensimporteur)
+Importer.7.sec=(de gegevensimporteur)
 
 0.2.4.sec=elk afzonderlijk „partij” en gezamenlijk „de partijen” genoemd,
 
@@ -201,34 +201,34 @@ Bepaling 12
 12.2.sec=De gegevensimporteur en de subverwerker garanderen dat zij op verzoek van de gegevensexporteur en/of de toezichthoudende autoriteit hun verwerkingsvoorzieningen voor een controle van de in lid 1 bedoelde maatregelen beschikbaar zullen stellen.
 
 
-DEO.Sign.Ti=Namens de gegevensexporteur:
+Exporter.Sign.Ti=Namens de gegevensexporteur:
 
-DEO.Sign.1.sec=Naam (voluit):  {DEO.Sign.Name.Full}
+Exporter.Sign.1.sec=Naam (voluit):  {Exporter.Sign.Name.Full}
 
-DEO.Sign.2.sec=Functie: {DEO.Sign.Title}
+Exporter.Sign.2.sec=Functie: {Exporter.Sign.Title}
 
-DEO.Sign.3.sec=Adres: {DEO.Sign.Addr.1,2}
+Exporter.Sign.3.sec=Adres: {Exporter.Sign.Addr.1,2}
 
-DEO.Sign.4.sec=Eventuele andere inlichtingen die voor het verbindend worden van het contract noodzakelijk zijn: {DEO.Sign.ValidatingInformation}
+Exporter.Sign.4.sec=Eventuele andere inlichtingen die voor het verbindend worden van het contract noodzakelijk zijn: {Exporter.Sign.ValidatingInformation}
 
-DEO.Sign.5.sec={DEO.Seal}
+Exporter.Sign.5.sec={Exporter.Seal}
 
-DEO.Sign.6.sec=Handtekening ..................................................
+Exporter.Sign.6.sec=Handtekening ..................................................
 
 
-DIO.Sign.Ti=Namens de gegevensimporteur:
+Importer.Sign.Ti=Namens de gegevensimporteur:
  
-DIO.Sign.1.sec=Naam (voluit):  {DIO.Sign.Name.Full}
+Importer.Sign.1.sec=Naam (voluit):  {Importer.Sign.Name.Full}
 
-DIO.Sign.2.sec=Functie: {DIO.Sign.Title}
+Importer.Sign.2.sec=Functie: {Importer.Sign.Title}
 
-DIO.Sign.3.sec=Adres: {DIO.Sign.Addr.1,2}
+Importer.Sign.3.sec=Adres: {Importer.Sign.Addr.1,2}
 
-DIO.Sign.4.sec=Eventuele andere inlichtingen die voor het verbindend worden van het contract noodzakelijk zijn: {DIO.Sign.ValidatingInformation}
+Importer.Sign.4.sec=Eventuele andere inlichtingen die voor het verbindend worden van het contract noodzakelijk zijn: {Importer.Sign.ValidatingInformation}
 
-DIO.Sign.5.sec={DIO.Seal}
+Importer.Sign.5.sec={Importer.Seal}
 
-DIO.Sign.6.sec=Handtekening ..................................................
+Importer.Sign.6.sec=Handtekening ..................................................
 
 
 

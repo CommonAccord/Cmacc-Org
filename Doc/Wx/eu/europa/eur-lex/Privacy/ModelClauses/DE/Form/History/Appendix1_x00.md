@@ -8,11 +8,11 @@ Ti=Anhang 1 zu den Standardvertragsklauseln
 
 1.Ti=Datenexporteur
 
-1.sec=Der Datenexporteur ist (bitte erläutern Sie kurz Ihre Tätigkeiten, die für die Übermittlung von Belang sind): <b>{DEO.Activities}</b>
+1.sec=Der Datenexporteur ist (bitte erläutern Sie kurz Ihre Tätigkeiten, die für die Übermittlung von Belang sind): <b>{Exporter.Activities}</b>
 
 2.Ti=Datenimporteur
 
-2.sec=Der Datenimporteur ist (bitte erläutern Sie kurz die Tätigkeiten, die für die Übermittlung von Belang sind): <b>{DIO.Activities}</b>
+2.sec=Der Datenimporteur ist (bitte erläutern Sie kurz die Tätigkeiten, die für die Übermittlung von Belang sind): <b>{Importer.Activities}</b>
 
 3.Ti=Betroffene Personen
 
@@ -33,16 +33,16 @@ Ti=Anhang 1 zu den Standardvertragsklauseln
 6.sec=Die übermittelten personenbezogenen Daten werden folgenden grundlegenden Verarbeitungsmaßnahmen unterzogen (bitte genau angeben): <b>{PD.BasicProcessingActivities}</b>
 
 
-DEO.Ti=DATENEXPORTEUR
+Exporter.Ti=DATENEXPORTEUR
 
-DEO.Sign.1.sec=Name: {DEO.Name.Full}
+Exporter.Sign.1.sec=Name: {Exporter.Name.Full}
 
-DEO.Sign.2.sec=Unterschrift des/der Bevollmächtigten: ...............................
+Exporter.Sign.2.sec=Unterschrift des/der Bevollmächtigten: ...............................
  
-DIO.Ti=DATENIMPORTEUR
+Importer.Ti=DATENIMPORTEUR
 
-DIO.Sign.1.sec=Name: {DIO.Name.Full}
+Importer.Sign.1.sec=Name: {Importer.Name.Full}
 
-DIO.Sign.2.sec=Unterschrift des/der Bevollmächtigten: …
+Importer.Sign.2.sec=Unterschrift des/der Bevollmächtigten: …
 
 =[Wx/eu/europa/eur-lex/OJ-L-2010-039-0005-0018-EN/Form/Appendix1_v0.md]

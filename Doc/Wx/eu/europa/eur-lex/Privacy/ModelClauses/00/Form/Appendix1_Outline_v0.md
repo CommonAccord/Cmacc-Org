@@ -4,6 +4,6 @@
 
 =[Z/ol-none/6]
 
-DEO.Sign.=[Z/ol-none/s2]
+Exporter.Sign.=[Z/ol-none/s2]
 
-DIO.Sign.=[Z/ol-none/s2]
+Importer.Sign.=[Z/ol-none/s2]

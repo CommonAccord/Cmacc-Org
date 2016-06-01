@@ -4,7 +4,7 @@ Ti=Anhang 2 zu den Standardvertragsklauseln
 
 1.Ti=Beschreibung der technischen oder organisatorischen Sicherheitsmaßnahmen, die der Datenimporteur gemäß Klausel 4 Buchstabe d und Klausel 5 Buchstabe c eingeführt hat (oder Dokument/Rechtsvorschrift beigefügt):
 
-1.sec={DIO.SecurityMeasures}
+1.sec={Importer.SecurityMeasures}
 
 BEISPIEL FÜR EINE ENTSCHÄDIGUNGSKLAUSEL (FAKULTATIV)
 

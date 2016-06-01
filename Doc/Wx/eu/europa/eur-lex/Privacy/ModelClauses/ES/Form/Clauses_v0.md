@@ -8,40 +8,40 @@ Doc.Title=CLÁUSULAS CONTRACTUALES TIPO («ENCARGADOS DEL TRATAMIENTO»)
 0.1.sec=A efectos del artículo 26, apartado 2, de la Directiva 95/46/CE para la transferencia de datos personales a los encargados del tratamiento establecidos en terceros países que no garanticen una adecuada protección de los datos.
 
 
-DEO.1.sec=Nombre de la entidad exportadora de los datos: <b>{DEO.Name.Full}</b>
+Exporter.1.sec=Nombre de la entidad exportadora de los datos: <b>{Exporter.Name.Full}</b>
 
-DEO.2.sec=Dirección: <b>{DEO.Addr.1,2}</b>
-
-
-DEO.3.sec=Tel.<b>{DEO.Phone}</b>;
+Exporter.2.sec=Dirección: <b>{Exporter.Addr.1,2}</b>
 
 
-DEO.4.sec=Fax <b>{DEO.Fax}</b>;
-
-DEO.5.sec=correo electrónico: <b>{DEO.Email}</b>
+Exporter.3.sec=Tel.<b>{Exporter.Phone}</b>;
 
 
-DEO.6.sec=Otros datos necesarios para identificar a la entidad …
+Exporter.4.sec=Fax <b>{Exporter.Fax}</b>;
 
-DEO.7.sec=(en lo sucesivo, el exportador de datos)
+Exporter.5.sec=correo electrónico: <b>{Exporter.Email}</b>
+
+
+Exporter.6.sec=Otros datos necesarios para identificar a la entidad …
+
+Exporter.7.sec=(en lo sucesivo, el exportador de datos)
 
 0.2.2.sec=<br>y<br><br>
 
 
-DIO.1.sec=Nombre de la entidad importadora de los datos: <b>{DIO.Name.Full}</b>
+Importer.1.sec=Nombre de la entidad importadora de los datos: <b>{Importer.Name.Full}</b>
 
-DIO.2.sec=Dirección: <b>{DIO.Addr.1,2}</b>
+Importer.2.sec=Dirección: <b>{Importer.Addr.1,2}</b>
 
-DIO.3.sec=Tel.<b>{DIO.Phone}</b>;
+Importer.3.sec=Tel.<b>{Importer.Phone}</b>;
 
-DIO.4.sec=Fax <b>{DIO.Fax}</b>;
+Importer.4.sec=Fax <b>{Importer.Fax}</b>;
 
-DIO.5.sec=correo electrónico: <b>{DIO.Email}</b>
+Importer.5.sec=correo electrónico: <b>{Importer.Email}</b>
 
 
-DIO.6.sec=Otros datos necesarios para identificar a la entidad …
+Importer.6.sec=Otros datos necesarios para identificar a la entidad …
 
-DIO.7.sec=(en lo sucesivo, el importador de datos)
+Importer.7.sec=(en lo sucesivo, el importador de datos)
 
 0.2.4.sec=cada una de ellas «la parte»; conjuntamente «las partes»
 
@@ -215,31 +215,31 @@ Cláusula 12
 2.
 12.2.sec=El importador de datos y el subencargado garantizan que, a petición del exportador o de la autoridad de control, pondrá a disposición sus instalaciones de tratamiento de los datos para que se lleve a cabo la auditoría de las medidas mencionadas en el apartado 1.
 
-DEO.Sign.Ti=En nombre del exportador de datos:
+Exporter.Sign.Ti=En nombre del exportador de datos:
 
-DEO.Sign.1.sec=Nombre (completo): {DEO.Sign.Name.Full}
+Exporter.Sign.1.sec=Nombre (completo): {Exporter.Sign.Name.Full}
 
-DEO.Sign.2.sec=Cargo: {DEO.Sign.Title}
+Exporter.Sign.2.sec=Cargo: {Exporter.Sign.Title}
 
-DEO.Sign.3.sec=Dirección: {DEO.Sign.Addr.1,2}
+Exporter.Sign.3.sec=Dirección: {Exporter.Sign.Addr.1,2}
 
-DEO.Sign.4.sec=Otros datos necesarios con vistas a la obligatoriedad del contrato (en caso de existir): DEO.Sign.ValidatingInformation}
+Exporter.Sign.4.sec=Otros datos necesarios con vistas a la obligatoriedad del contrato (en caso de existir): Exporter.Sign.ValidatingInformation}
 
-DEO.Sign.5.sec={DEO.Seal}
+Exporter.Sign.5.sec={Exporter.Seal}
 
-DEO.Sign.6.sec=Firma ...............................................................
+Exporter.Sign.6.sec=Firma ...............................................................
 
-DIO.Sign.Ti=En nombre del importador de los datos:
+Importer.Sign.Ti=En nombre del importador de los datos:
 
-DIO.Sign.1.sec=Nombre (completo): {DIO.Sign.Name.Full}
+Importer.Sign.1.sec=Nombre (completo): {Importer.Sign.Name.Full}
 
-DIO.Sign.2.sec=Cargo: {DIO.Sign.Title}
+Importer.Sign.2.sec=Cargo: {Importer.Sign.Title}
 
-DIO.Sign.3.sec=Dirección: {DIO.Sign.Addr.1,2}
+Importer.Sign.3.sec=Dirección: {Importer.Sign.Addr.1,2}
 
-DIO.Sign.4.sec=Otros datos necesarios con vistas a la obligatoriedad del contrato (en caso de existir): DIO.Sign.ValidatingInformation}
+Importer.Sign.4.sec=Otros datos necesarios con vistas a la obligatoriedad del contrato (en caso de existir): Importer.Sign.ValidatingInformation}
 
-DIO.Sign.5.sec={DIO.Seal}
+Importer.Sign.5.sec={Importer.Seal}
 
-DIO.Sign.6.sec=Firma ...............................................................
+Importer.Sign.6.sec=Firma ...............................................................
 

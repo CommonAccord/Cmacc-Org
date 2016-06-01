@@ -8,11 +8,11 @@ Ti=Apéndice 1 A las cláusulas contractuales tipo
 
 1.Ti=Exportador de datos
 
-1.sec=El exportador de datos es (especifique brevemente sus actividades correspondientes a la transferencia): <b>{DEO.Activities}</b>.
+1.sec=El exportador de datos es (especifique brevemente sus actividades correspondientes a la transferencia): <b>{Exporter.Activities}</b>.
 
 2.Ti=Importador de datos
 
-2.sec=El importador de datos es (especifique brevemente sus actividades correspondientes a la transferencia): <b>{DIO.Activities}</b>
+2.sec=El importador de datos es (especifique brevemente sus actividades correspondientes a la transferencia): <b>{Importer.Activities}</b>
 
 3.Ti=Interesados
 
@@ -30,14 +30,14 @@ Ti=Apéndice 1 A las cláusulas contractuales tipo
 
 6.sec=Los datos personales transferidos serán sometidos a las operaciones básicas de tratamiento siguientes (especifíquense): <b>{PD.BasicProcessingActivities}</b>
 
-DEO.Ti=EXPORTADOR DE DATOS
+Exporter.Ti=EXPORTADOR DE DATOS
 
-DEO.Sign.1.sec=Nombre: <b>{DEO.Name.Full}</b>
+Exporter.Sign.1.sec=Nombre: <b>{Exporter.Name.Full}</b>
 
-DEO.Sign.2.sec=Firma autorizada ........................................
+Exporter.Sign.2.sec=Firma autorizada ........................................
 
-DIO.Ti=IMPORTADOR DE DATOS
+Importer.Ti=IMPORTADOR DE DATOS
 
-DIO.Sign.1.sec=Nombre: <b>{DIO.Name.Full}</b>
+Importer.Sign.1.sec=Nombre: <b>{Importer.Name.Full}</b>
 
-DIO.Sign.2.sec=Firma autorizada ........................................
+Importer.Sign.2.sec=Firma autorizada ........................................

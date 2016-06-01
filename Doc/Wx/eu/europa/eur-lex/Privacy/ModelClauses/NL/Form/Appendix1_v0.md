@@ -8,11 +8,11 @@ Ti=Aanhangsel 1 Bij de modelcontractbepalingen
 
 1.Ti=Gegevensexporteur
 
-1.sec=De gegevensexporteur is (beschrijf in het kort de voor de doorgifte relevante activiteiten): {DEO.Activities}
+1.sec=De gegevensexporteur is (beschrijf in het kort de voor de doorgifte relevante activiteiten): {Exporter.Activities}
 
 2.Ti=Gegevensimporteur
 
-2.sec=De gegevensimporteur is (beschrijf in het kort de voor de doorgifte relevante activiteiten): {DIO.Activities}
+2.sec=De gegevensimporteur is (beschrijf in het kort de voor de doorgifte relevante activiteiten): {Importer.Activities}
 
 3.Ti=Betrokkenen
 
@@ -30,14 +30,14 @@ Ti=Aanhangsel 1 Bij de modelcontractbepalingen
 6.sec=De doorgegeven persoonsgegevens zullen de volgende basisverwerkingen ondergaan: {PD.BasicProcessingActivities}
 
 
-DEO.Sign.1.sec=DE GEGEVENSEXPORTEUR
+Exporter.Sign.1.sec=DE GEGEVENSEXPORTEUR
 
-DEO.Sign.2.sec=Naam: {DEO.Name.Full}
+Exporter.Sign.2.sec=Naam: {Exporter.Name.Full}
 
-DEO.Sign.2.sec=Handtekening van de bevoegde persoon: ...................................
+Exporter.Sign.2.sec=Handtekening van de bevoegde persoon: ...................................
  
-DIO.Sign.1.sec=DE GEGEVENSIMPORTEUR
+Importer.Sign.1.sec=DE GEGEVENSIMPORTEUR
 
-DIO.Sign.2.sec=Naam: {DIO.Name.Full}
+Importer.Sign.2.sec=Naam: {Importer.Name.Full}
 
-DIO.Sign.2.sec=Handtekening van de bevoegde persoon: ...................................
+Importer.Sign.2.sec=Handtekening van de bevoegde persoon: ...................................

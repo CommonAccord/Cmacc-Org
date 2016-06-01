@@ -6,36 +6,36 @@ Doc.Title=ΤΥΠΟΠΟΙΗΜΕΝΕΣ ΣΥΜΒΑΤΙΚΕΣ ΡΗΤΡΕΣ (ΕΚΤΕ
 
 0.1.sec=Για τους σκοπούς του άρθρου 26 παράγραφος 2 της οδηγίας 95/46/ΕΚ για τη διαβίβαση δεδομένων προσωπικού χαρακτήρα σε εκτελούντες επεξεργασία εγκατεστημένους σε τρίτες χώρες οι οποίες δεν εξασφαλίζουν ικανοποιητικό επίπεδο προστασίας των δεδομένων
 
-DEO.1.sec=Επωνυμία του οργανισμού που εξάγει τα δεδομένα: {DEO.Name.Full}
+Exporter.1.sec=Επωνυμία του οργανισμού που εξάγει τα δεδομένα: {Exporter.Name.Full}
 
-DEO.2.sec=Διεύθυνση: {DEO.Addr.1,2}
+Exporter.2.sec=Διεύθυνση: {Exporter.Addr.1,2}
 
-DEO.3.sec=Τηλ.: {DEO.Phone}
+Exporter.3.sec=Τηλ.: {Exporter.Phone}
 
-DEO.4.sec=Φαξ: {DEO.Fax}
+Exporter.4.sec=Φαξ: {Exporter.Fax}
 
-DEO.5.sec=Ηλ. ταχ.:  {DEO.Email}
+Exporter.5.sec=Ηλ. ταχ.:  {Exporter.Email}
 
-DEO.6.sec=Άλλα πληροφοριακά στοιχεία που απαιτούνται για τον προσδιορισμό του οργανισμού {DEO.OtherInformationToIdentify}
+Exporter.6.sec=Άλλα πληροφοριακά στοιχεία που απαιτούνται για τον προσδιορισμό του οργανισμού {Exporter.OtherInformationToIdentify}
 
-DEO.7.sec=(ο εξαγωγέας δεδομένων)
+Exporter.7.sec=(ο εξαγωγέας δεδομένων)
 
 0.2.2.sec=και
 
 
-DIO.1.sec=Επωνυμία του οργανισμού που εισάγει τα δεδομένα: {DIO.Name.Full}
+Importer.1.sec=Επωνυμία του οργανισμού που εισάγει τα δεδομένα: {Importer.Name.Full}
 
-DIO.2.sec=Διεύθυνση: {DIO.Addr.1,2}
+Importer.2.sec=Διεύθυνση: {Importer.Addr.1,2}
 
-DIO.3.sec=Τηλ.: {DIO.Phone}
+Importer.3.sec=Τηλ.: {Importer.Phone}
 
-DIO.4.sec=Φαξ: {DIO.Fax}
+Importer.4.sec=Φαξ: {Importer.Fax}
 
-DIO.5.sec=Ηλ. ταχ.:  {DIO.Email}
+Importer.5.sec=Ηλ. ταχ.:  {Importer.Email}
 
-DIO.6.sec=Άλλα πληροφοριακά στοιχεία που απαιτούνται για τον προσδιορισμό του οργανισμού {DIO.OtherInformationToIdentify}
+Importer.6.sec=Άλλα πληροφοριακά στοιχεία που απαιτούνται για τον προσδιορισμό του οργανισμού {Importer.OtherInformationToIdentify}
 
-DIO.7.sec=(ο εισαγωγέας δεδομένων)
+Importer.7.sec=(ο εισαγωγέας δεδομένων)
 
 0.2.4.sec=Φερόμενοι στο εξής ως «ο συμβαλλόμενος» όταν πρόκειται για έκαστο μεμονωμένα και «οι συμβαλλόμενοι» όταν είναι από κοινού.
 
@@ -178,7 +178,7 @@ iii)
 
 9.Ti=Εφαρμοστέο δίκαιο
 
-9.sec=Οι ρήτρες διέπονται από το δίκαιο του κράτους μέλους στο οποίο είναι εγκατεστημένος ο εξαγωγέας δεδομένων, ήτοι {DEO.Addr.Nation}
+9.sec=Οι ρήτρες διέπονται από το δίκαιο του κράτους μέλους στο οποίο είναι εγκατεστημένος ο εξαγωγέας δεδομένων, ήτοι {Exporter.Addr.Nation}
 
 Ρήτρα 10
 
@@ -207,30 +207,30 @@ iii)
 12.2.sec=Ο εισαγωγέας δεδομένων και ο υπεργολάβος επεξεργασίας εγγυώνται ότι εφόσον το ζητήσει ο εξαγωγέας δεδομένων και/ή η αρχή ελέγχου, θα υποβάλουν τις εγκαταστάσεις επεξεργασίας δεδομένων που διαθέτουν σε έλεγχο των μέτρων που αναφέρονται στην παράγραφο 1.
 
 
-DEO.Sign.Ti=Για λογαριασμό του εξαγωγέα δεδομένων:
+Exporter.Sign.Ti=Για λογαριασμό του εξαγωγέα δεδομένων:
 
-DEO.Sign.1.sec=Ονοματεπώνυμο (ολογράφως): {DEO.Sign.Name.Full}
+Exporter.Sign.1.sec=Ονοματεπώνυμο (ολογράφως): {Exporter.Sign.Name.Full}
 
-DEO.Sign.2.sec=Ιδιότητα: {DEO.Sign.Title}
+Exporter.Sign.2.sec=Ιδιότητα: {Exporter.Sign.Title}
 
-DEO.Sign.3.sec= Διεύθυνση: {DEO.Sign.Addr.1,2}
+Exporter.Sign.3.sec= Διεύθυνση: {Exporter.Sign.Addr.1,2}
 
-DEO.Sign.4.sec= Άλλες πληροφορίες που απαιτούνται για να θεωρηθεί η σύμβαση δεσμευτική (αν υπάρχουν): {DEO.Sign.ValidatingInformation}
+Exporter.Sign.4.sec= Άλλες πληροφορίες που απαιτούνται για να θεωρηθεί η σύμβαση δεσμευτική (αν υπάρχουν): {Exporter.Sign.ValidatingInformation}
 
-DEO.Sign.5.sec={DEO.Seal}
+Exporter.Sign.5.sec={Exporter.Seal}
 
-DEO.Sign.6.sec=Υπογραφή ............................................  
+Exporter.Sign.6.sec=Υπογραφή ............................................  
 
-DIO.Sign.Ti=Για λογαριασμό του εισαγωγέα δεδομένων:
+Importer.Sign.Ti=Για λογαριασμό του εισαγωγέα δεδομένων:
 
-DIO.Sign.1.sec=Ονοματεπώνυμο (ολογράφως): {DIO.Sign.Name.Full}
+Importer.Sign.1.sec=Ονοματεπώνυμο (ολογράφως): {Importer.Sign.Name.Full}
 
-DIO.Sign.2.sec=Ιδιότητα: {DIO.Sign.Title}
+Importer.Sign.2.sec=Ιδιότητα: {Importer.Sign.Title}
 
-DIO.Sign.3.sec= Διεύθυνση: {DIO.Sign.Addr.1,2}
+Importer.Sign.3.sec= Διεύθυνση: {Importer.Sign.Addr.1,2}
 
-DIO.Sign.4.sec= Άλλες πληροφορίες που απαιτούνται για να θεωρηθεί η σύμβαση δεσμευτική (αν υπάρχουν): {DIO.Sign.ValidatingInformation}
+Importer.Sign.4.sec= Άλλες πληροφορίες που απαιτούνται για να θεωρηθεί η σύμβαση δεσμευτική (αν υπάρχουν): {Importer.Sign.ValidatingInformation}
 
-DIO.Sign.5.sec={DIO.Seal}
+Importer.Sign.5.sec={Importer.Seal}
 
-DIO.Sign.6.sec=Υπογραφή ............................................
+Importer.Sign.6.sec=Υπογραφή ............................................

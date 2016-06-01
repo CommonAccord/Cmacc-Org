@@ -8,35 +8,35 @@ Doc.Title=STANDARDVERTRAGSKLAUSELN (AUFTRAGSVERARBEITER)
 
 0.1.sec=gemäß Artikel 26 Absatz 2 der Richtlinie 95/46/EG für die Übermittlung personenbezogener Daten an Auftragsverarbeiter, die in Drittländern niedergelassen sind, in denen kein angemessenes Schutzniveau gewährleistet ist
 
-DEO.1.sec=Bezeichnung der Organisation (Datenexporteur): {DEO.Name.Full}
+Exporter.1.sec=Bezeichnung der Organisation (Datenexporteur): {Exporter.Name.Full}
 
-DEO.2.sec=Anschrift: {DEO.Addr.1,2}
+Exporter.2.sec=Anschrift: {Exporter.Addr.1,2}
 
-DEO.3.sec=Tel.:  {DEO.Phone}
+Exporter.3.sec=Tel.:  {Exporter.Phone}
 
-DEO.4.sec=Fax: {DEO.Fax}
+Exporter.4.sec=Fax: {Exporter.Fax}
 
-DEO.5.sec=E-Mail: {DEO.Email}
+Exporter.5.sec=E-Mail: {Exporter.Email}
 
-DEO.6.sec=Weitere Angaben zur Identifizierung der Organisation {DEO.OtherInformationToIdentify}
+Exporter.6.sec=Weitere Angaben zur Identifizierung der Organisation {Exporter.OtherInformationToIdentify}
 
-DEO.7.sec=(„Datenexporteur“)
+Exporter.7.sec=(„Datenexporteur“)
 
 0.2.2.sec=und
 
-DIO.1.sec=Bezeichnung der Organisation (Datenexporteur): {DIO.Name.Full}
+Importer.1.sec=Bezeichnung der Organisation (Datenexporteur): {Importer.Name.Full}
 
-DIO.2.sec=Anschrift: {DIO.Addr.1,2}
+Importer.2.sec=Anschrift: {Importer.Addr.1,2}
 
-DIO.3.sec=Tel.:  {DIO.Phone}
+Importer.3.sec=Tel.:  {Importer.Phone}
 
-DIO.4.sec=Fax: {DIO.Fax}
+Importer.4.sec=Fax: {Importer.Fax}
 
-DIO.5.sec=E-Mail: {DIO.Email}
+Importer.5.sec=E-Mail: {Importer.Email}
 
-DIO.6.sec=Weitere Angaben zur Identifizierung der Organisation {DIO.OtherInformationToIdentify}
+Importer.6.sec=Weitere Angaben zur Identifizierung der Organisation {Importer.OtherInformationToIdentify}
 
-DIO.7.sec=(„Datenexporteur“)
+Importer.7.sec=(„Datenexporteur“)
 
 0.2.4.sec=(die „Partei“, wenn eine dieser Organisationen gemeint ist, die „Parteien“, wenn beide gemeint sind)
 
@@ -173,7 +173,7 @@ Klausel 9
 
 9.Ti=Anwendbares Recht
 
-9.sec=Für diese Klauseln gilt das Recht des Mitgliedstaats, in dem der Datenexporteur niedergelassen ist, nämlich: {DEO.Addr.Nation}
+9.sec=Für diese Klauseln gilt das Recht des Mitgliedstaats, in dem der Datenexporteur niedergelassen ist, nämlich: {Exporter.Addr.Nation}
 
 Klausel 10
 
@@ -189,7 +189,7 @@ Klausel 11
 
 11.2.sec=Die vorherige schriftliche Vereinbarung zwischen dem Datenimporteur und dem Unterauftragsverarbeiter muss gemäß Klausel 3 auch eine Drittbegünstigtenklausel für Fälle enthalten, in denen die betroffene Person nicht in der Lage ist, einen Schadenersatzanspruch gemäß Klausel 6 Absatz 1 gegenüber dem Datenexporteur oder dem Datenimporteur geltend zu machen, weil diese faktisch oder rechtlich nicht mehr bestehen oder zahlungsunfähig sind und kein Rechtsnachfolger durch Vertrag oder kraft Gesetzes sämtliche rechtlichen Pflichten des Datenexporteurs oder des Datenimporteurs übernommen hat. Eine solche Haftpflicht des Unterauftragsverarbeiters ist auf dessen Verarbeitungstätigkeiten nach den Klauseln beschränkt.
 
-11.3.sec=Für Datenschutzbestimmungen im Zusammenhang mit der Vergabe von Unteraufträgen über die Datenverarbeitung gemäß Absatz 1 gilt das Recht des Mitgliedstaats, in dem der Datenexporteur niedergelassen ist, nämlich: {DEO.Addr.Nation}
+11.3.sec=Für Datenschutzbestimmungen im Zusammenhang mit der Vergabe von Unteraufträgen über die Datenverarbeitung gemäß Absatz 1 gilt das Recht des Mitgliedstaats, in dem der Datenexporteur niedergelassen ist, nämlich: {Exporter.Addr.Nation}
 
 11.4.sec=Der Datenexporteur führt ein mindestens einmal jährlich zu aktualisierendes Verzeichnis der mit Unterauftragsverarbeitern nach den Klauseln geschlossenen Vereinbarungen, die vom Datenimporteur nach Klausel 5 Buchstabe j übermittelt wurden. Das Verzeichnis wird der Kontrollstelle des Datenexporteurs bereitgestellt.
 
@@ -203,32 +203,32 @@ Klausel 12
 
 NOTE=To be completed. 
 
-DEO.Sign.Ti=Für den Datenexporteur:
+Exporter.Sign.Ti=Für den Datenexporteur:
 
-DEO.Sign.1.sec=Name (ausgeschrieben):{DEO.Sign.Name.Full}
+Exporter.Sign.1.sec=Name (ausgeschrieben):{Exporter.Sign.Name.Full}
 
-DEO.Sign.2.sec=Funktion: {DEO.Sign.Title}
+Exporter.Sign.2.sec=Funktion: {Exporter.Sign.Title}
 
-DEO.Sign.3.sec=Anschrift: {DEO.Sign.Addr.1,2}
+Exporter.Sign.3.sec=Anschrift: {Exporter.Sign.Addr.1,2}
 
-DEO.Sign.4.sec=Gegebenenfalls weitere Angaben, die den Vertrag verbindlich machen: {DEO.Sign.ValidatingInformation}
-
-
-DEO.Sign.5.sec={DEO.Seal}
-
-DEO.Sign.6.sec=Unterschrift …...........................................................
+Exporter.Sign.4.sec=Gegebenenfalls weitere Angaben, die den Vertrag verbindlich machen: {Exporter.Sign.ValidatingInformation}
 
 
-DIO.Sign.Ti=Für den Datenimporteur:
+Exporter.Sign.5.sec={Exporter.Seal}
 
-DIO.Sign.1.sec=Name (ausgeschrieben):{DIO.Sign.Name.Full}
+Exporter.Sign.6.sec=Unterschrift …...........................................................
 
-DIO.Sign.2.sec=Funktion: {DIO.Sign.Title}
 
-DIO.Sign.3.sec=Anschrift: {DIO.Sign.Addr.1,2}
+Importer.Sign.Ti=Für den Datenimporteur:
 
-DIO.Sign.4.sec=Gegebenenfalls weitere Angaben, die den Vertrag verbindlich machen: {DIO.Sign.ValidatingInformation}
+Importer.Sign.1.sec=Name (ausgeschrieben):{Importer.Sign.Name.Full}
 
-DIO.Sign.5.sec={DIO.Seal}
+Importer.Sign.2.sec=Funktion: {Importer.Sign.Title}
 
-DIO.Sign.6.sec=Unterschrift …...........................................................
+Importer.Sign.3.sec=Anschrift: {Importer.Sign.Addr.1,2}
+
+Importer.Sign.4.sec=Gegebenenfalls weitere Angaben, die den Vertrag verbindlich machen: {Importer.Sign.ValidatingInformation}
+
+Importer.Sign.5.sec={Importer.Seal}
+
+Importer.Sign.6.sec=Unterschrift …...........................................................

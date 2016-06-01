@@ -4,7 +4,7 @@ Ti=Appendice 2 Des clauses contractuelles types
 
 1.Ti=Description des mesures techniques et d’organisation liées à la sécurité mises en œuvre par l’importateur de données conformément à la clause 4, point d), et à la clause 5, point c) (ou document/législation jointe):
 
-1.sec={DIO.SecurityMeasures}
+1.sec={Importer.SecurityMeasures}
 
 =EXEMPLE DE CLAUSE DE DÉDOMMAGEMENT (FACULTATIVE)
 

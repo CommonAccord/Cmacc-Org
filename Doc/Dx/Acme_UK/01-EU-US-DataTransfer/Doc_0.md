@@ -1,18 +1,18 @@
-DEO.Sign.Title=Manager
+Exporter.Sign.Title=Manager
 
-DEO.Sign.Addr.1,2={DEO.Addr.1,2}
+Exporter.Sign.Addr.1,2={Exporter.Addr.1,2}
 
-DEO.OtherInformationToIdentify=N/A
+Exporter.OtherInformationToIdentify=N/A
 
-DEO.Sign.ValidatingInformation=N/A
+Exporter.Sign.ValidatingInformation=N/A
 
-DEO.Seal=//ACME UK Limited//
+Exporter.Seal=//ACME UK Limited//
 
-DEO.Activities={DEO.Name.Full} provides proximity services for hard of hearing individuals.
+Exporter.Activities={Exporter.Name.Full} provides proximity services for hard of hearing individuals.
 
-DEO.=[U/id/acme_uk]
+Exporter.=[U/id/acme_uk]
 
-DEO.Sign.=[U/id/priscilla_ang]
+Exporter.Sign.=[U/id/priscilla_ang]
 
 =[Dx/Acme/09-EU-US-DataTransfer/Doc_v0.md]  Note: Acme Inc's information and compliance policies
 
