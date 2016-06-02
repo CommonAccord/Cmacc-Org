@@ -14,4 +14,4 @@ Exporter.Activities={Exporter.Name.Full} provides proximity services for hard of
 
 =[Dx/Acme/09-EU-US-DataTransfer/Doc_v0.md]
 
-=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/DE/Form/Doc_v0.md]
+=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/DE/Doc/0.md]
