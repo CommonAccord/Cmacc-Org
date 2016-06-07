@@ -2,13 +2,13 @@ EU Model Clauses:=
 
 Data.UK.=[Dx/Acme_UK/01-EU-US-DataTransfer/Doc_0.md]
 
-Data.DE.=[Dx/Acme_DE/01-EU-US-DataTransfer/Doc_v0.md]
+Data.DE.=[Dx/Acme_DE/01-EU-US-DataTransfer/0.md]
 
-Data.FR.=[Dx/Acme_FR/11-EU-US-DataTransfer/Doc_v0.md]
+Data.FR.=[Dx/Acme_FR/11-EU-US-DataTransfer/0.md]
 
-Data.GR.=[Dx/Acme_GR/01-EU-US-DataTransfer/Doc_v0.md]
+Data.GR.=[Dx/Acme_GR/01-EU-US-DataTransfer/0.md]
 
-Data.NL.=[Dx/Acme_NL/01-EU-US-DataTransfer/Doc_v0.md]
+Data.NL.=[Dx/Acme_NL/01-EU-US-DataTransfer/0.md]
 
 No example yet:=
 
