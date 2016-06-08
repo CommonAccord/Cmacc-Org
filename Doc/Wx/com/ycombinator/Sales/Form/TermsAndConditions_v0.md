@@ -14,19 +14,19 @@ Ti=TERMS AND CONDITIONS
 
 1.1.2.Sen=As part of the registration process, {Customer} will identify an administrative user name and password for {Customer}'s {Company} account.  {Company} reserves the right to refuse registration of, or cancel passwords it deems inappropriate.
 
-1.2.sec={1.2.1.Cl} {1.2.2.cl}.
+1.2.sec={1.2.1.Cl} {1.2.2.sec}.
 
 1.2.1.Cl=Subject to the terms hereof, {Company} will provide {Customer} with reasonable technical support services 
 
-1.2.2.cl={1.2.2.Select}
-
-1.2.2.Select=Select: <ul><li>1.2.2.A.cl: {1.2.2.A.cl} or <li>1.2.2.B.cl: {1.2.2.B.cl}</ul>
-
-1.2.2.A.cl=in accordance with the terms set forth in Exhibit C
+1.2.2.Alt1.sec=in accordance with the terms set forth in Exhibit C
 
 /Note=OPTIONAL: As an alternative, some companies simply include a commitment to provide support (per B)
 
-1.2.2.B.cl=in accordance with {Company}'s standard practice
+1.2.2.Alt2.sec=in accordance with {Company}'s standard practice
+
+1.2.2.=[Z/Alt/2]
+
+1.2.2.SecName=1.2.2
 
 1.=[Z/ol/s2]
 
