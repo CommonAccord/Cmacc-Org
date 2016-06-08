@@ -8,6 +8,9 @@ echo "<a href=index.php?action=edit&file=" .$dir.">".EDIT_TAB_MESSAGE."</a> &ems
 
 echo "<a href=index.php?action=openedit&file=" .$dir.">". COMPLETE_TAB_MESSAGE."</a> &emsp; ";
 
+echo "<a href=index.php?action=json&file=" .$dir.">". JSON_TAB_MESSAGE
+."</a> &emsp; ";
+
 echo "<b><a href=index.php?action=doc&file=" .$dir.">". DOC_TAB_MESSAGE
 ."</a></b> &emsp; ";
 
@@ -15,6 +18,7 @@ echo "<a href=index.php?action=print&file=" .$dir.">".PRINT_TAB_MESSAGE."</a> &e
 
 echo "<a href=" . URLFORDOCSINREPO . $dir.">GitHub</a> &emsp; ";
 
-echo "<a href=" . URLFORREPO . "/search?utf8=✓&q=" .$dir. ">Used By</a>";
+echo "<a href=" . URLFORREPO . "/search?utf8=✓&q=" .$dir. ">Used By</a>  &emsp; ";
+
 
 ?>

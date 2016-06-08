@@ -12,6 +12,8 @@ DEFINE('EDIT_TAB_MESSAGE', 'Edit');	// Tab
 
 DEFINE('COMPLETE_TAB_MESSAGE', 'Edit and Complete');	// Tab
 
+DEFINE('JSON_TAB_MESSAGE', 'JSON');	// Tab
+
 DEFINE('DOC_TAB_MESSAGE', 'Document');	// Tab
 
 DEFINE('PRINT_TAB_MESSAGE', 'Print');	// Tab
