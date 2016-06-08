@@ -36,7 +36,10 @@ foreach($contents as $n) {
         }
 
         echo "<tr>";
-        if(isset($v)) { echo "\"$k\" : \"$v\" ; <br><br>"; }
+        if(isset($v)) { 
+	 $vjson =  htmlspecialchars($v);
+	  echo "\"$k\" : \"$vjson\" ; <br><br>"; 
+	}
         else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
 }
