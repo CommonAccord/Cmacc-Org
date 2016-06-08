@@ -28,17 +28,17 @@ foreach($contents as $n) {
         list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
 
         if(preg_match('/\[\?(.+?)\]/', $v, $matches)) {
-                $v = "<a href=$matches[1]>$v</a>";
+	  //                $v = "<a href=$matches[1]>$v</a>";  //don't wrap in link for JSON view
         }
 
         else if(preg_match('/\[(.+?)\]/', $v, $matches)) {
-                $v = "<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$v</a>";
+	  //    $v = "<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$v</a>";//don't wrap in link for JSON view
         }
 
         echo "<tr>";
         if(isset($v)) { 
-	 $vjson =  htmlspecialchars($v);
-	  echo "\"$k\" : \"$vjson\" ; <br><br>"; 
+	  $vjson =  htmlspecialchars(json_encode($v));
+	  echo "\"$k\" : $vjson ; <br><br>"; 
 	}
         else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
