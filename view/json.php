@@ -7,16 +7,7 @@ include("$lib_path/view-tabs.php");
 ?>
 
 
-<div class="container">
-
-<?php
-  echo "
-<div id='tabs'><ul><li>
-<a href='#tab-source'>Source</a></li>
-</ul><div id='tab-render'>" ;
-?>
-</div>
-
+<h4>JSON source view:</h4>
 
 
 <div id="tab-source">
@@ -38,7 +29,7 @@ foreach($contents as $n) {
         echo "<tr>";
         if(isset($v)) { 
 	  $vjson =  htmlspecialchars(json_encode($v));
-	  echo "\"$k\" : $vjson ; <br><br>"; 
+	  echo "\"$k\" : $vjson , <br><br>"; 
 	}
         else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
