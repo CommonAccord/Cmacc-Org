@@ -18,22 +18,30 @@ include("$lib_path/view-tabs.php");
 foreach($contents as $n) {
         list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
 
-        if(preg_match('/\[\?(.+?)\]/', $v, $matches)) {
-	  //                $v = "<a href=$matches[1]>$v</a>";  //don't wrap in link for JSON view
-        }
+if(preg_match('/\[(.+?)\]/', $v, $matches)) {
+ 
+   if(strlen($k) > 0){
+     $vlink = "{\"/\": \"$v</a>\"}" ;//don't wrap in link for JSON view
+	  echo "\"$k\" : $vlink , <br><br>"; 
+   }
+   else{ 
+     $vlink = "{\"/\": \"$v</a>\"}"; //don't wrap in link for JSON view
+     echo "$vlink , <br><br>"; 
+   }
+}
 
-        else if(preg_match('/\[(.+?)\]/', $v, $matches)) {
-	  //    $v = "<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$v</a>";//don't wrap in link for JSON view
-        }
 
-        echo "<tr>";
-        if(isset($v)) { 
-	  $vjson =  htmlspecialchars(json_encode($v));
-	  echo "\"$k\" : $vjson , <br><br>"; 
+elseif(isset($v)) { 
+	  $vhtml =  htmlspecialchars(json_encode($v));
+	  echo "\"$k\" : $vhtml , <br><br>"; 
 	}
-        else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
+
+        else { 
+	  echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; 
+	}
         echo "</tr>";
 }
+
 
 ?>
 </table>
