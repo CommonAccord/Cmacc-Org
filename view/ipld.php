@@ -21,11 +21,11 @@ foreach($contents as $n) {
 if(preg_match('/\[(.+?)\]/', $v, $matches)) {
  
    if(strlen($k) > 0){
-     $vlink = "{\"/\": \"$v</a>\"}" ;//don't wrap in link for IPLD view
+     $vlink = "{\"/\": \"<a href=$_SERVER[PHP_SELF]?action=ipld&file=$matches[1]>$matches[1]</a>\"}" ;//don't wrap in link for IPLD view
 	  echo "\"$k\" : $vlink , <br><br>"; 
    }
    else{ 
-     $vlink = "{\"/\": \"$v</a>\"}"; //don't wrap in link for IPLD view
+     $vlink = "{\"/\": \"<a href=$_SERVER[PHP_SELF]?action=ipld&file=$matches[1]>$matches[1]</a>\"}"; //don't wrap in link for IPLD view
      echo "$vlink , <br><br>"; 
    }
 }
