@@ -12,7 +12,7 @@ DEFINE('EDIT_TAB_MESSAGE', 'Edit');	// Tab
 
 DEFINE('COMPLETE_TAB_MESSAGE', 'Edit and Complete');	// Tab
 
-DEFINE('JSON_TAB_MESSAGE', 'JSON');	// Tab
+DEFINE('IPLD_TAB_MESSAGE', 'IPLD');	// Tab
 
 DEFINE('DOC_TAB_MESSAGE', 'Document');	// Tab
 

@@ -41,7 +41,7 @@ switch ($_REQUEST['action']) {
         include('./view/html.php');
         break;
 
-    case 'json':
+    case 'ipld':
 
         if (isset($_REQUEST['submit'])) {
 
@@ -70,7 +70,7 @@ switch ($_REQUEST['action']) {
         $filenameX = basename($dir);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./view/json.php");
+        include("./view/ipld.php");
 
         break;
 

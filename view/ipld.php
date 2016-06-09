@@ -7,7 +7,7 @@ include("$lib_path/view-tabs.php");
 ?>
 
 
-<h4>JSON source view:</h4>
+<h4>IPLD source view:</h4>
 
 
 <div id="tab-source">
@@ -21,11 +21,11 @@ foreach($contents as $n) {
 if(preg_match('/\[(.+?)\]/', $v, $matches)) {
  
    if(strlen($k) > 0){
-     $vlink = "{\"/\": \"$v</a>\"}" ;//don't wrap in link for JSON view
+     $vlink = "{\"/\": \"$v</a>\"}" ;//don't wrap in link for IPLD view
 	  echo "\"$k\" : $vlink , <br><br>"; 
    }
    else{ 
-     $vlink = "{\"/\": \"$v</a>\"}"; //don't wrap in link for JSON view
+     $vlink = "{\"/\": \"$v</a>\"}"; //don't wrap in link for IPLD view
      echo "$vlink , <br><br>"; 
    }
 }
