@@ -151,7 +151,7 @@ TITRE II. APPORTS - CAPITAL SOCIAL
 
 8.4.sec=Enfin, la collectivité des Associés décidant l'augmentation ou la réduction du capital peut déléguer au Président les pouvoirs nécessaires à l'effet de la réaliser.<br><br>
 
-8.=[Z/ol-I/s4]
+8.=[Z/ol-II/s4]
 
 9.Ti=ARTICLE 9 - LIBERATION DES ACTIONS<br>
 
