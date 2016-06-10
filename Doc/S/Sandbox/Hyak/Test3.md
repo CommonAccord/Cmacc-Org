@@ -1,0 +1,19 @@
+Ti=STATUTS CONSTITUTIFS SAS
+
+
+1.Ti=TITRE I. FORME - OBJET - DENOMINATION - SIEGE SOCIAL - DUREE - EXERCICE SOCIAL
+
+1.sec=<ol><li>{Article.1.Sec}</li><li>{Article.2.Sec}</li><li>{Article.3.Sec}</li><li>{Article.4.Sec}</li><li>{Article.5.Sec}</li></ol>
+
+
+2.Ti=TITRE II. APPORTS - CAPITAL SOCIAL
+
+2.sec=<ol start=6><li>{Article.6.Sec}</li><li>{Article.7.Sec}</li><li>{Article.8.Sec}</li><li>{Article.9.Sec}</li><li>{Article.10.Sec}</li><li>{Article.11.Sec}</li><li>{Article.12.Sec}</li><li>{Article.13.Sec}</li><li>{Article.14.Sec}</li><li>{Article.15.Sec}</li><li>{Article.16.Sec}</li><li>{Article.17.Sec}</li><li>{Article.18.Sec}</li><li>{Article.19.Sec}</li><li>{Article.20.Sec}</li><li>{Article.21.Sec}</li><li>{Article.22.Sec}</li><li>{Article.23.Sec}</li><li>{Article.24.Sec}</li><li>{Article.25.Sec}</li><li>{Article.26.Sec}</li><li>{Article.27.Sec}</li><li>{Article.28.Sec}</li><li>{Article.29.Sec}</li><li>{Article.30.Sec}</li><li>{Article.31.Sec}</li><li>{Article.32.Sec}
+
+Note=to be developed:
+
+00.Sec={SIGNATURE.Sec}<br>{ANNEXE.Sec}<br>{SOUSCRIPTEUR.Sec}
+
+=[Z/paras/2]
+
+Article.=[S/Sandbox/Hyak/Test2.md]
