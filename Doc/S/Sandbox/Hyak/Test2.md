@@ -111,47 +111,47 @@ TITRE II. APPORTS - CAPITAL SOCIAL
 
 7.Ti=ARTICLE 7 - CAPITAL SOCIAL<br>
 
-7.1.sec=Le capital social est fixé à la somme de {montant_capital} ({montant_capital_lettres}) euros, divisé en {nb_actions_chiffres} ({nb_actions_lettres}) actions égales de {montant_actions_chiffres} ({montant_actions_lettres}) euro, de même catégorie et libérées en totalité de leur valeur nominale.
+7.sec=Le capital social est fixé à la somme de {montant_capital} ({montant_capital_lettres}) euros, divisé en {nb_actions_chiffres} ({nb_actions_lettres}) actions égales de {montant_actions_chiffres} ({montant_actions_lettres}) euro, de même catégorie et libérées en totalité de leur valeur nominale.
 
-7.=[Z/ol/s1]
+7.=[Z/ol/0]
 
 8.Ti=ARTICLE 8 - MODIFICATIONS DU CAPITAL SOCIAL<br>
 
-8.1.sec=Le capital social peut être augmenté, réduit ou amorti conformément aux lois et règlements en vigueur, dans le respect des éventuelles obligations pouvant résulter du pacte d'Associés.
+8.0.sec=Le capital social peut être augmenté, réduit ou amorti conformément aux lois et règlements en vigueur, dans le respect des éventuelles obligations pouvant résulter du pacte d'Associés.
 
-8.2.sec=I - Le capital social peut être augmenté, soit par l'émission d'actions nouvelles, soit par élévation du montant nominal des actions existantes.
+8.1.sec=Le capital social peut être augmenté, soit par l'émission d'actions nouvelles, soit par élévation du montant nominal des actions existantes.
 
-8.2.0.sec=L'émission d'actions nouvelles peut résulter :
+8.1.0.sec=L'émission d'actions nouvelles peut résulter :
 
-8.2.1.sec=- soit d'apports en nature ou en numéraire, ces derniers pouvant être libérés par un versement d'espèces ou par compensation avec des créances liquides et exigibles sur la Société ;
+8.1.1.sec=- soit d'apports en nature ou en numéraire, ces derniers pouvant être libérés par un versement d'espèces ou par compensation avec des créances liquides et exigibles sur la Société ;
 
-8.2.2.sec=- soit de l'utilisation de ressources propres à la Société sous forme d'incorporation de réserves, de bénéfices ou de primes d'émission ;
+8.1.2.sec=- soit de l'utilisation de ressources propres à la Société sous forme d'incorporation de réserves, de bénéfices ou de primes d'émission ;
 
-8.2.3.sec=- soit de la combinaison d'apports en numéraire et d'incorporations de réserves, bénéfices ou primes d'émission ;
+8.1.3.sec=- soit de la combinaison d'apports en numéraire et d'incorporations de réserves, bénéfices ou primes d'émission ;
 
-8.2.4.sec=- soit de la conversion ou du remboursement d'obligations en actions.
+8.1.4.sec=- soit de la conversion ou du remboursement d'obligations en actions.
 
-8.2.5.sec=Sauf s'il s'agit du paiement du dividende en actions, la collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires sur le rapport du Président est seule compétente pour décider une augmentation de capital.
+8.1.5.sec=Sauf s'il s'agit du paiement du dividende en actions, la collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires sur le rapport du Président est seule compétente pour décider une augmentation de capital.
 
-8.2.6.sec=Si l'augmentation du capital est réalisée par incorporation de réserves, bénéfices ou primes d'émission, la collectivité des Associés délibère aux conditions de majorité prévues par les décisions extraordinaires.
+8.1.6.sec=Si l'augmentation du capital est réalisée par incorporation de réserves, bénéfices ou primes d'émission, la collectivité des Associés délibère aux conditions de majorité prévues par les décisions extraordinaires.
 
-8.2.7.sec=Les Associés ont, proportionnellement au nombre de leurs actions, un droit de préférence à la souscription des actions de numéraire émises pour réaliser une augmentation de capital.
+8.1.7.sec=Les Associés ont, proportionnellement au nombre de leurs actions, un droit de préférence à la souscription des actions de numéraire émises pour réaliser une augmentation de capital.
 
-8.2.8.sec=La collectivité des Associés qui décide l'augmentation de capital peut supprimer ce droit préférentiel de souscription, totalement ou partiellement, en faveur d'un ou plusieurs Associés dénommés, dans le respect des conditions prévues par la loi.
+8.1.8.sec=La collectivité des Associés qui décide l'augmentation de capital peut supprimer ce droit préférentiel de souscription, totalement ou partiellement, en faveur d'un ou plusieurs Associés dénommés, dans le respect des conditions prévues par la loi.
 
-8.2.9.sec=En outre, chaque Associé peut, sous certaines conditions, renoncer individuellement à ce droit préférentiel de souscription.
+8.1.9.sec=En outre, chaque Associé peut, sous certaines conditions, renoncer individuellement à ce droit préférentiel de souscription.
 
-8.2.10.sec=Le droit à l'attribution d'actions nouvelles, à la suite de l'incorporation au capital de réserves, bénéfices ou primes d'émission appartient au nu-propriétaire, sous réserve des droits de l'usufruitier.
+8.1.10.sec=Le droit à l'attribution d'actions nouvelles, à la suite de l'incorporation au capital de réserves, bénéfices ou primes d'émission appartient au nu-propriétaire, sous réserve des droits de l'usufruitier.
 
-8.2.=[Z/paras/s10]
+8.1.=[Z/paras/s10]
 
-8.3.sec=II - La collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires peut aussi décider ou autoriser la réduction du capital social pour telle cause et de telle manière que ce soit, notamment pour cause de pertes ou par voie de remboursement ou de rachat partiels des actions, de réduction de leur nombre ou de leur valeur nominale, le tout dans les limites et sous les réserves fixées par la loi et, en aucun cas, la réduction de capital ne peut porter atteinte à l'égalité des Associés.
+8.2.sec=La collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires peut aussi décider ou autoriser la réduction du capital social pour telle cause et de telle manière que ce soit, notamment pour cause de pertes ou par voie de remboursement ou de rachat partiels des actions, de réduction de leur nombre ou de leur valeur nominale, le tout dans les limites et sous les réserves fixées par la loi et, en aucun cas, la réduction de capital ne peut porter atteinte à l'égalité des Associés.
 
-8.4.sec=III - La collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires peut également décider d'amortir tout ou partie du capital social et substituer aux actions de capital des actions de jouissance partiellement ou totalement amorties, le tout en application des articles L. 225-198 et suivants du Code de commerce.
+8.3.sec=La collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires peut également décider d'amortir tout ou partie du capital social et substituer aux actions de capital des actions de jouissance partiellement ou totalement amorties, le tout en application des articles L. 225-198 et suivants du Code de commerce.
 
-8.5.sec=IV - Enfin, la collectivité des Associés décidant l'augmentation ou la réduction du capital peut déléguer au Président les pouvoirs nécessaires à l'effet de la réaliser.<br><br>
+8.4.sec=Enfin, la collectivité des Associés décidant l'augmentation ou la réduction du capital peut déléguer au Président les pouvoirs nécessaires à l'effet de la réaliser.<br><br>
 
-8.=[Z/ol/s5]
+8.=[Z/ol-I/s4]
 
 9.Ti=ARTICLE 9 - LIBERATION DES ACTIONS<br>
 
