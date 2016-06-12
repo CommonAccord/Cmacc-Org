@@ -1,4 +1,4 @@
-Titre=CONTRAT DE TRAVAIL A DUREE DETERMINEE
+Doc.Title=CONTRAT DE TRAVAIL A DUREE DETERMINEE
 
 Note=**IL A ETE CONVENU CE QUI SUIT :**
 
@@ -256,8 +256,6 @@ Signatures précédées de la mention manuscrite «Lu et approuvé»
 Intro.P2.sec={Intro.P2i.sec}
 
 =[Z/Agt/FR/0.md]
-
-/=[Z/FR/Agt/Accord.md]
 
 =[Z/ol-none/15]
 

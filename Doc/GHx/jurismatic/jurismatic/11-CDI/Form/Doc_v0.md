@@ -1,14 +1,14 @@
 Doc.Title=CONTRAT DE TRAVAIL A DUREE INDETERMINEE
 
-Intro.P2.1.sec=Monsieur ou Madame {Nom et prénom}
+P2.1.sec=Monsieur ou Madame {Nom et prénom}
 
-Intro.P2.2.sec=Né(e) le {date de naissance} à {lieu de naissance}
+P2.2.sec=Né(e) le {date de naissance} à {lieu de naissance}
 
-Intro.P2.3.sec=De nationalité {nationalité}
+P2.3.sec=De nationalité {nationalité}
 
-Intro.P2.4.sec=Exerçant la profession de {profession}
+P2.4.sec=Exerçant la profession de {profession}
 
-Intro.P2.5.sec=Demeurant {adresse du domicile}
+P2.5.sec=Demeurant {adresse du domicile}
 
 1.Ti=Engagement
 
@@ -245,7 +245,7 @@ Intro.P2.5.sec=Demeurant {adresse du domicile}
 
 15.=[Z/ol/s2]
 
-=[Z/FR/Agt/Accord.md]
+=[Z/Agt/FR/0.md]
 
 =[Z/ol/15]
 
