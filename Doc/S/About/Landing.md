@@ -10,9 +10,11 @@ Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td><td valign=
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec=<b>Overview:</b><ul><li>{Slack.sec}<li>{CmAQuick.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec=<b>Overview:</b><ul><li>{Slack.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CCL.Link} 
+
+CmAbqc.sec=One proposed implementation of CommonAccord is a universal bank account that would allow people to manage in a portable account all types of transactions rather than just payments. Examples of how it would look like can be found here: {Bqc.Link}
 
 Conference.sec=We are co-organizing a conference at MIT Media Lab - May 23-24: <a href="https://docs.google.com/document/d/1nG78OfVcCfI_WtxpLlz5Y_8wyTaksGl9jKGCKz0aSxo/edit#">Conference Program</a>
 
@@ -55,6 +57,8 @@ PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance)
 MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Conference</a>
 
 CCL.Link=<a href="index.php?action=doc&file=S/About/CCL/0.md">Center for Collaborative Law</a>  
+
+Bqc.Link=<a href="http://www.commonaccord.org/index.php?action=list&file=/bqc/fr/bnpp/a5we/">Universal bank account</a>
 
 DemoDocName=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md
 
