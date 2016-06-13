@@ -14,7 +14,7 @@ Introduction.sec=<b>Overview:</b><ul><li>{Slack.sec}<li>{CmAQuick.sec}<li>{CmAbq
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CCL.Link} 
 
-CmAbqc.sec=One proposed implementation of CommonAccord is a universal bank account that would allow people to manage in a portable account all types of transactions rather than just payments. Examples of how it would look like can be found here: {Bqc.Link}
+CmAbqc.sec=One proposed implementation of CommonAccord is a universal bank account that would allow people to manage in a portable account all types of transactions rather than just payments. Examples of how it would look like can be found here: {Bqc.Link}. An interview explaining the concept can be found here (in French - minute 24.21): {BfmPodcast.Link}.
 
 Conference.sec=We are co-organizing a conference at MIT Media Lab - May 23-24: <a href="https://docs.google.com/document/d/1nG78OfVcCfI_WtxpLlz5Y_8wyTaksGl9jKGCKz0aSxo/edit#">Conference Program</a>
 
@@ -59,6 +59,8 @@ MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.
 CCL.Link=<a href="index.php?action=doc&file=S/About/CCL/0.md">Center for Collaborative Law</a>  
 
 Bqc.Link=<a href="http://www.commonaccord.org/index.php?action=list&file=/bqc/fr/bnpp/a5we/">Universal bank account</a>
+
+BfmPodcast.Link=<a href="http://bfmbusiness.bfmtv.com/mediaplayer/audio/bfm-1106-atelier-numerique-16h-17h-340233.html">Interview BFM</a>
 
 DemoDocName=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md
 
