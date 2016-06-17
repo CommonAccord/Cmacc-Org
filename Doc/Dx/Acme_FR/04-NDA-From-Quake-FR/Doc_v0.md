@@ -6,9 +6,9 @@ P2.Sign.Titre.son/sa=sa {P2.Sign.Titre}
 
 P2.Sign.Titre=Présidente
 
-P1.Handle={d-}Partie Divulgatrice{-d}
+P1.Handle=Partie Divulgatrice
 
-P2.Handle={d-}Partie Destinataire{-d}
+P2.Handle=Partie Destinataire
 
 Accord.Sign.Date=18 juin 2015
 
