@@ -2,7 +2,11 @@
 
 =[U/at/US/CA/San_Mateo/Menlo_Park/Geo]
 
-<b>Quake Info</b>
+Register.=[U/at/US/DE/New_Castle/Wilmington/Geo]
+
+Register.EntityType.a=a {entity}
+
+Register.RegistrationNumber=34567876543
 
 Name.Full=Quake Inc.
 
@@ -33,8 +37,12 @@ Notice.Name,Title={President.Name.Full}, {President.Title}
 
 SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
 
-Sign.Name.Full={President.ID.Name.Full}
+Sign.Name.Full={President.Name.Full}
 
 Sign.Title={President.Title}
+
+Signer.Name.Full={President.Name.Full}
+
+Signer.Title={President.Title}
 
 Email=Kendall@quake.com
