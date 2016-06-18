@@ -2,6 +2,8 @@
 
 =[U/at/US/MA/Suffolk/Boston/State_Street/75/Geo]
 
+Register.=[U/at/US/DE/New_Castle/Wilmington/Geo]
+
 Register.Agent.=[U/id/the_corporation_company]
 
 Atty.=[U/id/andrews_and_applegate_pllc]
@@ -14,13 +16,7 @@ Email=info@acme.com
 
 Register.EntityType.a=a {entity}
 
-Register.JurisdictionName=Delaware
-
 Register.RegistrationNumber=12345654321
-
-Register.State=Delaware
-
-Register.Law.Corp.Title=Delaware General Corporation Law
 
 Phone=617.716.4536
 
@@ -34,7 +30,11 @@ Notice.Name.Ms={President.Name.Full}, {President.Title}
 
 SignBy=By: <u>{xSignature}</u><br>Name: {Sign.Name.Full}<br>Its: {Sign.Title}
 
+Signer.=[U/id/andrea_ang]
+
 Sign.=[U/id/andrea_ang]
+
+Signer.Title=President
 
 Sign.Title=President
 
