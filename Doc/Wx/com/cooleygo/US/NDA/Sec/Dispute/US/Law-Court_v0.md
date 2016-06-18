@@ -1,8 +1,8 @@
 Ti=Dispute Resolution
 
-Law.=[Wx/com/cooleygo/US/NDA/Sec/Dispute_USLaw_v01.md]
+Law.=[Wx/com/cooleygo/US/NDA/Sec/Dispute/US/Law/0.md]
 
-Forum.=[Wx/com/cooleygo/US/NDA/Sec/Dispute_USCourt_v01.md]
+Forum.=[Wx/com/cooleygo/US/NDA/Sec/Dispute/US/Court/0.md]
 
 1.Sec={Law.Sec}
 
