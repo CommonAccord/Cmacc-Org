@@ -12,7 +12,11 @@ www=acme.com
 
 Email=info@acme.com
 
-entity=Delaware corporation
+Register.EntityType.a=a {entity}
+
+Register.JurisdictionName=Delaware
+
+Register.RegistrationNumber=12345654321
 
 Register.State=Delaware
 
@@ -23,6 +27,8 @@ Phone=617.716.4536
 Fax=617.345.1234
 
 Addr.Type=principal business
+
+entity=Delaware corporation
 
 Notice.Name.Ms={President.Name.Full}, {President.Title}
 

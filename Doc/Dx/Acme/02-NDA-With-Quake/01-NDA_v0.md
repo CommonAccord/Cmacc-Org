@@ -8,11 +8,11 @@ Recite.secs={P1.Handle} and {P2.Handle} wish to explore a possible business rela
 
 Conf.Engage.Access.Sec={Conf.Engage.Access.Alt3.Sec}
 
-Conf.Term.Sec={Conf.Term.Alt2.Sec}
+Conf.Life.Sec={Conf.Life.Alt2.Sec}
 
 Confidentiality.End.YMD=December 31, 2020
 
-Term.End.YMD=December 31, 2016
+Life.End.YMD=December 31, 2016
 
 NoticePeriod.TimeSpan=10 days
 
