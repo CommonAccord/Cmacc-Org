@@ -2,7 +2,7 @@ entity=legal person
 
 entity.a=a {entity}
 
-Among.ID.sec={Among.ID.Alt2.sec}
+Among.Block={Among.Alt2.Block}
 
 For French:
 
