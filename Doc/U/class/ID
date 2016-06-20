@@ -4,7 +4,7 @@ Nom-Plein={Name.Full}
 
 Adr-1,2,3={Addr.1,2}, {Addr.Nation}
 
-Sign.Bloc=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"><tr><td><strong>{Name.Full}</strong></td></tr><tr><td>({Sign.Handle})</td></tr><tr><td>{SignBy.FR}</td></tr><tr><td>{SignDated.FR}</td></tr><tr><td>{Addr.1/2}</td></tr.></table>
+Sign.Bloc=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"><tr><td><strong>{Name.Full}</strong></td></tr><tr><td>({Signer.Handle})</td></tr><tr><td>{SignBy.FR}</td></tr><tr><td>{SignDated.FR}</td></tr><tr><td>{Addr.1/2}</td></tr.></table>
 
 N,E,A={Name.Full}, {entity.a} whose {Addr.Type} address is {Addr.1,2}
 
@@ -45,9 +45,7 @@ Contact.Block=Contact {Handle}:<br>{Addr.N/1/2}<br>Attention: {Notice.Name,Title
 
 Notice.Name,Title={Notice.Name.Full}, {Notice.Title}
 
-Sign.Block=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"><tr><td><strong>{Name.Full}</strong></td></tr><tr><td>({Sign.Handle})</td></tr><tr><td>{SignBy}</td></tr><tr><td>{SignDated}</td></tr><tr><td>{Addr.1/2}</td></tr.></table>
-
-Sign.Handle="{Handle}"
+Sign.Block=<table border="0" cellpadding="1" cellspacing="1" style="width:300px"><tr><td><strong>{Name.Full}</strong></td></tr><tr><td>({Handle})</td></tr><tr><td>{SignBy}</td></tr><tr><td>{SignDated}</td></tr><tr><td>{Addr.1/2}</td></tr.></table>
 
 SignDated=Date: {Sign.YMD}
 

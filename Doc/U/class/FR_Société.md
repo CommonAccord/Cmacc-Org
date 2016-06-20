@@ -2,6 +2,8 @@ Model.Root=<ol><li>{Champs.Base}<li>FormeJuridique : {FormeJuridique}<li>Capital
 
 Partie.=[Z/FR/Agt/Partie_Morale_Bloc.md]
 
+Among.Block={Among.Alt2.Block}
+
 Sign.Bloc=<table><tr><td><b>{Nom}</b></td></tr><tr><td>par : {Dirigeant1.xSignature}<br><br>{Dirigeant1.Nom}, son {Dirigeant1.Titre}</td></tr><tr><td>Date : {Sign.Date}</td></tr></table>
   
 Name.Full={Nom} {Entity}
@@ -27,5 +29,7 @@ Addr.Zip={Adresse.CP}
 Addr.City={Adresse.Ville}
 
 Addr.Nation={Adresse.3}
+
+SignBy.FR=Par : <u>{xSignature}</u><br/>Nom : {Signer.Name.Full}<br/>Titre : {Signer.Title}
 
 =[U/class/FR_ID.md]

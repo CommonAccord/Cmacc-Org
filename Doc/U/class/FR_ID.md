@@ -36,5 +36,4 @@ Addr.ST=</i>
 
 Addr.Zip={Adresse.CP}
 
-
 =[U/class/ID]

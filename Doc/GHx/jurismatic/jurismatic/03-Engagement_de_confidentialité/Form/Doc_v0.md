@@ -1,6 +1,6 @@
-Doc.Title=ACCORD DE CONFIDENTIALITE
+Doc.Ti=ACCORD DE CONFIDENTIALITE
 
-Que.secs={Que.Cadre}<br>{Que.Conditions}
+Why.secs={Que.Cadre}<br>{Que.Conditions}
 
 Que.Cadre=Dans le cadre de {décrire_opération} (ci-après dénommée l' « Opération »), la Partie Divulgatrice s'apprête à fournir à la Partie Destinataire de nombreuses informations concernant {type_informations}. Ces informations ont un caractère confidentiel que la Partie Divulgatrice entend protéger.
 
@@ -26,8 +26,6 @@ Que.Conditions=La Partie Divulgatrice désire donc arrêter avec la Partie Desti
 
 4.=[Z/ol/s5]
 
-4.xlist={4.ulist}
-
 5.0.sec=Cette obligation ne s'étend pas aux documents et informations :
 
 5.1.sec=dont la Partie Destinataire avait déjà connaissance ;
@@ -39,8 +37,6 @@ Que.Conditions=La Partie Divulgatrice désire donc arrêter avec la Partie Desti
 5.4.sec=dont la communication serait exigée par les autorités judiciaires, en application des lois et règlements ou en vue d'établir les droits d'une Partie au titre du présent accord.
 
 5.=[Z/ol/s4]
-
-5.xlist={5.ulist}
 
 6.sec=Après la fin des discussions, la Partie Destinataire s'engage, sur la demande de la Partie Divulgatrice, à lui restituer et/ou à détruire tous les documents et/ou fichiers informatiques et/ou éléments de quelque nature que ce soit contenant ou constituant des Informations Confidentielles et à ne pas en conserver de copie.
 
@@ -54,12 +50,9 @@ Que.Conditions=La Partie Divulgatrice désire donc arrêter avec la Partie Desti
 
 11.sec=Le présent accord est soumis au droit français. Tout différend entre les Parties relatif à la validité, l'interprétation ou l'exécution de celui-ci sera soumis à la compétence exclusive {Litige.Tribunal.du} sauf règles impératives contraires.
 
-
 Litige.Tribunal.du=du Tribunal de Commerce de {Litige.TdC.Ville}
 
 =[Z/Agt/FR/0.md]
-
-Sec={sec}
 
 =[Z/ol/s11]
 
