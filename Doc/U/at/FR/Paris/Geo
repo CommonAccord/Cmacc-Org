@@ -2,8 +2,8 @@
 
 Adr.Ville=Paris
 
-Addr.City={Adr.Ville}
+Adr.City={Adr.Ville}
 
-Addr.County={Adr.Departement}
+Adr.County={Adr.Departement}
 
 Adr.Departement=Ile de France		

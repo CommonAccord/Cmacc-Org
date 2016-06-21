@@ -10,7 +10,7 @@ Doc.Title=CLÁUSULAS CONTRACTUALES TIPO («ENCARGADOS DEL TRATAMIENTO»)
 
 Exporter.1.sec=Nombre de la entidad exportadora de los datos: <b>{Exporter.Name.Full}</b>
 
-Exporter.2.sec=Dirección: <b>{Exporter.Addr.1,2}</b>
+Exporter.2.sec=Dirección: <b>{Exporter.Adr.1,2}</b>
 
 
 Exporter.3.sec=Tel.<b>{Exporter.Phone}</b>;
@@ -30,7 +30,7 @@ Exporter.7.sec=(en lo sucesivo, el exportador de datos)
 
 Importer.1.sec=Nombre de la entidad importadora de los datos: <b>{Importer.Name.Full}</b>
 
-Importer.2.sec=Dirección: <b>{Importer.Addr.1,2}</b>
+Importer.2.sec=Dirección: <b>{Importer.Adr.1,2}</b>
 
 Importer.3.sec=Tel.<b>{Importer.Phone}</b>;
 
@@ -221,7 +221,7 @@ Exporter.Sign.1.sec=Nombre (completo): {Exporter.Sign.Name.Full}
 
 Exporter.Sign.2.sec=Cargo: {Exporter.Sign.Title}
 
-Exporter.Sign.3.sec=Dirección: {Exporter.Sign.Addr.1,2}
+Exporter.Sign.3.sec=Dirección: {Exporter.Sign.Adr.1,2}
 
 Exporter.Sign.4.sec=Otros datos necesarios con vistas a la obligatoriedad del contrato (en caso de existir): Exporter.Sign.ValidatingInformation}
 
@@ -235,7 +235,7 @@ Importer.Sign.1.sec=Nombre (completo): {Importer.Sign.Name.Full}
 
 Importer.Sign.2.sec=Cargo: {Importer.Sign.Title}
 
-Importer.Sign.3.sec=Dirección: {Importer.Sign.Addr.1,2}
+Importer.Sign.3.sec=Dirección: {Importer.Sign.Adr.1,2}
 
 Importer.Sign.4.sec=Otros datos necesarios con vistas a la obligatoriedad del contrato (en caso de existir): Importer.Sign.ValidatingInformation}
 

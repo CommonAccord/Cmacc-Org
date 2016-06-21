@@ -4,7 +4,7 @@ Name.Last=Dangeard
 
 Name.Full={Name.First} {Name.Last}
 
-Addr.Type=residential
+Adr.Type=residential
 
 Adr.Rue.#=9999
 
@@ -14,7 +14,7 @@ Adr.Zip=75757
 
 Twitter.Followers=1,865
 
-Addr.2={Adr.Zip} {Adr.Ville}
+Adr.2={Adr.Zip} {Adr.Ville}
 
 =[U/class/ID_He]
 

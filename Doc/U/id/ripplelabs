@@ -4,13 +4,13 @@
 
 Name.Full=Ripple Labs
 
-Addr.Street.#=118
+Adr.Street.#=118
 
-Addr.Street=Second Street
+Adr.Street=Second Street
 
-Addr.Zip=94105
+Adr.Zip=94105
 
-Addr.Type=official
+Adr.Type=official
 
 entity=corporation
 

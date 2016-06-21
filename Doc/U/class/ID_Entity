@@ -8,9 +8,9 @@ For French:
 
 Forme=un {entity}
 
-Addr.Type=business
+Adr.Type=business
 
-Model.Root={Addr.Table}<br>{Pronoun.List}
+Model.Root={Adr.Table}<br>{Pronoun.List}
 
 SignBy=By: <u>{xSignature}</u><br/>Name: {Sign.Name.Full}<br/>Its: {Sign.Title}
 

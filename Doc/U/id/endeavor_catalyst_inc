@@ -6,10 +6,10 @@ Name.Full=Endeavor Catalyst, Inc.
 
 Entity.a=a Delaware corporation
 
-Addr.Type=business
+Adr.Type=business
 
-Addr.1=900 Broadway, Suite 301
+Adr.1=900 Broadway, Suite 301
 
-Addr.Zip=10003
+Adr.Zip=10003
 
 PageName=U/id/fabulous_express_inc

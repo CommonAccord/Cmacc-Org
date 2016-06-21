@@ -10,15 +10,15 @@ Email=info@acme.de
 
 Entity=German Gesellschaft mit beschränkter Haftung
 
-Addr.Street.#=1
+Adr.Street.#=1
 
-Addr.Street=Unter Strasse
+Adr.Street=Unter Strasse
 
-Addr.Zip=14199
+Adr.Zip=14199
 
 NOTE=Kludge until we get addresses sorted out.
 
-Addr.ST=</i>
+Adr.ST=</i>
 
 Seal=//ACME Deutschland GmbH//
 
@@ -28,7 +28,7 @@ Phone=49.617.716.4536
 
 Fax=49.617.345.1234
 
-Addr.Type=principal business
+Adr.Type=principal business
 
 Sign.=[U/id/priscilla_ang]
 

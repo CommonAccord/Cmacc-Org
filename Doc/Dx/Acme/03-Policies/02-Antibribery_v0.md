@@ -22,6 +22,6 @@ Compliance.Link=<b>{P1.www}/Compliance</b>
 
 Compliance.Email=<b>compliance@{P1.www}</b>
 
-Compliance.Name,Address=<b>{P1.President.Name.Full}, {P1.Addr.1,2}</b>
+Compliance.Name,Address=<b>{P1.President.Name.Full}, {P1.Adr.1,2}</b>
 
 =[Wx/com/foley/GRS/FCPAPolicy/Form/Doc_v02.md]

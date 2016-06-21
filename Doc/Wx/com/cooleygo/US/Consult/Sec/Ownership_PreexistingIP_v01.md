@@ -2,7 +2,7 @@ Ti={Preexisting_IP}
 
 1.Ti=No Use of {Preexisting_IP}
 
-1.sec={The_Consultant} agrees not to use or incorporate into any {Work_Product} any intellectual property developed by any third party or by {the_Consultant} other than in the course of performing services for {the_Client} ("{Preexisting_IP}").
+1.sec={_The_Consultant} agrees not to use or incorporate into any {Work_Product} any intellectual property developed by any third party or by {the_Consultant} other than in the course of performing services for {the_Client} ("{Preexisting_IP}").
 
 2.Ti=License for {Preexisting_IP}
 
@@ -10,7 +10,7 @@ Ti={Preexisting_IP}
 
 3.Ti=Right to License {Preexisting_IP}
 
-3.sec={The_Consultant} represents and warrants that {the_Consultant} has an unqualified right to license to {the_Client} all {Preexisting_IP} as provided in this section.
+3.sec={_The_Consultant} represents and warrants that {the_Consultant} has an unqualified right to license to {the_Client} all {Preexisting_IP} as provided in this section.
 
 4.Ti=No Open Source Code
 

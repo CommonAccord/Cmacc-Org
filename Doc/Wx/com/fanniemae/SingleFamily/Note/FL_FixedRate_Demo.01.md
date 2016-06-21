@@ -20,7 +20,7 @@ Loan.Principal.D$=Two-Hundred Thousand Dollars ($200,000)
 
 Lender.Name.Full=First Bank Florida-Hialeah
 
-Lender.Addr.1,2=1325 W 49th St, Hialeah, FL 33012
+Lender.Adr.1,2=1325 W 49th St, Hialeah, FL 33012
 
 Loan.Interest.Rate.%=Six and Four-Tenths Percent (6.4%)
 
@@ -56,6 +56,6 @@ Lender.Org.Juris=Florida
 
 Property.Description=a single family house with three bedrooms and a carport, on one-quarter acre of land
 
-Property.Addr.1,2={Home.Address}
+Property.Adr.1,2={Home.Address}
 
-Lender.Identity.Full={Lender.Name.Full}, {Lender.Addr.1,2}
+Lender.Identity.Full={Lender.Name.Full}, {Lender.Adr.1,2}

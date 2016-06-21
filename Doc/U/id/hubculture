@@ -4,13 +4,13 @@
 
 Name.Full=Hub Culture Services
 
-Addr.Street.#=16
+Adr.Street.#=16
 
-Addr.Street=Great Marlborough Street
+Adr.Street=Great Marlborough Street
 
-Addr.Zip=W1F 7HS
+Adr.Zip=W1F 7HS
 
-Addr.Type=official
+Adr.Type=official
 
 entity=UK limited liability company
 

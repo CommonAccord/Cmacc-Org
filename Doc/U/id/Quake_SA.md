@@ -28,6 +28,6 @@ Dirigeant1.Titre=Président
 
 entity.a=a French {FormeJuridique}
 
-Addr.Type=registered
+Adr.Type=registered
 
 =[U/class/FR_Société.md]

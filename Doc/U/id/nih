@@ -8,11 +8,11 @@ Notice.Title=Administrator
 
 Name.Full=National Institutes of Health
 
-Addr.1=9000 Rockville Pike
+Adr.1=9000 Rockville Pike
 
-Addr.Zip=20892
+Adr.Zip=20892
 
-Addr.Type=official
+Adr.Type=official
 
 entity=public agency
 

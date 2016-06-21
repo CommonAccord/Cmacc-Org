@@ -2,11 +2,11 @@
 
 =[U/at/US/CA/San_Francisco/San_Francisco/Geo]
 
-Addr.1=1101 Mission Street
+Adr.1=1101 Mission Street
 
-Addr.Zip=94103
+Adr.Zip=94103
 
-Addr.Type=business
+Adr.Type=business
 
 Name.First=Samuel
 

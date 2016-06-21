@@ -1,12 +1,12 @@
 Name.Full=BNP Paribas
 
-Addr.1=16, bd des Italiens
+Adr.1=16, bd des Italiens
 
-Addr.2={Addr.Zip} {Addr.City}
+Adr.2={Adr.Zip} {Adr.City}
 
-Addr.Zip=75009
+Adr.Zip=75009
 
-Addr.City=Paris
+Adr.City=Paris
 
 ID.Number.#=01201230
 

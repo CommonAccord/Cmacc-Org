@@ -4,7 +4,7 @@ Head.sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 2.sec=The purpose of this corporation is to engage in any lawful act or activity for which corporations may be organized under the General Corporation Law of Delaware.
 
-3.sec=The address of the Corporation's registered office in the State of Delaware is {Co.Register.Agent.Addr.1,2}. The name of the registered agent at such address is {Co.Register.Agent.Name.Full}.
+3.sec=The address of the Corporation's registered office in the State of Delaware is {Co.Register.Agent.Adr.1,2}. The name of the registered agent at such address is {Co.Register.Agent.Name.Full}.
 
 4.sec=The total number of shares of stock that the corporation shall have authority to issue is {Cap.Auth.Number} ({Cap.Auth.#}), consisting of {Cap.Common.Auth.Number} ({Cap.Common.Auth.#}) shares of Common Stock, ${Cap.Common.Par.$} par value per share, and {Cap.Pref.Auth.Number} ({Cap.Pref.Auth.#}) shares of Preferred Stock, ${Cap.Pref.Par.$} par value per share. The first Series of Preferred Stock shall be designated "<strong>Series AA Preferred Stock</strong>" and shall consist of {Cap.AA.Auth.Number} ({Cap.AA.Auth.#}) shares.
 

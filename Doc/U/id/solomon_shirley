@@ -2,11 +2,11 @@ Name.Last=Shirley
 
 Name.First=Solomon
 
-Addr.Type=business
+Adr.Type=business
 
-Addr.1=100 Madison Street
+Adr.1=100 Madison Street
 
-Addr.Zip=02144
+Adr.Zip=02144
 
 Phone=617.671.7617
 

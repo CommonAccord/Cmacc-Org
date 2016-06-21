@@ -1,12 +1,12 @@
 Ti=</i>
 
-0.1.sec={Clinic.Addr.1/2}
+0.1.sec={Clinic.Adr.1/2}
 
 0.2.sec={Clinic.Phone}<br><br>
 
 0.3.sec={LetterDate.YMD}<br><br>
 
-0.4.sec={Client.Name.Full}<br>{Client.Addr.1/2}
+0.4.sec={Client.Name.Full}<br>{Client.Adr.1/2}
 
 0.5.sec=RE: {Corp.Name.Full} 
 

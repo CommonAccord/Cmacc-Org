@@ -62,7 +62,7 @@ Ti=When it comes to your health information, you have certain rights.
 
 8.1.sec=You can complain if you feel we have violated your rights by contacting us using {P1.Privacy.Email} or by calling {212-746-1644}.
 
-8.2.sec=You can file a complaint with the {P91.Name.Full} by sending a letter to {P91.Addr.1,2}, calling {P91.Phone}, or by visiting the following website {P91.Domain.Com/Complaints}
+8.2.sec=You can file a complaint with the {P91.Name.Full} by sending a letter to {P91.Adr.1,2}, calling {P91.Phone}, or by visiting the following website {P91.Domain.Com/Complaints}
 
 8.3.sec=We will not retaliate against you for filing a complaint
 

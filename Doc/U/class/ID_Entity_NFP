@@ -4,4 +4,4 @@ entity=not-for-profit organization
 
 entity.a=a {entity}
 
-Addr.Type=official
+Adr.Type=official

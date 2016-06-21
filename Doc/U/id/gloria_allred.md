@@ -6,13 +6,13 @@ Name.M=R
 
 Firm=The Pro Bono Project
 
-Addr.1=615 Baronne Street, Suite 201
+Adr.1=615 Baronne Street, Suite 201
 
-Addr.City=New Orleans
+Adr.City=New Orleans
 
-Addr.ST=LA
+Adr.ST=LA
 
-Addr.Zip=70113
+Adr.Zip=70113
 
 Phone=(504) 581-5043
 

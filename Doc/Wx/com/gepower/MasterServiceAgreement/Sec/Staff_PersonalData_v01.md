@@ -9,7 +9,7 @@ Ti={Personal_Data} received from {Supplier}
 4.0.sec=If any laws or regulations require that any of {Supplier's_Personnel} whose {Personal_Data} is entered into the {CWD} or other {Company} databases receive notice of or consent to such processing of his/her {Personal_Data}, then {Supplier}:
 
 4.1.sec=shall provide notice to and obtain consent from such {Supplier's_Personnel};
-4.2.sec=upon {Company}'s request, shall provide {Company} with a copy of such notice and consent to Contingent Worker Database Administrator; {CWD.Addr.1,2}.
+4.2.sec=upon {Company}'s request, shall provide {Company} with a copy of such notice and consent to Contingent Worker Database Administrator; {CWD.Adr.1,2}.
 
 4.00.sec=By way of example only, an Example Personal Data Notice and Consent Form is attached hereto as {Agt.Exh.D}.
 

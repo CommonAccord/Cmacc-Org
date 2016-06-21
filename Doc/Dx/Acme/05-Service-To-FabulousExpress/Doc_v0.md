@@ -14,7 +14,7 @@ CWD.Full=<b>Employee Registration Database</b>
 
 email.CWD.com=<b>contact@employee-registration-services.com</b>
 
-CWD.Addr.1,2=<b>111 Main Street, Madison, WI 66666</b>
+CWD.Adr.1,2=<b>111 Main Street, Madison, WI 66666</b>
 
 Payment.DueAfter.Days=<b>30</b>
 

@@ -4,7 +4,7 @@ Exporter.Sign.=[U/id/andrea_ang]
 
 Exporter.Sign.Title=Manager
 
-Exporter.Sign.Addr.1,2={Exporter.Addr.1,2}
+Exporter.Sign.Adr.1,2={Exporter.Adr.1,2}
 
 Exporter.OtherInformationToIdentify=N/A
 

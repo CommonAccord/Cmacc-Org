@@ -16,7 +16,7 @@ Deliverables=<font color="green">Deliverables</font>
 
 Disclosing_Party={Client}
 
-The_Disclosing_Party={The_Client}
+The_Disclosing_Party={_The_Client}
 
 the_Disclosing_Party={the_Client}
 
@@ -32,7 +32,7 @@ Project_Assignments=<font color="green">Project Assignments</font>
 
 Receiving_Party={Consultant}
 
-The_Receiving_Party={The_Consultant}
+The_Receiving_Party={_The_Consultant}
 
 the_Receiving_Party={the_Consultant}
 

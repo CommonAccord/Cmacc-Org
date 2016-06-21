@@ -2,13 +2,13 @@
 
 =[U/at/US/CA/Santa_Clara/Mountain_View/Geo]			
 
-Addr.1=1600 Amphitheatre Parkway
+Adr.1=1600 Amphitheatre Parkway
 
-Addr.Zip=94043
+Adr.Zip=94043
 
 Name.Full=Google, Inc.
 
-Addr.Type=corporate
+Adr.Type=corporate
 
 entity=Delaware corporation
 

@@ -8,7 +8,7 @@ Note.Date=<b>March 6, 2014</b>
 
 Note.Sign.Place=<b>Miami, Florida</b>
 
-Home.Address=<b>2022 NW 48th Street, Miami, FL 33142</b>
+Home.Adr.ss=<b>2022 NW 48th Street, Miami, FL 33142</b>
 
 Loan.Principal.D$=<b>Three-Hundred Thousand Dollars ($300,000)</b>
 

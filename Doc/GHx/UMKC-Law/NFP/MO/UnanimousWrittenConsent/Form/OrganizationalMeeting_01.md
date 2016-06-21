@@ -1,10 +1,10 @@
 Doc.Title=UNANIMOUS WRITTEN CONSENT IN LIEU OF THE ORGANIZATIONAL MEETING OF THE FIRST BOARD OF DIRECTORS OF {Corp.Name.Full}
 
-0.sec=In lieu of the organizational meeting of the first Board of Directors of {Corp.Name.Full}, a {Corp.Addr.State} non-profit corporation (hereinafter referred to as the “Corporation”), the undersigned, being all of the Directors of said Corporation, acting pursuant to the {State.NFPCorporationCode}, hereby consent to and adopt the following resolutions:
+0.sec=In lieu of the organizational meeting of the first Board of Directors of {Corp.Name.Full}, a {Corp.Adr.State} non-profit corporation (hereinafter referred to as the “Corporation”), the undersigned, being all of the Directors of said Corporation, acting pursuant to the {State.NFPCorporationCode}, hereby consent to and adopt the following resolutions:
 
 1.sec=RESOLVED, that the following individuals hereby accept appointment as the initial Directors of the Corporation.
 
-2.sec=FURTHER RESOLVED, that a copy of the Certificate of Incorporation of the Corporation, once received from the {Corp.Addr.State} Secretary of State, be filed in the minute book of the Corporation.
+2.sec=FURTHER RESOLVED, that a copy of the Certificate of Incorporation of the Corporation, once received from the {Corp.Adr.State} Secretary of State, be filed in the minute book of the Corporation.
 
 3.sec=FURTHER RESOLVED, that the Board of Directors approve, in the form dated {ByLaws.EffectiveDate.YMD}, the Bylaws of the Corporation.
 

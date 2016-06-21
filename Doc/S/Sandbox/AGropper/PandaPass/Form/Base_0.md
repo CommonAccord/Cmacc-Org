@@ -12,11 +12,11 @@ Recite.2.sec={P2.Handle} uses an electronic key system for accessing rooms and o
 
 Recite.3.sec=(Some services incur additional charges.)
 
-Recite.4.sec="{P2.Handle}" means the hotel operated by {P2.Name.Full} situated at {P2.Addr.1,2}.
+Recite.4.sec="{P2.Handle}" means the hotel operated by {P2.Name.Full} situated at {P2.Adr.1,2}.
 
 Recite.5.sec={P1.Handle} wishes to authorize {P3.Handle} to make a delivery directly to {P1.Handle}'s room at any time between {Access.Begin.YMDT} and {Access.End.YMDT}.  
 
-Recite.6.sec={P1.Handle} means {P1.Name.Full} of {P1.Addr.1,2}.
+Recite.6.sec={P1.Handle} means {P1.Name.Full} of {P1.Adr.1,2}.
 
 Recite.7.sec={P3.Handle} wishes to obtain authorization from {P2.Handle} to make a delivery directly to {P1.Handle}'s room.  
 

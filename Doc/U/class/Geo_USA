@@ -1,64 +1,64 @@
-City={Addr.City}
+City={Adr.City}
 
-ST={Addr.ST}
+ST={Adr.ST}
 
-State={Addr.State}
+State={Adr.State}
 
-ST={Addr.ST}
+ST={Adr.ST}
 
-Addr.State.the=the {State/Commonwealth} of {Addr.State}
+Adr.State.the=the {State/Commonwealth} of {Adr.State}
 
 State/Commonwealth=State
 
-Addr.1={Addr.Street.#} {Addr.Street}
+Adr.1={Adr.Street.#} {Adr.Street}
 
-Addr.2={Addr.City}, {Addr.ST}  {Addr.Zip}
+Adr.2={Adr.City}, {Adr.ST}  {Adr.Zip}
 
-Addr.Name={Name.Full}
+Adr.Name={Name.Full}
 
-Addr.1,Suite={Addr.Street.#} {Addr.Street}, {Addr.Suite}
+Adr.1,Suite={Adr.Street.#} {Adr.Street}, {Adr.Suite}
 
-Addr.1,2={Addr.1}, {Addr.2}
+Adr.1,2={Adr.1}, {Adr.2}
 
-Addr.1/2={Addr.1}<br>{Addr.2}
+Adr.1/2={Adr.1}<br>{Adr.2}
 
-Addr.1,2,UK={Addr.1} {Addr.2}, {Addr.UK}
+Adr.1,2,UK={Adr.1} {Adr.2}, {Adr.UK}
 
-Addr.1,2,Nation={Addr.1} {Addr.2}, {Addr.UK}
+Adr.1,2,Nation={Adr.1} {Adr.2}, {Adr.UK}
 
-Addr.1/2/UK={Addr.1}<br>{Addr.2}<br>{Addr.Nation}
+Adr.1/2/UK={Adr.1}<br>{Adr.2}<br>{Adr.Nation}
 
-Addr.1,2,UK,Attn={Addr.1,2,UK}, {Addr.Attn}
+Adr.1,2,UK,Attn={Adr.1,2,UK}, {Adr.Attn}
 
-Addr.1/2/UK/Attn={Addr.1/2/UK}<br>{Addr.Attn}
+Adr.1/2/UK/Attn={Adr.1/2/UK}<br>{Adr.Attn}
 
-Addr.H,1,2={Addr.Host}, {Addr.1,2}
+Adr.H,1,2={Adr.Host}, {Adr.1,2}
 
-Addr.H/1/2={Addr.Host}<br>{Addr.1/2}
+Adr.H/1/2={Adr.Host}<br>{Adr.1/2}
 
-Addr.H,1,2,UK={Addr.Host}, {Addr.1,2,UK}
+Adr.H,1,2,UK={Adr.Host}, {Adr.1,2,UK}
 
-Addr.H/1/2/UK={Addr.Host}<br> {Addr.1/2/UK}
+Adr.H/1/2/UK={Adr.Host}<br> {Adr.1/2/UK}
 
-Addr.N,1,2={Addr.Name}, {Addr.1,2}
+Adr.N,1,2={Adr.Name}, {Adr.1,2}
 
-Addr.N/1/2={Addr.Name}<br>{Addr.1/2}
+Adr.N/1/2={Adr.Name}<br>{Adr.1/2}
 
-Addr.N,1,2,UK={Addr.Name}, {Addr.1,2,UK}
+Adr.N,1,2,UK={Adr.Name}, {Adr.1,2,UK}
 
-Addr.N/1/2/UK={Addr.Name}<br>{Addr.1/2/UK}
+Adr.N/1/2/UK={Adr.Name}<br>{Adr.1/2/UK}
 
-Addr.N,H,1,2,UK={Addr.Name}, {Addr.H,1,2,UK}
+Adr.N,H,1,2,UK={Adr.Name}, {Adr.H,1,2,UK}
 
-Addr.N/H/1/2={Addr.Name}<br>{Addr.H/1/2}
+Adr.N/H/1/2={Adr.Name}<br>{Adr.H/1/2}
 
-Addr.N/H/1/2/UK={Addr.Name}<br>{Addr.H/1/2/UK}
+Adr.N/H/1/2/UK={Adr.Name}<br>{Adr.H/1/2/UK}
 
-Addr.N,H,1,2,UK,Attn={Addr.Name}, {Addr.H,1,2,UK}, {Addr.Attn}
+Adr.N,H,1,2,UK,Attn={Adr.Name}, {Adr.H,1,2,UK}, {Adr.Attn}
 
-Addr.N/H/1/2/UK/Attn={Addr.Name}<br>{Addr.H/1/2/UK}<br>{Addr.Attn}
+Adr.N/H/1/2/UK/Attn={Adr.Name}<br>{Adr.H/1/2/UK}<br>{Adr.Attn}
 
 
 Model.Root={Geo.?}
 
-Geo.?=<ul><li><table><tbody><tr><td><strong>N/H/1/2/UK/Attn:</strong></td><td><span style="background-color:#FFFFE0">{Addr.N/H/1/2/UK/Attn}</span></td></tr></tbody></table></li><li><strong>County:</strong>= <span style="background-color:#FFFFE0">{County}</span></li><li><strong>City:</strong>= <span style="background-color:#FFFFE0">{City}</span></li><li><strong>ST:</strong><span style="background-color:#FFFFE0">{ST}</span></li><li><strong>State:</strong><span style="background-color:#FFFFE0">{State}</span></li><li><strong>Flower:</strong><span style="background-color:#FFFFE0">{Flower}</span></li><li><strong>Zip.List</strong>: <span style="background-color:#FFFFE0">{Addr.Zip.List}</span></li><li><strong>Nation</strong>: <span style="background-color:#FFFFE0">{Nation}</span></li></ul>
+Geo.?=<ul><li><table><tbody><tr><td><strong>N/H/1/2/UK/Attn:</strong></td><td><span style="background-color:#FFFFE0">{Adr.N/H/1/2/UK/Attn}</span></td></tr></tbody></table></li><li><strong>County:</strong>= <span style="background-color:#FFFFE0">{County}</span></li><li><strong>City:</strong>= <span style="background-color:#FFFFE0">{City}</span></li><li><strong>ST:</strong><span style="background-color:#FFFFE0">{ST}</span></li><li><strong>State:</strong><span style="background-color:#FFFFE0">{State}</span></li><li><strong>Flower:</strong><span style="background-color:#FFFFE0">{Flower}</span></li><li><strong>Zip.List</strong>: <span style="background-color:#FFFFE0">{Adr.Zip.List}</span></li><li><strong>Nation</strong>: <span style="background-color:#FFFFE0">{Nation}</span></li></ul>

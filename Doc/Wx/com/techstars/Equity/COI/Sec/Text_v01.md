@@ -2,7 +2,7 @@
 
 1.sec=The name of this company is {Co.Name.Full} (the "Company" or the "Corporation").
 
-2.sec=The address of the registered office of this Corporation in the State of Delaware is {Co.Regist.Addr.1,2}, and the name of the registered agent of this Corporation in the State of Delaware at such address is {Co.Regist.Agent.Name.Full}.
+2.sec=The address of the registered office of this Corporation in the State of Delaware is {Co.Regist.Adr.1,2}, and the name of the registered agent of this Corporation in the State of Delaware at such address is {Co.Regist.Agent.Name.Full}.
 
 3.sec=The purpose of the Company is to engage in any lawful act or activity for which a corporation may be organized under the Delaware General Corporation Law ("DGCL").
 

@@ -4,7 +4,7 @@ Doc.Title=Project Assignment {ProjectAssignment.#} under Consulting Agreement
 
 0.2.sec=PROJECT: {Project.Name}
 
-0.3.sec={The_Consultant} shall render such services as {the_Client} may from time to time request, including, without limiting the generality of the foregoing:
+0.3.sec={_The_Consultant} shall render such services as {the_Client} may from time to time request, including, without limiting the generality of the foregoing:
 
 0.sec={0.1.sec}<br><br>{0.2.sec}<br><br>{0.3.sec}
 
@@ -30,11 +30,11 @@ Doc.Title=Project Assignment {ProjectAssignment.#} under Consulting Agreement
 
 3.Ti=Invoicing
 
-3.sec={The_Consultant} shall invoice {the_Client} monthly for services and expenses and shall provide such reasonable receipts or other documentation of expenses as {the_Client} might request, including copies of time records.
+3.sec={_The_Consultant} shall invoice {the_Client} monthly for services and expenses and shall provide such reasonable receipts or other documentation of expenses as {the_Client} might request, including copies of time records.
 
 4.Ti=Payment 
 
-4.sec=Payment terms are net thirty (30) days from receipt of invoice.  {The_Client} will be invoiced on the first day of each month for services rendered and expenses incurred during the previous month.
+4.sec=Payment terms are net thirty (30) days from receipt of invoice.  {_The_Client} will be invoiced on the first day of each month for services rendered and expenses incurred during the previous month.
 
 5.Ti=Maximum Chargeable
 

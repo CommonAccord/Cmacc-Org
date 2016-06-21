@@ -1,7 +1,7 @@
 Doc.Title=STATEMENT OF SOLE INCORPORATOR OF {Corp.Name.Full}
 
 
-0.sec=The Articles of Incorporation of this Corporation having been filed in the office of the Secretary of State of the State of {Corp.Addr.State}, the undersigned, being the Sole Incorporator named in said Articles, does hereby state that the following actions were taken on this day for the purpose of organizing this nonprofit Corporation:
+0.sec=The Articles of Incorporation of this Corporation having been filed in the office of the Secretary of State of the State of {Corp.Adr.State}, the undersigned, being the Sole Incorporator named in said Articles, does hereby state that the following actions were taken on this day for the purpose of organizing this nonprofit Corporation:
 
 1.0.sec=The following persons were appointed as the initial Directors to hold office until the first Meeting of the Board of Directors or until their respective successors are elected and qualified:
 

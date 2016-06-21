@@ -6,7 +6,7 @@ Doc.Title=STANDARDVERTRAGSKLAUSELN (AUFTRAGSVERARBEITER)
 
 Exporter.1.sec=Bezeichnung der Organisation (Datenexporteur): {Exporter.Name.Full}
 
-Exporter.2.sec=Anschrift: {Exporter.Addr.1,2}
+Exporter.2.sec=Anschrift: {Exporter.Adr.1,2}
 
 Exporter.3.sec=Tel.:  {Exporter.Phone}
 
@@ -22,7 +22,7 @@ Exporter.7.sec=(„Datenexporteur“)
 
 Importer.1.sec=Bezeichnung der Organisation (Datenexporteur): {Importer.Name.Full}
 
-Importer.2.sec=Anschrift: {Importer.Addr.1,2}
+Importer.2.sec=Anschrift: {Importer.Adr.1,2}
 
 Importer.3.sec=Tel.:  {Importer.Phone}
 
@@ -207,7 +207,7 @@ Exporter.Sign.1.sec=Name (ausgeschrieben):{Exporter.Sign.Name.Full}
 
 Exporter.Sign.2.sec=Funktion: {Exporter.Sign.Title}
 
-Exporter.Sign.3.sec=Anschrift: {Exporter.Sign.Addr.1,2}
+Exporter.Sign.3.sec=Anschrift: {Exporter.Sign.Adr.1,2}
 
 Exporter.Sign.4.sec=Gegebenenfalls weitere Angaben, die den Vertrag verbindlich machen: {Exporter.Sign.ValidatingInformation}
 
@@ -223,7 +223,7 @@ Importer.Sign.1.sec=Name (ausgeschrieben):{Importer.Sign.Name.Full}
 
 Importer.Sign.2.sec=Funktion: {Importer.Sign.Title}
 
-Importer.Sign.3.sec=Anschrift: {Importer.Sign.Addr.1,2}
+Importer.Sign.3.sec=Anschrift: {Importer.Sign.Adr.1,2}
 
 Importer.Sign.4.sec=Gegebenenfalls weitere Angaben, die den Vertrag verbindlich machen: {Importer.Sign.ValidatingInformation}
 

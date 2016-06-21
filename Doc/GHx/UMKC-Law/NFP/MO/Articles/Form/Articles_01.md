@@ -18,17 +18,17 @@ Doc.Title=ARTICLES OF INCORPORATION OF<br><span style="text-transform: uppercase
 
 4.Ti=ARTICLE IV  Registered Office and Agent
 
-4.sec=The address of the Corporation’s initial registered office in the State of Missouri is {RegisteredAgent.Addr.1,2}, and the name of the initial registered agent at that address is {RegisteredAgent.Name.Full}.
+4.sec=The address of the Corporation’s initial registered office in the State of Missouri is {RegisteredAgent.Adr.1,2}, and the name of the initial registered agent at that address is {RegisteredAgent.Name.Full}.
 
 5.Ti=ARTICLE V  Incorporator
 
 5.0.sec=The names and addresses of the incorporators of the Corporation are:
 
-5.1.sec={Incorporator1.Name.Full}, {Incorporator1.Addr.1,2} 
+5.1.sec={Incorporator1.Name.Full}, {Incorporator1.Adr.1,2} 
 
-5.2.sec={Incorporator2.Name.Full}, {Incorporator2.Addr.1,2} 
+5.2.sec={Incorporator2.Name.Full}, {Incorporator2.Adr.1,2} 
 
-5.3.sec={Incorporator3.Name.Full}, {Incorporator3.Addr.1,2} 
+5.3.sec={Incorporator3.Name.Full}, {Incorporator3.Adr.1,2} 
 
 5.=[Z/ol-none/s3]
 

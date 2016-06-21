@@ -6,11 +6,11 @@ Name.Full=Agate Health Systems, Incorporated
 
 Entity.a=a Delaware corporation
 
-Addr.Type=business
+Adr.Type=business
 
-Addr.1=100 Gravel Dell
+Adr.1=100 Gravel Dell
    
-Addr.Zip=94025
+Adr.Zip=94025
 
 Phone=650.666.5555
 
@@ -18,7 +18,7 @@ Domain.Com=agateapp.com
 
 Privacy.Email=privacy@{Domain.Com}
 
-State={Addr.State}
+State={Adr.State}
 
 App=HealthApp
 

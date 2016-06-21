@@ -12,7 +12,7 @@ Doc.Title=Assignment of Copyright
 
 1.=[Z/ol/3]
 
-00.sec=Executed as of {EffectiveDate.YMD}.<br><br>{P2.Sign.Block}
+00.sec=Executed as of {_EffectiveDate.YMD}.<br><br>{P2.Sign.Block}
 
 =[Z/ol/1]
 

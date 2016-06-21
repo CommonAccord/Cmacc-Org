@@ -4,19 +4,19 @@
 
 Name.Full=Patient Privacy Rights Foundation
 
-Addr.1=1006 Mopac Circle, Suite 102
+Adr.1=1006 Mopac Circle, Suite 102
 
-Addr.Zip=78746
+Adr.Zip=78746
 
 Phone=(512) 732-0033
 
 Fax=(512) 732-0036 fax
 
-Mailing Address
+Mailing Adr.ss
 
-2.Addr.1=P.O. Box 248
+2.Adr.1=P.O. Box 248
 
-3.Addr.2=Austin, TX 78767
+3.Adr.2=Austin, TX 78767
 
 Email=privacy@patientprivacyrights.org
        

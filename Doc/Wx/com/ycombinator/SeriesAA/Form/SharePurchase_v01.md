@@ -27,7 +27,7 @@ Head.sec={Co.Name.Full}<p>SERIES AA PREFERRED STOCK PURCHASE AGREEMENT</p><p>{AG
 
 Note1=RD is time and place. RDV is time, place, persons. A pun looking for a vocabulary.
 
-Closing.RD=the Company's offices at {Co.Addr.1,2}, at {Closing.Time} local time on {Closing.YMD}
+Closing.RD=the Company's offices at {Co.Adr.1,2}, at {Closing.Time} local time on {Closing.YMD}
 
 2.1.2.Sec=If less than all of the Shares are sold and issued at the Initial Closing, then, subject to the terms and conditions of this Agreement, the Company may sell and issue at one or more subsequent closings (each, a "<strong>Subsequent Closing</strong>"), within 120 days after the Initial Closing, up to the balance of the unissued Shares to such persons or entities as may be approved by the Company in its sole discretion. Any such sale and issuance in a Subsequent Closing shall be on the same terms and conditions as those contained herein, and such persons or entities shall, upon execution and delivery of the relevant signature pages, become parties to, and be bound by, this Agreement and the Investors' Rights Agreement in substantially the form attached hereto as Exhibit C (the "<strong>Rights Agreement</strong>," and together with this Agreement, the "<strong>Agreements</strong>"), without the need for an amendment to any of the Agreements except to add such person's or entity's name to the appropriate exhibit to such Agreements, and shall have the rights and obligations hereunder and thereunder, in each case as of the date of the applicable Subsequent Closing. Each Subsequent Closing shall take place at such date, time and place as shall be approved by the Company in its sole discretion.
 
@@ -227,7 +227,7 @@ iRep.=[Z/ol/13]
 
 6.4.Ti=Restated Certificate
 
-6.4.sec= The Restated Certificate shall have been duly authorized, executed and filed with and accepted by the Secretary of State of {Co.Register.Agent.Addr.State}.
+6.4.sec= The Restated Certificate shall have been duly authorized, executed and filed with and accepted by the Secretary of State of {Co.Register.Agent.Adr.State}.
 
 6.5.Ti=Rights Agreement
 
@@ -301,4 +301,4 @@ Sign.Block={Co.Sign.Block}<br>{Inv.1.Sign.Block}
 
 DocBody={Doc}
 
-Exh.A=EXHIBIT A<p>SCHEDULE OF INVESTORS</p><p>Initial Closing Investors</p><p> </p><table border="0" cellpadding="0" cellspacing="0"><thead><tr><th style="width:367px"><div><p><strong>Investor</strong></p></div></th><th style="width:96px"><div><p><strong>Number of Series AA Shares</strong></p></div></th><th style="width:96px"><div><p><strong>Purchase Price</strong></p></div></th></tr></thead><tbody><tr><td style="width:367px"><p><em>{Inv.1.Name.Full}</em></p></td><td style="width:96px"><p>{Inv.1.Cap.AA.#}</p></td><td style="width:96px"><p>{Cap.AA.Offered.Price.$}</p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.Addr.1,2}</em></p></td><td style="width:96px"><p> </p></td><td style="width:96px"><p> </p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.Fax}</em></p></td><td style="width:96px"><p> </p></td><td style="width:96px"><p> </p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.Email}</em></p></td><td style="width:96px"><p> </p></td><td style="width:96px"><p> </p></td></tr></tbody></table>
+Exh.A=EXHIBIT A<p>SCHEDULE OF INVESTORS</p><p>Initial Closing Investors</p><p> </p><table border="0" cellpadding="0" cellspacing="0"><thead><tr><th style="width:367px"><div><p><strong>Investor</strong></p></div></th><th style="width:96px"><div><p><strong>Number of Series AA Shares</strong></p></div></th><th style="width:96px"><div><p><strong>Purchase Price</strong></p></div></th></tr></thead><tbody><tr><td style="width:367px"><p><em>{Inv.1.Name.Full}</em></p></td><td style="width:96px"><p>{Inv.1.Cap.AA.#}</p></td><td style="width:96px"><p>{Cap.AA.Offered.Price.$}</p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.Adr.1,2}</em></p></td><td style="width:96px"><p> </p></td><td style="width:96px"><p> </p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.Fax}</em></p></td><td style="width:96px"><p> </p></td><td style="width:96px"><p> </p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.Email}</em></p></td><td style="width:96px"><p> </p></td><td style="width:96px"><p> </p></td></tr></tbody></table>

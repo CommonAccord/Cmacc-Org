@@ -2,7 +2,7 @@ Ti=Engagement for {Services}
 
 1.Ti={Project_Assignments}
 
-1.1.sec={The_Client} may issue {Project_Assignments} to {the_Consultant} in the form attached to {this_Agreement} as EXHIBIT A ("{Project_Assignment}").  
+1.1.sec={_The_Client} may issue {Project_Assignments} to {the_Consultant} in the form attached to {_this_Agreement} as EXHIBIT A ("{Project_Assignment}").  
 
 1.2.sec=In written statements promptly delivered to {the_Client}, {the_Consultant} will accept, seek a modification to{q} or reject a {Project_Assignment}.
 
@@ -10,7 +10,7 @@ Ti=Engagement for {Services}
 
 2.Ti=Performance
 
-2.sec={The_Consultant} will perform the services set forth in all {Project_Assignment}(s) accepted by {the_Consultant} (the "{Services}").  {The_Consultant} will perform the {Services} in accordance with the provisions of {this_Agreement} and the specifications of the {Project_Assignments}.
+2.sec={_The_Consultant} will perform the services set forth in all {Project_Assignment}(s) accepted by {the_Consultant} (the "{Services}").  {_The_Consultant} will perform the {Services} in accordance with the provisions of {_this_Agreement} and the specifications of the {Project_Assignments}.
 
 3.Ti=Manner of Work
 
@@ -18,6 +18,6 @@ Ti=Engagement for {Services}
 
 4.Ti=Place of Work
 
-4.sec=At {the_Consultant}'s own expense, {the_Consultant} will provide a place of work and all equipment, tools{q} and other materials necessary to complete the {Services}.  {The_Client} will make {the_Client}'s equipment or facilities available to {the_Consultant} to the extent necessary for {the_Consultant} to perform the {Services}.
+4.sec=At {the_Consultant}'s own expense, {the_Consultant} will provide a place of work and all equipment, tools{q} and other materials necessary to complete the {Services}.  {_The_Client} will make {the_Client}'s equipment or facilities available to {the_Consultant} to the extent necessary for {the_Consultant} to perform the {Services}.
 
 =[Z/ol/4]

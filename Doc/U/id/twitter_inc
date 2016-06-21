@@ -4,11 +4,11 @@
 
 Name.Full=Twitter, Inc.
 
-Addr.1=1355 Market Street, Suite 900
+Adr.1=1355 Market Street, Suite 900
 
-Addr.Zip=94103
+Adr.Zip=94103
 
-Addr.Type=corporate
+Adr.Type=corporate
 
 entity=Delaware corporation
 

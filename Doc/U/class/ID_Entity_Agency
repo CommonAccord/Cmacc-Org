@@ -4,4 +4,4 @@ entity=agency
 
 entity.a=a {entity}
 
-Addr.Type=official
+Adr.Type=official

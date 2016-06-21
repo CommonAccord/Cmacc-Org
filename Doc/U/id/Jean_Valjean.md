@@ -10,6 +10,6 @@ Adresse.Ville=Paris
 
 Adresse.CP=75001
 
-Addr.Type=residential
+Adr.Type=residential
 
 =[U/class/FR_Individu.md]

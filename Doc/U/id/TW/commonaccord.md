@@ -4,6 +4,6 @@
 
 Name.Full=CommonAccord
 
-Addr.Type=mailing
+Adr.Type=mailing
 
 Email=contact@commonaccord.org

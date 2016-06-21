@@ -10,7 +10,7 @@ Ti=ORGANIZATIONAL MATTERS
 
 3.Ti=Office; Agent
 
-3.sec=The Company shall continuously maintain an office and registered agent in the State of Delaware as required by the Act.  The principal office of the Company is at {Co.Addr.1,2}, or such location as the Members may determine. The registered agent is as stated in the articles or as otherwise determined by the Members.
+3.sec=The Company shall continuously maintain an office and registered agent in the State of Delaware as required by the Act.  The principal office of the Company is at {Co.Adr.1,2}, or such location as the Members may determine. The registered agent is as stated in the articles or as otherwise determined by the Members.
 
 4.Ti=Addresses of the Members and Managers
 

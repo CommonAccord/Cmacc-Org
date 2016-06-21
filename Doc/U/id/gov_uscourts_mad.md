@@ -1,14 +1,14 @@
 Name.Full=United States District Court - District of Massachusetts
 
-Addr.1=1 Courthouse Way
+Adr.1=1 Courthouse Way
 
-Addr.City=Boston
+Adr.City=Boston
 
-Addr.ST=MA
+Adr.ST=MA
 
-Addr.State=Massachusetts
+Adr.State=Massachusetts
 
-Addr.Zip=02210
+Adr.Zip=02210
 
 Phone=(617) 748-9152
 

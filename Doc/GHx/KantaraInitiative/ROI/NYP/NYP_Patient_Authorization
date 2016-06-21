@@ -15,9 +15,9 @@ Form=<ol><li>{Patient}</li><li>{Transferee}</li><li>{Transferor}</li><li>{Info}<
 
 
 
-Patient=<b>Patient</b><ol><li><b>Name:</b> {P2.Name.Full}</li><li><b>Maiden or Other Name:</b> {P2.Name.Maiden/Other}</li><li><b>Date of Birth:</b> {P2.DOB}</li><li><b>Address:</b> {P2.Addr.1,2}</li><li><b>Telephone:</b> {P2.Phone}</li><li><b>Email address:</b> {P2.Email}</li><li><b>Medical Record Number:</b> {P2.MedicalRecordNumber}</li></ol>
+Patient=<b>Patient</b><ol><li><b>Name:</b> {P2.Name.Full}</li><li><b>Maiden or Other Name:</b> {P2.Name.Maiden/Other}</li><li><b>Date of Birth:</b> {P2.DOB}</li><li><b>Address:</b> {P2.Adr.1,2}</li><li><b>Telephone:</b> {P2.Phone}</li><li><b>Email address:</b> {P2.Email}</li><li><b>Medical Record Number:</b> {P2.MedicalRecordNumber}</li></ol>
 
-Transferee=<b>Person To Whom Information Will be Sent:</b><ol><li><b>Name:</b> {P3.Name.Full}</li><li><b>Address:</b> {P3.Addr.1,2}</li><li><b>Phone:</b> {P3.Phone}</li></ol>
+Transferee=<b>Person To Whom Information Will be Sent:</b><ol><li><b>Name:</b> {P3.Name.Full}</li><li><b>Address:</b> {P3.Adr.1,2}</li><li><b>Phone:</b> {P3.Phone}</li></ol>
 
 Transferor=<b>Person Who Will Disclose Information:</b><ol><li>{P1.Site}</li></ol>
 

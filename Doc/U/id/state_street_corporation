@@ -4,17 +4,17 @@
 
 Name.Full=State Street Corporation
 
-Addr.1/2={Addr.1.1}<br>{Addr.1.2}<br>{Addr.2}
+Adr.1/2={Adr.1.1}<br>{Adr.1.2}<br>{Adr.2}
 
-Addr.1,2={Addr.1.1}, {Addr.1.2}, {Addr.2}
+Adr.1,2={Adr.1.1}, {Adr.1.2}, {Adr.2}
 
-Addr.1.1=State Street Financial Center
+Adr.1.1=State Street Financial Center
 
-Addr.1.2=One Lincoln Street
+Adr.1.2=One Lincoln Street
 
-Addr.Zip=02111
+Adr.Zip=02111
 
 Phone=617-786-3000
 
-Addr.Type=business
+Adr.Type=business
 		

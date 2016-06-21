@@ -10,11 +10,11 @@ Register.RegistrationNumber=34567876543
 
 Name.Full=Quake Inc.
 
-Addr.Type=principal
+Adr.Type=principal
 
-Addr.1=233 Curtis Street
+Adr.1=233 Curtis Street
 
-Addr.Zip=94025
+Adr.Zip=94025
 
 Phone=650.555.5500
 
@@ -22,7 +22,7 @@ Fax=650.555.5511
 
 entity=Delaware corporation
 
-Addr.Type=business
+Adr.Type=business
 
 BusinessDomain=information services consulting
 

@@ -4,29 +4,29 @@
 
 Name.Full=World Health Organization
 
-Addr.1=Avenue Appia 20
+Adr.1=Avenue Appia 20
 
-Addr.2={Addr.Zip} {Addr.City} {Addr.City.Zone}
+Adr.2={Adr.Zip} {Adr.City} {Adr.City.Zone}
 
-Addr.3={Addr.Nation}
+Adr.3={Adr.Nation}
 
-Addr.Zip=12111
+Adr.Zip=12111
 
-Addr.City.Zone=21
+Adr.City.Zone=21
 
 Adr.1=Avenue Appia 20
 
-Adr.2={Addr.Zip} {Addr.City} {Addr.City.Zone} {Adr.Nation}
+Adr.2={Adr.Zip} {Adr.City} {Adr.City.Zone} {Adr.Nation}
 
 Adr.Zip=1211
 
 Adr.City.Zone=21
 
-Addr.Nation=Switzerland
+Adr.Nation=Switzerland
 
-Addr.1=9000 Rockville Pike
+Adr.1=9000 Rockville Pike
 
-Addr.Type=official
+Adr.Type=official
 
 Twitter.Followers=469K
 		

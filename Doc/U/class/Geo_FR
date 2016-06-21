@@ -2,7 +2,7 @@ Adr.1={Adr.#_Rue}
 
 Adr.#_Rue={Adr.Rue.#}, {Adr.Rue}
 
-Adr.#_Rue,Suite={Adr.#_Street}, {Addr.Suite}
+Adr.#_Rue,Suite={Adr.#_Street}, {Adr.Suite}
 
 Adr.2={Adr.CP} {Adr.Ville}
 
@@ -20,14 +20,14 @@ Geo.?={Adr.1/2/Pays}
 
 Note=Conversion:
 
-Addr.Street={Adr.Rue.Nom}
+Adr.Street={Adr.Rue.Nom}
 
-Addr.Street.#={Adr.Rue.#}
+Adr.Street.#={Adr.Rue.#}
 
-Addr.Zip={Adr.CP}
+Adr.Zip={Adr.CP}
 
-Addr.1={Adr.#_Rue}
+Adr.1={Adr.#_Rue}
 
-Addr.ST=</i>
+Adr.ST=</i>
 
-Addr.2={Adr.CP} {Adr.Ville}
+Adr.2={Adr.CP} {Adr.Ville}

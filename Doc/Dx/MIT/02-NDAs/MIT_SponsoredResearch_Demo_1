@@ -10,7 +10,7 @@ P2.Handle=Quake
 
 AGT.Effective.YMD=August 1, 2014
 
-Investigator.ID.N,T,A=<b>Samantha Syngros, Professor, c/o {P1.OSP}, {P1.Addr.1,2}</b>
+Investigator.ID.N,T,A=<b>Samantha Syngros, Professor, c/o {P1.OSP}, {P1.Adr.1,2}</b>
 
 Investigator.Handle=<b>Professor Syngros</b>
 

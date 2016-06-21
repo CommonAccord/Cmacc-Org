@@ -1,28 +1,22 @@
-Nom=Acme
+Name.Given=Acme
 
-entity.a=a {entity}
+EntityType=SARL
 
-entity=French société à responsabilité limitée
+Adr.Type=registered
 
-Addr.Type=registered
+Cap.All.#=100.000 Euros
 
-FormeJuridique=SARL
+Cap.All.Spelled.FR=Cent Mille Euros
 
-Capital=100.000 Euros
+Adr.1=101 rue Partout
 
-CapitalEnLettres=cent mille Euros
+Adr.Zip=75001
 
-Adresse.1=101 rue Partout
+Adr.City=Paris
 
-Adresse.CP=75001
-
-Adresse.Ville=Paris
-
-Adresse.3=France
+Adr.Nation=France
  
-Siège.Adresse.1,2={Adresse.1,2}
-
-RCS.Adresse.Ville=Paris
+RCS.Adr.City=Paris
 
 Email=france@acme.com
 
@@ -36,4 +30,4 @@ Dirigeant1.=[U/id/Jean_Valjean.md]
 
 Dirigeant1.Titre=Gérant
 
-=[U/class/FR_Société.md]
+=[U/class/ID_Entity]

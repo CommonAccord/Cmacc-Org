@@ -2,11 +2,11 @@ Ti=Compensation
 
 1.Ti=Fees
 
-1.sec={The_Client} will pay {the_Consultant} the fee set forth in each {Project_Assignment} for {Services} rendered pursuant to {this_Agreement} as {the_Consultant}'s sole compensation for such {Services}.
+1.sec={_The_Client} will pay {the_Consultant} the fee set forth in each {Project_Assignment} for {Services} rendered pursuant to {_this_Agreement} as {the_Consultant}'s sole compensation for such {Services}.
 
 2.Ti=Expenses
 
-2.sec={The_Consultant} will be reimbursed only for expenses that are expressly provided for in a {Project_Assignment} or which have been approved in advance in writing by {the_Client}, provided {the_Consultant} has furnished such documentation for authorized expenses as {the_Client} may reasonably request.
+2.sec={_The_Consultant} will be reimbursed only for expenses that are expressly provided for in a {Project_Assignment} or which have been approved in advance in writing by {the_Client}, provided {the_Consultant} has furnished such documentation for authorized expenses as {the_Client} may reasonably request.
 
 3.Ti=Payment
 
@@ -14,6 +14,6 @@ Ti=Compensation
 
 4.Ti=On Termination
 
-4.sec=Upon termination of {this_Agreement} for any reason, {the_Consultant} will be paid fees on the basis stated in the {Project_Assignment}(s) for work which has been completed.
+4.sec=Upon termination of {_this_Agreement} for any reason, {the_Consultant} will be paid fees on the basis stated in the {Project_Assignment}(s) for work which has been completed.
 
 =[Z/ol/4]

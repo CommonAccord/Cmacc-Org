@@ -25,15 +25,15 @@ TermCommence.cl=the filing of the Articles of Organization
 
 4.sec=The business of the {Company} (the “{Business}”) is to (1) {Corp.BusinessIsTo}, (2) finance, hold, manage, sell, or otherwise dispose of all or any part of business property, and (3) exercise all rights and powers and engage in all activities related or ancillary to the foregoing which a limited liability company may legally exercise pursuant to the {Act}.
 
-5.Ti=Name and Address of the {Member}
+5.Ti=Name and Adr.ss of the {Member}
 
-5.sec=The name and address of the member is as follows:<br>{Member.Name.Full}, {Member.Addr.1,2}
+5.sec=The name and address of the member is as follows:<br>{Member.Name.Full}, {Member.Adr.1,2}
 
 Note=[OPTIONAL]?
 
 6.Ti=Name and Address of the {Manager}
 
-6.sec=The name and mailing address of the {Manager} are as follows:<br>{Manager.Name.Full}<br>{Member.Addr.1/2}
+6.sec=The name and mailing address of the {Manager} are as follows:<br>{Manager.Name.Full}<br>{Member.Adr.1/2}
 
 7.Ti=Principal Place of Business
 
@@ -41,7 +41,7 @@ Note=[OPTIONAL]?
 
 8.Ti=Domestic Registered Agent and Registered Office
 
-8.sec=The name of the {Company}’s registered agent for service of process in Missouri and its registered office in Missouri shall be {RegisteredAgent.Name.Full}, {RegisteredAgent.Addr.1,2}.  The {Member/Manager} may change such registered agent and/or registered office, at any time, by making all appropriate filings.
+8.sec=The name of the {Company}’s registered agent for service of process in Missouri and its registered office in Missouri shall be {RegisteredAgent.Name.Full}, {RegisteredAgent.Adr.1,2}.  The {Member/Manager} may change such registered agent and/or registered office, at any time, by making all appropriate filings.
 
 9.=[GHx/UMKC-Law/NFP/MO/Operating/SingleMember/Sec/Definitions_01.md]
 

@@ -24,7 +24,7 @@ Ti=List of @iang_fc fields
 
 6.Ti=Location
 
-6.sec={Location.Addr.1,2,UK}
+6.sec={Location.Adr.1,2,UK}
 
 entity.a={thingID}
 

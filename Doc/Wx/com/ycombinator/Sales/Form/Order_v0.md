@@ -16,7 +16,7 @@ Order Form=terms below
 
 1.1.sec=Customer: {P2.Name.Full}
 
-1.2.sec=Contact Person: {P2.Contact.Name.Full}, {P2.Contact.Addr.1,2}
+1.2.sec=Contact Person: {P2.Contact.Name.Full}, {P2.Contact.Adr.1,2}
 
 1.3.sec=Phone: {P2.Contact.Phone}, Email:  {P2.Contact.Email}
 

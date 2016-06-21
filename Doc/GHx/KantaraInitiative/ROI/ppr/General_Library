@@ -4,7 +4,7 @@ PP.=[GHx/KantaraInitiative/ROI/NYP/NYP_Patient_Brochure]
 
 CD.=[GHx/KantaraInitiative/ROI/NYP/NYP_Patient_Authorization]
 
-CD.Transferor=<b>Person Who Will Disclose Information:</b><ol><li><b>Name:</b> {CD.P1.Name.Full}</li><li><b>Address:</b> {CD.P1.Addr.1,2}</li><li><b>Phone:</b> {CD.P1.Phone}</li></ol>
+CD.Transferor=<b>Person Who Will Disclose Information:</b><ol><li><b>Name:</b> {CD.P1.Name.Full}</li><li><b>Address:</b> {CD.P1.Adr.1,2}</li><li><b>Phone:</b> {CD.P1.Phone}</li></ol>
 
 Heading=<center><b>{P1.N,E,A} ("{P1.Handle}") and <br>{P2.N,E,A} ("{P2.Handle}") </b></center><br><br>
 

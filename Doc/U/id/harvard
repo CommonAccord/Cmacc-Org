@@ -2,15 +2,15 @@
 
 =[U/at/US/MA/Middlesex/Cambridge/Geo]
 
-Addr.1=Massachusetts Hall
+Adr.1=Massachusetts Hall
 
-Addr.Zip=02138
+Adr.Zip=02138
 
 Phone=617.495.1000
 
 Name.Full=Harvard University
 
-Addr.Type=official
+Adr.Type=official
 
 entity=corporation
 

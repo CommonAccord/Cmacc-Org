@@ -2,10 +2,10 @@ Name.Full=OpenMeMed Foundation
 
 Name.Short=OpenMeMed
 
-Addr.1=444 Main Avenue
+Adr.1=444 Main Avenue
 
-Addr.2=Portland, OR 97000
+Adr.2=Portland, OR 97000
 
-Addr.Nation=United States
+Adr.Nation=United States
 
 =[U/class/ID_Entity]

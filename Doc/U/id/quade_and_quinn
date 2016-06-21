@@ -4,9 +4,9 @@
 
 Name.Full=Quade & Quinn
 
-Addr.Street.#=75
+Adr.Street.#=75
 
-Addr.Zip=02109
+Adr.Zip=02109
 
 Email=info@quadequinn.com
 
@@ -14,7 +14,7 @@ Phone=617.771.6161
 
 Fax=617.771.1234
 
-Addr.Type=principal business
+Adr.Type=principal business
 
 Quade.=[U/id/quentin_quade]
 

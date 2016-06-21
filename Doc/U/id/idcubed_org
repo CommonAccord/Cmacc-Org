@@ -4,11 +4,11 @@
 
 Name.Full=ID3
 
-Addr.1=210 South St., #5-1
+Adr.1=210 South St., #5-1
 
-Addr.Zip=02111
+Adr.Zip=02111
 
-Addr.Type=mailing
+Adr.Type=mailing
 	
 com=idcubed.org
 

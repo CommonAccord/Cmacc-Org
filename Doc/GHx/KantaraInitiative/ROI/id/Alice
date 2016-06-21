@@ -8,7 +8,7 @@ Rep.Relationship=friend
 
 Handle=Resource Owner
 
-Addr.1=100 Central Street
+Adr.1=100 Central Street
 
 Name.First=Alice
 
@@ -24,6 +24,6 @@ Email=alice@yahoo.com
 
 MedicalRecordNumber=MR-123456
 
-Addr.Type=home
+Adr.Type=home
 
 Account=BobApp - Medical Wallet

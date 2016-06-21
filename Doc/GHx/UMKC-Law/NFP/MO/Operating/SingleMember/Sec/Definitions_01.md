@@ -14,7 +14,7 @@ Ti=Certain Definitions
 
 6.sec=“{Extraordinary_Loss}" means any sum paid or payable by the {Company} to (1) defend, settle, or compromise any threatened, pending or completed action, suit, or proceeding against the {Company}, whether civil, criminal, administrative, or investigative, including punitive or exemplary damages or any loss resulting from any {Member}'s or Manager's Misconduct, (2) discharge any judgment entered therein, and (3) pay all legal fees and other expenses incurred by the {Company} in connection therewith.
 
-7.sec="{Member}" means {Member.Name.Full}, {Member.Addr.1,2}.
+7.sec="{Member}" means {Member.Name.Full}, {Member.Adr.1,2}.
 
 8.0.sec="{Operating_Proceeds}" for the applicable period means all cash receipts of the {Company} during such period (excluding Dissolution Proceeds) plus the amount of any cash released from {Company} reserves during such period, less the following costs and expenses paid during such period (to the extent not paid from reserves): 
 

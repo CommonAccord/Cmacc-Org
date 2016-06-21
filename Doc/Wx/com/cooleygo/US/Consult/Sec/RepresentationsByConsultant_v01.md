@@ -1,8 +1,8 @@
 Ti=Representations and Warranties
 
-1.Ti={The_Consultant}'s Representations
+1.Ti={_The_Consultant}'s Representations
 
-1.0.sec={The_Consultant} represents and warrants that:
+1.0.sec={_The_Consultant} represents and warrants that:
 
 1.1.sec=the {Services} shall be performed in a professional manner and in accordance with the industry standards and the {Work_Product} shall comply with the requirements set forth in the applicable {Project_Assignment},
 
@@ -20,6 +20,6 @@ Ti=Representations and Warranties
 
 2.Ti=Indemnification by {the_Consultant}
 
-2.sec={The_Consultant} agrees to indemnify and hold {the_Client} harmless from any and all damages, costs, claims, expenses{q} or other liability (including reasonable attorneys' fees) arising from or relating to the breach or alleged breach by {the_Consultant} of the representations and warranties set forth in this {Rep.Xref}.
+2.sec={_The_Consultant} agrees to indemnify and hold {the_Client} harmless from any and all damages, costs, claims, expenses{q} or other liability (including reasonable attorneys' fees) arising from or relating to the breach or alleged breach by {the_Consultant} of the representations and warranties set forth in this {Rep.Xref}.
 
 =[Z/ol/2]

@@ -16,9 +16,9 @@ décrire_opération=étude de marché
 
 type_informations=les produits, les couts et les clientes de la Partie Divulgatrice
 
-Litige.TdC.Ville={P1.RCS.Adresse.Ville}
+Litige.TdC.Ville={P1.RCS.Adr.Ville}
 
-Accord.Sign.Lieu={P1.Adresse.Ville}
+Accord.Sign.Lieu={P1.Adr.Ville}
 
 P1.=[U/id/Acme_SARL.md]
 
@@ -28,4 +28,4 @@ P1.Signer.=[U/id/Jean_Valjean.md]
 
 P2.Signer.=[U/id/Marie_Matignon.md]
 
-=[GHx/jurismatic/jurismatic/03-Engagement_de_confidentialité/Form/Doc_v0.md]
+=[GHx/jurismatic/jurismatic/03-Engagement_de_confidentialité/Form/0.md]

@@ -4,11 +4,11 @@
 
 Name.Full=Notional Institute of Technology
 
-Addr.Type=official
+Adr.Type=official
 
-Addr.1=2 Once Crossing
+Adr.1=2 Once Crossing
 
-Addr.Zip=024444
+Adr.Zip=024444
 
 Entity=corporation
 

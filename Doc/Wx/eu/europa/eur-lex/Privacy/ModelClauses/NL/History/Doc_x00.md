@@ -8,7 +8,7 @@ Doc.Title=MODELCONTRACTBEPALINGEN („VERWERKERS”)
 
 Exporter.1.sec=Naam van de organisatie die de gegevens uitvoert: {Exporter.Name.Full}
 
-Exporter.2.sec=Adres: {Exporter.Addr.1,2}
+Exporter.2.sec=Adres: {Exporter.Adr.1,2}
 
 Exporter.3.sec=Tel. {Exporter.Phone};
 
@@ -24,7 +24,7 @@ Exporter.7.sec=(de gegevensexporteur)
 
 Importer.1.sec=Naam van de organisatie die de gegevens invoert: {Importer.Name.Full}
 
-Importer.2.sec=Adres: {Importer.Addr.1,2}
+Importer.2.sec=Adres: {Importer.Adr.1,2}
 
 Importer.3.sec=Tel. {Importer.Phone};
 
@@ -207,7 +207,7 @@ Exporter.Sign.1.sec=Naam (voluit):  {Exporter.Sign.Name.Full}
 
 Exporter.Sign.2.sec=Functie: {Exporter.Sign.Title}
 
-Exporter.Sign.3.sec=Adres: {Exporter.Sign.Addr.1,2}
+Exporter.Sign.3.sec=Adres: {Exporter.Sign.Adr.1,2}
 
 Exporter.Sign.4.sec=Eventuele andere inlichtingen die voor het verbindend worden van het contract noodzakelijk zijn: {Exporter.Sign.ValidatingInformation}
 
@@ -222,7 +222,7 @@ Importer.Sign.1.sec=Naam (voluit):  {Importer.Sign.Name.Full}
 
 Importer.Sign.2.sec=Functie: {Importer.Sign.Title}
 
-Importer.Sign.3.sec=Adres: {Importer.Sign.Addr.1,2}
+Importer.Sign.3.sec=Adres: {Importer.Sign.Adr.1,2}
 
 Importer.Sign.4.sec=Eventuele andere inlichtingen die voor het verbindend worden van het contract noodzakelijk zijn: {Importer.Sign.ValidatingInformation}
 

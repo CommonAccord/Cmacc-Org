@@ -16,12 +16,12 @@ Nationality=United States of America
 
 Name.Maiden/Other=None
 
-Addr.Type=mailing
+Adr.Type=mailing
 
 Mail.=[U/at/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
 
-Mail.Addr.Suite=14th Floor
+Mail.Adr.Suite=14th Floor
 
-Addr.1={Mail.Addr.1,Suite}
+Adr.1={Mail.Adr.1,Suite}
 
-Addr.2={Mail.Addr.2}
+Adr.2={Mail.Adr.2}

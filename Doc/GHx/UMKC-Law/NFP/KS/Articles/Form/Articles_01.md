@@ -8,7 +8,7 @@ Doc.Title=<span style="text-transform:uppercase">{Amended_and_Restated/} ARTICLE
 
 2.Ti=Registered Office
 
-2.sec=The address of the Corporation’s initial registered office in the State of Kansas is {RegisteredAgent.Addr.1,2}.
+2.sec=The address of the Corporation’s initial registered office in the State of Kansas is {RegisteredAgent.Adr.1,2}.
 
 3.Ti=Resident Agent
 

@@ -22,7 +22,7 @@ Phone=617.716.4536
 
 Fax=617.345.1234
 
-Addr.Type=principal business
+Adr.Type=principal business
 
 entity=Delaware corporation
 
@@ -56,4 +56,4 @@ CWD.Full=Contingent Worker's Database
 
 email.CWD.com=cwdbase@acme.com
 
-CWD.Addr.1,2={Addr.1,2}
+CWD.Adr.1,2={Adr.1,2}
