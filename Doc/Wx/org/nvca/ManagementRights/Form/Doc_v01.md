@@ -1,6 +1,6 @@
 Ti={Co.Letterhead}
 
-0.1.sec={Investor.Addr.LetterTo}
+0.1.sec={Investor.Adr.LetterTo}
 
 0.2.sec=Re:	Management Rights
 
