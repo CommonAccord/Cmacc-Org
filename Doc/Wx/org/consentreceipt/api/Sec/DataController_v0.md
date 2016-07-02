@@ -14,7 +14,7 @@ Ti=Data Controller
 
 4.Ti=Address
 
-4.sec={P2.Addr.1/2}
+4.sec={P2.Adr.1/2}
 
 5.Ti=Contact Email
 
