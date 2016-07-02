@@ -14,7 +14,7 @@ P2.Handle=RECIPIENT
 
 Intro={Intro.ThisAgreement}<br>{Intro.Investigators}<br>{Intro.Therefore}
 
-Intro.ThisAgreement=This Human Material Transfer Agreement ("MTA") is between <font color="magenta">{P1.Name.Full}</font> ("PROVIDER"), part of the National Institutes of Health, a component of the United States Department of Health and Human Services and <font color="magenta">{P2.Name.Full}</font> ("RECIPIENT"), located at <font color="magenta">{P2.Addr.1,2}</font>, for the transfer of human material, with or without accompanying data, for research purposes as further defined below.  PROVIDER and RECIPIENT may each be referred to as Party or collectively as Parties.  This MTA will become effective on the date of the last signature below.
+Intro.ThisAgreement=This Human Material Transfer Agreement ("MTA") is between <font color="magenta">{P1.Name.Full}</font> ("PROVIDER"), part of the National Institutes of Health, a component of the United States Department of Health and Human Services and <font color="magenta">{P2.Name.Full}</font> ("RECIPIENT"), located at <font color="magenta">{P2.Adr.1,2}</font>, for the transfer of human material, with or without accompanying data, for research purposes as further defined below.  PROVIDER and RECIPIENT may each be referred to as Party or collectively as Parties.  This MTA will become effective on the date of the last signature below.
  
 Intro.Investigators=PROVIDER Investigator:  <font color="magenta">{P1.Scientist.Name.Full}</font><br>RECIPIENT Investigator: <font color="magenta">{P2.Scientist.Name.Full}</font>
 
