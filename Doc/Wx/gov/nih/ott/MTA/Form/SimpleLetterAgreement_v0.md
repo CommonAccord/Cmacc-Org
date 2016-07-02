@@ -37,7 +37,7 @@ Signature={Sign.Intro}<br>{P1.Sign.Block}<br>{P1.Officer.Certify}<br><br>{P2.Sig
 
 Sign.Intro=The PROVIDER, RECIPIENT and RECIPIENT SCIENTIST must sign both copies of this letter and return one signed copy to the PROVIDER. The PROVIDER will then send the MATERIAL. 
 
-P1.Sign.Block=<span style="text-transform: uppercase">{P1.Handle}</span> INFORMATION and AUTHORIZED SIGNATURE <br>{P1.Handle} Scientist: {P1.Scientist.Name.Full}</font> <br>{P1.Handle} Organization:  <font color="magenta">{P1.Name.Full}</font> <br>Address: <font color="magenta">{P1.Addr.1,2}</font> <br>Name of Authorized Official: <font color="magenta">{P1.Officer.Name.Full}</font> <br>Title of Authorized Official: <font color="magenta">{P1.Officer.Title}</font> 
+P1.Sign.Block=<span style="text-transform: uppercase">{P1.Handle}</span> INFORMATION and AUTHORIZED SIGNATURE <br>{P1.Handle} Scientist: {P1.Scientist.Name.Full}</font> <br>{P1.Handle} Organization:  <font color="magenta">{P1.Name.Full}</font> <br>Address: <font color="magenta">{P1.Adr.1,2}</font> <br>Name of Authorized Official: <font color="magenta">{P1.Officer.Name.Full}</font> <br>Title of Authorized Official: <font color="magenta">{P1.Officer.Title}</font> 
 
 P1.Handle=Provider
 
