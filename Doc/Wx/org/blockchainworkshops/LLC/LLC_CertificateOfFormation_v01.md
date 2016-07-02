@@ -6,7 +6,7 @@ Ti=State of Delaware Limited Liability Company Certificate of Formation
  
 2.Ti=Second:
 
-2.sec=The address of its registered office in the State of Delaware is {Co.Regis.Addr.1,2}. 
+2.sec=The address of its registered office in the State of Delaware is {Co.Regis.Adr.1,2}. 
 
 3.Ti=Third
 
