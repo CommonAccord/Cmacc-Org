@@ -54,7 +54,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 2.4.Ti=Principal Office
 
-2.4.sec=The Company's principal office will initially be at {Co.Addr.1,2}, but it may be relocated by the Managers at any time.
+2.4.sec=The Company's principal office will initially be at {Co.Adr.1,2}, but it may be relocated by the Managers at any time.
 
 2.5.Ti=Designated Office and Agent for Service of Process
 
