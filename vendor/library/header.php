@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <head>
+<title><?php echo $dir ?></title>
 <link  href="Doc/Z/CSS/Doc.css" rel="stylesheet" />
 <link  href="<?php echo ASSETS_PATH; ?>/custom.css" rel="stylesheet" />
 
