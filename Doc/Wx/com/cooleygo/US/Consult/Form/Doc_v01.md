@@ -27,7 +27,7 @@ Remedy.=[Wx/com/cooleygo/US/NDA/Sec/Remedy_v01.md]
 
 Remedy.Return.ByParty=by {_the_Client}
 
-Dispute.=[Wx/com/cooleygo/US/NDA/Sec/Dispute_USLaw-Court_v01.md]
+Dispute.=[Wx/com/cooleygo/US/NDA/Sec/Dispute/US/Law-Court_v0.md]
 
 Misc.=[Wx/com/cooleygo/US/Consult/Sec/Misc_v01.md]
 
