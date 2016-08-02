@@ -87,7 +87,9 @@ s2b2=Patent and trademark rights are not licensed under this Public License.
 s2b3=To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used for other than NonCommercial purposes
 
 
-s3=<u>{s3.Title}</u><br>{s3.0}<ol type='a'><li>{s3a}</li><li>{s3b}</li></ol>
+s3=<u>{s3.Title}</u>{s3.1.sec}
+
+s3.1.sec=<br>{s3.0}<ol type='a'><li>{s3a}</li><li>{s3b}</li></ol>
 
 s3.Title=License Conditions
 
