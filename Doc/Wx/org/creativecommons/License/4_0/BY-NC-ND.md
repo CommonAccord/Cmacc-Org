@@ -41,6 +41,5 @@ s4a={m-}for the avoidance of doubt, Section 2(a)(1) grants You the right to extr
 s4b={m-}if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material{-m}
 
 
-m-=<font color='{acolor}'>
+m-=<font color='magenta'>
 -m=</font>
-acolor=magenta
