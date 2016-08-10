@@ -1,3 +1,12 @@
+body { 
+    background-color: #f1f1f1;
+}
+
+
+span { 
+    background-color: #f1f1f1;
+}
+
 .token {
 	color: maroon ;
         text-decoration: none;
@@ -13,6 +22,10 @@
         text-decoration: none;
 }  
 
+span :hover { 
+    background-color: #ffffff;
+}
+
 .xref {
 	color: darkblue ;
 }  
@@ -20,5 +33,10 @@
 
 .jurisdiction {
 	color: #5500AA ;
+       
+}
+
+.missing {
+	color: magenta ;
        
 }

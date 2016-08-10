@@ -14,6 +14,8 @@ Adr.Zip=75001
 
 Adr.City=Paris
 
+Adr.ST=</i>
+
 Adr.Nation=France
  
 RCS.Adr.City=Paris

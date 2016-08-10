@@ -1,3 +1,5 @@
+Name.Full={Name.Given} {EntityType}
+
 entity=legal person
 
 entity.a=a {entity}
