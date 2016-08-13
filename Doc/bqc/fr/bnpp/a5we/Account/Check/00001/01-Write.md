@@ -1,6 +1,6 @@
 Amount.Letters=Mille Deux Cents Euros
 
-Check.Sign.City=Dijon
+Sign.City=Dijon
 
 Amount.#=1.200,00
 
