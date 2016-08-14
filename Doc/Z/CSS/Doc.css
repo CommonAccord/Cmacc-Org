@@ -1,10 +1,14 @@
 body { 
-    background-color: #f1f1f1;
+    background-color: #ffffff;
 }
 
 
 span { 
-    background-color: #f1f1f1;
+    background-color: #ffffff;
+}
+
+span :hover { 
+    background-color: #f0f0ff;
 }
 
 .token {
@@ -22,9 +26,10 @@ span {
         text-decoration: none;
 }  
 
-span :hover { 
-    background-color: #ffffff;
-}
+.scdl {
+	color: #4B2503 ;
+        text-decoration: none;
+}  
 
 .xref {
 	color: darkblue ;
