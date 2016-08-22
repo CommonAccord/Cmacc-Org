@@ -12,7 +12,7 @@ Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
 Introduction.sec=<b>Overview:</b><ul><li>{Slack.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
-CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CCL.Link} 
+CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CDL.Link} 
 
 CmAbqc.sec=One proposed implementation of CommonAccord is a universal bank account that would allow people to manage in a portable account all types of transactions rather than just payments. Examples of how it would look like can be found here: {Bqc.Link}. An interview explaining the concept can be found here (in French - minute 24.21): {BfmPodcast.Link}.
 
@@ -22,7 +22,7 @@ Slack.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Join our Slack group!
 
 Codification.sec=Codification of legal form documents makes them transparent and continuously improving.  It is part of the tradition of legal codification - from Hammurabi through Napoleon, the UCC, the ALI, and Creative Commons.  Codification demystifies law and encourages <a href="http://p2pfoundation.net/Common_Accord">transparency and autonomy</a>.
 
-Code-ification.sec={Code-ify.sec}<li>{PDS.sec}<li>{Synchronization.sec}<li>{OnGitHub.sec}<li> {InfoLinks.sec} <li>{CCL.sec}
+Code-ification.sec={Code-ify.sec}<li>{PDS.sec}<li>{Synchronization.sec}<li>{OnGitHub.sec}<li> {InfoLinks.sec} <li>{CDL.sec}
 
 Code-ify.sec=We "code-ify" them by treating them like software source code - files in folders shared on GitHub.  Code-ifying is neither hard nor complicated.  The infrastructure is robust, widely-used, and free.  The form documents will converge into legal codes of transacting.
 
@@ -43,7 +43,7 @@ XrayView.sec=A taste of the "experience" can be seen  in this <a href="https://w
 
 Slashdot.sec=The vision was articulated in an <a href="http://news.slashdot.org/story/13/07/25/1814255/attorney-jim-hazard-is-working-to-open-source-law-video"> OSCON interview with Slashdot</a>.
 
-CCL.sec=We are working toward a "{CCL.Link}," a trustee for global legal code.  The project is open source. You can contribute: as a lawyer to legal documents, as a coder to our software, as a platform by interfacing with our materials, as a business by using the system, as a benefactor by supporting the effort.  <a href="http://github.com/commonaccord/cmacc-org">Contribute on GitHub</a> or <a href="mailto:commonaccord@gmail.com?Subject=Contact" target="_top">email commonaccord@gmail.com.</a>
+CDL.sec=We are working toward a "{CDL.Link}," a trustee for global legal code.  The project is open source. You can contribute: as a lawyer to legal documents, as a coder to our software, as a platform by interfacing with our materials, as a business by using the system, as a benefactor by supporting the effort.  <a href="http://github.com/commonaccord/cmacc-org">Contribute on GitHub</a> or <a href="mailto:commonaccord@gmail.com?Subject=Contact" target="_top">email commonaccord@gmail.com.</a>
 
 Technical.sec=The files can also be expressed as <a href="http://www.commonaccord.org/index.php?action=ipld&file=Dx/Acme_FR/04-NDA-From-Quake-FR/Doc_v0.md">JSON/IPLD</a>.
 
@@ -55,7 +55,7 @@ PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance)
 
 MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Conference</a>
 
-CCL.Link=<a href="index.php?action=doc&file=S/About/CCL/0.md">Center for Decentralized Law</a>  
+CDL.Link=<a href="index.php?action=doc&file=S/About/CDL/0.md">Center for Decentralized Law</a>  
 
 Bqc.Link=<a href="http://www.commonaccord.org/index.php?action=list&file=/bqc/fr/bnpp/a5we/">Universal bank account</a>
 
