@@ -1,3 +1,5 @@
+Note=<b>Click on "Document" to see the full text.</b>
+
 P1.Handle=<font color="green">Acme</font>
 
 Title.1.6.Sec={NoFCRP.Title.1.6.Sec}  
