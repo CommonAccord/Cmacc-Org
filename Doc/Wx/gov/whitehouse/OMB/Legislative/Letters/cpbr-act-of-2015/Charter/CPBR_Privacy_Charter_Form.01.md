@@ -1,4 +1,4 @@
-MessageToUser=<b>CLICK ABOVE ON "Source" to see the origins of this document.</b> 
+Note=<b>Click on "Document" to see the full text.</b> 
 
 Org.Name.Full=<span class="person">Public Privacy Partners, Ltd.</span>
 
