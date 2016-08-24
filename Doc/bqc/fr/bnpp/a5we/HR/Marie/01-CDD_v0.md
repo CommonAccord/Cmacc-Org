@@ -6,6 +6,8 @@ P1.=[U/id/Acme_SARL.md]
 
 P2.=[U/id/Marie_Matignon.md]
 
+P2.Among.Block=P2.Among.Alt1.Block
+
 P-F.Sec={P.1-2.Sec}
 
 Sign.Sec={Sign.1-2.Sec}
