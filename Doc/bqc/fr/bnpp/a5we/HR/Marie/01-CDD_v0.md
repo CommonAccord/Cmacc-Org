@@ -4,9 +4,9 @@ P1.Sign.=[U/id/TW/mdangear.md]
 
 P1.=[U/id/Acme_SARL.md]
 
-P2.=[U/id/Marie_Matignon.md]
+P2.Among.Block={P2.Among.Alt1.Block}
 
-P2.Among.Block=P2.Among.Alt1.Block
+P2.=[U/id/Marie_Matignon.md]
 
 P-F.Sec={P.1-2.Sec}
 
