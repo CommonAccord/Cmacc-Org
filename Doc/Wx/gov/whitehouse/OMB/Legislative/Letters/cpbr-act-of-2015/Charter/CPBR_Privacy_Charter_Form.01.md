@@ -1,3 +1,5 @@
+MessageToUser=<b>CLICK ABOVE ON "Source" to see the origins of this document.</b> 
+
 Org.Name.Full=<span class="person">Public Privacy Partners, Ltd.</span>
 
 Org.Handle=<span class="person">PPPL</span>
