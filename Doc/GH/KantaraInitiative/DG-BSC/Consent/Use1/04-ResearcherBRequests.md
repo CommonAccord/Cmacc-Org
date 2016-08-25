@@ -1,10 +1,14 @@
-Chronology={Request.Form}
+ListOfGrants={Request.Form}
 
-Request.Researcher.xSignature=xCOLLEEN KENDALLx
+Request.Data.cl=Anonymized aggregate information from {Data.cl}.
 
-Request.Researcher.Sign.YMD=2016-08-26T12:00Z
+Request.Use.cl=Correlation of left-handedness and hard-headedness.
 
-Request.Researcher.=[U/id/colleen_kendall]
+Researcher.xSignature=xCOLLEEN KENDALLx
+
+Researcher.Sign.YMD=2016-08-26T12:00Z
+
+Researcher.=[U/id/colleen_kendall]
 
 Request.=[GH/KantaraInitiative/DG-BSC/Consent/Form/Request.md]
 

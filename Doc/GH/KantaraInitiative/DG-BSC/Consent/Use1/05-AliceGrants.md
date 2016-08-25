@@ -1,7 +1,9 @@
-ListOfGrants={Grant.1.Form}
+ListOfGrants=Grant 1:<br> {1.Grant.Form}
 
-Grant.1.Researcher.=[U/id/colleen_kendall]
+1.Date.YMDT=2016-08-26T12:02Z
 
-Grant.1.=[GH/KantaraInitiative/DG-BSC/Consent/Form/RequestGrant.md]
+1.=[GH/KantaraInitiative/DG-BSC/Consent/Form/RequestGrant.md]
+
+1.=[GH/KantaraInitiative/DG-BSC/Consent/Use1/04-ResearcherBRequests.md]
 
 =[GH/KantaraInitiative/DG-BSC/Consent/Use1/03-ResearcherSigns.md]
