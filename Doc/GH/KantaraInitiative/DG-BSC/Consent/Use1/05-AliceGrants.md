@@ -1,4 +1,4 @@
-ListOfGrants={Grant.1.Form}
+ListOfGrants=Grant 1:<br> {Grant.1.Form}
 
 Grant.1.Researcher.=[U/id/colleen_kendall]
 
