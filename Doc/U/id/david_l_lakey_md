@@ -9,4 +9,7 @@ Name.Last=Lakey
 Name.Dr=M.D.
 
 Name.Full={Name.FmL,Dr}
-  
+
+Adr.Type=work
+
+=[U/at/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
