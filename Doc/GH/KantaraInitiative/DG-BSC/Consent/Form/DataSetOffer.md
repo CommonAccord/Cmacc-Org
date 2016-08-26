@@ -4,6 +4,8 @@ Head=<b>This is an Presentation of a Data Set</b>
 
 Parties=<br><b>Offeror:</b><br>{Alice.N,E,A}<br><b>Sample Taken By:</b><br>{ResearcherA.N,E,A}<br>
 
+Condition.Ti=Conditions
+
 Alice.Handle=Offeror
 
 ResearcherA.Handle=Researcher
