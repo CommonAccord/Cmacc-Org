@@ -11,3 +11,5 @@ Signature=<b>Signed by:</b><br>{Alice.Sign.Block}<br>{ResearcherA.Sign.Block}
 Alice.Handle=Patient
 
 ResearcherA.Handle=Researcher
+
+ListOfGrants=<font color="grey">{Request.Form}</span>
