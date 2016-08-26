@@ -12,4 +12,17 @@ ResearcherA.Handle=Researcher
 
 Signature=<b>Signed by:</b><br>{Alice.Sign.Block}
 
+Note=A kit of some conditions:
+
+Condition.Alice.Consent.sec={Researcher.Handle} must obtain express consent of {Alice.Handle}.
+
+Condition.Use.MedicalResearch.sec=Use must be for medical research.
+
+Condition.PublishOpen.sec=Results must be published (if at all) in a free-access publication.
+
+Condition.DataMinimization.sec=Data must be handled securely and must be minimized or deleted as soon as practical.  (Re-requests for data will be honored to the extent the request is for a conforming use.)
+
+Condition.=[Z/ol/Base]
+
+
 =[GH/KantaraInitiative/DG-BSC/Consent/Form/Consent.md]
