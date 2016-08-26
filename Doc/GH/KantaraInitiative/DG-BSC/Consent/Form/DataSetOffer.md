@@ -10,6 +10,8 @@ Alice.Handle=Offeror
 
 ResearcherA.Handle=Researcher
 
+Researcher.Handle=Requesting Researcher
+
 Signature=<b>Signed by:</b><br>{Alice.Sign.Block}
 
 Note=A kit of some conditions:
