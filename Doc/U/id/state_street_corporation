@@ -2,19 +2,16 @@
 
 =[U/at/US/MA/Suffolk/Boston/Geo]			
 
+Sign.=[U/id/samuel_hardy]
+
+Sign.Title=Vice President
+
 Name.Full=State Street Corporation
 
-Adr.1/2={Adr.1.1}<br>{Adr.1.2}<br>{Adr.2}
-
-Adr.1,2={Adr.1.1}, {Adr.1.2}, {Adr.2}
-
-Adr.1.1=State Street Financial Center
-
-Adr.1.2=One Lincoln Street
+Adr.1=State Street Financial Center
 
 Adr.Zip=02111
 
 Phone=617-786-3000
 
 Adr.Type=business
-		

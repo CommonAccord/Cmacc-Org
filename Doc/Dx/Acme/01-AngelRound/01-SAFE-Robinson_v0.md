@@ -1,3 +1,5 @@
+Event.Dissolution.1.sec=Hello!!
+
 Amount.$=$50,000
 
 Funded.YMD=September 27, 2015
