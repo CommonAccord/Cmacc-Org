@@ -10,7 +10,7 @@ Ti=Hourglass of Transacting:
 
 4.sec=                                                       Browser, App, Editor, IDE, Transaction System, MS Word
 
-5.sec=                                                           <a href="index.php?action=source&file=S/About/Conference/Stack/CRUD_0.md">Create Read Update Delete Render</a>   <a href="index.php?action=doc&file=S/About/Conference/Stack/Share_0.md">Share</a> 
+5.sec=                                                           <a href="index.php?action=source&file=S/About/Conference/Stack/CRUD_0.md">Create Read Update Delete Render</a>   Share 
 
 6.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Object Model</a>
 
