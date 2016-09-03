@@ -74,6 +74,8 @@ natural_or_legal_persons=<span class="person">natural</span> or <span class="per
 
 Personal_data=<span class="definedterm">Personal data</span>
 
+personal_data=<span class="definedterm">personal data</span>
+
 personal_data_breach=<span class="definedterm">personal data breach</span>
 
 personal_data_breaches=<span class="definedterm">personal data breaches</span>
