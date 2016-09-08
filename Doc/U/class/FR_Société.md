@@ -8,25 +8,25 @@ Name.Full={Name.Given} {EntityType}
 
 Entity={FormeJuridique}
 
-Siège.Adresse.1,2={Adresse.1} {Adresse.2}
+Siège.Adr.1,2={Adr.1} {Adr.2}
 
-Adresse.1={Adresse.Rue}
+Adresse.1={Adr.Rue}
 
-Adresse.Rue={Adresse.Rue.#} {Adresse.Rue.Nom}
+Adresse.Rue={Adr.Rue.#} {Adr.Rue.Nom}
 
-Adr.City={Adresse.Ville}
+Adr.City={Adr.Ville}
 
-Adr.1={Adresse.1}
+Adr.1={Adr.1}
 
-Adr.2={Adresse.2}
+Adr.2={Adr.2}
 
 Adr.1,2={Adr.1}, {Adr.2}
 
-Adr.Zip={Adresse.CP}
+Adr.Zip={Adr.CP}
 
-Adr.City={Adresse.Ville}
+Adr.City={Adr.Ville}
 
-Adr.Nation={Adresse.3}
+Adr.Nation={Adr.3}
 
 SignBy.FR=Par : <u>{xSignature}</u><br/>Nom : {Signer.Name.Full}<br/>Titre : {Signer.Title}
 
