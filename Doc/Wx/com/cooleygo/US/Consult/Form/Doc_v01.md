@@ -2,7 +2,9 @@ Note=This form of agreement has been through a number of transformations since i
 
 Doc.Title=Consulting Agreement
 
-Olist=<ol><li>{Service.Sec}<li>{Comp.Sec}<li>{Ownership.Sec}<li>{Conf.Sec}<li>{Rep.Sec}<li>{IndependentContractor.Sec}<li>{Cov.Sec}<li>{Term.Sec}<li>{Remedy.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}</ol>
+Olist=<ol><li>{Service.Sec}<li>{Comp.Sec}<li>{Ownership.Sec}<li>{Conf.Sec}
+
+<li>{Rep.Sec}<li>{IndependentContractor.Sec}<li>{Cov.Sec}<li>{Term.Sec}<li>{Remedy.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}</ol>
 
 Service.=[Wx/com/cooleygo/US/Consult/Sec/Services_v01.md]
 
@@ -33,7 +35,7 @@ Misc.=[Wx/com/cooleygo/US/Consult/Sec/Misc_v01.md]
 
 =[Z/Agt/Agt.md]
 
-=[Wx/com/cooleygo/US/Consult/Sec/DefinedTerms_v01.md]
+_=[Wx/com/cooleygo/US/Consult/Sec/DefinedTerms_v01.md]
 
 Foot.Sec=<hr><hr><b>Exhibit A</b><br>{Exh.Project.Doc}<hr><b>Exhibit B</b><br>{Exh.Copyright.Doc}<hr><b>Exhibit C</b><br>{Exh.Patent.Doc}
 

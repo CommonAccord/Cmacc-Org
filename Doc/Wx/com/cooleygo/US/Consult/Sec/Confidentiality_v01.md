@@ -8,11 +8,11 @@ Def.=[Wx/com/cooleygo/US/Consult/Sec/Confidentiality_Definition_v01.md]
 
 Def.Xnum={Xnum}.2
 
-Exclude.=[Wx/com/cooleygo/US/NDA/Sec/Exclude_v01.md]
+Exclude.=[Wx/com/cooleygo/US/NDA/Sec/Conf/Except/0.md]
 
 Exclude.Xnum={Xnum}.3
 
-Compelled.=[Wx/com/cooleygo/US/NDA/Sec/Except_Compelled_v01.md]
+Compelled.=[Wx/com/cooleygo/US/NDA/Sec/Conf/Except/Compelled/0.md]
 
 Compelled.Xnum={Xnum}.4
 
@@ -20,7 +20,7 @@ Ownership.=[Wx/com/cooleygo/US/Consult/Sec/Confidentiality_Ownership_v01.md]
 
 Ownership.Xnum={Xnum}.5
 
-Return.=[Wx/com/cooleygo/US/NDA/Sec/Remedy_Return_v01.md]
+Return.=[Wx/com/cooleygo/US/NDA/Sec/Remedy/Return/0.md]
 
 Return.Xnum={Xnum}.6
 

@@ -8,11 +8,11 @@ Ti=Term and Termination
 
 2.Ti=Renewal
 
-2.sec=Thereafter, {_this_Agreement} will automatically renew on its anniversary date, for {Renew year/month} terms, unless {the_Client} provides fifteen (15) days written notice prior to any such anniversary date that {_this_Agreement} shall not renew.
+2.sec=Thereafter, {_this_Agreement} will automatically renew on its anniversary date, for {Renew year/month} terms, unless {_the_Client} provides fifteen (15) days written notice prior to any such anniversary date that {_this_Agreement} shall not renew.
 
 3.Ti=Termination Without Cause
 
-3.sec={_The_Client} may terminate {_this_Agreement} with or without cause, at any time upon fifteen (15) days prior written notice to {the_Consultant}. {_The_Consultant} may terminate {_this_Agreement} with or without cause, at any time when no {Project_Assignment} is in effect upon thirty (30) days prior written notice to {the_Client}.
+3.sec={_The_Client} may terminate {_this_Agreement} with or without cause, at any time upon fifteen (15) days prior written notice to {_the_Consultant}. {_The_Consultant} may terminate {_this_Agreement} with or without cause, at any time when no {_Project_Assignment} is in effect upon thirty (30) days prior written notice to {_the_Client}.
 
 4.Ti=Termination for Cause
 
