@@ -21,8 +21,8 @@ sub parse {
 
 	ref($file) eq "GLOB" ? $f = $file : open $f, $file or die $!;
 	$orig = $f unless $orig;
-	
 	my $content = parse_root($f, $root, $part);
+	if($content) {print  $root. "=" .$content ."\n\n";	};
 	if($content) { expand_fields($f, \$content, $part); return($content) }
 
 	return;
@@ -81,19 +81,6 @@ sub expand_fields  {
 
 
 my $output  = parse($ARGV[0], "Model.Root");
-
-# print $output;
-
-# XXX FIX ME XXX This is horrible - but  I'm just dead tired  :(
-my %seen; my @arr = $output=~/\{([^}]+)\}/g;
-@arr = grep { ! $seen{$_}++ } @arr;
-
-# select one:
-
-print "$_=\n" foreach @arr;
-
-# print "$_=<a href='#$_.Def'>$_</a>\n" foreach @arr;
-
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;
