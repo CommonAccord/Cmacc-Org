@@ -8,7 +8,7 @@ if (strlen($htmlHead) > 5){
 }
 
  else {
-   echo "<!DOCTYPE html><head><link  href='Doc/Z/CSS/Doc.css' rel='stylesheet' /></head><body>";
+   echo "<!DOCTYPE html><head><link  href='Doc/Z/CSS/Plain.css' rel='stylesheet' /></head><body>";
  }
 
 

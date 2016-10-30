@@ -24,9 +24,9 @@ $minDocLength = 1;
 
 if (strlen($document) > $minDocLength){ 
 
-$document=str_replace("{","<font color='red'>{",$document);
+$document=str_replace("{","<span class='missing'>{",$document);
 
-$document=str_replace("}","}</font>",$document);
+$document=str_replace("}","}</span>",$document);
 
   echo $document;}
  else {
