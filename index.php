@@ -22,7 +22,7 @@ DEFINE('LIB_PATH', ROOT . '/vendor/library'); // Create global variable to our l
 
 ini_set('include_path', ini_get('include_path') . PATH_SEPARATOR . LIB_PATH . DIRECTORY_SEPARATOR);	// Include it in PHP include/require search
 
-DEFINE('ASSETS_PATH', 'vendor/image');  // Create global variable to our css and js assets
+DEFINE('ASSETS_PATH', 'File');  // Create global variable to our css and js assets
 
 DEFINE('URLFORDOCSINREPO', URLFORREPO . "/blob/master/Doc/");	// Docs in the repo
 

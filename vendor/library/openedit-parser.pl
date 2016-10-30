@@ -87,12 +87,7 @@ my $output  = parse($ARGV[0], "Model.Root");
 # XXX FIX ME XXX This is horrible - but  I'm just dead tired  :(
 my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 @arr = grep { ! $seen{$_}++ } @arr;
-
-# select one:
-
 print "$_=\n" foreach @arr;
-
-# print "$_=<a href='#$_.Def'>$_</a>\n" foreach @arr;
 
 
 #clean up the temporary files (remote fetching)

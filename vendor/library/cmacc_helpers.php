@@ -27,18 +27,18 @@ switch ($_REQUEST['action']) {
 
    case 'doc':
 
-        include('./vendor/view/doc.php');
+        include('./view/doc.php');
         break;
 
     case 'edit':
 
-        include('./vendor/view/edit.php');
+        include('./view/edit.php');
         break;
 
 
    case 'html':
 
-        include('./vendor/view/html.php');
+        include('./view/html.php');
         break;
 
     case 'ipld':
@@ -70,37 +70,32 @@ switch ($_REQUEST['action']) {
         $filenameX = basename($dir);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/view/ipld.php");
+        include("./view/ipld.php");
 
         break;
 
 
     case 'list':
 
-        include('./vendor/view/list.php');
+        include('./view/list.php');
         break;
 
 
    case 'openedit':
 
-        include('./vendor/view/openedit.php');
+        include('./view/openedit.php');
         break;
 
 
    case 'print':
 
-        include('./vendor/view/print.php');
-        break;
-
-   case 'kv':
-
-        include('./vendor/view/print-kvs.php');
+        include('./view/print.php');
         break;
 
 
    case 'raw':
 
-        include('./vendor/view/raw.php');
+        include('./view/raw.php');
         break;
 
     case 'source':
@@ -130,7 +125,7 @@ switch ($_REQUEST['action']) {
         $contents = explode("\n", $content);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/view/source.php");
+        include("./view/source.php");
 
         break;
 
