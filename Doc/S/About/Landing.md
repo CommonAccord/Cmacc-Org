@@ -2,7 +2,7 @@ Model.Root.Note=This page presents the key=value pairs, (aka properties) in the 
 
 Model.Root=<center>{Logo}<br><br><b>{Site.Name}</b></center></p><br>{Content.Sec}
 
-Logo=<img src="File/cmacc-trans.png" style="width:35%" />
+Logo=<img src="vendor/image/cmacc-trans.png" style="width:35%" />
 
 Site.Name=CommonAccord.Org
 
