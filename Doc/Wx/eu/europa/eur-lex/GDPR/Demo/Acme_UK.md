@@ -5,8 +5,8 @@ EffectiveDate.YMD=2016-09-03
 
 RevisionDate.YMD=2016-09-04 T 16:07:00
 
-P1.=[U/id/acme_uk]
+SiteOwner.=[U/id/acme_uk]
 
-P1.Contact.=[U/id/priscilla_ang]
+SiteOwner.Contact.=[U/id/priscilla_ang]
 
 =[Wx/eu/europa/eur-lex/GDPR/PrivacyPolicy/Form/0.md]
