@@ -12,9 +12,7 @@ Head.sec={Doc.Title}
 
 Sec=<b>{Ti}</b><br>{sec}
 
-sec={0.Sec} {xlist} {00.Sec}
-
-0.Sec={0.sec}
+sec={0.sec} {xlist} {00.Sec}
 
 0.sec=</i>
 
