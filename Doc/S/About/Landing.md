@@ -10,7 +10,7 @@ Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td><td valign=
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec=<b>Overview:</b><ul><li>{Slack.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec=<b>Overview:</b><ul><li>{Slack.sec} &emsp; {Blog.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CDL.Link} 
 
@@ -19,6 +19,8 @@ CmAbqc.sec=One proposed implementation of CommonAccord is a universal bank accou
 Conference.sec=We are co-organizing a conference at MIT Media Lab - May 23-24: <a href="https://docs.google.com/document/d/1nG78OfVcCfI_WtxpLlz5Y_8wyTaksGl9jKGCKz0aSxo/edit#">Conference Program</a>
 
 Slack.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Join our Slack group!</a>
+
+Blog.sec=<a href="http://commonaccord.wordpress.com">CommonAccord.Wordpress.com</a>
 
 Codification.sec=Codification of legal form documents makes them transparent and continuously improving.  It is part of the tradition of legal codification - from Hammurabi through Napoleon, the UCC, the ALI, and Creative Commons.  Codification demystifies law and encourages <a href="http://p2pfoundation.net/Common_Accord">transparency and autonomy</a>.
 
