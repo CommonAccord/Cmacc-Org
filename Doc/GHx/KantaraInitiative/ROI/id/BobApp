@@ -2,9 +2,9 @@ Name.Full=Bob's Family Medical Clinic
 
 Handle=UMA Client
 
-=[core/class/ID_Entity]
+=[U/class/ID_Entity]
 
-=[core/at/USA/MA/Middlesex/Watertown/Geo]
+=[U/at/US/MA/Middlesex/Watertown/Geo]
 
 Adr.1=123 St. Stephen Lane
 
