@@ -4,9 +4,9 @@ echo "<a href=index.php?action=list&file=><img src='" . ASSETS_PATH . "/arrowup.
 
 echo "<a href=index.php?action=source&file=" .$dir.">". SOURCE_TAB_MESSAGE."</a> &emsp; ";
 
-echo "<a href=index.php?action=edit&file=" .$dir.">".EDIT_TAB_MESSAGE."</a> &emsp; ";
+#echo "<a href=index.php?action=edit&file=" .$dir.">".EDIT_TAB_MESSAGE."</a> &emsp; ";
 
-echo "<a href=index.php?action=openedit&file=" .$dir.">". COMPLETE_TAB_MESSAGE."</a> &emsp; ";
+#echo "<a href=index.php?action=openedit&file=" .$dir.">". COMPLETE_TAB_MESSAGE."</a> &emsp; ";
 
 echo "<a href=index.php?action=ipld&file=" .$dir.">". IPLD_TAB_MESSAGE
 ."</a> &emsp; ";
