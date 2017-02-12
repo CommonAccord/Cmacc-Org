@@ -1,7 +1,5 @@
 Note=Example
 
-Note1=Section 1: Header
-
 jurisdiction=US
 
 iat=1435367226
@@ -14,29 +12,19 @@ sub=example@example.com
 
 date=<span class="definedterm">2017-02-12</span>
 
-Note2=Section 2: Data Controller
+subject_name=Andrea Ang
 
 data_controller={"on_behalf": true, "contact": "Dave Controller", "company": "Data Controller Inc.", "address": "123 St., Place", "email": "dave@datacontroller.com", "phone": "00-123-341-2351"}
-
-Note2.1=</i>
 	
 policy_uri=http://example.com/privacy
 
-Note3=Section 3: Purpose Specification			
-
 purpose=[Bob’s store, delivery, ]
-
-Note4=Section 4: Personal Information			
 
 pi_collected={"name" : "Example Example", "email" : "example@example.com"}
 
 sensitive_pi={"health"}
 
-Note5=Section 5: Information Sharing
-
 sharing=[3party: "Bob's Store", purpose : "delivery"]
-
-Note6=In Review			
 
 aud=http://engageidentity.com/protected
 
