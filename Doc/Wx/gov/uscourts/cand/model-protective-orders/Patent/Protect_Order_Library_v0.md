@@ -181,6 +181,8 @@ C.2.="{Highly Confidential - Attorneys' Eyes Only}."
 
 C.3="{Highly Confidential - Source Code}"
 
+C.2and3="{Confidential}" and "{Highly Confidential - Attorneys' Eyes Only}"
+
 C.1or2="{Confidential}" or "{Highly Confidential - Attorneys' Eyes Only}"
 
 C.1or2.="{Confidential}" or "{Highly Confidential - Attorneys' Eyes Only}."
