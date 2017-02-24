@@ -1,0 +1,3 @@
+This set of materials reworks the <a href="http://shop.americanbar.org/eBus/Store/ProductDetails.aspx?productId=213974">ABA "Model Stock Purchase Agreement"</a>.  <br>
+The "Outline" has (unsurprisingly) the outline of the MSPA - though for convenience of presentation we include only a few of the defined terms.  (The full list of defined terms would overwhelm the presentation.)
+The Outline currently also has the full text of the Miscellaneous provisions, to demonstrate how text can be organized.<br>All of the other provisions are available under the "Sec" folder. 

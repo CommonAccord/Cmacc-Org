@@ -21,4 +21,4 @@ SecName=Fee.2
 
 Note={If negotiating a license specifying a cancellation notice period in Section 6.2, Liblicense editors suggest revising this to read “no less than [sixty (60)] days prior to the cancellation notice date.”}
 
-=[Z/Sec/2]
+=[Z/ol/2]

@@ -15,6 +15,6 @@ Payment.Time=sixty (60) days after the date of invoice from {Licensor}, but no e
 
 2.2.Sec=In the event no funds or insufficient funds are appropriated and budgeted and are not otherwise legally available by any means whatsoever in any fiscal period for payments due under this transaction, {the_P1_Institute} will immediately notify {Licensor} of such occurrence and this transaction shall terminate on the last day of the subscription  period for which payment has been made without penalty of expense to {the_P1_Institute} of any kind whatsoever, except as to the portions of payments herein agreed for which funds shall have been appropriated and budgeted or otherwise available.  In the event of such termination {the_P1_Institute} shall maintain its perpetual right to materials licensed under the subscription periods for which it has fully paid.
 
-2.=[Z/Sec/2]
+2.=[Z/ol/2]
 
-=[Z/Sec/2]
+=[Z/ol/2]

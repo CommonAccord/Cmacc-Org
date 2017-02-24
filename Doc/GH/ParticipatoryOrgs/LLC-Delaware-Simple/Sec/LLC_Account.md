@@ -16,7 +16,7 @@ Ti=ACCOUNTING, RECORDS, REPORTING BY MEMBERS
 
 1.5.sec=the Company's books and records as they relate to the internal affairs of the Company for at least the current and past four (4) Fiscal Years.
 
-1.=[Z/Sec/s5]
+1.=[Z/ol/s5]
 
 2.Ti=Reports
 
@@ -29,4 +29,4 @@ Ti=ACCOUNTING, RECORDS, REPORTING BY MEMBERS
 4.Ti=Tax Matters Partner
 
 4.sec={TMP.Name.Full} is designated as "Tax Matters Partner" (as defined in Code Section 6231), to represent the Company (at the Company's expense) in connection with all examination of the Company's affairs by tax authorities and to expend Company funds for professional services and costs associated therewith.  
-=[Z/Sec/4]
+=[Z/ol/4]

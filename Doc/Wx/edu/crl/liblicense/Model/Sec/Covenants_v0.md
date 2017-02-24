@@ -64,7 +64,7 @@ Support.Telepresence.cl=during Licensee’s regular business hours, Monday – F
 
 1.13.3.sec=If online content is a digitized version of print content and differs from the print or other physical format versions of Licensed Materials so as to be substantially less useful to the Licensee or its Authorized Users, the Licensee may seek to terminate this Agreement for breach pursuant to the termination provisions of this Agreement in Section 6, below.
 
-1.13.=[Z/Sec/s3]
+1.13.=[Z/ol/s3]
 
 1.14.Ti=Notification of Modifications of Licensed Materials
 
@@ -76,7 +76,7 @@ Support.Telepresence.cl=during Licensee’s regular business hours, Monday – F
 
 1.15.2.sec=If any such withdrawal renders the Licensed Materials less useful to Licensee or its Authorized Users, Licensor shall reimburse Licensee for the withdrawal in an amount proportional to the total Fees owed by Licensee for the Licensed Materials under this Agreement. If any such withdrawal renders the Licensed Materials substantially less useful to Licensee or its Authorized Users, Licensee may seek to terminate this Agreement for breach pursuant to the termination provisions in Section 6, below.
 
-1.15.=[Z/Sec/s2]
+1.15.=[Z/ol/s2]
 
 1.16.Ti=Itemized Holdings List
 
@@ -88,7 +88,7 @@ Support.Telepresence.cl=during Licensee’s regular business hours, Monday – F
 
 1.17.2.sec=Licensor shall not provide Licensee’s usage statistics in any form to any third party without the Licensee’s written authorization, unless the third party owns rights in the Licensed Materials. In all cases, the disclosure of such data shall fully protect the anonymity of individual users and the confidentiality of their searches, and will comply with all applicable privacy laws. The Licensor shall not disclose or sell to other parties usage data or information about the Licensee or its Authorized Users without the Licensee’s express written permission or as required by law.
 
-1.17.=[Z/Sec/s2]
+1.17.=[Z/ol/s2]
 
 1.18.Ti=Confidentiality of Personally Identifiable Information
 
@@ -108,9 +108,9 @@ Support.Telepresence.cl=during Licensee’s regular business hours, Monday – F
 
 1.21.2.sec=Licensor will enter into good faith discussions with Licensee concerning mechanisms by which the open access publication fees received by Licensor can offset the fees paid by Licensee and other subscribers of Licensed Materials, with a goal of reducing such fees in proportion to the revenue received through such open access publication fees.
 
-1.21.=[Z/Sec/s2]
+1.21.=[Z/ol/s2]
 
-1.=[Z/Sec/21]
+1.=[Z/ol/21]
 
 2.Ti=Licensee Performance Obligations
 
@@ -128,7 +128,7 @@ Support.Telepresence.cl=during Licensee’s regular business hours, Monday – F
 
 2.3.sec=Where access to the Licensed Materials is to be controlled by use of passwords, Licensee will use reasonable efforts to inform Authorized Users that they should not divulge their numbers and passwords to any third party. Licensee will also use reasonable efforts to maintain the confidentiality of any institutional passwords provided by Licensor.
 
-2.=[Z/Sec/3]
+2.=[Z/ol/3]
 
 3.Ti=Mutual Performance Obligations
 
@@ -142,6 +142,6 @@ Note=hazardj - this looks like it could use some work.
 
 3.3.sec=Any unauthorized use that is considered a breach of obligations under this Agreement shall be subject to Section 6.4, below, including the cure period.
 
-3.=[Z/Sec/s3]
+3.=[Z/ol/s3]
 
-=[Z/Sec/3]
+=[Z/ol/3]

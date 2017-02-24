@@ -6,4 +6,4 @@ Allocate.=[GH/ParticipatoryOrgs/LLC-Delaware-Simple/Sec/LLC_Allocate.md]
 
 Distribute.=[GH/ParticipatoryOrgs/LLC-Delaware-Simple/Sec/LLC_Distribute.md]
 
-=[Z/Sec/0]
+=[Z/ol/0]

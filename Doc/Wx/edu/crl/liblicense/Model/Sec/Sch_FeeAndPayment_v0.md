@@ -16,4 +16,4 @@ Note={Liblicense editors suggest thirty, forty-five, or sixty-day time periods m
 
 90.Sec={Sign.Sec}
 
-=[Z/Sec/s4]
+=[Z/ol/s4]

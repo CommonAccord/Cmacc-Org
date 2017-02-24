@@ -11,7 +11,7 @@ Ti=DEFINITIONS
 
 2.2.sec=debit to that Capital Account of the items described in Regulations sections 1.704-1(b)(2)(ii)(d)(4), 1.704-1(b)(2)(ii)(d)(5), and 1.704-1(b)(2)(ii)(d)(6).
 
-2.=[Z/Sec/s2]
+2.=[Z/ol/s2]
 
 3.sec="Affiliate" means any Person, directly or indirectly, through one or more intermediaries, controlling, controlled by, or under common control with a Manager.  The term "control," as used in the immediately preceding sentence, means, with respect to a corporation or limited liability company, the right to exercise, directly or indirectly, more than fifty percent (50%) of the voting rights attributable to that controlled corporation or limited liability company, and, with respect to any individual, partnership, trust, other entity or association, the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of that controlled entity.
 

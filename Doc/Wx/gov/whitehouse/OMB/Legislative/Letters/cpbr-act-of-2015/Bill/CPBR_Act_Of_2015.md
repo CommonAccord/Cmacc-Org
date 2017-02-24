@@ -34,13 +34,13 @@ DocBody={Doc}
 
 3.8.sec=It is the sense of Congress that each covered entity should provide, when reasonable, a version of the notice required under {this_Act} in a format that is computer-readable, to facilitate the development of information technology tools that will help individuals compare covered entities' personal data practices.
 
-3.=[Z/Sec/s8]
+3.=[Z/ol/s8]
 
 4.=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015_Definitions.01.md]
 
 =[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Format.md]
 
-=[Z/Sec/4]
+=[Z/ol/4]
 
 00.sec={Title.1.Sec}<hr>{Title.2.Sec}<hr>{Title.3.Sec}<hr>{Title.4.Sec}
 

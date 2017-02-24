@@ -12,7 +12,7 @@ Note={If the Agreement does not include perpetual rights to the Licensed Materia
 
 2.2.sec=In the event the Licensor discontinues or suspends selling or licensing the Licensed Materials, the Licensee may use such archived Licensed Materials under the same terms as this Agreement. If Licensee has a backup copy of the Licensed Materials as defined in Section 3.2(l) Backup Copy, the backup copy may be used as an archival copy.
 
-2.=[Z/Sec/s2]
+2.=[Z/ol/s2]
 
 3.Ti=Third Party Archiving Services
 
@@ -20,6 +20,6 @@ Note={If the Agreement does not include perpetual rights to the Licensed Materia
 
 3.2.sec=In the event the Licensor discontinues or changes the terms of its participation in a third-party archiving service, the Licensor shall notify the Licensee in advance, and shall in good faith seek to establish alternative arrangements for trusted archiving and perpetual access to the Licensed Materials.
 
-3.=[Z/Sec/s2]
+3.=[Z/ol/s2]
 
-=[Z/Sec/3]
+=[Z/ol/3]

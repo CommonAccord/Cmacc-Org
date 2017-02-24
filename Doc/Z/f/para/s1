@@ -1,5 +1,0 @@
-sec={1.sec}
-
-Sec=<b>{Ti}</b><br>{sec}
-
-Model.Root={Sec}

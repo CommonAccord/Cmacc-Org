@@ -39,8 +39,8 @@ Note=These access and authentication specifications may require the expertise of
 
 3.4.sec=Other than as specifically permitted in this Agreement, Licensee may not use the Licensed Materials for commercial purposes. This restriction expressly prohibits the Licensee from selling Licensed Materials. For the avoidance of doubt, research conducted by Licensee and Authorized Users that is supported by a commercial entity shall not be considered use for commercial purposes.
 
-3.=[Z/Sec/4]
+3.=[Z/ol/4]
 
-=[Z/Sec/3]
+=[Z/ol/3]
 
-=[Z/Sec/4]
+=[Z/ol/4]

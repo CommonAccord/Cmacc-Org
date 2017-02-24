@@ -6,4 +6,4 @@ Ti=Data Security
 
 3.sec=It is important to understand that these precautions apply only to our {Site} and systems. We exercise no control over how your information is stored, maintained or displayed by third parties or on third-party sites.
 
-=[Z/Sec/s3]
+=[Z/ol/s3]

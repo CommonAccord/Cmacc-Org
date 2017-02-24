@@ -14,7 +14,7 @@ Ti=AUTHORIZED USERS AND USES
 
 Note={Liblicense editors recommend that each institution should create their own Authorized User definition and tailor this Authorized Users clause accordingly.}
 
-1.=[Z/Sec/s4]
+1.=[Z/ol/s4]
 
 2.Ti=Authorized Uses
 
@@ -70,7 +70,7 @@ Note={Liblicense editors recommend that each institution should create their own
 
 BackupCopy.Destroy.Period=thirty (30) business days
 
-2.=[Z/Sec/12]
+2.=[Z/ol/12]
 
 3.Ti=No Diminution of Rights
 
@@ -82,6 +82,6 @@ BackupCopy.Destroy.Period=thirty (30) business days
 
 4.2.sec=Scholarly and educational purposes encompass teaching, research, and institutional needs, including but not limited to the right to (a) use, reproduce, distribute, perform, and display the Work in connection with teaching, conference presentations, and lectures; (b) make full use of the Work in future research and publications; (c) republish, update or revise the Work in whole or in part for later publication; (d) meet requirements and conditions of research grants or publishing subventions provided by government agencies or non-profit foundations, and; (e) grant to the Author’s employing institution some or all of the foregoing rights, as well as permission to use the Work in connection with administrative activities such as accreditation, mandated reports to state or federal governments, and similar purposes. In all cases, the Author and/or the Author’s employing institution will be expected to provide proper citation to the published version of the Work.
 
-4.=[Z/Sec/s2]
+4.=[Z/ol/s2]
 
-=[Z/Sec/4]
+=[Z/ol/4]

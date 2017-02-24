@@ -28,9 +28,9 @@ Ti=TITLE IV.  Miscellaneous
 
 1.4.5.sec=Other {State} or local laws to the extent that those laws relate to fraud or public safety.
 
-1.4.=[Z/Sec/s5]
+1.4.=[Z/ol/s5]
 
-1.=[Z/Sec/4]
+1.=[Z/ol/4]
 
 2.Ti=Preservation of Federal Trade Commission Authority
 
@@ -42,7 +42,7 @@ Ti=TITLE IV.  Miscellaneous
 
 2.2.sec=Nothing in {this_Act} shall be construed to limit {the_Commission}'s authority to prevent unfair acts or practices relating to {personal_data_processing}, except the conduct that underlies a claim by {the_Commission} that {a_covered_entity} breached a commitment that it made as part of its adherence to a code of conduct approved under section 301 of {this_Act}.
 
-2.=[Z/Sec/2]
+2.=[Z/ol/2]
 
 3.Ti=Private Right of Action
 
@@ -72,7 +72,7 @@ Ti=TITLE IV.  Miscellaneous
 
 4.4.2.sec=Notwithstanding paragraph (1), the Federal Trade Commission Act shall be modified as described in Section 402 of {this_Act}.
 
-4.4.=[Z/Sec/2]
+4.4.=[Z/ol/2]
 
 4.5.Ti=The Federal privacy and security laws described in this subsection are as follows:
 
@@ -122,9 +122,9 @@ seq.).
 
 4.5.22.sec=Foreign Intelligence Surveillance Act of 1978, as amended (50 U.S.C. &sect; 1801 et seq.).
 
-4.5.=[Z/Sec/s22]
+4.5.=[Z/ol/s22]
 
-4.=[Z/Sec/5]
+4.=[Z/ol/5]
 
 5.Ti=Exceptions to the Definition of {Covered_Entity}
 
@@ -136,10 +136,10 @@ seq.).
 
 6.2.sec=The obligations of {covered_entities} under Title I of {this_Act} shall not give rise to a cause of action based on {this_Act} less than 2 years after the date of enactment of {this_Act}.
 
-6.=[Z/Sec/s2]
+6.=[Z/ol/s2]
 
 =[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Format.md]
 
-=[Z/Sec/6]
+=[Z/ol/6]
 
 PageName=Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015_Title_4.md

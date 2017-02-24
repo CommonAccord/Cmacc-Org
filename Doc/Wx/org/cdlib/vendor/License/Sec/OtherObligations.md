@@ -14,7 +14,7 @@ Ti=Other Performance Obligations
 
 1.3.sec={Licensee} and {Licensor} shall cooperate in the implementation of security and control protocols and procedures as they are developed during the term of {this_Agreement}.
 
-1.=[Z/Sec/3]
+1.=[Z/ol/3]
 
 
 2.Ti={Licensor} Performance Obligations
@@ -47,7 +47,7 @@ DownTime.%=2%
 
 NoticeOfModification.Days=ninety (90) days
 
-2.4.=[Z/Sec/4]
+2.4.=[Z/ol/4]
 
 
 2.5.Ti=Completeness of Content
@@ -89,17 +89,17 @@ NoticeOfModification.Days=ninety (90) days
 
 2.12.1.2.Sec=the number of articles published under the open access option by all authors, listed by journal title.
 
-2.12.1.=[Z/Sec/2]
+2.12.1.=[Z/ol/2]
 
 2.12.2.Sec={Licensor} will enter into good faith discussions with {Licensee} concerning open access business models and how these may influence future business models, including the potential impact on institutional subscription pricing. 
 
 
 2.12.3.Sec={Licensor} has signed an Expression of Interest to fund the Sponsoring Consortium for Open Access Publishing in Particle Physics (SCOAP3), an initiative that would convert certain journals in high energy physics to open access. {Licensor} agrees that should SCOAP3 proceed to the tender stage, the subscription value of {Licensor}'s journals contained within the {Licensed_Materials} and any associated fees (e.g. cross-access fees) will be deducted from the license fees due to {Licensor} so that these funds can be redirected to SCOAP3.
 
-2.12.=[Z/Sec/3]
+2.12.=[Z/ol/3]
 
 
-2.=[Z/Sec/12]
+2.=[Z/ol/12]
 
 
 3.Ti={Licensee} Performance Obligations
@@ -120,6 +120,6 @@ NoticeOfModification.Days=ninety (90) days
 
 3.4.sec=Where access to the {Licensed_Materials} is to be controlled by use of passwords, {Licensee} shall issue log-on identification numbers and passwords to each {Authorized_User} and use reasonable efforts to ensure that {Authorized_Users} do not divulge their numbers and passwords to any third party.
 
-3.=[Z/Sec/4]
+3.=[Z/ol/4]
 
-=[Z/Sec/3]
+=[Z/ol/3]

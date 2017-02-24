@@ -78,6 +78,4 @@ Standard_Preferred_Stock=<span class="definedterm">Standard Preferred Stock</spa
 
 Valuation_Cap=<span class="definedterm">Valuation Cap</span>
 
-=[Z/Agt/Out/DefinedTerms_Base.md]
-
 q=,

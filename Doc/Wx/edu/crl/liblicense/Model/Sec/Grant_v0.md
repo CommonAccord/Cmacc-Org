@@ -12,4 +12,4 @@ Note={Liblicense editors suggest that materials be described in a separate Sched
 
 3.sec=Nothing in this Agreement shall be interpreted to transfer ownership of any copyright, trademarks or service marks from the Licensor or its suppliers to the Licensee or Authorized Users.<br>Licensor will include copyright, trademark and other notices in the Licensed Materials only where applicable, and all works protected by copyright will have a copyright notice displayed to clearly distinguish any copyright in the compilation from any copyright in the underlying works.
 
-=[Z/Sec/3]
+=[Z/ol/3]

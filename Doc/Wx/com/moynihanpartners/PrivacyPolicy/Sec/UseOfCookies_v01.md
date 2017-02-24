@@ -10,4 +10,4 @@ Ti=Cookies and Other Technology
 
 5.sec=We may use third party service providers to help us analyze certain online activities and improve {the_Products_and_Services}. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on the {Site}. We may permit these service providers to use cookies and other technologies to perform these services for us. We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply fully with {this_Policy}.
 
-=[Z/Sec/s5]
+=[Z/ol/s5]

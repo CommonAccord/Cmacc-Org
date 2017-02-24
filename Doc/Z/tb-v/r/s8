@@ -1,0 +1,7 @@
+Model.Root={Sec}
+
+Sec=<table border=1>{Secs}</table>
+
+Secs=<tr>{1.Sec}</tr><tr>{2.Sec}</tr><tr>{3.Sec}</tr><tr>{4.Sec}</tr><tr>{5.Sec}</tr><tr>{6.Sec}</tr><tr>{7.Sec}</tr><tr>{8.Sec}</tr>
+
+secs=<tr>{1.sec}</tr><tr>{2.sec}</tr><tr>{3.sec}</tr><tr>{4.sec}</tr><tr>{5.sec}</tr><tr>{6.sec}</tr><tr>{7.sec}</tr><tr>{8.sec}</tr>

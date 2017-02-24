@@ -8,5 +8,5 @@ Ti=Use of Aggregated Anonymous User Data
 
 3.sec=Advertisers and other third parties for their marketing and promotional purposes.
 
-=[Z/Sec/s3]
+=[Z/ol/s3]
 

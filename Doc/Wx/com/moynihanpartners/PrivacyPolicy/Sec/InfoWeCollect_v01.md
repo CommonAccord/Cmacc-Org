@@ -8,4 +8,4 @@ Ti=What Personal Information We Collect
 
 3.sec=Information that you add manually to one of the {Services} is stored in your {User_Account}.
 
-=[Z/Sec/s3]
+=[Z/ol/s3]

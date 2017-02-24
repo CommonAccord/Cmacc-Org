@@ -39,7 +39,7 @@
 
 Entire.=[Wx/com/cooleygo/US/NDA/Sec/Misc_Entire_v01.md]
 
-7.=[Z/Sec/4]
+7.=[Z/ol/4]
 
 8.=[Wx/com/melwanichan/Sec/Dispute_NY_v01.md]
 
@@ -51,7 +51,7 @@ Attach.Sec=Exhibit A Non-Disclosure Agreement
 
 =[Z/Agt/Agt.md]
 
-=[Z/Sec/9]
+=[Z/ol/9]
 
 The_Company=The <font colore="green">Company</font>
 

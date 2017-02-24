@@ -36,7 +36,7 @@ Ti=Third Party Intermediaries
 
 3.9.sec=Arrangements with third-party representatives will be reviewed regularly to ensure that they are in strict compliance with {this_Policy}.
 
-3.=[Z/Sec/s9]
+3.=[Z/ol/s9]
 
 4.sec=The {Intermediary_Supervisor} or his or her designee will create and maintain a file documenting the due diligence conducted on each third party representative.
 

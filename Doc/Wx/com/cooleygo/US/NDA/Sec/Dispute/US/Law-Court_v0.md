@@ -8,6 +8,6 @@ Forum.=[Wx/com/cooleygo/US/NDA/Sec/Dispute/US/Court/0.md]
 
 2.Sec={Forum.Sec}
 
-=[Z/Sec/2]
+=[Z/ol/2]
 
 /Note=Injunctions are assumed to be part of Remedies.

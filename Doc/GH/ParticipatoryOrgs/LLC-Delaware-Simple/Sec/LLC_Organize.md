@@ -20,4 +20,4 @@ Ti=ORGANIZATIONAL MATTERS
 
 5.sec=The purpose of the Company is to engage in any lawful activity for which a limited liability company may be organized under the Act.
 
-=[Z/Sec/5]
+=[Z/ol/5]

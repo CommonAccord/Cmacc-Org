@@ -16,7 +16,7 @@ Ti=TITLE III. Codes of Conduct to Implement the Consumer Privacy Bill of Rights
 
 1.1.1.5.sec=Such additional information as {the_Commission} determines is appropriate.
 
-1.1.1.=[Z/Sec/s5]
+1.1.1.=[Z/ol/s5]
 
 
 1.1.2.0.sec=Timeline for {Commission} Review.&emdash;
@@ -30,12 +30,12 @@ and
 
 1.1.2.2.2.sec=Maintains transparency by, at minimum, making decisional documents readily available to the public at a time and in manner that permits meaningful review prior to any decision based upon such documents.
 
-1.1.2.2.=[Z/Sec/s2]
+1.1.2.2.=[Z/ol/s2]
 
 
 1.1.2.3.sec= Consistent with the other regulations adopted under subsection (c), {the_Commission} shall approve or deny a code of conduct developed through any process not covered by subparagraph (A) or (B) within 180 days of receipt.
 
-1.1.2.=[Z/Sec/s3]
+1.1.2.=[Z/ol/s3]
 
 
 1.1.3.0.sec=Public Comment and Explanation of Decisions.&emdash;
@@ -44,7 +44,7 @@ and
 
 1.1.3.2.sec= {The_Commission} shall publicly explain in writing the reasons for approving or denying each proposed code of conduct that it reviews pursuant to this section.
 
-1.1.3.=[Z/Sec/s2]
+1.1.3.=[Z/ol/s2]
 
 1.1.4.0.sec=Initial Approval.&emdash;{The_Commission} shall approve an application only if the applicant demonstrates that the associated code of conduct&emdash;
 
@@ -52,7 +52,7 @@ and
 
 1.1.4.2.sec=contains provisions for periodic review of the code of conduct to ensure that it continues to provide sufficient protection over time for {personal_data} pertaining to individuals.
 
-1.1.4.=[Z/Sec/s2]
+1.1.4.=[Z/ol/s2]
 
 1.1.5.sec=Presumption of Sufficiency.&emdash;Codes of conduct developed through a multistakeholder process pursuant to paragraph (2)(A) that meet the requirements established by {the_Commission} shall be presumed to provide equivalent or greater protections for {personal_data} as those provided by Title I of {this_Act}. A {Commission} finding to the contrary shall be supported by a decision in writing.
 
@@ -62,9 +62,9 @@ and
 
 1.1.6.2.sec=Notwithstanding subparagraph (A), {the_Commission}, upon request or on its own motion, may reconsider an approval granted under paragraph (4). After receiving public comment, if {the_Commission} determines, based on specific factors or evidence not available in the prior proceeding, that clearly demonstrate that a code of conduct does not or no longer provides equivalent or greater protections for {personal_data} pertaining to individuals  than those provided by Title I of {this_Act}, it shall withdraw its approval of such code of conduct.
 
-1.1.6.=[Z/Sec/s2]
+1.1.6.=[Z/ol/s2]
 
-1.1.=[Z/Sec/s6]
+1.1.=[Z/ol/s6]
 
 1.2.Ti=Non-Governmental Administration of Codes of Conduct
 
@@ -76,7 +76,7 @@ and
 
 1.2.4.sec=Each year, each person certified by {the_Commission} under this subsection shall submit to {the_Commission}, in a form specified by {the_Commission}, a report of its activities under this Title during the preceding year.
 
-1.2.=[Z/Sec/s4]
+1.2.=[Z/ol/s4]
 
 1.3.Ti=Rulemaking
 
@@ -92,7 +92,7 @@ and
 
 1.3.5.sec=methods and procedures for receiving input from governmental agencies regarding the approval of codes of conduct, including procedures that govern submittal of classified or otherwise confidential information.
 
-1.3.=[Z/Sec/s5]
+1.3.=[Z/ol/s5]
 
 1.4.Ti=Safe Harbor Protection
 
@@ -106,12 +106,12 @@ and
 
 1.5.2.sec=a failure by {the_Commission}, within the periods specified in subsections (a)(2) and (c), to approve or deny a code of conduct.
 
-1.5.=[Z/Sec/s2]
+1.5.=[Z/ol/s2]
 
-1.=[Z/Sec/5]
+1.=[Z/ol/5]
 
 =[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Format.md]
 
-=[Z/Sec/1]
+=[Z/ol/1]
 
 PageName=Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015_Title_3.md

@@ -9,3 +9,5 @@ sec=<font color="magenta">{Alt0.sec}:{Altolist}</font>
 Alt0.sec=Select one - {SecName}.sec={{SecName}.AltX.sec}where X is 1-3
 
 Model.Root={Sec}
+
+LI=<li>{Sec}</li>

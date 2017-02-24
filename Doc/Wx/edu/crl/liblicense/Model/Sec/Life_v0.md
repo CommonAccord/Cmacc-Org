@@ -22,10 +22,10 @@ Note={Liblicense editors suggest that this clause may be most appropriate for mu
 
 4.2.sec= If a material breach has occurred, the breaching party shall have [thirty (30) days] from the receipt of notice to use all reasonable means to cure the alleged breach and to notify the non-breaching party in writing that cure has been effected. If the breach is not cured within [thirty (30) days], the non-breaching party shall have the right to terminate the Agreement without further notice. Once this Agreement ends, by early termination or otherwise, the Licensor may terminate (or cause termination of) access to the Licensed Materials by Licensee and Authorized Users subject to Section 8, below. In addition, authorized copies of Licensed Materials made by Authorized Users may be retained for educational purposes and used subject to the terms of this Agreement.
 
-4.=[Z/Sec/s2]
+4.=[Z/ol/s2]
 
 5.Ti=Refunds
 
 5.sec=In the event of early termination, except for termination for a material breach by the Licensee, Licensee shall be entitled to a refund of any fees or pro-rata portion thereof paid by Licensee for any remaining period of the Agreement.
 
-=[Z/Sec/5]
+=[Z/ol/5]

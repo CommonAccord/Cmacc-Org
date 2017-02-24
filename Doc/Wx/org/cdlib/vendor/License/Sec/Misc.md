@@ -44,4 +44,4 @@ Dispute.Law.State.the=the State of California
 
 8.sec=All notices given pursuant to {this_Agreement} shall be in writing and may be hand delivered, or shall be deemed received within five (5) business days after mailing if sent by registered or certified mail, return receipt requested. If any notice is sent by facsimile, confirmation copies must be sent by U.S. Mail or hand delivery to the specified address. Either {party} may from time to time change its Notice Address by written notice to the other {party}. 
 
-=[Z/Sec/8]
+=[Z/ol/8]

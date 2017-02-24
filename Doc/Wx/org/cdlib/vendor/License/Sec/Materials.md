@@ -16,7 +16,7 @@ Ti=Materials
 
 PerpetualLicense.Xref=Section 1.4
 
-1.=[Z/Sec/4]
+1.=[Z/ol/4]
 
 2.Ti=Delivery/Access of {Licensed_Materials} to {Licensee}
 
@@ -26,7 +26,7 @@ PerpetualLicense.Xref=Section 1.4
 
 2.1.sec=The {Licensed_Materials} will be stored at one or more {Licensor} locations in digital form accessible by telecommunications links between such locations and authorized locations of {Licensee}.
 
-2.=[Z/Sec/1]
+2.=[Z/ol/1]
 
 3.Ti=Authorized Use of {Licensed_Materials}
 
@@ -46,7 +46,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.1.2.sec=Patrons not affiliated with {Licensee} who are physically present at {Licensee}'s site(s) ("walk-ins"). 
 
-3.1.=[Z/Sec/2]
+3.1.=[Z/ol/2]
 
 3.2.Ti=Access by and Authentication of {Authorized_Users}
 
@@ -56,7 +56,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.2.1.sec={Authorized_Users} shall be identified and authenticated by the use of Internet Protocol ("IP") addresses provided by {Licensee} to {Licensor}. The use of proxy servers is permitted as long as any proxy server IP addresses provided limit remote or off-campus access to {Authorized_Users}.
 
-3.2.=[Z/Sec/1]
+3.2.=[Z/ol/1]
 
 3.3.Ti=Authorized Uses
 
@@ -84,7 +84,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.3.5.2.Sec={Licensor} acknowledges that {Licensee} may engage the services of third-party trusted archives and/or participate in collaborative archiving endeavors to exercise {Licensee}'s rights under {PerpetualLicense.Xref}, 'Perpetual License', of {this_Agreement}.  {Licensor} agrees to cooperate with such archiving entities and/or initiatives as reasonably necessary to make the {Licensed_Materials} available for archiving purposes. {Licensee} may perpetually use the third-party trusted system to access or store the {Licensed_Materials}, so long as {Licensee}'s use is otherwise consistent with {this_Agreement}. {Licensor} further acknowledges and agrees that, in using the third-party archival system, {Licensed_Materials} may be made available to other system participants who indicate a right to those {Licensed_Materials}. 
 
-3.3.5.=[Z/Sec/2]
+3.3.5.=[Z/ol/2]
 
 3.3.6.Ti=Caching
 
@@ -118,7 +118,7 @@ PerpetualLicense.Xref=Section 1.4
 
 3.3.13.sec=Using electronic, paper, or intermediated means, {Licensee} at its discretion may fulfill occasional requests from other institutions, a practice commonly called Interlibrary Loan.  {Licensee} agrees to fulfill such requests in compliance with Section 108 of the United States Copyright Law (17 USC Sec. 108, "Limitations on exclusive rights: Reproduction by libraries and archives") and the Guidelines for the Proviso of Subsection 108(2g)(2) prepared by the National Commission on New Technological Uses of Copyrighted Works.
 
-3.3.=[Z/Sec/13]
+3.3.=[Z/ol/13]
 
 
 3.4.Ti=Amount of Authorized Use
@@ -127,14 +127,14 @@ PerpetualLicense.Xref=Section 1.4
 
 3.4.1.sec=Subject to the terms of {this_Agreement}, {Licensee} and {Authorized_Users} shall have unlimited access to the {Licensed_Materials}.
 
-3.4.=[Z/Sec/1]
+3.4.=[Z/ol/1]
 
 
 3.5.Ti=Shared Print Archive
 
 3.5.sec=At {Licensee}'s request, {Licensor} will provide to {Licensee} a single print archival copy of the titles selected from the {Licensed_Materials}, on a mutually agreed upon schedule, shipped to a single ship-to address of {Licensee} or third party agent, at no additional cost. This term does not apply if {Licensor} ceases to produce paper editions of such titles. 
 
-3.=[Z/Sec/5]
+3.=[Z/ol/5]
 
 
 4.Ti=Specific Restrictions on Use of {Licensed_Materials}
@@ -155,6 +155,6 @@ PerpetualLicense.Xref=Section 1.4
 
 4.4.sec={Licensee} is not permitted to not use the {Licensed_Materials} for commercial purposes.  Commercial purposes are agreed to include, but are not limited to, the sale of the {Licensed_Materials}, fee-for-service use of the {Licensed_Materials}, or bulk reproduction or distribution of the {Licensed_Materials} in any form.  {Licensee} is not permitted to impose special charges on {Authorized_Users} for use of the {Licensed_Materials} beyond reasonable printing or administrative costs.
 
-4.=[Z/Sec/4]
+4.=[Z/ol/4]
 
-=[Z/Sec/3]
+=[Z/ol/3]

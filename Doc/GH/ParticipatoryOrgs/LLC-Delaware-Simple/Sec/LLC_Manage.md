@@ -16,7 +16,7 @@ Ti=MANAGEMENT AND CONTROL OF THE COMPANY
 
 2.5.sec=Any vacancy occurring for any reason in the number of Managers may be filled by the affirmative vote or written consent of Members holding a Majority Interest.
 
-2.=[Z/Sec/s5]
+2.=[Z/ol/s5]
 
 3.Ti=Powers
 
@@ -58,9 +58,9 @@ Ti=MANAGEMENT AND CONTROL OF THE COMPANY
 
 3.2.17.sec=cause or permit the Company to make any distributions in-kind to any Member except as permitted under this agreement.
 
-3.2.=[Z/Sec/s17]
+3.2.=[Z/ol/s17]
 
-3.=[Z/Sec/s2]
+3.=[Z/ol/s2]
 
 4.Ti=Performance of Duties; Liability
 
@@ -86,4 +86,4 @@ Ti=MANAGEMENT AND CONTROL OF THE COMPANY
 
 9.sec=The Managers may appoint officers of the Company at any time, who will serve at the discretion of the Managers, subject to all rights, if any, of an officer under an employment contract. The Managers shall determine the powers, duties and compensation of all officers. Subject to the rights, if any, of an officer under an employment contract, any officer may be removed, either with or without cause, by the Managers at any time.
 
-=[Z/Sec/9]
+=[Z/ol/9]

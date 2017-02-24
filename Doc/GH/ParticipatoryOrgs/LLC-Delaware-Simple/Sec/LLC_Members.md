@@ -22,6 +22,6 @@ Ti=MEMBERS
 
 5.2.sec=The closing of the purchase and sale of the selling Member's interest will occur at the principal office of the Company at a time and date mutually agreeable to both Members but no later than 20 business days after the expiration of the 30-day period. The Company and the remaining Members, will arrange to have the selling Member released simultaneously with the closing of the purchase from all indebtedness and guaranties associated with the Company and its properties, and if the holder of that indebtedness or guaranty refuses to consent to the release of the selling Member, the Company and the remaining Members shall indemnify the seller from any and all costs, expenses (including attorney's fees), and losses arising out of or related to that indebtedness or guaranty.
 
-5.=[Z/Sec/s2]
+5.=[Z/ol/s2]
 
-=[Z/Sec/5]
+=[Z/ol/5]

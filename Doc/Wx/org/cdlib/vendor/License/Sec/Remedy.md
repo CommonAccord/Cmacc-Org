@@ -9,7 +9,7 @@ Ti=Remedies
 
 1.2.Sec={Licensor} warrants that the physical medium, if any, on which the {Licensed_Materials} is provided to {Licensee} will be free from defects for a period of ninety (90) days from delivery.
 
-1.=[Z/Sec/2]
+1.=[Z/ol/2]
 
 
 2.Ti=Limitation on Warranties
@@ -22,7 +22,7 @@ Ti=Remedies
 
 2.3.Sec=Except for the express warranties stated herein, the {Licensed_Materials} are provided on an "as is" basis, and {Licensor} disclaims any and all other warranties, conditions, or representations (express, implied, oral or written), relating to the {Licensed_Materials} or any part thereof, including, without limitation, any and all implied warranties of quality, performance, merchantability or fitness for a particular purpose. {Licensor} makes no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb or other such computer program. {Licensor} further expressly disclaims any warranty or representation to {Authorized_Users}, or to any third party.
 
-2.=[Z/Sec/3]
+2.=[Z/ol/3]
 
 
 3.Ti=Indemnities
@@ -33,7 +33,7 @@ Ti=Remedies
 
 3.3.Sec=The indemnifying {party} shall have the right to defend such claims at its own expense.  The other {party} shall provide assistance in investigating and defending such claims as the indemnifying {party} may reasonably request and have the right to participate in the defense at its own expense.
 
-3.=[Z/Sec/3]
+3.=[Z/ol/3]
 
-=[Z/Sec/3]
+=[Z/ol/3]
 

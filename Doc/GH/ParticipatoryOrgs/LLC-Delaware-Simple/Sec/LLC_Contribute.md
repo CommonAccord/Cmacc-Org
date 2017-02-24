@@ -16,4 +16,4 @@ Ti=CAPITAL CONTRIBUTIONS
 
 4.sec=Any Member may make a loan to the Company to the extent required to pay the Company's operating expenses, including debt service, on the terms and conditions approved by the Managers.
 
-=[Z/Sec/4]
+=[Z/ol/4]

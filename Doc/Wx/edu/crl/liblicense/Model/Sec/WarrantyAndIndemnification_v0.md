@@ -8,7 +8,7 @@ Ti=WARRANTIES AND INDEMNIFICATION
 
 1.3.sec=Licensor warrants that any physical object or medium that contains the Licensed Materials will be free from defects for a period of [enter time period] from delivery.
 
-1.=[Z/Sec/s3]
+1.=[Z/ol/s3]
 
 2.Ti=Warranty Disclaimers
 
@@ -16,10 +16,10 @@ Ti=WARRANTIES AND INDEMNIFICATION
 
 2.2.sec=Except for the express warranties stated elsewhere in this Agreement, Licensor disclaims any and all other warranties, conditions, or representations (express, implied, oral, or written), relating to the Licensed Materials or any part thereof, including, without limitation, any and all implied warranties of quality, performance, merchantability, or fitness for a particular purpose.
 
-2.=[Z/Sec/s2]
+2.=[Z/ol/s2]
 
 3.Ti=Indemnities
 
 3.sec=Licensor shall indemnify and hold harmless the Licensee for any losses, claims, damages, awards, penalties, or injuries (including reasonable attorneys fees) that arise from any alleged breach of the Licensor’s representations and warranties made under this Agreement. This indemnity shall survive the termination of this Agreement. 
 
-=[Z/Sec/3]
+=[Z/ol/3]

@@ -1,6 +1,10 @@
-Model.Root={DocBody}
+Model.Root={Sec}
 
-DocBody={Sec}
+LI=<li>{Sec}</li>
+
+Li=<li>{Sec}
+
+lI={Sec}</li>
 
 Doc={Head.Sec}<br>{sec}{Foot.Sec} 
 
@@ -8,15 +12,13 @@ Head.Sec={Head.Message}<center><h4>{Head.sec}</h4></center>
 
 Head.Message=<font color="grey">{MessageToUser} GUID: {Doc.GUID}</font>
 
-Head.sec={Doc.Title}
+Head.sec={Doc.Ti}
 
 Sec=<b>{Ti}</b><br>{sec}
 
-sec={0.sec} {xlist} {00.Sec}
+sec={0.sec} {xlist} {00.sec}
 
 0.sec=</i>
-
-00.Sec={00.sec}
 
 00.sec=</i>
 
@@ -27,14 +29,6 @@ Olist=<ol><li>{Secs}</li></ol>
 olist=<ol><li>{secs}</li></ol>
 
 ol=ol
-
-ol-a=ol type="a"
-
-ol-A=ol type="A"
-
-ol-I=ol type="I"
-
-ol-i=ol type="i"
 
 
 Alist=<ol type="a"><li>{Secs}</li></ol>
@@ -55,11 +49,11 @@ nlist=<ul type="none"><li>{secs}</li></ul>
 
 /blist = for "break list" e.g. < br>
  
-Blist=<ul type="none" style="padding-left: 0"><li>{Secs}</ul>
+Blist=<ul class="paras" type="none" style="padding-left: 0"><li>{Secs}</ul>
 
-blist=<ul type="none" style="padding-left: 0"><li>{secs}</ul>
+blist=<ul class="paras" type="none" style="padding-left: 0; " ><li>{secs}</ul>
 
-Note=This avoids the need for cluttering a list with a separate Z/ol/0 for each section that has only a simple sec text. 
+Note=This avoids the need for cluttering a list with a separate Z/ol/0 for each section that has only a simple sec text.  It also forces you to put the reference to any Z/… at the bottom. 
 
 1.=[Z/ol/SubSec]
 

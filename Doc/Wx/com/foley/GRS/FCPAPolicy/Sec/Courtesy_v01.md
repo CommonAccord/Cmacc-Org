@@ -46,7 +46,7 @@ Ti=Are Business Courtesies Permitted?
 
 4.6.sec=would not influence, or appear to influence, the recipient’s ability to conduct his or her official duties objectively and independently, to act in the best interest of his or her company, agency or entity, or to prevent the recipient from awarding business to one of the provider’s competitors.
 
-4.=[Z/Sec/s6]
+4.=[Z/ol/s6]
 
 5.sec=Appropriate gifts or business courtesies will usually be valued at less than {Gift.PermittedMax.Value}, and any gifts given by {the_Company}' employees, as appropriate, should usually bear the {the_Company}'s logo.
 
@@ -64,7 +64,7 @@ Ti=Are Business Courtesies Permitted?
 
 6.6.sec=gifts that are requested by the recipient.
 
-6.=[Z/Sec/s6]
+6.=[Z/ol/s6]
 
 7.1.sec=Infrequently, it may be appropriate for {the_Company}'s personnel to pay for travel expenses of officials, customers, suppliers, or other business associates, such as where it is necessary to visit a particular facility for an inspection or for a contract negotiation session.
 
@@ -82,7 +82,7 @@ Ti=Are Business Courtesies Permitted?
 
 8.4.sec=the itinerary includes side trips that are of a personal benefit (which are always prohibited).
 
-8.=[Z/Sec/s4]
+8.=[Z/ol/s4]
 
 9.1.sec=Paid-for travel for family members generally is inappropriate, and always requires prior approval.
 

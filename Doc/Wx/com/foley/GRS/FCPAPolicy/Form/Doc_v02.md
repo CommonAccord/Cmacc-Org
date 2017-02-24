@@ -26,7 +26,7 @@ Intermediary.=[Wx/com/foley/GRS/FCPAPolicy/Sec/Intermediary_v01.md]
 
 Contact.=[Wx/com/foley/GRS/FCPAPolicy/Sec/Contact_v01.md]
 
-=[Z/Sec/0]
+=[Z/ol/0]
 
 Note4=Defined Terms.  Parameterized to assure consistency, and highlighted in green. 
 

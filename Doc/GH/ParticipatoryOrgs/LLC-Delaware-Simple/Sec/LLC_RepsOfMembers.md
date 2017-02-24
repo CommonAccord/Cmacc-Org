@@ -8,4 +8,4 @@ Ti=INVESTMENT REPRESENTATIONS
 
 3.sec=the Member is acquiring the Membership Interest for investment purposes for the Member's own account only and not with a view to or for sale in connection with any distribution of all or any part of the Membership Interest.  No other person will have any direct or indirect beneficial interest in or right to the Membership Interest.
 
-=[Z/Sec/s3]
+=[Z/ol/s3]

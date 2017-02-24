@@ -6,4 +6,4 @@ Ti=Email Communications From Us
 
 3.sec=Opting out in this manner will not end transmission of service-related emails, such as email alerts.
 
-=[Z/Sec/s3]
+=[Z/ol/s3]

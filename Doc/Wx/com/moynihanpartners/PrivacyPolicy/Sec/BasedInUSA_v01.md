@@ -4,4 +4,4 @@ Ti=International Users
 
 2.sec=If you have a security related concern, please contact us at {Company.Email} or {Company.Address}.
 
-=[Z/Sec/s2]
+=[Z/ol/s2]

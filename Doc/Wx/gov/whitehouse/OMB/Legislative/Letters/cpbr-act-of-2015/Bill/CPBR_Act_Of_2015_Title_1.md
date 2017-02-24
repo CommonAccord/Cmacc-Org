@@ -54,7 +54,7 @@ Note=Different than in the Definitions section.
 
 1.2.7.sec=The measures taken to secure {personal_data}.
 
-1.2.=[Z/Sec/s7]
+1.2.=[Z/ol/s7]
 
 
 1.3.Ti=Trade Secrets
@@ -62,7 +62,7 @@ Note=Different than in the Definitions section.
 1.3.sec=Nothing in this section shall require {a_covered_entity} to reveal trade secret information. For the purposes of this subsection, "trade secret" is defined as stated in 18 U.S.C. § 1839. However, for the purposes of this subsection, the categories of {personal_data} that {a_covered_entity} {collects} shall not be considered a trade secret. 
 
 
-1.=[Z/Sec/3]
+1.=[Z/ol/3]
 
 
 2.Ti=Individual Control
@@ -79,7 +79,7 @@ Note=Different than in the Definitions section.
 
 2.2.2.sec=available at times and in manners that reasonably enable individuals to make decisions about the {processing} of their {personal_data}.
 
-2.2.=[Z/Sec/s2]
+2.2.=[Z/ol/s2]
 
 2.3.Ti=Withdrawal of Consent
 
@@ -104,9 +104,9 @@ Note=Different than in the Definitions section.
 2.3.3.3.sec={Personal_data} under the control of {the_covered_entity}.
 
 
-2.3.3.=[Z/Sec/s3]
+2.3.3.=[Z/ol/s3]
 
-2.3.=[Z/Sec/3]
+2.3.=[Z/ol/3]
 
 2.4.Ti=Exceptions
 
@@ -121,9 +121,9 @@ Note=Different than in the Definitions section.
 
 2.5.2.sec=with respect to previously {collected} {personal_data}, provide individuals with compensating {controls} designed to mitigate {privacy_risks} that may arise from the material changes, which may include seeking express affirmative consent from individuals.
 
-2.5.=[Z/Sec/s2]
+2.5.=[Z/ol/s2]
 
-2.=[Z/Sec/5]
+2.=[Z/ol/5]
 
 3.Ti=Respect for {Context}
 
@@ -145,9 +145,9 @@ Note=Different than in the Definitions section.
 
 3.2.1.3.sec=The relationship of the notice to the means that {the_covered_entity} provides to permit individuals to exercise {control} over {personal_data} {processing}.
 
-3.2.1.=[Z/Sec/s3]
+3.2.1.=[Z/ol/s3]
 
-3.2.=[Z/Sec/1]
+3.2.=[Z/ol/1]
 
 3.3.Ti=Exception for certain {personal_data} analysis
 
@@ -163,7 +163,7 @@ Note=Different than in the Definitions section.
 3.3.4.sec=The Privacy Review Board determines that the likely benefits of the analysis outweigh the likely {privacy_risks}.
 
 
-3.3.=[Z/Sec/s4]
+3.3.=[Z/ol/s4]
 
 
 3.4.Ti=Disparate Impact
@@ -176,7 +176,7 @@ Note=Different than in the Definitions section.
 
 3.4.3.sec=Document the methodology and results of the disparate impact analysis and retain such documentation consistent with widely accepted analytic and technical practices.
 
-3.4.=[Z/Sec/s3]
+3.4.=[Z/ol/s3]
 
 3.5.Ti=Rulemaking
 
@@ -191,10 +191,10 @@ Note=Different than in the Definitions section.
 3.6.2.sec=a failure by the Commission, within the period specified in subsection (e) to approve or deny an application for Privacy Review Board approval.
 
 
-3.6.=[Z/Sec/s2]
+3.6.=[Z/ol/s2]
 
 
-3.=[Z/Sec/6]
+3.=[Z/ol/6]
 
 4.Ti=Focused Collection and Responsible Use
 
@@ -211,9 +211,9 @@ Note=Different than in the Definitions section.
 4.3.3.sec=Performing an analysis under the supervision of a Privacy Review Board pursuant to section 103(c) of {this_Act}.
 
 
-4.3.=[Z/Sec/s3]
+4.3.=[Z/ol/s3]
 
-4.=[Z/Sec/s3]
+4.=[Z/ol/s3]
 
 5.Ti=Security
 
@@ -229,7 +229,7 @@ Note=Different than in the Definitions section.
 
 5.1.4.sec=evaluate and adjust such safeguards in light of the assessment in paragraph (3); any material changes in the operations or business arrangements of {the_covered_entity}; or any other circumstances that create a material impact on the privacy or security of {personal_data} under control of {the_covered_entity}.
 
-5.1.=[Z/Sec/s4]
+5.1.=[Z/ol/s4]
 
 5.2.Ti=Factors for safeguards
 
@@ -244,9 +244,9 @@ Note=Different than in the Definitions section.
 5.2.4.sec=The cost of implementing and regularly reviewing such safeguards.
 
 
-5.2.=[Z/Sec/s4]
+5.2.=[Z/ol/s4]
 
-5.=[Z/Sec/2]
+5.=[Z/ol/2]
 
 
 6.Ti=Access and Accuracy
@@ -270,10 +270,10 @@ Note=Different than in the Definitions section.
 6.1.2.4.sec=such request for access is frivolous or vexatious.
 
 
-6.1.2.=[Z/Sec/s4]
+6.1.2.=[Z/ol/s4]
 
 
-6.1.=[Z/Sec/2]
+6.1.=[Z/ol/2]
 
 
 6.2.Ti=Accuracy
@@ -291,9 +291,9 @@ Note=Different than in the Definitions section.
 6.2.2.2.sec=Directly from the individual to whom the {personal_data} pertains.
 
 
-6.2.2.=[Z/Sec/s2]
+6.2.2.=[Z/ol/s2]
 
-6.2.=[Z/Sec/2]
+6.2.=[Z/ol/2]
 
 
 6.3.Ti=Correction or Deletion
@@ -318,7 +318,7 @@ Note=Different than in the Definitions section.
 
 6.3.3.4.sec=Fulfill a {deletion} request if the data are {processed} or retained for purposes set forth in the {enumerated_exceptions}.
 
-6.3.3.=[Z/Sec/s3]
+6.3.3.=[Z/ol/s3]
 
 6.3.4.Ti=Additional Requirements Where Correction or Amendment Is Declined
 
@@ -328,16 +328,16 @@ Note=Different than in the Definitions section.
 
 6.3.4.2.sec=inform the individual of the source of the data and, if reasonably available, where a request for correction may be directed.
 
-6.3.4.=[Z/Sec/s2]
+6.3.4.=[Z/ol/s2]
 
-6.3.=[Z/Sec/4]
+6.3.=[Z/ol/4]
 
 6.4.Ti=Activities Subject to the Fair Credit Reporting Act
 
 6.4.sec=To the extent that the {personal_data} pertaining to an individual is used for purposes covered by the Fair Credit Reporting Act (15 U.S.C. § 1681 et seq.), {covered_entities} subject to the Fair Credit Reporting Act shall be exempt from the requirements of section 106 of {this_Act}.
 
 
-6.=[Z/Sec/4]
+6.=[Z/ol/4]
 
 
 
@@ -355,10 +355,10 @@ Note=Different than in the Definitions section.
 
 7.1.4.sec=Binding any person to whom {the_covered_entity} discloses {personal_data} to use such data consistently with {the_covered_entity}'s commitments with respect to the {personal_data} and with the requirements set forth in Title I of {this_Act}.
 
-7.1.=[Z/Sec/s4]
+7.1.=[Z/ol/s4]
 
-7.=[Z/Sec/1]
+7.=[Z/ol/1]
 
-=[Z/Sec/7]
+=[Z/ol/7]
 
 PageName=Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015_Title_1.md

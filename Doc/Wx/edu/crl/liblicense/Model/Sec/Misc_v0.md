@@ -38,4 +38,4 @@ Note={For state institutions, the governing law and venue may be determined by p
 
 9.sec=Sections 1, 3, 4.3, 7, 8, 9, 10.1, and 10.2 hereof, all indemnification obligations and perpetual license rights shall survive the expiration or termination of the Agreement.
 
-=[Z/Sec/9]
+=[Z/ol/9]

@@ -12,7 +12,7 @@ Ti=DISSOLUTION AND WINDING UP
 
 1.4.sec=the sale of all or substantially all of the assets of Company.
 
-1.=[Z/Sec/s4]
+1.=[Z/ol/s4]
 
 2.Ti=Winding Up
 
@@ -30,4 +30,4 @@ Ti=DISSOLUTION AND WINDING UP
 
 5.sec=The Company shall file with the Delaware Secretary of State a certificate of dissolution upon the dissolution of the Company and a certificate of cancellation upon the completion of the winding up of the Company's affairs.
 
-=[Z/Sec/5]
+=[Z/ol/5]

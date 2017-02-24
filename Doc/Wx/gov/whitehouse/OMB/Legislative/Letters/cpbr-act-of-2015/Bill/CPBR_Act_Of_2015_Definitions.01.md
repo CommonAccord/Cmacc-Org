@@ -40,7 +40,7 @@ Note=some differences seem intentional, but is "stored" different than "retained
 
 1.1.8.sec=any data that are {collected}, created, processed, used, disclosed, stored, or otherwise maintained and linked, or as a practical matter linkable by {the_covered_entity}, to any of the foregoing.
 
-1.1.=[Z/Sec/s8]
+1.1.=[Z/ol/s8]
 
 1.2.Ti=Exceptions
 
@@ -56,7 +56,7 @@ Note=some differences seem intentional, but is "stored" different than "retained
 
 1.2.1.4.sec=requires each entity to which {the_covered_entity} discloses the data to publicly commit to refrain from attempting to link to a specific individual or device.
 
-1.2.1.=[Z/Sec/s4]
+1.2.1.=[Z/ol/s4]
 
 1.2.2.Ti=Deleted data
 
@@ -88,17 +88,17 @@ Note=This implies that employee's employer is a "covered entity" - correct?
 
 1.2.4.1.1.6.sec=any combination of (a)-(e).
 
-1.2.4.1.1.=[Z/Sec/s6]
+1.2.4.1.1.=[Z/ol/s6]
 
 1.2.4.1.2.sec=from which reasonable efforts have been made to remove information that can be used to identify specific persons reasonably believed to be unrelated to the cyber threat.
 
-1.2.4.1.=[Z/Sec/s2]
+1.2.4.1.=[Z/ol/s2]
 
-1.2.4.=[Z/Sec/s1]
+1.2.4.=[Z/ol/s1]
 
-1.2.=[Z/Sec/4]
+1.2.=[Z/ol/4]
 
-1.=[Z/Sec/2]
+1.=[Z/ol/2]
 
 2.Ti="{Covered_entity}"
 
@@ -126,13 +126,13 @@ Note=Different list than for uses.or
 
 2.1.4.4.sec=notwithstanding the foregoing, any person described in clauses (i)-(ii) may elect to become {a_covered_entity} through public election;
 
-2.1.4.=[Z/Sec/s4]
+2.1.4.=[Z/ol/s4]
 
 2.1.5.sec=any person that has 25 or fewer employees, and would otherwise be {a_covered_entity} solely because of data that the person processes related to job applicants and employees in the ordinary course; or
 
 2.1.5.sec=any other exceptions established pursuant to section 405 of {this_Act}.
 
-2.1.=[Z/Sec/s5]
+2.1.=[Z/ol/s5]
 
 2.2.Ti=Exception
 
@@ -147,11 +147,11 @@ Note=Different list than for uses.or
 2.2.2.3.sec={destroys.or} such {personal_data} within a reasonable time after such person has completed the activities permitted by
 subparagraph (A).
 
-2.2.2.=[Z/Sec/s3]
+2.2.2.=[Z/ol/s3]
 
-2.2.=[Z/Sec/s2]
+2.2.=[Z/ol/s2]
 
-2.=[Z/Sec/2]
+2.=[Z/ol/2]
 
 
 3.Ti="{Collect}"
@@ -216,7 +216,7 @@ Ti="{Context}"
 
 11.11.sec=the extent to which {personal_data} under the control of {the_covered_entity} are obscured.
 
-11.=[Z/Sec/s11]
+11.=[Z/ol/s11]
 
 Note=Should "regarding data" be "regarding personal data"?
 
@@ -248,8 +248,8 @@ Note=Should "regarding data" be "regarding personal data"?
 
 14.7.sec=Complying with a legal requirement or responding to an authorized governmental request.
 
-14.=[Z/Sec/s7]
+14.=[Z/ol/s7]
 
-=[Z/Sec/14]
+=[Z/ol/14]
 
 PageName=Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015_Definitions.01.md

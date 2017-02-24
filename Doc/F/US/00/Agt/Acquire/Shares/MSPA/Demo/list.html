@@ -1,0 +1,1 @@
+The file "0.md" generates all the MSPA documents for a deal.  It uses the Term Sheet (0-Termsheet.md), which has sub-sheets for various aspects of the deal.  To speed the presentation, at the bottom, we link to a fixed copy of the rendering.<br>  <a href="index.php?action=source&file=F/US/00/Agt/Acquire/Shares/MSPA/Demo/0.md">0.md</a>

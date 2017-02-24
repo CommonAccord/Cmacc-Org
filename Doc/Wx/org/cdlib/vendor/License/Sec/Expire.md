@@ -20,6 +20,6 @@ BreachCurePeriod.Days=sixty (60) days
 
 3.3.Sec=In the event of early termination permitted by {this_Agreement}, {Licensee} shall be entitled to a refund of any fees or pro-rata portion thereof paid by {Licensee} for any remaining period of {this_Agreement} from the date of termination.
 
-3.=[Z/Sec/3]
+3.=[Z/ol/3]
 
-=[Z/Sec/3]
+=[Z/ol/3]

@@ -18,7 +18,7 @@ Note=Sounds like error of omission.
 
 1.2.2.sec={The_Commission} shall not bring an enforcement action for violations of Title I of {this_Act} seeking civil penalties based on {a_covered_entity}'s conduct undertaken within the first eighteen months after the date {the_covered_entity} first created or {processed} {personal_data}.
 
-1.2.=[Z/Sec/2]
+1.2.=[Z/ol/2]
 
 1.3.Ti=General Application
 
@@ -28,11 +28,11 @@ Note=Sounds like error of omission.
 
 1.3.2.sec=notwithstanding section 4 and section 5(a)(2) of that Act (15 U.S.C. &sect;&sect; 44 and 45(a)(2)), any non-profit organization, including any organization described in section 501(c) of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code.
 
-1.3.=[Z/Sec/s2]
+1.3.=[Z/ol/s2]
 
 1.4.Sec=In enforcing {this_Act}, {the_Commission} shall not require the deployment or use of any specific products or technologies, including any specific device software or hardware.
 
-1.=[Z/Sec/4]
+1.=[Z/ol/4]
 
 
 2.Ti=Enforcement by {State} Attorneys General
@@ -55,19 +55,19 @@ Note="direct Commission participation" perhaps "direct participation by {the_Com
 
 2.2.2.3.sec=permit the attorney general to proceed with the action without direct {Commission} participation.
 
-2.2.2.=[Z/Sec/s3]
+2.2.2.=[Z/ol/s3]
 
 2.2.3.sec=In the event that an attorney general believes that immediate action is necessary to protect the residents of the {State} from a substantial harm, the attorney general may request that {the_Commission} expedite its review of the proposed action, and {the_Commission} shall afford such request appropriate consideration as the circumstances may warrant.
 
 2.2.4.sec=In any action brought under Title II of {this_Act}, the district court, and any courts that review the district court's decision, shall accord substantial weight to {the_Commission}'s interpretations as to the legal requirements of {this_Act}.
 
-2.2.=[Z/Sec/s4]
+2.2.=[Z/ol/s4]
 
 2.3.Ti=Investigatory Powers
 
 2.3.sec=Nothing in this section may be construed to prevent the attorney general of a {State} from exercising the powers conferred on such attorney general by the laws of such {State} to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
-2.=[Z/Sec/3]
+2.=[Z/ol/3]
 
 3.Ti=Civil Penalties
 
@@ -89,24 +89,24 @@ Note="direct Commission participation" perhaps "direct participation by {the_Com
 
 3.1.2.1.4.sec=the denial of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on belief or a lack of information.
 
-3.1.2.1.=[Z/Sec/s4]
+3.1.2.1.=[Z/ol/s4]
 
-3.1.2.=[Z/Sec/s1]
+3.1.2.=[Z/ol/s1]
 
-3.1.=[Z/Sec/s2]
+3.1.=[Z/ol/s2]
 
 3.1.3.sec=The total civil penalty determined by the court shall not exceed $25,000,000.
 
-3.1.=[Z/Sec/s3]
+3.1.=[Z/ol/s3]
 
 3.2.Ti=Adjustment for Inflation
 
 3.2.sec=Beginning on the date that the Consumer Price Index for All Urban Consumers is first published by the Bureau of Labor Statistics that is after 1 year after the date of the enactment of {this_Act}, and each year thereafter, each of the amounts specified in subsection (a) shall be increased by the percentage increase in the Consumer Price Index published on that date from the Consumer Price Index published the previous year.
 
-3.=[Z/Sec/2]
+3.=[Z/ol/2]
 
 =[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Format.md]
 
-=[Z/Sec/3]
+=[Z/ol/3]
 
 PageName=Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Bill/CPBR_Act_Of_2015_Title_2.md

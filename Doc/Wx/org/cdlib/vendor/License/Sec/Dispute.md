@@ -22,6 +22,6 @@ ArbAssn.Rules=the then current Commercial Arbitration Rules of the American Arbi
 
 4.2.Sec=The arbitrator(s) shall not have the authority, power, or right to alter, change, amend, modify, add, or subtract from any provision of {this_Agreement} or to award punitive damages.  The arbitrator shall have the power to issue mandatory orders and restraining orders in connection with the arbitration.  The award rendered by the arbitrator shall be final and binding on the {parties}, and judgment may be entered thereon in any court having jurisdiction.  The agreement to arbitration shall be specifically enforceable under prevailing arbitration law.  During the continuance of any arbitration proceeding, the {parties} shall continue to perform their respective obligations under {this_Agreement}.
 
-4.=[Z/Sec/2]
+4.=[Z/ol/2]
 
-=[Z/Sec/4]
+=[Z/ol/4]

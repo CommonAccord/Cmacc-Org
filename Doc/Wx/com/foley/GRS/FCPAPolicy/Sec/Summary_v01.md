@@ -8,7 +8,7 @@ Ti=Policy Summary
 
 1.3.sec=We record our transactions accurately.
 
-1.=[Z/Sec/s3]
+1.=[Z/ol/s3]
 
 2.1.sec=Any attempt to pay, authorize, or promise a bribe, kickback, or any other form of corrupt payment – in any amount – is strictly prohibited.
 

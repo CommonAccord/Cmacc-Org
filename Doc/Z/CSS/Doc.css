@@ -2,6 +2,13 @@ body {
     background-color: #ffffff;
 }
 
+.paras {
+padding: 10px 0px 0px 0px;
+}
+
+.paras li {
+padding: 0px 0px 0px 0px;
+}
 
 span { 
     background-color: #ffffff;
@@ -26,13 +33,11 @@ span :hover {
         text-decoration: none;
 }  
 
-.scdl {
-	color: #4B2503 ;
-        text-decoration: none;
-}  
 
 .xref {
-	color: darkblue ;
+	color: blue ;
+        text-decoration: none;
+
 }  
 
 
@@ -42,6 +47,6 @@ span :hover {
 }
 
 .missing {
-	color: magenta ;
+	color: red ;
        
 }

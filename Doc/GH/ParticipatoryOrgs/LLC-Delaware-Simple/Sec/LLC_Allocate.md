@@ -8,7 +8,7 @@ Ti=ALLOCATION OF NET PROFITS AND NET LOSSES
 
 1.1.2.sec=second, the remainder of Net Profits in accordance with those Members' Percentage Interests.
 
-1.1.=[Z/Sec/s2]
+1.1.=[Z/ol/s2]
 
 1.2.0.sec=After giving effect to the special allocations set forth in Section {Xnum}.2 for each fiscal year, Net Losses for each fiscal year shall be allocated as follows:
 
@@ -16,9 +16,9 @@ Ti=ALLOCATION OF NET PROFITS AND NET LOSSES
 
 1.2.2.sec=second, the Net Losses allocated pursuant to this section {Xnum}.1(b) shall not exceed the maximum amount of Net Losses that can be so allocated without causing any Member to have an Adjusted Capital Account Deficit at the end of any fiscal year. All Net Losses in excess of the limitation will be allocated to the other Members in proportion to those Members' Percentage Interests.
 
-1.2.=[Z/Sec/s2]
+1.2.=[Z/ol/s2]
 
-1.=[Z/Sec/s2]
+1.=[Z/ol/s2]
 
 2.Ti=Special Allocations
 
@@ -36,10 +36,10 @@ Ti=ALLOCATION OF NET PROFITS AND NET LOSSES
 
 2.7.sec=The parties intend that the foregoing tax allocation provisions of this section {Xnum}.2 will produce final Capital Account balances that will permit liquidating distributions, that are made in accordance with final Capital Account balances under section 9.3, to be made (after unpaid loans and interest thereon, including those owed to Members, have been paid) in a manner identical to the priorities set forth in section 9.3. To the extent that the tax allocation provisions of this section {Xnum}.2 would fail to produce such final Capital Account balances, (1) such provisions will be amended by the Members if and to the extent necessary to produce such result, and (2) items of income, loss or deduction of the Company for prior open years will be reallocated among the Members to the extent it is impossible to achieve such result with allocations of items of income (including gross income) and deduction for the current year and future years. This Section {Xnum}.2(f) will control notwithstanding any reallocation or adjustment of income, loss, deduction or items thereof by the Internal Revenue Service or any other taxing authority.
 
-2.=[Z/Sec/s7]
+2.=[Z/ol/s7]
 
 3.Ti=Excess Nonrecourse Liability Allocation
 
 3.sec=Pursuant to Regulations section 1.752-3(a)(3), solely for purposes of determining each Member's proportionate share of the "excess nonrecourse liabilities" of the Company (as defined in Regulations section 1.752-3(a)(3)), the Members' respective interests in the Company's profits will be the Members' respective Percentage Interests.
 
-=[Z/Sec/3]
+=[Z/ol/3]
