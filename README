@@ -5,7 +5,7 @@
 If you have a docker setup, including environment export, up and running, you
 can `make run` to have a stack up in a few seconds. The first run will take a
 bit of time as docker downloads the PHP/Apache image, but subsequent runs
-should take less than a second.
+should take less than a second.  
 
 Running the code using the docker method have several benefits. One of the most
 obvious is that the codebase is decoupled from the documents base: while the
