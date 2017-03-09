@@ -1,7 +1,7 @@
 # CommonAccord
 
 ## How to run the docker image?
-
+  
 If you have a docker setup, including environment export, up and running, you
 can `make run` to have a stack up in a few seconds. The first run will take a
 bit of time as docker downloads the PHP/Apache image, but subsequent runs
