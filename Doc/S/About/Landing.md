@@ -1,6 +1,8 @@
 Model.Root.Note=This page presents the key=value pairs, (aka properties) in the order that they are used in rendering.  Normally, they are presented in the order of most recent to oldest, as new is usually added at the top. But for a first-time reading, it is helpful to see how the page is built.  
 
-Model.Root=<center>{Logo}<br><br><b>{Site.Name}</b></center></p><br>{Content.Sec}
+Model.Root=<center>{Logo}
+
+<br><br><b>{Site.Name}</b></center></p><br>{Content.Sec}
 
 Logo=<img src="image/cmacc-trans.png" style="width:35%" />
 
