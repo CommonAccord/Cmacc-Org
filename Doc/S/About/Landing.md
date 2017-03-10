@@ -1,14 +1,14 @@
 Model.Root.Note=This page presents the key=value pairs, (aka properties) in the order that they are used in rendering.  Normally, they are presented in the order of most recent to oldest, as new is usually added at the top. But for a first-time reading, it is helpful to see how the page is built.  
 
-Model.Root=<center>{Logo}<br><br><b>{Site.Name}
-
-</b></center></p><br>{Content.Sec}
+Model.Root=<center>{Logo}<br><br><b>{Site.Name}</b></center></p><br>{Content.Sec}
 
 Logo=<img src="image/cmacc-trans.png" style="width:35%" />
 
 Site.Name=CommonAccord.Org
 
-Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td><td valign="top"><b>Some Links:</b><br><a name="unchain-the-chain" title="financialcryptography.com" href="http://financialcryptography.com/mt/archives/001556.html"><img alt="Ian Grigg - Ricardian Contracts" src="https://pbs.twimg.com/media/CfJnq7BXIAEWwgm.jpg:small"></a><br><a href="https://cmacc-slack-add.herokuapp.com/">join commonaccord.slack.com</a><br>{TwitterBlock.sec}<br><br><b><a href="https://github.com/CommonAccord/Cmacc-Org/commits/master">Latest Activity on GitHub</a></b><br><br>{DocumentsFolder.sec}<br>{SubjectIndex.Sec}<br>{RecentWork.Sec}</td></tr></table>
+Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td></tr></table>
+
+<td valign="top"><b>Some Links:</b><br><a name="unchain-the-chain" title="financialcryptography.com" href="http://financialcryptography.com/mt/archives/001556.html"><img alt="Ian Grigg - Ricardian Contracts" src="https://pbs.twimg.com/media/CfJnq7BXIAEWwgm.jpg:small"></a><br><a href="https://cmacc-slack-add.herokuapp.com/">join commonaccord.slack.com</a><br>{TwitterBlock.sec}<br><br><b><a href="https://github.com/CommonAccord/Cmacc-Org/commits/master">Latest Activity on GitHub</a></b><br><br>{DocumentsFolder.sec}<br>{SubjectIndex.Sec}<br>{RecentWork.Sec}</td></tr></table>
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
