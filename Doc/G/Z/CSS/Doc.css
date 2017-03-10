@@ -1,0 +1,52 @@
+body { 
+    background-color: #ffffff;
+}
+
+.paras {
+padding: 10px 0px 0px 0px;
+}
+
+.paras li {
+padding: 0px 0px 0px 0px;
+}
+
+span { 
+    background-color: #ffffff;
+}
+
+span :hover { 
+    background-color: #f0f0ff;
+}
+
+.token {
+	color: maroon ;
+        text-decoration: none;
+}  
+
+.person {
+	color: #4B2503 ;
+        text-decoration: none;
+}  
+
+.definedterm {
+	color: green ;
+        text-decoration: none;
+}  
+
+
+.xref {
+	color: blue ;
+        text-decoration: none;
+
+}  
+
+
+.jurisdiction {
+	color: #5500AA ;
+       
+}
+
+.missing {
+	color: red ;
+       
+}

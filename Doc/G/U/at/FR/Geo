@@ -1,0 +1,20 @@
+FR=FR
+
+Pays=France
+
+UK=FR
+
+Nation=France
+
+This is pretty tangled:
+
+Ville={Ville}
+
+Pays={Pays}
+
+
+Model.Root={Geo.?}<br><br>{US.Geo.?}
+
+=[G/U/class/Geo_FR]
+
+US.=[G/U/class/Geo_USA]

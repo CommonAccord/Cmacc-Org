@@ -1,0 +1,15 @@
+Alt=[G/Z/ol/6]
+
+Sec=<b>{Ti}</b><br>{sec}
+
+Alt0.Sec=Select one - {SecName}.Sec={{SecName}.AltX.Sec}where X is 1-6
+
+sec=<font color="magenta">{Alt0.sec}:{Altolist}</font>
+
+1.sec=hello
+
+Alt0.sec=Select one - {SecName}.sec={{SecName}.AltX.sec}where X is 1-6
+
+Model.Root={Sec}
+
+LI=<li>{Sec}</li>

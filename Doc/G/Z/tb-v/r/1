@@ -1,0 +1,15 @@
+Model.Root={Sec}
+
+Sec=<b>{Ti}</b>{sec}
+
+sec=<table border=1>{0.Sec}{secs}{00.Sec}</table>
+
+0.Sec=<tr><th>{0.sec}</th></tr>
+
+secs=<tr><td>{1.sec}</td></tr>
+
+00.Sec=<tr><th>{00.sec}</th></tr>
+
+Ti=</i>
+
+=[G/Z/tb/c/6]

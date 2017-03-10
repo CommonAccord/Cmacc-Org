@@ -1,0 +1,15 @@
+=[G/U/class/Geo_USA]
+
+3={Nation}
+
+Nation=United States of America
+
+UK=USA
+
+State.the=the {State/Commonwealth} of {State}
+
+Note=Set a default - only exceptions are MA, PA and VA, right?  And "District" of Columbia.
+
+State/Commonwealth=State
+
+Forum.cl=the state and federal courts sitting for {State.the}

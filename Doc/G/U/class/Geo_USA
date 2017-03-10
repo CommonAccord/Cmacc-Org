@@ -1,0 +1,58 @@
+State.the=the {State/Commonwealth} of {State}
+
+State/Commonwealth=State
+
+1={Street.#} {Street.Name}
+
+2={City}, {ST}  {Zip}
+
+City,State,Nation={City}, {State}, {Nation}
+
+Name={Name.Full}
+
+1,Suite={Street.#} {Street.Name}, {Suite}
+
+1,2={1}, {2}
+
+1/2={1}<br>{2}
+
+1,2,UK={1} {2}, {UK}
+
+1,2,Nation={1} {2}, {UK}
+
+1/2/Nation={1}<br>{2}<br>{Nation}
+
+1,2,UK,Attn={1,2,UK}, {Attn}
+
+1/2/UK/Attn={1/2/UK}<br>{Attn}
+
+H,1,2={Host}, {1,2}
+
+H/1/2={Host}<br>{1/2}
+
+H,1,2,UK={Host}, {1,2,UK}
+
+H/1/2/UK={Host}<br> {1/2/UK}
+
+N,1,2={Name}, {1,2}
+
+N/1/2={Name}<br>{1/2}
+
+N,1,2,UK={Name}, {1,2,UK}
+
+N/1/2/UK={Name}<br>{1/2/UK}
+
+N,H,1,2,UK={Name}, {H,1,2,UK}
+
+N/H/1/2={Name}<br>{H/1/2}
+
+N/H/1/2/UK={Name}<br>{H/1/2/UK}
+
+N,H,1,2,UK,Attn={Name}, {H,1,2,UK}, {Attn}
+
+N/H/1/2/UK/Attn={Name}<br>{H/1/2/UK}<br>{Attn}
+
+
+Model.Root={Geo.?}
+
+Geo.?=<ul><li><table><tbody><tr><td><strong>N/H/1/2/UK/Attn:</strong></td><td><span style="background-color:#FFFFE0">{N/H/1/2/UK/Attn}</span></td></tr></tbody></table></li><li><strong>County:</strong>= <span style="background-color:#FFFFE0">{County}</span></li><li><strong>City:</strong>= <span style="background-color:#FFFFE0">{City}</span></li><li><strong>ST:</strong><span style="background-color:#FFFFE0">{ST}</span></li><li><strong>State:</strong><span style="background-color:#FFFFE0">{State}</span></li><li><strong>Flower:</strong><span style="background-color:#FFFFE0">{Flower}</span></li><li><strong>Zip.List</strong>: <span style="background-color:#FFFFE0">{Zip.List}</span></li><li><strong>Nation</strong>: <span style="background-color:#FFFFE0">{Nation}</span></li></ul>
