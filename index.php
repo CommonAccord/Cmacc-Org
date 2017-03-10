@@ -4,7 +4,7 @@ DEFINE('ROOT' ,dirname(__FILE__) ); // Root directory of site
 
 DEFINE('URLFORREPO', 'https://github.com/CommonAccord/Cmacc-Org');	// The repo home
 
-DEFINE('LANDING_MD', 'S/About/Landing.md');	// The website home moved back
+DEFINE('LANDING_MD', 'S/About/Landing2.md');	// The website home moved because some bot keeps overwriting Landing.md
 
 DEFINE('SOURCE_TAB_MESSAGE', 'Source');	// Tab
 
