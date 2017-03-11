@@ -14,8 +14,8 @@ Ti=NEGATION OF WARRANTIES AND INDEMNIFICATION
 
 5.2.sec=the design, manufacture, distribution, or use of any Licensed Products, Licensed Processes or materials by the Licensee, or other products or processes developed in connection with or arising out of the Licensed Patent Rights.
 
-5.=[Z/f/ol/s2]
+5.=[Z/ol/s2]
 
 6.sec=The Licensee agrees to maintain a liability insurance program consistent with sound business practice.
 
-=[Z/f/ol/s6]
+=[Z/ol/s6]

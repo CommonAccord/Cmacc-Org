@@ -8,4 +8,4 @@ Ti=PATENT FILING, PROSECUTION, AND MAINTENANCE
 
 4.sec=Each party shall promptly inform the other as to all matters that come to its attention that may affect the preparation, filing, prosecution, or maintenance of the Licensed Patent Rights and permit each other to provide comments and suggestions with respect to the preparation, filing, prosecution, and maintenance of the Licensed Patent Rights, which comments and suggestions shall be considered by the other party.
 
-=[Z/f/ol/s4]
+=[Z/ol/s4]

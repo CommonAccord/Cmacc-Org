@@ -8,7 +8,7 @@ Title.3.sec=MASTER VERSION
 
 Title.4.sec=Revised:  June 2015
 
-Title.=[Z/f/paras/s4]
+Title.=[Z/paras/s4]
 
 0.Ti=</i>
 
@@ -34,9 +34,9 @@ Title.=[Z/f/paras/s4]
 
 0.1.5.sec=Please read this Handbook carefully and keep it as a reference guide.  If this Handbook fails to answer any important questions, ask {your supervisor/other title} for clarification.
 
-0.1.=[Z/f/paras/s5]
+0.1.=[Z/paras/s5]
 
-0.=[Z/f/paras/1]
+0.=[Z/paras/1]
 
 1.=[Wx/com/stlstartuplawyer.com/Employ/Handbook/Sec/General_v0.md]
 
@@ -704,4 +704,4 @@ Title.=[Z/f/paras/s4]
 
 =Book Number: _________
 
-=[Z/f/ol/4]
+=[Z/ol/4]

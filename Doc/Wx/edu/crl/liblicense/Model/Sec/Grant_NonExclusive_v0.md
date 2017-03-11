@@ -6,4 +6,4 @@ Grant.Type.cl=non-exclusive, perpetual, worldwide access
 
 Note={If the Agreement does not include perpetual rights to the Licensed Materials, the word “perpetual” should be omitted.}
   
-=[Z/f/ol/0]
+=[Z/ol/0]

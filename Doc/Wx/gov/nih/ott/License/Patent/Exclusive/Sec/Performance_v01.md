@@ -11,4 +11,4 @@ Ti=PERFORMANCE
 5.sec=The Licensee agrees to supply, to the Mailing Address for Agreement Notices indicated on the Signature Page, the Office of Technology Transfer, NIH with inert samples of the Licensed Products or the Licensed Processes or their packaging for educational and display purposes only.
 
 
-=[Z/f/ol/s5]
+=[Z/ol/s5]

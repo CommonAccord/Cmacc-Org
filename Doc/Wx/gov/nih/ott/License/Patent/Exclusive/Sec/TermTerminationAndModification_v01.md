@@ -24,7 +24,7 @@ Ti=TERM, TERMINATION, AND MODIFICATION OF RIGHTS
 
 5.7.sec=cannot reasonably justify a failure to comply with the domestic production requirement of Paragraph 5.2 unless waived.
 
-5.=[Z/f/ol/s7]
+5.=[Z/ol/s7]
 
 6.sec=In making the determination referenced in Paragraph 13.5, the IC shall take into account the normal course of such commercial development programs conducted with sound and reasonable business practices and judgment and the annual reports submitted by the Licensee under Paragraph 9.2.  Prior to invoking termination or modification of this Agreement under Paragraph 13.5, the IC shall give written notice to the Licensee providing the Licensee specific notice of, and a ninety (90) day opportunity to respond to, the IC’s concerns as to the items referenced in 13.5(a)-13.5(g).  If the Licensee fails to alleviate the IC’s concerns as to the items referenced in 13.5(a)-13.5(g) or fails to initiate corrective action to the IC’s satisfaction, the IC may terminate this Agreement.
 
@@ -36,4 +36,4 @@ Ti=TERM, TERMINATION, AND MODIFICATION OF RIGHTS
 
 10.sec=Within ninety (90) days of expiration or termination of this Agreement under this Article 13, a final report shall be submitted by the Licensee.  Any royalty payments, including those incurred but not yet paid (such as the full minimum annual royalty), and those related to patent expenses, due to the IC shall become immediately due and payable upon termination or expiration.  If terminated under this Article 13, sublicensees may elect to convert their sublicenses to direct licenses with the IC pursuant to Paragraph 4.3.  Unless otherwise specifically provided for under this Agreement, upon termination or expiration of this Agreement, the Licensee shall return all Licensed Products or other materials included within the Licensed Patent Rights to the IC or provide the IC with certification of the destruction thereof.  The Licensee may not be granted additional IC licenses if the final reporting requirement is not fulfilled.
 
-=[Z/f/ol/s10]
+=[Z/ol/s10]

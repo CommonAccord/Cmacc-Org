@@ -18,7 +18,7 @@ Ti=ROYALTIES AND REIMBURSEMENT
 
 6.3.sec=the patent has been held to be invalid or unenforceable by an unappealed or unappealable decision of a court of competent jurisdiction or administrative agency.
 
-6.=[Z/f/ol/s3]
+6.=[Z/ol/s3]
 
 7.sec=No multiple royalties shall be payable because any Licensed Products or Licensed Processes are covered by more than one of the Licensed Patent Rights.
 
@@ -34,10 +34,10 @@ Ti=ROYALTIES AND REIMBURSEMENT
 
 10.3.sec=in limited circumstances, the Licensee may be given the right to assume responsibility for the preparation, filing, prosecution, or maintenance of any patent application or patent included with the Licensed Patent Rights.  In that event, the Licensee shall directly pay the attorneys or agents engaged to prepare, file, prosecute, or maintain these patent applications or patents and shall provide the IC with copies of each invoice associated with these services as well as documentation that these invoices have been paid.
 
-10.=[Z/f/ol/s3]
+10.=[Z/ol/s3]
 
 11.sec=The IC agrees, upon written request, to provide the Licensee with summaries of patent prosecution invoices for which the IC has requested payment from the Licensee under Paragraphs 6.9 and 6.10.  The Licensee agrees that all information provided by the IC related to patent prosecution costs shall be treated as confidential commercial information and shall not be released to a third party except as required by law or a court of competent jurisdiction.
 
 12.sec=The Licensee may elect to surrender its rights in any country of the Licensed Territory under any of the Licensed Patent Rights upon ninety (90) days written notice to the IC and owe no payment obligation under Paragraph 6.10 for patent-related expenses paid in that country after ninety (90) days of the effective date of the written notice.
 
-=[Z/f/ol/s12]
+=[Z/ol/s12]

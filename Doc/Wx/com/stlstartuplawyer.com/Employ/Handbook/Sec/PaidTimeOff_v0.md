@@ -53,7 +53,7 @@ Note=Some states do not permit forfeiture of PTO upon termination for cause.
 
 8.2.sec=In order to ensure continuity of business operations, supervisors may limit the number of employees to which they grant approved time off at any one time.  If more than one employee requests the same period of time off, approval is granted by {employee seniority {if the time period is over three months away}.  Approval is granted by the order the request is received if the filing periods is less than three months away}. While you are encouraged to use your PTO, requests for PTO may not exceed {10} consecutive business days.
 
-8.=[Z/f/ol/s2]
+8.=[Z/ol/s2]
 
 9.Ti=Compulsory Use of PTO
 
@@ -66,4 +66,4 @@ Note=Some states do not permit forfeiture of PTO upon termination for cause.
 
 11.sec=You must complete an Absence Report for all PTO time used.  We are required to track absences for illness, work related illness/injury, or the attendance of school related activities for legal compliance reasons. The amount of PTO accrued, used and available will appear on your paycheck stub.
 
-=[Z/f/ol/11]
+=[Z/ol/11]

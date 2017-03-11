@@ -4,4 +4,4 @@ Ti=GRANT OF RIGHTS
 
 2.sec=This Agreement confers no license or rights by implication, estoppel, or otherwise under any patent applications or patents of the IC other than the Licensed Patent Rights regardless of whether these patents are dominant or subordinate to the Licensed Patent Rights.
 
-=[Z/f/ol/s2]
+=[Z/ol/s2]

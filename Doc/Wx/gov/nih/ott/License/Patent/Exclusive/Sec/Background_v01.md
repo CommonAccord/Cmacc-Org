@@ -11,4 +11,4 @@ Ti=BACKGROUND
 
 5.sec=The Licensee desires to acquire commercialization rights to certain of these inventions in order to develop processes, methods, or marketable products for public use and benefit.
 
-=[Z/f/ol/s5]
+=[Z/ol/s5]

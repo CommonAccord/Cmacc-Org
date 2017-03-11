@@ -8,4 +8,4 @@ Ti=SUBLICENSING
 
 4.sec=The Licensee agrees to forward to the IC a complete copy of each fully executed sublicense agreement postmarked within thirty (30) days of the execution of the agreement.  To the extent permitted by law, the IC agrees to maintain each sublicense agreement in confidence.
 
-=[Z/f/ol/s4]
+=[Z/ol/s4]

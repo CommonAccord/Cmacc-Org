@@ -4,7 +4,7 @@ TC.=[Wx/com/ycombinator/Sales/Form/TermsAndConditions_v0.md]
 
 Model.Root={Order.Model.Root}<hr>{TC.Model.Root}
 
-=[Z/Agt/Out/DefinedTerms_Base.md]
+=[F/US/00/Agt/Base/DefinedTerms/00/0.md]
 
 P1.Handle=Company
 

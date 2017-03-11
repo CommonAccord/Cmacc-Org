@@ -32,7 +32,7 @@ Ti=DEFINITIONS
 
 9.2.5.sec=any reissues, reexaminations, and extensions of these patents;
 
-9.2.=[Z/f/ol/s5]
+9.2.=[Z/ol/s5]
 
 9.3.sec=to the extent that the following contain one or more claims directed to the invention or inventions disclosed in 2.9(a): all counterpart foreign and U.S. patent applications and patents to 2.9(a) and 2.9(b), including those listed in Appendix A; and
 
@@ -50,4 +50,4 @@ Ti=DEFINITIONS
 
 15.sec=“Research License” means a nontransferable, nonexclusive license to make and to use the Licensed Products or the Licensed Processes as defined by the Licensed Patent Rights for purposes of research and not for purposes of commercial manufacture or distribution or in lieu of purchase.
 
-=[Z/f/ol/s15]
+=[Z/ol/s15]

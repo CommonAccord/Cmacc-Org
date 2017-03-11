@@ -16,7 +16,7 @@ Ti=PART TWO - PAYROLL AND BENEFITS
 
 1.90.sec=We reserve the right to alter the pay date based on reasons beyond our control, including pay dates that fall on non-business days and bank holidays.  If a pay date falls on a non-business day or a holiday, we reserve the right to issue paychecks on the following non-holiday business day. Deductions will be made to employee paychecks because they are required by law or because the employee requests them.  Federal, state, and/or local withholding tax, social security tax and benefit premium contributions are examples of the types of deductions that will be made and the amounts will be shown on the pay stub.
 
-1.=[Z/f/ol/s5]
+1.=[Z/ol/s5]
 
 2.Ti=Direct Payroll Deposit
 
@@ -38,7 +38,7 @@ Ti=PART TWO - PAYROLL AND BENEFITS
 
 4.Alt2.3.sec=If you have questions related to payroll, contact {title/department}.
 
-4.Alt2.=[Z/f/ol/s3]
+4.Alt2.=[Z/ol/s3]
 
 4.=[Z/Alt/2]
 
@@ -55,7 +55,7 @@ Ti=PART TWO - PAYROLL AND BENEFITS
 
 5.5.sec=Prohibited “Off the Clock” Work - At no time should employees perform work while “off the clock.” All time spent working should be properly recorded. If given a directive to perform work “off the clock,” please promptly notify your supervisor, or if your supervisor has given a directive to work “off the clock” and/or has told you not to properly record all hours worked, notify {the payroll department/other title}. No employee will be penalized in any way for making such a report. Failure to report all time worked is subject to discipline, up to and including termination of employment.
 
-5.=[Z/f/ol/s5]
+5.=[Z/ol/s5]
 
 6.Ti=Group Insurance
 
@@ -89,7 +89,7 @@ Note=Optional:  add or omit any holidays as observed by the Company
 
 9.Alt1.1.7.sec=DAYS OBSERVED BY COMPANY
 
-9.Alt1.1.=[Z/f/ol/s7]
+9.Alt1.1.=[Z/ol/s7]
 
 9.Alt1.2.sec=The Company will issue a schedule of holidays and the date on which they will be observed at the beginning of each new calendar year.  In the event that any one of these holidays falls on a Saturday or Sunday, they will be observed in accordance with the schedule established by the Company.
 
@@ -97,7 +97,7 @@ Note=Optional:  add or omit any holidays as observed by the Company
 
 9.Alt1.4.sec={Due to the nature of the Company’s business it will occasionally be necessary for employees to work on designated holidays.  Staffing on holidays will generally be determined on a voluntary basis and, if required, on the basis of seniority.  Non-exempt employees who work on company holidays will be paid for the holiday {at their usual rate, unless the work results in overtime} {at one and a half times their usual rate, regardless of whether the work results in overtime}.  Exempt employees will be paid their usual salary.}
 
-9.Alt1.=[Z/f/ol/s4]
+9.Alt1.=[Z/ol/s4]
 
 9.Alt2.Ti=Observed Holidays
 
@@ -135,7 +135,7 @@ Note=Optional:  add or omit any holidays as observed by the Company
 
 14.Alt1.2.sec={Company Name}’s policy is to treat women affected by pregnancy, childbirth or related medical conditions in the same manner as other employees unable to work because of their physical condition.  Pregnant employees may continue to work until they are certified as unable to work by their physician{, at which time pregnant employees are entitled to receive benefits according to the company’s short term disability insurance plan}.  {In addition to any short term disability benefits,} paid leave may be substituted for unpaid maternity leave in accordance with the Company’s PTO {and FMLA} policy{ies}.
 
-14.Alt1.=[Z/f/ol/s2]
+14.Alt1.=[Z/ol/s2]
 
 =         --OR--
 
@@ -147,7 +147,7 @@ Note=Optional
 
 14.Alt2.2.sec=Employees may use accrued PTO for {maternity/parental} leave in accordance with the Company’s PTO policy.
 
-14.Alt2.=[Z/f/para/s2]
+14.Alt2.=[Z/para/s2]
 
 14.=[Z/Alt/2]
 
@@ -165,7 +165,7 @@ Note=Optional
 
 15.1.4.sec=For any qualifying exigency arising out of the fact that a spouse, son, daughter, or parent is a military member on covered active duty or call to covered active duty status.
 
-15.1.=[Z/f/ol/s4]
+15.1.=[Z/ol/s4]
 
 15.2.sec=An eligible employee may also take up to 26 weeks of leave during a "single 12-month period" to care for a covered servicemember with a serious injury or illness, when the employee is the spouse, son, daughter, parent, or next of kin of the servicemember. The "single 12-month period" for military caregiver leave is different from the 12-month period used for other FMLA leave reasons.
 
@@ -187,11 +187,11 @@ Note=Optional
 
 15.5.6.sec=When the need for leave is foreseeable (such as for the birth, adoption or placement of a child, or in cases of planned medical treatment), you must notify the Company thirty (30) days in advance of the requested leave.  Notice must be given to the {specify position/name} in writing, on forms provided for this purpose.  When thirty (30) days advance notice is not practical, notice must be given as soon as possible after you learn of the need for leave.  In the event of a medical emergency, your spouse or other family member may contact the Company on your behalf.
 
-15.5.=[Z/f/ol/s6]
+15.5.=[Z/ol/s6]
 
 15.6.sec=Upon return from approved Family and Medical Leave, the Company will normally return you to your previous position or you may be moved to an equivalent position if the previous position is no longer available; provided that the Company may exempt certain key employees from this requirement and you are not entitled to reinstatement, if your employment would have been otherwise terminated for reasons unrelated to your taking FMLA leave.
 
-15.=[Z/f/ol/s6]
+15.=[Z/ol/s6]
 
 16.Ti=Military Leave
 
@@ -203,7 +203,7 @@ Note=Optional
 
 17.2.sec=In the event of any other family member or relative not included in the above definition of immediate family, you may, at the discretion of your supervisor, be given time off without pay to attend the funeral.  In accordance with the PTO policy, if you have unused PTO, you must use it for the time you are away from work to attend a funeral under this provision.
 
-17.=[Z/f/ol/s2]
+17.=[Z/ol/s2]
 
 18.Alt1.Ti=Jury Duty
 
@@ -215,7 +215,7 @@ Note=Optional
 
 18.Alt2.2.sec=To qualify for jury leave, an employee must submit to {title/position} a copy of the summons as soon as it is received. In addition, the employee must also submit to {title/position} a related proof of service when jury duty is completed. No adverse employment action will be taken against employees due to their service as a juror in state or federal courts.
 
-18.Alt2.=[Z/f/ol/s2]
+18.Alt2.=[Z/ol/s2]
 
 18.=[Z/Alt/2]
 
@@ -235,10 +235,10 @@ Note=Optional
 
 21.2.sec=An employee who is injured while under the influence of alcohol or non-prescribed drugs may be subject to a reduction or forfeiture of benefits.
 
-21.=[Z/f/ol/s2]
+21.=[Z/ol/s2]
 
 22.Ti=Parking
 
 22.sec=The Company pays for certain employee parking.  You will be given information on company paid parking during orientation.
 
-=[Z/f/ol/22]
+=[Z/ol/22]

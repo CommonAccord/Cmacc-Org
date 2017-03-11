@@ -13,7 +13,7 @@ Ti=</i>
 2.1.3.sec=[INSERT as appropriate: NIH, CDC, or FDA]
 2.1.90.sec=and
 
-2.1.=[Z/f/ol/s3]
+2.1.=[Z/ol/s3]
 
 2.2.0.sec=[Insert Company’s official name],
 
@@ -23,9 +23,9 @@ Ti=</i>
 
 2.2.3.sec=created and operating under the laws of [Insert State of Incorporation].
 
-2.2.=[Z/f/ol/s3]
+2.2.=[Z/ol/s3]
 
-2.=[Z/f/ol/s2]
+2.=[Z/ol/s2]
 
 3.0.sec=For the IC internal use only:
 
@@ -37,7 +37,7 @@ Ti=</i>
 
 3.4.sec=Cooperative Research and Development Agreement (CRADA) Number (if a subject invention):
 
-3.=[Z/f/ol/s4]
+3.=[Z/ol/s4]
 
 4.sec=Additional Remarks:
 

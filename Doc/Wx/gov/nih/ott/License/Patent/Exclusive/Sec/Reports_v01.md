@@ -18,4 +18,4 @@ Ti=REPORTS ON PROGRESS, BENCHMARKS, SALES, AND PAYMENTS
 
 9.sec=All plans and reports required by this Article 9 and marked “confidential” by the Licensee shall, to the extent permitted by law, be treated by the IC as commercial and financial information obtained from a person and as privileged and confidential, and any proposed disclosure of these records by the IC under the Freedom of Information Act (FOIA), 5 U.S.C. §552 shall be subject to the predisclosure notification requirements of 45 C.F.R. §5.65(d).
 
-=[Z/f/ol/s9]
+=[Z/ol/s9]

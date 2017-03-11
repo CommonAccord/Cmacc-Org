@@ -36,5 +36,5 @@ SurviveList.Cl=Paragraphs 4.3, 8.1, 9.5-9.8, 12.1-12.5, 13.9, 13.10, 14.12 and 1
 
 16.sec=The terms and conditions of this Agreement shall, at the IC’s sole option, be considered by the IC to be withdrawn from the Licensee’s consideration and the terms and conditions of this Agreement, and the Agreement itself to be null and void, unless this Agreement is executed by the Licensee and a fully executed original is received by the IC within sixty (60) days from the date of the IC’s signature found at the Signature Page.
 
-=[Z/f/ol/s16]
+=[Z/ol/s16]
 
