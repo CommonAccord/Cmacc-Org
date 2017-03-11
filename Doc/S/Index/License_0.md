@@ -6,7 +6,7 @@ Ti=License
 
 2.Ti=Docracy Trademark License
 
-2.sec=<a href="index.php?action=source&file=Wx/com/docracy/4790/Form/0.md">
+2.sec=<a href="index.php?action=source&file=Wx/com/docracy/4790/Form/0.md">Wx/com/docracy/4790/Form/0.md</a>
 
 3.Ti=Y Combinator SaaS "Sales Agreement"
 
