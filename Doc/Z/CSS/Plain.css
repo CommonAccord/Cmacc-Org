@@ -12,4 +12,10 @@
 .definedterm {
 	color: black ;
         text-decoration: none;
+} 
+
+.xref {
+	color: blue ;
+        text-decoration: none;
+
 }
