@@ -10,13 +10,13 @@ Ti=Hourglass of Transacting:
 
 4.sec=                                                       Browser, App, Editor, IDE, Transaction System, MS Word
 
-5.sec=                                                           <a href="index.php?action=source&file=S/About/Conference/Stack/CRUD_0.md">Create Read Update Delete Render</a>   Share 
+5.sec=                                                           <a href="index.php?action=source&file=S/About/Conference/Stack/CRUD_1.md">Create Read Update Delete Render</a>   Share 
 
-6.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Object Model</a>
+6.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_1.md">Object Model</a>
 
 7.sec=                                                                   <b>files</b>, JSON, graph,  XML
 
-8.sec=JavaScript or <a href="https://github.com/CommonAccord/Cmacc-Org/blob/master/vendor/library/parser.pl">other parser</a>
+8.sec=JavaScript or <a href="https://github.com/CommonAccord/Cmacc-Org/blob/master/vendor/cmacc-app/parser.pl">other parser</a>
 
 9.sec=                                   blockchains, git, IPFS, other means of sharing
 
