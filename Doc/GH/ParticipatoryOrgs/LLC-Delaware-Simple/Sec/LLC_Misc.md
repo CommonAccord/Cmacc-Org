@@ -1,4 +1,3 @@
-
 Ti=MISCELLANEOUS
 
 1.Ti=Entire Agreement
@@ -60,7 +59,3 @@ Ti=MISCELLANEOUS
 13.sec=Each individual who is admitted as a Member of the Company shall cause the Member's spouse who is not also a Member to execute a consent to this agreement in the form of exhibit B. Any Member who marries subsequent to the Member's admission as a Member of the Company shall cause the Member's spouse to execute that consent as well.
 
 =[Z/ol/13]
-
-=[Z/Agt/Agt.md]
-
-=[Z/ol/12]
