@@ -58,7 +58,7 @@ Ti=License
 
 3.2.sec=Any one of the license stewards may publish revised and/or new versions of the DPL from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
 
-3.90.sec=Each version is given a distinguishing version number. If Licensor specifies in her Offering Announcement that she is offering a certain numbered version of the DPL "or any later version", Licensee has the option of following the terms and conditions either of that numbered version or of any later version published by one of the license stewards. If Licensor does not specify a version number of the DPL in her Offering Announcement, Licensee may choose any version ever published by any of the license stewards.
+3.00.sec=Each version is given a distinguishing version number. If Licensor specifies in her Offering Announcement that she is offering a certain numbered version of the DPL "or any later version", Licensee has the option of following the terms and conditions either of that numbered version or of any later version published by one of the license stewards. If Licensor does not specify a version number of the DPL in her Offering Announcement, Licensee may choose any version ever published by any of the license stewards.
 
 3.=[02/Bit/Sec_02]
 
@@ -128,7 +128,7 @@ Ti=License
 
 7.13.3.sec=is posted to a publicly accessible website.
 
-7.13.90.sec=An Offering Announcement may, but is not required to, specify the particular version of the DPL that the Licensor is committed to offering. It may also specify a particular version of the DPL "or any later version" to allow Licensees to accept subsequent new or revised versions of the DPL.
+7.13.00.sec=An Offering Announcement may, but is not required to, specify the particular version of the DPL that the Licensor is committed to offering. It may also specify a particular version of the DPL "or any later version" to allow Licensees to accept subsequent new or revised versions of the DPL.
 
 7.13.=[02/Bit/Ssec_03]
 
@@ -139,6 +139,6 @@ Ti=License
 
 =[02/Bit/Sec_07]
 
-DocBody={Doc}
+Sec={Doc}
 
 MessageToUser=From <a href="http://www.defensivepatentlicense.org/content/defensive-patent-license">defensivepatentlicense.org</a>

@@ -22,9 +22,9 @@ LimitLiability.=[Wx/org/solderpad/License/Sec/LimitLiability_v01.md]
 
 ReWarrant.=[Wx/org/solderpad/License/Sec/ReWarrant_v01.md]
 
-90.sec=END OF TERMS AND CONDITIONS
+00.sec=END OF TERMS AND CONDITIONS
 
-DocBody={Doc}
+Sec={Doc}
 
 =[Z/Sec/9]
 

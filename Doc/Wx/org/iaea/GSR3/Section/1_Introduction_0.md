@@ -116,7 +116,7 @@ H.1.2.Ti=Types of exposure situation
 
 1.20.3.sec=An existing exposure situation is a situation of exposure that already exists when a decision on the need for control needs to be taken. Existing exposure situations include situations of exposure to natural background radiation. They also include situations of exposure due to residual radioactive material that derives from past practices that were not subject to regulatory control or that remains after an emergency exposure situation.
 
-1.20.90.sec=If an event or a sequence of events that has been considered in the assessment of potential exposure does actually occur, it may be treated either as a planned exposure situation or, if an emergency has been declared, as an emergency exposure situation.
+1.20.00.sec=If an event or a sequence of events that has been considered in the assessment of potential exposure does actually occur, it may be treated either as a planned exposure situation or, if an emergency has been declared, as an emergency exposure situation.
 
 1.20.=[Z/ol-a/s3]
 

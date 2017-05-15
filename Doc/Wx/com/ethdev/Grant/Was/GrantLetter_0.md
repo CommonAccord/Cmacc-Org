@@ -34,23 +34,23 @@ Doc.Title=Private and Confidential  ÐΞVgrant Scheme – Offer Letter
 
 4.sec=The terms of this Letter will apply to our relationship with you relating to the DEVgrant and delivery of the Project. As a condition of the DEVgrant, you are required to sign and return the enclosed duplicate copy of this Letter confirming that these terms are acceptable.  Alternatively please contact us at grants@ethereum.org as soon as practicable if you have any comments or queries.
 
-90.1.sec=Yours sincerely,
+00.1.sec=Yours sincerely,
 
-90.2.sec=Signed: {P1.xSignature} Dated {P1.Sign.YMD}  DEVgrant Administrator
+00.2.sec=Signed: {P1.xSignature} Dated {P1.Sign.YMD}  DEVgrant Administrator
 
-90.3.sec=I hereby acknowledge receipt of and agree to the terms of this DEVgrant Scheme letter:
+00.3.sec=I hereby acknowledge receipt of and agree to the terms of this DEVgrant Scheme letter:
 
-90.4.sec=Signed: {P2.xSignature} Dated {P2.Sign.YMD}
+00.4.sec=Signed: {P2.xSignature} Dated {P2.Sign.YMD}
 
-90.5.sec=<hr><hr>{Attach.sec}
+00.5.sec=<hr><hr>{Attach.sec}
 
-90.=[Z/paras/s5]
+00.=[Z/paras/s5]
 
 00.Sec={00.sec}
 
 =[Z/ol-none/4]
 
-DocBody={Doc}
+Sec={Doc}
 
 Attach.1.Ti=Appendix 1 - The Project
 

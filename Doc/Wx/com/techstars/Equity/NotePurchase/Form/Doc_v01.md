@@ -20,11 +20,11 @@ Further.=[Wx/com/techstars/Equity/NotePurchase/Sec/Further_v01.md]
 
 Misc.=[Wx/com/techstars/Equity/NotePurchase/Sec/Misc_v01.md]
 
-90.=[Z/Agt/Frame/End_v01.md]
+00.sec={Signature.Block}
 
-=[Z/ol/0]
+=[Z/ol/Base]
 
-DocBody={Doc}
+Sec={Doc}
 
 =[Wx/com/techstars/Equity/NotePurchase/Sec/DefinedTerms_v01.md]
 

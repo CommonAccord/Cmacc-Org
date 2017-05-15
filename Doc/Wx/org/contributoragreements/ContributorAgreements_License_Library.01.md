@@ -83,7 +83,7 @@ Material.sec="Material" means the software or documentation made available by Us
 
 2.3.4.sec=to distribute, to make the Contribution available to the public, display and publicly perform the Contribution in original or modified form.
 
-2.3.90.sec=This license back is limited to the Contribution and does not provide any rights to the Material.
+2.3.00.sec=This license back is limited to the Contribution and does not provide any rights to the Material.
 
 2.3.=[Z/ol/s4]
 
@@ -149,6 +149,6 @@ PatentLicense.Traditional.sec=Subject to the terms and conditions of this Agreem
 
 9.=[Z/ol/s4]
 
-90.Sec={P1.Sign.Block}<br>{P2.Sign.Block}
+00.sec={P1.Sign.Block}<br>{P2.Sign.Block}
 
 =[Z/ol/9]

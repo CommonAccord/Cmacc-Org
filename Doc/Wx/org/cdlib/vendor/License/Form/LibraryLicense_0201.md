@@ -28,4 +28,4 @@ Misc.=[Wx/org/cdlib/vendor/License/Sec/Misc.md]
 
 =[Wx/org/cdlib/vendor/License/Sec/Defined_Terms.md]
 
-DocBody={Doc}
+Sec={Doc}

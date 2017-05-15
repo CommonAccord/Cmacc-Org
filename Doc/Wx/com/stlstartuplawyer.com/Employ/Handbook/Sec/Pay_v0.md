@@ -14,7 +14,7 @@ Ti=PART TWO - PAYROLL AND BENEFITS
 
 1.5.sec=Net pay
 
-1.90.sec=We reserve the right to alter the pay date based on reasons beyond our control, including pay dates that fall on non-business days and bank holidays.  If a pay date falls on a non-business day or a holiday, we reserve the right to issue paychecks on the following non-holiday business day. Deductions will be made to employee paychecks because they are required by law or because the employee requests them.  Federal, state, and/or local withholding tax, social security tax and benefit premium contributions are examples of the types of deductions that will be made and the amounts will be shown on the pay stub.
+1.00.sec=We reserve the right to alter the pay date based on reasons beyond our control, including pay dates that fall on non-business days and bank holidays.  If a pay date falls on a non-business day or a holiday, we reserve the right to issue paychecks on the following non-holiday business day. Deductions will be made to employee paychecks because they are required by law or because the employee requests them.  Federal, state, and/or local withholding tax, social security tax and benefit premium contributions are examples of the types of deductions that will be made and the amounts will be shown on the pay stub.
 
 1.=[Z/ol/s5]
 

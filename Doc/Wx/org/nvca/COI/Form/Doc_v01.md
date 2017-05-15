@@ -1,4 +1,4 @@
-Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Company.Name.Full}
+Doc.Ti=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Company.Name.Full}
 
 0.Ti=</i>
 
@@ -6,7 +6,7 @@ Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Company.Name.Ful
 
 0.2.sec={Company.Name.Full}, a corporation organized and existing under and by virtue of the provisions of the General Corporation Law of the State of Delaware (the “General Corporation Law”),
 
-0.90.sec=DOES HEREBY CERTIFY:
+0.00.sec=DOES HEREBY CERTIFY:
 
 0.=[Z/ol/s2]
 
@@ -18,16 +18,18 @@ Doc.Title=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Company.Name.Ful
 
 2.1.=[Wx/org/nvca/COI/Sec/Text_v01.md]
 
-2.=[Z/ol/1]
+2.=[Z/ol/s1]
 
 3.sec=That the foregoing amendment and restatement was approved by the holders of the requisite number of shares of this corporation in accordance with Section 228 of the General Corporation Law. 
 
 4.sec=That this Amended and Restated Certificate of Incorporation, which restates and integrates and further amends the provisions of this Corporation’s Certificate of Incorporation, has been duly adopted in accordance with Sections 242 and 245 of the General Corporation Law. 
 
-90.1.sec=IN WITNESS WHEREOF, this Amended and Restated Certificate of Incorporation has been executed by a duly authorized officer of this corporation on this {EffectiveDate.YMD}.
+00.1.sec=IN WITNESS WHEREOF, this Amended and Restated Certificate of Incorporation has been executed by a duly authorized officer of this corporation on this {EffectiveDate.YMD}.
 
-90.2.sec={Company.Secretary.Sign.Block}
+00.2.sec={Company.Secretary.Sign.Block}
+
+00.=[Z/paras/s2]
 
 =[Z/ol/s4]
   
-DocBody={Doc}
+Sec={Doc}

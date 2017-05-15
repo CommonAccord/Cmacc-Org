@@ -87,9 +87,9 @@ agreement.S.Or=agreements, amendments, applications, approvals, certificates, co
 
 =[Z/ol/4]
 
-DocBody={Doc}
+Sec={Doc}
 
-90.sec={SignaturePageFollows}<br>{Signature.Witness}<br>{Misc.CopyIsGold}<br><br><table><tr><td width=40%>{Co.Sign.Block}</td><td width=20%></td><td width=40%>{Inv.1.Sign.Block}</td></tr></table>
+00.sec={SignaturePageFollows}<br>{Signature.Witness}<br>{Misc.CopyIsGold}<br><br><table><tr><td width=40%>{Co.Sign.Block}</td><td width=20%></td><td width=40%>{Inv.1.Sign.Block}</td></tr></table>
 
 
 Signature.Witness=<strong>IN WITNESS WHEREOF</strong>, the undersigned have executed this Action by Unanimous Written Consent of the Board of Directors as of the date set forth below opposite his name, which may be executed in one or more counterparts, each of which shall be deemed an original, and all of which shall constitute one and the same instrument. This action shall be filed with the minutes of the proceedings of this Board of Directors and shall be effective as of the last date of execution below.

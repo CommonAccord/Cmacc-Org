@@ -1,4 +1,4 @@
-Doc.Title=INDEMNIFICATION AGREEMENT
+Doc.Ti=INDEMNIFICATION AGREEMENT
 
 0.Ti=</i>
 
@@ -26,7 +26,7 @@ Doc.Title=INDEMNIFICATION AGREEMENT
 
 0.2.=[Z/ol/s8]
 
-0.90.sec=NOW, THEREFORE, in consideration of Indemnitee’s agreement to serve as an [officer] [director] from and after the date hereof, the parties hereto agree as follows:
+0.00.sec=NOW, THEREFORE, in consideration of Indemnitee’s agreement to serve as an [officer] [director] from and after the date hereof, the parties hereto agree as follows:
 
 0.xlist={0.nlist}
 
@@ -252,7 +252,7 @@ Doc.Title=INDEMNIFICATION AGREEMENT
 
 17.2.sec=To the Company at:<br>{Company.Notice.Block}
 
-17.90.sec=or to such other address as may have been furnished to Indemnitee by the Company or to the Company by Indemnitee, as the case may be.
+17.00.sec=or to such other address as may have been furnished to Indemnitee by the Company or to the Company by Indemnitee, as the case may be.
 
 17.=[Z/ol/s2]
 
@@ -280,6 +280,6 @@ Doc.Title=INDEMNIFICATION AGREEMENT
 
 20.=[Z/ol/s5]
 
-DocBody={Doc}
+Sec={Doc}
 
 =[Z/ol/20]

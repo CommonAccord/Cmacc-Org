@@ -77,16 +77,14 @@ Note=No title on the introduction:
 
 13.=[Wx/com/stlstartuplawyer.com/NDA/Sec/Misc_v0.md]
 
-90.1.sec={Signature Page Follows}
+00.1.sec={Signature Page Follows}
  
-90.2.sec=The parties have executed this {Doc.Title} as of the date first above written.
+00.2.sec=The parties have executed this {Doc.Title} as of the date first above written.
 
-90.3.sec={P1.Sign.Block}<br>{P2.Sign.Block}
+00.3.sec={P1.Sign.Block}<br>{P2.Sign.Block}
 
-90.Sec={90.sec}
-
-90.=[Z/paras/s3]
+00.=[Z/paras/s3]
 
 =[Z/ol/13]
 
-DocBody={Doc}
+Sec={Doc}

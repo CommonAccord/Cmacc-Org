@@ -8,7 +8,7 @@ Ti=Limited Liability Company Operating Agreement
 	
 0.3.sec=The Members enter into this agreement to provide for the governance of the Company and the conduct of its business, and to specify their relative rights and obligations.
 
-0.90.sec=NOW THEREFORE, the Members agree as follows:
+0.00.sec=NOW THEREFORE, the Members agree as follows:
 
 0.=[Z/ol/s3]
 
@@ -371,12 +371,12 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 13.=[Z/ol/s9]
 
-90.sec={Witness}<br><br>{Co.Sign.Block}<br>{MList.Sign.Block}
+00.sec={Witness}<br><br>{Co.Sign.Block}<br>{MList.Sign.Block}
 
 Witness=IN WITNESS WHEREOF, the parties have executed or caused to be executed this Operating Agreement as of the date below.
 
 =[Z/ol/13]
 
-DocBody={Doc}
+Sec={Doc}
 
 Co.Sign.Handle=Company

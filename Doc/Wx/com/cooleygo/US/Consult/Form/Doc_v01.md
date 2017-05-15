@@ -1,6 +1,6 @@
 Note=This form of agreement has been through a number of transformations since is was the CooleyGo original.  Errors are mine. 
 
-Doc.Title=Consulting Agreement
+Doc.Ti=Consulting Agreement
 
 Olist=<ol><li>{Service.Sec}<li>{Comp.Sec}<li>{Ownership.Sec}<li>{Conf.Sec}
 
@@ -33,11 +33,17 @@ Dispute.=[Wx/com/cooleygo/US/NDA/Sec/Dispute/US/Law-Court_v0.md]
 
 Misc.=[Wx/com/cooleygo/US/Consult/Sec/Misc_v01.md]
 
-=[Z/Agt/Agt.md]
-
 _=[Wx/com/cooleygo/US/Consult/Sec/DefinedTerms_v01.md]
 
-Foot.Sec=<hr><hr><b>Exhibit A</b><br>{Exh.Project.Doc}<hr><b>Exhibit B</b><br>{Exh.Copyright.Doc}<hr><b>Exhibit C</b><br>{Exh.Patent.Doc}
+00.1.sec={Signature.Block}
+
+00.2.sec=<hr><hr><b>Exhibit A</b><br>{Exh.Project.Doc}<hr><b>Exhibit B</b><br>{Exh.Copyright.Doc}<hr><b>Exhibit C</b><br>{Exh.Patent.Doc}
+
+00.=[Z/paras/s2]
+
+Sec={Doc}
+
+=[Z/ol/Base]
 
 Exh.Project.=[Wx/com/cooleygo/US/Consult/Sec/Exh_ProjectAssignment_v01.md] 
 

@@ -11,7 +11,7 @@ Ti=</i>
 2.1.2.sec=an Institute or Center (hereinafter referred to as the “IC”) of the
 
 2.1.3.sec=[INSERT as appropriate: NIH, CDC, or FDA]
-2.1.90.sec=and
+2.1.00.sec=and
 
 2.1.=[Z/ol/s3]
 
@@ -45,7 +45,7 @@ Ti=</i>
 
 6.sec=This Patent License Agreement, hereinafter referred to as the “Agreement”, consists of this Cover Page, an attached Agreement, a Signature Page, Appendix A (List of Patent(s) or Patent Application(s)), Appendix B (Fields of Use and Territory), Appendix C (Royalties), Appendix D (Benchmarks and Performance), Appendix E (Commercial Development Plan), Appendix F (Example Royalty Report), and Appendix G (Royalty Payment Options).
 
-90.sec=The IC and the Licensee agree as follows:
+00.sec=The IC and the Licensee agree as follows:
 
 
 =[Z/paras/s6]

@@ -32,7 +32,7 @@
 
 17.sec=Also recognizing that sustainable lifestyles and sustainable patterns of consumption and production, with {developed_country_Parties} taking the lead, play an important role in addressing climate change,
 
-90.sec=Have agreed as follows:
+00.sec=Have agreed as follows:
 
 =[Z/paras/s17]
 

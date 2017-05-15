@@ -1,5 +1,3 @@
-=[Z/Agt/Out/DefinedTerms_Base.md]
-
 Act=<font color="green">Act</font>
 
 Additional_Closing=<font color="green">Additional Closing</font>

@@ -12,7 +12,7 @@ Note={Liblicense editors suggest that some collections may need to be described 
 
 Note=[Describe licensed materials with reasonable specificity, including distinguishing between purchased content, content under subscription, and content that is merely made accessible, particularly as these distinctions relate to perpetual rights in Section 8. For example, list titles and dates, subscription periods, titles and content types included in an aggregated database, etc.]
 
-90.Sec={Sign.Sec}
+00.sec={Sign.Sec}
 
 =[Z/ol/s2]
 

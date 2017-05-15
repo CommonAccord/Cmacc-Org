@@ -10,7 +10,7 @@ Ti=Deemed Liquidation Events
 
 1.1.2.sec=a subsidiary of the Corporation is a constituent party and the Corporation issues shares of its capital stock pursuant to such merger or consolidation, 
 
-1.1.90.sec=except any such merger or consolidation involving the Corporation or a subsidiary in which the shares of capital stock of the Corporation outstanding immediately prior to such merger or consolidation continue to represent, or are converted into or exchanged for shares of capital stock that represent, immediately following such merger or consolidation, at least a [majority], by voting power, of the capital stock of (1) the surviving or resulting corporation; or (2) if the surviving or resulting corporation is a wholly owned subsidiary of another corporation immediately following such merger or consolidation, the parent corporation of such surviving or resulting corporation; or
+1.1.00.sec=except any such merger or consolidation involving the Corporation or a subsidiary in which the shares of capital stock of the Corporation outstanding immediately prior to such merger or consolidation continue to represent, or are converted into or exchanged for shares of capital stock that represent, immediately following such merger or consolidation, at least a [majority], by voting power, of the capital stock of (1) the surviving or resulting corporation; or (2) if the surviving or resulting corporation is a wholly owned subsidiary of another corporation immediately following such merger or consolidation, the parent corporation of such surviving or resulting corporation; or
 
 1.1.=[Z/ol/s2]
 

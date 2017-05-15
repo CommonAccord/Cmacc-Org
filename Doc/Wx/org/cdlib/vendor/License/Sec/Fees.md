@@ -4,7 +4,7 @@ Ti=Fees
 
 1.Sec=To be negotiated.
 
-90.Sec=All fees are due and payable by {Licensee} {Payment.Time}.
+00.sec=All fees are due and payable by {Licensee} {Payment.Time}.
 
 Payment.Time=sixty (60) days after the date of invoice from {Licensor}, but no earlier than thirty (30) days before renewal
 

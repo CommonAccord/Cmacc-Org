@@ -1,4 +1,4 @@
-Doc.Title=Assignment of Patent Applications
+Doc.Ti=Assignment of Patent Applications
 
 0.1.sec={P1.N,E,A}	
 
@@ -16,14 +16,14 @@ Doc.Title=Assignment of Patent Applications
 
 2.sec={_The_Consultant} also hereby sells, assigns, and transfers to {Client} and its successors, assigns, and legal representatives all right, title, and interest to the inventions disclosed in the {Patent_Applications} and {Future_Patents} throughout the world, including the right to file applications for and obtain patents, utility models, and industrial models, and designs for such inventions in {Client}'s own name throughout the world including all rights of priority, all rights to publish cautionary notices reserving ownership of such inventions, and all rights to register such inventions in appropriate registries; and {_the_Consultant} further agrees to execute any and all powers of attorney, applications, assignments, declarations, affidavits, and any other papers in connection therewith reasonably necessary to perfect such right, title, and interest in {Client} and its successors, assigns, and legal representatives.
  
-90.1.sec=In witness whereof, {_the_Consultant} has caused this instrument to be executed by its duly authorized corporate officer, effective as of {_EffectiveDate.YMD}.
+00.1.sec=In witness whereof, {_the_Consultant} has caused this instrument to be executed by its duly authorized corporate officer, effective as of {_EffectiveDate.YMD}.
 
-90.2.sec={P1.Sign.Block}
+00.2.sec={P1.Sign.Block}
 
-90.3.sec={P2.Sign.Block}
+00.3.sec={P2.Sign.Block}
 
-00.sec={90.1.sec}<br><br>{90.2.sec}<br><br>{90.3.sec}
+00.sec={00.1.sec}<br><br>{00.2.sec}<br><br>{00.3.sec}
 
 =[Z/ol/s2]
 
-DocBody={Doc}
+Sec={Doc}

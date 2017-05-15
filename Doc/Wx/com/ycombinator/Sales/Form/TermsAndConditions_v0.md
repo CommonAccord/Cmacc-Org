@@ -127,7 +127,7 @@ Note=Liability limitations are frequently heavily negotiated in larger deals. Th
 
 Note=OPTIONAL: there are several variations on these concepts that could be used as a starting point, but start-ups should typically expect resistance from large customers on these points]
 
-90.Sec=<center><b>EXHIBIT A</b></center><br>{SOW.Sec}<hr><center><b>EXHIBIT B</b></center><br>{SLA.Sec}<hr><center><b>EXHIBIT C</b></center><br>{Support.Sec}<hr>
+00.sec=<center><b>EXHIBIT A</b></center><br>{SOW.Sec}<hr><center><b>EXHIBIT B</b></center><br>{SLA.Sec}<hr><center><b>EXHIBIT C</b></center><br>{Support.Sec}<hr>
 
 =[Z/ol/9] 
  

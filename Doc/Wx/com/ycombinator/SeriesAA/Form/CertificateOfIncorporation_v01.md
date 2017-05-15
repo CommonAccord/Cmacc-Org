@@ -56,7 +56,7 @@ Head.sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 5.2.5.2.sec=if the securities are actively traded over-the-counter, then the value of the securities shall be deemed to be the average of the closing bid prices of the securities over the ten (10) trading day period ending five (5) trading days prior to the Distribution
 
-5.2.5.90.sec=In the event of a merger or other acquisition of the Corporation by another entity, the Distribution date shall be deemed to be the date such transaction closes.<br>For the purposes of this subsection {5.2(e)}, "<strong>trading day</strong>" shall mean any day which the exchange or system on which the securities to be distributed are traded is open and "<strong>closing prices</strong>" or "<strong>closing bid prices</strong>" shall be deemed to be: (i) for securities traded primarily on the New York Stock Exchange, the American Stock Exchange or a Nasdaq market, the last reported trade price or sale price, as the case may be, at 4:00 p.m., New York time, on that day and (ii) for securities listed or traded on other exchanges, markets and systems, the market price as of the end of the regular hours trading period that is generally accepted as such for such exchange, market or system. If, after the date hereof, the benchmark times generally accepted in the securities industry for determining the market price of a stock as of a given trading day shall change from those set forth above, the fair market value shall be determined as of such other generally accepted benchmark times.
+5.2.5.00.sec=In the event of a merger or other acquisition of the Corporation by another entity, the Distribution date shall be deemed to be the date such transaction closes.<br>For the purposes of this subsection {5.2(e)}, "<strong>trading day</strong>" shall mean any day which the exchange or system on which the securities to be distributed are traded is open and "<strong>closing prices</strong>" or "<strong>closing bid prices</strong>" shall be deemed to be: (i) for securities traded primarily on the New York Stock Exchange, the American Stock Exchange or a Nasdaq market, the last reported trade price or sale price, as the case may be, at 4:00 p.m., New York time, on that day and (ii) for securities listed or traded on other exchanges, markets and systems, the market price as of the end of the regular hours trading period that is generally accepted as such for such exchange, market or system. If, after the date hereof, the benchmark times generally accepted in the securities industry for determining the market price of a stock as of a given trading day shall change from those set forth above, the fair market value shall be determined as of such other generally accepted benchmark times.
 
 5.2.5.=[Z/ol/s2]
 
@@ -195,7 +195,7 @@ Vote.Bd.Together=Any additional members of the Corporation's Board of Directors 
 
 xlist={Blist}
 
-DocBody={Doc}
+Sec={Doc}
 
 Xrefs=-
 

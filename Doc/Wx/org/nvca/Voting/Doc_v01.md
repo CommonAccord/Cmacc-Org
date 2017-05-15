@@ -1,4 +1,4 @@
-Doc.Title=AMENDED AND RESTATED VOTING AGREEMENT
+Doc.Ti=AMENDED AND RESTATED VOTING AGREEMENT
 
 Ti=</i>
 
@@ -24,7 +24,7 @@ Ti=</i>
 
 0.1.=[Z/ol/s3]
 
-0.90.sec=NOW, THEREFORE, the parties agree as follows:
+0.00.sec=NOW, THEREFORE, the parties agree as follows:
 
 Note=is there a bug in Sec_01 ??
 
@@ -60,11 +60,11 @@ Note=is there a bug in Sec_01 ??
 
 1.2.5.sec=(e)	One individual not otherwise an Affiliate (as defined below) of the Company or of any Investor who is [mutually acceptable to (i) the holders of a majority of the Shares held by the Key Holders who are then providing services to the Company as officers, employees or consultants; and (ii) the holders of a majority of the Shares held by the Investors] [mutually acceptable to the other members of the Board]; and
 
-1.2.90.1.sec=To the extent that any of clauses (a) through (d) above shall not be applicable, any member of the Board who would otherwise have been designated in accordance with the terms thereof shall instead be voted upon by all the stockholders of the Company entitled to vote thereon in accordance with, and pursuant to, the Company’s Restated Certificate.
+1.2.00.1.sec=To the extent that any of clauses (a) through (d) above shall not be applicable, any member of the Board who would otherwise have been designated in accordance with the terms thereof shall instead be voted upon by all the stockholders of the Company entitled to vote thereon in accordance with, and pursuant to, the Company’s Restated Certificate.
 
-1.2.90.2.sec=For purposes of this Agreement, an individual, firm, corporation, partnership, association, limited liability company, trust or any other entity (collectively, a “Person”) shall be deemed an “Affiliate” of another Person who, directly or indirectly, controls, is controlled by or is under common control with such Person, including, without limitation, any general partner, managing member, officer or director of such Person or any venture capital fund now or hereafter existing that is controlled by one or more general partners or managing members of, or shares the same management company with, such Person.
+1.2.00.2.sec=For purposes of this Agreement, an individual, firm, corporation, partnership, association, limited liability company, trust or any other entity (collectively, a “Person”) shall be deemed an “Affiliate” of another Person who, directly or indirectly, controls, is controlled by or is under common control with such Person, including, without limitation, any general partner, managing member, officer or director of such Person or any venture capital fund now or hereafter existing that is controlled by one or more general partners or managing members of, or shares the same management company with, such Person.
 
-1.2.90.=[Z/ol/s2]
+1.2.00.=[Z/ol/s2]
 
 1.2.=[Z/ol/s5]
 
@@ -84,7 +84,7 @@ Note=is there a bug in Sec_01 ??
 
 1.4.3.sec=(c)	upon the request of any party entitled to designate a director as provided in Subsection 1.2(a) or 1.2(b) to remove such director, such director shall be removed.
 
-1.4.90.sec=All Stockholders agree to execute any written consents required to perform the obligations of this Agreement, and the Company agrees at the request of any party entitled to designate directors to call a special meeting of stockholders for the purpose of electing directors. [So long as the stockholders of the Company are entitled to cumulative voting, if less than the entire Board is to be removed, no director may be removed without cause if the votes cast against his or her removal would be sufficient to elect such director if then cumulatively voted at an election of the entire Board.]
+1.4.00.sec=All Stockholders agree to execute any written consents required to perform the obligations of this Agreement, and the Company agrees at the request of any party entitled to designate directors to call a special meeting of stockholders for the purpose of electing directors. [So long as the stockholders of the Company are entitled to cumulative voting, if less than the entire Board is to be removed, no director may be removed without cause if the votes cast against his or her removal would be sufficient to elect such director if then cumulatively voted at an election of the entire Board.]
 
 1.5.Ti=No Liability for Election of Recommended Directors
 
@@ -233,7 +233,7 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 7.8.5.sec=(e)	Subsections 1.2(a) and 1.2(b) of this Agreement shall not be amended or waived without the written consent of [Investor 1] and [Investor 2], respectively, and Subsection 1.2(c) of this Agreement shall not be amended or waived without the written consent of [the Key Holders][the Key Holders who are at such time providing services to the Company as an officer, director, employee or consultant][the holders of [specify percentage] of shares of Common Stock].
 
-7.8.90.sec=The Company shall give prompt written notice of any amendment, termination, or waiver hereunder to any party that did not consent in writing thereto. Any amendment, termination, or waiver effected in accordance with this Subsection 7.8 shall be binding on each party and all of such party’s successors and permitted assigns, whether or not any such party, successor or assignee entered into or approved such amendment, termination or waiver. For purposes of this Subsection 7.8, the requirement of a written instrument may be satisfied in the form of an action by written consent of the Stockholders circulated by the Company and executed by the Stockholder parties specified, whether or not such action by written consent makes explicit reference to the terms of this Agreement.
+7.8.00.sec=The Company shall give prompt written notice of any amendment, termination, or waiver hereunder to any party that did not consent in writing thereto. Any amendment, termination, or waiver effected in accordance with this Subsection 7.8 shall be binding on each party and all of such party’s successors and permitted assigns, whether or not any such party, successor or assignee entered into or approved such amendment, termination or waiver. For purposes of this Subsection 7.8, the requirement of a written instrument may be satisfied in the form of an action by written consent of the Stockholders circulated by the Company and executed by the Stockholder parties specified, whether or not such action by written consent makes explicit reference to the terms of this Agreement.
 
 7.8.=[Z/ol/s5]
 
@@ -255,7 +255,7 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 7.12.1.sec=“THE SHARES REPRESENTED HEREBY ARE SUBJECT TO A VOTING AGREEMENT, AS MAY BE AMENDED FROM TIME TO TIME, (A COPY OF WHICH MAY BE OBTAINED UPON WRITTEN REQUEST FROM THE COMPANY), AND BY ACCEPTING ANY INTEREST IN SUCH SHARES THE PERSON ACCEPTING SUCH INTEREST SHALL BE DEEMED TO AGREE TO AND SHALL BECOME BOUND BY ALL THE PROVISIONS OF THAT VOTING AGREEMENT, INCLUDING CERTAIN RESTRICTIONS ON TRANSFER AND OWNERSHIP SET FORTH THEREIN.”
 
-7.12.90.sec=The Company, by its execution of this Agreement, agrees that it will cause the certificates instruments, or book entry evidencing the Shares issued after the date hereof to be notated with the legend required by this Subsection 7.12 of this Agreement, and it shall supply, free of charge, a copy of this Agreement to any holder of such Shares upon written request from such holder to the Company at its principal office. The parties to this Agreement do hereby agree that the failure to cause the certificates, instruments, or book entry evidencing the Shares to be notated with the legend required by this Subsection 7.12 herein and/or the failure of the Company to supply, free of charge, a copy of this Agreement as provided hereunder shall not affect the validity or enforcement of this Agreement.
+7.12.00.sec=The Company, by its execution of this Agreement, agrees that it will cause the certificates instruments, or book entry evidencing the Shares issued after the date hereof to be notated with the legend required by this Subsection 7.12 of this Agreement, and it shall supply, free of charge, a copy of this Agreement to any holder of such Shares upon written request from such holder to the Company at its principal office. The parties to this Agreement do hereby agree that the failure to cause the certificates, instruments, or book entry evidencing the Shares to be notated with the legend required by this Subsection 7.12 herein and/or the failure of the Company to supply, free of charge, a copy of this Agreement as provided hereunder shall not affect the validity or enforcement of this Agreement.
 
 7.12.=[Z/ol/1]
 
@@ -296,21 +296,21 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 7.=[Z/ol/19]
 
-90.1.sec=IN WITNESS WHEREOF, the parties have executed this [Amended and Restated] Voting Agreement as of the date first written above.
+00.1.sec=IN WITNESS WHEREOF, the parties have executed this [Amended and Restated] Voting Agreement as of the date first written above.
 
-90.2.sec={Co.Sign.Block}
+00.2.sec={Co.Sign.Block}
 
-90.2.sec={KeyHolder.Sign.Block}
+00.2.sec={KeyHolder.Sign.Block}
 
-90.3.sec={Investor.Sign.Block}
+00.3.sec={Investor.Sign.Block}
 
-90.=[Z/ol/s3]
+00.=[Z/ol/s3]
 
-90.Sec={90.blist}
+00.sec={00.blist}
 
 =[Z/ol/7]
 
-DocBody={Doc}
+Sec={Doc}
 
 Attach.Sec=<hr><hr>{Schedule.A}<hr><hr>{Schedule.B}<hr><hr><h3>Exhibit A</h3> <hr>{Exh.1.Doc}<hr><hr><h3>Exhibit B </h3><hr>{Exh.2.Doc}<hr><hr><h3>Additional Provisions</h3> <hr>{Add.1.Doc}
 
@@ -347,15 +347,15 @@ Exh.1.3.Ti=Notice
 
 Exh.1.3.sec=Any notice required or permitted by the Agreement shall be given to Holder at the address or facsimile number listed below Holder’s signature hereto.
 
-Exh.1.90.1.sec={Holder.Sign.Block}
+Exh.1.00.1.sec={Holder.Sign.Block}
 
-Exh.1.90.2.sec={Co.Sign.Block}
+Exh.1.00.2.sec={Co.Sign.Block}
 
 Holder.Sign.Block=HOLDER:<br>By: <br>Name and Title of Signatory<br>Address: 		By: 	<br>Facsimile Number: 	
 
 Co.Sign.Block=ACCEPTED AND AGREED:<br>{Co.Name.Full}<br>By: <br>Title
 
-Exh.1.90.=[Z/ol/s2]
+Exh.1.00.=[Z/ol/s2]
 
 Exh.1.=[Z/ol/3]
 
@@ -369,11 +369,11 @@ Exh.2.2.sec=I hereby agree that my interest, if any, in any shares of capital st
 
 Exh.2.3.sec=I am aware that the legal, financial and related matters contained in the Agreement are complex and that I am free to seek independent professional guidance or counsel with respect to this Consent. I have either sought such guidance or counsel or determined after reviewing the Agreement carefully that I will waive such right.
 
-Exh.2.90.1.sec=Dated:												
+Exh.2.00.1.sec=Dated:												
 
-Exh.2.90.2.sec=[Name of Key Holder’s Spouse]
+Exh.2.00.2.sec=[Name of Key Holder’s Spouse]
 
-Exh.2.90.=[Z/ol/s2]
+Exh.2.00.=[Z/ol/s2]
 
 Exh.2.=[Z/ol/s3]
 

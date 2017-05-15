@@ -16,7 +16,7 @@ Ti=Redemption
 
 2.4.sec=(d)	for holders of shares in certificated form, that the holder is to surrender to the Corporation, in the manner and at the place designated, his, her or its certificate or certificates representing the shares of Series A Preferred Stock to be redeemed.
 
-2.90.sec=[If the Corporation receives, on or prior to the twentieth (20th) day after the date of delivery of the Redemption Notice to a holder of Series A Preferred Stock, written notice from such holder that such holder elects to be excluded from the redemption provided in this Section 6, then the shares of Series A Preferred Stock registered on the books of the Corporation in the name of such holder at the time of the Corporation’s receipt of such notice shall thereafter be “Excluded Shares.”  Excluded Shares shall not be redeemed or redeemable pursuant to this Section 6, whether on such Redemption Date or thereafter.]
+2.00.sec=[If the Corporation receives, on or prior to the twentieth (20th) day after the date of delivery of the Redemption Notice to a holder of Series A Preferred Stock, written notice from such holder that such holder elects to be excluded from the redemption provided in this Section 6, then the shares of Series A Preferred Stock registered on the books of the Corporation in the name of such holder at the time of the Corporation’s receipt of such notice shall thereafter be “Excluded Shares.”  Excluded Shares shall not be redeemed or redeemable pursuant to this Section 6, whether on such Redemption Date or thereafter.]
 
 2.=[Z/ol/s4]
 

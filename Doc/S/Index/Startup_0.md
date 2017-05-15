@@ -14,6 +14,6 @@ Ti=Startup
 
 7.Note=French model startup documents
 
-7.sec=<a href="index.php?action=list&file=GHx/jurismatic/jurismatic/">GHx/jurismatic/jurismatic/</a>
+7.sec=<a href="http://deux.commonaccord.org/index.php?action=list&file=/GHx/jurismatic/jurismatic/">http://deux.commonaccord.org/index.php?action=list&file=/GHx/jurismatic/jurismatic/</a>
 
 =[Z/ol/s7]

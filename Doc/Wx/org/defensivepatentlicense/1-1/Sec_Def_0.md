@@ -52,7 +52,7 @@ Ti=Definitions
 
 13.3.sec=is posted to a publicly accessible website.
 
-13.90.sec=An {Offering_Announcement} may, but is not required to, specify the particular version of the {DPL} that the {Licensor} is committed to offering. It may also specify a particular version of the {DPL} "or any later version" to allow {Licensees} to accept subsequent new or revised versions of the {DPL}.
+13.00.sec=An {Offering_Announcement} may, but is not required to, specify the particular version of the {DPL} that the {Licensor} is committed to offering. It may also specify a particular version of the {DPL} "or any later version" to allow {Licensees} to accept subsequent new or revised versions of the {DPL}.
 
 13.=[Z/ol-none/s3]
 

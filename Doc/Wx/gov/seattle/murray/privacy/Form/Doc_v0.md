@@ -24,7 +24,7 @@ Ti=The proposed privacy principles include:
 
 6.sec=We work to maintain and use accurate personal information for City business. When practical, we will work to correct inaccurate personal information. We also instruct our partners and contracted vendors to follow the same guidelines.
 
-90.sec=- See more at: <a href="http://murray.seattle.gov/category/technology/privacy/#sthash.oWZLqMMV.dpuf">http://murray.seattle.gov/category/technology/privacy/#sthash.oWZLqMMV.dpuf</a>
+00.sec=- See more at: <a href="http://murray.seattle.gov/category/technology/privacy/#sthash.oWZLqMMV.dpuf">http://murray.seattle.gov/category/technology/privacy/#sthash.oWZLqMMV.dpuf</a>
 
 =[Z/ol/6]
 

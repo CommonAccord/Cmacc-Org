@@ -14,6 +14,6 @@ Note={The payment term may be for less than one year, one calendar year, one fis
 
 Note={Liblicense editors suggest thirty, forty-five, or sixty-day time periods may be appropriate depending on circumstances.}
 
-90.Sec={Sign.Sec}
+00.sec={Sign.Sec}
 
 =[Z/ol/s4]

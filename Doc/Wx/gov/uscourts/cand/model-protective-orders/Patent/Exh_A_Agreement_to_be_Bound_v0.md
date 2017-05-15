@@ -7,6 +7,6 @@ Doc.Title=EXHIBIT A<br>ACKNOWLEDGMENT AND AGREEMENT TO BE BOUND
 
 3.sec=Date: {Sign.Date.YMD}<br><br>City and State where sworn and signed: {Sign.City,State}<br><br>Printed name: {P1.Name.Full}<br><br><br><br>Signature: __________________________________<br><br>{P1.N/A/P}
 
-DocBody={Doc}
+Sec={Doc}
 
 =[Z/ol/s3]

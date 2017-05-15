@@ -10,7 +10,7 @@
 
 5.=[Wx/com/ycombinator/SAFE/Sec/Def_v01.md]
 
-90.Sec=IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.<br><br>{Company.Sign.Block}<br><br>{Investor.Sign.Block}
+00.sec=IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly executed and delivered.<br><br>{Company.Sign.Block}<br><br>{Investor.Sign.Block}
   
 Company.Handle={Company}
 

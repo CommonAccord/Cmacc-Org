@@ -36,7 +36,7 @@ Board.1.1.4.sec=make certain other changes, as set forth in the Amended and Rest
 
 2.=[Z/ol/s2]
 
-90.Sec={Sign.Witness}<br>{Sign.Block}
+00.sec={Sign.Witness}<br>{Sign.Block}
 
 Sign.Witness=<strong>IN WITNESS WHEREOF</strong>, by executing this Action by Written Consent of Stockholders, each undersigned stockholder is giving written consent with respect to all shares of the Company's capital stock held by such stockholder in favor of the above resolutions. This Action by Written Consent of Stockholders may be executed in any number of counterparts, each of which shall constitute an original and all of which together shall constitute one action. {Board.Misc.CopyIsGold}<br>Dated:
 
@@ -44,4 +44,4 @@ Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{Inv.1.Sign.Block}</td></tr></
 
 =[Z/ol/2]
 
-DocBody={Doc}
+Sec={Doc}

@@ -1,4 +1,4 @@
-Doc.Title=Amended and Restated Right of First Refusal and Co-Sale Agreement
+Doc.Ti=Amended and Restated Right of First Refusal and Co-Sale Agreement
 
 0.Ti=</i>
 
@@ -24,7 +24,7 @@ Note=Setting up the alternatives:
 
 0.1.=[Z/Alt/2]
   
-0.90.sec=NOW, THEREFORE, the Company, the Key Holders [and][,] the Investors [including the Prior Investors each hereby agree to amend and restate the Prior Agreement in its entirety as set forth herein, and the parties hereto further] agree as follows:
+0.00.sec=NOW, THEREFORE, the Company, the Key Holders [and][,] the Investors [including the Prior Investors each hereby agree to amend and restate the Prior Agreement in its entirety as set forth herein, and the parties hereto further] agree as follows:
 
 0.=[Z/ol/s1]
 
@@ -168,7 +168,7 @@ Note=Setting up the alternatives:
 
 3.1.5.sec=to the sale by the Key Holder of up to [__%] of the Transfer Stock held by such Key Holder as of the date that such Key Holder first became party to this Agreement]; 
 
-3.1.90.sec=provided that in the case of clause(s) [(a)], [(c)], [(d)] or [(e)], the Key Holder shall deliver prior written notice to the Investors of such pledge, gift or transfer and such shares of Transfer Stock shall at all times remain subject to the terms and restrictions set forth in this Agreement and such transferee shall, as a condition to such issuance, deliver a counterpart signature page to this Agreement as confirmation that such transferee shall be bound by all the terms and conditions of this Agreement as a Key Holder (but only with respect to the securities so transferred to the transferee), including the obligations of a Key Holder with respect to Proposed Key Holder Transfers of such Transfer Stock pursuant to Section 2[; and provided further in the case of any transfer pursuant to clause (a) or (d) above, that such transfer is made pursuant to a transaction in which there is no consideration actually paid for such transfer].
+3.1.00.sec=provided that in the case of clause(s) [(a)], [(c)], [(d)] or [(e)], the Key Holder shall deliver prior written notice to the Investors of such pledge, gift or transfer and such shares of Transfer Stock shall at all times remain subject to the terms and restrictions set forth in this Agreement and such transferee shall, as a condition to such issuance, deliver a counterpart signature page to this Agreement as confirmation that such transferee shall be bound by all the terms and conditions of this Agreement as a Key Holder (but only with respect to the securities so transferred to the transferee), including the obligations of a Key Holder with respect to Proposed Key Holder Transfers of such Transfer Stock pursuant to Section 2[; and provided further in the case of any transfer pursuant to clause (a) or (d) above, that such transfer is made pursuant to a transaction in which there is no consideration actually paid for such transfer].
 
 3.1.=[Z/ol/s5]
 
@@ -188,7 +188,7 @@ Note=Setting up the alternatives:
 
 4.1.sec=THE SALE, PLEDGE, HYPOTHECATION, OR TRANSFER OF THE SECURITIES REPRESENTED HEREBY IS SUBJECT TO, AND IN CERTAIN CASES PROHIBITED BY, THE TERMS AND CONDITIONS OF A CERTAIN RIGHT OF FIRST REFUSAL AND CO-SALE AGREEMENT BY AND AMONG THE STOCKHOLDER, THE CORPORATION AND CERTAIN OTHER HOLDERS OF STOCK OF THE CORPORATION.  COPIES OF SUCH AGREEMENT MAY BE OBTAINED UPON WRITTEN REQUEST TO THE SECRETARY OF THE CORPORATION.
 
-4.90.sec=Each Key Holder agrees that the Company may instruct its transfer agent to impose transfer restrictions on the shares  notated with the legend referred to in this Section 4 above to enforce the provisions of this Agreement, and the Company agrees to promptly do so.  The legend shall be removed upon termination of this Agreement at the request of the holder.
+4.00.sec=Each Key Holder agrees that the Company may instruct its transfer agent to impose transfer restrictions on the shares  notated with the legend referred to in this Section 4 above to enforce the provisions of this Agreement, and the Company agrees to promptly do so.  The legend shall be removed upon termination of this Agreement at the request of the holder.
 
 4.=[Z/ol/s1]
 
@@ -328,22 +328,22 @@ Note=Setting up the alternatives:
 
 90.Ti=</i>
 
-90.1.sec=IN WITNESS WHEREOF, the parties have executed this [Amended and Restated] Right of First Refusal and Co-Sale Agreement as of the date first written above.
+00.1.sec=IN WITNESS WHEREOF, the parties have executed this [Amended and Restated] Right of First Refusal and Co-Sale Agreement as of the date first written above.
 
 
-90.2.sec={Co.Sign.Block}
+00.2.sec={Co.Sign.Block}
 
-90.3.sec={KeyHolder.Sign.Block}
+00.3.sec={KeyHolder.Sign.Block}
 
-90.4.sec={Investor.Sign.Block}
+00.4.sec={Investor.Sign.Block}
 
-90.5.sec=<hr><hr><h3>Schedule A<br>Investors</h3>{Sch.1.Doc}<hr><hr><h3>Schedule B<br>Key Holders</h3>{Sch.2.Doc}<hr><hr><h3>Exhibit A<br>Key Holders</h3>{Exh.1.Doc}
+00.5.sec=<hr><hr><h3>Schedule A<br>Investors</h3>{Sch.1.Doc}<hr><hr><h3>Schedule B<br>Key Holders</h3>{Sch.2.Doc}<hr><hr><h3>Exhibit A<br>Key Holders</h3>{Exh.1.Doc}
 
-90.=[Z/paras/s5]
+00.=[Z/paras/s5]
 
 =[Z/ol/6]
 
-DocBody={Doc}
+Sec={Doc}
 
 
 Exh.1.Ti=Consent of Spouse
@@ -354,10 +354,10 @@ Exh.1.2.sec=I hereby agree that my interest, if any, in any shares of Transfer S
 
 Exh.1.3.sec=I am aware that the legal, financial and related matters contained in the Agreement are complex and that I am free to seek independent professional guidance or counsel with respect to this Consent.  I have either sought such guidance or counsel or determined after reviewing the Agreement carefully that I will waive such right.
 
-Exh.1.90.1.sec=Dated as of the [__] day of [__________, _____].
+Exh.1.00.1.sec=Dated as of the [__] day of [__________, _____].
 
-Exh.1.90.2.sec={Investor.Spouse.Sign.Block}
+Exh.1.00.2.sec={Investor.Spouse.Sign.Block}
 
-Exh.1.90.=[Z/paras/s2]
+Exh.1.00.=[Z/paras/s2]
 
 Exh.1.=[Z/paras/s3]

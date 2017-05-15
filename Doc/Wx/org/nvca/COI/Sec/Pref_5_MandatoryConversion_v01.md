@@ -8,7 +8,7 @@ Ti=Mandatory Conversion
 
 1.2.sec=the date and time, or the occurrence of an event, specified by vote or written consent of the holders of at least [specify percentage] of the then outstanding shares of Series A Preferred Stock (the time of such closing or the date and time specified or the time of the event specified in such vote or written consent is referred to herein as the "Mandatory Conversion Time"), 
 
-1.90.sec=then (i) all outstanding shares of Series A Preferred Stock shall automatically be converted into shares of Common Stock, at the then effective conversion rate as calculated pursuant to Subsection 4.1.1. and (ii) such shares may not be reissued by the Corporation.
+1.00.sec=then (i) all outstanding shares of Series A Preferred Stock shall automatically be converted into shares of Common Stock, at the then effective conversion rate as calculated pursuant to Subsection 4.1.1. and (ii) such shares may not be reissued by the Corporation.
 
 1.=[Z/ol/s2]
 

@@ -68,7 +68,7 @@ Note=OPTIONAL:  delete this section if you are not offering a pilot
 
 =[Z/ol/7]
 
-DocBody={Doc}
+Sec={Doc}
 
 Attach.Block=<hr><hr>{TC.Doc}
 

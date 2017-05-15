@@ -36,7 +36,7 @@ Ti=Special Mandatory Conversion
 
 2.5.3.sec=a new certificate for the number of shares, if any, of Series A Preferred Stock represented by such surrendered certificate and not converted pursuant to Subsection 5A.1.
 
-2.5.90.sec=Such converted Series A Preferred Stock shall be retired and cancelled and may not be reissued as shares of such series, and the Corporation may thereafter take such appropriate action (without the need for stockholder action) as may be necessary to reduce the authorized number of shares of Series A Preferred Stock accordingly.
+2.5.00.sec=Such converted Series A Preferred Stock shall be retired and cancelled and may not be reissued as shares of such series, and the Corporation may thereafter take such appropriate action (without the need for stockholder action) as may be necessary to reduce the authorized number of shares of Series A Preferred Stock accordingly.
 
 2.5.=[Z/ol/s3]
 

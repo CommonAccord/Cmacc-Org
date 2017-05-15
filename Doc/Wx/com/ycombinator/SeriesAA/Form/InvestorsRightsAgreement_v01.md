@@ -5,7 +5,7 @@ Doc.Title={Co.Name.Full} Investors' Rights Agreement
 
 0.1.sec=<strong>WHEREAS</strong>: The Investors are parties to the Series AA Preferred Stock Purchase Agreement of even date herewith, among the Company and the Investors listed on the Schedule of Investors thereto (the "<strong>Purchase Agreement</strong>"), and it is a condition to the closing of the sale of the Series AA Preferred Stock (the "<strong>Shares</strong>") that the Investors and the Company execute and deliver this Agreement.
 
-0.90.sec=<strong>NOW, THEREFORE</strong>: In consideration of the mutual promises and covenants set forth herein, and other consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree as follows:
+0.00.sec=<strong>NOW, THEREFORE</strong>: In consideration of the mutual promises and covenants set forth herein, and other consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto agree as follows:
 
 /Note=this is a bit fiddly.  Need to improve the Sec_0x approach.
 
@@ -168,7 +168,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 5.2.2.sec=if to the Company, one copy should be sent to {Co.N,A}, {Co.Fax}, Attn: Chief Executive Officer, or at such other address as the Company shall have furnished to the Investors.
 
-5.2.90.sec=Each such notice or other communication shall for all purposes of this Agreement be treated as effective or having been given when delivered if delivered personally, or, if sent by mail, at the earlier of its receipt or 72 hours after the same has been deposited in a regularly maintained receptacle for the deposit of the United States mail, addressed and mailed as aforesaid or, if sent by facsimile, upon confirmation of facsimile transfer or, if sent by electronic mail, upon confirmation of delivery when directed to the electronic mail address set forth on the Schedule of Investors.
+5.2.00.sec=Each such notice or other communication shall for all purposes of this Agreement be treated as effective or having been given when delivered if delivered personally, or, if sent by mail, at the earlier of its receipt or 72 hours after the same has been deposited in a regularly maintained receptacle for the deposit of the United States mail, addressed and mailed as aforesaid or, if sent by facsimile, upon confirmation of facsimile transfer or, if sent by electronic mail, upon confirmation of delivery when directed to the electronic mail address set forth on the Schedule of Investors.
 
 5.2.=[Z/ol/s2]
 
@@ -229,9 +229,9 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 =[Z/ol/5]
 
-DocBody={Doc}
+Sec={Doc}
 
-90.sec={Sign.Witness}<br><br>{Sign.Block}
+00.sec={Sign.Witness}<br><br>{Sign.Block}
 
 Sign.Witness=IN WITNESS WHEREOF, the parties hereto have executed this Investors' Rights Agreement effective as of the day and year first above written.
 

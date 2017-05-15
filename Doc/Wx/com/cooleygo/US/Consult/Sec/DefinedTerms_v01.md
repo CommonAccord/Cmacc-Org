@@ -39,5 +39,3 @@ the_Receiving_Party={the_Consultant}
 Services=<font color="green">Services</font>
 
 Work_Product=<font color="green">Work Product</font>
-
-=[Z/Agt/Out/DefinedTerms_Base.md]

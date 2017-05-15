@@ -1,4 +1,4 @@
-Doc.Title=Project Assignment {ProjectAssignment.#} under Consulting Agreement
+Doc.Ti=Project Assignment {ProjectAssignment.#} under Consulting Agreement
 
 0.1.sec=DATED: {Project.EffectiveDate.YMD}
 
@@ -50,4 +50,4 @@ Doc.Title=Project Assignment {ProjectAssignment.#} under Consulting Agreement
 
 =[Z/ol/5]
 
-DocBody={Doc}
+Sec={Doc}

@@ -6,6 +6,6 @@ Doc.Title=The Defensive Patent License 1.1
 
 =[Z/paras/2]
 
-DocBody={Doc}
+Sec={Doc}
 
 MessageToUser=From <a href="http://www.defensivepatentlicense.org/content/defensive-patent-license">defensivepatentlicense.org</a>

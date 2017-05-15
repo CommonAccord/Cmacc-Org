@@ -8,6 +8,6 @@ Ti=Right of First Refusal
 
 3.sec=(iii) to a fully own holding company for estate purposes or (iv) by any investment fund to a secondary fund in the context of the liquidation of the transferor (“{_Free_Transfers}”), 
 
-90.sec=in all cases subject to customary limitations and provided that the {_Active_Founders} shall have priority over any shares proposed to be transferred by the {_Seed_Investors} or the {_Founders}.
+00.sec=in all cases subject to customary limitations and provided that the {_Active_Founders} shall have priority over any shares proposed to be transferred by the {_Seed_Investors} or the {_Founders}.
 
 =[Z/para/s3]

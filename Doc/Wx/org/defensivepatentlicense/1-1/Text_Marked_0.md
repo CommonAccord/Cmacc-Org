@@ -58,7 +58,7 @@ Ti=License
 
 3.2.sec=Any one of the license stewards may publish revised and/or new versions of the {DPL} from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
 
-3.90.sec=Each version is given a distinguishing version number. If {Licensor} specifies in her {Offering_Announcement} that she is offering a certain numbered version of the {DPL} "or any later version", {Licensee} has the option of following the terms and conditions either of that numbered version or of any later version published by one of the license stewards. If {Licensor} does not specify a version number of the {DPL} in her {Offering_Announcement}, {Licensee} may choose any version ever published by any of the license stewards.
+3.00.sec=Each version is given a distinguishing version number. If {Licensor} specifies in her {Offering_Announcement} that she is offering a certain numbered version of the {DPL} "or any later version", {Licensee} has the option of following the terms and conditions either of that numbered version or of any later version published by one of the license stewards. If {Licensor} does not specify a version number of the {DPL} in her {Offering_Announcement}, {Licensee} may choose any version ever published by any of the license stewards.
 
 3.=[Z/ol/2]
 
@@ -79,7 +79,7 @@ Ti=License
 
 =[Z/ol/7]
 
-DocBody={Doc}
+Sec={Doc}
 
 DPL=<font color="green">DPL</font>
 

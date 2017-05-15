@@ -22,7 +22,7 @@ Note=Use this paragraph only if the company is to have a specific effective date
 
 Note=(Insert any other matters the members determine to include herein.)
 
-90.sec={Witness}<br><br>{Sign}
+00.sec={Witness}<br><br>{Sign}
 
 Witness=In Witness Whereof, the undersigned have executed this Certificate of Formation this {Incorp.Sign.YMD}.
 
@@ -32,4 +32,4 @@ Incorp.Handle=Incorporator
 
 =[Z/ol/4]
 
-DocBody={Doc}
+Sec={Doc}

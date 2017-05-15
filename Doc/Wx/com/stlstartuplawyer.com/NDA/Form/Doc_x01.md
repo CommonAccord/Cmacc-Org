@@ -119,17 +119,17 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 13.=[Z/ol-a/8]
 
 
-90.1.sec={Signature Page Follows}
+00.1.sec={Signature Page Follows}
  
-90.2.sec=The parties have executed this Mutual Nondisclosure {Agreement} as of the date first above written.
+00.2.sec=The parties have executed this Mutual Nondisclosure {Agreement} as of the date first above written.
 
-90.3.sec={P1.Sign.Block}<br>{P2.Sign.Block}
+00.3.sec={P1.Sign.Block}<br>{P2.Sign.Block}
 
-90.=[Z/paras/s3]
+00.=[Z/paras/s3]
 
 =[Z/ol/13]
 
-DocBody={Doc}
+Sec={Doc}
 
 COMPANY		   COUNTERPARTY
 	

@@ -1,4 +1,4 @@
-Doc.Title=Assignment of Copyright
+Doc.Ti=Assignment of Copyright
 
 1.0.sec=For good and valuable consideration which has been received, the undersigned sells, assigns and transfers to {_the_Client} and its successors and assigns, the copyright in and to the following work, which was created by the following indicated author(s):
 
@@ -16,4 +16,4 @@ Doc.Title=Assignment of Copyright
 
 =[Z/ol/1]
 
-DocBody={Doc}
+Sec={Doc}

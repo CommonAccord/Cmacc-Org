@@ -8,7 +8,7 @@ Ti=Joinder Agreement
 
 4.sec=Capitalized terms used herein without definition shall have the meanings ascribed thereto in the LLC Agreement.
 
-90.sec={Witness}<br><br>{Sign}
+00.sec={Witness}<br><br>{Sign}
 
 Witness=IN WITNESS WHEREOF, the Parties hereto have executed this Joinder Agreement as of the date listed below.
 
@@ -18,4 +18,4 @@ Sign={M1.Name.Full}<br>By:  {M1.xSignature}<br>Email: {M1.Email}
 
 xlist={blist}
 
-DocBody={Doc}
+Sec={Doc}

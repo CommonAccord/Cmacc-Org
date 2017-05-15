@@ -52,7 +52,7 @@ DepartCall.years=five
  
 5.2.3.sec=the {_Active_Founders} and the {_New_Investors} (pro rata among them) will have a call option for a period of 3 months over all other shares of the leaver at their then fair market value.
 
-5.2.90.sec=As an exception to the above, in case of dismissal of a {_Founder} for gross misconduct (faute lourde) before the {DepartCall.years} anniversary of Closing, all shares held by such {_Founder}, whether vested or unvested, may be purchased at their nominal value. 
+5.2.00.sec=As an exception to the above, in case of dismissal of a {_Founder} for gross misconduct (faute lourde) before the {DepartCall.years} anniversary of Closing, all shares held by such {_Founder}, whether vested or unvested, may be purchased at their nominal value. 
 
 5.2.=[Z/ol-i/s3]
 

@@ -46,7 +46,7 @@ SomeFCRP.Title.1.6.Sec=<b>{Title.1.6.Ti}</b><ol><li>{Title.1.6.1.Sec}<li>{Title.
 
 Title.1.6.4.sec={P1.Handle} is an entity subject to Fair Credit Reporting Act (15 U.S.C. § 1681 et seq.) ("{FCRA}"), and some of the {personal_data} is used for purposes covered by the {FCRA}.  To the extent that {personal_data} is used for purposes of the {FCRA}, {P1.Handle} is required to comply with the access requirements of the {FCRA} and exempt from compliance with the requirements of this Section 7.
 
-90.Sec=See {Charter.Link}.
+00.sec=See {Charter.Link}.
 
 FCRA=<span class="definedterm">FCRA</span>
 

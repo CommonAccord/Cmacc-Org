@@ -4,6 +4,7 @@ Invest.=[Wx/com/seriesseed/Invest/0.md]
 
 Incorp.=[Wx/com/seriesseed/Incorp/0.md]
 
+Model.Root={TermSheet.Doc}<hr>{Invest.Doc}<hr>{Incorp.Doc}
 
 Investor.1.=[Wx/com/seriesseed/TermSheet/TableRow_v0.md]
 

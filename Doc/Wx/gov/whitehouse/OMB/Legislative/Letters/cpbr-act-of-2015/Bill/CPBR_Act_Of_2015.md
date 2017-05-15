@@ -1,6 +1,6 @@
 Doc.Title=CONSUMER PRIVACY BILL OF RIGHTS ACT
 
-DocBody={Doc}
+Sec={Doc}
 
 0.Ti=Bill
 

@@ -1,4 +1,4 @@
-Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
+Doc.Ti=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 0.Ti=</i>
 
@@ -12,7 +12,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 0.1.1.2.sec=WHEREAS, in order to induce the Company to enter into the Purchase Agreement and to induce the Investors to invest funds in the Company pursuant to the Purchase Agreement, the Investors and the Company hereby agree that this Agreement shall govern the rights of the Investors to cause the Company to register shares of Common Stock issuable to the Investors, to receive certain information from the Company, and to participate in future equity offerings by the Company, and shall govern certain other matters as set forth in this Agreement;
 
-0.1.1.90.sec=NOW, THEREFORE, the parties hereby agree as follows:]
+0.1.1.00.sec=NOW, THEREFORE, the parties hereby agree as follows:]
 
 0.1.1.=[Z/ol/s2]
 
@@ -24,7 +24,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 0.1.2.3.sec=WHEREAS, certain of the Investors are parties to that certain Series [_] Preferred Stock Purchase Agreement of even date herewith between the Company and certain of the Investors (the “Purchase Agreement”), under which certain of the Company’s and such Investors’ obligations are conditioned upon the execution and delivery of this Agreement by such Investors, Existing Investors holding at least [_______ percent (___%)] of the Registrable Securities, and the Company; 
 
-0.1.2.90.sec=NOW, THEREFORE, the Existing Investors hereby agree that the Prior Agreement shall be [amended and restated][superseded and replaced in its entirety by this Agreement], and the parties to this Agreement further agree as follows:
+0.1.2.00.sec=NOW, THEREFORE, the Existing Investors hereby agree that the Prior Agreement shall be [amended and restated][superseded and replaced in its entirety by this Agreement], and the parties to this Agreement further agree as follows:
 
 0.1.2.=[Z/ol/s3]
 
@@ -156,7 +156,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.4.10.sec=(j)	after such registration statement becomes effective, notify each selling Holder of any request by the SEC that the Company amend or supplement such registration statement or prospectus. 
 
-2.4.90.sec=In addition, the Company shall ensure that, at all times after any registration statement covering a public offering of securities of the Company under the Securities Act shall have become effective, its insider trading policy shall provide that the Company’s directors may implement a trading program under Rule 10b5-1 of the Exchange Act.
+2.4.00.sec=In addition, the Company shall ensure that, at all times after any registration statement covering a public offering of securities of the Company under the Securities Act shall have become effective, its insider trading policy shall provide that the Company’s directors may implement a trading program under Rule 10b5-1 of the Exchange Act.
 
 2.4.=[Z/ol-a/s10]
 
@@ -220,7 +220,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 2.12.2.2.sec=THE SECURITIES REPRESENTED HEREBY MAY BE TRANSFERRED ONLY IN ACCORDANCE WITH THE TERMS OF AN AGREEMENT BETWEEN THE COMPANY AND THE STOCKHOLDER, A COPY OF WHICH IS ON FILE WITH THE SECRETARY OF THE COMPANY.
 
-2.12.2.90.sec=The Holders consent to the Company making a notation in its records and giving instructions to any transfer agent of the Restricted Securities in order to implement the restrictions on transfer set forth in this Subsection 2.12.
+2.12.2.00.sec=The Holders consent to the Company making a notation in its records and giving instructions to any transfer agent of the Restricted Securities in order to implement the restrictions on transfer set forth in this Subsection 2.12.
 
 2.12.2.=[Z/ol-a/s2]
 
@@ -262,7 +262,7 @@ Doc.Title=AMENDED AND RESTATED INVESTORS’ RIGHTS AGREEMENT
 
 3.1.7.sec=(g)	[such other information relating to the financial condition, business, prospects, or corporate affairs of the Company as any Major Investor may from time to time reasonably request; provided, however, that the Company shall not be obligated under this Subsection 3.1 to provide information (i) that the Company reasonably determines in good faith to be a trade secret or confidential information (unless covered by an enforceable confidentiality agreement, in a form acceptable to the Company); or (ii) the disclosure of which would adversely affect the attorney-client privilege between the Company and its counsel.] 
 
-3.1.90.sec=If, for any period, the Company has any subsidiary whose accounts are consolidated with those of the Company, then in respect of such period the financial statements delivered pursuant to the foregoing sections shall be the consolidated and consolidating financial statements of the Company and all such consolidated subsidiaries.<br>Notwithstanding anything else in this Subsection 3.1 to the contrary, the Company may cease providing the information set forth in this Subsection 3.1 during the period starting with the date [thirty - sixty (30-60)] days before the Company’s good-faith estimate of the date of filing of a registration statement if it reasonably concludes it must do so to comply with the SEC rules applicable to such registration statement and related offering; provided that the Company’s covenants under this Subsection 3.1 shall be reinstated at such time as the Company is no longer actively employing its commercially reasonable efforts to cause such registration statement to become effective.
+3.1.00.sec=If, for any period, the Company has any subsidiary whose accounts are consolidated with those of the Company, then in respect of such period the financial statements delivered pursuant to the foregoing sections shall be the consolidated and consolidating financial statements of the Company and all such consolidated subsidiaries.<br>Notwithstanding anything else in this Subsection 3.1 to the contrary, the Company may cease providing the information set forth in this Subsection 3.1 during the period starting with the date [thirty - sixty (30-60)] days before the Company’s good-faith estimate of the date of filing of a registration statement if it reasonably concludes it must do so to comply with the SEC rules applicable to such registration statement and related offering; provided that the Company’s covenants under this Subsection 3.1 shall be reinstated at such time as the Company is no longer actively employing its commercially reasonable efforts to cause such registration statement to become effective.
 
 3.1.=[Z/ol-a/s7]
 
@@ -466,22 +466,22 @@ Note=If this provision is included in the Agreement, careful attention should be
 
 [Remainder of Page Intentionally Left Blank]
 
-90.1.sec=IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+00.1.sec=IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
 
-90.2.sec={Co.Sign.Block}
+00.2.sec={Co.Sign.Block}
 
-90.3.sec={KeyHolder.Sign.Block}
+00.3.sec={KeyHolder.Sign.Block}
 
-90.4.sec={Investor.Sign.Block}
+00.4.sec={Investor.Sign.Block}
 
-90.5.sec=SCHEDULE A<br>Investors<br>[Investor Name<br>Address<br>Phone Number<br>Fax Number<br>Email]
+00.5.sec=SCHEDULE A<br>Investors<br>[Investor Name<br>Address<br>Phone Number<br>Fax Number<br>Email]
 
-90.6.sec=[SCHEDULE B<br>Key Holders]<br>[Key Holder Name<br>Address<br>Phone Number<br>Fax Number<br>Email]
+00.6.sec=[SCHEDULE B<br>Key Holders]<br>[Key Holder Name<br>Address<br>Phone Number<br>Fax Number<br>Email]
 
-90.7.sec= [EXHIBIT A<br>Form Of Noncompetition and Nonsolicitation Agreement]
+00.7.sec= [EXHIBIT A<br>Form Of Noncompetition and Nonsolicitation Agreement]
 
-90.=[Z/paras/s7]
+00.=[Z/paras/s7]
 
 =[Z/ol/6]
 
-DocBody={Doc}
+Sec={Doc}

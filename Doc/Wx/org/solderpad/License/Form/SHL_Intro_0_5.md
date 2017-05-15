@@ -12,4 +12,4 @@ Release.#=version 0.5
 
 =[Z/paras/s3]
 
-DocBody={Doc}
+Sec={Doc}

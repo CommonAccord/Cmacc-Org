@@ -293,12 +293,12 @@ iRep.=[Z/ol/13]
 
 7.=[Z/ol/10]
 
-90.sec={Sign.Block}<hr>{Exh.A}
+00.sec={Sign.Block}<hr>{Exh.A}
 
 Sign.Block={Co.Sign.Block}<br>{Inv.1.Sign.Block}
 
 =[Z/ol/7]
 
-DocBody={Doc}
+Sec={Doc}
 
 Exh.A=EXHIBIT A<p>SCHEDULE OF INVESTORS</p><p>Initial Closing Investors</p><p> </p><table border="0" cellpadding="0" cellspacing="0"><thead><tr><th style="width:367px"><div><p><strong>Investor</strong></p></div></th><th style="width:96px"><div><p><strong>Number of Series AA Shares</strong></p></div></th><th style="width:96px"><div><p><strong>Purchase Price</strong></p></div></th></tr></thead><tbody><tr><td style="width:367px"><p><em>{Inv.1.Name.Full}</em></p></td><td style="width:96px"><p>{Inv.1.Cap.AA.#}</p></td><td style="width:96px"><p>{Cap.AA.Offered.Price.$}</p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.Adr.1,2}</em></p></td><td style="width:96px"><p> </p></td><td style="width:96px"><p> </p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.Fax}</em></p></td><td style="width:96px"><p> </p></td><td style="width:96px"><p> </p></td></tr><tr><td style="width:367px"><p><em>{Inv.1.Email}</em></p></td><td style="width:96px"><p> </p></td><td style="width:96px"><p> </p></td></tr></tbody></table>

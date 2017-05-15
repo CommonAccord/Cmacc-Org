@@ -14,7 +14,7 @@ Note={An example: Unlimited use of the Licensed Materials on the Licensor’s se
 
 4.sec=During the term of this Agreement, Licensee and Licensor shall cooperate in the evaluation and implementation of newly developed security and control protocols and procedures as they are developed.
 
-90.Sec={Sign.Sec}
+00.sec={Sign.Sec}
 
 =[Z/ol/s4]
 
