@@ -10,7 +10,7 @@ Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td> </td><td valign="top
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec=<b>Overview:</b><ul><li>{SSRN.sec}<li>{Slack.sec} &emsp; {Blog.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec=<b>Lots of background and context here, or go directly to our most recent work - a <a href="http://source.commonaccord.org/index.php?action=list&file=G/Agt-Cooperate-CmA/Demo/">G/Agt-Cooperate-CmA/Demo/</a><br>Overview:</b><ul><li>{SSRN.sec}<li>{Slack.sec} &emsp; {Blog.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CDL.Link} 
 
