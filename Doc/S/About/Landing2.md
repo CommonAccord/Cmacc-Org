@@ -10,7 +10,7 @@ Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td> </td><td valign="top
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec=<b>Lots of background and context here, or go directly to our most recent work - a <a href="http://source.commonaccord.org/index.php?action=list&file=G/Agt-Cooperate-CmA/Demo/">G/Agt-Cooperate-CmA/Demo/</a><br>Overview:</b><ul><li>{SSRN.sec}<li>{Slack.sec} &emsp; {Blog.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec=<b>Lots of background and context here, or go directly to our most recent work - a <a href="http://source.commonaccord.org/index.php?action=list&file=G/Agt-Cooperate-CmA/Demo/">G/Agt-Cooperate-CmA/Demo/</a><br>Overview:</b><ul><li>{SSRN.sec}<li>{Slack.sec}   {Blog.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CDL.Link} 
 
@@ -60,7 +60,7 @@ PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance)
 
 MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Conference</a>
 
-CDL.Link=<a href="index.php?action=doc&file=S/About/CDL/0.md">Center for Decentralized Law</a>  
+CDL.Link=<a href="https://docs.google.com/document/d/13nCIPNS8lByEj4_Ibwj29jUwHv4q_DeBkFgLV6-Hj-I">Center for Decentralized Law</a>  
 
 Bqc.Link=<a href="http://www.commonaccord.org/index.php?action=list&file=/bqc/fr/bnpp/a5we/">Universal bank account</a>
 
