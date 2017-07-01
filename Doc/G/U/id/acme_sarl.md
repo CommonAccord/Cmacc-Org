@@ -48,4 +48,4 @@ Signer.Title=Gérant
 
 Signer.=[G/U/id/abigail_altima.md]
 
-=[F/00/ID/Entity/0.md]
+=[G/Agt-Form-CmA/00/ID/Entity/0.md]

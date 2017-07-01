@@ -18,6 +18,20 @@ span :hover {
     background-color: #f0f0ff;
 }
 
+.sec-ti {
+	color: #0F0F8F;
+            font-weight: bold;
+
+}  
+
+
+.warning {
+	color: #8F0000;
+        text-transform : uppercase;
+        font-weight: bold;
+
+}
+
 .token {
 	color: maroon ;
         text-decoration: none;
@@ -26,6 +40,7 @@ span :hover {
 .person {
 	color: #4B2503 ;
         text-decoration: none;
+        font-style: italic;
 }  
 
 .definedterm {
@@ -33,6 +48,11 @@ span :hover {
         text-decoration: none;
 }  
 
+
+.highlight {
+	color: purple ;
+        font-weight: bold;
+}  
 
 .xref {
 	color: blue ;

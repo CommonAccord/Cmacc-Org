@@ -1,0 +1,1420 @@
+Exhibit C. Example of a Power Purchase Agreement
+Contract No. 01PB-_____
+_________, 2002
+POWER PURCHASE AGREEMENT
+Executed by the
+UNITED STATES OF AMERICA,
+DEPARTMENT OF ENERGY
+acting by and through the
+BONNEVILLE POWER ADMINISTRATION
+and
+[SELLER]
+(__________ Wind Project)
+Index to Sections
+Section Page
+1. Definitions ..................................................................................................................... 4
+2. Term .............................................................................................................................. 7
+(a) Effectiveness; Basic Term ................................................................................. 7
+(b) Survival of Terms and Conditions .................................................................... 8
+3. Exhibits ......................................................................................................................... 8
+4. Facility Description....................................................................................................... 8
+(a) Summary Description........................................................................................ 8
+(b) Site ..................................................................................................................... 8
+(c) General Design and Construction of the Facility ............................................. 8
+5. Interconnection Facilities and Metering ...................................................................... 9
+(a) Interconnection Facilities Agreement............................................................... 9
+(b) Delivery Arrangements Agreement .................................................................. 9
+(c) Other Provisions Related to Interconnection.................................................. 10
+6. Obligation to Sell and Purchase Energy Output........................................................ 12
+(a) Conditional Obligation to Purchase................................................................ 12
+(b) Sale and Purchase ........................................................................................... 12
+(c) Point of Delivery .............................................................................................. 13
+(d) Exception ......................................................................................................... 13
+(e) Exclusions ........................................................................................................ 13
+7. Payment for Energy Output ....................................................................................... 13
+(a) Price for Energy Output Prior to the Completion Date.................................. 13
+(b) Price for Energy Output after the Completion Date ...................................... 13
+8. Billing and Payment ................................................................................................... 14
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 2
+(a) Billing Statement and Invoices....................................................................... 14
+(b) Metered Billing Data....................................................................................... 14
+(c) Payment Dates; Late Payments...................................................................... 14
+(d) Billing Disputes ............................................................................................... 14
+9. Operations and Maintenance...................................................................................... 14
+(a) Conditions Precedent to Facility Completion Date ........................................ 14
+(b) Facility Operation and Reliability Standards ................................................ 15
+(c) Operations Record ........................................................................................... 16
+(d) Monthly Reports .............................................................................................. 16
+(e) Operating Committee and Operating Procedures.......................................... 17
+10. Default and Termination ............................................................................................ 17
+(a) Events of Default of Seller .............................................................................. 17
+(b) Events of Default of BPA................................................................................. 18
+(c) Termination for Cause..................................................................................... 19
+(d) No Consequential Damages ............................................................................ 20
+11. Termination for Convenience...................................................................................... 20
+(a) Termination by BPA for Convenience............................................................. 20
+(b) Termination Under Section 11(a) ................................................................... 20
+12. Contract Administration and Notices ........................................................................ 20
+(a) Notices.............................................................................................................. 20
+(b) Representative for Notice................................................................................ 21
+(c) Authority of Representatives .......................................................................... 21
+(d) Operating Records ........................................................................................... 21
+(e) Billing and Payment Records.......................................................................... 21
+(f) Examination of Records................................................................................... 22
+13. Dispute Resolution...................................................................................................... 22
+14. Force Majeure.............................................................................................................. 23
+(a) Definition of Force Majeure............................................................................. 23
+(b) Applicability of Force Majeure ........................................................................ 24
+(c) Limitations on Effect of Force Majeure .......................................................... 24
+(d) Delays Attributable to BPA............................................................................. 25
+15. Representations and Warranties................................................................................ 25
+(a) Seller’s Representations and Warranties ....................................................... 25
+(b) BPA’s Representations and Warranties ......................................................... 26
+16. Insurance and Indemnity............................................................................................ 26
+(a) Evidence of Insurance ..................................................................................... 26
+(b) Limitation on Liability .................................................................................... 27
+17. Regulatory Jurisdiction and Compliance ................................................................... 28
+(a) Governmental Jurisdiction and Regulatory Compliance ............................... 28
+(b) Provision of Support ........................................................................................ 28
+18. Assignment and Other Transfer Restrictions ............................................................ 28
+(a) No Assignment Without Consent.................................................................... 28
+19. Confidential Information ............................................................................................ 28
+(a) Availability....................................................................................................... 28
+(b) Designation...................................................................................................... 29
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 3
+(c) Obligations....................................................................................................... 29
+(d) Conditions and Restrictions ............................................................................ 29
+(e) Exceptions........................................................................................................ 29
+(f) Term of Obligations......................................................................................... 30
+20. Miscellaneous .............................................................................................................. 30
+(a) Waiver.............................................................................................................. 30
+(b) Taxes ................................................................................................................ 30
+(c) Disclaimer of Third Party Beneficiary Rights ................................................ 30
+(d) Relationship of the Parties.............................................................................. 30
+(e) Survival of Obligations.................................................................................... 31
+(f) Severability...................................................................................................... 31
+(g) Interpretation .................................................................................................. 31
+(h) Complete Agreement; Amendments ............................................................... 31
+(i) Binding Effect .................................................................................................. 31
+(j) Headings .......................................................................................................... 31
+(k) Counterparts.................................................................................................... 32
+(l) Choice of Law................................................................................................... 32
+(m) Equal Employment Opportunity Compliance Certification........................... 32
+Exhibits
+Exhibit A Facility Description and Map
+Exhibit B Form of Notice
+Exhibit C Form of Invoice
+Exhibit D Termination Payment Schedule
+This POWER PURCHASE AGREEMENT (this “Agreement”) is executed by and
+between [SELLER] (“Seller”), and the UNITED STATES OF AMERICA, DEPARTMENT
+OF ENERGY, acting by and through the BONNEVILLE POWER ADMINISTRATION
+(“BPA”). Both Seller and BPA are sometimes referred to herein individually as “Party” and
+collectively as “Parties.”
+WHEREAS, BPA is authorized by Federal law, including the Pacific Northwest
+Electric Power Planning and Conservation Act (Public Law 96-501, the “Northwest Power
+Act”) and other applicable laws, to acquire sufficient capacity and energy (where “power”
+may herein refer to either or both terms) from power production facilities, including wind
+powered production facilities, to meet the electric power requirements placed on BPA by its
+regional customers.
+WHEREAS Seller desires to construct, own, and operate a wind powered electric
+generating plant to be located _________________.
+WHEREAS, Seller desires to sell to BPA [all or a portion] of the Energy Output
+generated by the Facility (as defined below), and BPA desires to buy the same from Seller.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 4
+WHEREAS, BPA’s obligation hereunder is not, nor shall it be construed to be, a
+general obligation of the United States, nor is it intended to be or is it secured by the full
+faith and credit of the United States.
+NOW, THEREFORE, in consideration of the mutual covenants herein contained,
+the sufficiency and adequacy of which are hereby acknowledged, the Parties agree to the
+following:
+1. Definitions
+The terms listed in this Section shall have the meanings set forth herein whenever
+the terms appear in this Agreement, whether in the singular or the plural or in the
+present or past tense. The plain meaning of terms not listed in this Section and
+otherwise used in this Agreement shall apply, unless such unlisted terms have
+meanings as commonly used in Good Utility Industry Practice, in which case the
+Good Utility Industry Practice meaning shall apply.
+(a) “Actual Average Annual Output” means the actual amount of average annual
+Energy Output generated by the Facility during any given 24-month rolling
+(b) “Availability Factor” means the number of hours the Facility was in service
+and ready during the preceeding twelve (12) month period to generate
+Energy Output in accordance with Good Utility Industry Practice, divided by
+8,760 hours.
+(c) “BPA Wind Turbine(s)” mean each and all of those [number, manufacturer,
+and size] wind turbine generators, or a reasonably acceptable replacement or
+substitute therefor, which constitute part of the Facility and are dedicated to
+producing Energy Output for sale to BPA pursuant to this Agreement.
+(d) “Business Day” means each Monday through and including Friday during
+the term of this Agreement other than nationally recognized holidays.
+(e) “Commercial Operation” means when a particular BPA Wind Turbine in the
+Facility is ready for regular, daily operation, has been connected to the Grid,
+and is capable of producing Energy Output in accordance with Good Utility
+Industry Practice, all as certified in writing by Seller to BPA.
+(f) “Commercial Operation Date” means, with respect to a particular BPA Wind
+Turbine, the first day on which Commercial Operation occurs.
+(g) “Commission(s)” means any of the state or Federal regulatory agencies
+having jurisdiction over BPA or Seller including, but not limited to, the
+Federal Energy Regulatory Commission (“FERC”), or successor agencies.
+(h) “Completion Date” means the date when all of the BPA Wind Turbines have
+achieved Commercial Operation and the Conditions Precedent in Section 9(a)
+have been satisfied.
+(i) “Conditions Precedent” has the meaning given in Section 9(a).
+(j) “Contract Year” means any consecutive twelve (12) month period
+commencing with the Completion Date or its anniversary.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 5
+(k) “Delivery Arrangements Agreement” means an agreement between Power
+Business Line and the Transmission System Operator that provides for the
+receipt of Energy Output at the Point of Delivery and for the transmission
+and delivery of such Energy Output to points beyond the Point of Delivery.
+(l) “Emergency” means a physical condition or situation that, in the judgment of
+the Transmission System Operator, affects or will affect the ability of the
+Grid to accept Energy Output from the Facility at the Point of Delivery.
+(m) “Energy Output” means the amount of electrical energy generated by the
+BPA Wind Turbines and delivered at the Point of Delivery. Energy Output
+shall be metered in whole kilowatt-hours (kWh) by the Metering Device(s) on
+the high side of the transformer at the Facility Substation. Energy Output
+delivered to BPA at the Point of Delivery shall be deemed to be equal to the
+energy measured by the Metering Device(s) minus energy losses of ____
+percent between the Metering Device and the Point of Delivery.
+(n) “Energy Payment Rate” has the meaning ascribed in Section 7.
+(o) “Event of Default” means an event as defined in Section 10 that confers a
+contractual right upon the non-defaulting Party to terminate the Agreement.
+(p) “Facility” means the ________ Project, which includes all of the following, the
+purpose of which is to produce and sell electricity: Seller’s equipment,
+property, wind turbines, step-up transformer(s), circuit breakers, necessary
+electric lines to connect to the Point of Delivery, protective and associated
+equipment, improvements, and other tangible and intangible assets,
+property and access rights and contract rights reasonably necessary for the
+construction, operation, and maintenance of the electric wind generating
+facility to be located at the site specified in Section 4 that produces Energy
+Output being sold under this Agreement.
+(q) “Facility Substation” means the facilities located at the point of intersection
+of the Facility Transmission Line and BPA’s ____________ transmission line.
+(r) “Facility Transmission Line” means the transmission line connecting the
+Wind Turbines to the Point of Delivery.
+(s) “First Delivery Date” means the first date on which the Interconnection
+Facilities are energized and capable of accepting delivery of Energy Output
+at the Point of Delivery.
+(t) “GDPIPD” means the implicit price deflator for the gross domestic product as
+computed and published by the U.S. Department of Commerce. The figures
+to be used in this adjustment shall be those presented in the “Gross
+Domestic Product: First Quarter ‘Final’ Press Release” typically released in
+June of each calendar year by the United States Department of Commerce,
+Bureau of Economic Analysis. No subsequent revisions released by the
+United States Department of Commerce to those figures will be considered to
+affect or adjust the Energy Payment Rate for that particular Contract Year.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 6
+(u) “Good Utility Industry Practice(s)” means the practices, methods, and acts
+(including, but not limited to, the practices, methods, and acts engaged in or
+approved by a significant portion of the electric utility industry) that, at a
+particular time, in the exercise of reasonable judgment in light of the facts
+known or that should reasonably have been known at the time a decision was
+made, would have been expected to accomplish the desired result in a
+manner consistent with law, regulation, codes, standards, equipment
+manufacturer’s recommendations, reliability, safety, environmental
+protection, economy, and expedition. With respect to the Facility, Good
+Utility Industry Practice(s) include, but are not limited to, taking reasonable
+steps to ensure that:
+(1) equipment, materials, resources, and supplies are available to meet
+the Facility’s needs;
+(2) sufficient operating personnel are available at all times and are
+adequately experienced, trained and licensed as necessary to operate
+the Facility properly and efficiently, and are capable of responding to
+reasonably foreseeable emergency conditions whether caused by
+events on or off the site of the Facility;
+(3) preventive, routine, and non-routine maintenance and repairs are
+performed on a basis that ensures reliable long-term and safe
+operation, and are performed by knowledgeable, trained, and
+experienced personnel utilizing proper equipment and tools;
+(4) appropriate monitoring and testing are performed to ensure
+equipment is functioning as designed;
+(5) equipment is not operated in a reckless manner, or in a manner
+unsafe to workers, the general public, or contrary to environmental
+laws or regulations or without regard to defined limitations such as
+flood conditions, safety inspection requirements, operating voltage,
+current, volt-ampere reactive (VAR) loading, frequency, rotational
+speed, polarity, synchronization, and/or control system limits; and
+(6) the equipment will function properly under both normal and
+reasonably expected Emergency conditions at the Facility.
+(v) “Grid” means the electrical transmission system that is beyond the Point of
+Delivery and controlled by the Transmission System Operator.
+(w) “Inflation Adjustment Factor” shall mean a fraction, the numerator of which
+is the GDPIPD for the first (1st) quarter of the current calendar year and the
+denominator of which is the GDPIDP for the first (1st) quarter of the
+preceding year.
+(x) “Interconnection Facilities” means all the land rights, materials, equipment,
+and facilities installed for the purpose of interconnecting the BPA Wind
+Turbines to BPA’s __________ transmission line, including, but not limited to,
+electrical interconnection, switching, metering, relaying, and communication
+and safety equipment.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 7
+(y) “Interconnection Facilities Agreement” means the Generation
+Interconnection Agreement between Seller and Transmission System
+Operator that contains the rights and obligations of the parties with respect
+to the interconnection of the Facility to BPA’s __________ transmission line
+and the methods and procedures for the safe operation and maintenance of
+the Interconnection Facilities.
+(z) “Metering Device(s)” means the electronic kilowatt-hour meter and
+associated potential transformers and current transformers used to measure
+the Energy Output from the Facility, as described in Section 5(c)(2) and
+Exhibit A.
+(aa) “Non-Billing Dispute” means any and all disputes between the Parties other
+than Billing Disputes.
+(bb) “On-Peak Month” means any calendar months of September through and
+including February.
+(cc) “Operating Committee” means the committee comprised of one delegate each
+from BPA and Seller pursuant to Section 9(e) of this Agreement.
+(dd) “Seller’s Computer Monitoring System” means the computer-based
+monitoring system comprised of computer hardware, software, and private
+communication system extending to each BPA Wind Turbine, which system
+gathers, archives and reports turbine operating data.
+(ee) “Party” and/or “Parties” means Seller, BPA, or Seller and BPA.
+(ff) “Point of Delivery” means the electric system point at which Seller makes the
+Energy Output available to BPA.
+(gg) “Power Business Line” means BPA’s Power Business Line.
+(hh) “Seller’s Interconnection Facilities” means that portion of the
+Interconnection Facilities that are located outside of the boundary fence of
+the Facility Substation but with sufficient additional cable attached to reach
+to the Point of Delivery within the Facility Substation, as described in
+greater detail in Exhibit A.
+(ii) “Transmission System Operator” means BPA’s Transmission Business Line
+or any successor that controls and operates the Grid.
+2. Term
+(a) Effectiveness; Basic Term
+This Agreement shall become effective upon the date signed by both Parties
+(Effective Date) and shall remain in effect for a period of _______ years from
+the Completion Date, subject to the early termination provisions set forth in
+Section 11(a) of this Agreement.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 8
+(b) Survival of Terms and Conditions
+Applicable provisions of this Agreement shall continue in effect after
+termination to the extent necessary to provide for final billings and
+adjustments related to the period prior to termination, including repayment
+of any money due and owing to or by BPA pursuant to this Agreement.
+3. Exhibits
+The exhibits listed in the Table of Contents are incorporated into this Agreement by
+reference.
+4. Facility Description
+(a) Summary Description
+Seller shall construct, operate, and maintain the Facility. Exhibit A provides
+a complete description of the Facility, including identification of the BPA
+Wind Turbines and other equipment and components that comprise the
+Facility.
+(b) Site
+The Facility shall be located at the area generally described as:
+Facility Name: _________ Wind Project
+Location: Sections ___, Township ___, Range ___ of the ___ Principal
+Meridian, ____________, with a portion of Seller’s
+Interconnection Facilities also located ___________.
+County/State: _______________________________.
+A scaled map that identifies the location of the Facility, the BPA Wind
+Turbines, the Interconnection Facilities, and significant ancillary facilities,
+including the facilities located at Point of Delivery, is included in Exhibit A.
+(c) General Design and Construction of the Facility
+Seller shall construct the Facility in a workmanlike, professional manner
+according to Good Utility Industry Practice(s). The Facility shall be:
+(1) capable of supplying Energy Output in compliance with the
+requirements of the Interconnection Facilities Agreement;
+(2) capable of operating at power levels as specified in the
+Interconnection Facilities Agreement; and
+(3) equipped with protective devices and generator control systems
+designed and operating in accordance with the Interconnection
+Facilities Agreement and Good Utility Industry Practice(s).
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 9
+5. Interconnection Facilities and Metering
+(a) Interconnection Facilities Agreement
+Seller shall negotiate in good faith and enter into an Interconnection
+Facilities Agreement that is reasonably acceptable to Power Business Line
+for the purposes and in accordance with the schedules set forth in this
+Section 5(a). Power Business Line shall diligently cooperate with Seller in
+these negotiations.
+(1) The Interconnection Facilities Agreement shall address and describe
+(i) the switching, metering, relaying, communications and safety
+equipment that will constitute the Interconnection Facilities, (ii) the
+processes, procedures for, and timing of the procurement,
+construction, testing and placement into operation of the
+Interconnection Facilities and their connection to the Point of
+Delivery, (iii) the billing and payment schedules for the construction,
+operation and maintenance of the Interconnection Facilities, (iv) the
+operating procedures and requirements of the Interconnection
+Facilities, including the requirements for the BPA Wind Turbines to
+be capable of immediate disconnection from the Point of Delivery in
+accordance with Good Utility Industry Practice(s) or in the event of
+Emergency, and (v) the terms, conditions and other requirements
+relating to the construction, operation and maintenance of the
+Interconnection Facilities. As between BPA and Seller, all expenses
+associated with the procurement, construction, installation and
+operation of the Interconnection Facilities shall be paid by Seller in
+accordance with the Interconnection Facilities Agreement.
+(2) It is an objective of this Agreement that the First Delivery Date occur
+no later than _________, provided that such date shall be extended
+day-for-day by any Force Majeure or any delay caused by Power
+Business Line. Seller shall give Power Business Line fifteen (15)
+calendar days written notice prior to the First Delivery Date. If the
+Completion Date occurs more than thirty (30) days after the First
+Delivery Date, irrespective of the occurrence of any Force Majeure
+and otherwise not due to the negligence or fault of BPA, then Seller
+shall reimburse BPA for payments made for transmission services for
+the period commencing on the day following the thirtieth (30th) day
+after the First Delivery Date and continuing until the Completion
+Date; provided that Power Business Line shall act in a commercially
+reasonable manner to minimize costs related to such transmission
+services.
+(b) Delivery Arrangements Agreement
+Power Business Line shall enter into one or more agreements with the
+Transmission System Operator and/or with others that provide for the
+receipt of the Energy Output at the Point of Delivery and for the
+transmission and delivery of such Energy Output to points beyond the Point
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 10
+of Delivery (such agreements shall constitute the “Delivery Arrangements
+Agreement”). Power Business Line shall be solely responsible for negotiating,
+and maintaining during the term of this Agreement, the Delivery
+Arrangements Agreement. Seller shall diligently cooperate with Power
+Business Line in these negotiations.
+(c) Other Provisions Related to Interconnection
+(1) Access to Facility
+During the term of this Agreement, appropriate representatives of
+BPA shall at all reasonable times, including weekends and nights,
+and with reasonable prior notice, have access to the Facility, including
+the control room and the Interconnection Facilities, to read and
+maintain meters and to perform all inspections, maintenance, service,
+and operational reviews as may be appropriate to facilitate the
+performance of this Agreement. While at the Facility, such
+representatives shall observe such reasonable safety precautions as
+may be required by Seller and shall conduct themselves in a manner
+that will not interfere with the construction, operation or
+maintenance of the Facility.
+(2) Metering Devices
+(i) All Metering Devices used to measure the Energy Output
+under this Agreement shall be subject to approval by BPA,
+owned by Seller, and installed in accordance with the
+Interconnection Facilities Agreement. Seller shall, at Seller’s
+expense, install communication equipment that allows BPA to
+read the Metering Devices from a remote location (such as
+BPA headquarters) at any time. Metering Devices shall be
+maintained directly by Seller or by agents or subcontractors
+directly under the Seller’s control or by the Transmission
+System Operator. All Metering Devices used to measure the
+Energy Output under this Agreement shall be sealed and the
+seal may be broken only when such Metering Devices are to be
+inspected, and tested and/or adjusted. The number, type, and
+location of such Metering Devices shall be specified in the
+Interconnection Facilities Agreement.
+(ii) All Metering Devices shall be maintained, calibrated, and
+tested in conformance with the policies of the Transmission
+System Operator and the terms of the Interconnection
+Facilities Agreement. Seller shall arrange to test the Metering
+Devices at least once per calendar year. BPA, at its own
+expense, may require that Seller initiate testing and inspection
+of the Metering Devices. Seller shall permit a representative
+of BPA to witness and verify such inspections and tests,
+provided, however, that BPA shall comply with all of the
+Seller’s safety standards. Seller shall provide BPA with copies
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 11
+of any periodic or special inspection or testing reports relating
+to the Metering Devices.
+(iii) BPA may elect to install and maintain, at its own expense,
+Metering Devices and data gathering and communication
+equipment used to monitor, record, or transmit data relating to
+the Energy Output from the BPA Wind Turbines. Seller shall
+arrange for a location within the Facility Substation control
+house accessible to Seller and BPA, for such data gathering
+and communication equipment that may be installed.
+(iv) Seller shall notify BPA within 48 hours of Seller receiving
+actual notice of any inaccuracy or defect in a Metering Device.
+Seller shall cause the Metering Devices to be adjusted,
+repaired, replaced, and/or recalibrated as near as practicable
+to a condition of zero error at the expense of Seller or the Party
+owning the defective or inaccurate device.
+(3) Adjustment for Inaccurate Meters
+If a Metering Device fails to register or is found upon testing to be
+inaccurate by more than a quarter of one percent (0.25%), an
+adjustment shall be made correcting all measurements by the
+inaccurate or defective Metering Device, for both the amount of the
+inaccuracy and the period of the inaccuracy, in the following manner:
+(i) In the event that the Metering Device is found to be defective
+or inaccurate and an adjustment factor for the Metering Device
+cannot be reliably calculated, the Parties shall use the
+measurements from BPA-owned meters if they have been
+installed, fully operational and calibrated pursuant to
+Section 5(c)(2). If BPA-owned meters have not been installed
+or, if installed, are not fully operational or calibrated, the
+Parties shall use production data from Seller’s Computer
+Monitoring System to determine the amount of such
+inaccuracy.
+(ii) In the event that Seller’s Computer Monitoring System is
+found to be inaccurate by more than two percent (2.0%), the
+Parties shall estimate the amount of the necessary adjustment
+using the site meteorological information for the period of the
+inaccuracy based upon deliveries of Energy Output from the
+BPA Wind Turbines during periods of similar operating
+conditions when the Metering Device was registering
+accurately. The adjustment shall be made for the period
+during which inaccurate measurements were made.
+(iii) In the event that the Parties cannot agree on the actual period
+during which the inaccurate measurements were made, the
+period during which the measurements are to be adjusted shall
+be the shorter of (1) the last one-half of the period from the last
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 12
+previous test of the Metering Device to the test that found the
+Metering Device to be defective or inaccurate, or (2) the 180-
+day period immediately preceding the test that found the
+Metering Device to be defective or inaccurate.
+(iv) To the extent that the adjustment period overlaps with a
+period of deliveries for which payment has already been made
+to Seller by BPA, BPA shall use the corrected measurements
+as determined in accordance with this Section to recalculate
+the amount due for the period of the inaccuracy and shall
+subtract the previous payments by BPA for such period from
+such recalculated amount. If the difference is a positive
+number, the difference shall be paid by BPA to Seller; if the
+difference is a negative number, that difference shall be paid
+by Seller to BPA, or at BPA’s discretion such difference may
+take the form of an offset to payments due Seller by BPA.
+Payment of such difference by the owing Party shall be made
+not later than thirty (30) days after the owing Party receives
+notice of the amount due, unless BPA elects payment via an
+offset.
+(4) Reliability Standards
+Seller shall operate the BPA Wind Turbines in a manner that
+complies with the operating requirements set forth in the
+Interconnection Facilities Agreement.
+6. Obligation to Sell and Purchase Energy Output
+(a) Conditional Obligation to Purchase
+Seller shall achieve the Completion Date by no later than _______, or such
+later date permitted due to Force Majeure or any delay caused by Power
+Business Line. In any event, irrespective of Force Majeure, Seller shall
+achieve the Completion Date no later than _________. Breach of this
+Section 6(a) shall constitute an Event of Default as provided under
+Section 10(a)(1) and BPA may pursue remedies available to it including those
+available pursuant to Section 10(c).
+(b) Sale and Purchase
+BPA shall purchase any or all Energy Output generated by the BPA Wind
+Turbines and delivered to the Point of Delivery prior to the Completion Date.
+Beginning on the Completion Date, and throughout the term of this
+Agreement, Seller shall supply from the Facility and sell to BPA, and BPA
+shall receive and purchase, the entire Energy Output of the BPA Wind
+Turbines in accordance with the terms of this Agreement. Seller shall
+deliver the Energy Output to, and make such Energy Output available to
+BPA at, the Point of Delivery. Neither Party shall curtail or interrupt
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 13
+delivery, acceptance, sale and/or purchase of Energy Output for economic
+reasons.
+(c) Point of Delivery
+The Point of Delivery shall be at __________.
+(d) Exception
+BPA shall not be obligated to purchase Energy Output that cannot be
+delivered due to disruptions, breakdowns, electrical system failures and/or
+mechanical failures, maintenance or repair, including, for reasons of Force
+Majeure, to the Facility Substation and/or the Grid; provided that such
+inability to deliver is not due, in whole or in part, to BPA’s negligence or its
+breach of, or default under, this Agreement or the Delivery Arrangements
+Agreement. As between BPA and Seller, Seller shall not be entitled to
+recover lost revenues for events covered in this Section 6(d) from BPA (other
+than as referred to in the proviso in the previous sentence).
+(e) Exclusions
+The Parties acknowledge that the BPA Wind Turbines have the potential to
+produce substantial carbon dioxide credits and other environmental air
+quality credits and related emissions reduction credits or benefits (economic
+and otherwise) related to the generation of energy after Commercial
+Operation. The Parties agree that any and all such credits or benefits shall
+be the property of BPA. In furtherance of the foregoing, Seller hereby
+transfers to BPA all right, title and interest Seller has or will have in, to,
+and under such credits or benefits. Seller agrees to provide such further
+evidence of the right, title and interest of BPA in such credits or benefits,
+and such information with respect to such credits or benefits, as BPA shall
+reasonably request.
+7. Payment for Energy Output
+(a) Price for Energy Output Prior to the Completion Date
+Prior to the Completion Date, BPA agrees to purchase from Seller any
+Energy Output produced by Seller at a rate of ______ per kilowatt-hour. For
+the period following the 30-day period specified in Section 5(a)(2) until the
+Completion Date, Seller shall be responsible for payment of all fixed charges
+required under the Delivery Arrangements Agreement for the use of the
+Grid, except as such delay is caused by BPA’s negligence or its breach of, or
+default under, this Agreement or the Delivery Arrangements Agreement.
+(b) Price for Energy Output after the Completion Date
+After the Completion Date, the Energy Payment Rate for Energy Output is
+as follows:
+(1) [To be negotiated]
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 14
+8. Billing and Payment
+(a) Billing Statement and Invoices
+The monthly billing period shall be the calendar month. No later than
+fifteen (15) calendar days after the end of each calendar month, Seller shall
+prepare, and provide to BPA, a statement showing Energy Output and an
+invoice for any amounts due from BPA to Seller under the terms of this
+Agreement, for the previous calendar month billing period. The statement
+and invoice shall be sent to the address specified in Section 12(a). The form
+of the invoice shall as shown in Exhibit C.
+(b) Metered Billing Data
+All billing data based on metered deliveries to BPA shall be collected by the
+Metering Device(s) in accordance with Section 5(c)(2).
+(c) Payment Dates; Late Payments
+Payments due Seller or BPA, as the case may be, shall be due and payable by
+electronic funds transfer, or by wire transfer, as designated by the owed
+Party, on or before the thirtieth (30th) calendar day following owing Party’s
+receipt of owed Party’s proper billing invoice. If the amount due is not paid
+on or before the due date, a late payment charge shall be applied to the
+unpaid balance and shall be added to the next invoice. Such late payment
+charge shall be calculated based on an annual interest rate consistent with
+the Prompt Payment Act (31 U.S.C. §§ 3901-3909) and effective in the month
+in which the invoice is rendered.
+(d) Billing Disputes
+(1) Either BPA or Seller may contest invoiced amounts if a reasonable
+basis exists therefor (a “Billing Dispute”). The contesting Party’s
+representative shall notify in writing the representative of the other
+Party of a Billing Dispute within thirty (30) calendar days from the
+receipt of a disputed invoice rendered under Section 8 of this
+Agreement.
+(2) Uncontested portions of invoiced amounts shall be paid on or before
+the due date or shall be subject to the late payment interest charges
+set forth above.
+9. Operations and Maintenance
+(a) Conditions Precedent to Facility Completion Date
+Seller shall advise BPA in writing when Seller believes that all of the
+Conditions Precedent have been or will shortly be completed. In so doing,
+Seller shall provide evidence reasonably requested by BPA of the satisfaction
+or occurrence of all Conditions Precedent. BPA shall use its best efforts to
+respond in writing within two (2) Business Days (but in any event shall
+respond within six (6) Business Days) of Seller’s written notification either
+confirming to Seller that all of the Conditions Precedent have been satisfied
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 15
+or have occurred or stating with specificity those Conditions Precedent that
+BPA believes, in good faith, have not been satisfied or have not occurred.
+BPA’s confirmation shall not be unreasonably withheld or delayed, and
+BPA’s failure to respond within six (6) Business Days of Seller’s written
+notification shall be deemed to constitute BPA’s written confirmation to
+Seller of the satisfaction or occurrence of all Conditions Precedent. The
+occurrence of each of the following shall be “Conditions Precedent” to the
+Completion Date:
+(1) Seller has certified to BPA in writing that all of the BPA Wind
+Turbines in the Facility have achieved Commercial Operation and the
+Commercial Operation Date of each Wind Turbine.
+(2) the Facility is in compliance with the Interconnection Facilities
+Agreement;
+(3) certificates of insurance coverages or insurance policies required by
+Section 16 have been obtained and submitted to BPA;
+(4) all construction and testing of the Interconnection Facilities have
+been completed in accordance with the standards of the
+Interconnection Facilities Agreement and Good Utility Industry
+Practices;
+(5) Seller is in all material respects in compliance with the terms and
+conditions of this Agreement; and
+(6) Seller has provided BPA with copies of all material land leases and
+major permits needed to construct and operate the Facility, provided
+that Seller may delete or remove confidential commercial terms
+contained therein.
+(b) Facility Operation and Reliability Standards
+Seller shall maintain the Facility in a manner that complies with the rules
+for safety and reliability set forth in the Interconnection Facilities
+Agreement and Good Utility Industry Practice. Seller shall comply with all
+applicable local, state, and Federal laws, regulations, and ordinances,
+including, but not limited to, all applicable Federal, state, and local
+environmental laws and regulations presently in effect or which may be
+enacted during the term of this Agreement. Seller shall staff, control, and
+operate the Facility consistent at all times with the Operating Procedures
+referenced below in this Section.
+(1) Seller shall provide a maintenance schedule for the Facility for the
+first year of operation at least thirty (30) days prior to the Completion
+Date. Thereafter, Seller shall submit to BPA annual maintenance
+schedules no later than October 1 of each year that cover the twelve
+(12) month period starting January 1 and ending December 31 and a
+long-term maintenance schedule that will encompass the immediately
+ensuing four (4) maintenance years. BPA shall provide written notice
+of any reasonable objections to the proposed annual maintenance
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 16
+schedule within ten (10) Business Days of receipt thereof, and failure
+to so object shall be deemed approval of the annual maintenance
+schedule. Seller shall furnish BPA with reasonable advance notice of
+any change in the annual maintenance schedule. Reasonable advance
+notice of any change in the annual maintenance schedule involving
+any shutdown of the entire Facility is as follows:
+Scheduled Outage Expected
+Duration
+Advance Notice to BPA
+(1) Less than 2 days at least 24 hours
+(2) 2 to 5 days at least 7 days
+(3) Major overhauls (over 5 days) at least 90 days
+(2) Seller shall not schedule any planned maintenance outages for the
+entire Facility during any weekday of an On-Peak Month without the
+prior written approval of BPA not to be unreasonably withheld,
+delayed or conditioned.
+(c) Operations Record
+Seller shall maintain an operations log, which shall include information on
+the Actual Average Annual Output of the BPA Wind Turbines, planned and
+unplanned maintenance outages, circuit breaker trip operations requiring a
+manual reset, partial deratings of equipment, and any other significant event
+related to the operation of the BPA Wind Turbines. The operations record
+shall be available for inspection by BPA upon reasonable advance request,
+and Seller shall make the data available on a real-time basis by remote
+access to BPA, if BPA acquires the necessary equipment and software license
+to process the data by remote access.
+(d) Monthly Reports
+Seller shall provide to BPA a monthly report, by no later than thirty (30)
+days after the end of each calendar month, with such information and in
+such form as BPA shall reasonably request, by electronic mail and in hard
+copy, regarding the operations of the BPA Wind Turbines. Each monthly
+report shall include: all reporting information maintained in the operations
+record; data on the wind during the month, a comparison of the available
+wind energy compared to the actual wind energy generated during the
+month, and hourly output of the BPA Wind Turbines. The monthly report
+shall also include an estimate of monthly output for the calendar year and
+such other information related to the operation of the BPA Wind Turbines
+that BPA reasonably requests.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 17
+(e) Operating Committee and Operating Procedures
+(1) BPA and Seller shall each appoint one delegate and one alternate
+delegate to act on matters relating to the operation of the BPA Wind
+Turbines under this Agreement. Such delegates shall constitute the
+Operating Committee. The Parties shall notify each other in writing
+of such appointments and any changes thereto. The Operating
+Committee shall have no authority to modify the terms or conditions
+of this Agreement.
+(2) The Operating Committee shall, acting reasonably, develop mutually
+agreeable written operating procedures (“Operating Procedures”) in
+draft form no later than thirty (30) days prior to the expected
+Completion Date. Operating Procedures shall include, but not be
+limited to: method of day-to-day communications; metering,
+telemetering, telecommunications, and data acquisition procedures;
+operating and maintenance scheduling and reporting; operations log;
+and such other matters as may be mutually agreed upon by the
+Parties. The agreed upon Operating Procedures shall be provided and
+distributed within ninety (90) days following the Completion Date.
+10. Default and Termination
+(a) Events of Default of Seller
+(1) The occurrence of any of the following shall constitute an immediate
+Event of Default without the opportunity to cure:
+(i) Seller dissolution or liquidation;
+(ii) Seller assignment of this Agreement or any of its rights under
+it for the benefit of creditors;
+(iii) Seller abandonment of construction and/or operation of the
+Facility; and
+(iv) Seller filing of a petition in bankruptcy or insolvency or for
+reorganization or arrangement under the bankruptcy laws of
+the United States or under any insolvency act of any state, or
+Seller voluntarily taking advantage of any such law or act by
+answer or otherwise.
+(2) The occurrence of any of the following shall constitute an Event of
+Default of Seller unless Seller shall have cured the same within
+ninety (90) days after receipt by Seller of written notice thereof from
+BPA:
+(i) Seller’s failure to meet the Completion Date as set forth in
+Section 6(a) (subject to the extensions of time available to
+Seller under Section 6(a));
+(ii) Seller’s assignment of this Agreement or any of Seller’s rights
+under this Agreement or the sale or transfer of voting control
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 18
+of Seller or Seller’s sale or other transfer of any material
+portion of its interest in the Facility without obtaining BPA’s
+prior written consent pursuant to Section 18;
+(iii) The filing of a case in bankruptcy or any proceeding under any
+other insolvency law against Seller as debtor or its parent or
+any other affiliate that could materially impact Seller’s ability
+to perform its obligations hereunder; provided, however, that
+Seller does not obtain a stay or dismissal of the filing within
+ninety (90) days of the date of such filing;
+(iv) After the Completion Date, Seller tampering with or
+adjustment of the Metering Devices for the BPA Wind
+Turbines in ways not expressly permitted by Sections 5(c)(2)
+and 5(c)(3);
+(v) After the Completion Date, the sale by Seller to a third party,
+or diversion by Seller for any use, of the Energy Output
+committed to BPA by Seller absent BPA’s prior written consent
+to such diversion or use;
+(vi) After the Completion Date, Seller’s failure to maintain in effect
+any material agreements required to deliver the Energy
+Output to the Point of Delivery;
+(vii) Commencing on the first (1st) anniversary of the Completion
+Date, Seller’s failure to use commercially reasonable efforts to
+obtain, for the BPA Wind Turbines, an average Availability
+Factor greater than seventy-five percent (75%) in the
+immediately preceding twelve (12) consecutive months;
+provided that such failure is not the result of Force Majeure;
+(viii) Seller’s failure to acquire or maintain permits needed to
+construct and operate the Facility;
+(ix) Seller’s failure to acquire or maintain land rights needed to
+access, construct, and operate the Facility; or
+(x) Seller’s failure to comply with any other material obligation
+under this Agreement.
+(3) Seller’s failure to make any payment when required under this
+Agreement shall constitute an Event of Default of Seller unless
+(1) Seller shall have cured the same within thirty (30) days after
+receipt by Seller of written notice thereof from BPA or (2) Seller has
+filed in good faith a Billing Dispute with respect to such unpaid
+amounts and complied with Section 8(d).
+(b) Events of Default of BPA
+(1) The following shall constitute Events of Default of BPA upon their
+occurrence and no cure period shall be applicable:
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 19
+(i) BPA’s dissolution or liquidation, provided that division of BPA
+into multiple entities shall not constitute dissolution or
+liquidation; or
+(ii) BPA’s general assignment of this Agreement or any of its
+rights hereunder for the benefit of creditors.
+(2) The following shall constitute Events of Default of BPA upon their
+occurrence unless cured within ninety (90) days after the receipt by
+BPA of written notice thereof from Seller:
+(i) BPA fails to purchase the entire Energy Output of the BPA
+Wind Turbines in accordance with Section 6(b);
+(ii) BPA defaults on its obligations under the Delivery
+Arrangements Agreement, and such default renders Seller
+unable to deliver the Energy Output at the Point of Delivery or
+affects Seller’s right to be paid under this Agreement for
+delivery at the Point of Delivery for its Energy Output;
+(iii) BPA’s assignment of this Agreement or any of BPA’s rights
+under this Agreement without obtaining Seller’s prior written
+consent pursuant to Section 18; or
+(iv) BPA’s failure to comply with any other material obligation
+under this Agreement after receipt of notice thereof.
+(3) BPA’s failure to make any payment when required under this
+Agreement shall constitute an Event of Default unless (1) BPA shall
+have cured the same within thirty (30) days after receipt by BPA of
+written notice thereof or (2) BPA has filed in good faith a Billing
+Dispute with respect to such unpaid amounts and complied with
+Section 8(d).
+(c) Termination for Cause
+In addition to any other right or remedy available at law or in equity or
+pursuant to this Agreement, including the right to seek damages for breach
+of this Agreement, the non-defaulting Party may, upon written notice to the
+other Party, terminate this Agreement if any one or more of the Events of
+Default described in this Section occur and are not cured within the time
+periods set forth herein. In the event of a termination by BPA due to an
+Event of Default under Section 10(a)(2)(i), neither Party shall have any
+further liability or obligation to the other Party with respect to this
+Agreement, except Seller shall, after receipt of a detailed, written
+itemization and description, reimburse BPA for reasonable payments made
+by BPA pursuant to the Delivery Arrangements Agreement. Neither Party
+shall have the right to terminate this Agreement except as provided for upon
+the occurrence of an Event of Default as described above or as otherwise may
+be explicitly provided for in this Agreement. All remedies in this Agreement
+shall survive termination or cancellation of this Agreement and are
+cumulative.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 20
+(d) No Consequential Damages
+In no event shall either Party be liable for the other Party’s alleged lost
+profits or other consequential damages; provided, however, that any amounts
+which are expressly provided herein to be payable shall not be construed as
+lost profits or consequential damages.
+11. Termination for Convenience
+(a) Termination by BPA for Convenience
+BPA may provide notice of its intent to terminate this Agreement for
+convenience either during the period between the execution of this
+Agreement and the date that Seller provides written notice to BPA, in the
+form of Exhibit B, that the Facility is ready for construction (the “Initial
+Period”), or after the Facility has achieved Commercial Operation (the
+“Operation Period”).
+(1) During the Initial Period, BPA must provide its notice of intent to
+terminate this Agreement for convenience at least thirty (30) days
+prior to the actual date of termination.
+(2) During the Operation Period, BPA shall provide its notice of intent to
+terminate this Agreement for convenience at least ninety (90) days
+prior to the actual date of termination.
+(3) If a termination occurs under this Section 11(a), then BPA shall pay
+to Seller in the case of termination under clause (1) or (2), above, [an
+amount to be negotiated].
+(b) Termination Under Section 11(a)
+Termination of this Agreement pursuant to Section 11(a) shall relieve the
+Parties of all further obligations under this Agreement upon full and
+complete payment by BPA of all amounts due and owing pursuant to this
+Section 11 and Exhibit D.
+12. Contract Administration and Notices
+(a) Notices
+All notices, demands or other communications required from or given by a
+Party pursuant to this Agreement shall be provided to the other Party in
+accordance with the requirements set forth in this section. All notices,
+demands or other communications required hereunder shall be given or
+made in writing and shall be delivered personally, sent by facsimile (fax),
+sent by a courier service, or mailed by registered or certified mail, postage
+prepaid to the parties at the following addresses, or at such other address as
+may be designated by notice given pursuant hereto:
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 21
+If to Seller: [Address]
+Attn: _________________
+Phone: _________________
+Fax: _________________
+If to BPA: Bonneville Power Administration
+905 N.E. 11th Street (97232)
+P.O. Box 3621
+Portland, OR 97208-3621
+Attn: Wind Project Manager – PGC-6
+Contract Generating Resources
+Phone: 503-230-4386
+Fax: 503-230-4973
+Notices given by hand, telegraphically transmitted, or sent by telecopy shall
+be deemed given the day so given, transmitted or sent. Notices mailed or
+sent by a courier service as provided herein shall be deemed given on the
+third Business Day following the date so mailed or on the date of actual
+receipt, whichever is earlier.
+(b) Representative for Notice
+Each Party shall maintain a designated representative to receive notices.
+Such representative may, at the option of each Party, be the same person as
+that Party’s representative or alternate representative on the Operating
+Committee, or a different person. Either Party may, by written notice to the
+other, pursuant to Section 12(a) above, change the representative or the
+address to which such notices and communications are to be sent.
+(c) Authority of Representatives
+The Parties’ representatives designated in Section 12(b) above shall have
+authority to act for their respective principals in all technical matters
+relating to performance of this Agreement and to attempt to resolve disputes
+or potential disputes. However, they shall not have the authority to amend
+or modify any provision of this Agreement.
+(d) Operating Records
+Seller and BPA shall each keep complete and accurate records and all other
+data required by each of them for the purposes of proper administration of
+this Agreement, including such records as may be required by state or
+Federal regulatory authorities.
+(e) Billing and Payment Records
+To facilitate payment and verification, Seller and BPA shall keep all books
+and records necessary for billing and payments in accordance with the
+provisions of Section 7 and grant the other Party reasonable access to those
+records.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 22
+(f) Examination of Records
+Seller and BPA may examine the billing and operating records and data kept
+by the other relating to transactions under, and administration of, this
+Agreement at any time during the period the records are required to be
+maintained, upon request and during normal business hours.
+13. Dispute Resolution
+(a) The Parties shall make a good faith effort to negotiate a resolution of
+disputes before initiating litigation. During a contract dispute or contract
+issue between the Parties arising out of this Agreement, the Parties shall
+continue performance under this Agreement pending resolution of the
+dispute, unless to do so would be impossible or impracticable. Seller reserves
+the right to seek judicial resolution of any dispute arising under this
+Agreement that is not subject to arbitration under this Section 13.
+(b) Final actions subject to section 9(e) of the Northwest Power Act are not
+subject to binding arbitration and shall remain within the exclusive
+jurisdiction of the United States Ninth Circuit Court of Appeals. Any
+dispute regarding any rights of the Parties under any BPA policy, including
+the implementation of such policy, shall not be subject to arbitration under
+this Agreement. Seller reserves the right to seek judicial resolution of any
+dispute arising under this Agreement that is not subject to arbitration under
+this Section 13. For purposes of this Section 13, BPA policy means any
+written document adopted by BPA as a final action in a decision record or
+record of decision that establishes a policy of general application, or makes a
+determination under an applicable statute. If either Party asserts that a
+dispute is excluded from arbitration under this Section 13, either Party may
+apply to the Federal court having jurisdiction for an order determining
+whether such dispute is subject to arbitration under this Section 13.
+(c) Any contract dispute or contract issue between the Parties arising out of this
+Agreement, except for disputes that are excluded through Section 13(a)
+above, shall be subject to binding arbitration. The Parties shall make a good
+faith effort to resolve such disputes before initiating arbitration proceedings.
+During arbitration, the Parties shall continue performance under this
+Agreement pending resolution of the dispute, unless to do so would be
+impossible or impracticable.
+(d) Any arbitration shall take place in Portland, Oregon, unless the Parties
+agree otherwise. The CPR Institute for Dispute Resolution’s arbitration
+procedures for commercial arbitration, Non-Administered Arbitration Rules
+(CPR Rules), shall be used for each dispute; provided, however, that: (1) the
+Parties shall have the discovery rights provided in the Federal Rules of Civil
+Procedure unless the Parties agree otherwise; and (2) for claims of $1 million
+or more, each arbitration shall be conducted by a panel of three neutral
+arbitrators. The Parties shall select the arbitrators from a list containing
+the names of 15 qualified individuals supplied by the CPR Institute for
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 23
+Dispute Resolution. If the Parties cannot agree upon three arbitrators on the
+list within 20 Business Days, the Parties shall take turns striking names
+from the list of proposed arbitrators. The Party initiating the arbitration
+shall take the first strike. This process shall be repeated until three
+arbitrators remain on the list, and those individuals shall be designated as
+the arbitrators. For disputes involving less than $1 million, a single neutral
+arbitrator shall be selected consistent with section 6 of the CPR Rules.
+(e) Except for arbitration awards, which declare the rights and duties of the
+Parties under this Agreement, the payment of monies shall be the exclusive
+remedy available in any arbitration proceeding. Under no circumstances
+shall specific performance be an available remedy against BPA. The
+arbitration award shall be final and binding on both Parties, except that
+either Party may seek judicial review based upon any of the grounds referred
+to in the Federal Arbitration Act, 9 U.S.C. §1-16 (1988). Judgment upon the
+award rendered by the arbitrators may be entered by any court having
+jurisdiction thereof.
+(f) Each Party shall be responsible for its own costs of arbitration, including
+legal fees. The arbitrators may apportion all other costs of arbitration
+between the Parties in such manner as they deem reasonable taking into
+account the circumstances of the case, the conduct of the Parties during the
+proceeding, and the result of the arbitration.
+14. Force Majeure
+(a) Definition of Force Majeure
+The term “Force Majeure,” as used in this Agreement, means causes or
+events beyond the reasonable control of, and without the fault or negligence
+of the party claiming Force Majeure, including, without limitation, acts of
+God, sudden actions of the elements such as floods, earthquakes, hurricanes,
+wind speeds in excess of safe working limits, or tornadoes; sabotage;
+vandalism beyond that which could reasonably be prevented by Seller;
+terrorism; war; riots; fire; explosion; severe cold or hot weather or snow or
+other extreme or severe weather conditions; blockage, insurrection, strike,
+slow down, or labor disruptions (even if such difficulties could be resolved by
+conceding to the demands of a labor group); and requirements, actions or
+failures to act by Transmission System Operator, but only if such
+requirements, actions or failures to act prevent or delay performance; the
+adoption or change in any rule or regulation or judicial decision lawfully
+imposed by Federal, state, or local government bodies; inability, despite due
+diligence, to obtain required licenses, permits, or approvals for the
+construction and operation of the Facility under the terms of this Agreement;
+and the mechanical or equipment breakdown of the Grid to the extent not
+caused by the party claiming the Force Majeure. The term “Force Majeure”
+does not include any full or partial curtailment in the electric output of the
+Facility that is caused by or arises from the act or acts of any third party,
+including, without limitation, any vendor, materialman, customer, or
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 24
+supplier of Seller, unless such act or acts is or are itself or themselves
+excused by reason of Force Majeure. The term “Force Majeure” does not
+include any full or partial curtailment in the electric output of the Facility
+that is caused by or arises from a mechanical or equipment breakdown of the
+Facility, or fires, explosions, or other mishap or events or conditions
+attributable to normal wear and tear or flaws related to the Facility, unless
+caused by a Force Majeure event specifically listed in the first sentence of
+this Section 14(a).
+(b) Applicability of Force Majeure
+Neither Party shall be responsible or liable for any delay or failure in its
+performance under this Agreement due to conditions or events of Force
+Majeure (except that any and all obligations to pay money shall not be
+delayed or excused by conditions or events of Force Majeure), provided that:
+(1) the non-performing Party gives the other Party prompt written notice
+describing the particulars of the occurrence of the Force Majeure;
+(2) the suspension of performance is of no greater scope and of no longer
+duration than is required by the Force Majeure;
+(3) the non-performing Party proceeds with reasonable diligence to
+remedy its inability to perform and provides weekly progress reports
+to the other Party describing actions taken to end the Force Majeure;
+and
+(4) the non-performing Party shall provide written notice of its ability to
+resume performance of its obligations under this Agreement.
+(c) Limitations on Effect of Force Majeure
+In no event will any delay or failure of performance caused by any conditions
+or events of Force Majeure extend this Agreement beyond its stated term. In
+the event of any delay or failure of performance caused by conditions or
+events of Force Majeure, which would otherwise constitute an Event of
+Default pursuant to Section 10, the cure provisions of Section 10 shall not
+apply and such delay or failure of performance, if not previously cured, shall
+be extended day-for-day by the event of Force Majeure; provided that such
+delay or failure shall become an Event of Default one (1) year from the date
+of notice provided for in Section 10. The other Party may, at any time
+following the end of such one-year period, terminate this Agreement upon
+written notice to the affected Party, without further obligation by the
+terminating Party except as to costs and unpaid balances incurred prior to
+the effective date of such termination. The other Party may, but shall not be
+obligated to, extend such one year period, for such additional time as it, at its
+sole discretion, deems appropriate, if the affected Party is exercising due
+diligence in its efforts to cure the conditions or events of Force Majeure.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 25
+(d) Delays Attributable to BPA
+Seller shall be excused from delays in meeting performance deadlines under
+this Agreement, on a day-for-day basis, for any delays attributable to BPA,
+including, without limitation, delays in BPA obtaining any required permits,
+consents, or approvals and agreements, including, without limitation, the
+Delivery Arrangements Agreement, from governmental authorities or third
+parties required for BPA to perform its obligations under this Agreement.
+Seller shall provide BPA with timely written notice that a delay allegedly
+attributable to BPA has occurred or is expected to occur. The notice shall
+specify the length of any extension to a performance deadline to which Seller
+feels entitled.
+15. Representations and Warranties
+(a) Seller’s Representations and Warranties
+Seller hereby represents and warrants that as of the date hereof:
+(1) Seller is an [which state] corporation, duly organized, validly existing
+and in good standing under the laws of the State of ______, and is
+qualified to perform its obligations under this Agreement in [state
+where facility is located] and in each other jurisdiction where the
+failure to so qualify would have a material adverse effect upon the
+business or financial condition of Seller; and Seller has all requisite
+power and authority to conduct its business, to own its properties, and
+to execute, deliver, and perform its obligations under this Agreement.
+(2) The execution, delivery, and performance of its obligations under this
+Agreement by Seller have been duly authorized by all necessary
+corporate action, and do not and will not:
+(i) require any consent or approval of Seller’s members other than
+that which has been obtained and is in full force and effect;
+(ii) violate any provision of law, rule, regulation, order, writ,
+judgment, injunction, decree, determination, or award
+currently in effect having applicability to Seller or violate any
+provision in any charter documents of Seller, the violation of
+which could have a material adverse effect on the ability of
+Seller to perform its obligations under this Agreement;
+(iii) result in a breach or constitute a default under Seller’s charter
+documents, or under any agreement relating to the
+management or affairs of Seller or any indenture or loan or
+credit agreement, or any other agreement, lease, or instrument
+to which Seller is a party or by which Seller or its properties or
+assets may be bound or affected, the breach or default of which
+could reasonably be expected to have a material adverse effect
+on the ability of Seller to perform its obligations under this
+Agreement; or
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 26
+(iv) result in, or require the creation or imposition of any mortgage,
+deed of trust, pledge, lien, security interest, or other charge or
+encumbrance of any nature (other than as may be
+contemplated by this Agreement) upon or with respect to any
+of the assets or properties of Seller now owned or hereafter
+acquired, the creation or imposition of which could reasonably
+be expected to have a material adverse effect on the ability of
+Seller to perform its obligation under this Agreement.
+(3) This Agreement is a valid and binding obligation of Seller.
+(4) The execution and performance of this Agreement will not conflict
+with or constitute a breach or default under any contract or
+agreement of any kind to which Seller is a party or any judgment,
+order, statute, or regulation that is applicable to Seller or the Facility.
+(5) To its best knowledge, all approvals, authorizations, consents, or
+other action required by any governmental authority to authorize
+Seller’s execution, delivery, and performance under this Agreement
+have been duly obtained and are in full force and effect.
+(b) BPA’s Representations and Warranties
+BPA hereby represents and warrants the following:
+(1) BPA is authorized by Federal law, including the Northwest Power Act
+and other applicable laws, to dispose of electric power generated at
+various Federal hydroelectric projects in the Pacific Northwest or
+acquired from other resources, including wind energy facilities.
+(2) The execution and performance of BPA’s obligations under this
+Agreement has been duly authorized by all necessary agency action,
+and does not and will not:
+(i) require any further agency consent or approval;
+(ii) to the knowledge of BPA, violate any provision of Federal law,
+rule, regulation, order, writ, judgment, injunction, decree,
+determination, or award currently in effect having
+applicability to BPA, or conflict with or constitute a breach or
+default under any contract or agreement of any kind to which
+BPA is a party, the violation, conflict, or breach or default of
+which could have a material adverse effect on the ability of
+BPA to perform its obligations under this Agreement.
+(3) This Agreement is a valid and binding obligation of BPA.
+16. Insurance and Indemnity
+(a) Evidence of Insurance
+(1) During the construction of the Facility, Seller shall, at Seller’s
+expense, maintain or cause to be maintained property damage
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 27
+insurance covering all wind-electric generation facilities at the
+Facility on an “all-risk” basis, for the full replacement value of such
+facilities.
+(2) Commencing on the Completion Date, Seller shall, at Seller’s expense,
+maintain or cause to be maintained appropriate property and casualty
+loss insurance for the value of the Facility, and other appropriate
+insurance for the Facility in accordance with prudent wind industry
+practice, including as follows:
+(i) Commercial General Liability covering bodily injury and
+property damage, boiler and machinery, products/completed
+operations, contractual and personal injury liability, with
+limits not less than $5,000,000 combined single limit per
+occurrence;
+(ii) All-risk property insurance including earthquake, tornado, and
+flood, subject to appropriate sublimits, covering physical loss
+or damage to all real and personal property located at the
+Facility.
+(3) The insurance shall acknowledge BPA, its officers, agents, employees,
+and successors in interest as additional insureds.
+(4) The insurance shall not affect Seller’s liability under the indemnity
+provisions of this Agreement and shall not be terminated, expire nor
+be materially altered except on thirty (30) days prior written notice to
+BPA and with BPA’s written concurrence. Such concurrence shall not
+be unreasonably withheld.
+(5) As evidence that policies do in fact provide the required coverages and
+limits of insurance and are in full force and effect, Seller, and/or its
+contractor or representative, shall, at least fourteen (14) days prior to
+the Completion Date, furnish to BPA certificates of insurance.
+(b) Limitation on Liability
+Neither BPA nor Seller (“First Party”) shall be liable, whether in warranty,
+tort or strict liability, to the other Party (“Second Party”) for any injury or
+death to any person, or for any loss or damage to any property, caused by or
+arising out of any electric disturbance of the First Party’s electric system,
+whether or not such electric disturbance resulted from the First Party’s
+negligent act or omission. Each Second Party shall release the First Party
+from, and shall indemnify and hold harmless the First Party from, any such
+liability. As used in this Section, (1) the term “Party” means, in addition to
+such Party itself, its agents, directors, officers, contractors and employees;
+(2) the term “damage” means all damage, including consequential damage;
+and (3) the term “persons” means any person, including those not connected
+with either Party to this Agreement.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 28
+17. Regulatory Jurisdiction and Compliance
+(a) Governmental Jurisdiction and Regulatory Compliance
+Each party shall at all times comply with all applicable laws, ordinances,
+rules, and regulations applicable to it. As applicable, each party shall give
+all required notices, shall procure and maintain all necessary governmental
+permits, licenses, and inspections necessary for performance of this
+Agreement, and shall pay its respective charges and fees in connection
+therewith.
+(b) Provision of Support
+Seller shall make available, upon BPA’s reasonable request, any personnel of
+Seller and any records relating to the Facility to the extent that BPA
+requires the same in order to fulfill any regulatory reporting requirements,
+or to assist BPA in litigation, including, but not limited to, proceedings
+before utility regulatory commissions. BPA shall make available, upon
+Seller’s reasonable request, any personnel of BPA and any records relating to
+the Facility to the extent that Seller requires the same in order to fulfill any
+regulatory reporting requirements, or to assist Seller in litigation, including,
+but not limited to, proceedings before utility regulatory commissions.
+18. Assignment and Other Transfer Restrictions
+(a) No Assignment Without Consent
+This Agreement shall be binding upon and inure to the benefit of, or may be
+performed by, the successors and assigns of the Parties. No Party may
+assign or otherwise transfer its rights or obligations under this Agreement
+unless it has obtained the prior written consent of the other Party. Seller
+may assign and/or delegate, or transfer or permit the transfer of all or any
+portion of its interests in the Facility or this Agreement, to any person or
+entity after obtaining the prior written consent of BPA, which shall not be
+unreasonably withheld, delayed or conditioned; provided that such other
+person or entity assumes, or is otherwise bound to perform, all of Seller’s
+obligations under this Agreement. No assignment, delegation, pledge, or
+transfer shall relieve or release Seller to any extent of any of its pre-transfer
+obligations under this Agreement. No assignment, pledge, or other transfer
+of this Agreement by any Party shall operate to release the assignor, pledgor,
+or transferor from any of its obligations under this Agreement unless consent
+to the release, which shall not be unreasonably withheld, delayed or
+conditioned, is given in writing by the other Party.
+19. Confidential Information
+(a) Availability
+The Parties have and will develop certain information, processes, know-how,
+techniques and procedures concerning the Facility (collectively,
+“Information”) which they consider confidential and proprietary.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 29
+Notwithstanding the confidential and proprietary nature of such
+Information, BPA and Seller (each, the “Disclosing Party”) may make this
+Information available to the other (each, a “Receiving Party”) subject to the
+provisions of this section.
+(b) Designation
+At the time of furnishing or making available for inspection such confidential
+or proprietary Information, the Disclosing Party shall expressly designate by
+label, stamp, or oral communication (to be confirmed in writing) the
+Information which it considers to be confidential and/or proprietary.
+(c) Obligations
+The Receiving Party’s obligations with respect to the use or disclosure of
+such Information thereafter will be as set forth in this section.
+(d) Conditions and Restrictions
+Upon receiving or learning of Information designated as confidential and/or
+proprietary by the Disclosing Party, the Receiving Party shall:
+(1) treat such Information as confidential and use reasonable care not to
+divulge such Information to any third party except as required by law,
+subject to the restrictions set forth below;
+(2) restrict access to such Information to employees (and others who
+agree to be bound by this Agreement) whose access is reasonably
+necessary in developing the Facility and for the purposes of this
+Agreement;
+(3) use such Information solely for the purpose of developing the Facility
+and for the purposes of this Agreement; and
+(4) upon the termination of this Agreement, destroy or return any such
+Information in written or other tangible form and any copies thereof,
+if asked to do so in writing by the Disclosing Party.
+(e) Exceptions
+The restrictions in this section do not apply to:
+(1) the contents of this Agreement, which becomes a public document
+upon execution;
+(2) information which is, or becomes, publicly known or available
+otherwise than through the action of the Receiving Party in violation
+of this Agreement;
+(3) information which is in the possession of the Receiving Party prior to
+receipt from the Disclosing Party or is independently developed by the
+Receiving Party; provided that the person or persons developing same
+have not had access to such Information; or
+(4) information which is, in the reasonable written opinion of counsel to
+the Receiving Party, required to be disclosed pursuant to applicable
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 30
+law or regulation (including any Freedom of Information Act request);
+provided, however, that the Receiving Party, prior to such disclosure,
+shall provide reasonable advance notice to the Disclosing Party of the
+time and scope of the intended disclosure in order to permit the
+Disclosing Party opportunity to obtain a protective order or otherwise
+seek to prevent or limit the scope or otherwise impose conditions upon
+such disclosure.
+(f) Term of Obligations
+The obligations of the Parties under this section shall remain in full force
+and effect for two (2) years following the termination of this Agreement.
+20. Miscellaneous
+(a) Waiver
+The failure of either Party to enforce or insist upon compliance with or strict
+performance of any of the terms or conditions of this Agreement, or to take
+advantage of any of its rights thereunder, shall not constitute a waiver or
+relinquishment of any such terms, conditions, or rights, but the same shall
+be and remain at all times in full force and effect.
+(b) Taxes
+Seller shall be responsible for any and all present or future Federal, state,
+municipal, or other lawful taxes applicable by reason of the ownership and
+operation of the Facility and the sale of energy under this Agreement and all
+ad valorem taxes relating to the Facility and the Interconnection Facilities.
+(c) Disclaimer of Third Party Beneficiary Rights
+In executing this Agreement, BPA does not, nor should it be construed to,
+extend its credit or financial support for the benefit of any third parties
+lending money to or having other transactions with Seller. Nothing in this
+Agreement shall be construed to create any duty to, or standard of care with
+reference to, or any liability to, any person not a party to this Agreement.
+(d) Relationship of the Parties
+This Agreement shall not be interpreted to create an association, joint
+venture, or partnership between the Parties nor to impose any partnership
+obligation or liability upon either Party. Neither Party shall have any right,
+power, or authority to enter into any agreement or undertaking for, or act on
+behalf of, or to act as an agent or representative of, the other Party.
+Seller shall be solely liable for the payment of all wages, taxes, and other
+costs related to the employment of persons to perform such services,
+including all Federal, state, and local income, social security, payroll, and
+employment taxes and statutorily mandated workers’ compensation
+coverage. None of the persons employed by Seller shall be considered
+employees of BPA for any purpose; nor shall Seller represent to any person
+that he or she is or shall become a BPA employee.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 31
+(e) Survival of Obligations
+Cancellation, expiration, or earlier termination of this Agreement shall not
+relieve the Parties of obligations that by their nature should survive such
+cancellation, expiration, or termination, including, without limitation,
+warranties, remedies, or indemnities.
+(f) Severability
+In the event any of the terms, covenants, or conditions of this Agreement, its
+Exhibits, or the application of any such terms, covenants, or conditions, shall
+be held invalid, illegal, or unenforceable by any court having jurisdiction, all
+other terms, covenants, and conditions of the Agreement and their
+application not adversely affected thereby shall remain in force and effect,
+provided that the remaining valid and enforceable provisions materially
+retain the essence of the parties' original bargain.
+(g) Interpretation
+Unless the context of this Agreement otherwise requires, (a) words of any
+gender include each other gender; (b) words using the singular or plural
+number also include the plural or singular number, respectively; (c) the
+terms “hereof,” “herein,” “hereby” and derivative or similar words refer to
+this entire Agreement including Exhibits; (d) the terms “Section” or “Exhibit”
+refer to the specified Section or Exhibit of this Agreement; and (e) any
+reference to the entirety or any part of this Agreement shall refer to any
+amendment, supplement or replacement of the same. Whenever this
+Agreement refers to a number of days, such number shall refer to calendar
+days unless Business Days are specified.
+(h) Complete Agreement; Amendments
+The terms and provisions contained in this Agreement and referenced
+documents constitute the entire Agreement between BPA and Seller and
+shall supersede all previous communications, representations, or
+agreements, either verbal or written, between BPA and Seller with respect to
+the sale of electric capacity and energy from the Facility. This Agreement
+may be amended, changed, modified, or altered; provided that such
+amendment, change, modification, or alteration shall be in writing and
+signed by both Parties hereto.
+(i) Binding Effect
+This Agreement, as it may be amended from time to time pursuant to this
+Section, shall be binding upon and inure to the benefit of the Parties’
+respective successors-in-interest, legal representatives, and assigns.
+(j) Headings
+Captions and headings used in the Agreement are for ease of reference only
+and do not constitute a part of this Agreement.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 32
+(k) Counterparts
+This Agreement may be executed in any number of counterparts, and each
+executed counterpart shall have the same force and effect as an original
+instrument.
+(l) Choice of Law
+This Agreement shall be governed by and construed in accordance with the
+laws of the State of Oregon (without reference to choice of law doctrine),
+except to the extent the Parties’ rights and obligations are required to be
+governed by United States Federal law, then such rights and obligations
+shall be governed by United States Federal law.
+(m) Equal Employment Opportunity Compliance Certification
+Seller acknowledges that BPA is subject to various Federal laws, executive
+orders, and regulations regarding equal employment opportunity and
+affirmative action. Only to the extent that such Federal laws, executive
+orders and regulations are applicable to Seller as a vendor to BPA due to the
+sale of Energy Output under the terms of this Agreement and are required
+by law to be incorporated herein, such Federal laws, executive orders and
+regulations, including, but not limited to, 41 C.F.R. § 60-1.4(a)(1-7), are
+incorporated by reference into this Agreement.
+IN WITNESS WHEREOF, the Parties have executed this Agreement.
+[SELLER] UNITED STATES OF AMERICA
+Department of Energy
+Bonneville Power Administration
+By: By: __________________________
+Gregory K. Delwiche
+[Title] Vice President, Generation Supply
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 1
+EXHIBIT A
+Facility Description and Map
+The Facility is known as the _______ Wind Project and is located __________.
+The Facility consists of [number, manufacturer, and model] wind turbines. Each wind
+turbine is connected to the next by a ___-kV underground collector system. Wind turbines
+are grouped in “strings” of _ to ___ turbines, each spaced approximately ___ feet from the
+next.
+[Further describe the Facility]
+[Describe Interconnection Facilities]
+The following site map indicates the location and layout of the BPA Wind Turbines. The
+following diagram shows the location of Metering Devices and other equipment installed at
+the Facility Substation.
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 2
+[PLACEHOLDER PAGE FOR MAP]
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 3
+[PLACEHOLDER PAGE FOR SUBSTATION DIAGRAM]
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 1
+EXHIBIT B
+Form of Notice
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 1
+EXHIBIT C
+Form of Invoice
+Contract No. 01PB-_____
+_________ Wind Project
+Example of Power Purchase Agreement 1
+EXHIBIT D
+Termination Payment Schedule

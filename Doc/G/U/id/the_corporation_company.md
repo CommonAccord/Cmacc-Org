@@ -1,6 +1,6 @@
-=[zID/US/Entity/0.md]
+=[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
+Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
 
 Name.Full=The Corporation Company
 

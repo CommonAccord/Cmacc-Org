@@ -1,0 +1,35 @@
+.token {
+	color: black ;
+        text-decoration: none;
+}  
+
+.person {
+	color: black ;
+        text-decoration: none;
+
+}  
+
+
+.definedterm {
+	color: black ;
+	font-style: italic;
+        text-decoration: none;
+
+}
+
+.xref {
+	color: black ;
+        text-decoration: none;
+
+}
+
+.sec-ti {
+	color: black;
+            font-weight: bold;
+
+}
+
+.warning {
+	color: #8F0000;
+        text-transform : uppercase;
+        font-weight: bold;

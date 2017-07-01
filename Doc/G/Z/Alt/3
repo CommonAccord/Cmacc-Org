@@ -1,6 +1,6 @@
 Alt=[G/Z/ol/3]
 
-Sec=<b>{Ti}</b><br>{sec}
+Sec=<span class="sec-ti">{Ti}</span><br>{sec}
 
 Alt0.Sec=Select one - {SecName}.Sec={{SecName}.AltX.Sec}where X is 1-3
 

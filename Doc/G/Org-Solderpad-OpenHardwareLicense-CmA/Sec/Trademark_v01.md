@@ -1,0 +1,5 @@
+Ti=Trademarks
+
+sec=This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+=[Z/ol/0]
