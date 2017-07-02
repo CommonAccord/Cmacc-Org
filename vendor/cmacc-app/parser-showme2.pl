@@ -70,41 +70,21 @@ sub expand_fields  {
 
 	my($f,$field,$part) = @_;
 
-	foreach( $$field =~ /\{([^}]+)\}/g ) {
-		my $ex = $_;
-		my $ox = $part ? $part . $ex : $ex;
-		my $value = parse($orig, $ox);
-		$$field =~ s/\{\Q$ex\E\}/$value/gg if $value;
-	}
-} 
 
 
+foreach( $$field =~ /\{([^}]+)\}/g ) {
+       my $ex = $_;
+       my $ox = $part ? $part . $ex : $ex;
 
-my $output  = parse($ARGV[0], "Model.Root");
+       my $value = parse($orig, $ox);      
+       my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $value . "</span>";
+       $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
+     }
+      }
 
-# print $output;
 
-# XXX FIX ME XXX This is horrible - but  I'm just dead tired  :(
-my %seen; my @arr = $output=~/\{([^}]+)\}/g;
-@arr = grep { ! $seen{$_}++ } @arr;
-
-# select one:
-
-# Key=
-
-print "$_=\n" foreach @arr;
-
-# Key=Key;
-
-# print "$_=$_\n" foreach @arr;
-
-# To make a new DefinedTerm, with a hyperlink to the definition:
-
-# print "$_=<a href='#Def.$_.Sec' class='definedterm'>$_</a>\n" foreach @arr;
-
-# to mark the place a defined term is defined inline.
-
-# print "$_=\{_" . substr($_, 4, -4) ."\}\n" foreach @arr;
+my $output  = parse($ARGV[0], "ShowMe2");
+print $output;
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;

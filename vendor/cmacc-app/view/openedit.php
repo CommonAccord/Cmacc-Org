@@ -23,9 +23,12 @@ include("$lib_path/view-tabs.php");
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=120 rows=30 name='newcontent' style='font-size: 16px; padding:10px;'>";
 
+
+echo "//=Open parameters as of Datestamp:Timestamp (" . date("Y/m/d") . ":" . time() . "):\n\n";
+
 echo $document;
 
-echo "WAS=" . date("Y/m/d") . " : " . time() . "\n\n\n";
+echo "//=Prior existing parameters:\n\n";
 
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
 

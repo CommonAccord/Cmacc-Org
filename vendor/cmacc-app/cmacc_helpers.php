@@ -30,6 +30,16 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/doc.php');
         break;
 
+   case 'showme1':
+
+        include('./vendor/cmacc-app/view/showme1.php');
+        break;
+
+   case 'showme2':
+
+        include('./vendor/cmacc-app/view/showme2.php');
+        break;
+
     case 'edit':
 
         include('./vendor/cmacc-app/view/edit.php');
@@ -76,37 +86,8 @@ switch ($_REQUEST['action']) {
 
 case 'jaw':
 
-        if (isset($_REQUEST['submit'])) {
-
-            $file_name = $path . $dir;
-
-            if (file_exists($file_name)) {
-
-                if (is_writeable($file_name)) {
-                    $fp = fopen($file_name, "w");
-                    $data = $_REQUEST['newcontent'];
-                    $data = preg_replace('/\r\n/', "\n", $data);
-                    $data = trim($data);
-                    fwrite($fp, $data);
-                    fclose($fp);
-                } else {
-                    print '<span style="color: red">ERROR: File ' . $dir . ' is not write able.</style>';
-                }
-            } else {
-                print '<span style="color: red">ERROR: File ' . $dir . ' does not exists.</style>';
-            }
-        }
-
-        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
-        $contents = explode("\n", $content);
-        $rootdir = pathinfo($dir);
-        $filenameX = basename($dir);
-
-        //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/cmacc-app/view/jaw.php");
-
+        include('./vendor/cmacc-app/view/jaw.php');
         break;
-
 
     case 'list':
 
@@ -125,16 +106,7 @@ case 'jaw':
         include('./vendor/cmacc-app/view/print.php');
         break;
 
-   case 'kv':
 
-        include('./vendor/cmacc-app/view/print-kvs.php');
-        break;
-
-
-   case 'raw':
-
-        include('./vendor/cmacc-app/view/raw.php');
-        break;
 
     case 'source':
 
@@ -180,6 +152,12 @@ case 'jaw':
             echo "</div></div>";
         }
         break;
+
+   case 'visual':
+
+        include('./vendor/cmacc-app/view/visual.php');
+        break;
+
 
     default:
         include($_REQUEST['action'] . '.php');

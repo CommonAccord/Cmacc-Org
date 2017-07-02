@@ -12,21 +12,21 @@ if (strlen($htmlHead) > 5){
  }
 
 
-# include("$lib_path/view-tabs.php");
+include("$lib_path/view-tabs.php");
  
-# echo "<hr>";
+echo "<hr>";
 
 $lib_path = LIB_PATH;
 
-$document = `perl $lib_path/parser.pl $path/$dir`;
+$document = `perl $lib_path/parser-showme1.pl $path/$dir`;
 
 $minDocLength = 1;
 
 if (strlen($document) > $minDocLength){ 
 
-$document=str_replace("{","{{",$document);
+$document=str_replace("{","<span class='missing'>{",$document);
 
-$document=str_replace("}","}}",$document);
+$document=str_replace("}","}</span>",$document);
 
   echo $document;}
  else {
