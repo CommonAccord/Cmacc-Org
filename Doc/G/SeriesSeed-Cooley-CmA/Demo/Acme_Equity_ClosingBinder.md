@@ -26,7 +26,7 @@ Def.=[G/SeriesSeed-Cooley-CmA/Sec/DefinedTerm-Inline/0.md]
 
 Model.Root={TermSheet.Sec}  
 
-/Model.Root={PurchaseAgreement.Sec}  
+/Model.Root={PurchaseAgreement.Sec}
 
 /Model.Root={BoardConsent.Sec}
   
