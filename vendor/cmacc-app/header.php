@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
 <title><?php echo $dir ?></title>
-<link  href="Doc/Z/CSS/Doc.css" rel="stylesheet" />
+<link  href="Doc/G/Z/CSS/Doc.css" rel="stylesheet" />
 <link  href="<?php echo ASSETS_PATH; ?>/custom.css" rel="stylesheet" />
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" />
