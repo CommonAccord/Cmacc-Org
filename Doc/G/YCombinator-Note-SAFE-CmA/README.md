@@ -6,7 +6,7 @@ for the YCombinator "SAFE" Notes - http://www.ycombinator.com/documents/#safe (n
 
 The four forms of the Notes are built by referencing the Cap Discount prose object.  See list.html for more discussion. 
 
-The four Note variations each using the same term sheet can be seen in a demo at http://source.commonaccord.org/index.php?action=list&file=F/Demo/Note_YC/.
+The four Note variations each using the same term sheet can be seen in a demo at http://commonaccord.org/index.php?action=list&file=F/Demo/Note_YC/.
 
 DEPENDENCIES:
 

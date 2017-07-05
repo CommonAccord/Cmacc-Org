@@ -4,7 +4,7 @@ NDA based originally on a CooleyGo form (with permission but without endorsement
 
 The sections (in /Sec/) have common-sense names.  There are a number of alternative provisions that show some ways to create and share alternatives. 
 
-This repo is also mounted as part of source.commonaccord.org - with demos of completed NDAs at <a href="http://source.commonaccord.org/index.php?action=list&file=G/Agt-NDA-CmA/Demo/">http://source.commonaccord.org/index.php?action=list&file=G/Agt-NDA-CmA/Demo/</a>. 
+This repo is also mounted as part of commonaccord.org - with demos of completed NDAs at <a href="http://commonaccord.org/index.php?action=list&file=G/Agt-NDA-CmA/Demo/">http://commonaccord.org/index.php?action=list&file=G/Agt-NDA-CmA/Demo/</a>. 
 
 DEPENDENCIES:
 

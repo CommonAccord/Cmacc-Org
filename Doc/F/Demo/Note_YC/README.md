@@ -9,7 +9,7 @@ To avoid issues about variations to the underlying repo (Cmacc-Source), the fina
 
 DEMO:
  
-http://source.commonaccord.org/index.php?action=list&file=D/Acme/Ang-YC-Note/
+http://commonaccord.org/index.php?action=list&file=D/Acme/Ang-YC-Note/
 
 DEPENDENCIES:
 
