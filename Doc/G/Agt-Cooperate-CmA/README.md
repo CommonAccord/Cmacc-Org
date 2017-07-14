@@ -7,8 +7,13 @@ The prose object is at <a href="https://github.com/CommonAccord/Agt-Cooperate-Cm
 DEPENDENCIES:
 
 IACCM-ContractPrinciples-CmA
+
 Agt-Form-CmA
+
 U-CmA
+
 Z-CmA
+
 cmacc-app
+
 cmacc-host
