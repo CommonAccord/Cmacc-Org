@@ -15,6 +15,8 @@ echo "<a href=index.php?action=print&file=" .$dir.">".PRINT_TAB_MESSAGE."</a></b
 
 echo "<a href=index.php?action=openedit&file=" .$dir.">". COMPLETE_TAB_MESSAGE."</a> &emsp; ";
 
+echo "<a href=index.php?action=xEdit&file=" .$dir.">xEdit</a> &emsp; ";
+
 echo " &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp; ";
 
 echo "<a href=index.php?action=ipld&file=" .$dir.">". IPLD_TAB_MESSAGE
