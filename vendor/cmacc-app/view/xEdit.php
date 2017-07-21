@@ -20,7 +20,7 @@ if (strlen($htmlHead) > 5) {
       rel="stylesheet"/>
 <script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/bootstrap3-editable/js/bootstrap-editable.min.js"></script>
 <style type="text/css">
-    .missing, .definedterm, .editable {
+    .missing, .param, .editable {
         cursor: pointer;
         text-decoration: none;
         border-bottom: dashed 1px #08c !important;
@@ -34,7 +34,7 @@ if (strlen($htmlHead) > 5) {
         color: red !important;;
     }
 
-    .definedterm.editable-disabled {
+    .param.editable-disabled {
         color: green !important;
     }
 
@@ -193,9 +193,9 @@ if (strlen($document) > $minDocLength) {
 
             var $target;
             if (e.button === 2) {
-                $('.definedterm').editable('disable');
+                $('.param').editable('disable');
                 $target = $(e.target);
-                if ($target.is('.missing, .definedterm, .editable')) {
+                if ($target.is('.missing, .param, .editable')) {
                     $target.editable('enable');
                     $target.editable('show');
                 } else {
@@ -230,7 +230,7 @@ if (strlen($document) > $minDocLength) {
 //            }
 //        });
 //        //COUNT GREEN TEXT
-//        $(".definedterm").each(function (i, o) {
+//        $(".param").each(function (i, o) {
 //            var title = getCleanText($(o));
 //            if (!greenTexts.hasOwnProperty(title)) {
 //                greenTexts[title] = "";
@@ -273,7 +273,7 @@ if (strlen($document) > $minDocLength) {
         }
 
         // GREEN TEXT
-        $('.definedterm').on('init', function (e, editable) {
+        $('.param').on('init', function (e, editable) {
             editable.options.title = $(this).parent().attr('title');
         }).on('save', function (e, params) {
             var value = params.newValue;
@@ -296,7 +296,7 @@ if (strlen($document) > $minDocLength) {
                 .replace(/ editable-click| editable-open| editable-unsaved| editable/gi, '')
             );
         }).on('click', function (e) {
-            $('.definedterm').editable('disable');
+            $('.param').editable('disable');
         });
 
 

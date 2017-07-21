@@ -6,11 +6,11 @@ Logo=<img src="image/cmacc-trans.png" style="width:35%" />
 
 Site.Name=CommonAccord.Org
 
-Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td> </td><td valign="top"><br>CommonAccord is proud to be a member of:<br><img src="http://www.caissedesdepots.fr/sites/default/files/medias/labchain_internet.jpg"><br><b>Some Links:</b><br><a name="unchain-the-chain" title="financialcryptography.com" href="http://financialcryptography.com/mt/archives/001556.html"><img alt="Ian Grigg - Ricardian Contracts" src="https://pbs.twimg.com/media/CfJnq7BXIAEWwgm.jpg:small"></a><br><a href="https://cmacc-slack-add.herokuapp.com/">join commonaccord.slack.com</a><br>{TwitterBlock.sec}<br><br><b><a href="https://github.com/CommonAccord/Cmacc-Org/commits/master">Latest Activity on GitHub</a></b><br><br>{DocumentsFolder.sec}<br>{SubjectIndex.Sec}<br>{RecentWork.Sec}</td></tr></table>
+Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td> </td><td valign="top"><br>CommonAccord is proud of its work with:<br><a href="http://iaccm.com"><img src="image/iaccm-logo.png"></a><br><a href="http://www.caissedesdepots.fr/en/labchain-launched-caisse-des-depots-reveals-its-1rst-business-case"><img src="http://www.caissedesdepots.fr/sites/default/files/medias/labchain_internet.jpg"></a><br><b>Some Links:</b><br><a name="unchain-the-chain" title="financialcryptography.com" href="http://financialcryptography.com/mt/archives/001556.html"><img alt="Ian Grigg - Ricardian Contracts" src="https://pbs.twimg.com/media/CfJnq7BXIAEWwgm.jpg:small"></a><br><a href="https://cmacc-slack-add.herokuapp.com/">join commonaccord.slack.com</a><br>{TwitterBlock.sec}<br><br><b><a href="https://github.com/CommonAccord/Cmacc-Org/commits/master">Latest Activity on GitHub</a></b><br><br>{DocumentsFolder.sec}<br>{SubjectIndex.Sec}<br>{RecentWork.Sec}</td></tr></table>
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec={CmAQuick.sec}<br><br>Overview:</b><ul><li>{SSRN.sec}<li>{Slack.sec}<li> Prose Objects (our most recent work) <a href="http://commonaccord.org/index.php?action=list&file=G/Agt-Cooperate-CmA/Demo/">G/Agt-Cooperate-CmA/Demo/</a><li> {Blog.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec={CmAQuick.sec}<br><br>Overview:</b><ul><li>{SSRN.sec}<li>{Slack.sec}<li> Prose Objects (our most recent work) <a href="index.php?action=list&file=G/">Prose Objects in /G/</a><li> {Blog.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CDL.Link} 
 
@@ -56,7 +56,7 @@ SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{View
 
 Views.List.sec=Each file on the site has six "views": <a href="index.php?action=source&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">Source</a>.  E.g., click on <a href="index.php?action=doc&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">"Document"</a>.
 
-PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance): <a href="index.php?action=source&file=S/About/Landing.md">Landing Page Source</a>.
+PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance): <a href="index.php?action=source&file=S/About/Landing2.md">Landing Page Source</a>.
 
 MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Conference</a>
 

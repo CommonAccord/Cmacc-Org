@@ -48,6 +48,10 @@ span :hover {
         text-decoration: none;
 }  
 
+.param {
+	color: grey ;
+        font-weight: bold;
+}  
 
 .highlight {
 	color: purple ;
