@@ -4,7 +4,9 @@ P1.=[G/U/id/acme_ie.md]
 
 P2.=[G/U/id/quake_ie.md]
 
-_P1=<a href="#MSA.Annex.Def.Company.Sec" class="definedterm">Acme</a>
+_P1=<img src="image/chef.jpg" alt="Acme" height="30" width="90">
+
+_P2=<img src="image/foodtruck.png" alt="Quake" height="30" width="90">
 
 _P2=<a href="#MSA.Annex.Def.Supplier.Sec" class="definedterm">Quake</a>
 
