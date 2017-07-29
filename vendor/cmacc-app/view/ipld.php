@@ -1,4 +1,3 @@
-<body style="margin:20;padding:0">
 <?php
 include("header.php");
 

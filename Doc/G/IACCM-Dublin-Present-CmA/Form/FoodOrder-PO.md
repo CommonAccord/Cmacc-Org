@@ -1,6 +1,6 @@
 Doc.Ti=Common Food Supply Purchase Order ("{_PO}")
 
-0.sec=Order Date:  <span class="dealpoint">{Order Date}</span><br> {Parties.Sec}
+0.sec=Order Date:  <span class="dealpoint">{Order_Date}</span><br> {Parties.Sec}
 
 Parties.Ti=Parties:
 
@@ -14,23 +14,23 @@ Order.0.sec={_P2} will supply the following list of items (the "{_Order}"):
 
 Order.00.sec={Order.Total.sec}
 
-Order.Total.sec=The total price for the {_Order} is {Order Total Price}.
+Order.Total.sec=The total price for the {_Order} is {Order_Total_Price}.
 
 Order.=[G/Z/ol/s2]
 
-Order.secs={Ordered Items}
+Order.secs={Ordered_Items}
 
-1 Item={Order Item 1}
+1 Item={Order_Item_1}
 
-2 Items={Order Item 1}<li>{Order Item 2}
+2 Items={Order_Item_1}<li>{Order_Item_2}
 
-3 Items={Order Item 1}<li>{Order Item 2}<li>{Order Item 3}
+3 Items={Order_Item_1}<li>{Order_Item_2}<li>{Order_Item_3}
 
-4 Items={Order Item 1}<li>{Order Item 2}<li>{Order Item 3}<li>{Order Item 4}
+4 Items={Order_Item_1}<li>{Order_Item_2}<li>{Order_Item_3}<li>{Order_Item_4}
 
-5 Items={Order Item 1}<li>{Order Item 2}<li>{Order Item 3}<li>{Order Item 4}<li>{Order Item 5}
+5 Items={Order_Item_1}<li>{Order_Item_2}<li>{Order_Item_3}<li>{Order_Item_4}<li>{Order_Item_5}
 
-6 Items={Order Item 1}<li>{Order Item 2}<li>{Order Item 3}<li>{Order Item 4}<li>{Order Item 5}<li>{Order Item 6}
+6 Items={Order_Item_1}<li>{Order_Item_2}<li>{Order_Item_3}<li>{Order_Item_4}<li>{Order_Item_5}<li>{Order_Item_6}
 
 Delivery.Ti=Delivery
 
@@ -42,7 +42,7 @@ Delivery.=[G/Z/ol/s2]
 
 Comp.Ti=Compensation
 
-Comp.sec={_P1} will pay {_P2} a total of {Order Total Price}.
+Comp.sec={_P1} will pay {_P2} a total of {Order_Total_Price}.
 
 Comp.=[G/Z/ol/Base]
 
@@ -60,6 +60,6 @@ Model.Root={Doc}
 
 Secs={Order.lI}{Delivery.LI}{Comp.LI}{Terms.Li}
 
-Head.Message=<font color="grey">Order Number: <b>{Order Number}</b><br>(MSA Number: {MSA Document Number})</font>
+Head.Message=<font color="grey">Order Number: <b>{Order_Number}</b><br>(MSA Number: {MSA Document Number})</font>
 
 =[G/Z/ol/Base]

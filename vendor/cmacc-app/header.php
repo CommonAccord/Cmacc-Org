@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <head>
+<link rel='icon' href='image/CmA-Square.png'>
+
 <title><?php echo $dir ?></title>
 <link  href="Doc/G/Z/CSS/Doc.css" rel="stylesheet" />
 <link  href="<?php echo ASSETS_PATH; ?>/custom.css" rel="stylesheet" />
@@ -17,4 +19,5 @@
   </script>
 
 </head>
-<html><body>
+<body style="margin:20;padding:0">
+<html>

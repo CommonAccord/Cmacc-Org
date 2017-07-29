@@ -1,7 +1,9 @@
-<body style="margin:20;padding:0">
+
 <?php
 
+
 include("header.php");
+
 
 include("$lib_path/view-tabs.php");
 
