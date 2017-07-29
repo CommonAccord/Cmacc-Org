@@ -41,7 +41,7 @@ MSA.Annex.Def.Secrecy_and_Inventions_Agreement.Sec=   
 
 Services.Description=restaurant food supply
 
-MSA.Annex.Appoint.Affiliate.Sec=   
+MSA.Annex.Appoint.Affiliate.Sec=<i>N/A: Affiliate section deleted</i>
 
 MSA.Annex.Appoint._SOW={_PO}
 
@@ -53,26 +53,26 @@ Law.State.the=Ireland
 
 Comp.PerSchedule.sec=<i>{_P2} shall be paid as provided in any applicable {_PO}. The foregoing will be the entire compensation to be paid to {_P2} and will be in full discharge of any and all liability in contract or otherwise with respect to all {_Services} rendered by the {_P2} and {_Supplier's_Personnel}.</i>
 
-MSA.Annex.Comp.Currency.sec=     
+MSA.Annex.Comp.Currency.sec=<i>deleted</i>
 
-MSA.Annex.Comp.EarlyDiscount.sec=     
+MSA.Annex.Comp.EarlyDiscount.sec=<i>deleted</i>
 
-MSA.Annex.IP.Sec=     
+MSA.Annex.IP.Sec=<i>deleted</i>
 
 MSA.Annex.Conf.Engage.Duration=three years from the time of disclosure
 
-MSA.Annex.Assure.IP.sec=     
+MSA.Annex.Assure.IP.sec=<i>deleted</i>
 
-MSA.Annex.Comply.US-FAR-RUS.sec=     
+MSA.Annex.Comply.US-FAR-RUS.sec=<i>deleted</i>
 
-MSA.Annex.Comply.FLS.sec=     
+MSA.Annex.Comply.FLS.sec=<i>deleted</i>
 
-MSA.Annex.Comply.Equal.sec=     
+MSA.Annex.Comply.Equal.sec=<i>deleted</i>
 
-MSA.Annex.Comply.Export.sec=     
+MSA.Annex.Comply.Export.sec=<i>deleted</i>
 
-MSA.Annex.Comply.SOX.sec=     
+MSA.Annex.Comply.SOX.sec=<i>deleted</i>
 
-MSA.Annex.Conflict.Agrees.sec=     
+MSA.Annex.Conflict.Agrees.sec=<i>deleted</i>
 
 MSA.Annex.PersonalData.Comply.sec=<i>{MSA.Annex.PersonalData.Comply.Law.sec}</i>

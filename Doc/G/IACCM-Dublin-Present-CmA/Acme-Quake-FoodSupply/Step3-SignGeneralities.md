@@ -1,3 +1,5 @@
+MSA Effective Date=2017-07-20
+
 P1.xSignature=Andrea Ang
 
 P1.Sign.YMD=2017-05-04

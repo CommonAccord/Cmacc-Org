@@ -36,7 +36,7 @@ Delivery.Ti=Delivery
 
 Delivery.1.sec={_P2} will deliver the {_Order} to {_P1} at {P1.US.Adr.1,2}.
 
-Delivery.2.sec=Delivery will be completed by {Delivery Due By}.  The hours during which {_P1} receives deliveries are {Client Reception Hours}.
+Delivery.2.sec=Delivery will be completed by {Delivery_Due_By}.  The hours during which {_P1} receives deliveries are {Client Reception Hours}.
  
 Delivery.=[G/Z/ol/s2]
 
