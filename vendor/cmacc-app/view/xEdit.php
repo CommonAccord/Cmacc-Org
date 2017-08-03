@@ -279,22 +279,18 @@ if (strlen($document) > $minDocLength) {
             var value = params.newValue;
             var $currentTarget = $(e.target);
             var currentAttribute = $(this).parent().attr('title');
-            if (value.length === 0) {
-                // Back to Missing
-                if ($currentTarget.hasClass('missing')) {
-
-                } else {
-
-                }
-            } else {
+            if (value.length > 0) {
                 $('span[title="' + currentAttribute + '"]')
                     .find('a').removeClass('editable-unsaved').html(value);
+
+                saveNormalText(currentAttribute, $currentTarget
+                    .html(value)
+                    .removeAttr('data-original-title title aria-describedby')
+                    .prop('outerHTML')
+                    .replace(/ editable-click| editable-open| editable-unsaved| editable/gi, '')
+                );
             }
-            saveNormalText(currentAttribute, $currentTarget
-                .removeAttr('data-original-title title aria-describedby')
-                .prop('outerHTML')
-                .replace(/ editable-click| editable-open| editable-unsaved| editable/gi, '')
-            );
+
         }).on('click', function (e) {
             $('.param').editable('disable');
         });
@@ -435,7 +431,7 @@ if (strlen($document) > $minDocLength) {
         $("#relatedDocument").on('change', function () {
             var file = $(this).val();
             if (file !== "<?= $dir;?>") {
-                window.location.href = "/index.php?action=xEdit&file=" + file;
+                window.location.href = "index.php?action=xEdit&file=" + file;
             }
         })
 

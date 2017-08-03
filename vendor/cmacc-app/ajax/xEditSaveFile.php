@@ -32,7 +32,7 @@ if (isset($_POST['fileName']) && isset($_POST['rootFileName'])) {
                 list($oK, $oV) = array_pad(explode("=", $n, 2), 2, NULL);
                 if (strlen($oK) > 0) {
                     if (!in_array($oK, $keyAttr)) {
-                        $keyAttr[] = $oK;
+//                        $keyAttr[] = $oK;
                         $content .= "$oK=$oV\n\n";
                     }
                 } elseif (strlen(trim($oV)) > 0) {
