@@ -8,15 +8,15 @@ include("header.php");
 <div class="row " >
 <div class="container">
 <div class = "col-lg-12"  >
- 
+
 <?php
 
 if(! ($dir == './')) {
         $rootdir = pathinfo($dir);
  	
 
-	echo "<div><a href=index.php?action=list&file=><img src='" . ASSETS_PATH . "/arrowup.png' height=25></a>
-<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $rootdir['dirname']."</a>/".$rootdir['filename']."<br>";
+	echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php?action=list&file=><img src='" . ASSETS_PATH . "/arrowup.png' height=25></a>
+<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $rootdir['dirname']."</a>/".$rootdir['filename']."</h3><br>";
 
 echo "<center><a href=" . URLFORDOCSINREPO . $dir.">Github</a> &emsp;</div>";
 
