@@ -2,7 +2,7 @@
 
 Cooperation Agreement - including IACCM Principles
 
-The prose object is at <a href="https://github.com/CommonAccord/IACCM-Cooperate-CmA">https://github.com/CommonAccord/IACCM-Cooperate-CmA</a>.  The demo is at <a href="http://commonaccord.org/index.php?action=list&file=G/Agt-Consulting-CmA/">http://commonaccord.org/index.php?action=list&file=G/Agt-Consulting-CmA/</a>
+The prose object is at <a href="https://github.com/CommonAccord/IACCM-Cooperate-CmA">https://github.com/CommonAccord/IACCM-Cooperate-CmA</a>.  The demo is at <a href="http://commonaccord.org/index.php?action=list&file=G/Agt-Consulting-CmA/">http://commonaccord.org/index.php?action=list&file=G/IACCM-Consulting-CmA/</a>
 
 DEPENDENCIES:
 
