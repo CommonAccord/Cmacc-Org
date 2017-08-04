@@ -27,5 +27,3 @@ P2.Sign.YMD=2017-05-26
 SOW.=[G/IACCM-Cooperate-CmA/Form/Annex/SOW/0.md]
 
 =[G/IACCM-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]
-  
-Model.Root={SOW.Sec}
