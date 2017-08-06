@@ -26,9 +26,10 @@ $files = scandir($path.$dir);
 
 
 if(file_exists($path.$dir . 'list.html')) {
-echo "<div class='includers'>"; 
+  echo "<div>"; 
    include $path.$dir . 'list.html';
-echo "</div>";
+echo "<br><a href='index.php?action=edit&file=$dir" ;
+echo "list.html'>(Edit)</a></div>";
 }
 
 echo '<div class="listings">';
