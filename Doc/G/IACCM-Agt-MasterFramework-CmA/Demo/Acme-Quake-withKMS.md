@@ -18,7 +18,9 @@ GoverningLaw.Forum.sec={GoverningLaw.Forum.Alt1.sec}
 
 GoverningLaw.exclusive.sec={GoverningLaw.exclusive.Alt1.sec}
 
-//=We link to the desired sections:
+//=We link to the desired sections and declare section 20 removed (that is covered in KMS's Governing Law section):
+
+20.Sec=(removed)
 
 Misc.Entire.=[G/KMS-Sec-CmA/General/EntireAgreement/Standard/0.md]
 
