@@ -1,4 +1,34 @@
+Counterpart.EachParty.sec={Counterpart.EachParty.Alt1.sec}
 
+Counterpart.SignedDoc.sec={Counterpart.SignedDoc.Alt1.sec}
+
+Counterpart.Effective.sec={Counterpart.Effective.Alt1.sec}
+
+Notice.Effective.1.sec={Notice.Effective.1.Alt1.sec}
+
+3PartyRight.sec={3PartyRight.Alt1.sec}
+
+Assign.sec={Assign.Alt1.sec}
+
+Waiver.sec={Waiver.Alt1.sec}
+
+Conf.Engage.sec={Conf.Engage.Alt1.sec}
+
+Terminate.AtWillByCustomer.sec={Terminate.AtWillByCustomer.Alt1.sec}
+
+Construe.Material_Breach.Alt1.00.sec={Construe.Material_Breach.Alt1.00.Alt1.sec}
+
+Construe.Material_Breach.sec={Construe.Material_Breach.Alt1.sec}
+
+Terminate.ChangeOfControl.sec={Terminate.ChangeOfControl.Alt1.sec}
+
+Terminate.Bankruptcy.sec={Terminate.Bankruptcy.Alt1.sec}
+
+Terminate.NegotiateWithCreditors.sec={Terminate.NegotiateWithCreditors.Alt1.sec}
+
+Terminate.SuspendDebtPayment.sec={Terminate.SuspendDebtPayment.Alt1.sec}
+
+Construe.HoldingCompany.sec={Construe.HoldingCompany.Alt1.sec}
 
 Doc.Ti=Framework for Acme and Quake
 
@@ -11,40 +41,6 @@ P1.=[G/U/id/acme_incorporated.md]
 P2.=[G/U/id/quake_incorporated.md]
 
 =[G/IACCM-Agt-MasterFramework-CmA/Form/Framework/0.md]
-
-1.2.5.sec={1.2.5.Alt2.sec}
-
-10.3.sec={10.3.Alt1.sec}
-
-14.sec={14.Alt1.sec}
-
-16.1.sec={16.1.Alt2.sec}
-
-16.2.sec={16.2.Alt1.sec}
-
-17.2.1.sec={17.2.1.Alt1.sec}
-
-18.2.sec={18.2.Alt1.sec}
-
-18.3.sec={18.3.Alt1.sec}
-
-6.1.13.sec={6.1.13.Alt1.sec}
-
-6.1.2.sec={6.1.2.Alt1.sec}
-
-6.1.3.sec={6.1.3.Alt1.sec}
-
-6.1.4.sec={6.1.4.Alt1.sec}
-
-6.1.9.sec={6.1.9.Alt2.sec}
-
-6.2.Alt1.00.sec={6.2.Alt1.00.Alt1.sec}
-
-6.2.sec={6.2.Alt1.sec}
-
-6.3.sec={6.3.Alt1.sec}
-
-8.1.sec={8.1.Alt2.sec}
 
 AfterPosting.sec={AfterPosting.Alt1.sec}
 
@@ -98,9 +94,8 @@ Survive.Sections.sec={Survive.Sections.Alt1.sec}
 
 Terminate.AtWillByCustomer.TimeSpan=six (6) months
 
-Termination.NoticeForm.sec={Termination.NoticeForm.Alt2.sec}
+Terminate.NoticeForm.sec={Terminate.NoticeForm.Alt2.sec}
 
 Waive.Innocent.sec={Waive.Innocent.Alt1.sec}
 
 WrittenMedia.sec={WrittenMedia.Alt2.sec}
-
