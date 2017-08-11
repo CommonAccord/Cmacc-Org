@@ -34,7 +34,7 @@ Doc.Ti=Framework for Acme and Quake
 
 _P2=<span id="Def.Supplier.sec">{_Supplier}</span>
 
-_P1=<span id="Def.Customer.sec">{_Company}</span>
+_P1=<span id="Def.Customer.sec">{_Customer}</span>
 
 P1.=[G/U/id/acme_incorporated.md]
 
