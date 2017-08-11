@@ -1,0 +1,33 @@
+(zF/00/Agt/Outline/0.md)
+
+Relate.=[ipfs/QmPMgEo5od4kfAhQ7yvK77NkWe1u8tVpXBdxkozefR7Xri]  
+
+General.=[ipfs/QmPHwBPFTZfX9HaseQK4xiWdLUYdHaLsDKq4kxQqKvBCvW]
+
+This.Div=<br>{This.Sec}<br>
+
+This.Sec={This.sec}
+
+Why.Div=<br><br>{Why.Sec}
+
+Why.Sec=<b>{Why.Ti}</b><br>{Why.sec}
+
+Why.sec=<ul type="none"><li>{Why.secs}</li></ul>
+
+Why.sec=<ul type="none"><li>{Why.secs}</li></ul>
+
+That.Div={That.Sec}<br><br>
+
+That.Sec={That.sec}
+
+Text.Div={Text.sec}<br><br>
+
+Text.sec={sec}
+
+Annex.Div=<hr><hr>{Annex.Sec}
+
+Annex.Sec=<center><h4>{Annex.Ti}</h4></center><br>{Annex.sec}
+
+sec=<ol>{Front.LI}{Relate.LI}{General.LI}</ol>
+
+Model.Root={Frame.Head.Div}{This.Div}{Why.Div}<br>{That.Div}{Text.Div}{Frame.By.Div}{Annex.Div}

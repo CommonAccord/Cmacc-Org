@@ -1,0 +1,675 @@
+
+ABA/MSPA/Sec/ABA-MSPA_md
+
+Ti=REPRESENTATIONS AND WARRANTIES OF SELLERS
+
+Sec=<b>{Ti}</b><br/>{Intro}:<ol><li>{Org.Sec}<li>{Authority.Sec}<li>{Cap.Sec}<li>{FinanState.Sec}<li>{Record.Sec}<li>{Property.Sec}<li>{ConditionOfAssets.Sec}<li>{AccountReceivable.Sec}<li>{Inventory.Sec}<li>{Liability.Sec}<li>{Tax.Sec}<li>{MAC.Sec}<li>{EmpBenefit.Sec}<li>{Compliance.Sec}<li>{Litig.Sec}<li>{Event.Sec}<li>{Contract.Sec}<li>{Insurance.Sec}<li>{Environment.Sec}<li>{Personnel.Sec}<li>{Labor.Sec}<li>{IP.Sec}<li>{FCPA+.Sec}<li>{Insider.Sec}<li>{Securities.Sec}<li>{CustomerAndSupplier.Sec}<li>{ProductLiability.Sec}<li>{Broker.Sec}<li>{True.Sec}</li></ol>
+
+Intro={Sellers}, jointly and severally, represent and warrant to {Buyer} as follows
+
+Org.Sec=<b>{Org.Ti}</b><ol type="a"><li>{Org.1.Sec}<li>{Org.2.Sec}<li>{Org.3.Sec}</li></ol>
+
+Org.Ti=ORGANIZATION AND GOOD STANDING
+
+Org.1.Sec=Part {3.1} lists, for each {Acquired_Company}, its legal name, its type of legal entity, its jurisdiction of organization, and each jurisdiction in which it is qualified to do business as a foreign entity.  Each {Acquired_Company} is duly organized, validly existing, and in good standing under the laws of its jurisdiction of organization, with full power and authority to conduct its business as it is being conducted, to own or use its assets, and to perform all its obligations under {Applicable_Contracts}.  Each {Acquired_Company} is duly qualified to do business as a foreign entity and is in good standing under the laws of each jurisdiction that requires such qualification.
+
+Org.2.Sec={Sellers} have delivered to {Buyer} copies of the {Organizational_Documents} of each {Acquired_Company}.  No {Acquired_Company} is in default under or in violation of any of its {Organizational_Documents}.
+
+Org.3.Sec=No {Acquired_Company} has conducted business under or otherwise used, for any purpose or in any jurisdiction, any legal, fictitious, assumed, or trade name other than the names listed in Part {3.1}.
+
+Authority.Sec=<b>{Authority.Ti}</b><ol type="a"><li>{Authority.1.Sec}<li>{Authority.2.Sec}<li>{Authority.3.Sec}</li></ol>
+
+Authority.Ti=ENFORCEABILITY AND AUTHORITY; NO CONFLICT
+
+Authority.1.Sec={This_Agreement} has been duly executed and delivered by each {Seller} and constitutes the legal, valid, and binding obligation of each {Seller}, enforceable against each {Seller} in accordance with its terms.  Upon the execution and delivery of {Sellers'_Closing_Documents} by each {Seller} party thereto, each {Sellers'_Closing_Document} will constitute the legal, valid, and binding obligation of such {Seller}, enforceable against such {Seller} in accordance with its terms.  Each {Seller} has the absolute and unrestricted right, power, authority, and capacity to execute and deliver, and to perform its obligations under, {this_Agreement} and each {Sellers'_Closing_Document} to which it is a party.
+
+Authority.2.Sec={Authority.2.Intro}:<ol type="i"><li>{Authority.2.1.Sec};<li>{Authority.2.2.Sec};<li>{Authority.2.3.Sec};<li>{Authority.2.4.Sec};<li>{Authority.2.5.Sec};<li>{Authority.2.6.Sec};<li>{Authority.2.7.Sec}; or<li>{Authority.2.08.Sec}.</li></ol>
+
+Authority.2.Intro=Except as set forth in Part {3.2(b)}, neither the execution and delivery of {this_Agreement} nor the consummation or performance of any {Contemplated_Transaction} will, directly or indirectly (with or without notice or lapse of time)
+
+Authority.2.1.Sec=contravene, conflict with, or violate (A) any {Organizational_Document} of any {Acquired_Company}, or (B) any resolution adopted by the board of directors or the shareholders (or {Persons} exercising similar authority) of any {Acquired_Company}
+
+Authority.2.2.Sec=contravene, conflict with, or violate, or give any {Governmental_Body} or other {Person} the right to challenge any {Contemplated_Transaction}, or to exercise any remedy or obtain any relief under, any {Legal_Requirement} or any {Order} to which any {Acquired_Company} or any {Seller}, or any assets owned or used by any {Acquired_Company}, could be subject
+
+Authority.2.3.Sec=contravene, conflict with, violate, result in the loss of any benefit to which any {Acquired_Company} is entitled under, or give any {Governmental_Body} the right to revoke, suspend, cancel, terminate, or modify, any {Governmental_Authorization} held by any {Acquired_Company} or that otherwise relates to the business of, or any assets owned or used by, any {Acquired_Company}
+
+Authority.2.4.Sec=cause {Buyer} or any {Acquired_Company} to become subject to, or to become liable for payment of, any Tax
+
+Authority.2.5.Sec=cause any assets owned or used by any {Acquired_Company} to be reassessed or revalued by any {Governmental_Body}
+
+Authority.2.6.Sec={Breach}, or give any {Person} the right to declare a default or exercise any remedy or to obtain any additional rights under, or to accelerate the maturity or performance of, or payment under, or cancel, terminate, or modify, any Applicable {Contract} or any {Contract} to which any {Seller} or any {Acquired_Company} is a party
+
+Authority.2.7.Sec=result in the imposition or creation of any {Encumbrance} upon, or with respect to, any assets owned or used by any {Acquired_Company}
+
+Authority.2.08.Sec=result in, or give any other {Person} the right or option to cause or declare:  (A) a loss of any Intellectual Property Asset, (B) the release, disclosure, or delivery of any Intellectual Property Asset by or to any escrow agent or other {Person}, or (C) the grant, assignment, or transfer to any other {Person} of any license, {Encumbrance}, or other right or interest under, to, or in any Intellectual Property Asset
+
+Authority.3.Sec=Except as set forth in Part {3.2(c)}, no {Seller} or {Acquired_Company} is or shall be required to give notice to, or obtain {Consent} from, any {Person} in connection with the execution and delivery of {this_Agreement} or the consummation or performance of any {Contemplated_Transaction}.
+
+Cap.Sec=<b>{Cap.Ti}</b><ol type="a"><li>{Cap.1.Sec}<li>{Cap.2.Sec}<li>{Cap.3.Sec}</li></ol>
+
+Cap.Ti=CAPITALIZATION OF COMPANY AND SUBSIDIARIES
+
+Cap.1.Sec=The authorized {Equity_Securities} of {the_Company} consist of {Cap.Common.Auth.#} shares of common stock, par value ${Cap.Common.Par.$} per share, of which {Cap.Common.Issued.#} shares, constituting {the_Shares}, are issued and outstanding.  {Sellers} are the owners (of record and beneficially) of all of {the_Shares}, free and clear of all {Encumbrances}, including any restriction on the right of any {Seller} to transfer {the_Shares} to {Buyer} pursuant to {this_Agreement}.  The assignments, endorsements, stock powers, or other instruments of transfer to be delivered by each {Seller} to {Buyer} at {the_Closing} will be sufficient to transfer such {Seller}'s entire interest in {the_Shares} (of record and beneficially) owned by such {Seller}.  Upon transfer to {Buyer} of the certificates representing {the_Shares}, {Buyer} will receive good title to {the_Shares}, free and clear of all {Encumbrances}.  Part {3.3(a)} lists {Sellers} and the number of {Shares} held by each {Seller}.
+
+Cap.2.Sec=Part {3.3(b)} lists for each {Subsidiary} its authorized {Equity_Securities}, the number and type of {Equity_Securities} issued and outstanding, and the identity of each owner (of record and beneficially) of such {Equity_Securities} and number of shares held by each holder.  All outstanding {Equity_Securities} of each {Subsidiary} are owned of record and beneficially by one or more of the {Acquired_Companies}, free and clear of all {Encumbrances}.  All the outstanding {Equity_Securities} of each {Acquired_Company} have been duly authorized and validly issued, and are fully paid and nonassessable.  Except as set forth in Part {3.3(b)}, there are no shareholder or other {Contracts} relating to any {Equity_Security} of any {Acquired_Company}, including the sale, voting, or transfer thereof.  No outstanding {Equity_Security} or other security of any {Acquired_Company} was issued in violation of the {Securities_Act} or any other {Legal_Requirement}.  No {Acquired_Company} has any outstanding subscription, option, warrant, call or exchange right, convertible security, or other {Contract} or other obligations in effect giving any {Person} (other than another {Acquired_Company}) the right to acquire (whether by preemptive rights or otherwise) any {Equity_Security} of any {Acquired_Company}.
+
+Cap.3.Sec=No {Acquired_Company} owns, or is a party to or bound by any {Contract} to acquire, any {Equity_Security} or other security of any {Person} or any direct or indirect equity or ownership interest in any other business.  No {Acquired_Company} is obligated to provide funds to or make any investment (whether in the form of a loan, capital contribution, or otherwise) in any other {Person}.
+
+FinanState.Sec=<b>{FinanState.Ti}</b><br/>{FinanState.Tx}
+
+FinanState.Ti=FINANCIAL STATEMENTS
+
+FinanState.Tx={FinanState.1.Sen}  {FinanState.2.Sen}
+
+FinanState.1.Sen={Sellers} have delivered to {Buyer}:  (a) audited consolidated balance sheets of {the_Company_and_its_Subsidiaries} as at {FS.Audited.YMD} (the "{Balance_Sheet_Date}") and as at {YMD}, and the related audited consolidated statements of income, changes in shareholders' equity, and cash flows for each of the {Fiscal.Years.#} fiscal years ended on such dates, including the notes thereto, together with the report thereon of {the_Company}'s independent public accountants, (collectively, the "Audited {Financial_Statements}"), and (b) an unaudited consolidated balance sheet (the "{Interim_Balance_Sheet}") of {the_Company_and_its_Subsidiaries} as at {FS.Unaudited.YMD} (the "{Interim_Balance_Sheet_Date}"), and the related unaudited consolidated statements of income, changes in shareholders' equity, and cash flows for the {FS.Unaudited.Months.#} months then ended, certified by the chief financial officer of {the_Company} (collectively, the "Unaudited {Financial_Statements}", and together with the Audited {Financial_Statements}, the "{Financial_Statements}").
+
+FinanState.2.Sen=The {Financial_Statements} (i) fairly present the consolidated financial condition and the results of operations, changes in shareholders' equity, and cash flows of {the_Company_and_its_Subsidiaries} as at the respective dates of, and for the periods referred to in, the {Financial_Statements}, and (ii) were prepared in accordance with {GAAP}, subject, in the case of the Unaudited {Financial_Statements}, to normal recurring year-end adjustments (the effect of which will not, individually or in the aggregate, be material) and the absence of notes (that, if presented, would not differ materially from those included in the Audited {Financial_Statements}).  The {Financial_Statements} reflect the consistent application of {GAAP} throughout the periods involved, except as disclosed in the notes to the Audited {Financial_Statements}.  No financial statements of any {Person} other than the {Acquired_Companies} are required by {GAAP} to be included or reflected in the {Financial_Statements}.  The {Financial_Statements} were prepared from, and are consistent with, the accounting {Records} of each {Acquired_Company}.  {Sellers} have also delivered to {Buyer} copies of all letters from {the_Company}'s auditors to {the_Company}'s board of directors or audit committee thereof during the 36 months prior to the date of {this_Agreement}, together with copies of all responses thereto.
+
+Record.Sec=<b>{Record.Ti}</b><br/><ol type="a"><li>{Record.1.Sec}<li>{Record.2.Sec}</li></ol>
+
+Record.Ti=BOOKS AND RECORDS
+
+Record.1.Sec=The books of account and other {Records} of each {Acquired_Company}, all of which have been made available to {Buyer}, are complete and correct, represent actual, bona fide transactions, and have been maintained in accordance with sound business practices and the requirements of Section 13(b)(2) of the {Exchange_Act} (whether or not any {Acquired_Company} is subject to that Section).  The {Acquired_Companies} have implemented and maintain a system of internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the {Exchange_Act}) sufficient to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with {GAAP}, including that (i) transactions are executed in accordance with management's general or specific authorizations, (ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with {GAAP} and to maintain asset accountability, (iii) access to assets is permitted only in accordance with management's general or specific authorization, and (iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences.
+
+Record.2.Sec=The minute books of each {Acquired_Company} contain complete and correct {Records} of all meetings held of, and actions taken by written consent of, the holders of voting securities, the board of directors or {Persons} exercising similar authority, and committees of the board of directors or such {Persons} of such {Acquired_Company}, and no meeting of any such holders, board of directors, {Persons}, or committee has been held, and no other action has been taken, for which minutes or other evidence of action have not been prepared and are not contained in such minute books.  Each {Acquired_Company} has at all times maintained complete and correct {Records} of all issuances and transfers of its {Equity_Securities}.  At {the_Closing}, all such minute books and {Records} will be in the possession of {the_Company} and located at {Books.Location}.
+
+Property.Sec=<b>{Property.Ti}</b><br/><ol type="a"><li>{Property.1.Sec}<li>{Property.2.Sec}<li>{Property.3.Sec}<li>{Property.4.Sec}</li></ol>
+
+Property.Ti=REAL AND PERSONAL PROPERTY
+
+Property.1.Sec=Part {3.6(a)} lists all real estate owned by each {Acquired_Company} (the "{Owned_Real_Property}"), including the legal description, street address, and any tax parcel identification number of each property, and the {Acquired_Company} that owns such property.  {Sellers} have delivered to {Buyer} copies of the deeds and other instruments by which any {Acquired_Company} acquired the {Owned_Real_Property} and copies of all title insurance policies, opinions, abstracts, and surveys in the possession of {Sellers} or any {Acquired_Company} relating to the {Owned_Real_Property}.
+
+Property.2.Sec= Part {3.6(b)} lists all real estate leased by any {Acquired_Company} as a lessee, sub-lessee, or assignee (the "{Leased_Real_Property}" and, together with the {Owned_Real_Property}, the "{Real_Property}"), including a description of the premises leased and the {Acquired_Company} that leases the same.  All {Leased_Real_Property} is leased pursuant to valid written leases listed in Part {3.17(a)}.  Such leases contain the entire agreement between the landlord of each of the leased premises and the {Acquired_Company}, and there is no other {Contract} between the landlord and any {Acquired_Company} affecting such {Leased_Real_Property}.  No {Acquired_Company} leases {Real_Property} as a lessor or sub-lessor.
+
+Property.3.Sec=The {Owned_Real_Property} and the {Acquired_Companies}' interests in the {Leased_Real_Property} are owned by the respective {Acquired_Companies} free and clear of all {Encumbrances}, variances, or limitations of any nature, other than  {Permitted_Encumbrances} and as set forth in Part {3.6(c)}.  All buildings, plants, and structures owned by any {Acquired_Company} lie wholly within the boundaries of the {Real_Property} in question and do not encroach upon the property of, or otherwise conflict with the property rights of, any other {Person}.  There are no buildings, structures, fixtures, or other improvements primarily situated on adjoining property that encroach on any part of the {Real_Property}.  Each parcel of {Real_Property} abuts on, and has direct vehicular access to, a public road or has access to a public road via a permanent, irrevocable, appurtenant easement benefiting such {Real_Property} and constituting a part thereof.  Certificates of occupancy are in full force and effect for each location of {Real_Property}, and the uses thereof being made by the {Acquired_Companies} do not violate any applicable zoning, subdivision, land use, or other {Legal_Requirement}.  No {Third_Party} has a right to acquire any interest in the {Owned_Real_Property} or in the {Acquired_Companies}' interests in the {Leased_Real_Property}.  There is no existing or proposed plan to modify or realign any street or highway or any existing or proposed eminent domain {Proceeding} that would result in the taking of all or any part of any parcel of {Real_Property} or that would prevent or hinder the continued use of any such parcel as used by the {Acquired_Companies}.  None of the {Real_Property} is located within a flood plain for flood insurance purposes.
+
+Property.4.Sec=The {Acquired_Companies} own all tangible personal property reflected as owned in {the_Interim_Balance_Sheet} (other than inventory sold since {the_Interim_Balance_Sheet} Date in the {Ordinary_Course_of_Business}), free and clear of all {Encumbrances}, other than  {Permitted_Encumbrances} and as set forth in Part {3.6(d)}.  All the tangible personal property purchased or otherwise acquired by the {Acquired_Companies} since {the_Interim_Balance_Sheet} Date (other than inventory acquired and sold since {the_Interim_Balance_Sheet} Date in the {Ordinary_Course_of_Business}) is owned by the {Acquired_Companies} free and clear of all {Encumbrances}, other than  {Permitted_Encumbrances} and as set forth in  Part {3.6(d)}.  A copy of the fixed asset register of each {Acquired_Company} has been delivered to {Buyer}.  Each such register contains a complete and correct list of the fixed assets of the applicable {Acquired_Company} as of the date specified.
+
+ConditionOfAssets.Sec=<b>{ConditionOfAssets.Ti}</b><br/><ol type="a" ><li>{ConditionOfAssets.1.Sec}<li>{ConditionOfAssets.2.Sec}</li></ol>
+
+ConditionOfAssets.Ti=CONDITION AND SUFFICIENCY OF ASSETS
+
+ConditionOfAssets.1.Sec=The buildings, plants, structures, and equipment owned or leased by the {Acquired_Companies} are structurally sound, in good operating condition and repair, and adequate for the uses to which they are being put, and none of such buildings, plants, structures, or equipment is in need of maintenance or repairs other than ordinary, routine maintenance that is not material in nature or cost.
+
+ConditionOfAssets.2.Sec=The assets owned and leased by each {Acquired_Company} constitute all the assets used in connection with the business of such {Acquired_Company}.  Such assets constitute all the assets necessary for such {Acquired_Company} to continue to conduct its business following {the_Closing} as it is being conducted.
+
+AccountReceivable.Sec=<b>{AccountReceivable.Ti}</b><br/>{AccountReceivable.Tx}
+
+AccountReceivable.Ti=ACCOUNTS RECEIVABLE
+
+AccountReceivable.Tx=All accounts receivable of each {Acquired_Company}, whether or not reflected on {the_Interim_Balance_Sheet}, represent valid obligations arising from sales actually made or services actually performed in the {Ordinary_Course_of_Business}.  The accounts receivable of each {Acquired_Company} are current and collectible net of the reserve shown on {the_Interim_Balance_Sheet} (which reserve is adequate and calculated consistent with past practice in the preparation of the {Financial_Statements}).  Subject to such reserve, each of the accounts receivable either has been or will be collected in full, without any setoff, expense, or other reduction, within 90 days after the day on which it first becomes due and payable.  There is no contest, claim, defense, or right of setoff, other than returns in the {Ordinary_Course_of_Business}, with respect to any account receivable.  Part {3.8} lists and sets forth the aging of all accounts receivable as of {the_Interim_Balance_Sheet} Date.
+
+Inventory.Sec=<b>{Inventory.Ti}</b><br/>{Inventory.Tx}
+
+Inventory.Ti=INVENTORIES
+
+Inventory.Tx=All inventories of each {Acquired_Company}, whether or not reflected on {the_Interim_Balance_Sheet}, consist of a quality and quantity usable and, with respect to finished goods, saleable, in the {Ordinary_Course_of_Business}.  No {Acquired_Company} is in possession of any goods not owned by such {Acquired_Company}.  Except as set forth in Part {3.9}, the inventories (other than goods in transit) of each {Acquired_Company} are located on the premises of an {Acquired_Company}.  All inventories are valued at the lower of cost or {Inventory.marknet-FILO} basis consistent with past practice used in the preparation of the {Financial_Statements}.  The reserve for obsolescence with respect to inventories{Inventory.Time} is adequate and calculated consistent with past practice.  Inventories that were purchased after {the_Interim_Balance_Sheet} Date were purchased in the {Ordinary_Course_of_Business} at a cost not exceeding market prices prevailing at the time of purchase for items of similar quality and quantity.  The quantities of each item of inventory are not excessive, but are reasonable for the continued operation of each {Acquired_Company} in the {Ordinary_Course_of_Business}.
+
+Inventory.marknet-FILO=<b>market / net realizable value on a [first-in, first-out] [last-in, first-out]</b>
+
+Inventory.Inventory.Time=<b> [as adjusted for the passage of time,]</b>
+
+Liability.Sec=<b>{Liability.Ti}</b><br/>{Liability.Tx}
+
+Liability.Ti=NO UNDISCLOSED LIABILITIES
+
+Liability.Tx=Except as set forth in Part {3.10}, no {Acquired_Company} has any liability or obligation of any nature (whether known or unknown and whether absolute, accrued, contingent, or otherwise) other than liabilities or obligations to the extent shown on {the_Interim_Balance_Sheet} and current liabilities incurred in the {Ordinary_Course_of_Business} since the date of {the_Interim_Balance_Sheet}.
+
+Tax.Sec=<b>{Tax.Ti}</b><ol type="a"><li>{Tax.1.Sec}<li>{Tax.2.Sec}<li>{Tax.3.Sec}<li>{Tax.4.Sec}<li>{Tax.5.Sec}</li></ol>
+
+Tax.Ti=TAXES
+
+Tax.1.Sec=<b>{Tax.1.Ti}</b><ol type="i"><li>{Tax.1.1.Sec}<li>{Tax.1.2.Sec}<li>{Tax.1.3.Sec}<li>{Tax.1.4.Sec}<li>{Tax.1.5.Sec}<li>{Tax.1.6.Sec}<li>{Tax.1.7.Sec}</li></ol>
+
+Tax.1.Ti=Filed Returns and Tax Payments
+
+Tax.1.1.Sec=Each {Acquired_Company} has filed or caused to be filed on a timely basis all {Tax_Returns} that were required to be filed by or with respect to it, either separately or as a member of a group of corporations, pursuant to applicable {Legal_Requirements}.
+
+Tax.1.2.Sec=No {Acquired_Company} has requested any extension of time within which to file any {Tax_Return}, except as to a {Tax_Return} that has since been timely filed.
+
+Tax.1.3.Sec=All {Tax_Returns} filed by (or that include on a consolidated basis) any {Acquired_Company} are complete and correct and comply with applicable {Legal_Requirements}.
+
+Tax.1.4.Sec=Each {Acquired_Company} has paid, or made provision for the payment of, all {Taxes} that have or could have become due for all periods covered by any {Tax_Return} or otherwise, including pursuant to any assessment received by {Sellers} or any {Acquired_Company}, except such {Taxes}, if any, that are listed in Part {3.11(a)} and that are being contested in good faith by appropriate {Proceedings} and for which adequate reserves have been provided in {the_Interim_Balance_Sheet}.
+
+Tax.1.5.Sec=Each {Acquired_Company} has withheld or collected and paid to the proper {Governmental_Body} or other {Person} all {Taxes} required to be withheld, collected, or paid by it.
+
+Tax.1.6.Sec=Part {3.11(a)} lists each {Tax_Return} filed by any {Acquired_Company} since {Tax.1.6.AcqCoTaxReturnSince}, and {Sellers} have delivered to {Buyer} copies of all such {Tax_Returns}.
+
+Tax.1.7.Sec=No claim has ever been made by any {Governmental_Body} in a jurisdiction where any {Acquired_Company} does not file {Tax_Returns} that it is or could be subject to taxation by that jurisdiction, nor is there any reasonable basis for such a claim.
+
+Tax.2.Sec=<b>{Tax.2.Ti}</b><ol type="i"><li>{Tax.2.1.Sec}<li>{Tax.2.2.Sec}<li>{Tax.2.3.Sec}<li>{Tax.2.4.Sec}<li>{Tax.2.5.Sec}<li>{Tax.2.6.Sec}</li></ol>
+
+Tax.2.Ti=Audited or Closed Tax Years
+
+Tax.2.1.Sec=Except as set forth in Part {3.11(b)}, all {Tax_Returns} of each {Acquired_Company} have been audited by the {IRS} or other {Governmental_Body} or are closed by the applicable statute of limitations for all taxable years through {Tax.2.1.TaxYearsClosed}.
+
+Tax.2.2.Sec=Part {3.11(b)} lists all audits of all {Tax_Returns}, including a description of the nature and, if completed, the outcome of each audit since {Tax.2.2.TaxAuditSince.Year}.  {Sellers} have delivered copies of any reports, statements of deficiencies, or similar items with respect to such audits.  Part {3.11(b)} describes all adjustments to any {Tax_Return} filed by or with respect to any {Acquired_Company} for all taxable years since {Tax.2.2.TaxAdjustSince.Year}, and the resulting deficiencies proposed by the {IRS} or other {Governmental_Body}.  Part {3.11(b)} lists all deficiencies proposed as a result of such audits, all of which have been paid or, as set forth in Part 3.11(b), have been settled or are being contested in good faith by appropriate {Proceedings}.  Except as set forth in Part 3.11(b), to the {Knowledge} of {Sellers}, no {Governmental_Body} will assess any additional taxes for any period for which {Tax_Returns} have been filed.
+
+Tax.2.3.Sec=Except as set forth in Part {3.11(b)}, no {Tax_Return} of any {Acquired_Company} is under audit by the {IRS} or other {Governmental_Body}, and no notice of such an audit has been received by any {Acquired_Company}.  To the {Knowledge} of {Sellers}, there are no threatened {Proceedings} for or relating to {Taxes}, and there are no matters under discussion with the {IRS} or other {Governmental_Body} with respect to {Taxes}.  Except as set forth in Part {3.11(b)}, no issues relating to {Taxes} have been raised in writing by the {IRS} or other {Governmental_Body} during any pending audit, and no issues relating to {Taxes} have been raised in writing by the {IRS} or other {Governmental_Body} in any audit that could recur in a later taxable period.  Except as set forth in Part {3.11(b)}, there is no proposed Tax assessment against any {Acquired_Company}.
+
+Tax.2.4.Sec=Except as set forth in Part {3.11(b)}, no {Proceedings} are pending before the {IRS} or other {Governmental_Body} with respect to the {Taxes} of any {Acquired_Company}.
+
+Tax.2.5.Sec=Except as set forth in Part {3.11(b)}, no {Seller} or {Acquired_Company} has given or been requested to give waivers or extensions (or is or would be subject to a waiver or extension given by any other {Person}) of any statute of limitations relating to the payment of {Taxes} of any {Acquired_Company} or for which any {Acquired_Company} could be liable.
+
+Tax.2.6.Sec=Except as set forth in Part {3.11(b)}, no {Encumbrance} for {Taxes} exists with respect to any assets of any {Acquired_Company}, except statutory liens for {Taxes} not yet due.
+
+Tax.3.Sec=<b>{Tax.3.Ti}</b><br/>{Tax.3.Tx}
+
+Tax.3.Ti=Accruals and Reserves
+
+Tax.3.Tx=The charges, accruals, and reserves with respect to {Taxes} on the accounting {Records} of each {Acquired_Company} are adequate and are at least equal to that {Acquired_Company}'s liability for {Taxes} and to the {Acquired_Companies}' liability for {Taxes} on a consolidated basis, respectively.
+
+Tax.4.Sec=<b>{Tax.4.Ti}</b><br/><ol type="i"><li>{Tax.4.1.Sec}<li>{Tax.5.2.Sec}</ol>
+
+Tax.4.Ti=Status of {Acquired_Companies}
+
+Tax.4.1.Sec=No {Acquired_Company} is, or within the five-year period preceding the date of {this_Agreement} has been, an "S corporation" within the meaning of Section 1361(a)(1) of {the_Code}.
+
+Tax.4.2.Sec=No {Acquired_Company} has been a member of any affiliated group of corporations (other than a group of which {the_Company} is the common parent) which has filed a combined, consolidated, or unitary income {Tax_Return} with any {Governmental_Body}.  No {Acquired_Company} is liable for the {Taxes} of any {Person} (other than another {Acquired_Company}) under Treasury Regulation Section 1.1502-6 or any similar provision of any applicable {Legal_Requirement}, as a transferee or successor, by contract, or otherwise.
+
+Tax.5.Sec=<b>{Tax.5.Ti}</b><ol type="i"><li>{Tax.5.1.Sec}<li>{Tax.5.2.Sec}<li>{Tax.5.3.Sec}<li>{Tax.5.4.Sec}<li>{Tax.5.5.Sec}<li>{Tax.5.6.Sec}<li>{Tax.5.7.Sec}<li>{Tax.5.08.Sec}</li></ol>
+
+Tax.5.Ti=Miscellaneous
+
+Tax.5.1.Sec=There is no tax sharing agreement, tax allocation agreement, tax indemnity obligation, or similar agreement, arrangement, understanding, or practice, oral or written, with respect to {Taxes} that will require any payment by any {Acquired_Company}.
+
+Tax.5.2.Sec=No {Acquired_Company} is a party to any {Contract} that could result separately or in the aggregate in any payment (A) of an "excess parachute payment" within the meaning of Section 280G of {the_Code}, or (B) that would not be deductible as a result of the application of Section 404 of {the_Code}.
+
+Tax.5.3.Sec=No {Acquired_Company} is required to include in income any adjustment pursuant to Section 481 of {the_Code} by reason of a voluntary change in accounting method initiated by any {Acquired_Company}, and the {IRS} has not proposed any such change in accounting method.
+
+Tax.5.4.Sec=No {Seller} is a foreign person within the meaning of Section 1445(f)(3) of {the_Code}.  No {Acquired_Company} has been a United States real property holding corporation within the meaning of Section 897(c)(2) of {the_Code} during the applicable period specified in Section 897(c)(1)(A)(ii).
+
+Tax.5.5.Sec=Except as set forth in Part {3.11(e)}, no {Acquired_Company} has received, been the subject of, or requested a written ruling of a {Governmental_Body} relating to {Taxes}, and no {Acquired_Company} has entered into a {Contract} with a {Governmental_Body} relating to {Taxes} that would have a continuing effect after {the_Closing_Date}.
+
+Tax.5.6.Sec=Each {Acquired_Company} has disclosed on its federal income {Tax_Returns} all positions taken by it that could give rise to substantial understatement of federal income Tax within the meaning of Section 6662 of {the_Code}.
+
+Tax.5.7.Sec=No {Acquired_Company} has ever distributed stock of another {Person} or had its stock distributed by another {Person}, in a transaction that purported or was intended to be governed in whole or in part by {Code} Section 355 or {Code} Section 361.
+
+Tax.5.08.Sec=No {Acquired_Company} has participated in any "reportable transaction" as defined in Treasury Regulation Section 1.6011-4(b).
+
+MAC.Sec=<b>{MAC.Ti}</b><br/>{MAC.Tx}
+
+MAC.Ti=NO MATERIAL ADVERSE CHANGE
+
+MAC.Tx=Since the {Balance_Sheet_Date}, no {Acquired_Company} has suffered any {Material_Adverse_Change} and no event has occurred, and no circumstance exists, that can reasonably be expected to result in a {Material_Adverse_Change}.
+
+EmpBenefit.Sec=<b>{EmpBenefit.Ti}</b><ol type="a"><li>{EmpBenefit.1.Sec}<li>{EmpBenefit.2.Sec}<li>{EmpBenefit.3.Sec}<li>{EmpBenefit.4.Sec}<li>{EmpBenefit.5.Sec}<li>{EmpBenefit.6.Sec}<li>{EmpBenefit.7.Sec}<li>{EmpBenefit.08.Sec}<li>{EmpBenefit.09.Sec}<li>{EmpBenefit.10.Sec}<li>{EmpBenefit.11.Sec}<li>{EmpBenefit.12.Sec}<li>{EmpBenefit.13.Sec}</li></ol>
+
+EmpBenefit.Ti=EMPLOYEE BENEFITS
+
+EmpBenefit.1.Sec=Part {3.13(a)} lists each "employee benefit plan" as defined by Section 3(3) of {ERISA}, all specified fringe benefit plans as defined in Section 6039D of {the_Code}, and all other bonus, incentive-compensation, deferred-compensation, profit-sharing, stock-option, stock-appreciation-right, stock-bonus, stock-purchase, employee-stock-ownership, savings, severance, change-in-control, supplemental-unemployment, layoff, salary-continuation, retirement, pension, health, life-insurance, disability, accident, group-insurance, vacation, holiday, sick-leave, fringe-benefit, or welfare plan, and any other employee compensation or benefit plan, policy, practice, or {Contract} (whether qualified or nonqualified, effective or terminated, written or unwritten) and any trust, escrow, or other {Contract} related thereto that (i) is maintained or contributed to by any {Acquired_Company} and (ii) provides benefits to, or describes policies or procedures applicable to, any current or former director, officer, employee, or service provider of any {Acquired_Company}, or the dependents of any thereof, regardless of how (or whether) liabilities for the provision of benefits are accrued or assets are acquired or dedicated with respect to the funding thereof (each, an "{Employee_Plan}").  Part {3.13(a)} identifies as such any {Employee_Plan} that is (x) a plan intended to meet the requirements of Section 401(a) of {the_Code} or (y) a plan subject to Title IV of {ERISA}.  Other than the {Acquired_Companies}, no corporation or trade or business has ever been controlled by, controlling, or under common control with any {Seller} within the meaning of Section 414 of {the_Code} or Section 4001(a)(14) or 4001(b) of {ERISA}.
+
+EmpBenefit.2.Sec={Sellers} have delivered to {Buyer} copies of (i) the documents comprising each {Employee_Plan} (or, with respect to an {Employee_Plan} which is unwritten, a detailed written description of eligibility, participation, benefits, funding arrangements, assets, and any other matters that relate to the obligations of any {Acquired_Company} thereunder); (ii) all trust agreements, insurance contracts, or any other funding instruments related to each {Employee_Plan}; (iii) all rulings, determination letters, no-action letters, or advisory opinions from the {IRS}, the United States Department of Labor, or any other {Governmental_Body} that pertain to each {Employee_Plan} and any open requests therefor; (iv) the most recent actuarial and financial reports (audited and/or unaudited) and the annual reports filed with any {Governmental_Body} with respect to each {Employee_Plan} during the current year and each of the three preceding years; (v) all {Contracts} with third-party administrators, actuaries, investment managers, consultants, or other independent contractors that relate to each {Employee_Plan}; and (vi) all summary plan descriptions, summaries of material modifications and memoranda, employee handbooks, and other written communications regarding each {Employee_Plan}.
+
+EmpBenefit.3.Sec=Except as set forth in Part {3.13(c)}, all amounts owed by any {Acquired_Company} under the terms of any {Employee_Plan} have been timely paid in full.  Except as set forth in Part 3.13(c), each {Employee_Plan} that provides health or welfare benefits is fully insured, and any incurred but not reported claims under each such {Employee_Plan} that is not fully insured have been properly accrued.  Each {Acquired_Company} has paid in full all required insurance premiums, subject only to normal retrospective adjustments in the {Ordinary_Course_of_Business}, with regard to each {Employee_Plan}.
+
+EmpBenefit.4.Sec=Each {Acquired_Company} has complied with the applicable continuation requirements for each {Employee_Plan}, including (i) Section 4980B of {the_Code} (as well as its predecessor provision, Section 162(k) of {the_Code}) and Sections 601 through 608, inclusive, of {ERISA} ("{COBRA}") and (ii) any applicable state {Legal_Requirements} mandating welfare benefit continuation coverage for employees.
+
+EmpBenefit.5.Sec=The form of each {Employee_Plan} is in compliance with the applicable terms of {ERISA}, {the_Code}, and any other applicable {Legal_Requirement}, including the Americans with Disabilities Act of 1990, the Family Medical Leave Act of 1993, and the Health Insurance Portability and Accountability Act of 1996, and each {Employee_Plan} has been operated in compliance with such {Legal_Requirements} and the written {Employee_Plan} documents.  No {Acquired_Company} and no fiduciary of an {Employee_Plan} has violated the requirements of Section 404 of {ERISA}.  Each required report and description of an {Employee_Plan} (including {IRS} Form 5500 Annual Reports, Summary Annual Reports and Summary Plan Descriptions, and Summaries of Material Modifications) have been (to the extent required) timely filed with the {IRS}, the United States Department of Labor, or other {Governmental_Body} and distributed as required, and all notices required by {ERISA} or {the_Code} or any other {Legal_Requirement} with respect to each {Employee_Plan} have been appropriately given.  No {Acquired_Company} has any unfunded liability with respect to any deferred compensation, retirement, or other {Employee_Plan}.
+
+EmpBenefit.6.Sec=Each {Employee_Plan} that is intended to be qualified under Section 401(a) of {the_Code} has received, or is based on a form of plan that has received, a favorable determination letter from the {IRS}, which is current, taking into account the Tax laws referred to as "GUST."  To the {Knowledge} of {Sellers}, no circumstance exists that could result in revocation of any such favorable determination letter.  Each trust created under any such {Employee_Plan} has been determined to be exempt from taxation under Section 501(a) of {the_Code}, and, to the {Knowledge_of_Sellers}, no circumstance exists that could result in a revocation of such exemption.  No {Employee_Plan} is intended to meet the requirements of {Code} Section 501(c)(9).  No circumstance exists that could give rise to a loss of any intended tax consequence or to any Tax under Section 511 of {the_Code} with respect to any {Employee_Plan}.
+
+EmpBenefit.7.Sec=There has never been any {Proceeding} relating to any {Employee_Plan} and, to the {Knowledge_of_Sellers}, no such {Proceeding} is threatened.  To the {Knowledge_of_Sellers}, no event has occurred or circumstance exists that could give rise to or serve as a basis for the commencement of any such {Proceeding}.  No {Acquired_Company} and no fiduciary of an {Employee_Plan} has engaged in a transaction with respect to any {Employee_Plan} that could subject any {Acquired_Company} or {Buyer} to a Tax or penalty imposed by either Section 4975 of {the_Code} or Section 502(l) of {ERISA} or a violation of Section 406 of {ERISA}.  Neither the execution and delivery of {this_Agreement} nor the consummation or performance of any {Contemplated_Transaction} will, directly or indirectly (with or without notice or lapse of time), result in the assessment of a Tax or penalty under Section 4975 of {the_Code} or Section 502(l) of {ERISA} or result in a violation of Section 406 of {ERISA}.
+
+EmpBenefit.08.Sec=Neither the execution and delivery of {this_Agreement} nor the consummation or performance of any {Contemplated_Transaction} will, directly or indirectly (with or without notice or lapse of time), obligate any {Acquired_Company} to pay any separation, severance, termination, or similar benefit to, or accelerate the time of vesting for, change the time of payment to, or increase the amount of compensation due to, any director, employee, officer, former employee, or former officer of any {Acquired_Company}.  There is no {Contract} providing for payments that could subject any {Person} to liability under Section 4999 of {the_Code}.
+
+EmpBenefit.09.Sec=Other than the continuation coverage requirements of {COBRA}, no {Acquired_Company} has any obligation or potential liability for benefits to employees, former employees, or their dependents following termination of employment or retirement under any {Employee_Plan}.
+
+EmpBenefit.10.Sec=Neither the execution and delivery of {this_Agreement} nor the consummation or performance of any {Contemplated_Transaction} will, directly or indirectly (with or without notice or lapse of time), result in an amendment, modification, or termination of any {Employee_Plan}.  No written or oral representation has been made to any employee or former employee of any {Acquired_Company} promising or guaranteeing any employer payment or funding for the continuation of medical, dental, life, or disability coverage for any period of time beyond the end of the current plan year (except to the extent of coverage required under {COBRA}).  No written or oral representation has been made to any employee or former employee of any {Acquired_Company} concerning the employee benefits of {Buyer}.
+
+EmpBenefit.11.Sec=No {Acquired_Company} contributes to, has any obligation to contribute to, or has any liability with respect to, any "employee pension benefit plan" within the meaning of Section 3(2) of {ERISA} that is a "defined benefit plan" within the meaning of Section 3(35) of {ERISA}.
+
+EmpBenefit.12.Sec=No {Acquired_Company} contributes to, has any obligation to contribute to, or has any liability with respect to, a "multiemployer plan" within the meaning of Section 3(37) of {ERISA} or Section 414(f) of {the_Code} or a plan that has two or more contributing sponsors, at least two of whom are not under common control within the meaning of Section 413(c) of {the_Code}.
+
+EmpBenefit.13.Sec=Except as set forth in Part 3.13(m), no {Employee_Plan} is subject to Section 409A of {the_Code}.  Each {Employee_Plan} subject to Section 409A of {the_Code} ("Deferred Compensation Plan") complies in all material respects with Section 409A of {the_Code}.  No {Acquired_Company} has (i) granted to any {Person} an interest in any Deferred Compensation Plan that is, or upon the lapse of a substantial risk of forfeiture with respect to such interest will be, subject to the Tax imposed by Section 409A(a)(1)(B) or (b)(4)(A) of {the_Code}, or (ii) materially modified any Deferred Compensation Plan in a manner that could cause an interest previously granted under such plan to become subject to the Tax imposed by Section 409A(a)(1)(B) or (b)(4) of {the_Code}.
+
+Compliance.Sec=<b>{Compliance.Ti}</b><ol type="a"><li>{Compliance.1.Sec}<li>{Compliance.2.Sec}<li>{Compliance.3.Sec}</li></ol>
+
+Compliance.Ti=COMPLIANCE WITH LEGAL REQUIREMENTS; GOVERNMENTAL AUTHORIZATIONS
+
+Compliance.1.Sec={Compliance.1.Intro}:<ol type="i"><li>{Compliance.1.1.Sec};<li>{Compliance.1.2.Sec};<li>{Compliance.1.3.Sec}; and<li>{Compliance.1.4.Sec}.</li></ol>
+
+Compliance.1.Intro=Except as set forth in Part {3.14(a)}
+
+Compliance.1.1.Sec=each {Acquired_Company} has at all times been in compliance with each {Legal_Requirement} that is or was applicable to it or the conduct of its business or the ownership or use of any of its assets
+
+Compliance.1.2.Sec=no event has occurred or circumstance exists that (with or without notice or lapse of time) (A) could constitute or result in a violation by any {Acquired_Company} of, or a failure on the part of any {Acquired_Company} to comply with, any {Legal_Requirement}, or (B) could give rise to any obligation on the part of any {Acquired_Company} to undertake, or to bear all or any portion of the cost of, any remedial action
+
+Compliance.1.3.Sec=no {Acquired_Company} has received any notice or other communication (whether oral or written) from any {Governmental_Body} or any other {Person} regarding (A) any actual, alleged, or potential violation of, or failure to comply with, any {Legal_Requirement}, or (B) any actual, alleged, or potential obligation on the part of any {Acquired_Company} to undertake, or to bear all or any portion of the cost of, any remedial action
+
+Compliance.1.4.Sec=no proposed {Legal_Requirement} could have an adverse consequence on any {Acquired_Company} or could require an expenditure of ${EmpBenefit.1.4.LR.Threshold.$} or more by any {Acquired_Company} to comply with such {Legal_Requirement}
+
+Compliance.2.Sec={Compliance.2.Intro}:<ol type="i"><li>{Compliance.2.1.Sec};<li>{Compliance.2.2.Sec};<li>{Compliance.2.3.Sec}; and<li>{Compliance.2.4.Sec}.</li></ol>
+
+Compliance.2.Intro=Part {3.14(b)} lists each {Governmental_Authorization} that is held by any {Acquired_Company} or that otherwise relates to the business of, or to any assets owned or used by, any {Acquired_Company}.  Each {Governmental_Authorization} listed in Part {3.14(b)} is valid and in full force and effect.  Except as set forth in Part {3.14(b)}
+
+Compliance.2.1.Sec=each {Acquired_Company} has at all times been in compliance with each {Governmental_Authorization}
+
+Compliance.2.2.Sec=no event has occurred or circumstance exists that could (with or without notice or lapse of time) (A) constitute or result, directly or indirectly, in a violation of, or a failure on the part of any {Acquired_Company} to comply with, any {Governmental_Authorization} listed in Part {3.14(b)}, or (B) result, directly or indirectly, in the revocation, suspension, cancellation, termination, or modification of any {Governmental_Authorization}
+
+Compliance.2.3.Sec=no {Acquired_Company} has received any notice or other communication (whether oral or written) from any {Governmental_Body} or any other {Person} regarding (A) any actual, alleged, or potential violation of, or failure to comply with, any {Governmental_Authorization}, or (B) any actual, proposed, or potential revocation, suspension, cancellation, termination, or modification of any {Governmental_Authorization}
+
+Compliance.2.4.Sec=all applications required to have been filed for the renewal or reissuance of the {Governmental_Authorizations} listed in Part {3.14(b)} have been duly filed on a timely basis with the appropriate Governmental Bodies, and all other filings required to have been made with respect to such {Governmental_Authorizations} have been duly made on a timely basis with the appropriate Governmental Bodies
+
+Compliance.3.Sec=The {Governmental_Authorizations} listed in Part {3.14(b)} constitute all {Governmental_Authorizations} necessary to permit each {Acquired_Company} lawfully to continue to conduct its business in the manner in which it conducts such business and to own and use its assets in the manner in which it owns and uses such assets.
+
+Litig.Sec=<b>{Litig.Ti}</b><ol type="a"><li>{Litig.1.Sec}<li>{Litig.2.Sec}<li>{Litig.3.Sec}</li></ol>
+
+Litig.Ti=LEGAL PROCEEDINGS; ORDERS
+
+Litig.1.Sec={Litig.1.Intro}:<ol type="i"><li>{Litig.1.1.Sec}; or<li>{Litig.1.2.Sec}; or<li>{Litig.1.3.Sec}.</li></ol>{Litig.1.Cont}
+
+Litig.1.Intro=Except as set forth in Part {3.15(a)}, since {015.1.Litig.Since.Year} there has not been, and there is not pending or, to the {Knowledge_of_Sellers}, threatened, any {Proceeding}
+
+Litig.1.1.Sec=by or against any {Acquired_Company} or that otherwise relates to or could affect the business of, or any assets owned or used by, any {Acquired_Company}
+
+Litig.1.2.Sec=by or against any {Seller} that relates to {the_Shares}
+
+Litig.1.3.Sec=that challenges, or that could have the effect of preventing, delaying, making illegal, imposing limitations or conditions on, or otherwise interfering with, any {Contemplated_Transaction}
+
+Litig.1.Cont=To the {Knowledge_of_Sellers}, no event has occurred or circumstance exists that could give rise to or serve as a basis for the commencement of any such {Proceeding}.  {Sellers} have delivered to {Buyer} copies of all pleadings, correspondence, and other documents relating to each pending or threatened {Proceeding} listed in Part {3.15(a)}.  None of the pending or threatened {Proceedings} listed in Part {3.15(a)}, individually or in the aggregate, will or could reasonably be expected to result in an adverse consequence to any {Acquired_Company} or in any {Acquired_Company} incurring {Losses} of ${Litig.1.3.Litig.MaxLoss.$} or more or being subjected to any {Order}.
+
+Litig.2.Sec={Litig.2.Intro}:<ol type="i"><li>{Litig.2.1.Sec}; and<li>{Litig.2.2.Sec}.</li></ol>
+
+Litig.2.Intro=Except as set forth in Part {3.15(b)}
+
+Litig.2.1.Sec=there is no {Order} to which any {Acquired_Company}, or any assets owned or used by any {Acquired_Company}, is subject
+
+Litig.2.2.Sec=no {Seller} is subject to any {Order} that relates to the business of, or any assets owned or used by, any {Acquired_Company}
+
+Litig.3.Sec={Litig.3.Intro}:<ol type="i"><li>{Litig.3.1.Sec};<li>{Litig.3.2.Sec}; and<li>{Litig.3.3.Sec}.</li></ol>
+
+Litig.3.Intro=Except as set forth in Part {3.15(c)}
+
+Litig.3.1.Sec=each {Acquired_Company} has at all times been in compliance with each {Order} to which it, or any assets owned or used by it, is or has been subject
+
+Litig.3.2.Sec=no event has occurred or circumstance exists that could constitute or result in (with or without notice or lapse of time) a violation of, or failure to comply with, any {Order} to which (A) any {Acquired_Company}, or any assets owned or used by any {Acquired_Company}, is subject, or (B) any {Seller} is subject that relates to the business of, or any assets owned or used by, any {Acquired_Company}
+
+Litig.3.3.Sec=no {Acquired_Company} or {Seller} has, at any time received any notice or other communication (whether oral or written) from any {Governmental_Body} or any other {Person} regarding any actual, alleged, or potential violation of, or failure to comply with, any {Order} to which (A) any {Acquired_Company}, or any assets owned or used by any {Acquired_Company}, is subject, or (B) any {Seller} is subject that relates to the business of, or any assets owned or used by, any {Acquired_Company}
+
+Event.Sec=<b>{Event.Ti}</b><br/>{Event.Intro}:<ol type="a"><li>{Event.1.Sec};<li>{Event.2.Sec};<li>{Event.3.Sec};<li>{Event.4.Sec};<li>{Event.5.Sec};<li>{Event.6.Sec};<li>{Event.7.Sec};<li>{Event.08.Sec};<li>{Event.09.Sec};<li>{Event.10.Sec};<li>{Event.11.Sec};<li>{Event.12.Sec};<li>{Event.13.Sec}; or<li>{Event.14.Sec}.</li></ol>
+
+Event.Ti=ABSENCE OF CERTAIN CHANGES AND EVENTS
+
+Event.Intro=Except as set forth in Part {3.16}, since the {Balance_Sheet_Date}, each {Acquired_Company} has conducted its business only in the {Ordinary_Course_of_Business}, and there has not been any
+
+Event.1.Sec=issuance of or change in the authorized or issued {Equity_Securities} of any {Acquired_Company}; purchase, redemption, retirement, or other acquisition by any {Acquired_Company} of any {Equity_Security} of any {Acquired_Company}; or declaration or payment of any dividend or other distribution or payment in respect of the {Equity_Securities} of any {Acquired_Company}
+
+Event.2.Sec=amendment to the {Organizational_Documents} of any {Acquired_Company}
+
+Event.3.Sec=other than any payments by an {Acquired_Company} of bonuses, salaries, benefits, or other compensation in the {Ordinary_Course_of_Business}, payment, increase or decrease by any {Acquired_Company} of any bonus, salary, benefit, or other compensation to any holder of an {Equity_Security}, director, manager, officer, employee, or consultant or entry into or amendment of any employment, severance, bonus, retirement, loan, or other {Contract} with any holder of any {Equity_Security}, director, manager, officer, employee, or consultant
+
+Event.4.Sec=adoption of, amendment to, or material increase or decrease in the payments to or benefits under any {Employee_Plan}
+
+Event.5.Sec=damage to or destruction or loss of any asset owned or used by any {Acquired_Company}, whether or not covered by insurance
+
+Event.6.Sec=entry into, modification, termination, or expiration of, or receipt of notice of termination of, any Applicable {Contract} listed in Part {3.17(a)}
+
+Event.7.Sec=sale (other than sales of inventory in the {Ordinary_Course_of_Business}), lease, other disposition of, or imposition of an {Encumbrance} on any asset owned or used by any {Acquired_Company}
+
+Event.08.Sec=release or waiver of any claim or right of any {Acquired_Company} with a value in excess of ${Event.08.Release.Max.$}
+
+Event.09.Sec=change in the accounting methods used by any {Acquired_Company}
+
+Event.10.Sec=capital expenditure (or series of related capital expenditures) by any {Acquired_Company} either involving more than ${Event.10.Cap.Exp.Max.$} or outside the {Ordinary_Course_of_Business}
+
+Event.11.Sec=capital investment in, loan to, or acquisition of the securities or assets of, any {Person} (or series of related capital investments, loans, and acquisitions) by any {Acquired_Company} either involving more than ${Event.11.Loan.Max.$} or outside the {Ordinary_Course_of_Business} or acquisition (by merger, exchange, consolidation, acquisition of {Equity_Securities} or assets, or otherwise) of any {Person} by any {Acquired_Company}
+
+Event.12.Sec=note, bond, debenture, or other indebtedness for borrowed money issued, created, incurred, assumed, or guaranteed (including advances on existing credit facilities) involving more than ${Event.12.Note.Max.Each.$} individually or ${Event.12.Note.Max.Total.$} in the aggregate by any {Acquired_Company}
+
+Event.13.Sec={Contract} by any {Acquired_Company} or any {Seller} to do any of the foregoing
+
+Event.14.Sec=other material occurrence, event, action, failure to act, or transaction outside the {Ordinary_Course_of_Business} involving any {Acquired_Company}
+
+Contract.Sec=<b>{Contract.Ti}</b><ol type="a" ><li>{Contract.1.Sec}<li>{Contract.2.Sec}<li>{Contract.3.Sec}<li>{Contract.4.Sec}<li>{Contract.5.Sec}</ol>
+
+Contract.Ti=CONTRACTS
+
+Contract.1.Sec={Contract.1.Intro}:<ol type="i"><li>{Contract.1.1.Sec};<li>{Contract.1.2.Sec};<li>{Contract.1.3.Sec};<li>{Contract.1.4.Sec};<li>{Contract.1.5.Sec};<li>{Contract.1.6.Sec};<li>{Contract.1.7.Sec};<li>{Contract.1.08.Sec};<li>{Contract.1.09.Sec};<li>{Contract.1.10.Sec};<li>{Contract.1.11.Sec};<li>{Contract.1.12.Sec};<li>{Contract.1.13.Sec};<li>{Contract.1.14.Sec};<li>{Contract.1.15.Sec};<li>{Contract.1.16.Sec};<li>{Contract.1.17.Sec};<li>{Contract.1.18.Sec};<li>{Contract.1.19.Sec};<li>{Contract.1.20.Sec}; and<li>{Contract.1.21.Sec}.</li></ol>
+
+Contract.1.Intro= Part {3.17(a)} lists, and {Sellers} have delivered to {Buyer} a copy of, each {Applicable_Contract}
+
+Contract.1.1.Sec=involving the performance of services, delivery of goods or materials, or payments by one or more {Acquired_Companies} of an amount or value in excess of ${Contract.1.1.Max.$}
+
+Contract.1.2.Sec=involving the performance of services, delivery of goods or materials, or payments to one or more {Acquired_Companies} of an amount or value in excess of ${Contract.1.2.Max.$}
+
+Contract.1.3.Sec=that was not entered into in the {Ordinary_Course_of_Business}
+
+Contract.1.4.Sec=affecting the ownership of, leasing of, title to, use of, or any leasehold or other interest in, any real or personal property (except personal property leases and installment and conditional sales agreements having a value per item or aggregate payments of less than ${Contract.1.4.Max.$} and with remaining terms of less than one year)
+
+Contract.1.5.Sec=with respect to {Intellectual_Property_Assets}, including {Contracts} with current or former employees, consultants, or contractors regarding the ownership, use, protection, or nondisclosure of any of the {Intellectual_Property_Assets}
+
+Contract.1.6.Sec=with any labor union or other employee representative of a group of employees relating to wages, hours, or other conditions of employment
+
+Contract.1.7.Sec=involving any joint venture, partnership, or limited liability company agreement involving a sharing of profits, losses, costs, {Taxes}, or other liabilities by any {Acquired_Company} with any other {Person};
+
+Contract.1.08.Sec=containing covenants that in any way purport to restrict the right or freedom of any {Acquired_Company} or any other {Person} for the benefit of any {Acquired_Company} to (A) engage in any business activity, (B) engage in any line of business or compete with any {Person}, or (C) solicit any {Person} to enter into a business or employment relationship, or enter into such a relationship with any {Person}
+
+Contract.1.09.Sec=providing for payments to or by any {Person} based on sales, purchases, or profits, other than direct payments for goods
+
+Contract.1.10.Sec=containing an effective power of attorney granted by any {Acquired_Company}
+
+Contract.1.11.Sec=containing or providing for an express undertaking by any {Acquired_Company} to be responsible for consequential, special, or liquidated damages or penalties or to indemnify any other party
+
+Contract.1.12.Sec=for capital expenditures in excess of  ${Contract.1.112.Max.$}
+
+Contract.1.13.Sec=involving payments to or from an {Acquired_Company} that are not denominated in U.S. dollars
+
+Contract.1.14.Sec=involving the settlement, release, compromise, or waiver of any material rights, claims, obligations, duties, or liabilities
+
+Contract.1.15.Sec=relating to indebtedness of any {Acquired_Company} in excess of  ${Contract.1.15.Max.$}
+
+Contract.1.16.Sec=relating to the employment of any employee of any {Acquired_Company}
+
+Contract.1.17.Sec=relating to a distributor, reseller, OEM, dealer, manufacturer's representative, broker, finder's, sales agency, advertising agency, manufacturing, assembly, or product design and development relationship with an {Acquired_Company}
+
+Contract.1.18.Sec=under which any {Acquired_Company} has loaned to, or made an investment in, or guaranteed the obligations of, any {Person} in excess of ${Contract.1.18.Max.$}
+
+Contract.1.19.Sec=relating to any bond or letter of credit
+
+Contract.1.20.Sec=containing any obligation of confidentiality or nondisclosure between any {Acquired_Company} and any other {Person} for the benefit of any {Acquired_Company} or such other {Person}
+
+Contract.1.21.Sec=constituting an amendment, supplement, or modification (whether oral or written) in respect of any of the foregoing
+
+Contract.2.Sec={Contract.2.Intro}:<ol type="i"><li>{Contract.2.1.Sec};<li>{Contract.2.2.Sec}; and<li>{Contract.2.3.Sec}.</li></ol>
+
+Contract.2.Intro=Except as set forth in Part {3.17(b)}
+
+Contract.2.1.Sec=each {Applicable_Contract} listed in Part {3.17(a)} is in full force and effect, and is valid and enforceable in accordance with its terms
+
+Contract.2.2.Sec=the completion or performance of each Applicable {Contract} for the sale of goods or services by an {Acquired_Company} listed in Part {3.17(a)} will not result in less than normal profit margins to such {Acquired_Company}
+
+Contract.2.3.Sec=the completion or performance of each Applicable {Contract} listed in Part {3.17(a)} will not result in an adverse consequence to any {Acquired_Company}
+
+Contract.3.Sec={Contract.3.Intro}:<ol type="i"><li>{Contract.3.1.Sec};<li>{Contract.3.2.Sec};<li>{Contract.3.3.Sec};<li>{Contract.3.4.Sec} and<li>{Contract.3.5.Sec}.</li></ol>
+
+Contract.3.Intro=Except as set forth in Part {3.17(c)}
+
+Contract.3.1.Sec=each {Acquired_Company} has been in compliance with each Applicable {Contract} since the effective date of such Applicable {Contract}
+
+Contract.3.2.Sec=each other {Person} that has any obligation or liability under any Applicable {Contract} has been in compliance with such Applicable {Contract} since the effective date of such Applicable {Contract};
+
+Contract.3.3.Sec=no event has occurred or circumstance exists that (with or without notice or lapse of time) could result in a {Breach} of, or give any {Acquired_Company} or other {Person} the right to declare a default or exercise any remedy under, or accelerate the maturity or performance of or payment under, or cancel, terminate, or modify, any Applicable {Contract}
+
+Contract.3.4.Sec=no event has occurred or circumstance exists under or by virtue of any Applicable {Contract} that (with or without notice or lapse of time) would cause the creation of any {Encumbrance} affecting any assets owned or used by any {Acquired_Company}
+
+Contract.3.5.Sec=no {Acquired_Company} has given to, or received from, any other {Person} any notice or other communication (whether oral or written) regarding any actual, alleged, or potential {Breach} of any Applicable {Contract}
+
+Contract.4.Sec=There is no renegotiation of, attempt to renegotiate, or outstanding rights to renegotiate any Applicable {Contract} with any {Person}, and no {Person} has made written demand for such renegotiation.
+
+Contract.5.Sec=Each Applicable {Contract} relating to the sale, design, manufacture, or provision of products or services by an {Acquired_Company} has been entered into in the {Ordinary_Course_of_Business} and without the commission of any act alone or in concert with any other {Person}, or any consideration having been paid or promised, in violation of any {Legal_Requirement}.
+
+Insurance.Ti=INSURANCE
+
+Insurance.Sec=<b>{Insurance.Ti}</b><ol type="a"><li>{Insurance.1.Sec}<li>{Insurance.2.Sec}<li>{Insurance.3.Sec}<li>{Insurance.4.Sec}<li>{Insurance.5.Sec}<li>{Insurance.6.Sec}</li></ol>
+
+Insurance.1.Sec={Insurance.1.Intro}:<ol type="i"><li>{Insurance.1.1.Sec};<li>{Insurance.1.2.Sec}; and<li>{Insurance.1.3.Sec}.</li></ol>
+
+Insurance.1.Intro={Sellers} have delivered to {Buyer}
+
+Insurance.1.1.Sec=copies of all policies of insurance (and correspondence relating to coverage thereunder) to which any {Acquired_Company} is a party, an insured, or a beneficiary, or under which any {Acquired_Company}, or any director, officer, or manager of any {Acquired_Company} in his or her capacity as such, is or has been covered at any time since {Insurance.1.1.Ins.Cover.Since.Year}, a list of which is included in Part {3.18(a)}
+
+Insurance.1.2.Sec=copies of all pending applications for policies of insurance
+
+Insurance.1.3.Sec=any written statement by the auditor of any {Acquired_Company} or any consultant or risk management advisor provided to or in the possession of an {Acquired_Company} with regard to the adequacy of its coverage or its reserves for actual or potential claims
+
+Insurance.2.Sec={Insurance.2.Intro}:<ol type="i"><li>{Insurance.2.1.Sec};<li>{Insurance.2.2.Sec}; and<li>{Insurance.2.3.Sec}.</li></ol>
+
+Insurance.2.Intro=Part 3.18(b) sets forth
+
+Insurance.2.1.Sec=any self-insurance or retention arrangement by or affecting any {Acquired_Company}, including any reserves established thereunder
+
+Insurance.2.2.Sec=any {Contract}, other than a policy of insurance, for the transfer or sharing of any risk by any {Acquired_Company}
+
+Insurance.2.3.Sec=all obligations of any {Acquired_Company} to third parties with respect to insurance coverage (including such obligations under leases and service agreements) and identifying the policy under which such coverage is provided.
+
+Insurance.3.Sec={Insurance.3.Intro}:<ol type="i"><li>{Insurance.3.1.Sec};<li>{Insurance.3.2.Sec}<li>{Insurance.3.3.Sec}.</li></ol>
+
+Insurance.3.Intro=Part {3.18(c)} sets forth for each {Acquired_Company} for the current policy year and each of the preceding {Insurance.3.Policy.Years} policy years by year
+
+Insurance.3.1.Sec=a summary of the loss experience under each policy of insurance
+
+Insurance.3.2.Sec=a statement describing each claim under a policy of insurance for an amount in excess of ${Insurance.3.2.Ins.Policy.Amt.$}, which sets forth:<ol type="A"><li>the name of the claimant;<li>a description of the policy by insurer, type of insurance, and period of coverage; and<li>the amount and a brief description of the claim; and</li></ol>
+
+Insurance.3.3.Sec=a statement describing the loss experience for all claims that were self-insured, including the number and aggregate cost of such claims
+
+Insurance.4.Sec={Insurance.4.Intro}:<ol type="i"><li>{Insurance.4.1.Sec}<li>{Insurance.4.2.Sec}<li>{Insurance.4.3.Sec};<li>{Insurance.4.4.Sec}; and<li>{Insurance.4.5.Sec}.</li></ol>
+
+Insurance.4.Intro=Except as set forth in Part {3.18(d)}
+
+Insurance.4.1.Sec=all policies of insurance to which any {Acquired_Company} is a party, an insured, or a beneficiary or that provide coverage to any {Seller} in such {Seller}'s capacity as a shareholder of {the_Company}, any {Acquired_Company}, or any director, officer, or manager of an {Acquired_Company} in such capacity:<ol type="A"><li>are valid, outstanding, and enforceable;<li>are issued by an insurer that is financially sound and reputable;<li>taken together, provide adequate insurance coverage for the assets and the operations of each {Acquired_Company} {Insurance.4.1.Risks}{Insurance.4.1.Risks};<li>are sufficient for compliance with applicable {Legal_Requirements} and all {Applicable_Contracts} to which any {Acquired_Company} is a party or by which it is bound;<li>will continue in full force and effect following the consummation and performance of the {Contemplated_Transactions}; and<li>do not provide for any retrospective premium adjustment or other experience-based liability on the part of any {Acquired_Company};</li></ol>
+
+Insurance.4.1.Risks=<b>[for all risks normally insured against by a {Person} carrying on the same business or businesses as such {Acquired_Company}] [for all risks to which such {Acquired_Company} is normally exposed]</b>
+
+Insurance.4.2.Sec=since {Insurance.4.2.Ins.NoDeny.Since.Year}, no {Seller} or {Acquired_Company} has received:<ol type="A"><li>any refusal of insurance coverage or any notice that a defense will be afforded with reservation of rights; or<li>any notice of cancellation or any other indication that any policy of insurance is no longer in full force or effect or will not be renewed or that the issuer of any policy of insurance is not willing or able to perform its obligations thereunder;</li></ol>
+
+Insurance.4.3.Sec=each {Acquired_Company} has paid all premiums due, and has otherwise performed its obligations, under each policy of insurance to which it is a party or that provides coverage to it or to any of its directors, officers, or managers, in their capacity as such
+
+Insurance.4.4.Sec=each {Acquired_Company} has given notice to the insurer of all insured claims
+
+Insurance.4.5.Sec=no {Acquired_Company} and no {Seller} has received any notice of any, and to the {Knowledge_of_Sellers} there are no, planned or proposed increases in the premiums or any other adverse change in the terms of any policy of insurance covering any {Acquired_Company}, any {Seller} in such {Seller}'s capacity as a shareholder of {the_Company}, or any officer, director, or manager of an {Acquired_Company} in his or her capacity as such
+
+Insurance.5.Sec=No {Acquired_Company} has provided any information to any insurer in connection with any application for insurance that could result in (i) cancellation of any insurance policy or bond for the benefit of such {Acquired_Company} or (ii) denial of coverage for a risk otherwise covered by any such insurance policy or bond.
+
+Insurance.6.Sec=Part {3.18(f)} describes the manner in which {the_Company} insures or self-insures with respect to workers' compensation liability.  Part {3.18(f)} lists each incident or claim that creates or could create a workers' compensation liability of any {Acquired_Company} since {Insurance.6.WorkComp.Claim.Year}, and the related disposition and accrual with respect to such incident or claim.  No {Acquired_Company} has received any notice that, and no {Acquired_Company} has any reason to believe, based on its incident or claim experience that, its workers' compensation insurance premiums or expenses will increase in the next 12 months, or, if self-insured, that it will not be permitted to continue to self-insure without increase in any related bonds, letters of credit, or other form of financial security.
+
+Environment.Ti=ENVIRONMENTAL MATTERS
+
+Environment.Sec=<b>{Environment.Ti}</b><br/>{Environment.Intro}<ol type="a"><li>{Environment.1.Sec}<li>{Environment.2.Sec}<li>{Environment.3.Sec}<li>{Environment.4.Sec}<li>{Environment.5.Sec}<li>{Environment.6.Sec}<li>{Environment.7.Sec}</li></ol>
+
+Environment.Intro=Except as set forth in Part {3.19}:
+
+Environment.1.Sec=Each {Acquired_Company} has at all times complied with all {Environmental_Laws}.
+
+Environment.2.Sec=No {Seller} or {Acquired_Company} or any other {Person} for whose conduct any of them is or could be held responsible has received any {Order}, notice, or other communication (written or oral) relating to any actual, alleged, or potential violation of or failure to comply with any {Environmental_Law}, or any actual or potential {Environmental,_Health,_and_Safety_Liability}.
+
+Environment.3.Sec=There are no pending or, to the {Knowledge_of_Sellers}, threatened claims or {Encumbrances} resulting from any {Environmental,_Health,_and_Safety_Liability} or arising under or pursuant to any {Environmental_Law}, with respect to or affecting any of {the_Facilities} or any other asset owned or used by any {Acquired_Company} or in which it has or had an interest.
+
+Environment.4.Sec=No {Seller} or {Acquired_Company}, or any other {Person} for whose conduct any of them is or could be held responsible, has any {Environmental,_Health,_and_Safety_Liability}, and no event has occurred or circumstance exists that (with or without notice or lapse of time) could result in any {Acquired_Company} or any other {Person} for whose conduct any of them is or could be held responsible (i) having any Environmental, Health and Safety Liability or (ii) violating any {Environmental_Law}.
+
+Environment.5.Sec=There is no {Hazardous_Material} present on or under {the_Facilities} or, to the {Knowledge_of_Sellers}, any geographically, geologically, hydraulically or hydro-geologically adjoining property ("{Adjoining_Property}").  No {Seller}, {Acquired_Company}, any other {Person} for whose conduct any of them is or could be held responsible, or, to the {Knowledge_of_Sellers}, any other {Person}, has permitted or conducted, or is aware of, any {Hazardous_Activity} conducted with respect to {the_Facilities} or any other asset in which any {Acquired_Company} has or had an interest.
+
+Environment.6.Sec=None of {the_Facilities} and, to the {Knowledge_of_Sellers}, no {Adjoining_Property}, contains any (i) above-ground or underground storage tanks or (ii) landfills, surface impoundments, or disposal areas.
+
+Environment.7.Sec={Sellers} have delivered to {Buyer} copies of all reports, studies, analyses, or tests initiated by or on behalf of or in the possession of {Seller} or any {Acquired_Company} pertaining to the environmental condition of, {Hazardous_Material} or {Hazardous_Activity} in, on, or under, {the_Facilities} or any {Adjoining_Property}, or concerning compliance by any {Acquired_Company} or any other {Person} for whose conduct any of them is or could be held responsible, with {Environmental_Laws}.
+
+Personnel.Ti=EMPLOYEES AND CONSULTANTS
+
+Personnel.Sec=<b>{Personnel.Ti}</b><ol type="a"><li>{Personnel.1.Sec}<li>{Personnel.2.Sec}<li>{Personnel.3.Sec}<li>{Personnel.4.Sec}<li>{Personnel.5.Sec}<li>{Personnel.6.Sec}<li>{Personnel.7.Sec}</li></ol>
+
+Personnel.1.Sec=Part {3.20(a)} lists the following information for each employee of each {Acquired_Company}, including each employee on leave of absence or layoff status:  employer, name, job title, date of hiring, date of commencement of employment, details of leave of absence or layoff, rate of compensation, bonus arrangement, and any change in compensation or bonus since {Personnel.1.Emp.Since.YMD}, vacation, sick time, and personal leave accrued as of {Personnel.1.Emp.Accrue.AsOf.YMD}, and service credited for purposes of vesting and eligibility to participate under any {Employee_Plan}.
+
+Personnel.2.Sec=Part {3.20(b)} lists the following information for every independent contractor, consultant, or sales agent of each {Acquired_Company}:  name, responsibilities, date of engagement, and compensation.  Each such independent contractor, consultant, or sales agent qualifies as an independent contractor in relation to such {Acquired_Company} for purposes of all applicable {Legal_Requirements}, including those relating to {Taxes}, insurance, and employee benefits.
+
+Personnel.3.Sec=Except as set forth in Part {3.20(c)}, to the {Knowledge_of_Sellers}, (i) no director, officer, or other key employee of any {Acquired_Company} intends to terminate such {Person}'s employment with such {Acquired_Company}, and (ii) no independent contractor, consultant, or sales agent intends to terminate such {Person}'s arrangement with any {Acquired_Company}.
+
+Personnel.4.Sec=Part {3.20(d)} lists the following information for each retired employee or director of any {Acquired_Company}, or their dependents, receiving benefits or scheduled to receive benefits from any {Acquired_Company} in the future:  name, pension benefits, pension option election, retiree medical insurance coverage, retiree life insurance coverage, and other benefits.
+
+Personnel.5.Sec=Part {3.20(e)} states the number of employees terminated or laid off by any {Acquired_Company} since {Personnel.5.Emp.Term.Since.YDM}, and contains a list of the following information for each employee of an {Acquired_Company} who has been terminated or laid off, or whose hours of work have been reduced by more than 50% by an {Acquired_Company}, in the six months prior to the date of {this_Agreement}:  (i) the date of such termination, layoff, or reduction in hours; (ii) the reason for such termination, layoff, or reduction in hours; and (iii) the location to which the employee was assigned.
+
+Personnel.6.Sec=No {Acquired_Company} has violated the Worker Adjustment and Retraining Notification Act or any similar state or local {Legal_Requirement}.
+
+Personnel.7.Sec=To the {Knowledge_of_Sellers}, no director, officer, employee, agent, consultant, or independent contractor of any {Acquired_Company} is bound by any {Contract} or subject to any {Order} that purports to limit the ability of such director, officer, employee, agent, consultant, or independent contractor (i) to engage in or continue or perform any conduct, activity, duties, or practice relating to the business of any {Acquired_Company} or (ii) to assign to any {Acquired_Company} any rights to any invention, improvement, or discovery.  No former or current employee of any {Acquired_Company} is a party to, or is otherwise bound by, any {Contract} that in any way adversely affected, affects, or could affect the ability of any {Acquired_Company} to continue to conduct its business as conducted.
+
+Labor.Ti=LABOR DISPUTES; COMPLIANCE
+
+Labor.Sec=<b>{Labor.Ti}</b><ol type="a"><li>{Labor.1.Sec}<li>{Labor.2.Sec}</li></ol>
+
+Labor.1.Sec=Each {Acquired_Company} has at all times complied with all {Legal_Requirements} relating to employment practices, terms, and conditions of employment, equal employment opportunity, nondiscrimination, sexual harassment, immigration, wages, hours, benefits, collective bargaining and similar requirements, the payment of Social Security and similar {Taxes}, and occupational safety and health.  No {Acquired_Company} is liable for the payment of any {Taxes}, fines, penalties, or other amounts, however designated, for failure to comply with any of the foregoing {Legal_Requirements}.
+
+Labor.2.Sec={Labor.2.Intro}:<ol type="i"><li>{Labor.2.1.Sec}<li>{Labor.2.2.Sec}<li>{Labor.2.3.Sec};<li>{Labor.2.4.Sec}<li>{Labor.2.5.Sec};<li>{Labor.2.6.Sec}; and<li>{Labor.2.7.Sec}.</li></ol>
+
+Labor.2.Intro=Except as set forth in Part 3.21(b)
+
+Labor.2.1.Sec=no {Acquired_Company} is or has been a party to any collective bargaining agreement or other labor contract
+
+Labor.2.2.Sec=since {Labor.2.2.Labor.Year}, there has not been, there is not pending or existing, and, to the {Knowledge_of_Sellers}, there is not threatened, any strike, slowdown, picketing, work stoppage, employee grievance process, organizational activity, or other labor dispute involving any {Acquired_Company}
+
+Labor.2.3.Sec=to the {Knowledge_of_Sellers}, no event has occurred or circumstance exists that could provide the basis for any work stoppage or other labor dispute
+
+Labor.2.4.Sec=since {Labor.2.4.Labor.Year}, there has not been, and there is not pending or, to the {Knowledge_of_Sellers}, threatened against or affecting any {Acquired_Company} any {Proceeding} relating to the alleged violation of any {Legal_Requirement} pertaining to labor relations or employment matters, including any charge or complaint filed with the National Labor Relations Board or any comparable {Governmental_Body}
+
+Labor.2.5.Sec=no application or petition for an election or for certification of a collective bargaining agent is pending
+
+Labor.2.6.Sec=since {Labor.2.6.Labor.Year}, there has not been, and there is not pending or, to {Sellers}' knowledge, threatened, any lockout of any employees by any {Acquired_Company}
+
+Labor.2.7.Sec=since {Labor.2.7.Labor.Year}, there has not been, and there is not pending or, to the {Knowledge_of_Sellers}, threatened, against any {Acquired_Company} any charge of discrimination or sexual harassment filed with the Equal Employment Opportunity Commission or similar {Governmental_Body}, and no event has occurred or circumstances exist that could provide the basis for any such charge
+
+IP.Ti=INTELLECTUAL PROPERTY ASSETS
+
+IP.Sec=<b>{IP.Ti}</b><ol type="a"><li>{IP.1.Sec}<li>{IP.2.Sec}<li>{IP.3.Sec}<li>{IP.4.Sec}<li>{IP.5.Sec}<li>{IP.6.Sec}<li>{IP.7.Sec}<li>{IP.08.Sec}</li></ol>
+
+IP.1.Sec=<b>{IP.1.Ti}</b><br/>{IP.1.Intro}:<ol type="i"><li>{IP.1.1.Sec};<li>{IP.1.2.Sec};<li>{IP.1.3.Sec};<li>{IP.1.4.Sec};<li>{IP.1.5.Sec};<li>{IP.1.6.Sec}; and<li>{IP.1.7.Sec}.</li></ol>
+
+IP.1.Ti=Definition of {Intellectual_Property_Assets}
+
+IP.1.Intro=The term "{Intellectual_Property_Assets}" means all intellectual property owned, licensed (as licensor or licensee), or used by an {Acquired_Company}, including
+
+IP.1.1.Sec=the name of each {Acquired_Company}, assumed, fictional, business and trade names, registered and unregistered trademarks, service marks, and logos, and trademark and service mark applications (collectively, "Marks")
+
+IP.1.2.Sec=patents, patent applications (collectively, "Patents"), and {Invention_Disclosures}
+
+IP.1.3.Sec=registered and unregistered copyrights in both published works and unpublished works (collectively, "Copyrights")
+
+IP.1.4.Sec=all rights in mask works (as defined in Section 901 of the Copyright Act of 1976)
+
+IP.1.5.Sec=software (including firmware and other software embedded in hardware devices), software code (including source code and executable or object code), subroutines, interfaces, including APIs, and algorithms (collectively "Software")
+
+IP.1.6.Sec=all know-how, trade secrets, confidential or proprietary information, customer lists, technical information, data, process technology, plans, drawings, inventions, and discoveries, whether or not patentable (collectively, "{Trade_Secrets}")
+
+IP.1.7.Sec=all rights in Internet websites, Internet domain names, and keywords held by an {Acquired_Company} (collectively "{Net_Names}")
+
+IP.2.Sec=<b>{IP.2.Ti}</b><ol type="a"><li>{IP.2.1.Sec}<li>{IP.2.2.Sec}<li>{IP.2.3.Sec}<li>{IP.2.4.Sec}<li>{IP.2.5.Sec}</li></ol>
+
+IP.2.Ti=Nature of {Intellectual_Property_Assets}
+
+IP.2.1.Sec=The {Intellectual_Property_Assets} owned by each {Acquired_Company}, together with the {Intellectual_Property_Assets} licensed by that {Acquired_Company} and listed in Part 3.17(a)(v), are all those used in or necessary for the conduct of the business of such {Acquired_Company} as it is being conducted.  One or more {Acquired_Companies} is the owner of each of the owned {Intellectual_Property_Assets}, free and clear of any {Encumbrance}, and has the right to use them without payment to any {Person}.  No {Acquired_Company} is bound by, and none of the owned {Intellectual_Property_Assets} is subject to, any {Contract} that in any way limits or restricts the ability of any {Acquired_Company} to use, exploit, assert, or enforce any such Intellectual Property Asset anywhere in the world.
+
+IP.2.2.Sec=All former and current employees or independent contractors of each {Acquired_Company} have executed written {Contracts} with that {Acquired_Company} that assign to that {Acquired_Company} all rights to any inventions, improvements, discoveries or information, and works of authorship of such employee or independent contractor relating to the business of that {Acquired_Company}.
+
+IP.2.3.Sec=No funding, facilities, or personnel of any {Governmental_Body}, any educational institution, or any other {Person} (other than an {Acquired_Company}) were used, directly or indirectly, to develop or create, in whole or in part, any owned Intellectual Property Asset.
+
+IP.2.4.Sec=Since {IP.2.2.Assign.Since.Year}, no {Acquired_Company} has assigned or otherwise transferred any interest in, or agreed to assign or otherwise transfer any interest in, any Intellectual Property Asset to any other {Person}, except pursuant to nonexclusive licenses in the {Ordinary_Course_of_Business}.
+
+IP.2.5.Sec=No {Acquired_Company} is or ever was a member or promoter of, or a contributor to, any industry standards body or other organization that could require or obligate any {Acquired_Company} to grant or offer to any other {Person} any license or right to any Intellectual Property Asset.
+
+IP.3.Sec=<b>{IP.3.Ti}</b><ol type="i"><li>{IP.3.1.Sec}<li>{IP.3.2.Sec}<li>{IP.3.3.Sec}<li>{IP.3.4.Sec}<li>{IP.3.5.Sec}</li></ol>
+
+IP.3.Ti=Patents
+
+IP.3.1.Sec=Part {3.22(c)} lists all {Patents} and invention disclosures relating to inventions conceived or reduced to practice by one or more officers, employees, independent contractors, or other parties with whom any {Acquired_Company} may have collaborated in connection with developments on behalf of such {Acquired_Company}'s business ("{Invention_Disclosures}"), including the name of the {Acquired_Company} that owns or uses such {Patent} or {Invention_Disclosure}.
+
+IP.3.2.Sec=All {Patents} are in compliance with all applicable {Legal_Requirements} (including payment of filing, examination, and maintenance fees, and proofs of working or use), are valid and enforceable, and are not subject to any maintenance fees, taxes, or actions falling due within 90 days after {the_Closing_Date}.  No {Invention_Disclosure} describes any invention that has been publicly disclosed or offered for sale, creating a bar to filing patent applications within 90 days after {the_Closing}.
+
+IP.3.3.Sec=No {Patent} has been or is involved in any interference, reissue, reexamination, or opposition {Proceeding}, and, to the {Knowledge_of_Sellers}, no such {Proceeding} is threatened.  To the {Knowledge_of_Sellers}, there is no potentially interfering patent or patent application of any {Person} with respect to any {Patent}.
+
+IP.3.4.Sec=No {Patent} is or has been infringed or has been challenged or, to the {Knowledge_of_Sellers}, no such challenge is threatened.  None of the products manufactured or sold, or any process or know-how used, by any {Acquired_Company} infringes or is alleged to infringe any patent or other proprietary right of any other {Person}.
+
+IP.3.5.Sec=All products made, used, or sold under the {Patents} have been marked with the proper patent notice.
+
+IP.4.Sec=<b>{IP.4.Ti}</b><ol type="i"><li>{IP.4.1.Sec}<li>{IP.4.2.Sec}<li>{IP.4.3.Sec}<li>{IP.4.4.Sec}<li>{IP.4.5.Sec}<li>{IP.4.6.Sec}.</li></ol>
+
+IP.4.Ti=Marks
+
+IP.4.1.Sec=Part {3.22(d)} lists all {Marks}, including the name of the {Acquired_Company} that owns or uses such {Mark}.
+
+IP.4.2.Sec=Except as set forth in Part {3.22(d)}, all {Marks} have been registered with the United States Patent and Trademark Office and foreign countries where any of the {Acquired_Companies} do substantial business related to the goods or services associated with such {Marks}, are in compliance with all applicable {Legal_Requirements} (including the timely post-registration filing of affidavits of use and incontestability and renewal applications), are valid and enforceable, and are not subject to any maintenance fees, taxes, or actions falling due within 90 days after {the_Closing_Date}.
+
+IP.4.3.Sec=No {Mark} has been or is involved in any dispute, opposition, invalidation, or cancellation {Proceeding} and, to the {Knowledge_of_Sellers}, no such {Proceeding} is threatened.
+
+IP.4.4.Sec=To the {Knowledge_of_Sellers}, there is no potentially interfering trademark or trademark application of any {Person} with respect to any {Mark}.
+
+IP.4.5.Sec=No {Mark} is or has been infringed or has been challenged and, to the {Knowledge_of_Sellers}, no such challenge is threatened.  None of the {Marks} used by any {Acquired_Company} infringes or is alleged to infringe any trade name, trademark, or service mark of any {Person}.
+
+IP.4.6.Sec=All products and materials containing a registered {Mark} bear the proper federal registration notice where permitted by law.
+
+IP.5.Sec=<b>{IP.5.Ti}</b><ol type="i"><li>{IP.5.1.Sec}<li>{IP.5.2.Sec}<li>{IP.5.3.Sec}<li>{IP.5.4.Sec}</li></li></ol>
+
+IP.5.Ti=Copyrights
+
+IP.5.1.Sec=Part {3.22(e)} lists all registered {Copyrights} and all material unregistered {Copyrights} used in connection with the products or services provided by any {Acquired_Company}, including the name of the {Acquired_Company} that owns or uses such Copyright.
+
+IP.5.2.Sec=All registered {Copyrights} are in compliance with all applicable {Legal_Requirements}, and all the {Copyrights} listed in Part {3.22(e)} are valid and enforceable, and are not subject to any maintenance fees, taxes, or actions falling due within 90 days after {the_Closing_Date}.
+
+IP.5.3.Sec=No Copyright listed in Part {3.22(e)} is or has been infringed or has been challenged, and, to the {Knowledge_of_Sellers}, no such challenge is threatened.  None of the subject matter of any Copyright infringes or is alleged to infringe any copyright of any {Person} or is a derivative work based upon the work of any other {Person}.
+
+IP.5.4.Sec=All works encompassed by the {Copyrights} listed in Part {3.22(e)} have been marked with the proper copyright notice.
+
+IP.6.Sec=<b>{IP.6.Ti}</b><ol type="i"><li>{IP.6.1.Sec}<li>{IP.6.2.Sec}<li>{IP.6.3.Sec}</li></li></ol>
+
+IP.6.Ti={Trade_Secrets}
+
+IP.6.1.Sec=The documentation relating to each Trade Secret is current, accurate, and sufficient in detail and content to identify and explain it and to allow its full and proper use without reliance on the knowledge or memory of any individual.
+
+IP.6.2.Sec=Each {Acquired_Company} has taken all reasonable precautions to protect the secrecy, confidentiality, and value of each Trade Secret (including the enforcement by each {Acquired_Company} of a policy requiring each employee or contractor to execute proprietary information and confidentiality agreements substantially in such {Acquired_Company}'s standard form, and all current and former employees and independent contractors of each {Acquired_Company} have executed such an agreement).
+
+IP.6.3.Sec=No Trade Secret is part of the public knowledge or literature or has been used, divulged, or appropriated either for the benefit of any {Person} (other than an {Acquired_Company}) or to the detriment of any {Acquired_Company}.  No Trade Secret is subject to any adverse claim or has been challenged, and, to the {Knowledge_of_Sellers}, no such challenge is threatened.  No Trade Secret infringes or is alleged to infringe any intellectual property right of any {Person}.
+
+IP.7.Sec=<b>{IP.7.Ti}</b><br/>{IP.7.Tx}
+
+IP.7.Ti=Software
+
+IP.7.Tx=All {Software} owned, licensed, or used by any {Acquired_Company} (other than commonly available, noncustomized third-party software licensed to an {Acquired_Company} for internal use on a nonexclusive basis) is listed in {Software.List.Xrefs}.  Each {Acquired_Company} has all rights necessary to use all copies of all {Software} used by such {Acquired_Company}.
+
+Software.List.Xrefs=Parts {3.22(c)}, (e), or (f) or {3.17(a)(v)}
+
+IP.08.Sec=<b>{IP.08.Ti}</b><ol type="i"><li>{IP.08.1.Sec}<li>{IP.08.2.Sec}<li>{IP.08.3.Sec}<li>{IP.08.4.Sec}<li>{IP.08.5.Sec}</li></li></ol>
+
+IP.08.Ti={Net_Names}
+
+IP.08.1.Sec=Part {3.22(h)} lists all {Net_Names}, including the name of the {Acquired_Company} that owns or uses such Net Name.
+
+IP.08.2.Sec=All {Net_Names} have been registered in the name of an {Acquired_Company} and are in compliance with all applicable {Legal_Requirements}.
+
+IP.08.3.Sec=No Net Name has been or is involved in any dispute, opposition, invalidation, or cancellation {Proceeding} and, to the {Knowledge_of_Sellers}, no such {Proceeding} is threatened.
+
+IP.08.4.Sec=To the {Knowledge_of_Sellers}, there is no domain name application pending of any other {Person} which would or would potentially interfere with or infringe any Net Name.
+
+IP.08.5.Sec=No Net Name is or has been infringed or has been challenged and, to the {Knowledge_of_Sellers}, no such challenge is threatened.  No Net Name infringes or is alleged to infringe the trademark, copyright, or domain name of any other {Person}.
+
+FCPA+.Ti=COMPLIANCE WITH THE FOREIGN CORRUPT PRACTICES ACT AND EXPORT CONTROL AND ANTIBOYCOTT LAWS
+
+FCPA+.Sec=<b>{FCPA+.Ti}</b><br/>{FCPA+.Tx}
+
+FCPA+.Tx=No {Acquired_Company} and no {Representative} of any {Acquired_Company} in its capacity as such has violated the Foreign Corrupt Practices Act or the anticorruption laws of any jurisdiction where {the_Company} does business.  Each {Acquired_Company} has at all times complied with all {Legal_Requirements} relating to export control and trade sanctions or embargoes.  No {Acquired_Company} has violated the antiboycott prohibitions contained in 50 U.S.C. Sections 2401 et seq. or taken any action that can be penalized under Section 999 of {the_Code}.
+
+Insider.Ti=RELATIONSHIPS WITH RELATED PERSONS
+
+Insider.Sec=<b>{Insider.Ti}</b><br/>{Insider.Tx}
+
+Insider.Tx=No {Seller} and no {Related_Person} of any {Seller} or of any {Acquired_Company} has, or since {Insider.Related.Since.YMD} has had, any interest in any asset owned or used by any {Acquired_Company}.  No {Seller} and no {Related_Person} of any {Seller} or of any {Acquired_Company} is, or since {Insider.Related.Since.YMD} has been, a Related Party of or the owner (of record or beneficially) of any {Equity_Security} or any other financial or profit interest in, a {Person} that has (a) had business dealings or a material financial interest in any transaction with any {Acquired_Company} or (b) engaged in competition with any {Acquired_Company}, other than ownership of less than one percent of the outstanding capital stock of a {Person} that is listed on any national or regional securities exchange.  Except as set forth in Part {3.24}, no {Seller} or any {Related_Person} of any {Seller} or of any {Acquired_Company} is a party to any Applicable {Contract} with, or has any claim or right against, any {Acquired_Company}.
+
+Securities.Ti=SECURITIES LAW MATTERS
+
+Securities.Sec=<b>{Securities.Ti}</b><ol type="a"><li>{Securities.1.Sec}<li>{Securities.2.Sec}</li></ol>
+
+Securities.1.Sec=Each {Seller} is acquiring its {Promissory_Note} for its own account and not with a view to its distribution within the meaning of Section 2(11) of the {Securities_Act}.  Each {Seller} is an "accredited investor" as such term is defined in Rule 501(a) under the {Securities_Act}.
+
+Securities.2.Sec=Each {Seller} confirms that {Buyer} has made available to such {Seller} and its {Representatives} the opportunity to ask questions of the officers and management employees of {Buyer} and to acquire such additional information about the business and financial condition of {Buyer} as such {Seller} has requested, and all such information has been received.
+
+CustomerAndSupplier.Ti=CUSTOMERS AND SUPPLIERS
+
+CustomerAndSupplier.Sec=<b>{CustomerAndSupplier.Ti}</b><br/>{CustomerAndSupplier.Tx}
+
+CustomerAndSupplier.Tx=Part {3.26} lists for each of the {CustomerAndSupplier.Customer.Years} years ending {CustomerAndSupplier.Customer.Year.End.Day} the names of the respective customers that were, in the aggregate, the {CustomerAndSupplier.Customer.Large.#} largest customers in terms of dollar value of products or services, or both, sold by each {Acquired_Company} ("{Major_Customers}").  Part {3.26} also lists for each such year, the names of the respective suppliers that were, in the aggregate, the {CustomerAndSupplier.Supplier.Large.#} largest suppliers in terms of dollar value of products or services, or both, to each {Acquired_Company} ("{Major_Suppliers}").  Except as set forth in Part {3.26}, no {Major_Customer} or {Major_Supplier} has given any {Acquired_Company} notice (written or oral) terminating, canceling, reducing the volume under, or renegotiating the pricing terms or any other material terms of any Applicable {Contract} or relationship with any {Acquired_Company} or threatening to take any of such actions, and, to the {Knowledge_of_Sellers}, no {Major_Customer} or {Major_Supplier} intends to do so.
+
+ProductLiability.Ti=PRODUCT LIABILITIES AND WARRANTIES
+
+ProductLiability.Sec=<b>{ProductLiability.Ti}</b><ol type="a"><li>{ProductLiability.1.Sec}<li>{ProductLiability.2.Sec}</li></ol>
+
+ProductLiability.1.Sec=Except as set forth in Part 3.27(a), no {Acquired_Company} has incurred any {Loss} as a result of any defect or other deficiency (whether of design, materials, workmanship, labeling, instructions, or otherwise) with respect to any product designed, manufactured, sold, leased, licensed, or delivered, or any service provided by any {Acquired_Company}, whether such {Loss} is incurred by reason of any express or implied warranty (including any warranty of merchantability or fitness), any doctrine of common law (tort, contract, or other), any other {Legal_Requirement}, or otherwise.  No {Governmental_Body} has alleged that any product designed, manufactured, sold, leased, licensed, or delivered by any {Acquired_Company} is defective or unsafe or fails to meet any product warranty or any standards promulgated by any such {Governmental_Body}.  No product designed, manufactured, sold, leased, licensed, or delivered by any {Acquired_Company} has been recalled, and no {Acquired_Company} has received any notice of recall (written or oral) of any such product from any {Governmental_Body}.  No event has occurred or circumstance exists that (with or without notice or lapse of time) could result in any such liability or recall.
+
+ProductLiability.2.Sec=Except as set forth in Part {3.27(b)}, no {Acquired_Company} has given to any {Person} any product or service guaranty or warranty, right of return, or other indemnity relating to the products manufactured, sold, leased, licensed, or delivered, or services performed, by any {Acquired_Company}.  Each {Acquired_Company} has legally excluded liability for all special, incidental, punitive, and consequential damages to any customer, dealer, or distributor of any {Acquired_Company} or customer of any such dealer or distributor.
+
+Broker.Ti=BROKERS OR FINDERS
+
+Broker.Sec=<b>{Broker.Ti}</b><br/>{Broker.Tx}
+
+Broker.Tx=No {Seller} or {Acquired_Company}, and none of their respective {Representatives}, has incurred any obligation or liability, contingent or otherwise, for any brokerage or finder's fee or agent's commission or other similar payment in connection with {this_Agreement} or the {Contemplated_Transactions}.
+
+True.Ti=DISCLOSURE
+
+True.Sec=<b>{True.Ti}</b><br/>{True.Tx}
+
+True.Tx=No representation or warranty or other statement made by any {Seller} in {this_Agreement}, {the_Disclosure_Letter}, any supplement to {the_Disclosure_Letter}, the certificate delivered pursuant to Section {8.3}, or otherwise in connection with the {Contemplated_Transactions} contains any untrue statement of material fact or omits to state a material fact necessary to make the statements in {this_Agreement} or therein, in light of the circumstances in which they were made, not misleading.
+

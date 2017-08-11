@@ -1,0 +1,28 @@
+ABA/MSPA/Sec/ABA-MSPA_md
+
+Ti=COVENANTS OF BUYER PRIOR TO CLOSING DATE
+
+Sec=<b>{Ti}</b><ol><li>{1.Sec}<li>{2.Sec}<li>{3.Sec}</li></ol>
+
+Ti=Covenants of {Buyer} Prior to {Closing_Date}
+
+1.Ti=FILINGS AND NOTIFICATIONS; COOPERATION
+
+1.Sec=<b>{1.Ti}</b><br>{1.sec}
+
+1.sec=As promptly as practicable after the date of {this_Agreement}, and in any event within the applicable time period prescribed by {Legal_Requirements}, {Buyer} shall, and shall cause each of its {Related_Persons} to, make all filings and notifications required by {Legal_Requirements} to be made by them in connection with the {Contemplated_Transactions} (including all filings under the {HSR_Act}).  {Buyer} shall, and shall cause each of its {Related_Persons} to, cooperate with each {Seller}, each {Acquired_Company}, their {Related_Persons} and their respective {Representatives} (a) with respect to all filings and notifications that any {Seller}, any {Acquired_Company}, or their {Related_Persons} shall be required by {Legal_Requirements} to make in connection with the {Contemplated_Transactions} and (b) in obtaining all {Material_Consents}; provided, however, that {Buyer} shall not be required to dispose of or make any change to its business, expend any material funds, or incur any other material obligation in order to comply with this Section {6.1}.
+
+2.Ti=NOTICE
+
+2.Sec=<b>{2.Ti}</b><ol type="a"><li>{2.1.Sec}<li>{2.2.Sec}</li></ol>
+
+2.1.Sec=Prior to {the_Closing_Date}, {Buyer} shall promptly provide notice to {Sellers} of any {Breach} of any representation or warranty of {Buyer} or any fact or circumstance that would or would reasonably be likely to cause or constitute a {Breach} of any such representation or warranty had that representation or warranty been made as of the time of the occurrence of such fact or circumstance.  No such notice will be deemed to have cured any {Breach} of any representation or warranty or affect any right or remedy of {Sellers} under {this_Agreement}.
+
+2.2.Sec=Prior to {the_Closing_Date}, {Buyer} shall provide notice to {Sellers} of any {Breach} of any covenant of {Buyer} in this Article {6-} or any fact or circumstance that could make the satisfaction of any condition in Article {9-} impossible or unlikely and of all corrective actions undertaken, or to be undertaken, by {Buyer} with respect thereto.  No such notice will be deemed to have cured any {Breach} of any covenant or affect any right or remedy of {Sellers} under {this_Agreement}.
+
+3.Ti=BEST EFFORTS
+
+3.Sec=<b>{3.Ti}</b><br>{3.sec}
+
+3.sec={Buyer} shall use its best efforts to cause the conditions in Article {9-} to be satisfied; provided, however, that {Buyer} shall not be required to dispose of or make any change to its business, expend any material funds, or incur any other material obligation in order to comply with this Section {6.3}.
+
