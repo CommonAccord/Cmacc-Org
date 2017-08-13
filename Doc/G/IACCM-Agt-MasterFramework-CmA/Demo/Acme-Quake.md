@@ -92,8 +92,6 @@ EmailsForNotices.cl=the email addresses formally notified from time-to-time by a
 
 FrameworkAgreementTerm.TimeSpan=two years
 
-MaterialBreach.ImportantSections.cl=clause 2 (Call-off Contracts) or clause 8 (Confidentiality) 
-
 Notice.MailEffectiveOn.TimeSpan=9:00 a.m. on the second {_Business_Day}
 
 SupplierLiabilityCap.$=One Million British Pounds
