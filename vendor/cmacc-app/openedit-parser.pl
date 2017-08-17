@@ -90,7 +90,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # select one:
 
-Key=
+# Key=
 
 # print "$_=\n" foreach @arr;
 
@@ -101,6 +101,10 @@ Key=
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
 # print "$_=<a href='#Def.$_.Sec' class='definedterm'>$_</a>\n" foreach @arr;
+
+# To make a new Param, with a hyperlink to the definition:
+
+print "$_=<span class='param'>??$_??</span>\n" foreach @arr;
 
 # to mark the place a defined term is defined inline.
 
