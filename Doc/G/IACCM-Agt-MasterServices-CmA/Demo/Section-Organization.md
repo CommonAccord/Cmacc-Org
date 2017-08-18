@@ -4,9 +4,9 @@
 
 /=Read through to see how we break it up into red (hot, changing, business) terms and blue (cold, stable, lawyerly).
 
-/=When you click "Document" or "xEdit" you will get the 5th variation:
+/=When you click "Document" or "xEdit" you will get the 8th variation:
 
-Model.Root={7.sec}
+Model.Root={Alt8.sec}
  
 /=Here is the original:
 
