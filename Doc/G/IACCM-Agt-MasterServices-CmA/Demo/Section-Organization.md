@@ -6,50 +6,63 @@
 
 /=When you click "Document" or "xEdit" you will get the 8th variation:
 
-Model.Root={Alt8.sec}
+Model.Root={Alt10.sec}
  
 /=Here is the original:
 
-Alt1.sec=<ol><li>{Interprete.Sec}<li>{AgtLife.Sec}<li>{AnnexPriority.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Ownership.Sec}<li>{IP.Sec}<li>{Employ.Sec}<li>{Charge.Sec}<li>{Limit.Liability.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}<li>{NonSolicitation.Sec}<li>{Conf.Sec}<li>{EntireAgreement.Sec}<li>{Limit.No3PartyRight.Sec}<li>{Limit.ForceMajeure.Sec}<li>{Amend.Sec}<li>{Waive.Sec}<li>{Sever.Sec}<li>{Assign.Sec}<li>{Limit.NoPowerToBindOther.Sec}<li>{Notice.Sec}<li>{Counterpart.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}</ol>
-
-/=Here we have grouped the "Miscellaneous" terms into a Section:
-
-Alt2.sec=<ol><li>{Interprete.Sec}<li>{AgtLife.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Ownership.Sec}<li>{IP.Sec}<li>{Employ.Sec}<li>{Charge.Sec}<li>{Limit.Liability.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}<li>{NonSolicitation.Sec}<li>{Conf.Sec}<li>{Limit.No3PartyRight.Sec}<li>{Limit.ForceMajeure.Sec}<li>{Limit.NoPowerToBindOther.Sec}<li>{Notice.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}<li>{Misc.Sec}</ol>
+Alt1.sec=<ol><li>{Interprete.Sec}<li>{AgtLife.Sec}<li>{SoW.Sec}<li>{EmployOnExit.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{NoticeOfCustomerDefault.Sec}<li>{ChangeOfControl.Sec}<li>{Charge.Sec}<li>{Audit.Sec}<li>{IPR.Sec}<li>{Insure.Sec}<li>{ComplyWithLawAndPolicy.Sec}<li>{DataProtect.Sec}<li>{Conf.Sec}<li>{Limit.Liability.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}<li>{Injunction.Sec}<li>{Limit.ForceMajeure.Sec}<li>{Assign.Sec}<li>{Amend.Sec}<li>{Waive.Sec}<li>{BackgroundLaw.Sec}<li>{Sever.Sec}<li>{EntireAgreement.Sec}<li>{AnnexPriority.Sec}<li>{Limit.NoAgency.Sec}<li>{Limit.No3PartyRight.Sec}<li>{Notice.Sec}<li>{Counterpart.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}</ol>
 
 Interprete.Sec=<b>Interpretation</b><ol><li>{Def.Sec}<li>{Construe.Sec}</ol>
 
+/=Here we have grouped the "Miscellaneous" terms into a Section:
+
+Alt2.sec=<ol><li>{Interprete.Sec}<li>{AgtLife.Sec}<li>{SoW.Sec}<li>{EmployOnExit.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{NoticeOfCustomerDefault.Sec}<li>{ChangeOfControl.Sec}<li>{Charge.Sec}<li>{Audit.Sec}<li>{IPR.Sec}<li>{Insure.Sec}<li>{ComplyWithLawAndPolicy.Sec}<li>{DataProtect.Sec}<li>{Conf.Sec}<li>{Limit.Liability.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}<li>{Injunction.Sec}<li>{Limit.ForceMajeure.Sec}<li>{Limit.NoAgency.Sec}<li>{Limit.No3PartyRight.Sec}<li>{Notice.Sec}<li>{Counterpart.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}<li>{Misc.Sec}</ol>
+
+
 /=The notion of "Miscellaneous" is soft-shouldered - it could include Notices, GoverningLaw and even Disputes.  This is just a suggestion, oriented towards document mechanics.
  
-Misc.Sec=<b>Miscellaneous</b><ol><li>{AnnexPriority.Sec}<li>{EntireAgreement.Sec}<li>{Amend.Sec}<li>{Waive.Sec}<li>{Sever.Sec}<li>{Assign.Sec}<li>{Counterpart.Sec}</ol>
+Misc.Sec=<b>Miscellaneous</b><ol><li>{Assign.Sec}<li>{Amend.Sec}<li>{Waive.Sec}<li>{BackgroundLaw.Sec}<li>{Sever.Sec}<li>{EntireAgreement.Sec}<li>{AnnexPriority.Sec}<li>{Counterpart.Sec}</ol>
 
 /=Here we extract the "Limitations" - various provisions that say what the agreement doesn't do or the parties shouldn't.
 
-Alt3.sec=<ol><li>{Interprete.Sec}<li>{AgtLife.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Ownership.Sec}<li>{IP.Sec}<li>{Employ.Sec}<li>{Charge.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}<li>{Conf.Sec}<li>{Notice.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
+Alt3.sec=<ol><li>{Interprete.Sec}<li>{AgtLife.Sec}<li>{SoW.Sec}<li>{EmployOnExit.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{NoticeOfCustomerDefault.Sec}<li>{ChangeOfControl.Sec}<li>{Charge.Sec}<li>{Audit.Sec}<li>{IPR.Sec}<li>{Insure.Sec}<li>{Comply.Sec}<li>{DataProtect.Sec}<li>{Conf.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}<li>{Injunction.Sec}<li>{Notice.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
 
-Limit.Sec=<b>Limitations</b><ol><li>{Limit.Liability.Sec}<li>{NonSolicitation.Sec}<li>{Limit.No3PartyRight.Sec}<li>{Limit.ForceMajeure.Sec}<li>{Limit.NoPowerToBindOther.Sec}</ol>
+Limit.Sec=<b>Limitations</b><ol><li>{Limit.Liability.Sec}<li>{Limit.ForceMajeure.Sec}<li>{Limit.NoAgency.Sec}<li>{Limit.No3PartyRight.Sec}</ol>
 
-/=Here the term and termination provisions:
+/=Here the term and termination provisions, relating to the "Life" of the Agreement:
 
-Alt4.sec=<ol><li>{Interprete.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Ownership.Sec}<li>{IP.Sec}<li>{Employ.Sec}<li>{Charge.Sec}<li>{Conf.Sec}<li>{Notice.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
-Life.Sec=<b>Term and Termination</b><ol><li>{AgtLife.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}</ol>
+Alt4.sec=<ol><li>{Interprete.Sec}<li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{NoticeOfCustomerDefault.Sec}<li>{ChangeOfControl.Sec}<li>{Charge.Sec}<li>{Audit.Sec}<li>{IPR.Sec}<li>{Insure.Sec}<li>{ComplyWithLawAndPolicy.Sec}<li>{DataProtect.Sec}<li>{Conf.Sec}<li>{Injunction.Sec}<li>{Notice.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
+
+Life.Sec=<b>Term and Termination</b><ol><li>{AgtLife.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}<li>{EmployOnExit.Sec}</ol>
 
 /=Here dispute and legal related:
 
-Alt5.sec=<ol><li>{Interprete.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Ownership.Sec}<li>{IP.Sec}<li>{Employ.Sec}<li>{Charge.Sec}<li>{Conf.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
+Alt5.sec=<ol><li>{Interprete.Sec}<li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{NoticeOfCustomerDefault.Sec}<li>{ChangeOfControl.Sec}<li>{Charge.Sec}<li>{Audit.Sec}<li>{IPR.Sec}<li>{Insure.Sec}<li>{ComplyWithLawAndPolicy.Sec}<li>{DataProtect.Sec}<li>{Conf.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
 
-Dispute.Sec=<b>Governing Law, Notices, Disputes</b><ol><li>{Notice.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}</ol>
+Dispute.Sec=<b>Governing Law, Notices, Disputes</b><ol><li>{NoticeOfCustomerDefault.Sec}<li>{Injunction.Sec}<li>{Notice.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{DisputeForum.Sec}</ol>
 
 /=here the ownership and allocation, IP, Confidentiality:
-/=The result is a pretty business-oriented set of front sections with lawyerly back sections.  Something like Isabelle's "red terms" and "blue terms."
 
-Alt6.sec=<ol><li>{Interprete.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Charge.Sec}<li>{Own.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
+Alt6.sec=<ol><li>{Interprete.Sec}<li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{ChangeOfControl.Sec}<li>{Charge.Sec}<li>{Audit.Sec}<li>{Insure.Sec}<li>{ComplyWithLawAndPolicy.Sec}<li>{DataProtect.Sec}<li>{Own.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
 
-Own.Sec=<b>Ownership and Allocation of Intellectual Property; Confidentiality</b><ol><li>{Ownership.Sec}<li>{IP.Sec}<li>{Employ.Sec}<li>{Conf.Sec}</ol>
+Own.Sec=<b>Ownership and Allocation of Intellectual Property; Confidentiality</b><ol><li>{IPR.Sec}<li>{Conf.Sec}</ol>
+
+/=Breaking out the Remedies:
+
+Alt7.sec=<ol><li>{Interprete.Sec}<li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Charge.Sec}<li>{ComplyWithLawAndPolicy.Sec}<li>{DataProtect.Sec}<li>{Remedy.Sec}<li>{Own.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
+
+Remedy.Sec=<b>Remedies</b><ol><li>{ChangeOfControl.Sec}<li>{Audit.Sec}<li>{Insure.Sec}</ol>
+
+/=Breaking out the provisions that call for compliance:
+
+Alt8.sec=<ol><li>{Interprete.Sec}<li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Charge.Sec}<li>{Comply.Sec}<li>{Remedy.Sec}<li>{Own.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}</ol>
+
+Comply.Sec=<b>Compliance with Laws and Policies</b><ol><li>{ComplyWithLawAndPolicy.Sec}<li>{DataProtect.Sec}</ol>
 
 /=We can move "Interpretation" to the back.  This is controversial, but consistent with a notion of foreground changes, background is stable.
 
-Alt7.sec=<ol><li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Charge.Sec}<li>{Own.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}<li>{Interprete.Sec}</ol>
+Alt9.sec=<ol><li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Charge.Sec}<li>{Comply.Sec}<li>{Remedy.Sec}<li>{Own.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}<li>{Interprete.Sec}</ol>
 
-/=And we can put "variables" in the front.  Functionally, these are exactly like defined terms, but they are the kinds that change a lot:  Prices, Dates, Places, Specific arrangements.   The truly "red" points. 
+/=And we can put "variables" in the front.  This is "innovative," but becoming fairly widely practiced.  Legally, variables are exactly like defined terms, but they are the kinds that change a lot:  Prices, Dates, Places, Specific arrangements.   The truly "red" points.
 
-Alt8.sec=<ol><li>{Variable.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Charge.Sec}<li>{Own.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}<li>{Interprete.Sec}</ol>
+Alt10.sec=<ol><li>{Variable.Sec}<li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{Charge.Sec}<li>{Comply.Sec}<li>{Remedy.Sec}<li>{Own.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Limit.Sec}<li>{Misc.Sec}<li>{Interprete.Sec}</ol>
