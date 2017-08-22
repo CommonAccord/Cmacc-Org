@@ -1,24 +1,8 @@
-/=This shows a number of alternative outlines for a Master Services Agreement.  Each of these can be used with a Demo document to create a complete MSA (a bit of work to do yet, but soon).
+/=This is a deeper version of the outline.  It has grouped many sections as subsections, has a "variables" section up front and has moved the rest of the definitions to the back of the agreement.
 
-/=The names of each of the sections are of course also a matter of choice.  I have made some choices, but any other choices can be made.  The names can be long or short, can use nearly any character, can even have internal spaces.  But these are what makes good (not best) sense to me.
-
-/=Read through to see how we break it up into red (hot, changing, business) terms and blue (cold, stable, lawyerly).
-
-/=When you click "Document" or "xEdit" you will get the 3rd variation.  It has grouped many sections as subsections, has a "variables" section up front and has moved the rest of the definitions to the back of the agrement.
-
-Model.Root={Alt3.sec}
-
-//=We include the text of the agreement in each configuration.  This is a reference to the text library, where Sections are broken up and each given a name. 
-
-=[G/IACCM-Agt-MasterServices-CmA/Form/MSA/0.md]
-
-/=Here is the original:
-
-Alt1.sec=<ol><li>{Interprete.Sec}<li>{AgtLife.Sec}<li>{SoW.Sec}<li>{EmployOnExit.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{NoticeOfCustomerDefault.Sec}<li>{ChangeOrder.Sec}<li>{Charge.Sec}<li>{Audit.Sec}<li>{IPR.Sec}<li>{Insure.Sec}<li>{LawAndPolicy.Sec}<li>{DataProtect.Sec}<li>{Conf.Sec}<li>{Liability.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}<li>{Injunction.Sec}<li>{ForceMajeure.Sec}<li>{Assign.Sec}<li>{Amend.Sec}<li>{Waive.Sec}<li>{BackgroundLaw.Sec}<li>{Sever.Sec}<li>{Entire.Sec}<li>{AnnexPriority.Sec}<li>{NoPowerToBindOtherParty.Sec}<li>{No3PartyRight.Sec}<li>{Notice.Sec}<li>{Counterpart.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{Tribunal.Sec}</ol>
+Model.Root={sec}
 
 Interprete.Sec=<span class="sec-ti">Interpretation</span><ol><li>{Def.Sec}<li>{Construe.Sec}</ol>
-
-/=We will change them into more nested sections according to conventional headings.  Each of the new grouped sections has a name such as "Remedy.Sec":
 
 IP.Ti=Intellectual Property; Confidentiality
 
@@ -62,19 +46,17 @@ Misc.sec=<ol><li>{Assign.Sec}<li>{Amend.Sec}<li>{Waive.Sec}<li>{Sever.Sec}<li>{E
 
 Misc.=[G/Z/ol/Base]
 
-/=And now we restate the top-level outline to include these sections with subsections. 
+/=The agreement begins with a section of "Variables" - which are meant to be the key business points, such as dates, prices, rates and places.  The "Interprete" section, which is definitions and construction rules that mostly change rarely, is now moved to the end of the outline.
 
-Alt2.sec=<ol><li>{Interprete.Sec}<li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{ChangeOrder.Sec}<li>{Charge.Sec}<li>{IP.Sec}<li>{Comply.Sec}<li>{Limit.Sec}<li>{Remedy.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Misc.Sec}</ol>
-
-/=A third alternative is the same as Alt2, except that now the agreement begins with a section of "Variables" - which are meant to be the key business points, such as dates, prices, rates and places.  The "Interprete" section, which is definitions and construction rules that mostly change rarely, is now moved to the end of the outline.
-
-Alt3.sec=<ol><li>{Variable.Sec}<li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{ChangeOrder.Sec}<li>{Charge.Sec}<li>{IP.Sec}<li>{Comply.Sec}<li>{Limit.Sec}<li>{Remedy.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Misc.Sec}<li>{Interprete.Sec}</ol>
+sec=<ol><li>{Variable.Sec}<li>{SoW.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{ChangeOrder.Sec}<li>{Charge.Sec}<li>{IP.Sec}<li>{Comply.Sec}<li>{Limit.Sec}<li>{Remedy.Sec}<li>{Dispute.Sec}<li>{Life.Sec}<li>{Misc.Sec}<li>{Interprete.Sec}</ol>
 
 /=This is a blank for the variable section, along with some cross-references. 
 
 Variable.Sec=<span class="sec-ti">Variables</span><br>{Variable.0.sec}<ol><li>{Variable.secs}</ol>
 
 Variable.0.sec=The following terms shall be treated as defined terms in accordance with {Def.Xref}. 
+
+/=These are cross-references.  They give the correct section numbers corresponding to the above outline.
 
 SoW.Xnum=<a href="#SoW.Sec">2</a>
 
@@ -148,7 +130,7 @@ EmployOnExit.Xnum={Life.Xnum}.<a href="#EmployOnExit.Sec">4</a>
 
 Assign.Xnum={Misc.Xnum}.<a href="#Assign.Sec">1</a>
 
-Amend.Sec={Misc.Xnum}.<a href="#Amend.Sec">2</a>
+Amend.Xnum={Misc.Xnum}.<a href="#Amend.Sec">2</a>
 
 Waive.Xnum={Misc.Xnum}.<a href="#Waive.Sec">3</a>
 
