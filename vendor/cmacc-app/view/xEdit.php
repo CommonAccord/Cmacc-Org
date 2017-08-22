@@ -9,7 +9,7 @@ if (strlen($htmlHead) > 5) {
 
     echo $htmlHead;
 } else {
-    echo "<!DOCTYPE html><head><title>$dir</title><link  href='Doc/Z/CSS/Doc.css' rel='stylesheet' /> <link rel='icon' href='image/CmA-Square.png'>";
+    echo "<!DOCTYPE html><head><title>$dir</title><link  href='Doc/G/Z/CSS/Doc.css' rel='stylesheet' /> <link rel='icon' href='image/CmA-Square.png'>";
 }
 ?>
 <link rel="stylesheet"

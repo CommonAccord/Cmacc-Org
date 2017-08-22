@@ -1,6 +1,6 @@
-/=This shows the frame of a contract agreement with two parties, and the sections for a Master Services Agreement.  There are 10 progressively more hierarchical alternative organizations of the sections.  Each organization has the same 34 sections.  Alt1 was the original, and had them as a flat list from 1 to 34.  Alt2 combines some as subheadings, Alt3 combines some more, etc.  Alt10 is my preference, because it brings the business points up front and the legal terms are in the back.  Alt10 also has a notion of "Variables" - which are defined terms that are business points and change from one agreement to another.  This brings them to the attention of the parties and separates them from the rest of the Defined Terms, which are intended to be a stable vocabulary, in the back.
+/=This shows the frame of a contract agreement with two parties, and the sections for a Master Services Agreement.  In the Section-Organization page (follow the link) there are multiple variations on the organization of the outline.  Each outline has the same 34 sections.  Alt1 was the original, and had them as a flat list from 1 to 34.  Alt2 combines some as subheadings, Alt3 brings the business points up front and puts most of the legal terms are in the back.  It also has a notion of "Variables" - which are defined terms that are business points and change from one agreement to another.  This brings them to the attention of the parties and separates them from the rest of the Defined Terms, which are intended to be a stable vocabulary, in the back.
   
-sec={Alt10.sec}
+sec={Alt3.sec}
 
 /=We reference a frame for the agreement.  This has two parties and assumes a US style.  There are alternatives for more parties and for other jurisdictions.
 
