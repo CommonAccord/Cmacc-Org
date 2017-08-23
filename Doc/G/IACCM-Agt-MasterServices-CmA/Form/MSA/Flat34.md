@@ -4,8 +4,6 @@
 
 sec=<ol><li>{Interprete.Sec}<li>{AgtLife.Sec}<li>{SoW.Sec}<li>{EmployOnExit.Sec}<li>{SupplierObligation.Sec}<li>{CustomerObligation.Sec}<li>{NoticeOfCustomerDefault.Sec}<li>{ChangeOrder.Sec}<li>{Charge.Sec}<li>{Audit.Sec}<li>{IPR.Sec}<li>{Insure.Sec}<li>{LawAndPolicy.Sec}<li>{DataProtect.Sec}<li>{Conf.Sec}<li>{Liability.Sec}<li>{AgtStop.Sec}<li>{AgtAfter.Sec}<li>{Injunction.Sec}<li>{ForceMajeure.Sec}<li>{Assign.Sec}<li>{Amend.Sec}<li>{Waive.Sec}<li>{BackgroundLaw.Sec}<li>{Sever.Sec}<li>{Entire.Sec}<li>{AnnexPriority.Sec}<li>{NoPowerToBindOtherParty.Sec}<li>{No3PartyRight.Sec}<li>{Notice.Sec}<li>{Counterpart.Sec}<li>{ADR.Sec}<li>{GoverningLaw.Sec}<li>{Tribunal.Sec}</ol>
 
-Model.Root={sec}
-
 Interprete.Ti=Interpretation
 
 Interprete.sec=<ol><li>{Def.Sec}<li>{Construe.Sec}</ol>

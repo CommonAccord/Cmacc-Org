@@ -1,6 +1,6 @@
-/=This is a deeper version of the outline.  It has grouped many sections as subsections, has a "variables" section up front and has moved the rest of the definitions to the back of the agreement.
+/=This is a deeper version of the outline.  It has grouped many sections as subsections, has a "variables" section up front and has moved the rest of the definitions to the back of the agreement. (Click on "1" above to see the outline by itself.)
 
-Model.Root={sec}
+ShowMe1={sec}
 
 Interprete.Sec=<span class="sec-ti">Interpretation</span><ol><li>{Def.Sec}<li>{Construe.Sec}</ol>
 
