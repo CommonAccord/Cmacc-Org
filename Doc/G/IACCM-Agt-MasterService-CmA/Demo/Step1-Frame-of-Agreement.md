@@ -6,6 +6,6 @@
 
 Customer.=[G/U/id/acme_incorporated.md]
 
-Supplier.=[G/U/id/quake_incorporated.md]
+Provider.=[G/U/id/quake_incorporated.md]
 
-=[G/Agt-Form-CmA/US/Frame/Customer-Supplier/0.md]
+=[G/Agt-Form-CmA/US/Frame/Customer-Provider/0.md]
