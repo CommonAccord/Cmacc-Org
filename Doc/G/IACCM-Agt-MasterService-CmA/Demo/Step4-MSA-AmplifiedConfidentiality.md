@@ -1,6 +1,20 @@
-/=To demonstrate the flexibility of Prose Objects, we now override the Confidentiality Section of the original agreement and patch in a form that is our favorite (originally from CooleyGo but substantially modified).  This is a complex override, because the MSA defines "Confidential Information" in the text of the confidentiality provision, instead of as part of the list of the defined terms.  The override will be much simpler when we move the definition of Confidential Information.  Notice that the defined term link to "Confidential Information" works despite this different organization.
+EffectiveDate.YMD=2017-08-24
 
-/=We override Confidentiality:
+Conf.Life.sec={Conf.Life.Alt1.sec}
+
+Conf.Engage.Access.Cond.sec={Conf.Engage.Access.Cond.Alt2.sec}
+
+Conf.Engage.Access.Role.sec={Conf.Engage.Access.Role.Alt3.sec}
+
+Conf.Engage.Access.sec={Conf.Engage.Access.Alt2.sec}
+
+Conf.Intro.sec={Conf.Intro.Alt1.sec}
+
+/=To demonstrate the flexibility of Prose Objects, we now strengthen the treatment of Confidentiality by including the more extensive Confidentiality provisions and a more extensive definition of "Confidential Information."  We do that by referencing objects from the Agt-NDA-CmA form that originated with CooleyGo (but is substantially modified).  We override the definition of Confidential Information and the Section on Confidentiality.
+
+/=We override by referencing the desired provisions:
+
+Def.Confidential_Information.=[G/Agt-NDA-CmA/Sec/Def/Confidential_Information/0.md]
 
 Conf.=[G/Agt-NDA-CmA/Sec/Relate/Conf/0.md]
 
@@ -8,8 +22,5 @@ _P1={_Customer}
 
 _P2={_Provider}
 
-Def.Confidential_Information.=[G/Agt-NDA-CmA/Sec/Def/Confidential_Information/0.md]
-
-Conf.xlist=<ol>{Conf.Engage.LI}{Conf.Life.LI}{Conf.Except.LI}<li>{Conf.Publicity.Sec}</ol>
-
 =[G/IACCM-Agt-MasterService-CmA/Demo/Step3-MSA-FullText.md]
+
