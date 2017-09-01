@@ -32,7 +32,7 @@ Limit.ForceMajeure.=[G/IACCM-Cooperate-CmA/Sec/Relate/Limit/ForceMajeure/-Mitiga
 
 //=In the "Entire Agreement" section, the parties reference their two existing agreements and specify the impact of this Consulting Agreement on those agreements.
 
-Misc.Entire.Past.sec=The {_parties} terminate their {NDA.Doc.Ti} dated {NDA.EffectiveDate.YMD}, and replace it with the terms of this {Doc.Ti}, including the terms of {Relate.Conf.Xref}.  The {Cooperate.Doc.Ti} dated {Cooperate.EffectiveDate.YMD} continues and is not replaced.  In the event of any conflict, the terms of this {Doc.Ti} have priority over the terms of the {Cooperate.Doc.Ti}.
+Entire.Past.sec=The {_parties} terminate their {NDA.Doc.Ti} dated {NDA.EffectiveDate.YMD}, and replace it with the terms of this {Doc.Ti}, including the terms of {Conf.Xref}.  The {Cooperate.Doc.Ti} dated {Cooperate.EffectiveDate.YMD} continues and is not replaced.  In the event of any conflict, the terms of this {Doc.Ti} have priority over the terms of the {Cooperate.Doc.Ti}.
 
 Cooperate.=[G/IACCM-Cooperate-CmA/Demo/Acme-Quake/2-Cooperate.md]
 
