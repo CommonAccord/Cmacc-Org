@@ -8,11 +8,11 @@ Why.Secs={_P1} wishes to engage {_P2} to provide data security audits.
 
 EffectiveDate.YMD=2017-05-25
 
-Relate.Life.Term.End.YMD=2017-12-31
+Life.Term.End.YMD=2017-12-31
 
 Renew.TimeSpan=three-month periods
 
-Relate.Conf.Life.End.YMD=2020-12-31
+Conf.Life.End.YMD=2020-12-31
 
 NonRenew.Notice.TimeSpan=one-month
 
@@ -24,9 +24,11 @@ Cure.TimeSpan=fifteen days
 
 //=The NDA was mutual, but now the confidentiality engagement is one-way, protecting Acme's information.
 
-Relate.Conf.Intro.=[G/IACCM-Cooperate-CmA/Sec/Relate/Conf/Intro/-P1-to-P2/0.md]
+Conf.Intro.=[G/IACCM-Cooperate-CmA/Sec/Relate/Conf/Intro/-P1-to-P2/0.md]
 
-Relate.Limit.ForceMajeure.=[G/IACCM-Cooperate-CmA/Sec/Relate/Limit/ForceMajeure/-Mitigate/-LowCost/0.md]
+//=We select a variation on Force Majeure.
+
+Limit.ForceMajeure.=[G/IACCM-Cooperate-CmA/Sec/Relate/Limit/ForceMajeure/-Mitigate/-LowCost/0.md]
 
 //=In the "Entire Agreement" section, the parties reference their two existing agreements and specify the impact of this Consulting Agreement on those agreements.
 

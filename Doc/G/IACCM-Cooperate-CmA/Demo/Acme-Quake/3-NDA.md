@@ -6,9 +6,9 @@ Purpose.cl=discuss a possible collaboration between {_P1} and {_P2} in food deli
 
 EffectiveDate.YMD=2016-07-09
 
-Relate.Conf.Life.End.YMD=2020-12-31
+Conf.Life.End.YMD=2020-12-31
 
-Relate.Life.Term.End.YMD=2017-12-31
+Life.Term.End.YMD=2017-12-31
 
 //=Here is the form of NDA.  This uses the -NDA/-Mutual/ form instead of -NDA/-P1-to-P2/ or -NDA/-P2-to-P1/.  All are based on -NDA/.
 
