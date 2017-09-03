@@ -8,19 +8,19 @@ Why.Secs={_P1} wishes to engage {_P2} to provide data security audits.
 
 EffectiveDate.YMD=2017-05-25
 
-Life.Term.End.YMD=2017-12-31
+AgtLife.End.YMD=2017-12-31
 
-Renew.TimeSpan=three-month periods
+AgtLife.Renew.TimeSpan=three-month periods
 
 Conf.Life.End.YMD=2020-12-31
 
-NonRenew.Notice.TimeSpan=one-month
+AgtLife.NonRenew.Notice.TimeSpan=one-month
 
-Stop.ByClientWithoutCause.TimeSpan=one-month
+AgtStop.ByP1WithoutCause.TimeSpan=one-month
 
-Stop.ByConsultantWithoutCause.TimeSpan=three-months
+AgtStop.ByP2WithoutCause.TimeSpan=three-months
 
-Cure.TimeSpan=fifteen days
+BreachCure.TimeSpan=fifteen days
 
 //=The NDA was mutual, but now the confidentiality engagement is one-way, protecting Acme's information.
 

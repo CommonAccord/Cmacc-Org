@@ -4,6 +4,8 @@
 
 =[G/IACCM-Cooperate-CmA/Form/-Cooperate/0.md]
 
+Why.sec=The {_parties} wish to explore a relationship of customer-supplier relating to {_P1}'s needs for {_P2}'s products.
+
 EffectiveDate.YMD=2017-05-22
 
 End.YMD=2017-12-31

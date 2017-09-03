@@ -1,8 +1,8 @@
-//=The parties create the first SOW under the Consulting Agreement.
+//=The parties create the first SoW under the Consulting Agreement.
 
-MessageToUser=Our first SOW!
+MessageToUser=Our first SoW!
 
-GUID=Acme-Quake-SOW-0001
+GUID=Acme-Quake-SoW-0001
 
 EffectiveDate.YMD=2017-05-23
 
@@ -24,6 +24,6 @@ P2.xSignature=xSolomon Shirley
 
 P2.Sign.YMD=2017-05-26
 
-SOW.=[G/IACCM-Cooperate-CmA/Form/Annex/SOW/0.md]
+SoW.=[G/IACCM-Cooperate-CmA/Form/Annex/SoW/0.md]
 
 =[G/IACCM-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]

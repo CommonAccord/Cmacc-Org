@@ -18,9 +18,9 @@ Law.=[G/U/at/US/MA/Suffolk/Boston/Geo]
 
 Assign.=[G/IACCM-Cooperate-CmA/Sec/Relate/Assign/-MutualBan/-ExceptMerger/0.md]
 
-Dispute.Cost.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
+Cost.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
 
-Dispute.Tribunal.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
+Tribunal.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
 
 Conf.Engage.Access.=[G/IACCM-Cooperate-CmA/Sec/Relate/Conf/Engage/Access/-Entity/-EmployeeAndRep/-NeedToKnow/-Sign/0.md]
 

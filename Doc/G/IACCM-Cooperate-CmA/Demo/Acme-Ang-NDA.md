@@ -29,8 +29,8 @@ Life.Terminate.TimeSpan=30 days
 
 Assign.=[G/IACCM-Cooperate-CmA/Sec/Relate/Assign/-P2Ban/0.md]
 
-Dispute.Cost.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
+Cost.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
 
-Dispute.Tribunal.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
+Tribunal.=[G/IACCM-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
 
 =[G/IACCM-Cooperate-CmA/Form/-NDA/-P1-to-P2/0.md]
