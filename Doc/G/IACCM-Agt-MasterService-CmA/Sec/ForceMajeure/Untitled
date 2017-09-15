@@ -1,0 +1,377 @@
+This is very exciting.  I presume that the project shares the conviction that the public templates will require governance - something like Centres for Decentralised Governance.
+
+Your discussion of objects seems similar in its effect to CommonAccord, though we have a different syntax and maybe a different inheritance model.  Within a name space (for instance within an NDA or Consulting Agt form library) you can include such things as:
+{Conf.Sec}  - section on Confidentiality, with title
+{Conf.sec} - section, without title
+{Conf.Ti} - the title
+{Conf.Xref} - the section number
+{Conf.Engage.Copy.sec} just the confidentiality engagements against copying.
+A closing binder can be an object - http://www.commonaccord.org/index.php?action=source&file=G/SeriesSeed-Cooley-CmA/Demo/Acme_Equity_ClosingBinder.md, as can the sequence of steps in a transaction.
+
+This is done purely with naming conventions.  There is no code difference between, sec, Xref, etc.  So a community can develop its own conventions - e.g., for documents in other languages. 
+ 
+I did a brief video yesterday showing one wiki-ish way to organize Section libraries.  (https://www.youtube.com/watch?v=QrrVMdezydI&t=5s)
+
+I'm a fan of IPFS and think it is absolutely part of the solution, though I also see advantages to git as a platform for collaborative codification.  IPLD is tantalizingly close to our inheritance model, but a bit different.  A conversation with Juan Benet was begun sometime last year, but not finished.
+
+
+ 
+
+On Mon, Sep 4, 2017 at 11:09 PM, Aaron Wright <aaron.wright@gmail.com> wrote:
+
+What I see from the OpenLaw.io website and demo is a Ricardian model - params inform code and prose.  The Ricardian model makes perfect sense:  it's how an airline reservation system prints your ticket and receipt, or a web merchant makes a shipping manifest.  Ian Grigg formalized the notion and R3/UCL/Barclays - notably Clack/Bakshi/Braine, carried it further.  CommonAccord assumes this, indeed that was Primavera's observation when we met in May 2014.  If you "wrap" smart contracts in prose then you get real contracts that people, institutions and machines can deal with.  The "Wise Contracts" paper with Helena Haapio (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2925871) expresses this in some depth, and that coincided with the time that I sorted out how to nest git repos in Primavera's "/Doc/" folder, so "Prose Objects" now are separate repos.
+
+And an observation that was already borne-out in practice.  This approach was adopted in the 1990s for EDI agreements, which are widely used to govern commercial activity.  For OpenLaw, that's more of the reason why we choose to architect our system in this manner.
+ 
+
+OpenLaw also offers a valuable markdown-based document assembly format and tool.  I have not explored the details of the logic, but it looks simple and I assume that it offers some valuable innovations or simplifications.  Two things seem obvious to me, and this cuts to the root, I hope:
+
+
+It's much more than a markdown-based document assembly tool.  We're only showing the public a sliver right now :)
+
+Our markup language is just one "layer" of the four that we're building, and document assembly is simply one "app" that can rely on our structured templates.  At a high level, and as we've noted in our blog posts, we're building a legal protocol that helps structure parts of legal agreements that can be structured, while also enabling any of those agreements to interact with blockchain-based systems for storage, digital signatures, and smart contract execution. On top of that, we're building a collaborative platform to help lawyers work together to turn unstructured data (legal agreements) into structured data--via OpenLaw's markup language--and outputting that as a generic API.  
+
+We don't think all of that language of legal agreements can--or should be structured--because that's a top down and over engineered approach.  We're taking a looser approach one (essentially a functional programming approach) that is more bottoms-up. 
+
+As you'll continue to see over the next couple of weeks, our approach is highly modular and flexible.  We can turn anything into an object: an entire template, a clause, a part of a clause, and you can even build "groups" -- entire sets of documents.  Each clause can be tied to a smart contract and triggered when the agreement with that reference is fully executed.   
+ 
+Most of the Prose responds to dilemmas that are applicable across a broad range of transaction types.  Dispute resolution for token sales will have some specificity, perhaps, but will mostly (entirely?) be common to resolving disputes relating to other kinds of transactions, in a variety of jurisdictions, forums, languages, amounts-at-stake, among parties with/out other business relationships, with un/reachable assets, etc.  For the same reasons that coders do "DRY" (don't repeat yourself) and the ALI works on Restatements, and the ADR services publish preferred clauses, the source for the Prose used in the markdown should be sourced in a way that exploits these commonalities.  Anyone can see that nearly all of the work in form documents is rehashing, so the convergence will be huge.  Oliver asserts (correctly I think, unless it was the heat or the sun) that most legal prose responds to a few game-theory problems, so the compression could bring much of legal Prose down to a few algorithms expressed in code and words.
+
+Yup, and as noted above, in OpenLaw you'll be able to create a "Clause" object for a Dispute Resolution Provision and incorporate it in any agreement you want with a simple reference [[Dispute Resolution: Clause("Dispute Resolution")]]
+ 
+
+Oliver and Henning (and perhaps Harald Stieber?) go further in asserting that the algorithm can either "be" the deal or can export both Code and Prose.  Even if I'm not (yet?) persuaded as a general matter that our relationships should be expressed in code rather than prose or something else closer to people and existing institutions, I clearly see this within bounded problem domains - expressing financial flows, expressing the types of information that are "confidential," etc.  It seems to me that this is a driving factor and not a gating factor for open-sourcing the Code and the Prose.
+
+Great projects, but I'm still skeptical that the timing of this is right (from a CS perspective) or the right approach.  Code has many limits and will only tend to be useful for the immediate future for objectively verifiable facts.
+ 
+If we combine these two needs - broad reuse and broad agreement - we get modules in repos on Github.  IMHO, that's Prose Objects as we now have them, or something pretty close.  Within that model we've worked out solutions to most of the problems of re-use.  Prose Objects need contributions, and they will need governance.  I've long advocated this, now under the working title of "Centre for Decentralised Governance."  It's the goal of the collaboration with the IACCM and other discussions.
+
+In our opinion, lawyers won't use Github for the immediate future.  So, we've built easier collaboration tools. For example, we've already built versioning for OpenLaw, our templates are stored on IPFS, and shortly we will enable people to spin-up private versions that can access public templates but keep their own templates (or modified versions of public templates) private.   We think that's a better approach than Github repositories.  It's easier to use and more accessible.
+ 
+Of course, the Ricardian model doesn't "solve" the problems of i) code malfunction, ii) disconnect between Code and Prose, iii) misunderstanding by the parties, or iv) substantive unfairness.  It merely makes those easier to manage because DRY (should be "don't rehash yourself) promotes convergence, communication, feedback, analytics, etc.  The open source dynamic.
+
+Our model directly connects smart contract code to a traditional legal agreement, so there is less of an opportunity for a disconnect. If there is a misunderstanding, the parties can go to court or engage in other dispute resolution procedures with an agreement in place for a court to construe.  Again, this is what has worked for EDI agreements, so I doubt they will present much of a problem here.  I also think these problems are overstated, at least in the U.S.   The U.S. Supreme Court handled an encrypted code-based agreement back in the 1850s, and it was summarily addressed by our courts using basic contract law principles.
+ 
+
+Where I see a possible point of difference between OpenLaw.io and our vision is in the "document assembly" part.  The CommonAccord vision is document dis-assembly - we have a way (Primavera's code) to present the full document so that the record of the transaction can be just the differences - more or less the parameters and any patches to any existing solution.  If I've understood your demos, OpenLaw.io produces a record that has both parameters and resulting Prose.  Maybe I've misunderstood and in any event these are just two ways of looking through the telescope.  I don't see fundamental incompatibility.
+
+
+I'm not following :) But, I hope the above clarifies.  My sense is that you're viewing what we're doing a bit too narrowly.
+
+ 
+Certainly there is connection point in the modularization of the source Prose.  The components of the solution can be broken down and organized in wiki-like trees.  There is the issue of markdown versus HTML, but that does not seem a fundamental barrier.  CommonAccord used Mediawiki markdown for a while and XWiki markdown for another while.   In each case, the markdown was converted to HTML before rendering.  We find that HTML is a better fit for a couple of reasons:  i) it nests things very, very sweetly, including nested outline structures, clause snippets, etc. ii) it is more universal and there is a very wide range of tools for it, and iii) is closer to the final presentation (in a browser) so there is less to go wrong.  The disadvantage of HTML - relatively verbose markup - as a practical matter becomes quite secondary because nearly all work is tweeks on structures (documents, forms, sections, etc.) that already exist.  (At it's worst, HTML is about the same as Word Perfect, and much better than Word.)
+
+We can do HTML, markdown, and are getting close to polishing up an MS Word XML-based version.   Our system is incredibly well engineered, and we're hiring more engineers to increase the speed of our development and to transform more legal agreements into OpenLaw templates.
+
+Happy to discuss further.
+
+ 
+
+
+
+   
+
+
+
+
+
+
+
+
+On Sat, Sep 2, 2017 at 9:58 PM, Aaron Wright <aaron.wright@gmail.com> wrote:
+The smart contract is aligned and expressly tied to the written agreement.  You can't pay twice (or over the amount you've contracted for) and the smart contact won't trigger unless you've digitally signed the written token purchase agreement.
+
+This prevents DAO like issues.  Like we said in our blog post, we substantively solved this problem :)
+
+On Sat, Sep 2, 2017 at 1:55 PM James Hazard <james.g.hazard@gmail.com> wrote:
+Hi Aaron,  
+
+Thanks for the response, but I don't understand it.  Does it address the concern that Fennie raised - a difference between expectation (intent), prose (wet) and execution (dry).  What if the smart contract actually pays twice, or not at all?  I presume you don't have in mind a "The DAO" kind of regime where the deal is (post-hoc) whatever the code did.
+
+Thanks.
+
+
+
+On Sat, Sep 2, 2017 at 8:26 PM, Aaron Wright <aaron.wright@gmail.com> wrote:
+There could be for in certain instances, but not in this implementation.  It's only handling payment and the transfer of the tokens and the smart contact is incorporated by reference. 
+
+
+On Sat, Sep 2, 2017 at 12:18 PM James Hazard <james.g.hazard@gmail.com> wrote:
+Not to be picky, but isn't it a brave assertion that there won't be a mismatch between wet and dry?  Indeed, isn't that impossible, given that wet is soft and dry is crispy?  There will always be ambiguity, suppleness, unexpected interpretations in language, and usually (always?) be idiosyncrasies or unexpected conditions in software.  
+
+  
+
+On Sat, Sep 2, 2017 at 6:35 PM, Aaron Wright <aaron.wright@gmail.com> wrote:
+Great questions!  The ERC20 smart token purchase agreement is running on the testnet so it's not in production use.  No one has used it for an ICO.
+
+I'd be happy to discuss the technical design.  But, that's a longer conversation.  If you have specific questions, let me know and I can explain!
+
+In terms of the wet v. dry code question, if the language of the agreement is not altered, there won't be a mismatch.  In terms of liability, there's a limitation of liability that's baked into the agreement on the part of the selling party.  Our templates will be freely editable, so other limitation of liability provisions could be included if desired by the selling party.
+
+On Sat, Sep 2, 2017 at 7:20 AM, Fennie Wang <fennie.wang84@gmail.com> wrote:
+Hi Aaron - 
+
+Is the OpenLaw ERC20 smart token sale purchase agreement ready for production use?  Has anyone used it yet in an ICO?  This has very real practical implications for me as we are looking to launch an ICO later this year.  I'd be very curious to learn more about OpenLaw's purchase agreement both from a technical design and a legal enforcement perspective.  For example, is there a mechanism or legal clause that addresses what happens if there is a mismatch between the programming markup language ("dry" code) and the legal ("wet" code) language?  Where does the liability fall if there is a failure in the execution of the code or some other technical mishap e.g. tokens aren't properly transferred, ether is hacked, etc?  
+
+https://media.consensys.net/making-token-sales-smart-28fe2011512f
+
+Many thanks,
+Fennie 
+
+On Thu, Aug 31, 2017 at 2:41 PM, James Hazard <james.g.hazard@gmail.com> wrote:
+The "wet" world of administrations and judges is very largely governed by documents.  The wet interface is words.  Use the words that wet systems want, and you'll mostly get the desired result.  "JD printing," on the analogy of 3D printing.  Put the right words on a page and have someone put the page on the right desk.  If not signed or stamped by the person at the desk, then you have to fix something upstream, maybe just some words. 
+
+Most of these questions can be handled at the appropriate level - by automation, administration or arbitration - without resort to the judiciary.  And when judges are needed, the issues can mostly be packaged to look familiar.  Was the "force majeure" event a real impediment to performance?  Did the Code do something different than what was described in the Prose contract?  
+
+The gain in certainty, speed, cost and clarity will be orders of magnitude greater than any new difficulties of enforcement. 
+
+
+
+On Thu, Aug 31, 2017 at 3:07 PM, Thomas Hardjono <hardjono@mit.edu> wrote:
+
+Thanks Aaron & Jim,
+
+>>> Smart contracts don't operate in a legal vacuum.
+
+Absolutely agree.  One of the hardest issues is the interface/boundary between digital and real-world.
+
+We're all seeing this re-played again in the space of "digital identity" (almost a repeat of the late 1990s).
+
+
+>>> The harder problem here seems to be practical:  familiarizing
+>>> a judiciary with the technology and setting it up such that they
+>>> have appropriate controls to execute the smart contract.
+
+Trying to get the judiciary to understand digital signatures (Digital Signatures Act) was a long process.
+
+Seems like getting them to understand smart contracts (e.g. self-executing copies of code, on a P2P network, possibly with external inputs depending on the system, read/writing to a shared ledger, possibly in cascading model, etc etc.) will take longer time.
+
+Best.
+
+/thomas/
+
+
+
+________________________________________
+From: James Hazard [james.g.hazard@gmail.com]
+Sent: Tuesday, August 29, 2017 1:40 AM
+To: Aaron Wright
+Cc: Thomas Hardjono; coala-smart-contracts@googlegroups.com; hardjono@media.mit.edu
+Subject: Re: Roll-backs vs Compensates -- RE: RE:
+
+Agreed.
+
+Regarding Aaron's point of familiarizing the judiciary, the same of course applies to the DMV when Bob transfers title to the car, and to the recorder of deeds, security interest recorders, etc., in my examples. A thought on this:
+
+
+  1.  The Ricardian paradigm can be pretty easily extended to official bureaucratic processes. A court case looks a lot like a business transaction - a collection of persons and a sequence of documents - http://www.commonaccord.org/index.php?action=source&file=Wx/com/pa/Settlement/Class_Action_Settlement_Demo_1.md (see also http://www.commonaccord.org/index.php?action=source&file=G/AIII-v-SAS-PatentProtectiveOrder-CmA/Demo_ProtectiveOrder.md)  Even if the agencies are not yet on board, Ricardian documents can be generated and submitted to agencies, and a notary (next) can validate that they were (validly) stamped or signed by the agency.
+  2.  To the extent that the court/DMV/recorder are acting as oracles but not fully on board with P2P, it may make sense to intermediate their actions with a kind of P2P notary - a person (human or entity) who will certify events such as that the DMV has issued a new (valid) title in Alice's name, or that a court official stamped a (valid) signed judgment ordering release of the escrowed funds to Alice (or Bob).  This notary function would have to have its own dispute resolution mechanisms because contracts are "incomplete" (Hart, Holmström).  So, the notary function would have an arbitration mechanism.  Arbitration can be tailored and the decisions have very wide enforceability.
+
+On Tue, Aug 29, 2017 at 7:16 AM, Aaron Wright <aaron.wright@gmail.com<mailto:aaron.wright@gmail.com>> wrote:
+Thomas
+
+a) the judge would issue a judgment, which would be enforced off-chain.  In other words, assuming that Bob had other assets, those assets could be used to satisfy the judgment (and that would include liens, garnishment of future income, etc.).  Smart contracts don't operate in a legal vacuum.
+
+b) to the extent (a) doesn't solve the issue, I don't see why it's technically not possible to create a judicially triggered smart contract, at least in Solidity.    The payment smart contract could be designed to have a safety value invoked by the judge or a clerk's office.  If Bob's account had sufficient BTC, the smart contract could remit it back to Alice.  However, Bob's account could lack sufficient funds and then other enforcement mechanisms, such as those described above, could be explored to satisfy the "smart" judgment.
+
+As Jim notes, a judicially triggered smart contract could decrease the cost and expense of (a), but ultimately (a) will be needed in a number of scenarios.
+
+The harder problem here seems to be practical:  familiarizing a judiciary with the technology and setting it up such that they have appropriate controls to execute the smart contract.
+
+On Mon, Aug 28, 2017 at 12:32 PM, James Hazard <james.g.hazard@gmail.com<mailto:james.g.hazard@gmail.com>> wrote:
+Thanks.  The first year of law school - even virtual - is meant to be hard.
+
+The scenario presents a theoretical problem only if Bob is unfindable or insolvent at the time Alice seeks to collect Judy's judgment.  It presents a practical problem if it is expensive (as it often is) to collect.
+
+One way to improve the situation is to aggregate transactions into reputations.  The practical problem becomes much more manageable if there is repeat business.  One value of sites such as eBay, Airbnb, etc. is that they aggregate the reputations of participants, reducing the advantage of cheating in a single transaction.
+
+(An oddity of some "decentralization" discussions in the blockchain space that it means greater anonymity.  My orientation is that decentralization should make it easier to do business with people who are close to you, instead of distant giants.)
+
+But pursuing the hypothetical, the same problem can be posed in a legal setting without the assumptions of anonymity.  Let's say that Bob is the sole shareholder in BobCo, a corporation (with limited liability) that owns a piece of real estate (Blackacre) and nothing else.  BobCo sells Blackacre to Alice.  BobCo then dissolves and distributes the proceeds to Bob.  Bob spends the proceeds on the good life.  Two years later, Alice discovers toxic waste on Blackacre and is compelled by law to spend a sum to clean it up that climbs to three times the purchase price.  Does Alice have recourse against Bob for:
+
+  1.  nothing because the distribution to him was valid when done,
+  2.  the purchase price because BobCo actually had a debt though "unliquidated" (not quantified) at the time of the distribution, or
+  3.  more because Bob did know or should have known about the toxic waste or the law otherwise imposes some special liability?
+
+The same problem arises in selling a business.  The usual legal planning solutions include an escrow of some or all of the funds, a security interest against Bob's assets, a guaranty by Bob's rich relation, or insurance (an industrial form of guarantee).
+
+
+
+
+On Mon, Aug 28, 2017 at 6:38 PM, Thomas Hardjono <hardjono@mit.edu<mailto:hardjono@mit.edu>> wrote:
+
+Thanks Jim,
+
+Still a newbie here, please be gentle :-)
+
+Apologies that my the question was unclear -- Let me use an example:
+
+So Alice buys Bob's car using a smart-contract.  The pre-sale inspection paperwork (e.g. CarFax, etc) are available as input into the smart-contract, etc. etc.
+
+The transaction is settled on the blockchain, payment made in BTC (say), settlement recorded on the blockchain, Alice drives away happily, blockchain moves on.
+
+Then 6 months later, things start going bad with the car. Alice takes it to her garage and the mechanic gives her the worst news (e.g. piston cracked, gearbox grounded, pick your pain).
+
+Alice then sues Bob in court. The judge (Judy) rules in favor of Alice, and Bob has to compensate $$ to Alice.
+
+(a) General question: how does the judge force Bob to surrender "assets" (e.g. pay BTC back to Alice). The judge and court are off-chain (extra-blockchain).
+
+(b) Specific question/idea:
+
+- Could the original transaction on the blockchain 6 months ago have a "second executable part" (together with legal prose) that triggers only when a judge Judy supplies her private-key.
+
+- What if Bob no longer has any assets on the blockchain to which this second-part applies?
+
+
+Thoughts?
+
+
+/thomas/
+
+
+
+
+________________________________________
+From: James Hazard [james.g.hazard@gmail.com<mailto:james.g.hazard@gmail.com>]
+Sent: Sunday, August 27, 2017 9:58 AM
+To: Thomas Hardjono
+Cc: coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com>; hardjono@media.mit.edu<mailto:hardjono@media.mit.edu>; mengwong@gmail.com<mailto:mengwong@gmail.com>
+Subject: RE:
+
+Thomas,
+
+This is the notion of "cross-default," common in many contract relationships.  It can also be triggered by events relating to third-parties.
+Jim
+
+On Aug 27, 2017 4:47 PM, "Thomas Hardjono" <hardjono@mit.edu<mailto:hardjono@mit.edu><mailto:hardjono@mit.edu<mailto:hardjono@mit.edu>>> wrote:
+
+Meng,
+
+This is a great chapter on smart contracts.
+
+I was curious if in your literature research you ever saw the notion of a "compensating transaction" or "compensating clause" (my terminology).
+
+The idea is that a smart contract should have "exception handling" parts that executes only when a dispute is raised after the completion of the execution. The idea is not so much to "rollback" smart contracts (that are running on supposedly immutable ledgers), but rather for both parties to agree that the "compensating clause" will be executed if either side raises a dispute after the completion of a deal.
+
+For example, assume company A and B have several contracts running concurrently (unrelated to each other) related to several business deals going on.  The CEO of company A might want all contracts to be "suspended" should company B raises a dispute in court. Vice versa.
+
+
+Best.
+
+/thomas/
+
+
+
+
+________________________________________
+From: coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com><mailto:coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com>> [coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com><mailto:coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com>>] on behalf of Meng Weng Wong [mengwong@gmail.com<mailto:mengwong@gmail.com><mailto:mengwong@gmail.com<mailto:mengwong@gmail.com>>]
+Sent: Saturday, August 26, 2017 10:10 PM
+To: coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com><mailto:coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com>>
+Subject:
+
+A few months ago Florian asked me to contribute a chapter to a book he's editing.
+
+In the chapter, I try to explain some of the history behind contract templates, computable contracts, and blockchain smart contracts. I came up with a three-generation model that seems to fit the facts. I hope this is a useful contribution to the discourse and would be grateful to hear any feedback!
+
+The latest draft is at https://legalese.com/doc/chapter-201707.html
+
+Comments are welcome, ideally in the form of pull requests directly against https://github.com/legalese/legalese-compiler/tree/master/doc/chapter-201707.org
+
+I plan to present some of this at the Stanford CodeX event coming in September and would be happy for it to be reused for Coala's purposes.
+
+I will also contribute something more specific about Legalese as requested. I'll be away at Burning Man for the next few days so please expect something after Sep 14 or so.
+
+cheers
+meng
+
+In preparation for the October meeting, it would be great to circulate a rough draft of the smart contracts paper at the meeting.
+
+Finally, I have sent you an invite to join the COALA Smart Contracts Google Groups, which will provide us with one email for all the team members: coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com><mailto:coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com>>.
+
+Please let me know if you have any issues!  If you could send a rough draft by September 21 that would be much appreciated.  This way we'll have a month before Florida to review, revert, revise.
+
+
+--
+You received this message because you are subscribed to the Google Groups "COALA Smart Contracts Working Group" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to coala-smart-contracts+unsubscribe@googlegroups.com<mailto:coala-smart-contracts%2Bunsubscribe@googlegroups.com><mailto:coala-smart-contracts%2Bunsubscribe@googlegroups.com<mailto:coala-smart-contracts%252Bunsubscribe@googlegroups.com>><mailto:coala-smart-contracts+unsubscribe@googlegroups.com<mailto:coala-smart-contracts%2Bunsubscribe@googlegroups.com><mailto:coala-smart-contracts%2Bunsubscribe@googlegroups.com<mailto:coala-smart-contracts%252Bunsubscribe@googlegroups.com>>>.
+To post to this group, send email to coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com><mailto:coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com>><mailto:coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com><mailto:coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com>>>.
+To view this discussion on the web visit https://groups.google.com/d/msgid/coala-smart-contracts/CA%2Br%2BiyictgOfrq-Vfkwft7fS_ZpjNAy%3DrB55UOYqnGUJPRmYcQ%40mail.gmail.com<https://groups.google.com/d/msgid/coala-smart-contracts/CA%2Br%2BiyictgOfrq-Vfkwft7fS_ZpjNAy%3DrB55UOYqnGUJPRmYcQ%40mail.gmail.com?utm_medium=email&utm_source=footer>.
+For more options, visit https://groups.google.com/d/optout.
+
+--
+You received this message because you are subscribed to the Google Groups "COALA Smart Contracts Working Group" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to coala-smart-contracts+unsubscribe@googlegroups.com<mailto:coala-smart-contracts%2Bunsubscribe@googlegroups.com><mailto:coala-smart-contracts%2Bunsubscribe@googlegroups.com<mailto:coala-smart-contracts%252Bunsubscribe@googlegroups.com>>.
+To post to this group, send email to coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com><mailto:coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com>>.
+To view this discussion on the web visit https://groups.google.com/d/msgid/coala-smart-contracts/5E393DF26B791A428E5F003BB6C5342ADDE62E86%40OC11EXPO33.exchange.mit.edu.
+For more options, visit https://groups.google.com/d/optout.
+
+
+
+--
+@commonaccord
+
+--
+You received this message because you are subscribed to the Google Groups "COALA Smart Contracts Working Group" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to coala-smart-contracts+unsubscribe@googlegroups.com<mailto:coala-smart-contracts+unsubscribe@googlegroups.com>.
+To post to this group, send email to coala-smart-contracts@googlegroups.com<mailto:coala-smart-contracts@googlegroups.com>.
+To view this discussion on the web visit https://groups.google.com/d/msgid/coala-smart-contracts/CAGubq%2BYRSgzaMb7pSF44qnRt51-WnYbk5Qm8dcYXo5zByEYHgg%40mail.gmail.com<https://groups.google.com/d/msgid/coala-smart-contracts/CAGubq%2BYRSgzaMb7pSF44qnRt51-WnYbk5Qm8dcYXo5zByEYHgg%40mail.gmail.com?utm_medium=email&utm_source=footer>.
+
+For more options, visit https://groups.google.com/d/optout.
+
+
+
+
+--
+@commonaccord
+
+
+
+-- 
+@commonaccord
+-- 
+You received this message because you are subscribed to the Google Groups "COALA Smart Contracts Working Group" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to coala-smart-contracts+unsubscribe@googlegroups.com.
+To post to this group, send email to coala-smart-contracts@googlegroups.com.
+To view this discussion on the web visit https://groups.google.com/d/msgid/coala-smart-contracts/CAGubq%2BZ1J%2BpcOcuUSy8nk75E4OwbR6vhRTSgCf5MJubHSTMWWA%40mail.gmail.com.
+
+For more options, visit https://groups.google.com/d/optout.
+
+
+
+-- 
+Fennie Wang
+Microjustice for All, Project Coordinator
+fennie.wang@microjustice4all.org
++256 (0) 787 267 036
+Kampala, Uganda
+http://www.microjustice4all.org
+http://wallstreetrefugee.wordpress.com
+
+
+
+
+-- 
+@commonaccord
+
+
+
+-- 
+@commonaccord
+
+
+
+-- 
+@commonaccord
+-- 
+You received this message because you are subscribed to the Google Groups "COALA Smart Contracts Working Group" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to coala-smart-contracts+unsubscribe@googlegroups.com.
+To post to this group, send email to coala-smart-contracts@googlegroups.com.
+To view this discussion on the web visit https://groups.google.com/d/msgid/coala-smart-contracts/CAGubq%2BbDcGqZgqndkxnzWazd%2BGsrYaK6zZLXobQr9SX6ZeRuEw%40mail.gmail.com.
+
+For more options, visit https://groups.google.com/d/optout.
+
+
+
+
+-- 
+@commonaccord
