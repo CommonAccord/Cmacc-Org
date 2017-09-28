@@ -28,8 +28,8 @@ $files = scandir($path.$dir);
 if(file_exists($path.$dir . 'list.html')) {
   echo "<div>"; 
    include $path.$dir . 'list.html';
-echo "<br><a href='index.php?action=edit&file=$dir" ;
-echo "list.html'>(Edit)</a></div>";
+# echo "<br><a href='index.php?action=edit&file=$dir" ;
+# echo "list.html'>(Edit)</a></div>";
 }
 
 echo '<div class="listings">';
