@@ -68,7 +68,7 @@ BfmPodcast.Link=<a href="http://bfmbusiness.bfmtv.com/mediaplayer/audio/bfm-1106
 
 DemoDocName=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md
 
-DocumentsFolder.sec=<a href="index.php?action=list&file=/">Top level</a> folder of files.
+DocumentsFolder.sec=<a href="index.php?action=list&file=">Top level</a> folder of files.
 
 SubjectIndex.Sec=<a href="index.php?action=list&file=/S/Index/">Subject Index</a> of (some) materials.
 
