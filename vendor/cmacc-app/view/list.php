@@ -23,14 +23,23 @@ echo "<center><a href=" . URLFORDOCSINREPO . $dir.">Github</a> &emsp;</div>";
 } 
 
 $files = scandir($path.$dir);
-
+# playing whackamole with bot that overwrites "list.html".
+if (file_exists($path.$dir . 'listintro.html'))
+ {
+  echo "<div>"; 
+  include $path.$dir . 'listintro.html';
+ }  
+ else
+ {
 
 if(file_exists($path.$dir . 'list.html')) {
   echo "<div>"; 
    include $path.$dir . 'list.html';
+# removing the edit button, because a bot is hitting /G/list.html
 # echo "<br><a href='index.php?action=edit&file=$dir" ;
 # echo "list.html'>(Edit)</a></div>";
-}
+    }
+ }
 
 echo '<div class="listings">';
 echo "<div id='content-list'>";
