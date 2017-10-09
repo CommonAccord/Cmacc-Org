@@ -1,6 +1,4 @@
-//=This page is just an information sheet for other pages.  So it does not render into a full document. 
-
-//=We point to Acme and Quake identities, give their names for use in the document, and give the page an ID.
+//=This page is just an information sheet for other pages.  So it does not render into a full document.  We point to Acme and Quake identities, give their names for use in the document, and give the page an ID.
 
 P1.=[G/U/id/acme_incorporated.md]
 
@@ -12,7 +10,7 @@ _P2=<a href="#Def.P2.Sec" class="definedterm">Quake</a>
 
 Doc.GUID=Acme-Quake-D0001
 
-//=They make a couple of general choices about their relationship, such as how how disputes should be handled.  These choices can be included in their agreements.
+//=Their legal leads make a couple of general choices about their relationship, such as how how disputes should be handled.  These choices become defaults for use in their agreements.
 
 Law.=[G/U/at/US/MA/Suffolk/Boston/Geo]
 

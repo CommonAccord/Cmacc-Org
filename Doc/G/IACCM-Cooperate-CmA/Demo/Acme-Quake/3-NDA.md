@@ -1,4 +1,4 @@
-//=This presents the record of a completed NDA.  We build our agreement from the base of a Mutual NDA (see the bottom), making choices about various issues and filling in dates.  
+//=This presents the record of a completed NDA.  We build our agreement from the base of a Mutual NDA (see the bottom).  The "Connect" page has a number of defaults. We can tweak any aspect, but here we just fill in the dates.  
 
 =[G/IACCM-Cooperate-CmA/Demo/Acme-Quake/1-Connect.md]
 
