@@ -102,6 +102,9 @@ print "$_=\n" foreach @arr;
 
 # print "$_=<a href='#Def.$_.sec' class='definedterm'>$_</a>\n" foreach @arr;
 
+# To make a new Xnum, with a hyperlink to the Section:
+
+# print "$_.Xnum=<a href='#$_.Sec' class='xref'></a>\n" foreach @arr;
 
 # To make a new Param, with a hyperlink to the definition:
 
