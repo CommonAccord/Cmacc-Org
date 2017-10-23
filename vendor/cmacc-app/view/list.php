@@ -51,7 +51,7 @@ foreach($files as $f) {
                 }
         }
         else {
-                if( !( ($f == 'list.html') || ($f == 'README.md') || preg_match('/^\./', $f) ) ) {
+                if( !( ($f == 'list.html') || ($f == 'listintro.html') || ($f == 'README.md') || preg_match('/^\./', $f) ) ) {
                         echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f id='$f' title='$f'><img height=20 src='" . ASSETS_PATH . "/play.png'> $f</a>";
                 }
         }
