@@ -42,7 +42,7 @@ span :hover {
 	outline: 2px dotted olive;
         background-color: #aaf0ff;
 	margin: 10px 10px 10px 10px;
-
+}
 .dealpoint {
 	color: #008800;
         text-transform : underline;
@@ -86,3 +86,4 @@ span :hover {
 	color: #8F0000;
         text-transform : uppercase;
         font-weight: bold;
+}

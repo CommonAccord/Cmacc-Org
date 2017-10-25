@@ -1,3 +1,6 @@
+Vendor.Services.cl=information security
+
+EffectiveDate.YMD=2017-10-24
 
 Customer.=[G/U/id/acme_incorporated.md]
 
