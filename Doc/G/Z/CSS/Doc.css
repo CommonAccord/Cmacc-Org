@@ -17,7 +17,7 @@ span {
 }
 
 span :hover { 
-    background-color: #f0f0ff;
+    background-color: #ffffff;
 }
 
 .sec-ti {
@@ -46,8 +46,9 @@ span :hover {
 }  
 
 .definedterm {
-	color: green ;
+	color: #004400 ;
         text-decoration: none;
+	font-weight: 550 ;
 }  
 
 .param {
@@ -63,6 +64,7 @@ span :hover {
 .xref {
 	color: blue ;
         text-decoration: none;
+	font-weight: 550 ;
 
 }  
 
