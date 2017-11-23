@@ -1,7 +1,8 @@
 body { 
     background-color: #ffffff;
     font-size: 100%;
-    font: arial, sans-serif;
+    font-family: Comic Sans MS, sans-serif;
+    letter-spacing: 2px;
 }
 
 .paras {
