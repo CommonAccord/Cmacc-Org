@@ -103,7 +103,13 @@ case 'jaw':
         include('./vendor/cmacc-app/view/jaw.php');
         break;
 
-    case 'list':
+
+case 'cicero':
+
+        include('./vendor/cmacc-app/view/cicero.php');
+        break;
+
+case 'list':
 
         include('./vendor/cmacc-app/view/list.php');
         break;
