@@ -22,6 +22,6 @@ Addendum.6.sec=<span class="param">"N/A"</span>
 
 Addendum.7.sec=<span class="param">Beginning on February 1, 2018 and continuing until February 28, 2018.</span>
 
-Model.Root={Addendum.Sec}
+Model.Root={Addendum.Sec}<hr><hr><h3>Sections referenced so that that links to Defined Terms mostly work.</h3><hr><hr><h4>This.Sec</h4><hr>{This.Sec}<hr><hr><h4>Def.Sec</h4><hr>{Def.Sec}<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 =[G/TechContractsCom-ITMA-CmA/Demo/Acme-Quake.md]
