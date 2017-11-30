@@ -1,10 +1,10 @@
-SeriesA.Quantity.#=500
+SeriesA.Quantity.#=550
 
 Founder.List.andcl={Founder1.Name.Full} and {Founder2.Name.Full}
 
-SeriesA.SubscriptionPrice$=$1,000
+SeriesA.SubscriptionPrice$=$900
 
-Convert.Automatic.GrossProceeds.$=$51,000,000
+Convert.Automatic.GrossProceeds.$=$25,000,000
 
 Company.=[G/U/id/acme_incorporated.md]
 
