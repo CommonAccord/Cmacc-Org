@@ -20,7 +20,7 @@ Company.Value.After.$=$4,000,000
 
 Round.Share.Title=Series A
 
-Round.Share.OriginalPurchasePrice.$=7.00
+OriginalPurchasePrice.$=7.00
 
 DividendStart.Date.YMD=2019-01-30
 
@@ -30,7 +30,7 @@ Convert.Offering.Share.Price.$=$20.00
 
 Convert.Offering.Price.Total.$=$80,000,000
 
-EmployeeReserveShares.Quantity.#=80,000
+EmployeeReserveShares.Total.#=80,000
 
 Redeem.Installments.Begin.YearsAfterPurchaser.years=four years
 
