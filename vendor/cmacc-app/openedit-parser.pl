@@ -94,13 +94,13 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # print "$_=\n" foreach @arr;
 
-# Key=Key;
+# Key=Key
 
-# print "$_=$_\n" foreach @arr;
+print "$_=$_\n" foreach @arr;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
-print "$_=<a href='#Def.$_.sec' class='definedterm'>$_</a>\n" foreach @arr;
+# print "$_=<a href='#Def.$_.sec' class='definedterm'>$_</a>\n" foreach @arr;
 
 # To make a new Xnum, with a hyperlink to the Section:
 
