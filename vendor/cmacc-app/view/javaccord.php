@@ -46,6 +46,7 @@ elseif(isset($v)) {
         echo "</tr>";
 }
 
+echo "\"";
 
 ?>
 </table>
