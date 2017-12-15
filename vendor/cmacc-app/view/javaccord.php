@@ -26,7 +26,7 @@ if(preg_match('/\[(.+?)\]/', $v, $matches)) {
 	  echo "$k=$vlink\\n"; 
    }
    else{ 
-     $vlink = "=[" . $matches . "]"; //don't wrap in link for IPLD view
+     $vlink = "=[" . $matches[1] . "]"; //don't wrap in link for IPLD view
      echo "$vlink\\n"; 
    }
 }
