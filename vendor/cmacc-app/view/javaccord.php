@@ -26,7 +26,7 @@ if(preg_match('/\[(.+?)\]/', $v, $matches)) {
 	  echo "$k=$vlink\\n"; 
    }
    else{ 
-     $vlink = "[" . str_replace('.', '_', str_replace('/', '_', $matches[1])) . "]"; //don't wrap in link for IPLD view
+     $vlink = "=[" . str_replace('.', '_', str_replace('/', '_', $matches[1])) . "]"; //don't wrap in link for IPLD view
      echo "$vlink\\n"; 
    }
 }
