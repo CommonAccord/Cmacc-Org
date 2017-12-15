@@ -1,19 +1,4 @@
 <?php
-include("header.php");
-
-include("$lib_path/view-tabs.php");
-
-?>
-
-
-<h4>IPLD source view:</h4>
-
-
-<div id="tab-source">
-
-<!--table formatting for the document -->
-<!--<table class="TFtable";>-->
-<?php
 echo "\"" . $dir . "\" , \"";
 
 foreach($contents as $n) {
@@ -49,16 +34,3 @@ elseif(isset($v)) {
 echo "\"";
 
 ?>
-</table>
-
-</div>
-
-
-</div>
-
-
-
-
-</div></div>
-
-</div>
