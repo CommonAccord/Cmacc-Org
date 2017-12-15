@@ -14,7 +14,7 @@ include("$lib_path/view-tabs.php");
 <!--table formatting for the document -->
 <!--<table class="TFtable";>-->
 <?php
-echo "\"" . str_replace('.', '_', str_replace('/', '_', $dir)) . "\" , \"";
+echo "\"" . $dir . "\" , \"";
 
 foreach($contents as $n) {
         list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
@@ -22,11 +22,11 @@ foreach($contents as $n) {
 if(preg_match('/\[(.+?)\]/', $v, $matches)) {
  
    if(strlen($k) > 0){
-     $vlink = "[" . str_replace('.', '_', str_replace('/', '_', $matches[1])) . "]" ;//don't wrap in link for IPLD view
+     $vlink = "[" . $matches[1] . "]" ;//don't wrap in link for IPLD view
 	  echo "$k=$vlink\\n"; 
    }
    else{ 
-     $vlink = "=[" . str_replace('.', '_', str_replace('/', '_', $matches[1])) . "]"; //don't wrap in link for IPLD view
+     $vlink = "=[" . $matches . "]"; //don't wrap in link for IPLD view
      echo "$vlink\\n"; 
    }
 }
