@@ -14,6 +14,8 @@ my $remote_cnt = 0;
 my $path = "./Doc/";
 my $orig;
 
+my $filelist = "";
+
 sub parse {
 	
 	my($file,$root,$part) = @_; my $f;
@@ -59,9 +61,12 @@ sub parse_root {
 			else {
 				$root = parse($path.$what, $newfield || $field, $part);
 			}
+	$filelist = $filelist . "<br><br>[" . $what. "]";
+
 			return $root if $root;
 		}
-	}
+	      }
+	
 	return $root;
 
 } 
@@ -84,6 +89,8 @@ foreach( $$field =~ /\{([^}]+)\}/g ) {
 
 
 my $output  = parse($ARGV[0], "Model.Root");
+# print $output . "\n\n" . $filelist;
+
 print $output;
 
 #clean up the temporary files (remote fetching)
