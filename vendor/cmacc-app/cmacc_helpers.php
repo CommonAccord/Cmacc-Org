@@ -215,6 +215,11 @@ case 'list':
         include('./vendor/cmacc-app/view/visual.php');
         break;
 
+    case 'xray':
+
+        include('./vendor/cmacc-app/view/xray.php');
+        break;
+
 
     default:
         include($_REQUEST['action'] . '.php');
