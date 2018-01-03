@@ -88,7 +88,7 @@ switch ($_REQUEST['action']) {
             }
         }
 
-        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
+        $content = file_get_contents($path . $dir);
         $contents = explode("\n", $content);
         $rootdir = pathinfo($dir);
         $filenameX = basename($dir);
@@ -123,7 +123,7 @@ switch ($_REQUEST['action']) {
             }
         }
 
-        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
+        $content = file_get_contents($path . $dir);
         $contents = explode("\n", $content);
         $rootdir = pathinfo($dir);
         $filenameX = basename($dir);
@@ -188,7 +188,7 @@ case 'list':
             }
         }
 
-        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
+        $content = file_get_contents($path . $dir);
         $contents = explode("\n", $content);
 
         //source.php includes the formatting for the table that displays the components of a document

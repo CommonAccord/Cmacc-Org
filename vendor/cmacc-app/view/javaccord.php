@@ -1,7 +1,7 @@
 <?php
-echo "<html><head><title>" . $dir . "</title></head><body>";
+echo  $dir . "<br>";
 
-$break = "\\n";
+$break = "<br>";
 
 foreach($contents as $n) {
         list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
@@ -33,6 +33,6 @@ elseif(isset($v)) {
 #        echo "</tr>";
 }
 
-echo "</body></html>";
+echo "";
 
 ?>
