@@ -13,6 +13,8 @@ echo "<a href=index.php?action=xEdit&file=$dir>xEdit</a> ";
 
 echo "<a href=index.php?action=visual&file=$dir> Visual</a> ";
 
+echo "<a href=index.php?action=cicero&file=$dir> Cicero</a> ";
+
 echo "<a href=index.php?action=print&file=$dir>".PRINT_TAB_MESSAGE."</a> ";
 
 echo " &emsp; Source views: ";
