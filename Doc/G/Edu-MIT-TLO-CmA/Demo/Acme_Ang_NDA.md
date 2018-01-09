@@ -4,6 +4,8 @@ Deal.#=Acme-45678
 
 EffectiveDate.YMD=2017-12-16
 
+=[G/Edu-MIT-TLO-CmA/NDA/Form/Mutual/0.md]  
+
 P1.=[G/U/id/acme_incorporated.md]
 
 _P1=Acme
@@ -24,5 +26,3 @@ P2.Sign.YMD=2017-12-14
 State.Of=Massachusetts
 
 Annex.Div=</i>
-
-=[G/Edu-MIT-TLO-CmA/NDA/Form/Mutual/0.md]

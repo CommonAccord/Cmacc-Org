@@ -1,6 +1,6 @@
 From=http://web.mit.edu/tlo/www/misc/forms.html.
 
-=[Z/Agt/Agt.md]
+=[G/Agt-Form-CmA/US/0.md]
 
 =[Wx/edu/mit/tlo/NDA/Sec/Phrases_v0.md]
 
@@ -42,7 +42,7 @@ P2.Contact.Block=For {P2.Handle}:<br><br>{P2.Contact1.N/A/T/E/F}<br><br>{P2.Cont
 
 Prologue.NowTherefore=In consideration of {Therefore.Roles}, the parties hereby agree as follows:
 
-Secs={Conf._Sec}</li><li>{Use._Sec}</li><li>{Care._Sec}</li><li>{Compelled._Sec}</li><li>{Disclaim.Warranty._Sec}</li><li>{Term._Sec}</li><li>{Remedy.Conf.Return._Sec}</li><li>{Notice._Sec}</li><li>{Misc._Sec}
+sec=<ol><li>{Conf._Sec}</li><li>{Use._Sec}</li><li>{Care._Sec}</li><li>{Compelled._Sec}</li><li>{Disclaim.Warranty._Sec}</li><li>{Term._Sec}</li><li>{Remedy.Conf.Return._Sec}</li><li>{Notice._Sec}</li><li>{Misc._Sec}</ol>
 
 Conf._Sec=<u>{Conf.Title}</u>. {Conf._sec}
 
