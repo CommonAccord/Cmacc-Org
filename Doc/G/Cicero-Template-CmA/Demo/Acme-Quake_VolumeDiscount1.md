@@ -8,10 +8,6 @@ secondRate=2.75
 
 thirdRate=2.50
 
-P1.Handle={_P1}
-
-P2.Handle={_P2}
-
 P1.=[G/U/id/acme_incorporated.md]
 
 _P1=Card Issuer
