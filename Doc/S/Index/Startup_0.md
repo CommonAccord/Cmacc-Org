@@ -22,9 +22,7 @@ Ti=Startup Documents
 
 1.9.sec=<a href="index.php?action=list&file=G/YCombinator-Note-SAFE-CmA/">G/YCombinator-Note-SAFE-CmA/</a>
 
-1.10.sec=<a href="index.php?action=list&file=G/YCombinator-SaaS-CmA/">G/YCombinator-SaaS-CmA/</a>
-
-1.=[G/Z/ol/s10]
+1.=[G/Z/ol/s9]
 
 2.Ti=French
 
