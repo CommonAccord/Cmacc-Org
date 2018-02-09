@@ -92,11 +92,11 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # Key=
 
-# print "$_=\n" foreach @arr;
+print "$_=\n" foreach @arr;
 
 # Key=Key
 
-print "$_=$_\n" foreach @arr;
+# print "$_=$_\n" foreach @arr;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 

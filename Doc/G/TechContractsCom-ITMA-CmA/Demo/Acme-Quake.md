@@ -4,7 +4,7 @@ Doc.GUID=<span class="param">Acme-Quake-d0001</span>
 
 EffectiveDate.YMD=<span class="param">2017-10-25</span>
 
-Why.sec=<span class="param">Acme has a network of warehouses and wishes to have Quake transition the management of the related IT systems to Quake's platform and manage it for Acme.</span>
+Why.sec=<span class="param">Quake will create a human resources management software system for Acme, consisting of software provided for use on Acme's computers and software-as-a-service hosted by Quake, and Quake will provide Acme with professional services related to development and support of that system.</span>
 
 EffectiveDate.YMD=<span class="param">2017-10-25</span>
 

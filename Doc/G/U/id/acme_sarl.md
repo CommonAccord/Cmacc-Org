@@ -6,9 +6,9 @@ Personality.type=French SARL
 
 Adr.Type=registered
 
-Cap.All.#=100.000 Euros
+FR.Capital.All.#=100.000 Euros
 
-Cap.All.Spelled.FR=Cent Mille Euros
+FR.Capital.All.Spelled=Cent Mille Euros
 
 Register.Account.#={RCS.#}
 
