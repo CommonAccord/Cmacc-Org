@@ -14,6 +14,8 @@ Phone=617.771.6161
 
 Fax=617.771.1234
 
+Personality.type=law firm
+
 Adr.Type=principal business 
 
 Signer.Name.Full=Quentin Quade
