@@ -21,3 +21,5 @@ Fee.100Example.IfBeforeComplaint.Client.$=$56.66
 Fee.100Example.IfAfterComplaint.Atty.$=$40.00
 
 Fee.100Example.IfAfterComplaint.Client.$=$50.00
+
+Atty.HourlyRate.$=$250.00
