@@ -8,6 +8,8 @@ Phone=1.617.716.4536
 
 Fax=1.617.345.1234
 
+Capital.All.#=$250,000
+
 FR.Capital.All=Deux cents cinquante milles dollars US
 
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
