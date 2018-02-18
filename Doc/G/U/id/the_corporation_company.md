@@ -2,9 +2,13 @@
 
 Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
 
+Register.Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
+
 Name.Full=The Corporation Company
 
-Adr.1=111 Front Street
+Adr.Street.#=111
+
+Adr.Street.Name=Front Street
 
 Adr.Zip=19850
 

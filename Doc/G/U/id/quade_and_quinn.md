@@ -21,3 +21,5 @@ Adr.Type=principal business
 Signer.Name.Full=Quentin Quade
 
 Signer.Title=Partner
+
+Register.Adr.=[G/U/at/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
