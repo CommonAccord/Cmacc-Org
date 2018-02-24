@@ -6,6 +6,6 @@ CO.=[G/U/id/the_corporation_company.md]
 
 US.Contract.Among.Sec={RSO.US.Contract.Among.Sec}{CO.US.Contract.Among.Sec}
 
-Annex.=[G/Kantara-UMA-Legal/ToS/CO-RqpA.md]
+Parent.=[G/Kantara-UMA-Legal/ToS/ASO-RSO.md]
 
 =[G/Kantara-UMA-Legal/ToS/Z-Template.md]

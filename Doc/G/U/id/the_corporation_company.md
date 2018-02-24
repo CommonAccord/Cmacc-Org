@@ -4,7 +4,9 @@ Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
 
 Register.Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
 
-Name.Full=The Corporation Company
+Name.Given=The Corporation Company
+
+Name.Inc=Incorporated
 
 Adr.Street.#=111
 
@@ -14,10 +16,12 @@ Adr.Zip=19850
 
 Adr.Type=official
 
-SignBy=By: <u>{xSignature}</u><br/>Name: {Secretary.Name.Full}<br/>Its: {Secretary.Title}
-
 Sign.Name.Full={Secretary.Name.Full}
 
-Sign.Title={Secretary.Title}
+Personality.type=Delaware corporation
 
-entity=Delaware corporation
+Register.Account.#=67583920
+
+Signer.US.M/Ms_NameFull=Ms. Charlene Champlain
+
+Signer.Title=Corporate Secretary

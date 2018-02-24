@@ -18,8 +18,11 @@ Personality.type=law firm
 
 Adr.Type=principal business 
 
-Signer.Name.Full=Quentin Quade
+Signer.=[G/U/id/quentin_quade.md]
 
 Signer.Title=Partner
 
+Register.Account.#=102938475
+
+{Signer.US.M/Ms_NameFull}
 Register.Adr.=[G/U/at/US/MA/Middlesex/Cambridge/Broadway/1/Geo]

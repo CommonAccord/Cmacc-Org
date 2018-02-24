@@ -6,6 +6,6 @@ RSO.=[G/U/id/state_street_corporation.md]
 
 US.Contract.Among.Sec={ASO.US.Contract.Among.Sec}{RSO.US.Contract.Among.Sec}
   
-Annex.=[G/Kantara-UMA-Legal/ToS/RSO-CO.md]
+Parent.=[G/Kantara-UMA-Legal/ToS/RO-ASO.md]
 
 =[G/Kantara-UMA-Legal/ToS/Z-Template.md]
