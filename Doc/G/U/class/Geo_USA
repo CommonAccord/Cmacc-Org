@@ -52,6 +52,9 @@ N,H,1,2,UK,Attn={Name}, {H,1,2,UK}, {Attn}
 
 N/H/1/2/UK/Attn={Name}<br>{H/1/2/UK}<br>{Attn}
 
+Forum.USDC.cl=in the US District Court for, {County}, {State} or, if it cannot acquire jurisdiction, in the state courts for {County}, {State}
+
+Forum.State.cl=in the state courts for {County}, {State}
 
 Model.Root={Geo.?}
 
