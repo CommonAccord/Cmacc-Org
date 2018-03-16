@@ -1,4 +1,5 @@
 P
 D
 .DS_Store
-
+.gitignore
+.gitattributes
