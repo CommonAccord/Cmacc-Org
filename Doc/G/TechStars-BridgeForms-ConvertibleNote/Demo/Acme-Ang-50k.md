@@ -24,7 +24,7 @@ Company.=[G/U/id/acme_incorporated.md]
 
 Investor.=[G/U/id/andrea_ang.md]
 
-Law.=[G/U/at/US/CA/Geo]
+Law.=[G/U/at/US/RI/Geo]
 
 Company.xSignature=x Abigail Altima
 
