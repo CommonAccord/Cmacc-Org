@@ -16,9 +16,9 @@ Event.QualifiedFinancing.CapValuation.$=$6,000,000
 
 Event.Maturity.VoluntaryValuation.$=$5,000,000
 
-Event.Liquidation.Multiplier.#=1.20
+Event.Liquidation.Multiplier.#=2.8
 
-3.1.2.sec={3.1.2.Alt1.sec}
+Event.Financing.Cap.sec={Event.Financing.Cap.Yes.sec}
 
 Company.=[G/U/id/acme_incorporated.md]
 
