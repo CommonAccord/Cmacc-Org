@@ -58,7 +58,7 @@ span :hover {
 
 .highlight {
 	color: purple ;
-        font-weight: bold;
+        font-style: italic;
 }  
 
 .xref {
