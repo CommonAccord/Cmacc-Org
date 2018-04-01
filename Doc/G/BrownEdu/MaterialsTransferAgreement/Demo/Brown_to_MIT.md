@@ -28,4 +28,4 @@ Provider.Scientist.=[G/U/id/andrea_ang.md]
 
 Provider.Institution.Handle=Provider Institution
 
-=[G/BrownU/MaterialsTransferAgreement/Outbound/Form/0.md]
+=[G/BrownEdu/MaterialsTransferAgreement/Outbound/Form/0.md]
