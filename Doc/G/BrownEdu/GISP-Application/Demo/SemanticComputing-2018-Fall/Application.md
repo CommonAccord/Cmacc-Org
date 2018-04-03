@@ -8,7 +8,7 @@ GISP.Year=2018
 
 IncludeTheTable=
 
-Purpose of your course=
+Purpose of your course= Organize info
 
 Guiding questions=
 
