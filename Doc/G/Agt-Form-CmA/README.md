@@ -11,9 +11,7 @@ So the user should mount this in /Doc/G/CmA_F_Form-Agt.  You should be able then
 
 This is experimental, and let’s see if it feels good.
 
-Note=A use of this can be seen at:
+Note=Uses of this can be seen across the website - for instance at:
   
-* http://commonaccord.org/index.php?action=doc&file=S/Sandbox/Form/Form-Agt-FR-Demo.md
-    
-* http://commonaccord.org/index.php?action=doc&file=S/Sandbox/Form/Form-Agt-US-Demo.md  
+* <a href="http://www.commonaccord.org/index.php?action=source&file=G/Agt-NDA-CmA/Demo/Acme-Ang/0.md">http://www.commonaccord.org/index.php?action=source&file=G/Agt-NDA-CmA/Demo/Acme-Ang/0.md</a>
     
