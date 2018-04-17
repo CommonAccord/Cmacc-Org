@@ -8,7 +8,9 @@ Ti=Beginning of List of Articles:
 
 3.=[G/EU-GDPR-Law-CmA/Sec/Article/3.md]
 
-4.=[G/EU-GDPR-Law-CmA/Sec/Article/4.md]
+4.Sec={Def.Sec}
+
+Def.=[G/EU-GDPR-Law-CmA/Sec/Article/4.md]
 
 5.=[G/EU-GDPR-Law-CmA/Sec/Article/5.md]
 
