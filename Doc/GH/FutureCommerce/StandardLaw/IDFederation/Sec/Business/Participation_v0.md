@@ -16,10 +16,10 @@ Ti=Participation in the ID Federation
 
 1.5.sec=Remain in compliance with all applicable Rules of the Trust Framework, including payment of applicable fees.
 
-1.=[Z/ol-i/s5]
+1.=[G/Z/ol-i/s5]
 
 2.Ti=Continued Compliance
 
 2.sec=Every Party shall remain in compliance with the current Rules of this Trust Framework for so long as the Party is a Participant in the ID Federation. Every Party must review the ID Federation website or other means designated or approved by the Policy Authority from time to time for updates to the Trust Framework, including without limitation the Formal Policies, Official Documents, or Rules.
 
-=[Z/ol-a/2]
+=[G/Z/ol-a/2]

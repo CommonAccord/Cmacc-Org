@@ -18,7 +18,7 @@ Ti=Technology Requirements for IdPs and RPs
 
 0.Sec={3.0.sec}
 
-0.=[Z/ol-none/s7]
+0.=[G/Z/ol-none/s7]
 
 1.Ti=Establishing Initial ID Federation Relationship Between IdPs and RPs
 
@@ -32,6 +32,6 @@ Ti=Technology Requirements for IdPs and RPs
 
 1.2.sec=All Participants must implement an agreed upon level of time synchronization on all infrastructure providing IdP or RP services. Time synchronization is required to ensure that timeouts and expirations can be applied correctly across multiple systems and eliminate the risk of time drift generating connectivity issues. Clock synchronization is critical for ID Federation to be successful. It is recommended that partners participating in federation use a standard time sync tool, such as NTP pool or any central service the federation partners are signed up with. It is recommended the degree of tolerance should not exceed Stratum 3.
 
-1.=[Z/ol-i/2]
+1.=[G/Z/ol-i/2]
 
-=[Z/ol-a/1]
+=[G/Z/ol-a/1]

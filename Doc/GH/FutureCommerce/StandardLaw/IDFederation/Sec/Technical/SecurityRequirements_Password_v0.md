@@ -6,7 +6,7 @@ Ti=Password
 
 1.2.sec=Encrypted with AES algorithm with minimum 128-bit key
 
-1.=[Z/f/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.0.sec=Passwords protected in motion (one of the following)
 
@@ -14,7 +14,7 @@ Ti=Password
 
 2.2.sec=Encrypt the channel using either SSL V3.0 or TLS V1.0 (or higher)
 
-2.=[Z/f/ol/s2]
+2.=[G/Z/ol/s2]
 
 3.0.sec=Password strength standards
 
@@ -30,9 +30,9 @@ Ti=Password
 
 3.2.4.sec=Special character
 
-3.2=[Z/f/ol/s4]
+3.2=[G/Z/ol/s4]
 
-3.=[Z/f/ol/s2]
+3.=[G/Z/ol/s2]
 
 4.Ti=Password Expiration
 
@@ -54,4 +54,4 @@ passwords may be selected for reuse;
 A new password may not be changed again for forty-eight (48) hours in
 prevention of password recycling
 
-=[Z/f/ol/4]
+=[G/Z/ol/s4]

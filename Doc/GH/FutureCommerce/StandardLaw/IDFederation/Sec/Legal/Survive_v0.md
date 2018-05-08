@@ -4,4 +4,4 @@ Ti=Survival
 
 2.sec=The following obligations shall additionally survive suspension: 1.04(c).
 
-=[Z/f/para/s2]
+=[G/Z/para/s2]

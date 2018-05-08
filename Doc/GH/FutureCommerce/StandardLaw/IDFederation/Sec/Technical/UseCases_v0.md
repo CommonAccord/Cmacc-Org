@@ -12,4 +12,4 @@ Ti=Use Cases
 
 3.sec=The active and pending Use Cases are fully detailed in the ID Federation Use Cases Specification, which is hereby incorporated by reference into this Trust Framework and are attached hereto at Appendix G.
 
-=[Z/ol-a/3]
+=[G/Z/ol-a/3]

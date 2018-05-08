@@ -20,8 +20,8 @@ Title.3.sec=April 30, 2014
 
 Ti=<center><b>{Title.sec}</b></center>
 
-Title.=[Z/f/paras/s3]
+Title.=[G/Z/paras/s3]
 
 00.sec=<hr><hr><br>{Appendix.List.sec}
   
-=[Z/ol/Base]
+=[G/Z/ol/Base]

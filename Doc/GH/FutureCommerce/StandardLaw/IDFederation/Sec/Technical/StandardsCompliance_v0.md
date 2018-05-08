@@ -15,7 +15,7 @@ Ti=Standards Conformance (IdP & RP)
 
 1.2.sec=WS-Federation is an identity federation specification, developed by BEA Systems, BMC Software, CA Inc., IBM, Layer 7 Technologies, Microsoft, Novell, Ping Identity, and VeriSign. Part of the larger Web Services Security framework, WS-Federation defines mechanisms for allowing disparate security realms to broker information on identities, Identity Attributes and Authentication.
 
-1.=[Z/ol-i/2]
+1.=[G/Z/ol-i/2]
 
 2.Ti=Profiles
 
@@ -29,7 +29,7 @@ Ti=Standards Conformance (IdP & RP)
 
 2.2.sec=WS-Federation Passive Requester Profile, WS-Federation Active Requester Profile
 
-2.=[Z/ol-i/2]
+2.=[G/Z/ol-i/2]
 
 3.Ti=Attributes
 
@@ -41,7 +41,7 @@ Ti=Standards Conformance (IdP & RP)
 
 3.1.2.sec=Organization Identifier: The Federation Operator maintains a list of all Participants in the Participant Directory.
 
-3.1.=[Z/f/ol/s2]
+3.1.=[G/Z/ol/s2]
 
 3.2.Ti=Optional Attributes
 
@@ -55,12 +55,12 @@ Ti=Standards Conformance (IdP & RP)
 
 3.2.4.sec=Any additional attributes which are deemed relevant between the two federating parties
 
-3.2.=[Z/f/ol/s4]
+3.2.=[G/Z/ol/s4]
 
 3.3.Ti=Attribute Uniqueness
 
 3.3.sec=Attributes are required to be assigned names in the form of a URL. This is to ensure uniqueness. For example: Attribute Name identifies an attribute called ‘name’ qualified by a namespace in the form of a URL. This is a predefined attribute type defined by Microsoft. If Participants require a ‘name’ attribute with different semantics, something like this could be used: Attribute Name. See the appropriate standards for SAML and WS-Federation attribute naming requirements.
 
-3.=[Z/ol-i/3]
+3.=[G/Z/ol-i/3]
 
-=[Z/ol-a/3]
+=[G/Z/ol-a/3]

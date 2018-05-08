@@ -72,4 +72,4 @@ Ti=Glossary
 
 37.sec=User Authority (UA) - A User Authority (UA) is a Participant that provisions, maintains and deprovisions Tokens for Individual Users within its business. 
 
-=[Z/f/paras/s37]
+=[G/Z/paras/s37]

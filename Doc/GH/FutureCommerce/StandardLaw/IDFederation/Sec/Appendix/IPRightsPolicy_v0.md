@@ -38,11 +38,11 @@ Ti=Intellectual Property Rights Policy
 
 5.3.sec=“Specification Version 1.0” means Article 3 “Technical” of the ID Federation Trust Framework.
 
-5.=[Z/ol-none/s3]
+5.=[G/Z/ol-none/s3]
 
 6.Ti=Retained Rights
 
 6.sec=Except as explicitly set forth in this Policy, each Member reserves any and all rights in its intellectual property.
 Survival. This Policy shall survive any termination of a Member’s membership in the ID Federation.
 
-=[Z/f/ol/6]
+=[G/Z/ol/6]

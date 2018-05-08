@@ -15,11 +15,11 @@ Ti=Security Requirements (IdP & RP)
 
 1.1.3.sec=An IdP must have a process to ensure credentials will never be sent to an RP where the User’s ID is suspended, terminated, or revoked by the vendor
 
-1.1.=[Z/f/ol/s3]
+1.1.=[G/Z/ol/s3]
 
 1.2.=[GH/FutureCommerce/StandardLaw/IDFederation/Sec/Technical/SecurityRequirements_Password_v0.md]
 
-1.=[Z/ol-i/2]
+1.=[G/Z/ol-i/2]
 
 
 2.Ti=Certificate
@@ -38,7 +38,7 @@ Ti=Security Requirements (IdP & RP)
 
 2.3.sec=Each organization must obtain its own certificates. Certificates are validated on use to meet date, name, issuer and revocation requirements.
 
-2.=[Z/ol-i/3]
+2.=[G/Z/ol-i/3]
 
 3.Ti=Delegation
 
@@ -50,7 +50,7 @@ Ti=Security Requirements (IdP & RP)
 
 4.2.sec=All IdPs and RPs are required to deploy appropriate log monitoring and alerting mechanisms for the purpose of identifying and responding to potential threats and attacks. The term of retention for logging shall be agreed upon between IdP and RP.
 
-4.=[Z/ol-i/s2]
+4.=[G/Z/ol-i/s2]
 
 5.Ti=General Enterprise Security Controls
 
@@ -100,6 +100,6 @@ Operating System (OS) patching;
 Configuration management;
 Vulnerability scanning
 
-5.=[Z/ol-i/s5]
+5.=[G/Z/ol-i/s5]
 
-=[Z/ol-a/5]
+=[G/Z/ol-a/5]

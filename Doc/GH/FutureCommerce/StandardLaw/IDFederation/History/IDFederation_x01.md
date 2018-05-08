@@ -6,7 +6,7 @@ Title.2.sec=Identity Federation Rules For The Insurance & Financial Services Ind
 
 Title.3.sec=April 30, 2014
 
-Title.=[Z/f/paras/s3]
+Title.=[G/Z/paras/s3]
 
 0.Ti=Mission Statement
 
@@ -22,4 +22,4 @@ Title.=[Z/f/paras/s3]
 
 00.sec=<hr><hr><br>{4.List.sec}
   
-=[Z/f/ol/4]
+=[G/Z/ol/4]

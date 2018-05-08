@@ -18,6 +18,6 @@ Ti=Dispute Resolution
 
 1.4.sec=Notwithstanding the foregoing, any controversy or claim arising out of or relating to these Rules, or the breach thereof involving intellectual property rights shall not be subject to arbitration.
 
-1.=[Z/ol-i/4]
+1.=[G/Z/ol-i/4]
 
-=[Z/ol-a/1]
+=[G/Z/ol-a/1]

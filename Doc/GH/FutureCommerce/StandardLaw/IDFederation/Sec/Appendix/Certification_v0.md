@@ -20,7 +20,7 @@ FootNote1=Identity Providers are certified by the ID Federation and are granted 
 
 2.3.sec=(iii) The certification has been approved by the Board of Directors.
 
-2.=[Z/ol-i/s3]
+2.=[G/Z/ol-i/s3]
 
 3.Ti=Certification Process
 
@@ -34,7 +34,7 @@ FootNote1=Identity Providers are certified by the ID Federation and are granted 
 
 4.2.sec=(ii) The Identity Provider must be a member in good standing.
 
-4.=[Z/ol-i/s2]
+4.=[G/Z/ol-i/s2]
 
 5.Ti=Methods for Certification
 
@@ -46,7 +46,7 @@ FootNote1=Identity Providers are certified by the ID Federation and are granted 
 
 5.3.sec=(iii) The Identity Provider must provide a SOC 2 Type 2 Report specific to the processing location for the service that covers confidentiality, integrity, availability, and security.
 
-5.=[Z/ol-i/s3]
+5.=[G/Z/ol-i/s3]
 
 6.Ti=Assessment Report
 
@@ -56,4 +56,4 @@ FootNote1=Identity Providers are certified by the ID Federation and are granted 
 
 7.sec=The ID Federation Board of Directors shall review and evaluate the Assessment Report and any other relevant information in making the final decision on certification of a service. The Board of Directors may include stipulations in its granting of certifications. This Certification Policy may be revised from time to time by the ID Federation Board of Directors. The Participant must review the ID Federation website or other means designated or approved by the Policy Authority from time to time for updates to the certification policy.
   
-=[Z/f/ol/7]
+=[G/Z/ol/7]

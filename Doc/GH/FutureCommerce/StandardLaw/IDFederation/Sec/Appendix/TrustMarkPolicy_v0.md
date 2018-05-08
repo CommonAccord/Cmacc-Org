@@ -15,9 +15,9 @@ Ti=ID Federation Trust Mark Policy
 
 1.1.3.sec=(c) Use of the Certification Trust Mark is permitted only for so long as the Certified Service continues to comply with the standards under which certification was granted (as may be amended from time to time). In the event a Participant is terminated or suspended, all use of the Trust Mark must immediately cease and be removed from existing materials and online content until and unless the Participant is restored to active status.
 
-1.1.=[Z/ol-a/s3]
+1.1.=[G/Z/ol-a/s3]
 
-1.=[Z/f/ol/1]
+1.=[G/Z/ol/1]
 
 2.Ti=2.0 Membership Trust Mark
 
@@ -31,12 +31,12 @@ Members.
 
 2.1.2.sec=(b) Use of the Membership Trust Mark is permitted only for so long as the Participant or Member continues to remain as a Participant or Member in good standing of the ID Federation. In the event a Participant is terminated or suspended, all use of the Trust Mark must immediately cease and be removed from existing materials and online content until and unless the Participant is restored to active status.
 
-2.1.=[Z/ol-a/s2]
+2.1.=[G/Z/ol-a/s2]
 
-2.=[Z/f/ol/1]
+2.=[G/Z/ol/1]
 
 3.Ti=General Trust Mark Guidelines
 
 3.sec=All Trust Mark reproductions must be made pursuant to the general restrictions on use and appearance (height, spacing, and color). Refer to the Logo Style Guide on the ID Federation website. 
   
-=[Z/f/ol/3]
+=[G/Z/ol/3]

@@ -18,12 +18,12 @@ Ti=Liability
 
 1.3.2.sec=In no event will a Participant with a Certified Service have an entire cumulative liability for any direct liabilities, losses, claims, judgments, damages, expenses, or costs arising out of this Trust Framework — whether sounding in contract, tort or otherwise — that exceeds the greater of: (i) an amount equal to three (3) times the amount of the annual fee paid by such Participant pursuant to the Trust Framework during any consecutive twelve (12) month period; or (ii) $500,000.00, whichever is greater.
 
-1.3.=[Z/para/s2]
+1.3.=[G/Z/para/s2]
 
-1.=[Z/ol-i/3]
+1.=[G/Z/ol-i/3]
 
 2.Ti=Liability Between Participants and Non-Participants
 
 2.sec=These Rules are made solely and specifically among and for the benefit of Participants. No person who is not a Participant shall have any rights, interest or claims under these Rules or be entitled to any benefits under or on account of these Rules, whether as a third party beneficiary or otherwise. There shall be no liability by a Participant to a person who is a not a Participant.
 
-=[Z/ol-a/2]
+=[G/Z/ol-a/2]

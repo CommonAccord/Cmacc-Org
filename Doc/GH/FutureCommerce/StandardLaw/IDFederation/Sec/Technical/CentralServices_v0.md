@@ -42,7 +42,7 @@ Certificate Authority)
 Attribute List • • N/A
 Sample XML • • N/A
 
-2.1.=[Z/f/ol/s4]
+2.1.=[G/Z/ol/s4]
 
 2.2.Ti=Modifying & Notifications
 
@@ -52,6 +52,6 @@ Sample XML • • N/A
 
 2.3.sec=When a Participant is terminated in accordance with Section 1.04, the data they have provided will be inactivated for a period of six (6) months, and after which, it will be purged.
 
-2.=[Z/ol-i/3]
+2.=[G/Z/ol-i/3]
 
-=[Z/ol-a/2]
+=[G/Z/ol-a/2]

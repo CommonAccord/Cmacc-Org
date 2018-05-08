@@ -8,7 +8,7 @@ Ti=Antitrust Policy
 
 0.3.sec=The following rules shall apply in connection with all ID Federation meetings, activities, and other forms of participation:
 
-0.=[Z/f/paras/s3]
+0.=[G/Z/paras/s3]
 
 1.sec=Agendas must be created, and minutes must be taken, for all ID Federation meetings. These agendas and minutes must then be submitted to ID Federation, along with any meeting materials, to document the topics discussed and any agreements reached.
 
@@ -32,7 +32,7 @@ Ti=Antitrust Policy
 
 2.9.sec=Whether you will or will not deal with any third party
 
-2.=[Z/f/ol/s9]
+2.=[G/Z/ol/s9]
 
 3.sec=Do not disclose or discuss at or in connection with any ID Federation meeting or activity any terms upon which you will make any of your intellectual property rights available, except to the extent permitted or required under the ID Federation IPR Policy.
 
@@ -40,4 +40,4 @@ Ti=Antitrust Policy
 
 00.sec=REMEMBER: All ID Federation activities must serve to promote, rather than restrict, competition to the benefit of consumers and the marketplace. Activities that do otherwise, or even appear to have the potential to do otherwise, may have serious consequences.
 
-=[Z/f/ol/s4]
+=[G/Z/ol/s4]
