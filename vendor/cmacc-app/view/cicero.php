@@ -24,9 +24,9 @@ $minDocLength = 1;
 
 if (strlen($document) > $minDocLength){ 
 
-$document=str_replace("{","[{",$document);
+$document=str_replace("{","{{",$document);
 
-$document=str_replace("}","}]",$document);
+$document=str_replace("}","}}",$document);
 
   echo $document;}
  else {
