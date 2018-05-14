@@ -56,7 +56,7 @@ switch ($_REQUEST['action']) {
 
     case 'edit':
 
-        include('./vendor/cmacc-app/view/edit.php');
+        include('./vendor/cmacc-app/view/-edit.php');
         break;
 
 
