@@ -164,6 +164,12 @@ case 'list':
         break;
 
 
+   case 'raw':
+
+        include('./vendor/cmacc-app/view/raw.php');
+        break;
+
+
 
     case 'source':
 
@@ -219,7 +225,6 @@ case 'list':
 
         include('./vendor/cmacc-app/view/xray.php');
         break;
-
 
     default:
         include($_REQUEST['action'] . '.php');
