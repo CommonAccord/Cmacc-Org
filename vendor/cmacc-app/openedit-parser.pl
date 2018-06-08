@@ -92,7 +92,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # Key=
 
-print "$_=\n" foreach @arr;
+# print "$_=\n" foreach @arr;
 
 # Key=Key
 
@@ -104,7 +104,7 @@ print "$_=\n" foreach @arr;
 
 # To make a new Xnum, with a hyperlink to the Section:
 
-# print "$_.Xnum=<a href='#$_.Sec' class='xref'></a>\n" foreach @arr;
+print "$_=<a href='#$_.Sec' class='xref'></a>\n" foreach @arr;
 
 # To make a new Param, with a hyperlink to the definition:
 
