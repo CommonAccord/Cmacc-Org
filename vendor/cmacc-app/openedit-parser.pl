@@ -110,7 +110,7 @@ print "$_=\n" foreach @arr;
 
 # print "$_=<span class='param'>??$_??</span>\n" foreach @arr;
 
-# to mark the place a defined term is defined inline.
+# to mark the place a Definition, where an term is defined inline.
 
 # print "$_=\{_" . substr($_, 4, -4) ."\}\n" foreach @arr;
 
