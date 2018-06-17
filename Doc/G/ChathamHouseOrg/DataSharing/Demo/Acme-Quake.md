@@ -19,3 +19,9 @@ Dispute.FinishConsultationWithin.Days=30
 Dispute.FinishMediationWithin.Days=60
 
 Life.End.NoticePeriod.Days=30
+
+Note=First Activity
+
+Activity-Purpose.sec=Find correlation between pizza toppings and cholesterol.  
+
+Activity-Use.sec=Acme will analyze correlations between the choice of toppings on pizza and cholesterol levels reported in health checkups.
