@@ -92,7 +92,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # Key=
 
-print "$_=\n" foreach @arr;
+# print "$_=\n" foreach @arr;
 
 # Key=Key
 
@@ -100,7 +100,11 @@ print "$_=\n" foreach @arr;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
-# print "$_=<a href='#Def.$_.sec' class='definedterm'>$_</a>\n" foreach @arr;
+print "$_=<a href='#Def.$_.sec' class='definedterm'>$_</a>\n" foreach @arr;
+
+# to mark the place a Definition, where an term is defined inline.
+
+# print "$_=\{_" . substr($_, 4, -4) ."\}\n" foreach @arr;
 
 # To make a new Xnum, with a hyperlink to the Section:
 
@@ -109,10 +113,6 @@ print "$_=\n" foreach @arr;
 # To make a new Param, with a hyperlink to the definition:
 
 # print "$_=<span class='param'>??$_??</span>\n" foreach @arr;
-
-# to mark the place a Definition, where an term is defined inline.
-
-# print "$_=\{_" . substr($_, 4, -4) ."\}\n" foreach @arr;
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;
