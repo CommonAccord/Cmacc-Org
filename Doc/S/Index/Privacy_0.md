@@ -1,23 +1,17 @@
 Ti=Privacy
 
-1.Ti=EU "Model Clauses" - in five languages
+EU "Model Clauses" - in five languages=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/]
 
-1.sec=<a href="index.php?action=list&file=Wx/eu/europa/eur-lex/Privacy/ModelClauses/">Wx/eu/europa/eur-lex/Privacy/ModelClauses/</a>
+French - CNIL Recommendations=[Wx/fr/cnil/Guides_practiques/CNIL-Guide_Avocats/Sec/]
 
-2.Ti=French - CNIL Recommendations
+Simple form of Privacy Policy=[Wx/com/moynihanpartners/PrivacyPolicy/Form/]
 
-2.sec=<a href="index.php?action=list&file=Wx/fr/cnil/Guides_practiques/CNIL-Guide_Avocats/Sec/">Wx/fr/cnil/Guides_practiques/CNIL-Guide_Avocats/Sec/</a>
+Seattle Municipal Privacy Principles=[Wx/gov/seattle/murray/privacy/Form/]
 
-3.Ti=Simple form of Privacy Policy
+Automattic Privacy Policy: =[G/Automattic-PrivacyPolicy-CmA/]
 
-3.=[Wx/com/moynihanpartners/PrivacyPolicy/Form/0.md]
+ICAAN Privacy Policy (2012): =[G/ICAAN-ModelPrivacyPolicy-EN-CmA/]
 
-4.Ti=Seattle Municipal Privacy Principles
+OpenGov.org privacy policy: =[G/OpenGovFoundation-CmA/PrivacyPolicy/0.md]
 
-4.sec=<a href="index.php?action=source&file=Wx/gov/seattle/murray/privacy/Form/Doc_v0.md">Wx/gov/seattle/murray/privacy/Form/Doc_v0.md</a>
-
-5.Ti=Automattic Privacy Policy
-
-5.sec=<a href="index.php?action=source&file=Wx/com/automattic/Privacy/0.md">Wx/com/automattic/Privacy/0.md</a>
-
-=[Z/ol/4]
+EU GDPR Law and Sketch of Privacy Policy: =[G/EU-GDPR-Law-CmA/]

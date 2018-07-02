@@ -1,5 +1,6 @@
 Ti=Definitions and interpretation
 
+=[G/Agt-Form-CmA/]
 0.sec=As used in this Agreement, the capitalised expressions will have the following meanings unless the context requires otherwise:
 
 1.sec=“Agreement” means this collaboration agreement, containing the Clauses and Schedules

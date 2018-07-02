@@ -1,7 +1,5 @@
 Ti=Bio - Materials Transfer Agreements
 
-1.Ti=NIH
+US National Institute of Health=[Wx/gov/nih/ott/MTA/Form/]
 
-1.sec=<a href="index.php?action=list&file=Wx/gov/nih/ott/MTA/Form/">Wx/gov/nih/ott/MTA/Form/</a>
-
-=[Z/ol/1]
+Brown University=[G/BrownEdu/MaterialsTransferAgreement/Demo/]

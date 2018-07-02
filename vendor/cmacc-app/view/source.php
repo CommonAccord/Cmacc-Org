@@ -15,14 +15,22 @@ foreach($contents as $n) {
         if(preg_match('/\[\?(.+?)\]/', $v, $matches)) {
                 $v = "<a href=$matches[1]>$v</a>";
         }
+	//for folders (navigation)
+
+	else if(preg_match('/\[(.+?)\\/]/', $v, $matches)) {
+                $v = "<a href=$_SERVER[PHP_SELF]?action=list&file=$matches[1]/>$v</a>";
+	}
+
 	//for local files
 
         else if(preg_match('/\[(.+?)\]/', $v, $matches)) {
                 $v = "<a href=$_SERVER[PHP_SELF]?action=source&file=$matches[1]>$v</a>";
+
         }
 
+       	
         echo "<tr id=$k>";
-        if(isset($v)) { echo "<th height='10' style='text-align:right'>$k</th><td width='20'></td><td>$v</td>"; }
+        if(isset($v)) { echo "<th height='10' width='300' style='text-align:right'>$k</th><td width='20'></td><td>$v</td>"; }
         else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
 }

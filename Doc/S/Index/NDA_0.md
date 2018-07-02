@@ -1,12 +1,15 @@
 Ti=NDA
 
-1.Ti=MIT Tech Licensing Office Model Forms
+NDA (Cooley inspired): =[G/Agt-NDA-CmA/]
 
-1.sec=<a href="index.php?action=list&file=Wx/edu/mit/tlo/NDA/Form/">Wx/edu/mit/tlo/NDA/Form/</a>
+TechContractsAcademy form of NDA: =[G/TechContractsAcademy-NDA-CmA/Demo/]
 
-2.Ti=NIH (National Institutes of Health) CDA form
+French NDA: =[G/CabinetBondard-FR-NDA-CmA/]
 
-2.sec=<a href="index.php?action=source&file=Wx/gov/nih/ott/CDA/Form/_v0.md">Wx/gov/nih/ott/CDA/Form/_v0.md</a>
+MIT Tech Licensing Office Model Forms=[Wx/edu/mit/tlo/NDA/Form/]
 
-=[Z/ol/1]
+NIH (National Institutes of Health) CDA form=[Wx/gov/nih/ott/CDA/Form/]
+
+Statute-reliant Swiss paradigm NDA: =[G/CH-NDA-CmA/Demo/]
+
 
