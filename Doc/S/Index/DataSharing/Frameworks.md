@@ -6,9 +6,14 @@ DLA Piper contribution of form of intra-group data sharing agreement (extensive 
 
 UN Human Rights =[G/Org-UNHCR/Sharing-Personal-Data-Of-Refugees/]
 
+Global Alliance for Genomics & Health =[G/GA4GH-DataSharing-Framework/EN/Form/0.md]
+
 Simple Data Sharing Agreement from Scott David: =[G/SLDavid/DataSharing/]
+
 Canadian Digital Identity Ecosystem: =[G/CA-DIACC-DigitalIdentityRequirements-CmA/0.md]
 
 Collaboration for AIDS Vaccine Discovery - data sharing agreement: =[G/Org-CAVD/DataMaterialsSharingAgreement/]
 
 Linux Foundation =[G/CDLA-IO/]
+
+Finnish Model Form of Data Sharing = [G/FI-IT-EHDot/it2018-evt/Form/0.md]
