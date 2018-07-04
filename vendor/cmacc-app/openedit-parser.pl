@@ -100,7 +100,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
-print "$_=<a href='#Def.$_.sec' class='definedterm'>$_</a>\n" foreach @arr;
+# print "$_=<a href='#Def.$_.sec' class='definedterm'>$_</a>\n" foreach @arr;
 
 # to mark the place a Definition, where an term is defined inline.
 
@@ -108,7 +108,7 @@ print "$_=<a href='#Def.$_.sec' class='definedterm'>$_</a>\n" foreach @arr;
 
 # To make a new Xnum, with a hyperlink to the Section:
 
-# print "$_=<a href='#" . substr($_, 0, -5) . ".Sec' class='xref'></a>\n" foreach @arr;
+print "$_=<a href='#" . substr($_, 0, -5) . ".Sec' class='xref'></a>\n" foreach @arr;
 
 # To make a new Param, with a hyperlink to the definition:
 
