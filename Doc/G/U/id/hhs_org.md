@@ -2,12 +2,24 @@
 
 Adr.=[G/U/at/US/DC/Washington/Geo]
 
-Name.Full=U.S. Department of Health and Human Services Office for Civil Rights
+Name.Full=U.S. Department of Health and Human Services
 
-Adr.1=200 Independence Avenue, S.W.
+Personality.type=US Government Agency
 
-Adr.2=Washington, D.C. 20201
+Adr.Street.#=200
+
+Adr.Street.Name=Independence Avenue, S.W.
+
+Adr.=[U/at/US/DC/Washington/Geo]
+
+Adr.Zip=20201
+
+US.Contract.Among.ID.sec={Personality.type.a}
 
 Phone=1-877-696-6775
 
 Domain.Com/Complaint=www.hhs.gov/ocr/privacy/hipaa/complaints/
+
+Signer.US.M/Ms_NameFull=__________________
+
+Signer.Title=_________________
