@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-=[G/U/at/DE/Berlin/Geo]
+Adr.=[G/U/at/DE/Berlin/Geo]
 
 Name.Full=Acme Deutschland GmbH
 
@@ -12,7 +12,7 @@ Entity=German Gesellschaft mit beschränkter Haftung
 
 Adr.Street.#=1
 
-Adr.Street=Unter Strasse
+Adr.Street.Name=Unter Strasse
 
 Adr.Zip=14199
 
@@ -30,6 +30,6 @@ Fax=49.617.345.1234
 
 Adr.Type=principal business
 
-Sign.=[G/U/id/priscilla_ang]
+Sign.=[G/U/id/alison_andrews.md]
 
 Sign.Title=Manager
