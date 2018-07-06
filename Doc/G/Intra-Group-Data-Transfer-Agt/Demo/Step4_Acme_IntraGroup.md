@@ -2,11 +2,13 @@ Note=This step shows Acme, which is a member of the community agreement, extendi
 
 Doc.GUID=Acme-001
 
+Sign.YMD=2018-05-06
+
 P1.=[G/U/id/acme_incorporated.md]
 
 =[G/Intra-Group-Data-Transfer-Agt/Form/0.md]
 
-P1.Handle=<a href="#P1.Handle" class="definedterm">DecentLaw</a>
+_P1=<a href="#P1.Handle" class="definedterm">Acme</a>
 
 Parent.=[G/Intra-Group-Data-Transfer-Agt/Demo/Step2_Initial_Members.md]
 
