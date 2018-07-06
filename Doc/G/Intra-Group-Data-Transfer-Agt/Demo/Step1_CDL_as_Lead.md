@@ -7,3 +7,5 @@ P1.=[G/U/id/decentlaw.md]
 _P1=<a href="#P1.Handle" class="definedterm">DecentLaw</a>
 
 Doc.Ti=DecentLaw Community Data Transfer Agreement
+
+Law.cl=laws of England and Wales

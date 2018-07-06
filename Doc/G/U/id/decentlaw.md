@@ -16,11 +16,6 @@ Adr.Nation=Erewon
 
 Adr.ST=</i>
 
-Signer.US.M/Ms_NameFull=__________________
-
-Signer.Title=_________________
-
-
 Contact Numbers:
 
 Tel=+555 555 1212
