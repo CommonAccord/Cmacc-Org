@@ -6,20 +6,24 @@ Sign.YMD=2018-05-06
 
 P1.=[G/U/id/acme_incorporated.md]
 
-=[G/Intra-Group-Data-Transfer-Agt/Form/0.md]
-
 _P1=<a href="#P1.Handle" class="definedterm">Acme</a>
 
 Parent.=[G/Intra-Group-Data-Transfer-Agt/Demo/Step2_Acme_HHS_as_Initial_Members.md]
 
+Law.cl=state and federal laws of the State of California, USA
+
 Misc.Entire.sec=This {_Agreement} represents the entire understanding between the {_Parties} in relation to its subject matter and supersedes all agreements and representations made by the {_Parties}, whether oral or written in relation to its subject matter.  The {_Parties} acknowledge that the {_Lead_Entity} is a party to a {Parent.Doc.Ti} among the {_Lead_Entity} and other entities dated {Parent.EffectiveDate.YMD}.  This {_Agreement} will be interpreted to be consistent with that {Parent.Doc.Ti}.
 
-AcmeIE.=[G/U/id/acme_ie.md]
+Sub1.P2.=[G/U/id/acme_ie.md]
 
-AcmeFR.=[G/U/id/acme_sarl.md]
+Sub2.P2.=[G/U/id/acme_sarl.md]
 
-AcmeIE.Handle=Acme Eire
+Sub1.P2.Handle=Acme Eire
 
-AcmeFR.Handle=Acme France
+Sub2.P2.Handle=Acme France
 
-Group.InitialMembers.sec=<ol><li>{AcmeIE.US.Contract.Among.Sec}<li>{AcmeFR.US.Contract.Among.Sec}</ol>
+Group.InitialMembers.sec=<ol><li>{Sub1.P2.US.Contract.Among.Sec}<li>{Sub2.P2.US.Contract.Among.Sec}</ol>
+
+Annex.ParticipationAgreement.Doc=<ol><li>{Sub1.Doc}<li>{Sub2.Doc}</ol>
+
+=[G/Intra-Group-Data-Transfer-Agt/Form/0.md]
