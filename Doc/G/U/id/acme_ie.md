@@ -14,6 +14,8 @@ Adr.=[G/U/at/IE/Dublin/Dun_Laoghaire/Marine_Road/Geo]
 
 Adr.Street.#=5
 
+Adr.State=</i>
+
 Adr.Zip=A96 K063
 
 Capital.All=100,000 Euros
