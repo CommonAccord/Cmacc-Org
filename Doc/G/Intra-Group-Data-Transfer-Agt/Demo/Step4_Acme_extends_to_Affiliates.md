@@ -12,7 +12,7 @@ Parent.=[G/Intra-Group-Data-Transfer-Agt/Demo/Step2_Acme_HHS_as_Initial_Members.
 
 Law.cl=state and federal laws of the State of California, USA
 
-Misc.Entire.sec=This {_Agreement} represents the entire understanding between the {_Parties} in relation to its subject matter and supersedes all agreements and representations made by the {_Parties}, whether oral or written in relation to its subject matter.  The {_Parties} acknowledge that the {_Lead_Entity} is a party to a {Parent.Doc.Ti} among the {_Lead_Entity} and other entities dated {Parent.EffectiveDate.YMD}.  This {_Agreement} will be interpreted to be consistent with that {Parent.Doc.Ti}.
+Misc.EntireAgreement.sec=This {_Agreement} represents the entire understanding between the {_Parties} in relation to its subject matter and supersedes all agreements and representations made by the {_Parties}, whether oral or written in relation to its subject matter.  The {_Parties} acknowledge that the {_Lead_Entity} is a party to a {Parent.Doc.Ti} among the {_Lead_Entity} and other entities dated {Parent.EffectiveDate.YMD}.  This {_Agreement} will be interpreted to be consistent with that {Parent.Doc.Ti}.
 
 Sub1.P2.=[G/U/id/acme_ie.md]
 
