@@ -7,7 +7,7 @@ Ti=Management - Strategy
 
 1.1.sec=Origin <a href="https://docs.google.com/document/d/1eizIqpx_ni8KaGkk3bVKvBBDoRy2eTEtvPHE0hiar7c/edit">decentralized approach to interface between law and blockchain</a>
 
-1.=[Z/ol/s1]
+1.=[G/Z/ol/s1]
 
 2.Ti=New Business Models in an Economy of Frictionless Law and IT
 
@@ -15,7 +15,7 @@ Ti=Management - Strategy
 
 2.2.sec=IoT -> IoP.  Using the "object model" and communications protocols of IoT to help persons (individuals and organizations) interact. 
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
 3.Ti=Impact of Frictionless Law on Companies and Government
 
@@ -23,5 +23,5 @@ Ti=Management - Strategy
 
 4.Ti=City as Commons
 
-=[Z/ol/4]
+=[G/Z/ol/4]
 

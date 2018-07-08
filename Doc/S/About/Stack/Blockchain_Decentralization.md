@@ -10,7 +10,7 @@ Ti=A Decentralized Social Order for the Information Age:
 
 1.4.sec=Decentralization might provide some help.  It can preserve some element of the social equivalent of autonomy and biodiversity.  It does not provide an answer to the problem of extreme interdependence, and tremendous dependencies remain.  But it might help keep some power in the hands of the people directly affected.  Similarly, decentralization of data - reducing the need for members of a group to entrust all of their information to a leader in order to participate - can reduce the risk of abuse and spillage.
 
-1.=[Z/ol/s4]
+1.=[G/Z/ol/s4]
 
 2.Ti=Forms
 
@@ -28,6 +28,6 @@ Ti=A Decentralized Social Order for the Information Age:
 
 2.3.sec=Programs running on the blockchain are an efficient way to decentralize the automation of bureaucracy.  Modules of agreed procedures and consequences can be run jointly rather than by one party.  They can be apps, created and curated like open source software.  This will be particularly dynamic because it can bring the ecosystem of open source and the technique of modularity to bear on complex systems.  
 
-2.=[Z/ol/s3]
+2.=[G/Z/ol/s3]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

@@ -6,4 +6,4 @@ Ti=Accès au site et aux Services
 
 2.sec=à toute personne morale agissant par l'intermédiaire d'une personne physique disposant de la capacité juridique pour contracter au nom et pour le compte de la personne morale.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

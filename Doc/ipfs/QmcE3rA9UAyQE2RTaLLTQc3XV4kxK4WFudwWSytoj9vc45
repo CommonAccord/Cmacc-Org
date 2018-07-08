@@ -791,7 +791,7 @@ Misc.1.2.sec=All stamp, documentary, and other transfer {Taxes} (including any p
 
 Misc.1.xlist={Misc.1.alist}
 
-Misc.1.=[Z/ol/s2]
+Misc.1.=[G/Z/ol/s2]
 
 Misc.2.Ti=PUBLIC ANNOUNCEMENTS
 
@@ -805,7 +805,7 @@ Misc.3.2.sec=Notwithstanding anything to the contrary contained in {the_Disclosu
 
 Misc.3.xlist={Misc.3.alist}
 
-Misc.3.=[Z/ol/s2]
+Misc.3.=[G/Z/ol/s2]
 
 Misc.4.Ti=NATURE OF SELLERS' OBLIGATIONS
 
@@ -823,7 +823,7 @@ Misc.5.1.90.sec=This appointment and grant of power and authority is coupled wit
 
 Misc.5.1.xlist={Misc.5.1.ilist}
 
-Misc.5.1.=[Z/ol/s2]
+Misc.5.1.=[G/Z/ol/s2]
 
 Misc.5.2.sec={Buyer} shall be entitled to rely upon any document or other paper delivered by {Sellers'_Representative} as being authorized by {Sellers}, and {Buyer} shall not be liable to any {Seller} for any action taken or omitted to be taken by {Buyer} based on such reliance.
 
@@ -831,7 +831,7 @@ Misc.5.3.sec=Until all obligations under {this_Agreement} shall have been discha
 
 Misc.5.xlist={Misc.5.alist}
 
-Misc.5.=[Z/ol/s3]
+Misc.5.=[G/Z/ol/s3]
 
 Misc.6.Ti=FURTHER ASSURANCES
 
@@ -913,9 +913,9 @@ Misc.21.2.sec=A manual signature on {this_Agreement} or other documents to be de
 
 Misc.21.xlist={Misc.21.alist}
 
-Misc.21.=[Z/ol/s2]
+Misc.21.=[G/Z/ol/s2]
 
-Misc.=[Z/ol/21]
+Misc.=[G/Z/ol/21]
 
 
 05.1.SellerRep=<span class="xref">05.1.SellerRep</span>

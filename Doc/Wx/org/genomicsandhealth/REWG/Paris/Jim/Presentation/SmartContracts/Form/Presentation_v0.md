@@ -22,4 +22,4 @@ Resource.=[Wx/org/genomicsandhealth/REWG/Paris/Jim/Presentation/SmartContracts/S
 
 Olist=<ol><li>{Blockchain.Sec}<li>{SmartContract.Sec}<li>{Resource.Sec}</ol>
 
-=[Z/ol/0]
+=[G/Z/ol/0]

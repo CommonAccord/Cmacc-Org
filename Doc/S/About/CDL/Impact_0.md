@@ -10,4 +10,4 @@ Ti=Impact
 
 5.sec=Improved outcomes for social objectives such as privacy, health, climate and decentralization.
  
-=[Z/ol/s5]
+=[G/Z/ol/s5]

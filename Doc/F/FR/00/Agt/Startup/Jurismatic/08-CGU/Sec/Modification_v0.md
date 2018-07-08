@@ -8,4 +8,4 @@ Ti=Modifications
 
 4.sec=Tout Utilisateur qui a recours aux Services postérieurement à l'entrée en vigueur des conditions générales modifiées est réputé avoir accepté ces modifications.
 
-=[Z/paras/s4]
+=[G/Z/paras/s4]

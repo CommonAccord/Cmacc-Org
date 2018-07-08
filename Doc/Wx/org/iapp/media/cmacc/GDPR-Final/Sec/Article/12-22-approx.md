@@ -8,7 +8,7 @@ Article 51 - Supervisory authority
 
 4.sec=Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to this Chapter, by … [two years from the date of entry into force of this Regulation] at the latest and, without delay, any subsequent amendment affecting them.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 Ti=Article 52 - Independence
 
@@ -24,7 +24,7 @@ Ti=Article 52 - Independence
 
 6.sec=Each Member State shall ensure that each supervisory authority is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget.
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]
 
 
 Ti=Article 53 -General conditions for the members of the supervisory authority
@@ -39,7 +39,7 @@ Ti=Article 53 -General conditions for the members of the supervisory authority
 
 1.4.sec=– an independent body entrusted with the appointment under Member State law.
 
-1.=[Z/ol-a/s4]
+1.=[G/Z/ol-a/s4]
 
 2.sec=Each member shall have the qualifications, experience and skills, in particular in the area of the protection of personal data, required to perform its duties and exercise its powers.
 
@@ -47,7 +47,7 @@ Ti=Article 53 -General conditions for the members of the supervisory authority
 
 4.sec=A member shall be dismissed only in cases of serious misconduct or if the member no longer fulfils the conditions required for the performance of the duties.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 
 Ti=Article 54 Rules on the establishment of the supervisory authority
@@ -65,11 +65,11 @@ Ti=Article 54 Rules on the establishment of the supervisory authority
 
 1.6.sec=the conditions governing the obligations of the member or members and staff of each supervisory authority, prohibitions on actions, occupations and benefits incompatible therewith during and after the term of office and rules governing the cessation of employment.
 
-1.=[Z/ol-a/s6]
+1.=[G/Z/ol-a/s6]
 
 2.sec=The member or members and the staff of each supervisory authority shall, in accordance with Union or Member State law, be subject to a duty of professional secrecy both during and after their term of office, with regard to any confidential information which has come to their knowledge in the course of the performance of their tasks or exercise of their powers. During their term of office, that duty of professional secrecy shall in particular apply to reporting by natural persons of infringements of this Regulation.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 
@@ -83,7 +83,7 @@ Ti=Article 55 - Competence
 
 3.sec=Supervisory authorities shall not be competent to supervise processing operations of courts acting in their judicial capacity.
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]
 
 
 Ti=Article 56 - Competence of the lead supervisory authority
@@ -100,7 +100,7 @@ Ti=Article 56 - Competence of the lead supervisory authority
 
 6.sec=The lead supervisory authority shall be the sole interlocutor of the controller or processor for the cross-border processing carried out by that controller or processor.
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]
 
 
 Ti=Article 57 - Tasks
@@ -151,7 +151,7 @@ Ti=Article 57 - Tasks
 
 1.22.sec=fulfil any other tasks related to the protection of personal data.
 
-1.=[Z/ol-a/s22]
+1.=[G/Z/ol-a/s22]
 
 2.sec=Each supervisory authority shall facilitate the submission of complaints referred to in point (f) of paragraph 1, by measures such as a complaint submission form which may also be completed electronically, without excluding other means of communication.
 
@@ -159,7 +159,7 @@ Ti=Article 57 - Tasks
 
 4.sec=Where requests are manifestly unfounded or excessive, in particular because of their repetitive character, the supervisory authority may charge a reasonable fee based on administrative costs, or refuse to act on the request. The supervisory authority shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 
 Ti=Article 58 - Powers
@@ -178,7 +178,7 @@ Ti=Article 58 - Powers
 
 1.6.sec=to obtain access to any premises of the controller and the processor, including to any data processing equipment and means, in accordance with Union or Member State procedural law.
 
-1.=[Z/ol/s6]
+1.=[G/Z/ol/s6]
 
 2.0.sec=Each supervisory authority shall have all of the following corrective powers:
 
@@ -202,7 +202,7 @@ Ti=Article 58 - Powers
 
 2.10.sec=to order the suspension of data flows to a recipient in a third country or to an international organisation.
 
-3.=[Z/ol-a/s10]
+3.=[G/Z/ol-a/s10]
 
 3.0.sec=Each supervisory authority shall have all of the following authorisation and advisory powers:
 
@@ -226,7 +226,7 @@ Ti=Article 58 - Powers
 
 3.10.sec=to approve binding corporate rules pursuant to Article 47.
 
-3.=[Z/ol/s10]
+3.=[G/Z/ol/s10]
 
 4.sec=The exercise of the powers conferred on the supervisory authority pursuant to this Article shall be subject to appropriate safeguards, including effective judicial remedy and due process, set out in Union and Member State law in accordance with the Charter.
 
@@ -234,14 +234,14 @@ Ti=Article 58 - Powers
 
 6.sec=Each Member State may provide by law that its supervisory authority shall have additional powers to those referred to in paragraphs 1, 2 and 3. The exercise of those powers shall not impair the effective operation of Chapter VII.
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]
 
 
 Ti=Article 59 - Activity reports
 
 sec=Each supervisory authority shall draw up an annual report on its activities, which may include a list of types of infringement notified and types of measures taken in accordance with Article 58(2). Those reports shall be transmitted to the national parliament, the government and other authorities as designated by Member State law. They shall be made available to the public, to the Commission and to the Board.
 
-=[Z/ol/0]
+=[G/Z/ol/0]
 
 
 CHAPTER VII COOPERATION AND CONSISTENCY SECTION 1 COOPERATION
@@ -272,7 +272,7 @@ Ti=Article 60 - Cooperation between the lead supervisory authority and other sup
 
 12.sec=The lead supervisory authority and the other supervisory authorities concerned shall supply the information required under this Article to each other by electronic means, using a standardised format.
 
-=[Z/ol/s12]
+=[G/Z/ol/s12]
 
 
 
@@ -290,7 +290,7 @@ Ti=Article 61 - Mutual assistance
 
 4.2.sec=compliance with the request would infringe this Regulation or Union or Member State law to which the supervisory authority receiving the request is subject.
 
-4.=[Z/ol-a/s2]
+4.=[G/Z/ol-a/s2]
 
 5.sec=The requested supervisory authority shall inform the requesting supervisory authority of the results or, as the case may be, of the progress of the measures taken in order to respond to the request. The requested supervisory authority shall provide reasons for any refusal to comply with a requestpursuant to paragraph 4.
 
@@ -302,7 +302,7 @@ Ti=Article 61 - Mutual assistance
 
 9.sec=The Commission may, by means of implementing acts, specify the format and procedures for mutual assistance referred to in this Article and the arrangements for the exchange of information by electronic means between supervisory authorities, and between supervisory authorities and the Board, in particular the standardised format referred to in paragraph 6 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 93(2).
 
-=[Z/ol/s9]
+=[G/Z/ol/s9]
 
 
 Ti=Article 62 - Joint operations of supervisory authorities
@@ -321,7 +321,7 @@ Ti=Article 62 - Joint operations of supervisory authorities
 
 7.sec=Where a joint operation is intended and a supervisory authority does not, within one month, comply with the obligation laid down in the second sentence of paragraph 2 of this Article, the other supervisory authorities may adopt a provisional measure on the territory of its Member State in accordance with Article 55. In that case, the urgent need to act under Article 66(1) shall be presumed to be met and require an opinion or an urgent binding decision from the Board pursuant to Article 66(2).
 
-=[Z/ol/s7]
+=[G/Z/ol/s7]
 
 
 SECTION 2
@@ -348,7 +348,7 @@ Ti=Article 64 - Opinion of the Board
 
 1.6.sec=aims to approve binding corporate rules within the meaning of Article 47.
 
-1.=[Z/ol-a/s6]
+1.=[G/Z/ol-a/s6]
 
 2.sec=Any supervisory authority, the Chair of the Board or the Commission may request that any matter of general application or producing effects in more than one Member State be examined by the Board with a view to obtaining an opinion, in particular where a competent supervisory authority does not comply with the obligations for mutual assistance in accordance with Article 61 or for joint operations in accordance with Article 62.
 
@@ -362,7 +362,7 @@ Ti=Article 64 - Opinion of the Board
 
 5.2.sec=the supervisory authority referred to, as the case may be, in paragraphs 1 and 2, and the Commission of the opinion and make it public.
 
-5.=[Z/ol-a/s2]
+5.=[G/Z/ol-a/s2]
 
 6.sec=The competent supervisory authority shall not adopt its draft decision referred to in paragraph 1 within the period referred to in paragraph 3.
 
@@ -370,7 +370,7 @@ Ti=Article 64 - Opinion of the Board
 
 8.sec=Where the supervisory authority concerned informs the Chair of the Board within the period referred to in paragraph 7 of this Article that it does not intend to follow the opinion of the Board, in whole or in part, providing the relevant grounds, Article 65(1) shall apply.
 
-=[Z/ol/s8]
+=[G/Z/ol/s8]
 
 Ti=Article 65 - Dispute resolution by the Board
 
@@ -382,7 +382,7 @@ Ti=Article 65 - Dispute resolution by the Board
 
 1.3.sec=where a competent supervisory authority does not request the opinion of the Board in the cases referred to in Article 64(1), or does not follow the opinion of the Board issued under Article 64. In that case, any supervisory authority concerned or the Commission may communicate the matter to the Board.
 
-1.=[Z/ol/s3]
+1.=[G/Z/ol/s3]
 
 2.sec=The decision referred to in paragraph 1 shall be adopted within one month from the referral of the subject-matter by a two-third majority of the members of the Board. This period may be extended by a further month on account of the complexity of the subject-matter. The decision referred to in paragraph 1 shall be reasoned and addressed to the lead supervisory authority and all the supervisory authorities concerned and binding on them.
 
@@ -394,7 +394,7 @@ Ti=Article 65 - Dispute resolution by the Board
 
 6.sec=The lead supervisory authority or, as the case may be, the supervisory authority with which the complaint has been lodged shall adopt its final decision on the basis of the decision referred to in paragraph 1 of this Article, without undue delay and at the latest by one month after the Board has notified its decision. The lead supervisory authority or, as the case may be, the supervisory authority with which the complaint has been lodged, shall inform the Board of the date when its final decision is notified respectively to the controller or the processor and to the data subject. The final decision of the supervisory authorities concerned shall be adopted under the terms of Article 60(7), (8) and (9). The final decision shall refer to the decision referred to in paragraph 1 of this Article and shall specify that the decision referred to in that paragraph will be published on the website of the Board in accordance with paragraph 5 of this Article. The final decision shall attach the decision referred to in paragraph 1 of this Article.
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]
 
 
 Ti=Article 66 - Urgency procedure
@@ -407,7 +407,7 @@ Ti=Article 66 - Urgency procedure
 
 4.sec=By derogation from Articles 64(3) and 65(2), an urgent opinion or an urgent binding decision referred to in paragraphs 2 and 3 of this Article shall be adopted within two weeks by simple majority of the members of the Board.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 
 Ti=Article 67 - Exchange of information
@@ -416,7 +416,7 @@ Ti=Article 67 - Exchange of information
 
 2.sec=Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 93(2).
 
-=[Z/paras/s2]
+=[G/Z/paras/s2]
 
 
 SECTION 3 EUROPEAN DATA PROTECTION BOARD
@@ -435,7 +435,7 @@ Ti=Article 68 - European Data Protection Board
 
 6.sec=In the cases referred to in Article 65, the European Data Protection Supervisor shall have voting rights only on decisions which concern principles and rules applicable to the Union institutions, bodies, offices and agencies which correspond in substance to those of this Regulation.
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]
 
 
 Ti=Article 69 - Independence
@@ -444,7 +444,7 @@ Ti=Article 69 - Independence
 
 2.sec=Without prejudice to requests by the Commission referred to in point (b) of Article 70(1) and in Article 70(2), the Board shall, in the performance of its tasks or the exercise of its powers, neither seek nor take instructions from anybody.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 Ti=Article 70 - Tasks of the Board
@@ -501,7 +501,7 @@ Ti=Article 70 - Tasks of the Board
 
 1.25.sec=maintain a publicly accessible electronic register of decisions taken by supervisory authorities and courts on issues handled in the consistency mechanism.
 
-1.=[Z/ol-a/s25]
+1.=[G/Z/ol-a/s25]
 
 2.sec=Where the Commission requests advice from the Board, it may indicate a time limit, taking into account the urgency of the matter.
 
@@ -509,7 +509,7 @@ Ti=Article 70 - Tasks of the Board
 
 4.sec=The Board shall, where appropriate, consult interested parties and give them the opportunity to comment within a reasonable period. The Board shall, without prejudice to Article 76, make the results of the consultation procedure publicly available.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 Ti=Article 71 - Reports
 
@@ -517,7 +517,7 @@ Ti=Article 71 - Reports
 
 2.sec=The annual report shall include a review of the practical application of the guidelines, recommendations and best practices referred to in point (l) of Article 70(1) as well as of the binding decisions referred to in Article 65.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 Ti=Article 72 - Procedure
@@ -526,7 +526,7 @@ Ti=Article 72 - Procedure
 
 2.sec=The Board shall adopt its own rules of procedure by a two-third majority of its members and organise its own operational arrangements.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 Ti=Article 73 - Chair
@@ -535,7 +535,7 @@ Ti=Article 73 - Chair
 
 2.sec=The term of office of the Chair and of the deputy chairs shall be five years and be renewable once.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 Ti=Article 74 - Tasks of the Chair
@@ -548,11 +548,11 @@ Ti=Article 74 - Tasks of the Chair
 
 1.3.sec=to ensure the timely performance of the tasks of the Board, in particular in relation to the consistency mechanism referred to in Article 63.
 
-1.=[Z/ol-a/s3]
+1.=[G/Z/ol-a/s3]
 
 2.sec=The Board shall lay down the allocation of tasks between the Chair and the deputy chairs in its rules of procedure.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 Ti=Article 75 - Secretariat
@@ -583,9 +583,9 @@ Ti=Article 75 - Secretariat
 
 6.7.sec=the preparation, drafting and publication of opinions, decisions on the settlement of disputes between supervisory authorities and other texts adopted by the Board.
 
-6.=[Z/ol-a/s7]
+6.=[G/Z/ol-a/s7]
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]
 
 
 Ti=Article 76 - Confidentiality
@@ -604,7 +604,7 @@ Ti=Article 77 - Right to lodge a complaint with a supervisory authority
 
 2.sec=The supervisory authority with which the complaint has been lodged shall inform the complainant on the progress and the outcome of the complaint including the possibility of a judicial remedy pursuant to Article 78.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 Ti=Article 78 - Right to an effective judicial remedy against a supervisory authority
@@ -617,7 +617,7 @@ Ti=Article 78 - Right to an effective judicial remedy against a supervisory auth
 
 4.sec=Where proceedings are brought against a decision of a supervisory authority which was preceded by an opinion or a decision of the Board in the consistency mechanism, the supervisory authority shall forward that opinion or decision to the court.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 
 Ti=Article 79 - Right to an effective judicial remedy against a controller or processor
@@ -626,7 +626,7 @@ Ti=Article 79 - Right to an effective judicial remedy against a controller or pr
 
 2.sec=Proceedings against a controller or a processor shall be brought before the courts of the Member State where the controller or processor has an establishment. Alternatively, such proceedings may be brought before the courts of the Member State where the data subject has his or her habitual residence, unless the controller or processor is a public authority of a Member State acting in the exercise of its public powers.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 Ti=Article 80 - Representation of data subjects
 
@@ -634,7 +634,7 @@ Ti=Article 80 - Representation of data subjects
 
 2.sec=Member States may provide that any body, organisation or association referred to in paragraph 1 of this Article, independently of a data subject's mandate, has the right to lodge, in that Member State, a complaint with the supervisory authority which is competent pursuant to Article 77 and to exercise the rights referred to in Articles 78 and 79 if it considers that the rights of a data subject under this Regulation have been infringed as a result of the processing.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 Ti=Article 81 - Suspension of proceedings
@@ -645,7 +645,7 @@ Ti=Article 81 - Suspension of proceedings
 
 3.sec=Where those proceedings are pending at first instance, any court other than the court first seized may also, on the application of one of the parties, decline jurisdiction if the court first seized has jurisdiction over the actions in question and its law permits the consolidation thereof.
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]
 
 
 Ti=Article 82 - Right to compensation and liability
@@ -662,7 +662,7 @@ Ti=Article 82 - Right to compensation and liability
 
 6.sec=Court proceedings for exercising the right to receive compensation shall be brought before the courts competent under the law of the Member State referred to in Article 79(2).
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]
 
 
 Ti=Article 83 - General conditions for imposing administrative fines
@@ -693,7 +693,7 @@ Ti=Article 83 - General conditions for imposing administrative fines
 
 2.11.sec=any other aggravating or mitigating factor applicable to the circumstances of the case, such as financial benefits gained, or losses avoided, directly or indirectly, from the infringement.
 
-2.=[Z/ol-a/s11]
+2.=[G/Z/ol-a/s11]
 
 3.sec=If a controller or processor intentionally or negligently, for the same or linked processing operations, infringes several provisions of this Regulation, the total amount of the administrative fine shall not exceed the amount specified for the gravest infringement.
 
@@ -705,7 +705,7 @@ Ti=Article 83 - General conditions for imposing administrative fines
 
 4.3.sec=the obligations of the monitoring body pursuant to Article 41(4).
 
-4.=[Z/ol/s3]
+4.=[G/Z/ol/s3]
 
 5.0.sec=Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:
 
@@ -719,7 +719,7 @@ Ti=Article 83 - General conditions for imposing administrative fines
 
 5.5.sec=non-compliance with an order or a temporary or definitive limitation on processing or the suspension of data flows by the supervisory authority pursuant to Article 58(2) or failure to provide access in violation of Article 58(1).
 
-5.=[Z/ol-a/s5]
+5.=[G/Z/ol-a/s5]
 
 6.sec=Non-compliance with an order by the supervisory authority as referred to in Article 58(2) shall, in acccordance with paragraph 2 of this Article, be subject to administrative fines up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher.
 
@@ -729,7 +729,7 @@ Ti=Article 83 - General conditions for imposing administrative fines
 
 9.sec=Where the legal system of the Member State does not provide for administrative fines, this Article may be applied in such a manner that the fine is initiated by the competent supervisory authority and imposed by competent national courts, while ensuring that those legal remedies are effective and have an equivalent effect to the administrative fines imposed by supervisory authorities. In any event, the fines imposed shall be effective, proportionate and dissuasive. Those Member States shall notify to the Commission the provisions of their laws which they adopt pursuant to this paragraph by … [two years from the date of entry into force of this Regulation] and, without delay, any subsequent amendment law or amendment affecting them.
 
-=[Z/ol/s9]
+=[G/Z/ol/s9]
 
 
 Ti=Article 84 - Penalties
@@ -738,7 +738,7 @@ Ti=Article 84 - Penalties
 
 2.sec=Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to paragraph 1, by … [two years from the date of entry into force of this Regulation] and, without delay, any subsequent amendment affecting them.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 CHAPTER IX PROVISIONS RELATING TO SPECIFIC PROCESSING SITUATIONS
@@ -752,20 +752,20 @@ Ti=Article 85 - Processing and freedom of expression and information
 
 3.sec=Each Member State shall notify to the Commission the provisions of its law which it has adopted pursuant to paragraph 2 and, without delay, any subsequent amendment law or amendment affecting them.
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]
 
 
 Ti=Article 86 - Processing and public access to official documents
 
 sec=Personal data in official documents held by a public authority or a public body or a private body for the performance of a task carried out in the public interest may be disclosed by the authority or body in accordance with Union or Member State law to which the public authority or body is subject in order to reconcile public access to official documents with the right to the protection of personal data pursuant to this Regulation.
 
-=[Z/ol/0]
+=[G/Z/ol/0]
 
 Ti=Article 87 - Processing of the national identification number
 
 sec=Member States may further determine the specific conditions for the processing of a national identification number or any other identifier of general application. In that case the national identification number or any other identifier of general application shall be used only under appropriate safeguards for the rights and freedoms of the data subject pursuant to this Regulation.
 
-=[Z/ol/0]
+=[G/Z/ol/0]
 
 
 Ti=Article 88 - Processing in the context of employment
@@ -776,7 +776,7 @@ Ti=Article 88 - Processing in the context of employment
 
 3.sec=Each Member State shall notify to the Commission those provisions of its law which it adopts pursuant to paragraph 1, by … [two years from the date of entry into force of this Regulation] and, without delay, any subsequent amendment affecting them.
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]
 
 Ti=Article 89 - Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
 
@@ -788,7 +788,7 @@ Ti=Article 89 - Safeguards and derogations relating to processing for archiving 
 
 4.sec=Where processing referred to in paragraphs 2 and 3 serves at the same time another purpose, the derogations shall apply only to processing for the purposes referred to in those paragraphs.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 
 Ti=Article 90 - Obligations of secrecy
@@ -797,7 +797,7 @@ Ti=Article 90 - Obligations of secrecy
 
 2.sec=Each Member State shall notify to the Commission the rules adopted pursuant to paragraph 1, by … [two years from the date of entry into force of this Regulation] and, without delay, any subsequent amendment affecting them.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 Ti=Article 91 - Existing data protection rules of churches and religious associations
 
@@ -805,7 +805,7 @@ Ti=Article 91 - Existing data protection rules of churches and religious associa
 
 2.sec=Churches and religious associations which apply comprehensive rules in accordance with paragraph 1 shall be subject to the supervision of an independent supervisory authority, which may be specific, provided that it fulfils the conditions laid down in Chapter VI of this Regulation.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 CHAPTER X DELEGATED ACTS AND IMPLEMENTING ACTS
 
@@ -821,7 +821,7 @@ Ti=Article 92 - Exercise of the delegation
 
 5.sec=A delegated act adopted pursuant to Article 12(8) and Article 43(8) shall enter into force only if no objection has been expressed by either the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]
 
 
 Ti=Article 93 - Committee procedure
@@ -832,7 +832,7 @@ Ti=Article 93 - Committee procedure
 
 3.sec=Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]
 
  CHAPTER XI FINAL PROVISIONS
 
@@ -842,20 +842,20 @@ Ti=Article 94 - Repeal of Directive 95/46/EC
 
 2.sec=References to the repealed Directive shall be construed as references to this Regulation. References to the Working Party on the Protection of Individuals with regard to the Processing of Personal Data established by Article 29 of Directive 95/46/EC shall be construed as references to the European Data Protection Board established by this Regulation.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 
 Ti=Article 95- Relationship with Directive 2002/58/EC
 
 sec=This Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC.
 
-=[Z/ol/0]
+=[G/Z/ol/0]
 
 Ti=Article 96 -Relationship with previously concluded Agreements
 
 sec=International agreements involving the transfer of personal data to third countries or international organisations which were concluded by Member States prior to … [the date of entry into force of this Regulation], and which are in accordance with Union law applicable prior to … [the date of entry into force of this Regulation], shall remain in force until amended, replaced or revoked.
 
-=[Z/ol/0]
+=[G/Z/ol/0]
 
 
 Ti=Article 97 - Commission reports
@@ -868,7 +868,7 @@ Ti=Article 97 - Commission reports
 
 2.2.sec=Chapter VII on cooperation and consistency.
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
 3.sec=For the purpose of paragraph 1, the Commission may request information from Member States and supervisory authorities.
 
@@ -876,14 +876,14 @@ Ti=Article 97 - Commission reports
 
 5.sec=The Commission shall, if necessary, submit appropriate proposals to amend this Regulation, in particular taking into account of developments in information technology and in the light of the state of progress in the information society.
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]
 
 
 Ti=Article 98 - Review of other Union legal acts on data protection
 
 sec=The Commission shall, if appropriate, submit legislative proposals with a view to amending other Union legal acts on the protection of personal data, in order to ensure uniform and consistent protection of natural persons with regard to processing. This shall in particular concern the rules relating to the protection of natural persons with regard to processing by Union institutions, bodies, offices and agencies and on the free movement of such data.
 
-=[Z/ol/0]
+=[G/Z/ol/0]
 
 
 Ti=Article 99 - Entry into force and application
@@ -892,6 +892,6 @@ Ti=Article 99 - Entry into force and application
 
 2.sec=It shall apply from … [two years from the date of entry into force of this Regulation]. This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]
 
 Done at …, For the European Parliament For the Council The President The President 

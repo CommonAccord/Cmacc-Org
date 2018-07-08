@@ -8,4 +8,4 @@ Ti=Grant of Rights
 
 4.Ti=Implied Rights and other Restrictions
 
-=[Z/ol/4]
+=[G/Z/ol/4]

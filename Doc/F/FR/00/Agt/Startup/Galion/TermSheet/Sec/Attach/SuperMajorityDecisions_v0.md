@@ -40,5 +40,5 @@ Major.Asset.%=30%
 
 16.sec=compensation or dismissal of each {_Founder}.
 
-=[Z/ol-i/s16]
+=[G/Z/ol-i/s16]
 

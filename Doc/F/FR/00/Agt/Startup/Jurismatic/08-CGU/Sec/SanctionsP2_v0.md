@@ -12,4 +12,4 @@ Ti=Sanctions des manquements
 
 5.sec=engager toute action judiciaire.
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]

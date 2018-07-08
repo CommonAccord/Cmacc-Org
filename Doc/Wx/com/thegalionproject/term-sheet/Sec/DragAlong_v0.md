@@ -6,8 +6,8 @@ Ti=Drag Along
 
 1.3.sec=all shareholders shall be required to sell their shares on the same terms and conditions subject to the Liquidation Preference.
 
-1.=[Z/para/s3]
+1.=[G/Z/para/s3]
 
 2.sec=In this case, the rights of first refusal shall not apply.
 
-=[Z/para/s2]
+=[G/Z/para/s2]

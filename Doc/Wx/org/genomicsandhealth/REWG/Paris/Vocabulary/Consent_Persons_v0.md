@@ -14,4 +14,4 @@ Ti=Persons
 
 7.sec=Regulator
 
-=[Z/ol/s7]
+=[G/Z/ol/s7]

@@ -24,7 +24,7 @@ Doc.Ti=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Co.Name.Full}
 
 00.2.sec={Co.Sign.Block}
 
-00.=[Z/paras/s2]
+00.=[G/Z/paras/s2]
 
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]

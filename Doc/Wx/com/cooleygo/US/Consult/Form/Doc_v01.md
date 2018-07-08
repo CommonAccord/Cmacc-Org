@@ -39,11 +39,11 @@ _=[Wx/com/cooleygo/US/Consult/Sec/DefinedTerms_v01.md]
 
 00.2.sec=<hr><hr><b>Exhibit A</b><br>{Exh.Project.Doc}<hr><b>Exhibit B</b><br>{Exh.Copyright.Doc}<hr><b>Exhibit C</b><br>{Exh.Patent.Doc}
 
-00.=[Z/paras/s2]
+00.=[G/Z/paras/s2]
 
 Sec={Doc}
 
-=[Z/ol/Base]
+=[G/Z/ol/Base]
 
 Exh.Project.=[Wx/com/cooleygo/US/Consult/Sec/Exh_ProjectAssignment_v01.md] 
 

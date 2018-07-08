@@ -20,7 +20,7 @@ Order Form=terms below
 
 1.3.sec=Phone: {P2.Contact.Phone}, Email:  {P2.Contact.Email}
 
-1.=[Z/ol/s3]
+1.=[G/Z/ol/s3]
 
 2.Ti=Services
 
@@ -48,7 +48,7 @@ Note=Also, if additional fees will be required for overages, include details her
 
 6.2.sec=Implementation Fee (one-time) {ImplementationFee.$}
 
-6.=[Z/ol/s2]
+6.=[G/Z/ol/s2]
 
 Note=OPTIONAL: If you delete this section, remove any reference to "Implementation Services" in the Terms and Conditions
 
@@ -62,11 +62,11 @@ Note=OPTIONAL:  delete this section if you are not offering a pilot
 
 7.3.sec=Pilot Use Fee: {PilotUse.Fee.$}
 
-7.=[Z/ol/s3]
+7.=[G/Z/ol/s3]
 
 =[F/US/00/Agt/Base/Form/0.md]
 
-=[Z/ol/7]
+=[G/Z/ol/7]
 
 Sec={Doc}
 

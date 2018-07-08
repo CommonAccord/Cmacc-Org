@@ -14,4 +14,4 @@ ELINCS=the European List of Notified Chemical Substances (ELINCS) and lawful sta
 
 Similar=any equivalent lists in any other jurisdiction to or through which {Company} informs {Supplier} the goods will likely be shipped
 
-=[Z/ol/0]
+=[G/Z/ol/0]

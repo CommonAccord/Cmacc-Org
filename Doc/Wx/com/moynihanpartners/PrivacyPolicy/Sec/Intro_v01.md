@@ -10,6 +10,6 @@ Company.provide.for=intended to enhance your use of the sleep and body monitorin
 
 2.sec={This_Policy} is subject to the provisions our Terms of Use (the "{Terms_of_Use}"), which are incorporated by reference. To see the {Terms_of_Use} click here {ToU.URL}.
 
-=[Z/paras/s2]
+=[G/Z/paras/s2]
 
 Ti=</i>

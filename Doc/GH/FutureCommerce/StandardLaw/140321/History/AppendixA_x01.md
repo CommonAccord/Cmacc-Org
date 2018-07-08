@@ -20,11 +20,11 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 0.7.3.sec=WHEREAS, the Qualified Hospital elects to determine presumptive eligibility in accordance with 42 CFR 435.1110, 130 CMR 450.110 and consistent with federal and state laws, regulations, policies and procedures and subject to the terms of this Agreement;
 
-0.7.=[Z/ol-none/s3]
+0.7.=[G/Z/ol-none/s3]
 
 0.00.sec=NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein
 
-0.=[Z/paras/s7]
+0.=[G/Z/paras/s7]
 
 1.Ti=A. The Qualified Hospital agrees:
 
@@ -46,7 +46,7 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 1.1.7.sec=g. Not be disqualified by EOHHS from making presumptive eligibility determinations.
 
-1.1.=[Z/f/ol/s7]
+1.1.=[G/Z/f/ol/s7]
 
 1.2.Ti=Election
 
@@ -68,9 +68,9 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 1.3.4.3.sec=iii. Explain the applicant’s Rights and Responsibilities that are part of the HPE Application and receive acknowledgement from the applicant of their understanding of these Rights and Responsibilities.
 
-1.3.4.=[Z/f/ol/s3]
+1.3.4.=[G/Z/f/ol/s3]
 
-1.3.=[Z/f/ol/s4]
+1.3.=[G/Z/f/ol/s4]
 
 1.4.Ti=Performance Standards
 
@@ -98,13 +98,13 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 1.6.1.8.sec=To the extent the Qualified Hospital becomes a Holder of Personal Data or otherwise receives or accesses Personal Data, the Qualified Hospital acknowledges that it is subject to, and agrees to comply with and to ensure that its Certified Application Counselors comply with, FIPA.
 
-1.6.1.=[Z/para/s8]
+1.6.1.=[G/Z/para/s8]
 
 1.6.2.1.sec=The Qualified Hospital shall use appropriate safeguards as required by all applicable privacy and security rules and regulations to prevent the use or disclosure of PI other than as permitted or required under this Agreement. The Qualified Hospital shall at all times comply with all Commonwealth privacy, security and information technology resource policies, processes and mechanisms established for access to such PI.
 
 1.6.2.2.sec=The Qualified Hospital agrees that it has in place the same or more stringent privacy and security standards with respect to PI as EOHHS. Upon EOHHS’s request, the Qualified Hospital shall permit representatives of EOHHS access to the premises where PI is maintained, created, used, or disclosed for the purpose of inspecting privacy and security arrangements.
 
-1.6.2.=[Z/para/s2]
+1.6.2.=[G/Z/para/s2]
 
 1.6.3.1.sec=The Qualified Hospital will immediately notify EOHHS upon becoming aware of any suspected and/or confirmed: (i) use or disclosure of PI not permitted under this Agreement, (ii) breach of security (as defined in M.G.L. c. 93H, §1(a)) involving PI (ii) or suspected or confirmed security incident.
 
@@ -118,11 +118,11 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 1.6.3.6.sec=Any actions to mitigate harmful effects of a non-permitted use or disclosure, breach of security or security incident by the Qualified Hospital on its own initiative or pursuant to the request of EOHHS under this paragraph shall not relieve the Qualified Hospital of its obligations to report such violations as set forth in this Agreement or under applicable law.
 
-1.6.3.=[Z/para/s6]
+1.6.3.=[G/Z/para/s6]
 
-1.6.=[Z/f/ol/s3]
+1.6.=[G/Z/f/ol/s3]
 
-1.=[Z/f/ol/6]
+1.=[G/Z/f/ol/6]
 
 2.Ti=B. EOHHS agrees:
 
@@ -134,11 +134,11 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 2.2.2.sec=b. The percentage of presumptively eligible individuals who fill out a complete MassHealth application, and are found eligible for MassHealth coverage, before the end of the presumptive eligibility period. In the initial phase of implementation, EOHHS will monitor all participating Hospitals to assess the average rate of success and will formulate a measure based on this assessment. EOHHS will inform Qualified Hospitals of the metric to be employed prospectively for all participating Hospitals for measuring compliance with full MassHealth enrollment prior to the end of the presumptive eligibility period, as well as the timelines for compliance with that standard.
 
-2.2.=[Z/f/ol/s2]
+2.2.=[G/Z/f/ol/s2]
 
 2.3.sec=That it will notify the Hospital in writing of any re-training or other corrective action plans if the Qualified Hospital does not comply with State-developed Performance Standards.
 
-2.=[Z/f/ol/s3]
+2.=[G/Z/f/ol/s3]
 
 3.Ti=The Qualified Hospital and EOHHS mutually agree:
 
@@ -158,7 +158,7 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 3.5.3.sec=The Provider application(s) and supporting documentation of the above-named Qualified Hospital, which is required to be on file with MassHealth and supporting documentation and any changes or amendments thereto accepted and agreed to by EOHHS.
 
-3.5.=[Z/f/ol/s3]
+3.5.=[G/Z/f/ol/s3]
 
 3.6.sec=Any amendments to this Agreement must be in writing executed by all parties.
 
@@ -168,7 +168,7 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 3.7.2.sec=To Hospital:
 
-3.7.=[Z/f/ol/s2]
+3.7.=[G/Z/f/ol/s2]
 
 3.8.sec=Each provision of this Agreement shall be treated as a separate and independent clause and any decision from a court of competent jurisdiction to the effect that any clause or provision of this Agreement is null or unenforceable shall in no way impair the validity, power, or enforceability of any other clause or provision of this Agreement.
 
@@ -178,7 +178,7 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 3.11.sec=This Agreement shall continue in effect until terminated by either party by written notice given to the other party 30 days prior to the intended termination date. EOHHS may terminate this Agreement immediately without notice if it determines that any material term of this Agreement has been violated.
 
-3.=[Z/f/ol/s11]
+3.=[G/Z/f/ol/s11]
 
 90.0.sec=IN WITNESS WHEREOF, the Parties have caused their authorized representatives to sign below to indicate their acceptance of the terms and conditions of this Agreement.
 
@@ -198,6 +198,6 @@ Ti=<center><b>MassHealth Hospital-Determined Presumptive Eligibility Contract</b
 
 90.8.sec=___ Print Title _____________________________ Date _________________________________ 
 
-90.=[Z/paras/s8]
+90.=[G/Z/paras/s8]
 
-=[Z/f/ol/3]
+=[G/Z/f/ol/3]

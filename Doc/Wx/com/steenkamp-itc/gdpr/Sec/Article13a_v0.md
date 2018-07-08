@@ -16,7 +16,7 @@ Ti=Article 13a Standardised information policies
 
 1.6.sec=(f) whether personal data are retained in encrypted form.
 
-1.=[Z/ol-none/s6]
+1.=[G/Z/ol-none/s6]
 
 2.Ti=Article 13a(2)
 
@@ -28,7 +28,7 @@ Ti=Article 13a Standardised information policies
 
 2.3.sec=(c) the third column depicts graphical forms indicating whether a specific particular is met.
 
-2.=[Z/ol-none/s3]
+2.=[G/Z/ol-none/s3]
 
 3.Ti= Article 13a(3)
 
@@ -42,4 +42,4 @@ Ti=Article 13a Standardised information policies
 
 5.sec= The Commission shall be empowered to adopt, after requesting an opinion of the European Data Protection Board, delegated acts in accordance with Article <a href="art86.html" class="intro">86</a> for the purpose of further specifying the particulars referred to in paragraph 1 and their presentation as referred to in paragraph 2 and in Annex 1.
 
-=[Z/ol-none/5]
+=[G/Z/ol-none/5]

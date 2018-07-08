@@ -6,4 +6,4 @@ Ti=Resources
 
 2.=[Wx/org/genomicsandhealth/REWG/Paris/Jim/Presentation/SmartContracts/Sec/Resources_Reading_v0.md]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

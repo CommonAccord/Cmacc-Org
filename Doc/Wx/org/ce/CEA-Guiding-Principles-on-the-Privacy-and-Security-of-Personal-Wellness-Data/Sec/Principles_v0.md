@@ -57,4 +57,4 @@ Footnote3=Deletion could mean either (1) erasure of the data or (2) removing inf
 
 7.Note=A company’s privacy policy should describe how it responds to requests for users’ personal wellness data from federal, state, local, or foreign law and civil enforcement agencies.
 
-=[Z/ol/7]  
+=[G/Z/ol/7]  

@@ -34,4 +34,4 @@ Ti=Representations and Warranties of {the_Company}
 
 7.sec=To {the_Company}'s knowledge, there is no private or governmental action, suit, proceeding, claim, arbitration or investigation pending before any agency, court or tribunal, foreign or domestic, or threatened against {the_Company} or any of its properties or any of its officers or managers (in their capacities as such).  There is no judgment, decree or order against {the_Company}, or, to the knowledge of {the_Company}, any of its directors or managers (in their capacities as such), that could prevent, enjoin, or materially alter or delay any of the transactions contemplated by this {KISS}, or that could reasonably be expected to have a material adverse effect on {the_Company}.
 
-=[Z/ol/7]
+=[G/Z/ol/7]

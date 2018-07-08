@@ -10,7 +10,7 @@ BoardMembers.Max=3
 
 Investor.BoardMember.Threshold=15%
 
-1.=[Z/paras/s2]
+1.=[G/Z/paras/s2]
 
 2.Ti=Board Meetings
 
@@ -54,8 +54,8 @@ DepartCall.years=five
 
 5.2.00.sec=As an exception to the above, in case of dismissal of a {_Founder} for gross misconduct (faute lourde) before the {DepartCall.years} anniversary of Closing, all shares held by such {_Founder}, whether vested or unvested, may be purchased at their nominal value. 
 
-5.2.=[Z/ol-i/s3]
+5.2.=[G/Z/ol-i/s3]
 
-5.=[Z/ol-none/s2]
+5.=[G/Z/ol-none/s2]
 
-=[Z/ol-none/5]
+=[G/Z/ol-none/5]

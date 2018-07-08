@@ -10,11 +10,11 @@ Ti=Share Settlement Option
 
 2.3.sec=c) making or procuring payment to the relevant {Bondholder} in cash of any accrued and unpaid interest in respect of such {Bonds} up to the Maturity Date.
 
-2.=[Z/ol-a/s3]
+2.=[G/Z/ol-a/s3]
 
 3.sec=“{Valuation_Date}” means the date falling three dealing days prior to the Maturity Date.
 
 4.sec=“{Current_Value}” in respect of a {Share} on the {Valuation_Date} shall mean 99% of the average of the Volume Weighted Average Price of the {Share} for the twenty consecutive dealing days ending on the {Valuation_Date}, translated into EUR at the spot rate of exchange prevailing at the close of business on each such dealing day. 
 
-=[Z/ol-a/s4]
+=[G/Z/ol-a/s4]
 

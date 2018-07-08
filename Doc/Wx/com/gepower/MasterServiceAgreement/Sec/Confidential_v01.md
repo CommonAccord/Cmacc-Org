@@ -14,7 +14,7 @@ Engage.Use.cl=to use the {Proprietary_Information} and/or Notes only for the pur
 
 Engage.Care.cl=to use the same degree of care as with its own confidential information, which shall be at least a reasonable standard of care, to prevent disclosure of the {Proprietary_Information} and/or Notes, except to {Supplier_Personnel} to the extent necessary to permit them to perform the {Services} as set forth in {this_Agreement}
 
-Engage.=[Z/ol/0]
+Engage.=[G/Z/ol/0]
 
 Engage.Xnum={Xnum}.1
 
@@ -22,25 +22,25 @@ WarnPersonnel.Ti=Advise Personnel
 
 WarnPersonnel.sec={Supplier} further agrees that prior to disclosing any {Proprietary_Information} to {Supplier_Personnel} as set forth above, {Supplier} will: <ol><li>advise such {Supplier_Personnel} of the confidential and proprietary nature of the {Proprietary_Information} and Notes; and</li><li>require them to sign the {Secrecy_and_Inventions_Agreement} attached hereto as {Schedule_B}.</li></ol>
 
-WarnPersonnel.=[Z/ol/0]
+WarnPersonnel.=[G/Z/ol/0]
 
 Injunct.Ti=Injunctions
 
 Injunct.sec={Supplier} agrees to be responsible for any breach of {this_Agreement} by it or {Supplier_Personnel}. {Supplier} acknowledges that money damages would not be a sufficient remedy for any breach of this Section. Accordingly, in the event of any such breach, in addition to any other remedies at law or in equity that {Company} may have, it shall be entitled to equitable relief, including injunctive relief or specific performance or both.
 
-Injunct.=[Z/ol/0]
+Injunct.=[G/Z/ol/0]
 
 Endure.Ti=Term of Confidentiality Engagements
 
 Endure.sec=Obligations in this Section shall, with respect to each disclosure of {Proprietary_Information} hereunder, continue for {Engage.Duration}. Nothing herein is intended to limit or abridge the protection of trade secrets under applicable trade secrets law, and trade secrets shall be maintained as such until they fall into the public domain.
 
-Endure.=[Z/ol/0]
+Endure.=[G/Z/ol/0]
 
 Return.Ti=Return or Destruction of Information
 
 Return.sec=Upon completion or termination of {this_Agreement} or upon request of {Company}, {Supplier} shall promptly: <ol><li>return all {Proprietary_Information} disclosed to it; and</li><li>destroy (with such destruction certified in writing by {Supplier}) all Notes, without retaining any copy thereof.</li></ol> No such termination of the Agreement or return or destruction of the {Proprietary_Information} and/or Notes will affect the confidentiality obligations of {Supplier} or {Supplier_Personnel} all of which will continue in effect as provided in {this_Agreement}.
 
-Return.=[Z/ol/0]
+Return.=[G/Z/ol/0]
 
 Exclude.Ti=Information Not Covered
 
@@ -56,26 +56,26 @@ Exclude.Finds.cl=is or becomes available to {Supplier} on a non-confidential bas
 
 Exclude.Makes.cl=was independently developed by {Supplier} or {Supplier_Personnel}, without reference to the {Proprietary_Information}, and {Supplier} can verify the development of such information by written documentation
 
-Exclude.=[Z/ol/0]
+Exclude.=[G/Z/ol/0]
 
 
 OneWay.Ti={Supplier} Information
 
 OneWay.sec=Knowledge or information of any kind disclosed to {Company} shall be deemed to have been disclosed without financial or other obligation on the part of {Company} to hold the same in confidence, and {Company} shall have full right to use and disclose such information without any compensation beyond that specifically provided by {this_Agreement}.
 
-OneWay.=[Z/ol/0]
+OneWay.=[G/Z/ol/0]
 
 
 Publicity.Ti=Publicity
 
 Publicity.sec=In addition to the other confidentiality obligations under {this_Agreement}, {Supplier} shall not make any announcement, take or release any photographs (except for its internal operation purposes for performing the {Services}) or release any information concerning {this_Agreement} or any part thereof or with respect to its business relationship with {Company} to any member of the public or press, any business entity or official body except as required by applicable law, rule, injunction or administrative order, unless prior written consent is obtained from {Company}. If {Supplier} determines it is obligated by law or a governmental authority to make any such announcement or release, {Supplier} shall promptly notify {Company} and cooperate with {Company} to ensure that suitable confidentiality obligations are afforded such information.
 
-Publicity.=[Z/ol/0]
+Publicity.=[G/Z/ol/0]
 
 Monitor.Ti=System Monitoring
 
 Monitor.sec={Supplier} agrees that the {Company} may, at any time, without further consent, access and monitor any usage by {Supplier} or {Supplier_Personnel} of any {Company} information, systems and resources, including without limitation: computers, computer software, electronic mail, online services, voicemail, facsimile machines, telephones and photocopiers.
 
-Monitor.=[Z/ol/0]
+Monitor.=[G/Z/ol/0]
   
-=[Z/ol/0]
+=[G/Z/ol/0]

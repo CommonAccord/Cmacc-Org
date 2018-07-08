@@ -6,4 +6,4 @@ Ti=Energy
 
 3.sec=Safety
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]

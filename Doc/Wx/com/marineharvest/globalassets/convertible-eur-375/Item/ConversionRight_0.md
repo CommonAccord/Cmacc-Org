@@ -6,4 +6,4 @@ Ti=Conversion Right
 
 3.sec=In the case of an exercise of the Conversion Right in respect of a {Bond}, interest shall cease to accrue on such {Bond} with effect from the {Interest_Payment_Date} immediately preceding the relevant Conversion Date
 
-=[Z/paras/s3]
+=[G/Z/paras/s3]

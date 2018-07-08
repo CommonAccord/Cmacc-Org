@@ -23,4 +23,4 @@ Ti=Definitions
 
 11.sec=“Contributor” shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
 
-=[Z/paras/s11]
+=[G/Z/paras/s11]

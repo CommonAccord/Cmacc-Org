@@ -2,4 +2,4 @@ Ti=PII Principal
 
 sec={P1.Name.Full}
 
-=[Z/ol/0]
+=[G/Z/ol/0]

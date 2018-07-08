@@ -10,7 +10,7 @@ Ti=License
 
 1.1.sec=In order to accept this {License}, {Licensee} must qualify as a {DPL_User} (as defined in Section 7.6) and must contact {Licensor} via the information provided in {Licensor}'s {Offering_Announcement} to state affirmatively that {Licensee} accepts the terms of this {License}. {Licensee} must also communicate the URL of its own {Offering_Announcement} (as defined in Section 7.13) and specify whether it is accepting the {License} to all {Licensor}'s {Patents} or only a subset of those {Patents}. If {Licensee} is only accepting the {License} to a subset of {Licensor}'s {Patents}, {Licensee} must specify each individual {Patent}'s country of issuance and corresponding patent number for which it is accepting a {License}. There is no requirement that the {Licensor} respond to the {Licensee}'s affirmative acceptance of this {License}.
 
-1.=[Z/ol/s1]
+1.=[G/Z/ol/s1]
 
 2.Ti={License} Restrictions
 
@@ -40,13 +40,13 @@ Ti=License
 
 2.5.2.sec={Licensee} assigns, transfers, or grants an exclusive license for a {Patent} to an entity or individual other than a {DPL_User} without conditioning the assignment, transfer, or exclusive license on the recipient continuing to abide by the terms of this {License}, including but not limited to the revocation and termination rights under this Section.
 
-2.5.=[Z/ol/s2]
+2.5.=[G/Z/ol/s2]
 
 2.6.Ti=Optional Conversion to FRAND Upon Discontinuation
 
 2.6.sec=Notwithstanding any other provision in this {License}, as of any particular {Licensee}'s {Discontinuation_Date}, {Licensor} has the right to convert the {License} of that particular {Licensee} from one that is royalty-free and no-charge to one that is subject to Fair, Reasonable, And Non-Discriminatory (FRAND) terms going forward. No other terms in the license may be altered in any way under this provision.
 
-2.=[Z/ol/6]
+2.=[G/Z/ol/6]
 
 3.Ti=Versions of the {License}
 
@@ -60,7 +60,7 @@ Ti=License
 
 3.00.sec=Each version is given a distinguishing version number. If {Licensor} specifies in her {Offering_Announcement} that she is offering a certain numbered version of the {DPL} "or any later version", {Licensee} has the option of following the terms and conditions either of that numbered version or of any later version published by one of the license stewards. If {Licensor} does not specify a version number of the {DPL} in her {Offering_Announcement}, {Licensee} may choose any version ever published by any of the license stewards.
 
-3.=[Z/ol/2]
+3.=[G/Z/ol/2]
 
 4.Ti=Disclaimer of Claims Related to Patent Validity and Noninfringement
 
@@ -77,7 +77,7 @@ Ti=License
 
 7.=[Wx/org/defensivepatentlicense/1-1/Sec_Def_0.md]
 
-=[Z/ol/7]
+=[G/Z/ol/7]
 
 Sec={Doc}
 

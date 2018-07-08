@@ -24,6 +24,6 @@ Duration.3.sec=take such actions as may be required to cure all defects and/or b
 
 Duration.00.sec=Any attempt by {Supplier} to limit, disclaim or restrict any such warranties or any remedies of {Company}, by acknowledgment or other wise, in accepting or performing {this_Agreement}, shall be null, void and ineffective without {Company}'s written consent.
  
-Duration.=[Z/ol/s3]
+Duration.=[G/Z/ol/s3]
 
-=[Z/ol/0]
+=[G/Z/ol/0]

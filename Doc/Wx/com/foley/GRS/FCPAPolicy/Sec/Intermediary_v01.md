@@ -4,7 +4,7 @@ Ti=Third Party Intermediaries
 
 1.2.sec=While use of third parties can help us reach our goals, we need to be aware that these arrangements can potentially present {the_Company} with significant risks because {the_Company} cannot as easily control the actions taken by third parties on {the_Company}’s behalf.
 
-1.=[Z/para/s2]
+1.=[G/Z/para/s2]
 
 2.1.sec=Third parties who act on {the_Company}’s behalf must operate at all times in accordance with {this_Policy}.
 
@@ -14,7 +14,7 @@ Ti=Third Party Intermediaries
 
 2.4.sec=Accordingly, special care and due diligence must be exercised when retaining consultants, agents, and other third party representatives to assist {the_Company}.
 
-2.=[Z/para/s4]
+2.=[G/Z/para/s4]
 
 3.0.sec=It is {the_Company}’s policy that:
 
@@ -36,8 +36,8 @@ Ti=Third Party Intermediaries
 
 3.9.sec=Arrangements with third-party representatives will be reviewed regularly to ensure that they are in strict compliance with {this_Policy}.
 
-3.=[Z/ol/s9]
+3.=[G/Z/ol/s9]
 
 4.sec=The {Intermediary_Supervisor} or his or her designee will create and maintain a file documenting the due diligence conducted on each third party representative.
 
-=[Z/paras/s4]
+=[G/Z/paras/s4]

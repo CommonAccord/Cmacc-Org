@@ -19,7 +19,7 @@ Ti=Sam
 
 3.1.5.sec=Place to send samples
 
-3.1.=[Z/ol/s5]
+3.1.=[G/Z/ol/s5]
 
 3.2.sec=Click consent
  
@@ -35,9 +35,9 @@ Ti=Sam
 
 3.3.5.sec=Chrono for following the disease, involving patient and family
 
-3.3.=[Z/ol/s5]
+3.3.=[G/Z/ol/s5]
 
-3.=[Z/ol/s3]
+3.=[G/Z/ol/s3]
 
 4.sec=Control
 4.1.sec=Record is portable - follows patient to the medical facility.  Belongs to patient.
@@ -52,7 +52,7 @@ Ti=Sam
 
 5.2.sec=Parent
 
-5.=[Z/ol/s2]
+5.=[G/Z/ol/s2]
 
 6.0.sec=(Outside Accessors)  (Watch out for power relationships):
 
@@ -66,6 +66,6 @@ Ti=Sam
 
 6.5.sec=Epidemiologist
   
-6.=[Z/ol/s5]
+6.=[G/Z/ol/s5]
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]

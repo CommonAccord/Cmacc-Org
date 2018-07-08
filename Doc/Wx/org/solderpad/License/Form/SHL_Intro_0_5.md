@@ -10,6 +10,6 @@ Release.#=version 0.5
 
 3.sec=This License is licensed under the terms of this License and in particular clause 7 below (Disclaimer of Warranties) applies in relation to its use.
 
-=[Z/paras/s3]
+=[G/Z/paras/s3]
 
 Sec={Doc}

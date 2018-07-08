@@ -17,4 +17,4 @@ Ti=Exceptions
 
 7.sec=is disclosed pursuant to the order or requirement of a court, administrative agency, or other governmental body; provided, however, that {Recipient} will provide prompt notice of such court order or requirement to {Discloser} to enable {Discloser} to seek a protective order or otherwise prevent or restrict such disclosure.
 
-=[Z/ol-a/s7]
+=[G/Z/ol-a/s7]

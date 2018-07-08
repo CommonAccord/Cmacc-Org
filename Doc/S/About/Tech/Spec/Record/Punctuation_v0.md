@@ -12,4 +12,4 @@ Ti="Punctuation"
 
 5.sec=Google Docs - and why not have a mode that disrenders the text (makes into key=values) and then rerenders it with possible overrides.
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]

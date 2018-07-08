@@ -11,7 +11,7 @@ Ti=Inscription sur le site
 
 1.5.sec=L'Utilisateur est informé et accepte que les informations saisies aux fins de création ou de mise à jour de son Compte vaillent preuve de son identité. Les informations saisies par l'Utilisateur l'engagent dès leur validation.
 
-1.=[Z/paras/s5]
+1.=[G/Z/paras/s5]
 
 2.1.sec=L'Utilisateur peut accéder à tout moment à son Espace Personnel après s'être identifié à l'aide de son identifiant de connexion ainsi que de son mot de passe.
 
@@ -19,6 +19,6 @@ Ti=Inscription sur le site
 
 2.3.sec=Il est pareillement responsable du maintien de la confidentialité de son identifiant et de son mot de passe. Il doit immédiatement contacter {P1.Handle} aux coordonnées mentionnées à l'article 2 des présentes s'il remarque que son Compte a été utilisé à son insu. Il reconnaît à {P1.Handle} le droit de prendre toutes mesures appropriées en pareil cas.
 
-2.=[Z/paras/s3]
+2.=[G/Z/paras/s3]
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

@@ -46,7 +46,7 @@ Loi.=[F/FR/00/Agt/Startup/Jurismatic/08-CGU/Sec/Loi_v0.md]
 
 Effective.=[F/FR/00/Agt/Startup/Jurismatic/08-CGU/Sec/Effective_v0.md]
 
-=[Z/ol/0]
+=[G/Z/ol/0]
 
 Sec={Doc}
 

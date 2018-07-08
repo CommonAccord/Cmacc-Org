@@ -14,6 +14,6 @@ Misc.=[Wx/org/creativecommons/License/4_0/Sec/OtherTermsAndConditions_v01.md]
 
 Interpretation.=[Wx/org/creativecommons/License/4_0/Sec/Interpretation_v01.md]
 
-=[Z/ol/0]
+=[G/Z/ol/0]
 
 =[Law/Out/Form/Agt/License/Copyright/bCreativeCommons/_v01.md]

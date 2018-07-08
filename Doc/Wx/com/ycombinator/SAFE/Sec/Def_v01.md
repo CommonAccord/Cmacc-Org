@@ -182,4 +182,4 @@ D.15.2.cl=(i) the per share liquidation preference and the conversion price for 
 
 19.Sec="MFN" Amendment Provision. If the {Company} issues any {Subsequent_Convertible_Securities} prior to termination of this instrument, the {Company} will promptly provide the {Investor} with written notice thereof, together with a copy of all documentation relating to such {Subsequent_Convertible_Securities} and, upon written request of the {Investor}, any additional information related to such {Subsequent_Convertible_Securities} as may be reasonably requested by the {Investor}.  In the event the {Investor} determines that the terms of the {Subsequent_Convertible_Securities} are preferable to the terms of this instrument, the {Investor} will notify the {Company} in writing. Promptly after receipt of such written notice from the {Investor}, the {Company} agrees to amend and restate this instrument to be identical to the instrument(s) evidencing the {Subsequent_Convertible_Securities}. 
 
-=[Z/ol-none/17]
+=[G/Z/ol-none/17]

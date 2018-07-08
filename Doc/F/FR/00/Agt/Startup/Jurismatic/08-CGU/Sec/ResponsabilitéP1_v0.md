@@ -8,7 +8,7 @@ Ti=Responsabilité et garantie de {P1.Handle}
 
 2.3.sec=Les Contenus préjudiciables à un tiers peuvent faire l'objet d'une notification à {P1.Handle} selon les modalités prévues par l'article 6 I 5 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, {P1.Handle} se réservant de prendre les mesures décrites à l'article 12.
 
-2.=[Z/paras/s3]
+2.=[G/Z/paras/s3]
 
 3.sec={P1.Handle} décline toute responsabilité en cas de perte éventuelle des informations accessibles dans l'Espace Personnel de l'Utilisateur, celui-ci devant en sauvegarder une copie et ne pouvant prétendre à aucun dédommagement à ce titre.
 
@@ -18,4 +18,4 @@ Ti=Responsabilité et garantie de {P1.Handle}
 
 6.sec=En tout état de cause, la responsabilité susceptible d'être encourue par {P1.Handle} au titre des présentes est expressément limitée aux seuls dommages directs avérés subis par l'Utilisateur.
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]

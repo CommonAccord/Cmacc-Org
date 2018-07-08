@@ -28,7 +28,7 @@ Ti=Authorizations Taxonomy
 
 1.1.2.sec={DNS.FR}
 
-1.1.=[Z/ol/s2]
+1.1.=[G/Z/ol/s2]
 
 1.2.0.sec=Can make aggregates of these:
 
@@ -46,9 +46,9 @@ DNS.CH=Switzerland
 
 Geo.Europe={DNS.EU}; {DNS.CH}
 
-1.2.=[Z/ol/s2]
+1.2.=[G/Z/ol/s2]
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=Raw.
 
@@ -92,6 +92,6 @@ Geo.Europe={DNS.EU}; {DNS.CH}
 
 11.0.sec="Dragons" lie here.  TBD, unknown, watch out, etc.  From Wilbanks.
 
-=[Z/ol/11]  
+=[G/Z/ol/11]  
 
 =[Wx/org/genomicsandhealth/REWG/Paris/Access/Form/_v0.md]

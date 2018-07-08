@@ -12,7 +12,7 @@ Ti=Policy Types
 
 3.sec={PresentToken.sec} {MultipleAccess.sec} (A-3)
 
-=[Z/ol/3]
+=[G/Z/ol/3]
 
 PresentToken.sec=We will transmit your information only to a person who presents a cryptographic token and only after we have presented the token to your authorization server and have received authorization from your authorization server to transmit the information.
   

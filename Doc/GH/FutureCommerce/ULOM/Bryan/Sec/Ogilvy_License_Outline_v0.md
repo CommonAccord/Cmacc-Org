@@ -18,4 +18,4 @@ Ti=Skeleton of a License Agreement
 
 9.=[GH/FutureCommerce/ULOM/Bryan/Sec/Common_v0.md] 
 
-=[Z/ol/9]
+=[G/Z/ol/9]

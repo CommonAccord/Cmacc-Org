@@ -10,4 +10,4 @@ Ti=Other Conditions
 
 4.sec=merge, demerge or in any other way restructure its business; in a manner which (in the reasonable opinion of the Loan Trustee) is likely to be materially adverse to (i) the ability of the {Issuer} to perform any of its obligations under the Loan Agreement and/or (ii) the business, assets or financial condition of the Group as a whole.
 
-=[Z/ol-a/s4]
+=[G/Z/ol-a/s4]

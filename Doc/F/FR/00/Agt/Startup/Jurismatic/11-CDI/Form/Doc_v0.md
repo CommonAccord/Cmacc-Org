@@ -26,7 +26,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 1.7.sec=En application de la loi n° 78-17 du 6 janvier 1978 dite « Informatique et Libertés », le Salariédispose d'un droit d'accès et de rectification des informations portées sur ce document, qu'il peut exercer auprès de l'URSSAF de {ville}.
 
-1.=[Z/ol/s7]
+1.=[G/Z/ol/s7]
 
 2.Ti=Durée du contrat, période d'essai
 
@@ -40,7 +40,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 2.5.sec=A l'issue de la période d'essai, si elle s'est révélée satisfaisante, le présent contrat deviendra définitif et se poursuivra pour une durée indéterminée, chacune des parties pouvant y mettre fin à tout moment en respectant les dispositions légales et conventionnelles en vigueur, ainsi que le préavis prévu à l'article 12.
 
-2.=[Z/ol/s5]
+2.=[G/Z/ol/s5]
 
 3.Ti=Durée du travail
 
@@ -50,7 +50,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 3.3.sec=Il est rappelé que les heures supplémentaires restent exceptionnelles et ne doivent être effectuées que sur autorisation expresse et préalable de la Société.
 
-3.=[Z/ol/s3]
+3.=[G/Z/ol/s3]
 
 4.Ti=Lieu de travail, mobilité
 
@@ -62,7 +62,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 4.4.sec=De plus, compte tenu de la nature de ses fonctions, le Salarié accepte, en fonction des besoins de la Société, de se déplacer régulièrement en France.
 
-4.=[Z/ol/s4]
+4.=[G/Z/ol/s4]
 
 5.Ti=Rémunération
 
@@ -72,7 +72,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 5.3.sec=Ce prix de cession est évalué forfaitairement conformément aux dispositions de l'article L131-4 du Code de la propriété intellectuelle (dans le cadre des dérogations prévues aux alinéas 1 à 4 dudit article, selon le contexte des exploitations effectuées).
 
-5.=[Z/ol/s3]
+5.=[G/Z/ol/s3]
 
 6.Ti=Indemnisation des frais professionnels (déplacement)
 
@@ -80,7 +80,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 6.2.sec=Le Salarié bénéficiera en outre du remboursement de 50% (cinquante pour cent) de sa carte de transports publics, pour la période du présent contrat, sur présentation du justificatif comptable correspondant.
 
-6.=[Z/ol/s2]
+6.=[G/Z/ol/s2]
 
 7.Ti=Congés payés
 
@@ -88,7 +88,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 7.2.sec=Il prendra ses congés, en accord avec la Société, en fonction des usages, dispositions, besoins et/ou contraintes propres à l'entreprise.
 
-7.=[Z/ol/s2]
+7.=[G/Z/ol/s2]
 
 8.Ti=Obligations professionnelles
 
@@ -100,7 +100,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 8.4.sec=Pendant la période d'essai visée à l'article {2.2}, le Salarié devra fournir à la Société tous les éléments nécessaires pour constituer son dossier et notamment la copie de ses diplômes.
 
-8.=[Z/ol/s3]
+8.=[G/Z/ol/s3]
 
 9.Ti=Confidentialité
 
@@ -108,7 +108,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 9.1.1.sec=« Les salariés s'engagent formellement à ne divulguer à qui que ce soit aucun des plans, études, conceptions, projets, réalisations, logiciels, étudiés dans l'entreprise, soit pour le compte des clients de l'entreprise, soit pour l'entreprise elle-même, se déclarant liés à cet égard par le secret professionnel le plus absolu. Il en est de même pour les renseignements, résultats, etc., découlant de travaux réalisés dans l'entreprise, ou constatés chez les clients. Une infraction des salariés à cette stricte obligation peut constituer une faute lourde. »
 
-9.1.=[Z/ol/s1]
+9.1.=[G/Z/ol/s1]
 
 9.2.sec=Le Salarié reconnaît et accepte, tant à l'occasion de l'exécution de son contrat de travail que pendant une durée de 5 (cinq) ans après la cessation de celui-ci, pour quelque raison que ce soit, être lié à la Société ou à toute autre entité juridiquement liée à elle, par le secret professionnel et une obligation de discrétion absolue.
 
@@ -116,7 +116,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 9.4.sec=Cette obligation cesse de s'appliquer aux informations et aux connaissances qui tombent dans le domaine public.
 
-9.=[Z/ol/s4]
+9.=[G/Z/ol/s4]
 
 10.Ti=Propriété intellectuelle
 
@@ -126,7 +126,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 10.1.2.sec=Toute contestation sur l'application du présent article est soumise au tribunal de grande instance du siège social de l'employeur. »
 
-10.1.=[Z/ol/s2]
+10.1.=[G/Z/ol/s2]
 
 10.2.sec=S'agissant des œuvres autres que les logiciels et développements informatiques, le Salarié s'engage à céder à la Société, à titre exclusif, pour le monde entier et pour toute la durée légale du droit d'auteur, ses droits patrimoniaux d'auteur sur les œuvres de toute nature qu'il pourra être amené à créer au cours de l'exécution du présent contrat (ci-après dénommées les « Œuvres »), quelle que soit la nature de sa collaboration auxdites Œuvres.
 
@@ -150,7 +150,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 10.3.9.sec=Le droit d'autoriser un tiers à procéder aux exploitations susvisées et plus généralement, de céder et/ou concéder aux tiers tout ou partie des droits présentement cédés.
 
-10.3.=[Z/ol/s9]
+10.3.=[G/Z/ol/s9]
 
 10.4.sec=La cession visée ci-dessus sera réalisée automatiquement, au fur et à mesure de la conception des Œuvres, sans aucune formalité.
 
@@ -161,7 +161,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 10.8.sec=Dans tous les cas, le Salarié s'engage à fournir toute l'assistance ainsi que tous les documents et signatures utiles et à effectuer toutes les démarches qui s'avéreraient nécessaires aux fins du dépôt, de l'exploitation ou de la défense de ces brevets.
 
-10.=[Z/ol/s8]
+10.=[G/Z/ol/s8]
 
 11.Ti=Exclusivité
 
@@ -173,7 +173,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 12.2.sec=Le délai de préavis court à compter du lendemain de la notification de la rupture, qui devra dans tous les cas être faite par lettre recommandée avec avis de réception ou remise en main propre contre décharge.
 
-12.=[Z/ol/s2]
+12.=[G/Z/ol/s2]
 
 13.Ti=Clause de non concurrence
 
@@ -183,13 +183,13 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 13.1.2.sec=D'entrer au service ou de travailler directement ou indirectement, à titre gratuit ou onéreux, habituellement ou occasionnellement, avec une entreprise ayant une activité, même accessoire, concurrente de celle de la Société,
 
-13.1.=[Z/ol/s2]
+13.1.=[G/Z/ol/s2]
 
 13.2.0.sec=Cette interdiction, qui n'a pas pour objet d'empêcher le Salarié d'exercer sa profession au sein d'une activité non concurrente, est toutefois limitée au territoire suivant :
 
 13.2.1.sec={région}
 
-13.2.=[Z/ol/s1]
+13.2.=[G/Z/ol/s1]
 
 13.3.sec=Toute violation de la présente clause de non-concurrence rendra automatiquement le Salarié redevable d'une pénalité fixée dès à présent et forfaitairement à une fois et demie (1,5 fois) le montant de l'indemnité mensuelle calculée en application de l'article 13.4, pénalité due pour chaque infraction constatée, sans qu'il soit besoin d'une mise en demeure d'avoir à cesser l'activité concurrentielle.
 
@@ -201,7 +201,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 13.7.sec=La Société pourra cependant réduire la durée ou le champ d'application de la présente clause, ou libérer le Salarié de l'interdiction de non concurrence, et donc se dégager du paiement de tout ou partie de l'indemnité prévue en contrepartie, soit à tout moment au cours de l'exécution du présent contrat, soit à l'occasion de sa cessation, sous réserve de notifier sa décision par lettre recommandée AR ou remise en main propre contre récépissé au plus tard à la date de la rupture effective du contrat de travail.
 
-13.=[Z/ol/s7]
+13.=[G/Z/ol/s7]
 
 14.Ti=Moyens de communication et d'information, matériels et documents
 
@@ -219,7 +219,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 14.3.4.sec=ne pas communiquer les codes d'accès, code sources et sauvegardes à toute personne autre que celles habilitées par la Société.
 
-14.3.=[Z/ol/s4]
+14.3.=[G/Z/ol/s4]
 
 14.4.sec=De manière générale, il s'oblige à ne pas utiliser après la fin du présent contrat tous les supports, fichiers, bases de données, etc… mis à sa disposition ou développés par la Société ou créés par le Salarié dans le cadre de ses fonctions.
 
@@ -233,7 +233,7 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 14.9.sec=A l'expiration du présent contrat, pour quelque cause que ce soit, le Salarié devra restituer immédiatement les biens de toute nature, les fichiers et documents divers qui auraient pu lui être confiés, ainsi que toutes copies et reproductions en sa possession, sans qu'il soit besoin d'une demande ou d'une mise en demeure préalable.
 
-14.=[Z/ol/s9]
+14.=[G/Z/ol/s9]
 
 15.Ti=Avantages sociaux
 
@@ -243,13 +243,13 @@ P2.5.sec=Demeurant {adresse du domicile}
 
 15.2.sec=au régime de prévoyance géré par : {Nom et adresse à compléter}.
 
-15.=[Z/ol/s2]
+15.=[G/Z/ol/s2]
 
 =[F/FR/00/Agt/Base/Form/0.md]
 
 Frame.=[F/FR/00/Agt/Base/Frame/2Parties/0.md]
 
-=[Z/ol/15]
+=[G/Z/ol/15]
 
 Note=Fait à {ville}, le {date}
 

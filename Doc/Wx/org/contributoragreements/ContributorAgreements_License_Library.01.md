@@ -15,7 +15,7 @@ Entity.0.1.sec=Entity Contributor {Agreement.Exclusivity} License Agreement
 
 0.4.sec=The purpose of this contributor agreement ("Agreement") is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions at {P1.Sign}.
 
-0.=[Z/ol/s4]
+0.=[G/Z/ol/s4]
 
 0.Sec={0.blist}
 
@@ -49,7 +49,7 @@ Material.sec="Material" means the software or documentation made available by Us
 
 1.7.sec="Documentation" means any non-software portion of a Contribution.
 
-1.=[Z/ol/s7]
+1.=[G/Z/ol/s7]
 
 2.Ti=License Grant
 
@@ -65,7 +65,7 @@ Material.sec="Material" means the software or documentation made available by Us
 
 2.1.4.sec=to distribute, to make the Contribution available to the public, display and publicly perform the Contribution in original or modified form.
 
-2.1.=[Z/ol/s4]
+2.1.=[G/Z/ol/s4]
 
 2.2.Ti=Moral Rights
 
@@ -85,9 +85,9 @@ Material.sec="Material" means the software or documentation made available by Us
 
 2.3.00.sec=This license back is limited to the Contribution and does not provide any rights to the Material.
 
-2.3.=[Z/ol/s4]
+2.3.=[G/Z/ol/s4]
 
-2.=[Z/ol/3]
+2.=[G/Z/ol/3]
 
 3.Ti=Patents
 
@@ -103,7 +103,7 @@ PatentLicense.Traditional.sec=Subject to the terms and conditions of this Agreem
 
 3.2.sec=You reserve the right to revoke the patent license stated in section 3.1 if we make any infringement claim that is targeted at your Contribution and not asserted for a Defensive Purpose. An assertion of claims of the Patents shall be considered for a "Defensive Purpose" if the claims are asserted against an entity that has filed, maintained, threatened, or voluntarily participated in a patent infringement lawsuit against Us or any of Our licensees.
 
-3.=[Z/ol/2]
+3.=[G/Z/ol/2]
 
 4.Ti=License Obligations by US
 
@@ -113,7 +113,7 @@ PatentLicense.Traditional.sec=Subject to the terms and conditions of this Agreem
 
 4.3.sec=We agree to license patents owned or controlled by you only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of the license or licenses that We are using on the Submission Date.
 
-4.=[Z/ol/s3]
+4.=[G/Z/ol/s3]
 
 5.Ti=Disclaimer
 
@@ -135,7 +135,7 @@ PatentLicense.Traditional.sec=Subject to the terms and conditions of this Agreem
 
 8.3.sec=In the event of a termination of this Agreement Sections 5, 6, 7, 8 and 9 shall survive such termination and shall remain in full force thereafter. For the avoidance of doubt, Contributions that are already licensed under a free and open source license at the date of the termination shall remain in full force after the termination of this Agreement.
 
-8.=[Z/ol/s3]
+8.=[G/Z/ol/s3]
 
 9.Ti=Miscellaneous
 
@@ -147,8 +147,8 @@ PatentLicense.Traditional.sec=Subject to the terms and conditions of this Agreem
 
 9.4.sec=You agree to notify Us of any facts or circumstances of which you become aware that would make this Agreement inaccurate in any respect.
 
-9.=[Z/ol/s4]
+9.=[G/Z/ol/s4]
 
 00.sec={P1.Sign.Block}<br>{P2.Sign.Block}
 
-=[Z/ol/9]
+=[G/Z/ol/9]

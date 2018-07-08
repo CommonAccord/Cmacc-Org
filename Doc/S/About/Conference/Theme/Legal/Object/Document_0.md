@@ -10,4 +10,4 @@ Ti=Object Model for Legal Documents
 
 00.sec=<img src="index.php?action=raw&file=S/About/Conference/Image/Legal_Document_ObjectModel.jpg" height="500" width="700">
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]

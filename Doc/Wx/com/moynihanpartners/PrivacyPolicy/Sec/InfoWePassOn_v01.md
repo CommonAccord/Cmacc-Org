@@ -8,4 +8,4 @@ Ti=Disclosure to Third Parties
 
 4.sec=In the event of a reorganization, merger or sale, we may transfer any and all personal information we collect to the relevant third party.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

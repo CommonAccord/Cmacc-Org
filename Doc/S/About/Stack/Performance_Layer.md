@@ -9,4 +9,4 @@ Ti=Automatic Performance - The Democratizing Effect of the Blockchain
 4.sec=Pragmatically, the blockchain is an alternative to waiting on hold for a person to tell you that it can't be done.
 
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

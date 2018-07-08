@@ -10,4 +10,4 @@
 
 6.sec=<b>Twitter Handle</b>: {Conference.Twitter.Handle}; <b>URL</b>: {Conference.Link}; <b>Email List</b>: {Conference.EmailList.Link}; <b>Slack</b>: {Conference.Slack.Link} 
 
-=[Z/paras/s6]
+=[G/Z/paras/s6]

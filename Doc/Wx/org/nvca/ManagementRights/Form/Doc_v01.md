@@ -10,7 +10,7 @@ Ti={Co.Letterhead}
 
 0.xlist={0.blist}
 
-0.=[Z/ol/s3]
+0.=[G/Z/ol/s3]
 
 1.sec=If Investor is not represented on Company’s Board of Directors, Investor shall be entitled to consult with and advise management of the Company on significant business issues, including management’s proposed annual operating plans, and management will meet with Investor regularly during each year at the Company’s facilities at mutually agreeable times for such consultation and advice and to review progress in achieving said plans.
 
@@ -28,4 +28,4 @@ Note=Signature seems backwards in the original
 
 Sec={Doc}
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]

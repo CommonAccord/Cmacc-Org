@@ -12,4 +12,4 @@ IP.=[Wx/com/ycombinator/SAFE/Sec/cRep_IP_v01.md]
 
 Secs={Organization.Sec}<li>{Authorization.Sec}<li>{Breach.Sec}<li>{Consent.Sec}<li>{IP.Sec}
 
-=[Z/ol/5]
+=[G/Z/ol/5]

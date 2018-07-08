@@ -16,4 +16,4 @@ Technical.Alt2.=[GH/FutureCommerce/StandardLaw/MBP/Sec/Technical_v0.md]
 
 sec=<ol><li>{Business.Sec}<li>{Legal.Sec}<li>{Technical.Sec}</ol>
 
-=[Z/ol/1]
+=[G/Z/ol/1]

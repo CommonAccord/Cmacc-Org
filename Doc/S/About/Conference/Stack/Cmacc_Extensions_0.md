@@ -30,6 +30,6 @@ Ti=Cmacc Extensions
 
 7.sec=If there are a number of Key/Values where each Key begins the same .. Product.Price=x ; Product.ID=321 ; etc., it might be convenient to be able to express this as <br>Product:<ul type=none><li>Price=x<li>ID=321</ul> or the like.  Variables in such indented elements would need to be evaluated as prefixed. 
  
-=[Z/ol/7]
+=[G/Z/ol/7]
 
 ID.HazardJ.=[U/id/hazardj]

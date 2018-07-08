@@ -14,4 +14,4 @@ Ti=Access
 
 00.sec=Needs much more work.<br><a href="index.php?action=doc&file=S/About/Conference/Stack/Tech_0.md">Tech stack</a>
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

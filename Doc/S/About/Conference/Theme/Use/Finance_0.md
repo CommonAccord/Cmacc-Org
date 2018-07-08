@@ -12,4 +12,4 @@ Ti=Banking and Insurance
 
 6.sec=Effects of borrower transparency
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]

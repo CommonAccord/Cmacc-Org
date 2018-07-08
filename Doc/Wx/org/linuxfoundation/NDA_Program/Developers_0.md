@@ -78,11 +78,11 @@ Intro.That.Sec=NOW WHEREFORE, for good and valuable consideration, the receipt a
 
 16.sec={Consultant} acknowledges that it has carefully read the foregoing {Agreement}, understand its contents, and signed it voluntarily.
 
-=[Z/Agt/Agt_v01.md]
+=[G/Z/Agt/Agt_v01.md]
 
-=[Z/ol/16]
+=[G/Z/ol/16]
 
-Intro.Recite.=[Z/ol/s3]
+Intro.Recite.=[G/Z/ol/s3]
 
 Consultant=<span class="definedterm">Consultant</span>
 

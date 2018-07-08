@@ -28,4 +28,4 @@ Ti=Data Controller
 
 7.sec={P2.PrivacyPolicy.ULR}
 
-=[Z/ol/7]
+=[G/Z/ol/7]

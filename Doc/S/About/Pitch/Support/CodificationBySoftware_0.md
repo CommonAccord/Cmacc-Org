@@ -22,7 +22,7 @@ Ti=Legal codification by software methods
 
 3.00.sec=This is not intended to be exhaustive. 
 
-3.=[Z/ol/s6]
+3.=[G/Z/ol/s6]
 
 4.sec=Despite the usefulness of codification, much of transacting is not codified, including many areas where there are high volumes and low degree of customization.
 
@@ -35,6 +35,6 @@ Ti=Legal codification by software methods
 7.2.sec=In both cases, texts readable by humans with special training, are used to manage something.  In both cases, it is better to start with a text that has a history of success and a community of users.  In the case of law, there is an additional reason, of great importance.  The text does not run "deterministically" on a machine, it "runs" in the minds of people, and the people whose minds count most are strangers to the transaction - judges, litigators, management, insurers, creditors.  Legal text runs socially. 
 
 
-7.=[Z/para/s2]
+7.=[G/Z/para/s2]
 
-=[Z/ol/s7]
+=[G/Z/ol/s7]

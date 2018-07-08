@@ -28,7 +28,7 @@ Ti=No sales into the {Prohibited.Offering.Jurisdictions} or in any other jurisdi
 
 1.12.sec=No action has been taken by the {Issuer}, the {Managers} or any of their respective subsidiaries or affiliates that would permit an offering of the {Securities} or possession or distribution of this document or any offering or publicity material relating to such {Securities} in any jurisdiction where action for that purpose is required. Persons into whose possession this document comes are required by the {Issuer} and the {Managers} to inform themselves about and to observe any such restrictions.
 
-1.=[Z/ol-none/s12]
+1.=[G/Z/ol-none/s12]
 
 2.Ti=EEA Selling Restriction and Deemed Investor Representations
 
@@ -42,6 +42,6 @@ Ti=No sales into the {Prohibited.Offering.Jurisdictions} or in any other jurisdi
 
 2.5.sec=In connection with the issue of the {Bonds}, the “{Stabilizing_Manager}” (or any person acting on behalf of the {Stabilizing_Manager}) may over-allot {Bonds} or effect transactions with a view to supporting the market price of the {Bonds} at a level higher than that which might otherwise prevail. However, there is no assurance that the {Stabilizing_Manager} (or any person acting on behalf of the {Stabilizing_Manager}) will undertake any stabilisation action. Any stabilisation action may begin on or after the date on which adequate public disclosure of the terms of the offer of the {Bonds} is made and, if begun, may be ended at any time, but it must end no later than the earlier of 30 days after the issue date of the {Bonds} and 60 days after the date of the allotment of the {Bonds}. Any stabilisation action or over-allotment must be conducted by the {Stabilizing_Manager} (or any person acting on behalf of the {Stabilizing_Manager}) in accordance with all applicable laws and rules.
 
-2.=[Z/ol-none/s5]
+2.=[G/Z/ol-none/s5]
 
-=[Z/ol-none/2]
+=[G/Z/ol-none/2]

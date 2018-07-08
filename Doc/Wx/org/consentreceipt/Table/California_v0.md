@@ -14,8 +14,8 @@ Ti=California
 
 2.5.sec=Disclose 3rd party tracking, over time and across webistes
 
-2.=[Z/ol/s5]
+2.=[G/Z/ol/s5]
   
 00.sec=<a href="http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AB370">http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AB370</a>
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

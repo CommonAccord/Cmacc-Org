@@ -16,7 +16,7 @@ Among.secs/4=<ul type="none" style="padding-left: 0"><li>{P1.PL.Contract.Among.S
 
 Among.Def.sec=Indywidualnie zwane «{_stroną}», a łącznie «{_stronami}».
 
-Note=Friends.Div is for the relatively rare agreements that need to specifically list other persons, for instance affiliates of one of the parties.  Defaults to null.  To use it, define a paragraph with the desired number of referenced persons in the format "Friend.=[Z/ol/s*]" where * is the number of persons, e.g, "Friend.=[Z/ol/s3]".  This uses the common paragraph format widget.
+Note=Friends.Div is for the relatively rare agreements that need to specifically list other persons, for instance affiliates of one of the parties.  Defaults to null.  To use it, define a paragraph with the desired number of referenced persons in the format "Friend.=[G/Z/ol/s*]" where * is the number of persons, e.g, "Friend.=[G/Z/ol/s3]".  This uses the common paragraph format widget.
 
 Friend.Ti=Affiliated persons referenced in this {_Agreement}:
 

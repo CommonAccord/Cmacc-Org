@@ -6,4 +6,4 @@ Ti=Record
 
 2.sec=One or more links to a context (other Records).
 
-=[Z/ol/s2] 
+=[G/Z/ol/s2] 

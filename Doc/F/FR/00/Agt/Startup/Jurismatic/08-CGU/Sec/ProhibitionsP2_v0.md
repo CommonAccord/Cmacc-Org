@@ -16,7 +16,7 @@ Ti=Comportements prohibés
 
 1.7.sec=et plus généralement toute pratique détournant les Services à des fins autres que celles pour lesquelles ils ont été conçus.
 
-1.=[Z/ol-none/s7]
+1.=[G/Z/ol-none/s7]
 
 2.sec=Il est strictement interdit aux Utilisateurs de copier et/ou de détourner à leurs fins ou à celles de tiers le concept, les technologies ou tout autre élément du site de {P1.Handle}.
 
@@ -24,4 +24,4 @@ Ti=Comportements prohibés
 
 4.sec=Il est strictement interdit de monnayer, vendre ou concéder tout ou partie de l'accès aux Services ou au site, ainsi qu'aux informations qui y sont hébergées et/ou partagées.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

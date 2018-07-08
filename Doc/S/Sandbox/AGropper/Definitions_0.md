@@ -18,7 +18,7 @@ Ti=Definitions
 
 4.sec=The individual that the {RSO} recognizes as an authorized agent of the resource subject in cases where the resource subject is unable to sign for herself. The basis of this recognition is completely out of band from UMA.
 
-=[Z/ol/4]
+=[G/Z/ol/4]
 
 Note=For parameterized terms.
 

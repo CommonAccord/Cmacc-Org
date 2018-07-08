@@ -10,4 +10,4 @@ Ti=Obligations of the Parties
 
 5.Ti=Covenant to Exploit
 
-=[Z/ol/6]
+=[G/Z/ol/6]

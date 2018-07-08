@@ -8,4 +8,4 @@ Ti=Subscription
 
 4.sec=If subscription is made prior to finalisation of the Loan Agreement, each {Subscriber} hereby grants authority to the Loan Trustee to finalise the Loan Agreement. Each {Subscriber}, by subscribing for and/or accepting an allocation of {Bonds}, acknowledges that minor adjustments to the structure described herein may occur in order to establish a legally accepted structure.
 
-=[Z/paras/s4]
+=[G/Z/paras/s4]

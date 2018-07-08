@@ -4,4 +4,4 @@ Ti=Data May Be Shared With
 
 2.sec=Others
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

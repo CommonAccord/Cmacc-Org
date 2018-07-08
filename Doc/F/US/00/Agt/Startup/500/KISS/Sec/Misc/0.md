@@ -26,7 +26,7 @@ InfoRights.Xref={Misc.Xref}.2.1
 
 2.3.sec={The_Company} shall ensure that the {Major_Investor} shall be deemed to be a "{Major_Investor}" (or such similar term) for all purposes, including, without limitation, rights of first offer and information rights, in relevant financing documents related to all subsequent sales of {Equity_Securities}, to the extent such concept exists.
 
-2.=[Z/ol/3]
+2.=[G/Z/ol/3]
  
 
 3.Ti=Payment
@@ -97,4 +97,4 @@ Entire.Xref={Misc.Xref}.14
 
 15.sec=Each {Holder} acknowledges that it is not relying upon any person, firm, corporation or stockholder, other than {the_Company} and its officers and directors in their capacities as such, in making its investment or decision to invest in {the_Company}.  Each {Holder} agrees that no other {Holder} nor the respective controlling persons, officers, directors, partners, agents, stockholders or employees of any other {Holder} shall be liable for any action heretofore or hereafter taken or omitted to be taken by any of them in connection with the purchase and sale of the {KISSes}.
 
-=[Z/ol/15]
+=[G/Z/ol/15]

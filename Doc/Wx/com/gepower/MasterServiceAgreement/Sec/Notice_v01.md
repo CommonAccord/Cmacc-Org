@@ -6,4 +6,4 @@ Ti=Notices
 
 2.sec={P2.Notice.Block}
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

@@ -16,7 +16,7 @@ Ti=Technical
 
 3.3.sec=These solutions can, and probably should, come from technical layers of the solution, not from CommonAccord.  For instance in blockchain, the "smart contracts" support calculations.  (The original fitting point identified by Primavera.) Instead of doing an addition of a column of numbers, a CommonAccord text can simply reference the total, which the smart contract can provide.  Similarly in other systems of automation.  It may be interesting when integrating CommonAccord to conceive of some functionality as "smart lists."  Inclusion of a list such as PY:=[W/org/python/python_v3-0] would permit evaluation of statements such as {PY:(Price+Tax)}.  There is work yet to do here.
 
-3.=[Z/ol/s3]
+3.=[G/Z/ol/s3]
 
 4.Ti=CommonAccord - Hashed
 
@@ -24,7 +24,7 @@ Ti=Technical
 
 4.2.sec=See, e.g. <a href="index.php?action=list&file=S/Sandbox/HashFileNames/">S/Sandbox/HashFileNames/</a>
 
-4.=[Z/ol/s2]
+4.=[G/Z/ol/s2]
 
 5.Ti=CommonAccord - JSON, XML, Graph
 
@@ -32,6 +32,6 @@ Ti=Technical
 
 5.2.sec=Graph query languages may also prove to be the most generalizable way of expressing relationships that are more than simply traversing the prefixed links from one list to another.  For instance, while links currently support the idea of CEO.Spouse.Dog.Name, there is no way to get from the dog to the Dog's Spouse's CEO's company's name.  That might look like --Dog.--Spouse.--CEO.Name, or perhaps something else.  (Perhaps this introduces an element of instability, especially in a distributed system.  One could say that this is a search function and should not be treated as content.  E.g., if the Dog wants to claim a relationship to the dog's "owner" the dog should say so.  If someone wants to attribute ownership of the dog to someone, they can do so, but that is part of the other person, not part of the dog.)  Similarly, there is no syntax for, say, all of the shareholders of a company, or all of the kids in a class.  Again, this could be a query, and again, perhaps any query that results in a "document" should be recorded as such - as a list of each shareholder or each kid, which is recorded as such.   
 
-5.=[Z/ol/s2]
+5.=[G/Z/ol/s2]
 
-=[Z/ol/5]
+=[G/Z/ol/5]

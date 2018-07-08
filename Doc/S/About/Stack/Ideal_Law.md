@@ -14,6 +14,6 @@ Ti=Ideal
 
 00.sec=Some of these are in tension with others, but correct handling of information permits huge gains.
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]
 
 secs={secs;and}

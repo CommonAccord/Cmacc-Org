@@ -10,6 +10,6 @@ Ti=Anti-dilution
 
 5.sec=provided that holders of {_Ratchet_Warrants} shall only be entitled to exercise them to the extent that they participate in the relevant down round pro rata.
 
-=[Z/para/s5]
+=[G/Z/para/s5]
 
 Note=Suggest that this sentence could be divided into two or three.

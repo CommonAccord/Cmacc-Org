@@ -10,7 +10,7 @@ Ti=Tech:
 
 1.00.sec=The goal is to be able to communicate a data package - for instance an a/v work or a medical scan - with accompanying text and functions.
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=Records
 
@@ -20,7 +20,7 @@ Ti=Tech:
 
 2.3.=[S/About/Tech/Spec/Punctuation_v0.md]
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
 3.Ti=Smart Folders
 
@@ -32,6 +32,6 @@ Ti=Tech:
 
 3.3.sec=Of course, particular Records in the folder could be overridden in the usual way.
 
-3.=[Z/ol/s3]
+3.=[G/Z/ol/s3]
 
-=[Z/ol/3]
+=[G/Z/ol/3]

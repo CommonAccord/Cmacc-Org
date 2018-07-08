@@ -4,4 +4,4 @@ sec.2=<ol><li><b>{Ti} 1:</b><br>{1.N/A/T/E/F}<li><b>{Ti} 2:</b><br>{1.N/A/T/E/F}
 
 sec={sec.1}
 
-=[Z/ol/0]
+=[G/Z/ol/0]

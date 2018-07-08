@@ -49,4 +49,4 @@ genetic_studies_only=Use of the data is limited to genetic studies only.
 
 6.sec={genetic_studies_only}
 
-=[Z/ol/6]
+=[G/Z/ol/6]

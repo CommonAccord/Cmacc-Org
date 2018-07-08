@@ -16,7 +16,7 @@ Ti=PROSPECTUS
 
 1.4.2.sec=- business overview
 
-1.4.=[Z/ol-none/s2]
+1.4.=[G/Z/ol-none/s2]
 
 1.5.0.sec=E. operating and financial review and prospects
 
@@ -24,7 +24,7 @@ Ti=PROSPECTUS
 
 1.5.2.sec=- trends
 
-1.5.=[Z/ol-none/s2]
+1.5.=[G/Z/ol-none/s2]
 
 1.6.sec=F. directors, senior management and employees
 
@@ -36,7 +36,7 @@ Ti=PROSPECTUS
 
 1.8.2.sec=- significant changes
 
-1.8.=[Z/ol-none/s2]
+1.8.=[G/Z/ol-none/s2]
 
 1.9.0.sec=I. details of the offer and admission to trading
 
@@ -52,7 +52,7 @@ Ti=PROSPECTUS
 
 1.9.6.sec=- expenses of the issue
 
-1.9.=[Z/ol-none/s6]
+1.9.=[G/Z/ol-none/s6]
 
 1.10.0.sec=J. additional information
 
@@ -62,7 +62,7 @@ Ti=PROSPECTUS
 
 1.10.3.sec=- documents on display
 
-1.=[Z/ol-AA/s10]
+1.=[G/Z/ol-AA/s10]
 
 
 2.Ti=II. Identity of directors, senior management, advisers and auditors
@@ -77,7 +77,7 @@ Ti=PROSPECTUS
 
 3.2.sec=B. Method and expected timetable
 
-3.=[Z/ol-A/s2]
+3.=[G/Z/ol-A/s2]
 
 4.Ti=IV. Key information
 

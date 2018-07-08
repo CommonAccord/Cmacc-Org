@@ -8,6 +8,6 @@ Ti=Future of Commerce
 
 2.sec=<a href="index.php?action=source&file=GH/FutureCommerce/StandardLaw/MBP/Form/Doc_v0.md">[GH/FutureCommerce/StandardLaw/MBP/Form/Doc_v0.md]</a>
 
-=[Z/ol/2]
+=[G/Z/ol/2]
 
 

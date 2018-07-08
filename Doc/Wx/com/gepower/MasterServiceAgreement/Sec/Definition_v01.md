@@ -49,4 +49,4 @@ Def.Supplier's_Reserve_Intellectual_Property=<b>"{Supplier's_Reserved_Intellectu
 
 Def.Third_Party_Intellectual_Property=<b>"{Third_Party_Intellectual_Property}"</b> means any software, applications, or components or other materials subject to {IP_Rights} owned by any party (including {Supplier}) other than {Company}.
 
-=[Z/ol/0]
+=[G/Z/ol/0]

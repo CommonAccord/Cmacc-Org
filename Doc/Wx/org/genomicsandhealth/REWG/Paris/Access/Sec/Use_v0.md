@@ -8,4 +8,4 @@ Ti=Permitted Uses
 
 4.sec=JWT Provisions<br><i>{JTW.3.?}</i>
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

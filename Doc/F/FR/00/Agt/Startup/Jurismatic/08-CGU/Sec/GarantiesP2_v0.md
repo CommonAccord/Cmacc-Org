@@ -4,4 +4,4 @@ Ti=Garantie de l'Utilisateur
 
 2.sec=Il s'engage à indemniser {P1.Handle} de tout préjudice qu'elle subirait et à lui payer tous les frais, charges et/ou condamnations qu'elle pourrait avoir à supporter de ce fait.
 
-=[Z/paras/s2]
+=[G/Z/paras/s2]

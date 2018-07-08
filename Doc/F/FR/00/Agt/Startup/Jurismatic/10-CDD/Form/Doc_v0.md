@@ -13,7 +13,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 1.1.3.sec=Le Salarié déclare formellement être libre de tout engagement et n'être lié par aucune clause de non concurrence avec un précédent employeur.
 
-1.1.=[Z/paras/s3]
+1.1.=[G/Z/paras/s3]
 
 1.2.sec=Le présent contrat est soumis aux dispositions de la convention collective nationale des Bureaux d'Etudes Techniques, Cabinets d'Ingénieurs-conseils, sociétés de conseil, dite SYNTEC-CICF du 15 décembre 1987 étendue et complétée, (Brochure JO n°3018 – IDCC 1486) (ci-après : la « Convention Collective »), accessible sur le site internet Légifrance et dont un exemplaire est à la disposition des salariés dans les locaux de l'entreprise.
 
@@ -21,9 +21,9 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 1.3.1.sec=En application de la loi n° 78-17 du 6 janvier 1978 dite « Informatique et Libertés », le Salarié dispose d'un droit d'accès et de rectification des informations portées sur ce document, qu'il peut exercer auprès de l'URSSAF de {P1.URSSAF.Ville}.
 
-1.3.=[Z/paras/s1]
+1.3.=[G/Z/paras/s1]
 
-1.=[Z/ol/s3]
+1.=[G/Z/ol/s3]
 
 2.Ti=Objet et durée du contrat
 
@@ -35,7 +35,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 2.4.sec=Toutefois, si besoin est, il pourra être renouvelé une fois au-delà de ce terme par accord entre les parties. Un avenant, qui fixera les conditions de ce renouvellement, sera alors soumis au Salarié avant le terme initialement fixé.
 
-2.=[Z/ol/s4]
+2.=[G/Z/ol/s4]
 
 3.Ti=Période d'essai
 
@@ -45,7 +45,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 3.3.sec=Toute rupture de la période d'essai, quel qu'en soit l'auteur, sera notifiée par écrit remis en main propre contre récépissé ou par lettre recommandée AR.
 
-3.=[Z/ol/s3]
+3.=[G/Z/ol/s3]
 
 4.Ti=Durée du travail
 
@@ -55,7 +55,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 4.3.sec=Il est rappelé que les heures supplémentaires restent exceptionnelles et ne doivent être effectuées que sur autorisation expresse et préalable de la Société.
 
-4.=[Z/ol/s3]
+4.=[G/Z/ol/s3]
 
 5.Ti=Lieu de travail, mobilité
 
@@ -65,11 +65,11 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 5.2.1.sec=Le Salarié déclare avoir pris connaissance de la présente clause de mobilité, et donne son consentement à toute mutation, provisoire ou définitive, qui pourrait intervenir à la demande de l'employeur, en application de son pouvoir de direction, dans la zone géographique telle que définie à la présente clause.
 
-5.2.=[Z/paras/s1]
+5.2.=[G/Z/paras/s1]
 
 5.3.sec=De plus, compte tenu de la nature de ses fonctions, le Salarié accepte, en fonction des besoins de la Société, de se déplacer régulièrement en France.
 
-5.=[Z/ol/s3]
+5.=[G/Z/ol/s3]
 
 6.Ti=Rémunération
 
@@ -79,7 +79,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 6.3.sec=Ce prix de cession est évalué forfaitairement conformément aux dispositions de l'article L131-4 du Code de la propriété intellectuelle (dans le cadre des dérogations prévues aux alinéas 1 à 4 dudit article, selon le contexte des exploitations effectuées).
 
-6.=[Z/ol/s3]
+6.=[G/Z/ol/s3]
 
 7.Ti=Indemnisation des frais professionnels (déplacement)
 
@@ -87,7 +87,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 7.2.sec=Le Salarié bénéficiera en outre du remboursement de 50% (cinquante pour cent) de sa carte de transports publics, pour la période du présent contrat, sur présentation du justificatif comptable correspondant.
 
-7.=[Z/ol/s2]
+7.=[G/Z/ol/s2]
 
 8.Ti=Congés payés
 
@@ -97,7 +97,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 8.3.sec=A l'issue du présent contrat, les congés non pris donneront lieu au versement d'une indemnité compensatrice de congés payés.
 
-8.=[Z/ol/s3]
+8.=[G/Z/ol/s3]
 
 9.Ti=Rupture anticipée du contrat
 
@@ -105,7 +105,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 9.2.sec=Dans ce dernier cas, le Salarié devra respecter un préavis dont la durée sera calculée conformément à l'article L.1243-2 du Code du travail.
 
-9.=[Z/ol/s2]
+9.=[G/Z/ol/s2]
 
 10.Ti=Obligations professionnelles
 
@@ -115,7 +115,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 10.3.sec=Le Salarié s'engage à faire connaître, sans délai, à la Société, toute modification postérieure à son engagement qui pourrait intervenir dans son état civil, sa situation de famille, son adresse, sa situation militaire ou tous autres éléments pouvant exercer une influence sur l'exécution de son contrat de travail ou sur les conséquences de sa rupture.
 
-10.=[Z/ol/s3]
+10.=[G/Z/ol/s3]
 
 11.Ti=Confidentialité
 
@@ -123,7 +123,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 11.1.1.sec=« Les salariés s'engagent formellement à ne divulguer à qui que ce soit aucun des plans, études, conceptions, projets, réalisations, logiciels, étudiés dans l'entreprise, soit pour le compte des clients de l'entreprise, soit pour l'entreprise elle-même, se déclarant liés à cet égard par le secret professionnel le plus absolu. Il en est de même pour les renseignements, résultats, etc., découlant de travaux réalisés dans l'entreprise, ou constatés chez les clients. Une infraction des salariés à cette stricte obligation peut constituer une faute lourde. »
 
-11.1.=[Z/ol/s1]
+11.1.=[G/Z/ol/s1]
 
 11.2.sec=Le Salarié reconnaît et accepte, tant à l'occasion de l'exécution de son contrat de travail que pendant une durée de {Secret.Durée} après la cessation de celui-ci, pour quelque raison que ce soit, être lié à la Société ou à toute autre entité juridiquement liée à elle, par le secret professionnel et une obligation de discrétion absolue.
 
@@ -131,7 +131,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 11.4.sec=Cette obligation cesse de s'appliquer aux informations et aux connaissances qui tombent dans le domaine public.
 
-11.=[Z/ol/s4]
+11.=[G/Z/ol/s4]
 
 12.Ti=Propriété intellectuelle
 
@@ -141,7 +141,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 12.1.2.sec=Toute contestation sur l'application du présent article est soumise au tribunal de grande instance du siège social de l'employeur. »
 
-12.1.=[Z/paras/s2]
+12.1.=[G/Z/paras/s2]
 
 12.2.1.sec=S'agissant des œuvres autres que les logiciels et développements informatiques, le Salarié s'engage à céder à la Société, à titre exclusif, pour le monde entier et pour toute la durée légale du droit d'auteur, ses droits patrimoniaux d'auteur sur les œuvres de toute nature qu'il pourra être amené à créer au cours de l'exécution du présent contrat (ci-après dénommées les « Œuvres »), quelle que soit la nature de sa collaboration auxdites Œuvres.
 
@@ -165,15 +165,15 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 12.2.2.9.sec=Le droit d'autoriser un tiers à procéder aux exploitations susvisées et plus généralement, de céder et/ou concéder aux tiers tout ou partie des droits présentement cédés.
 
-12.2.2.=[Z/paras/s9]
+12.2.2.=[G/Z/paras/s9]
 
 12.2.3.sec=La cession visée ci-dessus sera réalisée automatiquement, au fur et à mesure de la conception des Œuvres, sans aucune formalité.
 
 12.2.4.sec=Les parties s'engagent à organiser ensemble, au plus tard au terme du contrat, la communication entre elles d'une liste exhaustive des Œuvres réalisées au cours du présent contrat.
 
-12.2.=[Z/paras/s4]
+12.2.=[G/Z/paras/s4]
 
-12.2.=[Z/ol/s2]
+12.2.=[G/Z/ol/s2]
 
 12.3.1.sec=Les inventions que le Salarié pourrait être amené à faire dans le cadre de ses fonctions, des missions qui lui seront confiées ou encore dans les conditions visées à l'article L.611-7 2° du Code de la propriété intellectuelle sont soumise aux dispositions légales et conventionnelles applicables.
 
@@ -181,9 +181,9 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 12.3.3.sec=Dans tous les cas, le Salarié s'engage à fournir toute l'assistance ainsi que tous les documents et signatures utiles et à effectuer toutes les démarches qui s'avéreraient nécessaires aux fins du dépôt, de l'exploitation ou de la défense de ces brevets.
 
-12.3.=[Z/paras/s3]
+12.3.=[G/Z/paras/s3]
 
-12.=[Z/ol/s3]
+12.=[G/Z/ol/s3]
 
 13.Ti=Indemnité de fin de contrat
 
@@ -197,9 +197,9 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 13.2.3.sec=dans les cas de rupture anticipée visés à l'article 9 du présent contrat.
 
-13.2.=[Z/paras/s3]
+13.2.=[G/Z/paras/s3]
 
-13.=[Z/ol/s2]
+13.=[G/Z/ol/s2]
 
 14.Ti=Moyens de communication et d'information, matériels et documents
 
@@ -217,7 +217,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 14.2.1.4.sec=ne pas communiquer les codes d'accès, code sources et sauvegardes à toute personne autre que celles habilitées par la Société.
 
-14.2.1.=[Z/ol/s4]
+14.2.1.=[G/Z/ol/s4]
 
 14.2.1.xlist={14.2.1.nlist}
 
@@ -225,9 +225,9 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 14.2.2.1.sec=Il en sera de même en cas de mise à disposition de tout autre matériel de communication, comme le téléphone (fixe ou mobile) qui sauf urgence avérée, devra servir à un usage strictement professionnel, ou tout autre support permettant la liaison avec un réseau téléphonique ou de transmission de données, sous quelques supports ou formes que ce soit, y compris internet.
 
-14.2.2.=[Z/para/s1]
+14.2.2.=[G/Z/para/s1]
 
-14.2.=[Z/paras/s2]
+14.2.=[G/Z/paras/s2]
 
 14.3.1.sec=La Société pourra être amenée à confier au Salarié des fichiers et documents divers (études, documentation, correspondances, tarifs, dossiers clients, …) en dépôt, pour en faire un usage déterminé et strictement professionnel. Le Salarié s'interdit en conséquence d'en faire un usage autre que celui autorisé par la Société et s'oblige à les restituer sur simple demande et en tout état de cause en fin de contrat.
 
@@ -235,11 +235,11 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 14.3.3.sec=Le Salarié s'interdit, par ailleurs, de prendre, en vue de son usage personnel ou de tout autre usage non autorisé expressément par la Société, des documents ou des reproductions de tous documents, des copies de supports informatiques, audio ou vidéo, des biens de toute nature appartenant à la Société ou confiés par elle.
 
-14.3.=[Z/paras/s3]
+14.3.=[G/Z/paras/s3]
 
 14.4.sec=A l'expiration du présent contrat, pour quelque cause que ce soit, le Salarié devra restituer immédiatement les biens de toute nature, les fichiers et documents divers qui auraient pu lui être confiés, ainsi que toutes copies et reproductions en sa possession, sans qu'il soit besoin d'une demande ou d'une mise en demeure préalable.
 
-14.=[Z/ol/s4]
+14.=[G/Z/ol/s4]
 
 15.Ti=Avantages sociaux
 
@@ -249,7 +249,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 15.2.sec=au régime de prévoyance géré par : {Prévoyance.NomEtAdresse}
 
-15.=[Z/ol/s2]
+15.=[G/Z/ol/s2]
 
 Signatures précédées de la mention manuscrite «Lu et approuvé»
 
@@ -259,7 +259,7 @@ Intro.P2.sec={Intro.P2i.sec}
 
 Frame.=[F/FR/00/Agt/Base/Frame/2Parties/0.md]
 
-=[Z/ol-none/15]
+=[G/Z/ol-none/15]
 
 « Modèles Jurismatic fournis sous licence Creative Commons BY-NC-SA 3.0 FR » Des changements ont eu lieu par rapport aux textes originaux.
 

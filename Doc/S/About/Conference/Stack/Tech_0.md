@@ -18,4 +18,4 @@ Ti=Tech Stack:
 
 00.sec=</center><br><a href="index.php?action=doc&file=S/About/Conference/Stack/Legal/Documents_0.md">Legal Documents</a>
 
-=[Z/paras/s7]
+=[G/Z/paras/s7]

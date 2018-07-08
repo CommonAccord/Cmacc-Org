@@ -25,4 +25,4 @@ Ti=Representations and Warranties of {the_Investor}
 5.sec=Investor understands that this {KISS} is characterized as a "restricted security" under the federal securities laws inasmuch as it is being acquired from {the_Company} in a transaction not involving a public offering and that under such laws and applicable regulations such securities may be resold without registration under the {Act}, only in certain limited circumstances.
 
 
-=[Z/ol/5]
+=[G/Z/ol/5]

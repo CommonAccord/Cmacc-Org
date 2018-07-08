@@ -6,4 +6,4 @@ Sec={sec}
 
 2.sec={P2.Handle}:<br><br>By: ____________________________________________________	__________________<br>Signature of Authorized Signatory for {P2.Handle}<br>Date: {P2.Sign.YMD}<br>{P2.Name.Full}<br>{P2.Sign.Name.Full}<br>{P2.Sign.Title}<br>{P2.Adr.1,2}<br>{P2.Phone}<br>{P2.Email}<br><br>
 
-=[Z/paras/s2]
+=[G/Z/paras/s2]

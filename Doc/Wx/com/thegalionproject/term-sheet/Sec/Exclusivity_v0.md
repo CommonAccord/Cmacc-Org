@@ -4,4 +4,4 @@ Ti=Exclusivity
 
 2.sec=provided that the {_New_Investors} shall promptly inform the {_Company} of their decision not to pursue their proposed investment in the {_Company}, as the case may be, in which case such exclusivity period shall immediately lapse. 
 
-=[Z/para/s2]
+=[G/Z/para/s2]

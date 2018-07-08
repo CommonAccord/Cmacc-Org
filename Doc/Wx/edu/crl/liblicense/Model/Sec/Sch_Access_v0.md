@@ -16,6 +16,6 @@ Note={An example: Unlimited use of the Licensed Materials on the Licensor’s se
 
 00.sec={Sign.Sec}
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 

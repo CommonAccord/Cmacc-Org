@@ -1574,7 +1574,7 @@ Articles 26 and 27;
 
 6.15.sec=does not comply with the rules for safeguarding professional secrecy pursuant to Article 84.
 
-6.=[Z/ol-a/s14]
+6.=[G/Z/ol-a/s14]
 
 7.sec=The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of updating the amounts of the administrative fines referred to in paragraphs 4, 5 and 6, taking into account the criteria referred to in paragraph 2.
 

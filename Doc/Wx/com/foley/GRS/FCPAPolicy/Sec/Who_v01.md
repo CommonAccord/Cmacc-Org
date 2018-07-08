@@ -7,7 +7,7 @@ Ti=Who is Covered by this Policy
 
 1.2.sec=Any person acting on behalf of the Company, including third parties acting on behalf of the Company, such as distributors, agents, brokers, representatives, consultants, or business partners.
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.0.sec=Acts of bribery and corruption commonly involve public or government officials.  {This_Policy} prohibits the payment of bribes – in any amount and at any level – to any public or government officials, including but not limited to the following:
 
@@ -23,7 +23,7 @@ Ti=Who is Covered by this Policy
 
 2.6.sec=Candidates for political office.
 
-2.=[Z/ol/s6]
+2.=[G/Z/ol/s6]
 
 3.0.sec=Bribery also can involve corrupt payments to agents or employees of customers or business partners in order to secure an advantage over competitors.  {This_Policy} therefore prohibits the payment of bribes – in any amount and at any level – to any private persons, including but not limited to the following:
 
@@ -35,4 +35,4 @@ Ti=Who is Covered by this Policy
 
 3.sec=As noted above, any payment that cannot be made directly to an individual under {this_Policy} may also not be made indirectly, such as to a close relative, through a friend, via the individual’s business, or through some other intermediary.
 
-=[Z/paras/s3]
+=[G/Z/paras/s3]

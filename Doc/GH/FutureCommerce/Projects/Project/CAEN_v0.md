@@ -4,4 +4,4 @@ Ti=CommonAccord Exchange Network
 
 2.sec=<a href="http://hardjono.mit.edu/docs">hardjono.mit.edu</a>
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

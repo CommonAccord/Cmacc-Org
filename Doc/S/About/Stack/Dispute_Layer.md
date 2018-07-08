@@ -16,8 +16,8 @@ Ti=Bespoke Dispute Resolution
 
 5.3.sec=Evidence that is immediately available and relatively uncluttered
 
-5.=[Z/ol/s3]
+5.=[G/Z/ol/s3]
 
 5.secs={5.secs;and}
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]

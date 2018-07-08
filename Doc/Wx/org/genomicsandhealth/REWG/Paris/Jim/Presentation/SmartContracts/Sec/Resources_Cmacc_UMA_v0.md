@@ -8,5 +8,5 @@ Ti=UMA-Kantara - Related
 
 2.sec=<a href="index.php?action=list&file=GHx/KantaraInitiative/ROI/steps/">[GHx/KantaraInitiative/ROI/steps/]</a>
 
-=[Z/ol/2]
+=[G/Z/ol/2]
 

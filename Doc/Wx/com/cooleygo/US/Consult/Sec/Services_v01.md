@@ -6,7 +6,7 @@ Ti=Engagement for {_Services}
 
 1.2.sec=In written statements promptly delivered to {_the_Client}, {_the_Consultant} will accept, seek a modification to{q} or reject a {_Project_Assignment}.
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=Performance
 
@@ -20,4 +20,4 @@ Ti=Engagement for {_Services}
 
 4.sec=At {_the_Consultant}'s own expense, {_the_Consultant} will provide a place of work and all equipment, tools{q} and other materials necessary to complete the {_Services}.  {_The_Client} will make {_the_Client}'s equipment or facilities available to {_the_Consultant} to the extent necessary for {_the_Consultant} to perform the {_Services}.
 
-=[Z/ol/4]
+=[G/Z/ol/4]

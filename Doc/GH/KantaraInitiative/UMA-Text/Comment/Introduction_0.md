@@ -22,7 +22,7 @@ Ti=Introduction
 
 6.5.sec=During live review on the UMA legal subgroup telecon, we will direct your attention to specific individual clauses, wherein you will notice some "Comments" and "Issues" for further discussion.
 
-6.=[Z/ol-none/s5]
+6.=[G/Z/ol-none/s5]
 
 7.0.sec=For review purposes, please note the following open issues; if providing comments in email, referencing specific issue item numbers would be helpful:
 
@@ -40,7 +40,7 @@ Ti=Introduction
 
 7.5.sec=The hardest question: Are these the right obligations? What's missing? How are down the "rabbit hole" of business, legal, and technical obligations should we go? See our recent list discussion about OAuth, SSL, security, liability, and indemnification.
 
-7.=[Z/ol/s5]
+7.=[G/Z/ol/s5]
 
-=[Z/paras/s7]
+=[G/Z/paras/s7]
   

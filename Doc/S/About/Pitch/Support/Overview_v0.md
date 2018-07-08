@@ -14,10 +14,10 @@ Ti=Overview
 
 2.5.sec=Decentralization of decision-making.  Reducing the opacity of regulations, law, and IT reduces "transaction costs" (Coase) and the advantages of centralization.
 
-2.=[Z/ol/s5]
+2.=[G/Z/ol/s5]
 
 3.sec=The CommonAccord document model is compatible with new peer-based transacting platforms such as blockchain, and perhaps necessary for their extension to the full range of relationships.  When combined with access systems such as <a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/0.md">UMA</a> (user-managed-access), it provides a complete, simple, open source system of automation.  Because these systems are built with strong encryption and open source scrutiny they can be more secure than legacy infrastructure.
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]
 
 Note="Leafs" is used instead of leaves, on the justification that is is a "headless" noun - Pinker. Cf. computer mice.  "Leaves" also invites momentary confusion of the "eats leaves and shoots" variety.

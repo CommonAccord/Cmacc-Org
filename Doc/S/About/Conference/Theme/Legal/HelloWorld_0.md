@@ -18,4 +18,4 @@ Ti=Hello World for Legal
 
 00.sec="Hello World" is a meme.  Often the first thing that a coder does to startup a system is make it return "Hello World." 
 
-=[Z/ol/s7]
+=[G/Z/ol/s7]

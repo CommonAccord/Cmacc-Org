@@ -6,8 +6,8 @@ Ti=Use of Results
 
 2.1.sec=Discoverability
 
-2.=[Z/ol/s1]
+2.=[G/Z/ol/s1]
 
 3.sec=Returns to Principal
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]

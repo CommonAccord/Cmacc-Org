@@ -4,4 +4,4 @@ Ti=Co-Sale
 
 2.sec=The rights of first refusal and co-sale shall not apply to {_Free_Transfers}.
 
-=[Z/paras/s2]
+=[G/Z/paras/s2]

@@ -18,4 +18,4 @@ Offering.=[Wx/com/techstars/Equity/NotePurchase/Sec/cRep_Offering_v01.md]
 
 UseOfProceeds.=[Wx/com/techstars/Equity/NotePurchase/Sec/cRep_UseOfProceeds_v01.md]
 
-=[Z/ol/0]
+=[G/Z/ol/0]

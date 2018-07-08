@@ -28,7 +28,7 @@ Interact.1.sec=The {parties} wish to interact with one another in good faith, co
 
 Interact.2.sec=Each {party} agrees that it will not disclose to the other {party} any {Confidential_Information} (neither its own, nor that of any third person) except under a written addition to this {Doc.Title} referencing its GUID ({Doc.GUID}).
 
-Interact.=[Z/ol/s2]  
+Interact.=[G/Z/ol/s2]  
 
 Misc.Assign.1.sec={Misc.Assign.1.Alt1.sec}
 Misc.Assign.2.sec={Misc.Assign.2.Alt1.sec}
@@ -50,7 +50,7 @@ Def.3.sec="{Disclosing_Party}" means, with respect to an element of {Confidentia
 
 Def.4.sec="{Receiving_Party}" means, with respect to an element of {Confidential_Information}, the {party} who received such information from the other {party}.
 
-Def.=[Z/ol/s4]
+Def.=[G/Z/ol/s4]
 
 Conf.=[Wx/com/cooleygo/US/NDA/Sec/Confidential_v01.md]
 
@@ -67,7 +67,7 @@ Remedy.=[Wx/com/cooleygo/US/NDA/Sec/Remedy_v01.md]
 Misc.=[Wx/com/cooleygo/US/NDA/Sec/Misc_v01.md]
 
 
-=[Z/Agt/Out/DefinedTerms_Base.md]
+=[G/Z/Agt/Out/DefinedTerms_Base.md]
 
 
 Confidential_Information=<span class="DefinedTerm">Confidential Information</span>

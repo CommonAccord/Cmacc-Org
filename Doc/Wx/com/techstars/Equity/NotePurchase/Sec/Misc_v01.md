@@ -20,4 +20,4 @@ Waive.=[Wx/com/techstars/Equity/NotePurchase/Sec/Misc_Waive_v01.md]
 
 Entire.=[Wx/com/techstars/Equity/NotePurchase/Sec/Misc_Entire_v01.md]
 
-=[Z/ol/0]
+=[G/Z/ol/0]

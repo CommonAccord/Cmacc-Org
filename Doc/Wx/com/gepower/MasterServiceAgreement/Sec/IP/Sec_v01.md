@@ -10,7 +10,7 @@ CP.Reserve.Ti=Title
 
 CP.Reserve.sec={Supplier} acknowledges that {Company} claims and reserves all rights and benefits afforded under federal and international intellectual property laws in all {Intellectual_Property} and {Proprietary_Information} furnished by {Company} to {Supplier} hereunder and that {Supplier} is granted only a limited right of use of such {Intellectual_Property} and {Proprietary_Information} as set forth in {this_Agreement}.
 
-CP.Reserve.=[Z/ol/0]
+CP.Reserve.=[G/Z/ol/0]
 
 
 CP.Assign.Ti=Assignment and Recordation of {Company_Property}
@@ -25,9 +25,9 @@ CP.Assign.3.sec={Supplier} and {Supplier}'s successors in interest will, at {Com
 
 CP.Assign.4.sec={Supplier} agrees that it will not apply for any state, federal or other U.S. or foreign jurisdiction's registration of rights in any of the {Company_Property} and that it will not oppose or object in any way to applications for registration of same by {Company} or others designated by {Company}.
 
-CP.Assign.=[Z/ol/s4]
+CP.Assign.=[G/Z/ol/s4]
 
-CP.=[Z/ol/s2]
+CP.=[G/Z/ol/s2]
 
 CP.Assign.Xnum={CP.Xnum}.2
 
@@ -44,7 +44,7 @@ SP.2.sec=reproduce {Supplier's_Reserved_Intellectual_Property} and derivative wo
 
 SP.3.sec=make, use, distribute, perform, display and transmit {Supplier's_Reserved_Intellectual_Property} and derivative works and reproductions thereof, and to sublicense the rights granted to {Company} in this paragraph.
 
-SP.=[Z/ol/s3]
+SP.=[G/Z/ol/s3]
 
 
 3P.Ti={Third_Party_Intellectual_Property}
@@ -57,8 +57,8 @@ SP.=[Z/ol/s3]
 
 3P.00.sec=If {Company} provides such written authorization, {Supplier} shall, in the absence of written agreement to the contrary, provide, at no expense to {Company}, all licenses to such {Third_Party_Intellectual_Property} and which {Company} does not already have and which are reasonably necessary for {Company} to lawfully make all uses of the {Services} and/or any deliverables contemplated in {this_Agreement}
 
-3P.=[Z/ol/s2]
+3P.=[G/Z/ol/s2]
 
 CodeEscrow.=[Wx/com/gepower/MasterServiceAgreement/Sec/IP/CodeEscrow/0.md]
 
-=[Z/ol/0]
+=[G/Z/ol/0]

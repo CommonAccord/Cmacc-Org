@@ -24,13 +24,13 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 0.2.xlist={0.2.nlist}
 
-0.2.=[Z/ol/s8]
+0.2.=[G/Z/ol/s8]
 
 0.00.sec=NOW, THEREFORE, in consideration of Indemnitee’s agreement to serve as an [officer] [director] from and after the date hereof, the parties hereto agree as follows:
 
 0.xlist={0.nlist}
 
-0.=[Z/ol/s2]
+0.=[G/Z/ol/s2]
 
 1.Ti=Indemnity of Indemnitee
 
@@ -58,9 +58,9 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 1.4.3.sec=If (i) Indemnitee is or was affiliated with one or more venture capital funds that has invested in the Company (an “Appointing Stockholder”), and (ii) the Appointing Stockholder is, or is threatened to be made, a party to or a participant in any Proceeding relating to or arising by reason of Appointing Stockholder's position as a stockholder of, or lender to, the Company, or Appointing Stockholder's appointment of or affiliation with Indemnitee or any other director, including, without limitation, any alleged misappropriation of a Company asset or corporate opportunity, any claim of misappropriation or infringement of intellectual property relating to the Company, any alleged false or misleading statement or omission made by the Company (or on its behalf) or its employees or agents, or any allegation of inappropriate control or influence over the Company or its Board members, officers, equity holders or debt holders, then the Appointing Stockholder will be entitled to indemnification hereunder for Expenses to the same extent as Indemnitee, and the terms of this Agreement as they relate to procedures for indemnification of Indemnitee and advancement of Expenses shall apply to any such indemnification of Appointing Stockholder.
 
-1.4.=[Z/ol/s3]
+1.4.=[G/Z/ol/s3]
 
-1.=[Z/ol/4]
+1.=[G/Z/ol/4]
 
 2.Ti=Additional Indemnity
 
@@ -76,7 +76,7 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 3.4.sec=To the fullest extent permissible under applicable law, if the indemnification provided for in this Agreement is unavailable to Indemnitee for any reason whatsoever, the Company, in lieu of indemnifying Indemnitee, shall contribute to the amount incurred by Indemnitee, whether for judgments, fines, penalties, excise taxes, amounts paid or to be paid in settlement and/or for Expenses, in connection with any claim relating to an indemnifiable event under this Agreement, in such proportion as is deemed fair and reasonable in light of all of the circumstances of such Proceeding in order to reflect (i) the relative benefits received by the Company and Indemnitee as a result of the event(s) and/or transaction(s) giving cause to such Proceeding and/or (ii) the relative fault of the Company (and its directors, officers, employees and agents) and Indemnitee in connection with such event(s) and/or transaction(s).
 
-3.=[Z/ol/s4]
+3.=[G/Z/ol/s4]
 
 4.Ti=Indemnification for Expenses of a Witness
 
@@ -117,7 +117,7 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 6.2.1.1.5.sec=There occurs any other event of a nature that would be required to be reported in response to Item 6(e) of Schedule 14A of Regulation 14A (or a response to any similar item on any similar schedule or form) promulgated under the Exchange Act (as defined below), whether or not the Company is then subject to such reporting requirement.
 
-6.2.1.1.=[Z/ol/5]
+6.2.1.1.=[G/Z/ol/5]
 
 6.2.1.2.0.sec=For purposes of this Section __(a), the following terms shall have the following meanings:
 
@@ -127,14 +127,14 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 6.2.1.2.3.sec=“Beneficial Owner” shall have the meaning given to such term in Rule 13d-3 under the Exchange Act; provided, however, that Beneficial Owner shall exclude any Person otherwise becoming a Beneficial Owner by reason of the stockholders of the Company approving a merger of the Company with another entity.
 
-6.2.1.2.=[Z/ol/s3]
+6.2.1.2.=[G/Z/ol/s3]
 
-6.2.1.=[Z/ol/s2]
+6.2.1.=[G/Z/ol/s2]
 
 
-6.2.=[Z/ol/s1]
+6.2.=[G/Z/ol/s1]
 
-6.=[Z/ol/s2]
+6.=[G/Z/ol/s2]
 
 6.3.sec=If the determination of entitlement to indemnification is to be made by Independent Counsel pursuant to Section 6(b) hereof, the Independent Counsel shall be selected as provided in this Section 6(c).  The Independent Counsel shall be selected by the Board.  Indemnitee may, within ten (10) days after such written notice of selection shall have been given, deliver to the Company a written objection to such selection; provided, however, that such objection may be asserted only on the ground that the Independent Counsel so selected does not meet the requirements of “Independent Counsel” as defined in Section 13 of this Agreement, and the objection shall set forth with particularity the factual basis of such assertion.  Absent a proper and timely objection, the person so selected shall act as Independent Counsel.  If a written objection is made and substantiated, the Independent Counsel selected may not serve as Independent Counsel unless and until such objection is withdrawn or a court has determined that such objection is without merit.  If, within twenty (20) days after submission by Indemnitee of a written request for indemnification pursuant to Section 6(a) hereof, no Independent Counsel shall have been selected and not objected to, either the Company or Indemnitee may petition the Court of Chancery of the State of Delaware or other court of competent jurisdiction for resolution of any objection which shall have been made by the Indemnitee to the Company’s selection of Independent Counsel and/or for the appointment as Independent Counsel of a person selected by the court or by such other person as the court shall designate, and the person with respect to whom all objections are so resolved or the person so appointed shall act as Independent Counsel under Section 6(b) hereof.  The Company shall pay any and all reasonable fees and expenses of Independent Counsel incurred by such Independent Counsel in connection with acting pursuant to Section 6(b) hereof, and the Company shall pay all reasonable fees and expenses incident to the procedures of this Section 6(c), regardless of the manner in which such Independent Counsel was selected or appointed.
 
@@ -150,7 +150,7 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 6.9.sec=The termination of any Proceeding or of any claim, issue or matter therein, by judgment, order, settlement or conviction, or upon a plea of nolo contendere or its equivalent, shall not (except as otherwise expressly provided in this Agreement) of itself adversely affect the right of Indemnitee to indemnification or create a presumption that Indemnitee did not act in good faith and in a manner which he reasonably believed to be in or not opposed to the best interests of the Company or, with respect to any criminal Proceeding, that Indemnitee had reasonable cause to believe that his conduct was unlawful.
 
-6.=[Z/ol/s9]
+6.=[G/Z/ol/s9]
 
 7.Ti=Remedies of Indemnitee
 
@@ -166,7 +166,7 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 7.6.sec=Notwithstanding anything in this Agreement to the contrary, no determination as to entitlement to indemnification under this Agreement shall be required to be made prior to the final disposition of the Proceeding.
 
-7.=[Z/ol/s6]
+7.=[G/Z/ol/s6]
 
 8.Ti=Non-Exclusivity; Survival of Rights; Insurance; Primacy of Indemnification; Subrogation
 
@@ -182,7 +182,7 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 8.6.sec=Except as provided in paragraph (c) above, the Company's obligation to indemnify or advance Expenses hereunder to Indemnitee who is or was serving at the request of the Company as a director, officer, employee or agent of any other corporation, partnership, joint venture, trust, employee benefit plan or other enterprise shall be reduced by any amount Indemnitee has actually received as indemnification or advancement of expenses from such other corporation, partnership, joint venture, trust, employee benefit plan or other enterprise.
 
-8.=[Z/ol/s6]
+8.=[G/Z/ol/s6]
 
 9.Ti=Exception to Right of Indemnification
 
@@ -194,7 +194,7 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 9.3.sec=in connection with any Proceeding (or any part of any Proceeding) initiated by Indemnitee, including any Proceeding (or any part of any Proceeding) initiated by Indemnitee against the Company or its directors, officers, employees or other indemnitees, unless (i) the Board authorized the Proceeding (or any part of any Proceeding) prior to its initiation, or (ii) the Company provides the indemnification, in its sole discretion, pursuant to the powers vested in the Company under applicable law.
 
-9.=[Z/ol/s3]
+9.=[G/Z/ol/s3]
 
 10.Ti=Duration of Agreement
 
@@ -212,7 +212,7 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 12.3.sec=The Company shall not seek from a court, or agree to, a "bar order" which would have the effect of prohibiting or limiting the Indemnitee's rights to receive advancement of expenses under this Agreement.
 
-12.=[Z/ol/s3]
+12.=[G/Z/ol/s3]
 
 13.Ti=Definitions
 
@@ -230,7 +230,7 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 13.6.sec=“Proceeding” includes any threatened, pending or completed action, suit, arbitration, alternate dispute resolution mechanism, investigation, inquiry, administrative hearing or any other actual, threatened or completed proceeding, whether brought by or in the right of the Company or otherwise and whether civil, criminal, administrative or investigative, in which Indemnitee was, is or will be involved as a party or otherwise, by reason of his or her Corporate Status, by reason of any action taken by him or of any inaction on his part while acting in his or her Corporate Status; in each case whether or not he is acting or serving in any such capacity at the time any liability or expense is incurred for which indemnification can be provided under this Agreement; including one pending on or before the date of this Agreement, but excluding one initiated by an Indemnitee pursuant to Section 7 of this Agreement to enforce his rights under this Agreement.
 
-13.=[Z/ol/s6]
+13.=[G/Z/ol/s6]
 
 14.Ti=Severability
 
@@ -254,7 +254,7 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 17.00.sec=or to such other address as may have been furnished to Indemnitee by the Company or to the Company by Indemnitee, as the case may be.
 
-17.=[Z/ol/s2]
+17.=[G/Z/ol/s2]
 
 18.Ti=Counterparts
 
@@ -278,8 +278,8 @@ Doc.Ti=INDEMNIFICATION AGREEMENT
 
 20.5.sec=waive, and agree not to plead or to make, any claim that any such action or proceeding brought in the Delaware Court has been brought in an improper or inconvenient forum.
 
-20.=[Z/ol/s5]
+20.=[G/Z/ol/s5]
 
 Sec={Doc}
 
-=[Z/ol/20]
+=[G/Z/ol/20]

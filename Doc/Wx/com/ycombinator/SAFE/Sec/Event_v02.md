@@ -8,7 +8,7 @@ Dissolution.=[Wx/com/ycombinator/SAFE/Sec/Event_Dissolution_v01.md]
 
 Termination.=[Wx/com/ycombinator/SAFE/Sec/Event_Termination_v01.md]
 
-=[Z/ol/4]
+=[G/Z/ol/4]
 
 Secs={Equity.Sec}<li>{Liquidity.Sec}<li>{Dissolution.Sec}<li>{Termination.Sec}
 

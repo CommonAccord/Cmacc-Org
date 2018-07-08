@@ -12,9 +12,9 @@ Ti=Accounts
 
 4.1.sec={Event.Record}
 
-4.=[Z/para/s1] 
+4.=[G/Z/para/s1] 
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 Event.Record=<h2>Event:</h2>{GUID.Div} {Parties.Div} {Time.Div} {Event.Div} {Validation.Div}
 

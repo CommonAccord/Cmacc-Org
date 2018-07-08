@@ -33,13 +33,13 @@ Ti=CONVERSION RIGHTS
 
 6.1.2.sec=the denominator of which is the total number of shares of Common Stock issued and outstanding immediately prior to the time of such issuance plus the number of shares of Common Stock issuable in payment of such dividend or distribution;
 
-6.1.=[Z/ol/s2]
+6.1.=[G/Z/ol/s2]
 
 6.2.sec=If the Company fixes a record date to determine which holders of Common Stock are entitled to receive such dividend or other distribution, the Series Preferred Conversion Price shall be fixed as of the close of business on such record date and the number of shares of Common Stock shall be calculated immediately prior to the close of business on such record date; and 
 
 6.3.sec=If such record date is fixed and such dividend is not fully paid or if such distribution is not fully made on the date fixed therefor, the Series Preferred Conversion Price shall be recomputed accordingly as of the close of business on such record date and thereafter the Series Preferred Conversion Price shall be adjusted pursuant to this Section 5(f) to reflect the actual payment of such dividend or distribution.
 
-6.=[Z/ol/s3]
+6.=[G/Z/ol/s3]
 
 7.Ti=Adjustment for Reclassification, Exchange, Substitution, Reorganization, Merger or Consolidation
 
@@ -55,7 +55,7 @@ Ti=CONVERSION RIGHTS
 
 8.1.00.sec=For the purposes of the preceding sentence, the number of shares of Common Stock deemed to be outstanding as of a given date shall be the sum of (A) the number of shares of Common Stock outstanding, (B) the number of shares of Common Stock into which the then outstanding shares of Series Preferred could be converted if fully converted on the day immediately preceding the given date, and (C) the number of shares of Common Stock which are issuable upon the exercise or conversion of all other rights, options and convertible securities outstanding on the day immediately preceding the given date.
 
-8.1.=[Z/ol/s2]
+8.1.=[G/Z/ol/s2]
 
 8.2.sec=No adjustment shall be made to the Series Preferred Conversion Price in an amount less than one cent per share.  Any adjustment required by this Section 5(h) shall be rounded to the nearest one cent ($0.01) per share. Any adjustment otherwise required by this Section 5(h) that is not required to be made due to the preceding two sentences shall be included in any subsequent adjustment to the Series Preferred Conversion Price.
 
@@ -73,7 +73,7 @@ Note=Something odd about the "; and" here:
 
 8.4.4.sec=No further adjustment of the Series Preferred Conversion Price, as adjusted upon the issuance of such rights, options or Convertible Securities, shall be made as a result of the actual issuance of Additional Shares of Common Stock or the exercise of any such rights or options or the conversion of any such Convertible Securities.  If any such rights or options or the conversion privilege represented by any such Convertible Securities shall expire without having been exercised, the Series Preferred Conversion Price as adjusted upon the issuance of such rights, options or Convertible Securities shall be readjusted to the Series Preferred Conversion Price which would have been in effect had an adjustment been made on the basis that the only Additional Shares of Common Stock so issued were the Additional Shares of Common Stock, if any, actually issued or sold on the exercise of such rights or options or rights of conversion of such Convertible Securities, and such Additional Shares of Common Stock, if any, were issued or sold for the consideration actually received by the Company upon such exercise, plus the consideration, if any, actually received by the Company for the granting of all such rights or options, whether or not exercised, plus the consideration received for issuing or selling the Convertible Securities actually converted, plus the consideration, if any, actually received by the Company (other than by cancellation of liabilities or obligations evidenced by such Convertible Securities) on the conversion of such Convertible Securities, provided that such readjustment shall not apply to prior conversions of Series Preferred.
 
-8.4.=[Z/ol/s4]
+8.4.=[G/Z/ol/s4]
 
 
 8.5.0.sec=For the purpose of making any adjustment to the Conversion Price of the Series Preferred required under this Section 5(h), "Additional Shares of Common Stock" shall mean all shares of Common Stock issued by the Company or deemed to be issued pursuant to this Section 5(h) (including shares of Common Stock subsequently reacquired or retired by the Company), other than:
@@ -94,11 +94,11 @@ Note=Something odd about the "; and" here:
 
 8.5.00.sec=References to Common Stock in the subsections of this clause (v) above shall mean all shares of Common Stock issued by the Company or deemed to be issued pursuant to this Section 5(h).  The "Effective Price" of Additional Shares of Common Stock shall mean the quotient determined by dividing the total number of Additional Shares of Common Stock issued or sold, or deemed to have been issued or sold by the Company under this Section 5(h), into the Aggregate Consideration received, or deemed to have been received by the Company for such issue under this Section 5(h), for such Additional Shares of Common Stock.  In the event that the number of shares of Additional Shares of Common Stock or the Effective Price cannot be ascertained at the time of issuance, such Additional Shares of Common Stock shall be deemed issued immediately upon the occurrence of the first event that makes such number of shares or the Effective Price, as applicable, ascertainable.
 
-8.5.=[Z/ol/s7]
+8.5.=[G/Z/ol/s7]
 
 8.6.sec=In the event that the Company issues or sells, or is deemed to have issued or sold, Additional shares of Common Stock in a Qualifying Dilutive Issuance (the "First Dilutive Issuance"), then in the event that the Company issues or sells, or is deemed to have issued or sold, Additional Shares of Common Stock in a Qualifying Dilutive Issuance other than the First Dilutive Issuance as a part of the same transaction or series of related transactions as the First Dilutive Issuance (a "Subsequent Dilutive Issuance"), then and in each such case upon a Subsequent Dilutive Issuance the Series Preferred Conversion Price shall be reduced to the Series Preferred Conversion Price that would have been in effect had the First Dilutive Issuance and each Subsequent Dilutive Issuance all occurred on the closing date of the First Dilutive Issuance.
 
-8.=[Z/ol/s6]
+8.=[G/Z/ol/s6]
 
 9.Ti=Certificate of Adjustment
 
@@ -114,7 +114,7 @@ Note=Something odd about the "; and" here:
 
 11.2.sec=Upon the occurrence of either of the events specified in Section 5(k)(i) above, the outstanding shares of Series Preferred shall be converted automatically without any further action by the holders of such shares and whether or not the certificates representing such shares are surrendered to the Company or its transfer agent; provided, however, that the Company shall not be obligated to issue certificates evidencing the shares of Common Stock issuable upon such conversion unless the certificates evidencing such shares of Series Preferred are either delivered to the Company or its transfer agent as provided below, or the holder notifies the Company or its transfer agent that such certificates have been lost, stolen or destroyed and executes an agreement satisfactory to the Company to indemnify the Company from any loss incurred by it in connection with such certificates.  Upon the occurrence of such automatic conversion of the Series Preferred, the holders of Series Preferred shall surrender the certificates representing such shares at the office of the Company or any transfer agent for the Series Preferred.  Thereupon, there shall be issued and delivered to such holder promptly at such office and in its name as shown on such surrendered certificate or certificates, a certificate or certificates for the number of shares of Common Stock into which the shares of Series Preferred surrendered were convertible on the date on which such automatic conversion occurred, and any declared and unpaid dividends shall be paid in accordance with the provisions of Section 5(d).
 
-11.=[Z/ol/s2]
+11.=[G/Z/ol/s2]
 
 12.Ti=Fractional Shares
 
@@ -132,4 +132,4 @@ Note=Something odd about the "; and" here:
 
 15.sec=The Company will pay all taxes (other than taxes based upon income) and other governmental charges that may be imposed with respect to the issue or delivery of shares of Common Stock upon conversion of shares of Series Preferred, excluding any tax or other charge imposed in connection with any transfer involved in the issue and delivery of shares of Common Stock in a name other than that in which the shares of Series Preferred so converted were registered.
 
-=[Z/ol/15]
+=[G/Z/ol/15]

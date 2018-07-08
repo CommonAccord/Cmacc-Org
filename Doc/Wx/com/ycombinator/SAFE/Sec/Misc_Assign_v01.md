@@ -8,4 +8,4 @@ Except.Investor.cl={this_instrument} and/or the rights contained herein may be a
 
 Except.Company.cl={the_Company} may assign {this_instrument} in whole, without the consent of {the_Investor}, in connection with a reincorporation to change {the_Company}'s domicile
 
-=[Z/ol/0]
+=[G/Z/ol/0]

@@ -56,7 +56,7 @@ Ti=Definitions
 
 21.6.sec=the equipment will function properly under both normal and reasonably expected Emergency conditions at the Facility.
 
-21.=[Z/ol/s6]
+21.=[G/Z/ol/s6]
 
 22.sec=“Grid” means the electrical transmission system that is beyond the Point of Delivery and controlled by the Transmission System Operator.
 
@@ -86,4 +86,4 @@ Ti=Definitions
 
 35.sec=“Transmission System Operator” means BPA’s Transmission Business Line or any successor that controls and operates the Grid.
 
-=[Z/ol-a/s35]
+=[G/Z/ol-a/s35]

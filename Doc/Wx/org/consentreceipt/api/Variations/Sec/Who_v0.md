@@ -20,4 +20,4 @@ Arbitrator.Ti=Arbitrator
 
 Arbitrator.=[Wx/org/consentreceipt/api/Variations/Sec/Who_Sub_v0.md]
 
-=[Z/ol/0]
+=[G/Z/ol/0]

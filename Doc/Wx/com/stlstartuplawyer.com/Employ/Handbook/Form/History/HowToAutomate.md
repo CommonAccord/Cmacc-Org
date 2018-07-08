@@ -11,12 +11,12 @@ Ti=Steps for automating StlStartupLawyer Employee Handbook:
 
 3.3.sec=Replace each double carriage return ("<cr><cr>") with "<cr><cr>=" at the beginning of each new line.  Doc_x02.md
 
-3.4.sec=Did the basic structuring for the introduction (always the most fiddly part) and Part One (easy).  Made it 1.3.a type numbering system (by 1.3.=[Z/ol-a/s2]).  Can change.  Could also leave it all as 1.1.1.1, and then fix in CSS. 
+3.4.sec=Did the basic structuring for the introduction (always the most fiddly part) and Part One (easy).  Made it 1.3.a type numbering system (by 1.3.=[G/Z/ol-a/s2]).  Can change.  Could also leave it all as 1.1.1.1, and then fix in CSS. 
   
 3.5.sec=Made section 1 into Sec/General_v0.md.  Eliminated the "1." at the beginning of each line of it, and reference the file as 1.=[.../Sec/General_v0.md]
 
 3.6.sec=Bryan ...
 
-3.=[Z/ol/s6]
+3.=[G/Z/ol/s6]
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]

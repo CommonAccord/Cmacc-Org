@@ -6,7 +6,7 @@ Ti=Contact Me
 
 1.2.sec=You may contact me indirectly.
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=To
 
@@ -16,6 +16,6 @@ Ti=Contact Me
 
 2.3.sec=Seek Further Consent
 
-2.=[Z/ol/s3]
+2.=[G/Z/ol/s3]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

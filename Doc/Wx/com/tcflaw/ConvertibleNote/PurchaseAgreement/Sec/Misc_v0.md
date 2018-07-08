@@ -13,7 +13,7 @@ Ti=Miscellaneous
 
 3.sec=Except as otherwise provided herein, the provisions hereof shall inure to the benefit of and be binding upon the successors, assigns, heirs, executors and administrators of the parties hereto.
 
-3.=[Z/ol/3]
+3.=[G/Z/ol/3]
 
 4.Ti=Entire Agreement; Waiver; Severability; Amendments
 
@@ -33,7 +33,7 @@ Ti=Miscellaneous
 
 4.4.sec=This Agreement may be amended or modified only with the prior written consent of Company and the holders of a majority of the principal amount of the Notes then outstanding<br>Notwithstanding the foregoing, the Company shall be entitled to update and amend <u>Schedule I</u> attached hereto without the consent of any other party hereto to reflect the purchase of additional Notes hereunder after the initial Closing in accordance with Section 1.1 hereof. 
 
-4.=[Z/ol/4]
+4.=[G/Z/ol/4]
 
 5.Ti=Notices
 
@@ -45,15 +45,15 @@ Ti=Miscellaneous
 
 6.1.1.sec=<span style="text-transform: uppercase">The securities represented hereby have not been registered under the Securities Act of 1933, as amended ("Act").  Such securities may not be transferred unless a Registration Statement under the Act is in effect as to such transfer or, in the opinion of counsel for the Company, registration under the Act is unnecessary in order for such transfer to comply with the Act or unless sold pursuant to Rule 144 of the Act."</span>
 
-6.1.=[Z/ol-none/s1]
+6.1.=[G/Z/ol-none/s1]
 
 6.2.sec=The certificates evidencing the Securities shall also bear any legend required pursuant to any state, local, or foreign law governing such securities.
 
-6.=[Z/ol/s2]
+6.=[G/Z/ol/s2]
 
 7.Ti=Counterparts
 
 7.sec=This Agreement may be executed in two counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
 
-=[Z/ol/7]
+=[G/Z/ol/7]
 

@@ -7,4 +7,4 @@ Ti=Objet
 
 3.sec=Elles peuvent être complétées, le cas échéant, par des conditions d'utilisation particulières à certains Services. En cas de contradiction, les conditions particulières prévalent sur ces conditions générales.
 
-=[Z/paras/s3]
+=[G/Z/paras/s3]

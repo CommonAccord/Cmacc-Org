@@ -15,7 +15,7 @@ Ti=Facility Description
 
 2.3.sec=A scaled map that identifies the location of the Facility, the BPA Wind Turbines, the Interconnection Facilities, and significant ancillary facilities, including the facilities located at Point of Delivery, is included in Exhibit A.
 
-2.=[Z/ol/s3]
+2.=[G/Z/ol/s3]
 
 3.Ti=(c) General Design and Construction of the Facility
 
@@ -27,6 +27,6 @@ Ti=Facility Description
 
 3.3.sec=(3) equipped with protective devices and generator control systems designed and operating in accordance with the Interconnection Facilities Agreement and Good Utility Industry Practice(s).
 
-3.=[Z/ol/s3]
+3.=[G/Z/ol/s3]
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]

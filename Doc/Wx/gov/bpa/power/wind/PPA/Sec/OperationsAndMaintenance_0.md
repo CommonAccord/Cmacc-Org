@@ -16,7 +16,7 @@ Ti=Operations and Maintenance
 
 1.6.sec=(6) Seller has provided BPA with copies of all material land leases and major permits needed to construct and operate the Facility, provided that Seller may delete or remove confidential commercial terms contained therein.
 
-1.=[Z/ol/s6]
+1.=[G/Z/ol/s6]
 
 2.Ti=(b) Facility Operation and Reliability Standards
 
@@ -32,7 +32,7 @@ Ti=Operations and Maintenance
 
 2.1.4.sec=(3) Major overhauls (over 5 days) at least 90 days
 
-2.1.=[Z/ol/s4]
+2.1.=[G/Z/ol/s4]
 
 2.2.sec=(2) Seller shall not schedule any planned maintenance outages for the entire Facility during any weekday of an On-Peak Month without the prior written approval of BPA not to be unreasonably withheld, delayed or conditioned.
 
@@ -50,8 +50,8 @@ Ti=Operations and Maintenance
 
 2.5.2.sec=(2) The Operating Committee shall, acting reasonably, develop mutually agreeable written operating procedures (“Operating Procedures”) in draft form no later than thirty (30) days prior to the expected Completion Date. Operating Procedures shall include, but not be limited to: method of day-to-day communications; metering, telemetering, telecommunications, and data acquisition procedures; operating and maintenance scheduling and reporting; operations log; and such other matters as may be mutually agreed upon by the Parties. The agreed upon Operating Procedures shall be provided and distributed within ninety (90) days following the Completion Date.
 
-2.5.=[Z/ol/s3]
+2.5.=[G/Z/ol/s3]
 
-2.=[Z/ol/5]
+2.=[G/Z/ol/5]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

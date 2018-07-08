@@ -18,6 +18,6 @@ Ti=Independent Contractor Relationship
 
 2.6.sec=If, notwithstanding the foregoing, {_the_Consultant} is reclassified as an employee of {_the_Client}, or any affiliate of {_the_Client}, by the U.S. Internal Revenue Service, the U.S. Department of Labor, or any other federal, state{q} or foreign agency as the result of any administrative or judicial proceeding, {_the_Consultant} agrees that {_the_Consultant} and {_the_Consultant}'s employees will not, as the result of such reclassification, be entitled to or eligible for, on either a prospective or retrospective basis, any employee benefits under any plans or programs established or maintained by {_the_Client}.
 
-2.=[Z/ol/s6]
+2.=[G/Z/ol/s6]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

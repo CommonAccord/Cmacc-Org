@@ -12,7 +12,7 @@ Ti=What Might Constitute a Bribe
 
 1.5.sec=Donations to a charity affiliated with or sponsored by a government official; and Political contributions.
 
-1.=[Z/ol/s5]
+1.=[G/Z/ol/s5]
 
 2.0.sec=Some examples of improperly influence of a public or government official include:
 
@@ -20,7 +20,7 @@ Ti=What Might Constitute a Bribe
 
 2.2.sec=The government official has a choice to act or not and makes a decision based on a gift.
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
 3.0.sec=Some examples of improper business advantage include when a government official:
 
@@ -34,7 +34,7 @@ Ti=What Might Constitute a Bribe
 
 3.5.sec=Directs business to {the_Company}.
 
-3.=[Z/ol/s5]
+3.=[G/Z/ol/s5]
 
 4.0.sec=Examples of commercial bribery include:
 
@@ -44,7 +44,7 @@ Ti=What Might Constitute a Bribe
 
 4.3.sec=Paying a third party in order to unlawfully obtain a recommendation or referral for {the_Company}.
 
-4.=[Z/ol/s3]
+4.=[G/Z/ol/s3]
 
 5.1.sec={This_Policy} cannot cover every situation or provide information on every law that may be applicable where {the_Company} conducts business.
 
@@ -52,6 +52,6 @@ Ti=What Might Constitute a Bribe
 
 5.3.sec=Information on who to contact for additional guidance, as well as other available resources, can be found in the Compliance Hotline and Company Contacts section of {this_Policy}.
 
-5.=[Z/para/s3]
+5.=[G/Z/para/s3]
   
-=[Z/paras/s5]
+=[G/Z/paras/s5]

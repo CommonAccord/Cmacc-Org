@@ -10,4 +10,4 @@ Ti=Right of First Refusal
 
 00.sec=in all cases subject to customary limitations and provided that the {_Active_Founders} shall have priority over any shares proposed to be transferred by the {_Seed_Investors} or the {_Founders}.
 
-=[Z/para/s3]
+=[G/Z/para/s3]

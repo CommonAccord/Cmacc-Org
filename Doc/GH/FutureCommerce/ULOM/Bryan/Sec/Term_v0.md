@@ -6,4 +6,4 @@ Ti=Contract Termination and Renewal
 
 3.Ti=Effects of Termination
 
-=[Z/ol/3]
+=[G/Z/ol/3]

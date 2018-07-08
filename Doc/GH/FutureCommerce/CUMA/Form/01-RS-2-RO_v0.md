@@ -10,7 +10,7 @@ PolicyType.Ti=Policy Type
 
 PolicyType.00.sec=Except as expressly provided in this Section, we will reject any request for access to your information.
 
-PolicyType.=[Z/ol/2]
+PolicyType.=[G/Z/ol/2]
 
 Misc.Sec=<b>Miscellaneous</b><br>{Misc.sec}
 

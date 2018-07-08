@@ -8,4 +8,4 @@ Alt2.sec={1.Cl}{2.cl}.
 
 2.cl=, except that shares held by the same shareholders for at least two years following the closing shall enjoy double voting rights
 
-=[Z/Alt/2]
+=[G/Z/Alt/2]

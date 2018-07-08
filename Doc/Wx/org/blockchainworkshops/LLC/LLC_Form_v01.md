@@ -10,7 +10,7 @@ Ti=Limited Liability Company Operating Agreement
 
 0.00.sec=NOW THEREFORE, the Members agree as follows:
 
-0.=[Z/ol/s3]
+0.=[G/Z/ol/s3]
 
 0.Ti=<b></b>
 
@@ -32,7 +32,7 @@ Ti=Limited Liability Company Operating Agreement
 
 1.7.sec="Unit" means a unit of ownership in the Company entitling the Member holding such Unit to an economic interest and voting interest in the Company.
 
-1.=[Z/ol/s7]
+1.=[G/Z/ol/s7]
 
 2.Ti=Formation
 
@@ -68,7 +68,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 2.7.sec=Title to all assets of the Company will be held in the name of the Company.  No Member has any right to the assets of the Company or any ownership interest in those assets except indirectly as a result of the Member's ownership of an interest in the Company.  No Member has any right to partition any assets of the Company or any right to receive any specific assets upon liquidation of the Company or upon any other distribution from the Company.
 
-2.=[Z/ol/7]
+2.=[G/Z/ol/7]
 
 3.Ti=Members, Contributions and Interests
 
@@ -102,7 +102,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 3.6.sec=Members shall not be bound by, or be personally liable for, the expenses, liabilities, or obligations of the Company except as otherwise provided in this agreement or as required by law.
 
-3.=[Z/ol/6]
+3.=[G/Z/ol/6]
 
 4.Ti=Allocations and Distributions
 
@@ -120,13 +120,13 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 4.2.2.Sen=The timing and amount of distributions shall be determined by the Managers in accordance with the laws of the State of Delaware.  
 
-4.=[Z/ol/2]
+4.=[G/Z/ol/2]
 
 5.Ti=Management
 
 5.1.Ti=Management
 
-5.1.=[Z/para/s6]
+5.1.=[G/Z/para/s6]
 
 5.1.1.sec=The business of the Company shall be managed by one or more Managers.
 
@@ -169,7 +169,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 5.6.sec=No Member who is acting solely in his or her capacity as a Member is authorized to act on behalf of the Company.
 
-5.=[Z/ol/6]
+5.=[G/Z/ol/6]
 
 6.Ti=Membership - Meetings, Voting
 
@@ -193,9 +193,9 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 6.2.2.2.Sen=In addition, any action which could be taken at a meeting can be approved without a meeting and without notice if a consent in writing, stating the action to be taken, is signed by the holders of the minimum Membership Interests needed to approve the action.
 
-6.2.=[Z/ol/s2]
+6.2.=[G/Z/ol/s2]
 
-6.=[Z/ol/2]
+6.=[G/Z/ol/2]
 
 7.Ti=Withdrawal and Transfers of Membership Interests
 
@@ -207,7 +207,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 7.2.sec=A Member shall not transfer any Membership Interests, whether now owned or later acquired, unless all of the Members consent to such transfer.  A person may acquire Membership Interests directly from the Company upon the written consent of all Members.  A person which acquires Membership Interests in accordance with this section shall be admitted as a Member of the Company after the person has agreed to be bound by the terms of this Operating Agreement by executing a consent in the form of Exhibit D.
 
-7.=[Z/ol/2]
+7.=[G/Z/ol/2]
 
 8.Ti=Accounting and Records
 
@@ -235,7 +235,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 8.4.sec={TaxMM.Name.Full} shall act as tax matters member of the Company to represent the Company (at the Company's expense) in connection with all examinations of the Company's affairs by tax authorities and to expend Company funds for professional services and costs associated therewith.
 
-8.=[Z/ol/4]
+8.=[G/Z/ol/4]
 
 9.Ti=Dissociation and Dissolution
 
@@ -249,13 +249,13 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 9.1.3.sec=At any time there are no Members, provided that the Company is not dissolved and is not required to be wound up if, within 90 days after the occurrence of the event that terminated the continued membership of the last remaining Member, the legal representative of the last remaining Member agrees in writing to continue the Company and to the admission of the legal representative of such Member or its assignee to the Company as a Member, effective as of the occurrence of the event that terminated the continued membership of the last remaining Member.  
 
-9.1.=[Z/ol/s3]
+9.1.=[G/Z/ol/s3]
 
 9.2.Ti=No automatic dissolution upon certain events
 
 9.2.sec=Neither the death, incapacity, disassociation, bankruptcy or withdrawal of a Member shall automatically cause a dissolution of the Company.  
 
-9.=[Z/ol/2]
+9.=[G/Z/ol/2]
 
 10.Ti=Winding Up and Liquidation
 
@@ -269,7 +269,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 10.1.3.sec=To Members in proportion to the positive balances of their capital accounts, after taking into account all adjustments made to capital accounts for the fiscal year during which the distributions to Members are made.
 
-10.1.=[Z/ol/s3]
+10.1.=[G/Z/ol/s3]
 
 10.2.Ti=Distribution of Property in Kind
 
@@ -279,7 +279,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 10.3.sec=If any Member has a negative balance in the Member's capital account upon liquidation of the Company, the Member will have no obligation to make any contribution to the capital of the Company to make up the deficit, and the deficit will not be considered a debt owed to the Company or any other person for any purpose.
 
-10.=[Z/ol/3]
+10.=[G/Z/ol/3]
 
 11.Ti=Representations and Warranties of Members
 
@@ -307,7 +307,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 12.1.4.sec=Any transaction in which the Manager derives improper personal benefit.
 
-12.1.=[Z/ol/s4]
+12.1.=[G/Z/ol/s4]
 
 12.2.Ti=Limitation of Liability
 
@@ -317,7 +317,7 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 12.2.2.Sen=No repeal or amendment of this section or of the Act will adversely affect any right or protection of a Manager for actions or omissions prior to the repeal or amendment.
 
-12.=[Z/ol/s2]
+12.=[G/Z/ol/s2]
 
 13.Ti=Miscellaneous Provisions
 
@@ -369,13 +369,13 @@ Certificate.Effective.YMD={Certificate.Incorp.Sign.YMD}
 
 13.9.sec=Each individual executing this agreement on behalf of a corporation or other entity warrants that he or she is authorized to do so and that this agreement will constitute the legally binding obligation of the corporation or other entity that the individual represents.
 
-13.=[Z/ol/s9]
+13.=[G/Z/ol/s9]
 
 00.sec={Witness}<br><br>{Co.Sign.Block}<br>{MList.Sign.Block}
 
 Witness=IN WITNESS WHEREOF, the parties have executed or caused to be executed this Operating Agreement as of the date below.
 
-=[Z/ol/13]
+=[G/Z/ol/13]
 
 Sec={Doc}
 

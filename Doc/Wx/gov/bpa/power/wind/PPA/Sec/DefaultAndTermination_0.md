@@ -34,13 +34,13 @@ Ti=Default and Termination
 
 1.2.10.sec=(x) Seller’s failure to comply with any other material obligation under this Agreement.
 
-1.2.=[Z/ol/s10]
+1.2.=[G/Z/ol/s10]
 
 1.3.0.sec=(3) Seller’s failure to make any payment when required under this Agreement shall constitute an Event of Default of Seller unless
 
 1.3.1.sec=(1) Seller shall have cured the same within thirty (30) days after receipt by Seller of written notice thereof from BPA or (2) Seller has filed in good faith a Billing Dispute with respect to such unpaid amounts and complied with Section 8(d).
 
-1.3.=[Z/ol/s1]
+1.3.=[G/Z/ol/s1]
 
 2.Ti=(b) Events of Default of BPA
 
@@ -50,7 +50,7 @@ Ti=Default and Termination
 
 2.1.2.sec= (ii) BPA’s general assignment of this Agreement or any of its rights hereunder for the benefit of creditors.
 
-2.1.=[Z/ol/s2]
+2.1.=[G/Z/ol/s2]
 
 2.2.0.sec=(2) The following shall constitute Events of Default of BPA upon their occurrence unless cured within ninety (90) days after the receipt by BPA of written notice thereof from Seller:
 
@@ -62,11 +62,11 @@ Ti=Default and Termination
 
 2.2.4.sec=(iv) BPA’s failure to comply with any other material obligation under this Agreement after receipt of notice thereof.
 
-2.2.=[Z/ol/s4]
+2.2.=[G/Z/ol/s4]
 
 2.3.sec=(3) BPA’s failure to make any payment when required under this Agreement shall constitute an Event of Default unless (1) BPA shall have cured the same within thirty (30) days after receipt by BPA of written notice thereof or (2) BPA has filed in good faith a Billing Dispute with respect to such unpaid amounts and complied with Section 8(d).
 
-2.=[Z/ol/s3]
+2.=[G/Z/ol/s3]
 
 
 3.Ti=(c) Termination for Cause
@@ -77,5 +77,5 @@ Ti=Default and Termination
 
 4.sec=In no event shall either Party be liable for the other Party’s alleged lost profits or other consequential damages; provided, however, that any amounts which are expressly provided herein to be payable shall not be construed as lost profits or consequential damages.
 
-=[Z/ol/4]
+=[G/Z/ol/4]
 

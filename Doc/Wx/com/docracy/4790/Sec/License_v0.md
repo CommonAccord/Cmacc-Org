@@ -8,4 +8,4 @@ Ti=LICENSE
 
 2.sec=Licensee acknowledges and agrees that the rights granted to Licensee by and obtained by Licensee as a result of or in connection with this Agreement are license rights only, and nothing contained in this Agreement constitutes or shall be construed to be an assignment of any or all of Licensor's rights in the Trademark.
 
-=[Z/ol/2]
+=[G/Z/ol/2]

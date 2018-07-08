@@ -20,6 +20,6 @@ PageBreak=</i>
 
 Attach.Sec=</i>
 
-Agree.=[Z/Agt/Agt_v01.md]
+Agree.=[G/Z/Agt/Agt_v01.md]
 
 UMA.=[GH/KantaraInitiative/UMA-Text/0.md]

@@ -10,4 +10,4 @@ xlist=<ol><li>{Safe.sec}</li><li>{Chemical.Good.sec}</li><li>{Chemical.Bad.sec}<
 
 Safe.sec=It will take appropriate actions necessary to protect health, safety and the environment, including, without limitation, in the workplace and during transport;
 		  
-=[Z/ol/0]
+=[G/Z/ol/0]

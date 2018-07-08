@@ -10,6 +10,6 @@ Ti=Implemented Features of Records
 
 2.3.sec=something else, for instance some computer code or a comment.
 
-2.=[Z/ol-i/s3]
+2.=[G/Z/ol-i/s3]
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

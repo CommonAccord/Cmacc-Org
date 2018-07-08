@@ -22,7 +22,7 @@ Misc.=[Wx/com/techstars/Equity/NotePurchase/Sec/Misc_v01.md]
 
 00.sec={Signature.Block}
 
-=[Z/ol/Base]
+=[G/Z/ol/Base]
 
 Sec={Doc}
 

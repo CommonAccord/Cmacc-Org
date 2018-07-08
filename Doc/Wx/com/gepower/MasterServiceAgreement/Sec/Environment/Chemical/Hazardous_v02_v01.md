@@ -8,4 +8,4 @@ OSHA.cl=the Occupational Safety and Health Act (OSHA) regulations 29 C.F.R. 1910
 
 OSHA-like.cl=any similar requirements in any other jurisdictions to or through which {Company} informs {Supplier} the deliverables, goods or other materials are likely to be shipped
 
-=[Z/ol/0]
+=[G/Z/ol/0]

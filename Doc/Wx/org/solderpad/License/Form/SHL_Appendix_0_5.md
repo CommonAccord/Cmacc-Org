@@ -8,4 +8,4 @@ MessageToUser=Copyright Notice
 
 Sec={Doc}
 
-=[Z/Sec/1]
+=[G/Z/Sec/1]

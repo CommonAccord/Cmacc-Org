@@ -6,4 +6,4 @@ Ti=Consent Document
 
 3.=[Wx/org/genomicsandhealth/REWG/Paris/Vocabulary/Consent_Outline_v0.md]
 
-=[Z/ol/3]
+=[G/Z/ol/3]

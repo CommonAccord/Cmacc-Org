@@ -26,10 +26,10 @@ Ti=Issues in Consent
 
 5.4.=[Wx/org/genomicsandhealth/REWG/Paris/Josh/Conditions_v0.md]
 
-5.=[Z/ol/4]
+5.=[G/Z/ol/4]
 
 6.Ti=Purpose
 
 7.Ti=Contact
 
-=[Z/ol/7]
+=[G/Z/ol/7]

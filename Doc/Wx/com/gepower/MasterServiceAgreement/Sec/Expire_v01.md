@@ -38,4 +38,4 @@ After.Subcontract.cl=terminate all subcontracts to the extent they relate to wor
 
 After.Cont=After termination, {Supplier} shall deliver to {Company} all completed work and work in process, including all designs, drawings, specifications and other documentation and material required or produced in connection with such work and submit a final termination settlement proposal in the form and in the manner prescribed by {Company}. {Company} shall reimburse {Supplier} for the cost of all work performed under {this_Agreement} before the date of receipt of the notice of termination, including a pro rata portion of {Supplier}'s profit, less any costs {Company} incurred as a result of the termination, or due to {Supplier}’s breach of any of its representations, warranties or covenants in {this_Agreement}. The following terms of {this_Agreement} shall survive any such expiration or termination: Sections {Confidential.Xnum}, {IP.Xnum}, {PersonalData.Xnum}, {Warrant.Xnum}, {Assure.Xnum} and {Dispute.Xnum}.
 
-=[Z/ol/0]
+=[G/Z/ol/0]

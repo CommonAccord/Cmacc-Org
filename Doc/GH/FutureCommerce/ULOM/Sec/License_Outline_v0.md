@@ -12,7 +12,7 @@ Hardware.=[GH/FutureCommerce/ULOM/Sec/OSS_Hardware_Outline_v0.md]
 
 BackEnd.Secs={Liability.Sec}<li>{Term.Sec}<li>{Dispute.Sec}<li>{Misc.Sec}<li>{Def.Sec}
 
-=[Z/Agt/Agt.md]
+=[G/Z/Agt/Agt.md]
 
 Note=Cf.  Not license, assignment, but many issues overlap.
 

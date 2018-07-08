@@ -1,4 +1,4 @@
-Partie.=[Z/FR/Agt/Partie_Morale_Bloc.md]
+Partie.=[G/Z/FR/Agt/Partie_Morale_Bloc.md]
 
 Among.Block={Among.Alt2.Block}
 

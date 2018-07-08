@@ -8,4 +8,4 @@
 
 5.sec={Bonds.Name.Full}
 
-=[Z/paras/s5]
+=[G/Z/paras/s5]

@@ -16,13 +16,13 @@ Ti=CIVIL COVER SHEET
 
 1.1.2.2.sec=(EXCEPT IN U.S. PLAINTIFF CASES)
 
-1.1.2.=[Z/ol/s2]
+1.1.2.=[G/Z/ol/s2]
 
 1.1.3.Ti=Attorneys (Firm Name, Address, and Telephone Number)
 
 1.1.3.sec={Plaintiff1.Atty.FirmName/Address/Phone} 
 
-1.1.=[Z/ol/3]
+1.1.=[G/Z/ol/3]
 
 1.2.Ti=DEFENDANTS
 
@@ -38,15 +38,15 @@ Ti=CIVIL COVER SHEET
 
 1.2.2.3.sec=NOTE: IN LAND CONDEMNATION CASES, USE THE LOCATION OF THE TRACT OF LAND INVOLVED.
 
-1.2.2.=[Z/ol/s3]
+1.2.2.=[G/Z/ol/s3]
 
 1.2.3.Ti=Attorneys (If Known)
 
 1.2.3.sec={Defendant1.Atty.FirmName/Address/Phone} 
 
-1.2.=[Z/ol/3]
+1.2.=[G/Z/ol/3]
 
-1.=[Z/ol/2]
+1.=[G/Z/ol/2]
 
 
 2.Ti=II. BASIS OF JURISDICTION (Place an “X” in One Box Only) 
@@ -59,16 +59,16 @@ Ti=CIVIL COVER SHEET
 
 2.3.2.sec=(U.S. Government Not a Party)
 
-2.4.=[Z/ol/s2]
+2.4.=[G/Z/ol/s2]
 
 
 2.4.Ti=Diversity 
 
 2.4.2.sec=(Indicate Citizenship of Parties in Item III)
 
-2.4.=[Z/ol/s2]
+2.4.=[G/Z/ol/s2]
 
-2.=[Z/ol/4]
+2.=[G/Z/ol/4]
 
 
 3.Ti=III. CITIZENSHIP OF PRINCIPAL PARTIES 
@@ -99,7 +99,7 @@ Ti=CIVIL COVER SHEET
 
 3.6.sec={Plaintiff1.IsForeignNation}  {Defendant1.IsForeignNation}
 
-3.=[Z/ol/6]
+3.=[G/Z/ol/6]
 
 4.Ti=IV. NATURE OF SUIT (Place an “X” in One Box Only)
 
@@ -121,7 +121,7 @@ Ti=CIVIL COVER SHEET
 
 5.6.sec=’ 6 Multidistrict Litigation
 
-5.=[Z/ol/s6]
+5.=[G/Z/ol/s6]
 
 6.Ti=VI. CAUSE OF ACTION
 
@@ -131,7 +131,7 @@ Ti=CIVIL COVER SHEET
 
 6.2.Ti=Brief description of cause:
 
-6.=[Z/ol/2]
+6.=[G/Z/ol/2]
 
 7.Ti=VII. REQUESTED IN COMPLAINT:
 
@@ -141,7 +141,7 @@ Ti=CIVIL COVER SHEET
 
 7.3.Ti=CHECK YES only if demanded in complaint: JURY DEMAND: ’ Yes ’ No
 
-7.=[Z/ol/3]
+7.=[G/Z/ol/3]
 
 8.Ti=VIII. RELATED CASE(S) IF ANY 
 
@@ -169,8 +169,8 @@ Ti=CIVIL COVER SHEET
 
 00.3.5.Ti=MAG. JUDGE
 
-00.3.=[Z/ol/5]
+00.3.=[G/Z/ol/5]
 
-00.=[Z/paras/3]
+00.=[G/Z/paras/3]
 
-=[Z/ol/8]
+=[G/Z/ol/8]

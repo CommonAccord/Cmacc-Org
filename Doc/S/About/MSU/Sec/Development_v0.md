@@ -14,4 +14,4 @@ Ti=Development
 
 7.sec=Recognition that this is part of a movement of radical decentralization, simplification, "empowerment."
 
-=[Z/ol/s7]
+=[G/Z/ol/s7]

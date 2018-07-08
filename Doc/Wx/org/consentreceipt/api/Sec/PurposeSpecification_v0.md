@@ -14,10 +14,10 @@ Ti=Purpose Specification
 
 1.3.sec={PICategory}
 
-1.=[Z/ol/3]
+1.=[G/Z/ol/3]
 
 2.Ti=Purpose 2
 
 2.sec={2.Purpose}
 
-=[Z/ol/2]
+=[G/Z/ol/2]

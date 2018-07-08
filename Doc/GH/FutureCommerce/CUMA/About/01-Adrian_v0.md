@@ -11,7 +11,7 @@ Here's one idea for how CommonAccord could work with UMA:
 
 1.3.sec=Publish the form so that any interested Client or Requesting Party (RqP) can find it anytime
 
-1.=[Z/ol/s3]
+1.=[G/Z/ol/s3]
 
 
 2.Ti=When an AS is specified as part of Resource Registration (UMA Phase 1) (RS ->AS)
@@ -24,7 +24,7 @@ Here's one idea for how CommonAccord could work with UMA:
 
 2.4.sec=The AS returns success to the RS and the resource is registered
 
-2.=[Z/ol/s4]
+2.=[G/Z/ol/s4]
 
 
 3.Ti=When a RqP / Client pair approach the AS (UMA Phase 2) (AS -> RqP)
@@ -39,9 +39,9 @@ Here's one idea for how CommonAccord could work with UMA:
 
 3.5.sec=The RS provides access to the Client according to (3.4)
 
-3.=[Z/ol/s5]
+3.=[G/Z/ol/s5]
 
-=[Z/ol/3]
+=[G/Z/ol/3]
 
 =In this sequence, CommonAccord is only active relative to the RS. The simplest AS knows nothing about CommonAccord, although a more sophisticated AS could look up the CommonAccord details if they are published along with (5) and use that information to provide additional context to the RO.
 

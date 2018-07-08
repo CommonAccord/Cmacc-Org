@@ -18,6 +18,6 @@ Ti=Billing and Payment
 
 4.2.sec=(2) Uncontested portions of invoiced amounts shall be paid on or before the due date or shall be subject to the late payment interest charges set forth above.
 
-4.=[Z/ol/s2]
+4.=[G/Z/ol/s2]
 
-=[Z/ol/4]
+=[G/Z/ol/4]

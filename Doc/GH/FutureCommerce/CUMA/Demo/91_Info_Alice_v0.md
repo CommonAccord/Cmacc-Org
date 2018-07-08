@@ -8,4 +8,4 @@ Ti=Info Re Alice
 
 4.sec=favorite song 
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

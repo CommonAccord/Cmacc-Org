@@ -12,7 +12,7 @@ Note=Improve these references:
 
 1.3.sec=<a href="index.php?action=list&file=/Wx/com/ycombinator/">TechStars</a>
 
-1.=[Z/ol/s3]
+1.=[G/Z/ol/s3]
 
 
 2.Ti=Licensing
@@ -39,7 +39,7 @@ Note=Improve these references:
 
 2.4.sec=<a href="index.php?action=list&file=Wx/org/solderpad/License/Form/">SolderPad Open source hardware license (also shows one approach to "releases")</a>
 
-2.=[Z/ol/5]
+2.=[G/Z/ol/5]
 
 3.Ti=Privacy - EU->US Transfers (Schrems, etc.)
 
@@ -49,4 +49,4 @@ Note=Improve these references:
 
 3.sec=Class actions, access to justice, business models for practice of law.
 
-=[Z/ol/3]
+=[G/Z/ol/3]

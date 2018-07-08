@@ -10,4 +10,4 @@ Assign.sec={This_Agreement} and any rights hereunder (except where expressly pro
 
 Delegate.sec=Supplier may not subcontract or delegate any {Services} without {Company}’s prior written consent.
 
-=[Z/ol/0]
+=[G/Z/ol/0]

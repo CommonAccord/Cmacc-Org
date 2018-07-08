@@ -18,8 +18,8 @@ Ti=Appendix 2 to the Standard Contractual Clauses
 2.2.1.sec=the data exporter promptly notifying the data importer of a claim; and
 2.2.2.sec=the data importer being given the possibility to cooperate with the data exporter in the defence and settlement of the claim (1).
 
-2.2.=[Z/ol-a/s2]
+2.2.=[G/Z/ol-a/s2]
 
-2.=[Z/paras/s2]
+2.=[G/Z/paras/s2]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

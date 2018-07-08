@@ -14,7 +14,7 @@ Ti=Planning - Making "Yes" Better
 
 2.5.sec=Launch performance
 
-2.=[Z/ol/s5]
+2.=[G/Z/ol/s5]
 
 2.secs={2.secs;and}
 
@@ -22,4 +22,4 @@ Ti=Planning - Making "Yes" Better
 
 4.sec=Sign and Perform are the domain of the blockchain and other methods.  
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

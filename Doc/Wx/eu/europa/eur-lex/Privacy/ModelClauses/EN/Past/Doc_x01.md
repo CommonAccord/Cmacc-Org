@@ -14,13 +14,13 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 0.2.6.sec=each a ‘party’; together ‘the parties’,
 
-0.2.=[Z/ol-none/s6]
+0.2.=[G/Z/ol-none/s6]
 
 0.3.sec=HAVE AGREED on the following Contractual Clauses (the Clauses) in order to adduce adequate safeguards with respect to the protection of privacy and fundamental rights and freedoms of individuals for the transfer by the data exporter to the data importer of the personal data specified in Appendix 1.
 
 0.Ti=</i>
 
-0.=[Z/paras/s3]
+0.=[G/Z/paras/s3]
 
 =Clause 1
 
@@ -40,7 +40,7 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 1.6.sec=‘technical and organisational security measures’ means those measures aimed at protecting personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing.
 
-1.=[Z/ol-a/s6]
+1.=[G/Z/ol-a/s6]
 
 =Clause 2
 
@@ -60,7 +60,7 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 3.4.sec=The parties do not object to a data subject being represented by an association or other body if the data subject so expressly wishes and if permitted by national law.
 
-3.=[Z/ol/s4]
+3.=[G/Z/ol/s4]
 
 =Clause 4
 
@@ -88,7 +88,7 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 4.10.sec=that it will ensure compliance with Clause 4(a) to (i).
 
-4.=[Z/ol-a/s10]
+4.=[G/Z/ol-a/s10]
 
 =Clause 5
 
@@ -110,7 +110,7 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 5.4.3.sec=any request received directly from the data subjects without responding to that request, unless it has been otherwise authorised to do so;
 
-5.4.=[Z/ol-i/s3]
+5.4.=[G/Z/ol-i/s3]
 
 5.5.sec=to deal promptly and properly with all inquiries from the data exporter relating to its processing of the personal data subject to the transfer and to abide by the advice of the supervisory authority with regard to the processing of the data transferred;
 
@@ -124,7 +124,7 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 5.10.sec=to send promptly a copy of any sub-processor agreement it concludes under the Clauses to the data exporter.
 
-5.=[Z/ol-a/s10]
+5.=[G/Z/ol-a/s10]
 
 =Clause 6
 
@@ -136,11 +136,11 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 6.2.2.sec=The data importer may not rely on a breach by a sub-processor of its obligations in order to avoid its own liabilities.
 
-6.2.=[Z/paras/s2]
+6.2.=[G/Z/paras/s2]
 
 6.3.sec=If a data subject is not able to bring a claim against the data exporter or the data importer referred to in paragraphs 1 and 2, arising out of a breach by the sub-processor of any of their obligations referred to in Clause 3 or in Clause 11 because both the data exporter and the data importer have factually disappeared or ceased to exist in law or have become insolvent, the sub-processor agrees that the data subject may issue a claim against the data sub-processor with regard to its own processing operations under the Clauses as if it were the data exporter or the data importer, unless any successor entity has assumed the entire legal obligations of the data exporter or data importer by contract or by operation of law, in which case the data subject can enforce its rights against such entity. The liability of the sub-processor shall be limited to its own processing operations under the Clauses.
 
-6.=[Z/ol/s3]
+6.=[G/Z/ol/s3]
 
 =Clause 7
 
@@ -152,13 +152,13 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 7.1.2.sec=to refer the dispute to the courts in the Member State in which the data exporter is established.
 
-7.1.=[Z/ol-a/s2]
+7.1.=[G/Z/ol-a/s2]
 
 7.2.sec=The parties agree that the choice made by the data subject will not prejudice its substantive or procedural rights to seek remedies in accordance with other provisions of national or international law.
 
-7.2.=[Z/ol/s2]
+7.2.=[G/Z/ol/s2]
 
-7.=[Z/ol/s2]
+7.=[G/Z/ol/s2]
 
 =Clause 8
 
@@ -170,7 +170,7 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 8.3.sec=The data importer shall promptly inform the data exporter about the existence of legislation applicable to it or any sub-processor preventing the conduct of an audit of the data importer, or any sub-processor, pursuant to paragraph 2. In such a case the data exporter shall be entitled to take the measures foreseen in Clause 5(b).
 
-8.=[Z/ol/s3]
+8.=[G/Z/ol/s3]
 
 =Clause 9
 
@@ -196,7 +196,7 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 11.4.sec=The data exporter shall keep a list of sub-processing agreements concluded under the Clauses and notified by the data importer pursuant to Clause 5(j), which shall be updated at least once a year. The list shall be available to the data exporter’s data protection supervisory authority.
 
-11.=[Z/ol/s4]
+11.=[G/Z/ol/s4]
 
 =Clause 12
 
@@ -206,9 +206,9 @@ Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 12.2.sec=The data importer and the sub-processor warrant that upon request of the data exporter and/or of the supervisory authority, it will submit its data-processing facilities for an audit of the measures referred to in paragraph 1.
 
-12.=[Z/ol/s2]
+12.=[G/Z/ol/s2]
 
-=[Z/ol/12]
+=[G/Z/ol/12]
 
 Sec={Doc}
 
@@ -220,7 +220,7 @@ Sec={Doc}
 00.1.2.sec=(stamp of organisation)
 
 00.1.3.sec=Signature ............................................................................................
-00.1.=[Z/ol/s3]
+00.1.=[G/Z/ol/s3]
 
 00.2.Ti=On behalf of the data importer:
 
@@ -230,8 +230,8 @@ Sec={Doc}
 
 00.2.3.sec=Signature ............................................................................................
 
-00.2.=[Z/ol/s3]
+00.2.=[G/Z/ol/s3]
 
-00.=[Z/ol/2]
+00.=[G/Z/ol/2]
 
 

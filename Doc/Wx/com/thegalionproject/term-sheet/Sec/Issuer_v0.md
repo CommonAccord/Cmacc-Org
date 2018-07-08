@@ -2,4 +2,4 @@ Ti=Issuer
 
 sec={Company.N,E,A}  (the “{_Company}”)
 
-=[Z/ol/0]
+=[G/Z/ol/0]

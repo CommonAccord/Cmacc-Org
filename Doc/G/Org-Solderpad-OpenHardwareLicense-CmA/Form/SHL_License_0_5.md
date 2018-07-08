@@ -26,7 +26,7 @@ ReWarrant.=[G/Org-Solderpad-OpenHardwareLicense-CmA/Sec/ReWarrant_v01.md]
 
 Sec={Doc}
 
-=[Z/ol/9]
+=[G/Z/ol/9]
 
 You=<span class="person">You</span>
 

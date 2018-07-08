@@ -8,12 +8,12 @@ Ti=Bribery & Corruption - The Basics
 
 3.2.sec=Acts of bribery and corruption are designed to influence the individual in the performance of their duties and to incent them to act dishonestly.  
 
-3.=[Z/para/s2]
+3.=[G/Z/para/s2]
 
 4.1.sec=Importantly, anti-bribery and anti-corruption laws prohibit not only bribes made directly by employees, but also bribes made indirectly through third parties acting on behalf of {the_Company}.
 
 4.2.sec=In the context of {this_Policy}, third parties are broadly defined to include any person or entity acting on behalf of {the_Company}, including but not limited to agents, brokers, consultants, sales representatives, lawyers, accountants, distributors, and other business partners.
 
-4.=[Z/para/s2]
+4.=[G/Z/para/s2]
 
-=[Z/paras/s4]
+=[G/Z/paras/s4]

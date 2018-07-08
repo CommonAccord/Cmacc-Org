@@ -16,9 +16,9 @@ Ti=Conditions for Access
 
 2.3.3.sec=commercial
 
-2.3.=[Z/ol/s3]
+2.3.=[G/Z/ol/s3]
 
-2.=[Z/ol/s3]
+2.=[G/Z/ol/s3]
 
 3.0.sec=Population sorted by:
 
@@ -30,10 +30,10 @@ Ti=Conditions for Access
 
 3.4.sec=Race
 
-3.=[Z/ol/s3]
+3.=[G/Z/ol/s3]
 
 4.sec=Methods
 
 5.sec=Recontact
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]

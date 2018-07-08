@@ -18,4 +18,4 @@ Ti=Ownership of {_Work_Product}
 
 4.sec=In the event that {_the_Consultant} does not, for any reason, execute such documents within a reasonable time after {_the_Client}'s request, {_the_Consultant} hereby irrevocably appoints {_the_Client} as {_the_Consultant}'s attorney-in-fact for the purpose of executing such documents on {_the_Consultant}'s behalf, which appointment is coupled with an interest. {_The_Consultant} will deliver any {_Deliverables} in accordance with the applicable {_Project_Assignment} and disclose promptly in writing to {_the_Client} all other {_Work_Product}.
 
-=[Z/ol/4]
+=[G/Z/ol/4]

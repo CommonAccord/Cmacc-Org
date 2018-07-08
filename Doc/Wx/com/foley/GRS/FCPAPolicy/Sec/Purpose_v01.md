@@ -12,4 +12,4 @@ Note=add "'s" to "All {the_Company}'s directors ...."
 
 5.sec=Agents, consultants, business partners, and any other persons or entities doing business on behalf of {the_Company} (i.e., third-party intermediaries) must also comply with {this_Policy}.
 
-=[Z/para/s5]
+=[G/Z/para/s5]

@@ -6,4 +6,4 @@ Ti=Liquidation Preference
 
 3.sec=Thereafter, the remaining proceeds (if any) shall be distributed pro rata to the holders of ordinary shares and {_Series_A}.
 
-=[Z/para/s3]
+=[G/Z/para/s3]

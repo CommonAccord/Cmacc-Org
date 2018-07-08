@@ -6,4 +6,4 @@ Ti=Integrations Theme
 
 2.sec=transaction systems
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

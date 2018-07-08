@@ -25,4 +25,4 @@ Ti=License
 
 6.sec=<a href="index.php?action=list&file=/index.php?action=list&file=Wx/org/creativecommons/License/4_0/">Wx/org/creativecommons/License/4_0/</a>
 
-=[Z/ol/6]
+=[G/Z/ol/6]

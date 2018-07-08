@@ -4,4 +4,4 @@ Ti=Applicable Law
 
 2.sec=Any dispute arising therefrom or in connection therewith shall be submitted to the exclusive jurisdiction of {Dispute.Forum.cl}
 
-=[Z/para/s2]
+=[G/Z/para/s2]

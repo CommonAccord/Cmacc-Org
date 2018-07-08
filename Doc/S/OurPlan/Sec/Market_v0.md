@@ -12,4 +12,4 @@ Ti=Market Types<br>
 
 4.sec=new product to resegment market: niche
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

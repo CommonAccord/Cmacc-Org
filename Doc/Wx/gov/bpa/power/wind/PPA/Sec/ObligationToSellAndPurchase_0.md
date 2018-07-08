@@ -20,4 +20,4 @@ Ti=Obligation to Sell and Purchase Energy Output
 
 5.sec=The Parties acknowledge that the BPA Wind Turbines have the potential to produce substantial carbon dioxide credits and other environmental air quality credits and related emissions reduction credits or benefits (economic and otherwise) related to the generation of energy after Commercial Operation. The Parties agree that any and all such credits or benefits shall be the property of BPA. In furtherance of the foregoing, Seller hereby transfers to BPA all right, title and interest Seller has or will have in, to, and under such credits or benefits. Seller agrees to provide such further evidence of the right, title and interest of BPA in such credits or benefits, and such information with respect to such credits or benefits, as BPA shall reasonably request.
 
-=[Z/ol-a/5]
+=[G/Z/ol-a/5]

@@ -2,4 +2,4 @@ Ti=Law
 
 sec=All rights and obligations hereunder will be governed by the laws of {Law.State.the}, without regard to the conflicts of law provisions of such jurisdiction.
 
-=[Z/ol/0]
+=[G/Z/ol/0]

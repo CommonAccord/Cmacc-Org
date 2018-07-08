@@ -6,4 +6,4 @@
 
 4.=[Wx/com/techstars/Equity/COI/Sec/Issue_Preferred_v01.md]
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

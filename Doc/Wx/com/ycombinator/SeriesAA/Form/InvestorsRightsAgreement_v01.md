@@ -9,7 +9,7 @@ Doc.Title={Co.Name.Full} Investors' Rights Agreement
 
 /Note=this is a bit fiddly.  Need to improve the Sec_0x approach.
 
-0.=[Z/ol/1]
+0.=[G/Z/ol/1]
 
 0.Sec={0.sec}
 
@@ -45,7 +45,7 @@ Doc.Title={Co.Name.Full} Investors' Rights Agreement
 
 1.1.11.sec=any right, option or warrant to acquire any security convertible into the securities excluded from the definition of New Securities pursuant to subsections (i) through (x) above
 
-1.1.=[Z/ol/s11]
+1.1.=[G/Z/ol/s11]
 
 1.1.xlist={1.1.alist}
 
@@ -57,7 +57,7 @@ Doc.Title={Co.Name.Full} Investors' Rights Agreement
 
 1.4.sec=The right of first refusal granted under this Agreement shall expire upon, and shall not be applicable to the first to occur of (x) the Company's Initial Public Offering or (y) five years after the date of this Agreement.
 
-1.=[Z/ol/s4]
+1.=[G/Z/ol/s4]
 
 2.Ti=Covenants of the Company
 
@@ -77,7 +77,7 @@ Note=missing capital letter in the original
 
 2.1.2.sec=As soon as practicable after the end of the first, second and third quarterly accounting periods in each fiscal year of the Company, an unaudited balance sheet of the Company as of the end of each such quarterly period, and unaudited statements of income and cash flows of the Company for such period, prepared in accordance with U.S. generally accepted accounting principles consistently applied, subject to changes resulting from normal year-end audit adjustments.
 
-2.1.=[Z/ol/s2]
+2.1.=[G/Z/ol/s2]
 
 2.1.xlist={2.1.alist}
 
@@ -89,7 +89,7 @@ Note=missing capital letter in the original
 
 2.3.sec=The covenants set forth in this Section 2 shall terminate and be of no further force and effect after the closing of the Company's Initial Public Offering.
 
-2.=[Z/ol/s3]
+2.=[G/Z/ol/s3]
 
 3.Ti=Restrictions on Transfer
 
@@ -109,7 +109,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 3.1.4.sec=The first legend referring to federal and state securities laws identified in Section {3.1(c)} hereof stamped on a certificate evidencing the Securities and the stock transfer instructions and record notations with respect to such Securities shall be removed and the Company shall issue a certificate without such legend to the holder of such Securities if (i) such securities are registered under the Securities Act, or (ii) such holder provides the Company with an opinion of counsel reasonably acceptable to the Company to the effect that a public sale or transfer of such securities may be made without registration under the Securities Act, or (iii) such holder provides the Company with reasonable assurances, which may, at the option of the Company, include an opinion of counsel satisfactory to the Company, that such securities can be sold pursuant to Section (k) of Rule 144 under the Securities Act.
 
-3.1.=[Z/ol/s4]
+3.1.=[G/Z/ol/s4]
 
 3.1.xlist={3.1.alist}
 
@@ -124,7 +124,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 3.2.3.sec=So long as a Holder owns any Securities, furnish to the Holder forthwith upon written request a written statement by the Company as to its compliance with the reporting requirements of Rule 144 (at any time from and after ninety (90) days following the effective date of the first registration statement filed by the Company for an offering of its securities to the general public), and of the Securities Act and the Exchange Act (at any time after it has become subject to such reporting requirements), a copy of the most recent annual or quarterly report of the Company, and such other reports and documents so filed as a Holder may reasonably request in availing itself of any rule or regulation of the Commission allowing a Holder to sell any such securities without registration
 
-3.2.=[Z/ol/s3]
+3.2.=[G/Z/ol/s3]
 
 3.2.secs={3.2.secs;and}
 
@@ -134,7 +134,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 3.3.sec=Each Holder hereby agrees that such Holder shall not sell or otherwise transfer, make any short sale of, grant any option for the purchase of, or enter into any hedging or similar transaction with the same economic effect as a sale, of any Common Stock (or other securities) of the Company held by such Holder (other than those included in the registration) during the one hundred eighty (180) day period following the effective date of a registration statement of the Company filed under the Securities Act (or such other period as may be requested by the Company or an underwriter to accommodate regulatory restrictions on (i) the publication or other distribution of research reports and (ii) analyst recommendations and opinions, including, but not limited to, the restrictions contained in NASD Rule 2711(f)(4) or NYSE Rule 472(f)(4), or any successor provisions or amendments thereto), provided that: all officers and directors of the Company and holders of at least one percent (1%) of the Company's voting securities are bound by and have entered into similar agreements. The obligations described in this Section {3.3} shall not apply to a registration relating solely to employee benefit plans on Form S-l or Form S-8 or similar forms that may be promulgated in the future, or a registration relating solely to a transaction on Form S-4 or similar forms that may be promulgated in the future.  The Company may impose stop-transfer instructions and may stamp each such certificate with the second legend set forth in Section {4.1(c)} hereof with respect to the shares of Common Stock (or other securities) subject to the foregoing restriction until the end of such one hundred eighty (180) day (or other) period.  Each Holder agrees to execute a market standoff agreement with said underwriters in customary form consistent with the provisions of this Section {3.3}.
 
-3.=[Z/ol/3]
+3.=[G/Z/ol/3]
 
 4.Ti=Definitions
 
@@ -152,7 +152,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 4.6.sec="<strong>Securities Act</strong>" shall mean the Securities Act of 1933, as amended, or any similar successor federal statute and the rules and regulations thereunder, all as the same shall be in effect from time to time.
 
-4.=[Z/ol/s6]
+4.=[G/Z/ol/s6]
 
 5.Ti=Miscellaneous
 
@@ -170,7 +170,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 5.2.00.sec=Each such notice or other communication shall for all purposes of this Agreement be treated as effective or having been given when delivered if delivered personally, or, if sent by mail, at the earlier of its receipt or 72 hours after the same has been deposited in a regularly maintained receptacle for the deposit of the United States mail, addressed and mailed as aforesaid or, if sent by facsimile, upon confirmation of facsimile transfer or, if sent by electronic mail, upon confirmation of delivery when directed to the electronic mail address set forth on the Schedule of Investors.
 
-5.2.=[Z/ol/s2]
+5.2.=[G/Z/ol/s2]
 
 5.2.xlist={5.2.alist}
 
@@ -214,7 +214,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 5.11.2.sec=a sale, lease or other conveyance of all substantially all of the assets of the Company
 
-5.11.=[Z/ol/s2]
+5.11.=[G/Z/ol/s2]
 
 5.11.xlist={5.11.alist}
 
@@ -225,9 +225,9 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 5.12.sec=In the event of any conflict between the terms of this Agreement and the Company's Certificate of Incorporation or its Bylaws, the terms of the Company's Certificate of Incorporation or its Bylaws, as the case may be, will control.
 
-5.=[Z/ol/12]
+5.=[G/Z/ol/12]
 
-=[Z/ol/5]
+=[G/Z/ol/5]
 
 Sec={Doc}
 

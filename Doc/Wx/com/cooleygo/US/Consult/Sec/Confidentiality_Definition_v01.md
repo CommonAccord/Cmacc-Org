@@ -14,4 +14,4 @@ Ti=Definition
 
 00.sec={_Confidential_Information} also includes proprietary or confidential information of any third party who may disclose such information to {_the_Client} or {_the_Consultant} in the course of {_the_Client}'s business.
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]

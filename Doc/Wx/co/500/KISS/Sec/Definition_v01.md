@@ -8,7 +8,7 @@ Ti=Definitions
 
 1.3.sec=with respect to a conversion pursuant to {Conversion.Maturity.Xref}, shares of a newly created series of {the_Company}'s {Series_Seed_Preferred_Stock}, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by {the_Company} and a {Majority_in_Interest}); provided that, for the avoidance of doubt, the {Conversion_Price} shall be determined pursuant to {Conversion_Price.Maturity.Xref}).
 
-1.=[Z/ol/s3]
+1.=[G/Z/ol/s3]
 
 2.0.Sec="{Conversion_Price}" shall equal:
 
@@ -18,7 +18,7 @@ Ti=Definitions
 
 2.3.sec=with respect to a conversion pursuant to {Conversion.Maturity.Xref}, the quotient resulting from dividing (A) the Valuation Cap by (B) the {Fully-Diluted_Capitalization} immediately prior to the conversion.
 
-2.=[Z/ol/s3]
+2.=[G/Z/ol/s3]
 
 Conversion_Price.Maturity.Xref={Conversion_Price.Xref}.3
 
@@ -36,7 +36,7 @@ Conversion_Price.Xref={Def.Xref}.2
 
 3.00.Sec=provided, however, that a transaction shall not constitute a {Corporate_Transaction} if its sole purpose is to change the state of {the_Company}'s incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held {the_Company}'s securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of {Preferred_Stock} in a bona fide financing transaction shall not be deemed a "{Corporate_Transaction}."
 
-3.=[Z/ol/s4]
+3.=[G/Z/ol/s4]
 
 4.sec="{Corporate_Transaction_Payment}" shall mean an amount equal to all accrued and unpaid interest due on this {KISS} plus two times (2X) the {Purchase_Price}.
 
@@ -68,4 +68,4 @@ Conversion_Price.Xref={Def.Xref}.2
 
 18.sec="{Valuation_Cap}" shall mean {ValuationCap.$}
 
-=[Z/ol-none/s18]
+=[G/Z/ol-none/s18]

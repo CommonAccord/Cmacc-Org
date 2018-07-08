@@ -20,7 +20,7 @@ agreement.S.Or=agreements, amendments, applications, approvals, certificates, co
 
 1.1.4.sec=make certain other changes
 
-1.1.=[Z/ol/s4]
+1.1.=[G/Z/ol/s4]
 
 1.1.secs={1.1.secs;and}
 
@@ -30,7 +30,7 @@ agreement.S.Or=agreements, amendments, applications, approvals, certificates, co
 
 1.4.sec={R2} That the proper officers of the Company are, and each hereby is, authorized and empowered to take such other actions and sign such other documents as may be necessary or advisable to carry out the purposes of the foregoing resolutions.
 
-1.=[Z/ol/s4]
+1.=[G/Z/ol/s4]
 
 
 2.Ti=Authorization of Sale and Issuance of Series AA Preferred Stock
@@ -53,7 +53,7 @@ agreement.S.Or=agreements, amendments, applications, approvals, certificates, co
 
 2.8.sec={R2} That the appropriate officers of the Company be, and each of them hereby is, authorized and directed, for and in the name and on behalf of the Company, to execute and deliver, to the appropriate parties, the Purchase Agreement, substantially in the form submitted to and reviewed by the Company's Board, with such changes therein or additions thereto as the officer executing the same shall approve with the advice of legal counsel, the execution and delivery of such agreement by such officer to be conclusive evidence of the approval of the Board thereof and all matters relating thereto.
 
-2.=[Z/ol/s8]
+2.=[G/Z/ol/s8]
 
 3.Ti=Authorization of Amended and Restated Investors' Rights Agreement
 
@@ -65,7 +65,7 @@ agreement.S.Or=agreements, amendments, applications, approvals, certificates, co
 
 3.3.sec={R2} That the appropriate officers of the Company be, and each of them hereby is, authorized and directed, for and in the name and on behalf of the Company, to execute and deliver, to the appropriate parties, the Investors' Rights Agreement, substantially in the form submitted to and reviewed by the Board, with such changes therein or additions thereto as the officer executing the same shall approve with the advice of legal counsel, the execution and delivery of such agreements by such officer to be conclusive evidence of the approval of the Board thereof and all matters relating thereto.
 
-3.=[Z/ol/s3]
+3.=[G/Z/ol/s3]
 
 4.Ti=Omnibus Resolutions
 
@@ -77,15 +77,15 @@ agreement.S.Or=agreements, amendments, applications, approvals, certificates, co
 
 4.1.3.sec=to take such other actions, in the name and on behalf of the Company, as each such officer, in his discretion, shall deem necessary or advisable to complete and effect the foregoing transactions or to carry out the intent and purposes of the foregoing resolutions and the transactions contemplated thereby, the preparation, execution, delivery and performance of any such {agreement.S.Or}, the payment of any such costs or expenses and the performance of any such other acts shall be conclusive evidence of the approval of the Board thereof and all matters relating thereto
 
-4.1.=[Z/ol/s3]
+4.1.=[G/Z/ol/s3]
 
 4.1.secs={4.1.secs;and}
 
 4.2.sec={R2} That all actions heretofore taken by the officers and directors of the Company with respect to the foregoing transactions and all other matters contemplated by the foregoing resolutions are hereby approved, adopted, ratified and confirmed.
 
-4.=[Z/ol/s2]
+4.=[G/Z/ol/s2]
 
-=[Z/ol/4]
+=[G/Z/ol/4]
 
 Sec={Doc}
 

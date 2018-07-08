@@ -6,4 +6,4 @@ Ti=International
 
 2.sec=<i>{GA4GHConsent.4.1.2.Sen}</i>
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

@@ -61,4 +61,4 @@ Expire.HaltProcessing.cl={Supplier} shall stop any processing of {Company_Person
 
 Expire.Survive.cl=these obligations regarding {Company_Personal_Data} shall remain in full force
 	                    
-=[Z/ol/0]
+=[G/Z/ol/0]

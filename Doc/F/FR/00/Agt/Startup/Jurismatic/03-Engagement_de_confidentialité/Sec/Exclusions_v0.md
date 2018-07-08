@@ -8,6 +8,6 @@
 
 4.sec=dont la communication serait exigée par les autorités judiciaires, en application des lois et règlements ou en vue d'établir les droits d'une Partie au titre du présent accord.
 
-=[Z/ol-none/s4]
+=[G/Z/ol-none/s4]
 
 « Modèles Jurismatic fournis sous licence Creative Commons BY-NC-SA 3.0 FR » Des changements ont eu lieu par rapport aux textes originaux.

@@ -52,4 +52,4 @@ Publicity.Sec=<u>Publicity</u>.&nbsp; In addition to the other confidentiality o
 
 Monitor.Sec=<u>System Monitoring</u>.&nbsp; {RP} agrees that the {DP} may, at any time, without further consent, access and monitor any usage by {RP} or {RP Personnel} of any {DP} information, systems and resources, including without limitation: computers, computer software, electronic mail, online services, voicemail, facsimile machines, telephones and photocopiers.
 
-=[Z/ol/0]
+=[G/Z/ol/0]

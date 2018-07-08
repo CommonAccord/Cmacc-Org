@@ -12,4 +12,4 @@ Ti=Reading on Blockchain and P2P transacting
 
 3.sec=Superb article framing the impact of blockchain: <a href="https://medium.com/@ConsenSys/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.mbz4a9w2i">Programmable Blockchains in Context: Ethereum's Future</a>
 
-=[Z/ol/3]
+=[G/Z/ol/3]

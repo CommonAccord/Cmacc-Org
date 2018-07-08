@@ -14,7 +14,7 @@ Ti=Definitions
 
 3.4.sec=at least 180 days prior to the {Discontinuation_Date} is communicated reasonably and promptly, along with the URL of the website mentioned in subsection (c) of this provision, by the discontinuing {DPL_User} to every {Licensor} of a {Patent} to which the discontinuing {DPL_User} is a {Licensee}.
 
-3.=[Z/ol-none/s4]
+3.=[G/Z/ol-none/s4]
 
 4.sec="{Discontinuation_Date}" means the date a {DPL_User} specifies in its {Discontinuation_Announcement} to discontinue offering to license its {Licensed_Patents} under the {DPL}, which must be at least 180 days after the date of an individual or entity's most recent {Discontinuation_Announcement}.
 
@@ -30,7 +30,7 @@ Ti=Definitions
 
 6.4.sec=has not engaged in the conduct described in either Sections 2(e)(i) or 2(e)(ii).
 
-6.=[Z/ol-none/s4]
+6.=[G/Z/ol-none/s4]
 
 7.sec="{Effective_Filing_Date}" is the effective filing date determined by the applicable patent office that issued the relevant {Licensed_Patent}.
 
@@ -54,8 +54,8 @@ Ti=Definitions
 
 13.00.sec=An {Offering_Announcement} may, but is not required to, specify the particular version of the {DPL} that the {Licensor} is committed to offering. It may also specify a particular version of the {DPL} "or any later version" to allow {Licensees} to accept subsequent new or revised versions of the {DPL}.
 
-13.=[Z/ol-none/s3]
+13.=[G/Z/ol-none/s3]
 
 14.sec="{Patent}" means any right, whether now or later acquired, under any national or international patent law issued by a governmental body authorized to issue such rights. For clarity, this definition includes any rights that may arise in patent applications, utility models, granted patents, including, but not limited to, continuations, continuations-in-part, divisionals, provisionals, results of any patent reexaminations, and reissues, but excluding design patents or design registrations.
 
-=[Z/ol-none/s14]
+=[G/Z/ol-none/s14]

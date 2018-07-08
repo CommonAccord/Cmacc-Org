@@ -8,4 +8,4 @@ Ti=What
 
 3.Ti=Prohibited
 
-=[Z/ol/3]
+=[G/Z/ol/3]

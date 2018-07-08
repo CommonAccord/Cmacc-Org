@@ -24,10 +24,10 @@ Ti=Change of Control Protection
 
 2.3.7.sec=n: is the number of calendar days from (and including) the Settlement Date to (but excluding) the date of the {Change_of_Control_Event}.
 
-2.3.=[Z/ol-none/s7]
+2.3.=[G/Z/ol-none/s7]
 
-2.=[Z/ol-none/s3]
+2.=[G/Z/ol-none/s3]
 
-=[Z/ol-a/s2]
+=[G/Z/ol-a/s2]
 
 

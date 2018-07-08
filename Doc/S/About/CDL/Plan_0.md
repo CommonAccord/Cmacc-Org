@@ -8,7 +8,7 @@ Ti=Plan
 
 1.2.sec=Collaboration leading up to the conference. Inclusion of experts, iteration of solutions.
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.=[S/About/CDL/Proponents_0.md]
 
@@ -20,4 +20,4 @@ Ti=Plan
 
 4.sec=TBD
 
-=[Z/ol/4]
+=[G/Z/ol/4]

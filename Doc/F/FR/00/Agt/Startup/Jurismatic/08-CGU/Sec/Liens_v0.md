@@ -6,4 +6,4 @@ Ti=Liens et sites tiers
 
 3.sec={P1.Handle} n'est pas non plus responsable des transactions intervenues entre l'Utilisateur et un quelconque annonceur, professionnel ou commerçant (y compris ses éventuels partenaires) vers lequel l'Utilisateur serait orienté par l'intermédiaire du site et ne saurait en aucun cas être partie à quelques litiges éventuels que ce soit avec ces tiers concernant notamment la livraison de produits et/ou services, les garanties, déclarations et autres obligations quelconques auxquelles ces tiers sont tenus.
 
-=[Z/paras/s3]
+=[G/Z/paras/s3]

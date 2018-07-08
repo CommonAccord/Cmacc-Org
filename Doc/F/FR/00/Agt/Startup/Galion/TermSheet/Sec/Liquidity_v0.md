@@ -14,8 +14,8 @@ Ti=Liquidity
 
 2.4.2.sec=(ii) this clause shall not be subject to the Right of First Refusal. 
 
-2.4.=[Z/para/s2]
+2.4.=[G/Z/para/s2]
 
-2.=[Z/para/s4]
+2.=[G/Z/para/s4]
 
-=[Z/para/s2]
+=[G/Z/para/s2]

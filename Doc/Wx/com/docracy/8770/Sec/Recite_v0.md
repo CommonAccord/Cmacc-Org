@@ -6,4 +6,4 @@ Ti=Recitals
 
 3.sec=Licensee desires to obtain, and Licensor has agreed to grant, a license authorizing the use of the Work by Licensee in accordance with the terms and conditions of this Agreement.
 
-=[Z/ol-none/s3]
+=[G/Z/ol-none/s3]

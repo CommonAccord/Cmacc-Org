@@ -8,4 +8,4 @@ GDPR.=[Wx/eu/europa/eur-lex/GDPR/Form/0.md]
 
 MVCR.=[GH/KantaraInitiative/ConsentReceipt/MVCR/Requirements/0.md]
 
-=[Z/ol/s1]
+=[G/Z/ol/s1]

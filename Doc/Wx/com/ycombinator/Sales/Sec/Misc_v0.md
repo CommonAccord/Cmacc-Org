@@ -23,4 +23,4 @@ Note=choice of law is frequently negotiated.  Most often, you will propose your 
 
 Misc.Press.Sen=The parties shall work together in good faith to issue at least one mutually agreed upon press release within 90 days of the Effective Date, and {Customer} otherwise agrees to reasonably cooperate with {Company} to serve as a reference account upon request.
 
-=[Z/ol/0]
+=[G/Z/ol/0]

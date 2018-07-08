@@ -8,4 +8,4 @@ sec={1.Sen} {2.Sen} {3.Sen}
 
 3.Sen=The sale of the {Notes} and the subsequent issuance of the {Conversion_Securities} are not and will not be subject to any preemptive rights or rights of first refusal that have not been properly waived or complied with.
 
-=[Z/ol/1]
+=[G/Z/ol/1]

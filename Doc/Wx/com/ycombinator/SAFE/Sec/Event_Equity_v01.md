@@ -42,6 +42,6 @@ MFN.2.1.2.cl={Preferred_Stock}
 
 2.2.sec={The_Investor} and {the_Company} will execute a {Pro_Rata_Rights_Agreement}, unless {the_Investor} is already included in such rights in the transaction documents related to the {Equity_Financing}.
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

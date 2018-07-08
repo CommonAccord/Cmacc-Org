@@ -17,7 +17,7 @@ Head.sec={Co.Name.Full}<p>SERIES AA PREFERRED STOCK PURCHASE AGREEMENT</p><p>{AG
 
 1.2.sec=Subject to the terms and conditions of this Agreement, each Investor agrees, severally and not jointly, to purchase, and the Company agrees to sell and issue to each Investor, the number of Shares set forth in the column designated "Number of Series AA Shares" opposite such Investor's name on the Schedule of Investors, at a cash purchase price of {Cap.AA.Offered.Price.$} per share (the "<strong>Purchase Price</strong>"). The Company's agreement with each Investor is a separate agreement, and the sale and issuance of the Shares to each Investor is a separate sale and issuance.
 
-1.=[Z/ol/2]
+1.=[G/Z/ol/2]
 
 2.Ti=Closing Dates and Delivery
 
@@ -33,7 +33,7 @@ Closing.RD=the Company's offices at {Co.Adr.1,2}, at {Closing.Time} local time o
 
 2.1.3.Sec=Immediately after each Closing, the Schedule of Investors will be amended to list the Investors purchasing Shares hereunder and the number of Shares issued to each Investor hereunder at each such Closing. The Company will furnish to each Investor copies of the amendments to the Schedule of Investors referred to in the preceding sentence.
 
-2.1.=[Z/ol/3]
+2.1.=[G/Z/ol/3]
 
 2.2.Ti=Delivery
 
@@ -41,7 +41,7 @@ Closing.RD=the Company's offices at {Co.Adr.1,2}, at {Closing.Time} local time o
 
 2.2.FormsOfPayment=(a) check payable to the Company, (b) wire transfer in accordance with the Company's instructions, (c) cancellation of indebtedness or (d) any combination of the foregoing. In the event that payment by an Investor is made, in whole or in part, by cancellation of indebtedness, then such Investor shall surrender to the Company for cancellation at the Closing any evidence of indebtedness or shall execute an instrument of cancellation in form and substance acceptable to the Company
 
-2.=[Z/ol/2]
+2.=[G/Z/ol/2]
 
 3.Sec={cRep.Sec}
 
@@ -67,11 +67,11 @@ cRep.2.3.2.sec=shares of Common Stock (as may be adjusted in accordance with the
 
 cRep.2.3.3.sec={Cap.Common.Plan.Auth.#} shares of Common Stock authorized for issuance to employees, consultants and directors pursuant to its {Cap.Common.Plan.Name} Stock Plan, under which options to purchase {Cap.Common.Plan.Issued.#} shares are issued and outstanding as of the date of this Agreement
 
-cRep.2.3.=[Z/ol/s3]
+cRep.2.3.=[G/Z/ol/s3]
 
 cRep.2.4.sec=The Shares, when issued and delivered and paid for in compliance with the provisions of this Agreement, will be validly issued, fully paid and nonassessable. The Conversion Shares have been duly and validly reserved and, when issued in compliance with the provisions of this Agreement, the Restated Certificate and applicable law, will be validly issued, fully paid and nonassessable. The Shares and the Conversion Shares will be free of any liens or encumbrances, other than any liens or encumbrances created by or imposed upon the Investors; <em>provided, however</em>, that the Shares and the Conversion Shares are subject to restrictions on transfer under U.S. state and/or federal securities laws and as set forth herein and in the Rights Agreement. Except as set forth in the Rights Agreement, the Shares and the Conversion Shares are not subject to any preemptive rights or rights of first refusal.
 
-cRep.2.=[Z/ol/s4]
+cRep.2.=[G/Z/ol/s4]
 
 cRep.3.Ti=Authorization
 
@@ -107,7 +107,7 @@ cRep.10.Ti=Tax Returns and Payments
 
 cRep.10.sec=The Company has timely filed all tax returns required to be filed by it with appropriate federal, state and local governmental agencies, except where the failure to do so would not have a Material Adverse Effect. These returns and reports are true and correct in all material respects. All taxes shown to be due and payable on such returns, any assessments imposed, and, to the Company's knowledge, all other taxes due and payable by the Company on or before the Initial Closing have been paid or will be paid prior to the time they become delinquent.
 
-cRep.=[Z/ol/10]
+cRep.=[G/Z/ol/10]
 
 4.Sec={iRep.Sec}
 
@@ -159,7 +159,7 @@ iRep.10.2.sec=The Agreements, when executed and delivered by the Investor, will 
 
 iRep.10.3.sec=No consent, approval, authorization, order, filing, registration or qualification of or with any court, governmental authority or third person is required to be obtained by the Investor in connection with the execution and delivery of the Agreements by the Investor or the performance of the Investor's obligations hereunder or thereunder.
 
-iRep.10.=[Z/ol/s3]
+iRep.10.=[G/Z/ol/s3]
 
 iRep.11.Ti=Brokers or Finders
 
@@ -175,7 +175,7 @@ iRep.13.sec=Such Investor understands and agrees that the certificates evidencin
 
 iRep.13.Legend="THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR THE SECURITIES LAWS OF ANY STATE, AND MAY NOT BE SOLD, TRANSFERRED, ASSIGNED, PLEDGED OR HYPOTHECATED UNLESS AND UNTIL REGISTERED UNDER SUCH ACT AND/OR APPLICABLE STATE SECURITIES LAWS, OR UNLESS THE COMPANY HAS RECEIVED AN OPINION OF COUNSEL OR OTHER EVIDENCE, REASONABLY SATISFACTORY TO THE COMPANY AND ITS COUNSEL, THAT SUCH REGISTRATION IS NOT REQUIRED."
 
-iRep.=[Z/ol/13]
+iRep.=[G/Z/ol/13]
 
 5.Ti=Conditions to Investors' Obligations to Close
 
@@ -207,7 +207,7 @@ iRep.=[Z/ol/13]
 
 5.6.BdMembers.Sec=<b>Board of Directors</b><br>The authorized size of the Board of Directors shall be {Co.Bd.Seat.Auth.#}, and the members of the Board of Directors shall be {Co.Bd.Member.List}.
 
-5.=[Z/ol/5]
+5.=[G/Z/ol/5]
 
 6.Ti=Conditions to Company's Obligation to Close
 
@@ -233,7 +233,7 @@ iRep.=[Z/ol/13]
 
 6.5.sec= The Company and the Investors shall have executed and delivered the Rights Agreement.
 
-6.=[Z/ol/5]
+6.=[G/Z/ol/5]
 
 7.Ti=Miscellaneous
 
@@ -251,13 +251,13 @@ iRep.=[Z/ol/13]
 
 7.2.1.3.sec=if to the Company, one copy should be sent to {Co.N,A}, {Co.Fax}, Attn: Chief Executive Officer, or at such other address as the Company shall have furnished to the Investors.
 
-7.2.1.=[Z/ol/s3]
+7.2.1.=[G/Z/ol/s3]
 
 7.2.2.sec=With respect to any notice given by the Company under any provision of the {Co.Register.Law.Corp.Title} or the Company's charter or bylaws, each Investor agrees that such notice may be given by facsimile or by electronic mail.
 
 7.2.3.sec=Each such notice or other communication shall for all purposes of this Agreement be treated as effective or having been given when delivered if delivered personally, or, if sent by mail, at the earlier of its receipt or 72 hours after the same has been deposited in a regularly maintained receptacle for the deposit of the United States mail, addressed and mailed as aforesaid or, if sent by facsimile, upon confirmation of facsimile transfer or, if sent by electronic mail, upon confirmation of delivery when directed to the electronic mail address set forth on the Schedule of Investors.
 
-7.2.=[Z/ol/s3]
+7.2.=[G/Z/ol/s3]
 
 7.3.Ti=Governing Law
 
@@ -291,13 +291,13 @@ iRep.=[Z/ol/13]
 
 7.10.sec= A facsimile, telecopy or other reproduction of this Agreement may be executed by one or more parties hereto and delivered by such party by facsimile or any similar electronic transmission device pursuant to which the signature of or on behalf of such party can be seen. Such execution and delivery shall be considered valid, binding and effective for all purposes. At the request of any party hereto, all parties hereto agree to execute and deliver an original of this Agreement as well as any facsimile, telecopy or other reproduction hereof.
 
-7.=[Z/ol/10]
+7.=[G/Z/ol/10]
 
 00.sec={US.Frame.Sign.Block}<hr>{Exh.A}
 
 US.Frame.Sign.Block={Co.US.Frame.Sign.Block}<br>{Inv.1.US.Frame.Sign.Block}
 
-=[Z/ol/7]
+=[G/Z/ol/7]
 
 Sec={Doc}
 

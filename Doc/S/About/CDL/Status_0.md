@@ -12,4 +12,4 @@ Ti=Status - Convergence of Blockchain, Legal and Access Security
 
 00.sec=The combination of Blockchain/Cmacc/Access is ripe for open-source iteration.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

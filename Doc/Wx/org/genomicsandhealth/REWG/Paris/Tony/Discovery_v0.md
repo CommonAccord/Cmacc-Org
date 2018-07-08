@@ -12,7 +12,7 @@ Ti=Discovery
 
 1.5.sec=Utility
 
-1.=[Z/ol/s5]
+1.=[G/Z/ol/s5]
 
 2.Ti=Abstraction
 
@@ -26,6 +26,6 @@ Ti=Discovery
 
 2.5.sec=Raw Data
 
-2.=[Z/ol/s5]
+2.=[G/Z/ol/s5]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

@@ -12,7 +12,7 @@ Ti=Optional Conversion
 
 1.2.sec=In the event of a notice of redemption of any shares of Series A Preferred Stock pursuant to Section 6, the Conversion Rights of the shares designated for redemption shall terminate at the close of business on the last full day preceding the date fixed for redemption, unless the redemption price is not fully paid on such redemption date, in which case the Conversion Rights for such shares shall continue until such price is paid in full.  In the event of a liquidation, dissolution or winding up of the Corporation or a Deemed Liquidation Event, the Conversion Rights shall terminate at the close of business on the last full day preceding the date fixed for the payment of any such amounts distributable on such event to the holders of Series A Preferred Stock.
 
-1.=[Z/ol/2]
+1.=[G/Z/ol/2]
 
 2.Ti=Fractional Shares
 
@@ -40,7 +40,7 @@ Ti=Optional Conversion
 
 3.5.sec=The Corporation shall pay any and all issue and other similar taxes that may be payable in respect of any issuance or delivery of shares of Common Stock upon conversion of shares of Series A Preferred Stock pursuant to this Section 4.  The Corporation shall not, however, be required to pay any tax which may be payable in respect of any transfer involved in the issuance and delivery of shares of Common Stock in a name other than that in which the shares of Series A Preferred Stock so converted were registered, and no such issuance or delivery shall be made unless and until the person or entity requesting such issuance has paid to the Corporation the amount of any such tax or has established, to the satisfaction of the Corporation, that such tax has been paid.
 
-3.=[Z/ol/5]
+3.=[G/Z/ol/5]
 
 4.Ti=Adjustments to Series A Conversion Price for Diluting Issues
 
@@ -72,9 +72,9 @@ Ti=Optional Conversion
 
 4.1.4.8.sec=shares of Common Stock, Options or Convertible Securities issued in connection with sponsored research, collaboration, technology license, development, OEM, marketing or other similar agreements or strategic partnerships approved by the Board of Directors of the Corporation[, including the Series A Directors][, including at least one Series A Director][that do not exceed an aggregate of [______] shares of Common Stock (including shares underlying (directly or indirectly) any such Options or Convertible Securities)].
 
-4.1.4.=[Z/ol/s8]
+4.1.4.=[G/Z/ol/s8]
 
-4.1.=[Z/ol/s4]
+4.1.=[G/Z/ol/s4]
 
 4.2.Ti=No Adjustment of Series A Conversion Price
 
@@ -92,7 +92,7 @@ Ti=Optional Conversion
 
 4.3.5.sec=If the number of shares of Common Stock issuable upon the exercise, conversion and/or exchange of any Option or Convertible Security, or the consideration payable to the Corporation upon such exercise, conversion and/or exchange, is calculable at the time such Option or Convertible Security is issued or amended but is subject to adjustment based upon subsequent events, any adjustment to the Series A Conversion Price provided for in this Subsection 4.4.3 shall be effected at the time of such issuance or amendment based on such number of shares or amount of consideration without regard to any provisions for subsequent adjustments (and any subsequent adjustments shall be treated as provided in clauses (b) and (c) of this Subsection 4.4.3).  If the number of shares of Common Stock issuable upon the exercise, conversion and/or exchange of any Option or Convertible Security, or the consideration payable to the Corporation upon such exercise, conversion and/or exchange, cannot be calculated at all at the time such Option or Convertible Security is issued or amended, any adjustment to the Series A Conversion Price that would result under the terms of this Subsection 4.4.3 at the time of such issuance or amendment shall instead be effected at the time such number of shares and/or amount of consideration is first calculable (even if subject to subsequent adjustments), assuming for purposes of calculating such adjustment to the Series A Conversion Price that such issuance or amendment took place at the time such calculation can first be made.  
 
-4.3.=[Z/ol/s5]
+4.3.=[G/Z/ol/s5]
 
 4.4.Ti=Adjustment of Series A Conversion Price Upon Issuance of Additional Shares of Common Stock
 
@@ -108,7 +108,7 @@ Ti=Optional Conversion
 
 4.4.5.sec="C" shall mean the number of such Additional Shares of Common Stock issued in such transaction. 
 
-4.4.=[Z/ol/s5]
+4.4.=[G/Z/ol/s5]
 
 
 4.4.Ti=Adjustment of Series A Conversion Price Upon Issuance of Additional Shares of Common Stock
@@ -129,7 +129,7 @@ Ti=Optional Conversion
 
 4.5.1.3.sec=in the event Additional Shares of Common Stock are issued together with other shares or securities or other assets of the Corporation for consideration which covers both, be the proportion of such consideration so received, computed as provided in clauses (i) and (ii) above, as determined in good faith by the Board of Directors of the Corporation.
 
-4.5.1.=[Z/ol/s3]
+4.5.1.=[G/Z/ol/s3]
 
 
 4.5.2.Ti=Options and Convertible Securities
@@ -140,15 +140,15 @@ Ti=Optional Conversion
 
 4.5.2.2.sec=the maximum number of shares of Common Stock (as set forth in the instruments relating thereto, without regard to any provision contained therein for a subsequent adjustment of such number) issuable upon the exercise of such Options or the conversion or exchange of such Convertible Securities, or in the case of Options for Convertible Securities, the exercise of such Options for Convertible Securities and the conversion or exchange of such Convertible Securities.
 
-4.5.2.=[Z/ol/s2]
+4.5.2.=[G/Z/ol/s2]
 
-4.5.=[Z/ol/2]
+4.5.=[G/Z/ol/2]
 
 4.6.Ti=Multiple Closing Dates
 
 4.6.sec=In the event the Corporation shall issue on more than one date Additional Shares of Common Stock that are a part of one transaction or a series of related transactions and that would result in an adjustment to the Series A Conversion Price pursuant to the terms of Subsection 4.4.4[, and such issuance dates occur within a period of no more than [ninety (90)] days from the first such issuance to the final such issuance,] then, upon the final such issuance, the Series A Conversion Price shall be readjusted to give effect to all such issuances as if they occurred on the date of the first such issuance (and without giving effect to any additional adjustments as a result of any such subsequent issuances within such period).
 
-4.=[Z/ol/6]
+4.=[G/Z/ol/6]
 
 5.Ti=Adjustment for Stock Splits and Combinations
 
@@ -163,7 +163,7 @@ Ti=Optional Conversion
 6.2.sec=the denominator of which shall be the total number of shares of Common Stock issued and outstanding immediately prior to the time of such issuance or the close of business on such record date plus the number of shares of Common Stock issuable in payment of such dividend or distribution.
 Notwithstanding the foregoing (a) if such record date shall have been fixed and such dividend is not fully paid or if such distribution is not fully made on the date fixed therefor, the Series A Conversion Price shall be recomputed accordingly as of the close of business on such record date and thereafter the Series A Conversion Price shall be adjusted pursuant to this subsection as of the time of actual payment of such dividends or distributions; and (b) that no such adjustment shall be made if the holders of Series A Preferred Stock simultaneously receive a dividend or other distribution of shares of Common Stock in a number equal to the number of shares of Common Stock as they would have received if all outstanding shares of Series A Preferred Stock had been converted into Common Stock on the date of such event.
 
-6.=[Z/ol/s2]
+6.=[G/Z/ol/s2]
 
 7.Ti=Adjustments for Other Dividends and Distributions
 
@@ -187,6 +187,6 @@ Notwithstanding the foregoing (a) if such record date shall have been fixed and 
 
 10.3.sec=of the voluntary or involuntary dissolution, liquidation or winding-up of the Corporation, then, and in each such case, the Corporation will send or cause to be sent to the holders of the Series A Preferred Stock a notice specifying, as the case may be, (i) the record date for such dividend, distribution or right, and the amount and character of such dividend, distribution or right, or (ii) the effective date on which such reorganization, reclassification, consolidation, merger, transfer, dissolution, liquidation or winding-up is proposed to take place, and the time, if any is to be fixed, as of which the holders of record of Common Stock (or such other capital stock or securities at the time issuable upon the conversion of the Series A Preferred Stock) shall be entitled to exchange their shares of Common Stock (or such other capital stock or securities) for securities or other property deliverable upon such reorganization, reclassification, consolidation, merger, transfer, dissolution, liquidation or winding-up, and the amount per share and character of such exchange applicable to the Series A Preferred Stock and the Common Stock.  Such notice shall be sent at least [ten (10)] days prior to the record date or effective date for the event specified in such notice.
 
-10.=[Z/ol/s3]
+10.=[G/Z/ol/s3]
 
-=[Z/ol/10]
+=[G/Z/ol/10]

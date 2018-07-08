@@ -49,4 +49,4 @@ Ti=Miscellaneous
 12.sec=This Agreement shall be governed by and construed in accordance with the laws of the State of Oregon (without reference to choice of law doctrine), except to the extent the Parties’ rights and obligations are required to be governed by United States Federal law, then such rights and obligations shall be governed by United States Federal law. (m) Equal Employment Opportunity Compliance Certification Seller acknowledges that BPA is subject to various Federal laws, executive orders, and regulations regarding equal employment opportunity and affirmative action. Only to the extent that such Federal laws, executive orders and regulations are applicable to Seller as a vendor to BPA due to the sale of Energy Output under the terms of this Agreement and are required by law to be incorporated herein, such Federal laws, executive orders and regulations, including, but not limited to, 41 C.F.R. § 60-1.4(a)(1-7), are incorporated by reference into this Agreement.
 
 
-=[Z/ol-a/12]
+=[G/Z/ol-a/12]

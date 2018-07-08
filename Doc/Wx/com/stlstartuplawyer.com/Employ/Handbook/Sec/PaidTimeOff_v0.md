@@ -26,7 +26,7 @@ Ti=Paid Time Off
 
 4.Alt3.sec={You may carry over unused PTO from year to year and will be paid any accrued but unused balance upon separation from employment.  There is no maximum carryover.}
 
-4.=[Z/Alt/3]
+4.=[G/Z/Alt/3]
 
 5.Ti=Termination
 
@@ -36,7 +36,7 @@ Ti=Paid Time Off
 
 5.Alt2.sec=All unused PTO is forfeited upon termination of employment for any reason and you will not be paid for any unused PTO at the time your employment ends.
 
-5.=[Z/Alt/2]
+5.=[G/Z/Alt/2]
 
 Note=Some states do not permit forfeiture of PTO upon termination for cause.
 
@@ -53,7 +53,7 @@ Note=Some states do not permit forfeiture of PTO upon termination for cause.
 
 8.2.sec=In order to ensure continuity of business operations, supervisors may limit the number of employees to which they grant approved time off at any one time.  If more than one employee requests the same period of time off, approval is granted by {employee seniority {if the time period is over three months away}.  Approval is granted by the order the request is received if the filing periods is less than three months away}. While you are encouraged to use your PTO, requests for PTO may not exceed {10} consecutive business days.
 
-8.=[Z/ol/s2]
+8.=[G/Z/ol/s2]
 
 9.Ti=Compulsory Use of PTO
 
@@ -66,4 +66,4 @@ Note=Some states do not permit forfeiture of PTO upon termination for cause.
 
 11.sec=You must complete an Absence Report for all PTO time used.  We are required to track absences for illness, work related illness/injury, or the attendance of school related activities for legal compliance reasons. The amount of PTO accrued, used and available will appear on your paycheck stub.
 
-=[Z/ol/11]
+=[G/Z/ol/11]

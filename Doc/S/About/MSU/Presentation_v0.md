@@ -14,4 +14,4 @@ Ti=CommonAccord - bringing the world to agreement
 
 7.=[S/About/MSU/Sec/Whither_v0.md]
 
-=[Z/ol/6]
+=[G/Z/ol/6]

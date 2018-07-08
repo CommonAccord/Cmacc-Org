@@ -24,11 +24,11 @@ Ti=TERMS AND CONDITIONS
 
 1.2.2.Alt2.sec=in accordance with {Company}'s standard practice
 
-1.2.2.=[Z/Alt/2]
+1.2.2.=[G/Z/Alt/2]
 
 1.2.2.SecName=1.2.2
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=Restrictions and Responsibilities
 
@@ -48,11 +48,11 @@ Note=many larger customers resist these types of indemnity clauses.  The decisio
 
 2.3.3.sec=Although {Company} has no obligation to monitor {Customer}'s use of the Services, {Company} may do so and may prohibit any use of the Services it believes may be (or alleged to be) in violation of the foregoing.
 
-2.3.=[Z/para/s3]
+2.3.=[G/Z/para/s3]
 
 2.4.sec={Customer} shall be responsible for obtaining and maintaining any equipment and ancillary services needed to connect to, access or otherwise use the Services, including, without limitation, modems, hardware, servers, software, operating systems, networking, web servers and the like (collectively, "Equipment").  {Customer} shall also be responsible for maintaining the security of the Equipment, {Customer} account, passwords (including but not limited to administrative and user passwords) and files, and for all uses of {Customer} account or the Equipment with or without {Customer}'s knowledge or consent.
 
-2.=[Z/ol/s4] 
+2.=[G/Z/ol/s4] 
 
 3.Ti=Confidentiality; Proprietary Rights
 
@@ -78,7 +78,7 @@ Note= it is important to determine what data rights are necessary for the compan
 
 3.3.2.Sen=No rights or licenses are granted except as expressly set forth herein.   
 
-3.=[Z/ol/s3] 
+3.=[G/Z/ol/s3] 
 
 
 4.Ti=Payment of Fees
@@ -88,7 +88,7 @@ Note= it is important to determine what data rights are necessary for the compan
 4.2.sec={Company} may choose to bill through an invoice, in which case, full payment for invoices issued in any given month must be received by {Company} thirty (30) days after the mailing date of the invoice.  Unpaid amounts are subject to a finance charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection and may result in immediate termination of Service. {Customer} shall be responsible for all taxes associated with Services other than U.S. taxes based on {Company}'s net income.  
 
 
-4.=[Z/ol/s2] 
+4.=[G/Z/ol/s2] 
 
 5.Ti=Term and Termination
 
@@ -102,9 +102,9 @@ Note=Confirm appropriate language for customer  data retrieval upon termination,
 
 5.2.3.sec=All sections of this Agreement which by their nature should survive termination will survive termination, including, without limitation, accrued rights to payment, confidentiality obligations, warranty disclaimers, and limitations of liability.
 
-5.2.=[Z/para/s3] 
+5.2.=[G/Z/para/s3] 
 
-5.=[Z/ol/s2] 
+5.=[G/Z/ol/s2] 
 
 6.Ti=Warranty and Disclaimer
 
@@ -129,7 +129,7 @@ Note=OPTIONAL: there are several variations on these concepts that could be used
 
 00.sec=<center><b>EXHIBIT A</b></center><br>{SOW.Sec}<hr><center><b>EXHIBIT B</b></center><br>{SLA.Sec}<hr><center><b>EXHIBIT C</b></center><br>{Support.Sec}<hr>
 
-=[Z/ol/9] 
+=[G/Z/ol/9] 
  
 
 EXHIBIT A
@@ -148,7 +148,7 @@ SOW.3.sec=Providing documentation
 
 SOW.4.sec=Custom development work (one-time)
 
-SOW.=[Z/ol/s4]
+SOW.=[G/Z/ol/s4]
  
 EXHIBIT B
 
@@ -158,7 +158,7 @@ Note=OPTIONAL: the language below is an example of a very simple short-form SLA.
 
 SLA.sec=The Services shall be available 99.9%, measured monthly, excluding holidays and weekends and scheduled maintenance.  If {Customer} requests maintenance during these hours, any uptime or downtime calculation will exclude periods affected by such maintenance.  Further, any downtime resulting from outages of third party connections or utilities or other reasons beyond {Company}'s control will also be excluded from any such calculation. {Customer}'s sole and exclusive remedy, and {Company}'s entire liability, in connection with Service availability shall be that for each period of downtime lasting longer than {Downtime.Period}, {Company} will credit {Customer} 5% of Service fees for each period of 30 or more consecutive minutes of downtime; provided that no more than one such credit will accrue per day.  Downtime shall begin to accrue as soon as {Customer} (with notice to {Company}) recognizes that downtime is taking place, and continues until the availability of the Services is restored.  In order to receive downtime credit, {Customer} must notify {Company} in writing within 24 hours from the time of downtime, and failure to provide such notice will forfeit the right to receive downtime credit.  Such credits may not be redeemed for cash and shall not be cumulative beyond a total of credits for one (1) week of Service Fees in any one (1) calendar month in any event.  {Company} will only apply a credit to the month in which the incident occurred.  {Company}'s blocking of data communications or other Service in accordance with its policies shall not be deemed to be a failure of {Company} to provide adequate service levels under this Agreement.
 
-SLA.=[Z/ol/1] 
+SLA.=[G/Z/ol/1] 
 
 EXHIBIT C
 
@@ -172,6 +172,6 @@ Support.2.sec={Customer} may initiate a helpdesk ticket during Support Hours by 
 
 Support.3.sec={Company} will use commercially reasonable efforts to respond to all Helpdesk tickets within one (1) business day.
 
-Support.=[Z/ol/s3]
+Support.=[G/Z/ol/s3]
   
 Customer_Data=<font color="green">Customer Data</font>

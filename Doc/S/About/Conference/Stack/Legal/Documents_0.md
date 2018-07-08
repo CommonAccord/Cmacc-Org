@@ -14,4 +14,4 @@ Ti=Legal Documents
 
 00.sec=</center>
 
-=[Z/paras/s5]
+=[G/Z/paras/s5]

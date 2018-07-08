@@ -28,4 +28,4 @@ Ti=<a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD</
 
 00.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Access_0.md">Access</a>.
   
-=[Z/ol/6]
+=[G/Z/ol/6]

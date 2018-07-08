@@ -6,6 +6,6 @@ Ti=Confidentiality
 
 sec=<ol><li>{Def.Sec}<li>{Engage.Sec}<li>{Exclude.Sec}<li>{Except.Sec}<li>{Copy.Sec}<li>{Decompile.Sec}<li>{Term.Sec}</ol>
 
-=[Z/ol/0]
+=[G/Z/ol/0]
 
 Model.Root={List}

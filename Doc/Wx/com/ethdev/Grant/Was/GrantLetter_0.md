@@ -12,7 +12,7 @@ Doc.Title=Private and Confidential  ÐΞVgrant Scheme – Offer Letter
 
 2.2.sec=You shall use the DEVgrant only for the delivery of the Project and shall comply at all times with the terms and conditions of the Scheme set out at Appendix 2 to this Letter (the Conditions​). The DEVgrant shall not be used for any other purpose without our prior written agreement.
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
 3.Ti=Payment of Grant
 
@@ -24,11 +24,11 @@ Doc.Title=Private and Confidential  ÐΞVgrant Scheme – Offer Letter
 
 3.1.3.sec={Pay.3.$} within 30 days of our receipt of your final report on the Project.
 
-3.1.=[Z/ol/s3]
+3.1.=[G/Z/ol/s3]
 
 3.2.sec=Subject to the provisions of this Letter, we shall pay the DEVgrant into your bank account at:<br>{P2.BankCoordinates}
 
-3.=[Z/ol/s2]
+3.=[G/Z/ol/s2]
 
 4.Ti=Next Steps
 
@@ -44,11 +44,11 @@ Doc.Title=Private and Confidential  ÐΞVgrant Scheme – Offer Letter
 
 00.5.sec=<hr><hr>{Attach.sec}
 
-00.=[Z/paras/s5]
+00.=[G/Z/paras/s5]
 
 00.Sec={00.sec}
 
-=[Z/ol-none/4]
+=[G/Z/ol-none/4]
 
 Sec={Doc}
 
@@ -64,4 +64,4 @@ Attach.3.0.sec=The Ethereum Project Contributor Asset Distribution Terms are tho
 
 Attach.3.=[Wx/com/ethdev/Grant/Was/ContributorLicense_0.md]
 
-Attach.=[Z/ol/3]
+Attach.=[G/Z/ol/3]

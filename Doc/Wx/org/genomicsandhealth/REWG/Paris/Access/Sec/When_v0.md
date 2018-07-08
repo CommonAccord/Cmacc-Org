@@ -8,5 +8,5 @@ Ti=When
 
 3.sec=destruction of records
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]
 

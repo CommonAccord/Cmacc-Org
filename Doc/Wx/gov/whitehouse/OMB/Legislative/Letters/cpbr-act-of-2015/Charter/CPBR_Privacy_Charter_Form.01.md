@@ -16,7 +16,7 @@ P1.Handle=<span class="person">Member Company</span>
 
 0.3.sec=The {Doc.Title} is presented so that you can see {P1.Handle}'s policy, but you can also click to see precisely the differences between our policy and the {Charter}, and you can see the way the {Charter}'s provisions correspond to the requirements of {the_Act}.  By clicking to see the {Charter}, you will also be able to see the comments and ratings collected by {Org.Handle} and to see how other members of {Org.Handle} use the {Charter}. 
 
-0.=[Z/paras/s3]
+0.=[G/Z/paras/s3]
 
 0.Ti=</i>
 

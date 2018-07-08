@@ -6,4 +6,4 @@ Ti=Future Law - Suggestions for CommonAccord-Related Projects
 
 3.=[GH/FutureCommerce/Projects/Sec/Tech_v0.md]
 
-=[Z/ol/3]
+=[G/Z/ol/3]

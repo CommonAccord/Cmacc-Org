@@ -8,7 +8,7 @@ Ti=PART ONE - GENERAL EMPLOYMENT INFORMATION
 
 1.2.sec=The company makes reasonable accommodations for qualified individuals with disabilities as required by law. Employees who would like to request a reasonable accommodation should contact {name/position/title}.
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=At-Will Employment
 
@@ -30,7 +30,7 @@ Note=Optional:
 
 4.2.sec={E-Verify provision for companies required to participate in the E-Verify Program (i.e. government contractors with contracts >$5,000)}
 
-4.=[Z/ol/s2]
+4.=[G/Z/ol/s2]
 
 5.Ti=Employment Applications
 
@@ -60,7 +60,7 @@ Note=Add, if applicable:
 
 7.2.2.sec=These employees will be eligible for benefits (such as medical, dental, vision, life insurance, etc.) as well as Paid Time Off and Holiday pay.}  Reduced Regular Employee status is only available to nonexempt employees.
 
-7.2.=[Z/ol/s2]
+7.2.=[G/Z/ol/s2]
 
 =Note:  This is an optional category.  The range of hours may be changed.  If this category is used, different hourly requirements can be set.  Eligibility for insurance benefits is determined by the individual benefit plans, which must be consulted in drafting the handbook benefit eligibility requirements.
 
@@ -82,7 +82,7 @@ JGH=Check this, which is a kind of half section:
 
 7.8.sec=Exempt Employees – Employees who are not eligible for overtime and in some cases also not subject to minimum wage regulations, in accordance with applicable federal, state and local wage and hour laws.  Exempt employees are paid a salary and are expected to work a sufficient number of hours to complete their assigned work duties and responsibilities to meet the goals and client service standards of the Company.
 
-7.=[Z/ol/s8]
+7.=[G/Z/ol/s8]
 
 8.Ti=New Employee Introductory Period
 
@@ -90,7 +90,7 @@ JGH=Check this, which is a kind of half section:
 
 8.2.sec=In your first days of employment, you will be provided with an overview of your job responsibilities and the Company’s policies, procedures and benefits. Your supervisor will spend time with you to ensure that you are aware of your job responsibilities during the first weeks of employment.  During the 90 day period, your supervisor will conduct an evaluation of your progress.  The purpose of this evaluation is to provide you and your supervisor with an opportunity to discuss your progress to assure that you understand your job responsibilities.  After 90 days, or at any time within the introductory period at the Company’s discretion, you will either be reclassified to regular employee status or your employment with the Company will end.  In special circumstances, an extension of the introductory period may be warranted.
 
-8.=[Z/ol/s2]
+8.=[G/Z/ol/s2]
 
 9.Ti=Personnel Records
 
@@ -102,7 +102,7 @@ JGH=Check this, which is a kind of half section:
 
 10.2.sec=Requests for employment verification for credit or mortgage purposes should be referred to {position/title}. Certain information will be provided only if the employee has signed a release.
 
-10.=[Z/ol/s2]
+10.=[G/Z/ol/s2]
 
 11.Alt1.Ti=Employment of Relatives
 
@@ -116,11 +116,11 @@ JGH=Check this, which is a kind of half section:
 
 11.Alt2.2.sec=In the event you become a spouse, partner, or relative by marriage with another employee after you begin employment, you must disclose this relationship to your supervisor.  The company reserves the right to take action to avoid actual, potential or perceived conflicts of interest or issues of favoritism from such relationships, which may include a transfer or reassignment, or if transfer or reassignment is not possible, separation from employment for either or both employees.
 
-11.Alt2.=[Z/ol/s2]
+11.Alt2.=[G/Z/ol/s2]
 
 11.SecName=1.11
 
-11.=[Z/Alt/2]
+11.=[G/Z/Alt/2]
 
 12.Alt1.Ti=Hours of Work
 
@@ -132,7 +132,7 @@ JGH=Check this, which is a kind of half section:
 
 12.SecName=1.12
 
-12.=[Z/Alt/2]
+12.=[G/Z/Alt/2]
 
 13.Ti=Flexible Work Arrangements
 
@@ -142,7 +142,7 @@ JGH=Check this, which is a kind of half section:
 
 13.3.sec=If an Alternate Work Arrangement is granted, {Company Name} has the right to cancel, suspend, or modify an employee's Alternate Work Arrangement privilege at any time, for any reason. An Alternate Work Arrangement is not a contract of employment and employment under any such arrangement remains at-will.  Daily and weekly work schedules, including Alternate Work Arrangements, can be modified at the Company’s discretion to meet changing business conditions, including but not limited to the Company’s need for employees to work overtime.
 
-13.=[Z/ol/s3]
+13.=[G/Z/ol/s3]
 
 14.Ti=Performance/Salary Reviews
 
@@ -160,7 +160,7 @@ Note=Assigment -> Assignment
 
 16.2.sec=All employees will be judged by the same performance standards and will be subject to scheduling demands, regardless of any existing outside work requirements. If it is determined that an employee’s outside work interferes with performance, safety or the ability to meet the requirements of {Company Name} as they are modified from time to time, the employee may be asked to terminate the outside employment if he/she desires to remain with {Company Name}.  Outside employment that constitutes a conflict of interest is prohibited. Employees also may not receive any income or material gain from individuals outside {Company Name} for materials produced or services rendered while performing their jobs with {Company Name} {optional: and you agree to sign the Company’s Confidentiality and Assigment of Intellectual Property Agreement.}
 
-16.=[Z/ol/s2]
+16.=[G/Z/ol/s2]
 
 17.Ti=Separation from Employment
 
@@ -170,7 +170,7 @@ Note=If paid:
 
 17.1.2.sec=This accrued, but unused balance will be paid upon resignation only if a minimum of a two weeks’ notice is provided and you work as scheduled during the entire two week notice period.  If two weeks’ notice is not provided, the balance of PTO owed will be forfeited.
 
-17.1.=[Z/para/s2]
+17.1.=[G/Z/para/s2]
 
 =Note:  Some states require payment of accrued vacation and/or leave time, which cannot be forfeited.  The Company should seek guidance for each state in which it has has employees in determining whether accrued benefits must be paid upon termination of employment.
 
@@ -180,10 +180,10 @@ Note=Optional:
 
 17.3.sec=The Company does not provide letters of recommendation for former employees. We will confirm position/title and dates of employment in response to inquiries from outside parties.  All reference requests must be directed to the President of the Company and no other Company employee is authorized to provide a response to any inquiries about a former employee’s employment.
 
-17.=[Z/ol/s3]
+17.=[G/Z/ol/s3]
 
 18.Ti=Return of Company Property
 
 18.sec=Any property issued to you by {Company Name}, such as software, computer equipment, databases, files, cell phones, chargers, keys, parking passes or credit card(s) must be returned at the time of your termination. You will be responsible for any lost or damaged items. The Company may take action to recoup any replacement costs, and/or seek the return of Company property through appropriate legal recourse.  In the event you fail to return Company property, the Company may deduct the value of any Company property that is not returned from your final paycheck.
 
-=[Z/ol/18]
+=[G/Z/ol/18]

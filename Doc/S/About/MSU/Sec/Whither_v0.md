@@ -10,4 +10,4 @@ Ti=Whither
 
 5.sec=the codes will need to have a light-weight governance structure, based in civil society. 
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]

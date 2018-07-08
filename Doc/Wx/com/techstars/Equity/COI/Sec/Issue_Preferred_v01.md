@@ -12,13 +12,13 @@
 
 1.2.3.sec=distributions to holders of Common Stock in accordance with Sections 3 and 4.
 
-1.2.=[Z/ol/s3]
+1.2.=[G/Z/ol/s3]
 
 1.3.sec=In the event dividends are paid on any share of Common Stock, the Company shall pay an additional dividend on all outstanding shares of Series Preferred in a per share amount equal (on an as-if-converted to Common Stock basis) to the amount paid or set aside for each share of Common Stock.  Such dividends shall be payable only when, as and if declared by the board of directors of the Company (the "Board").
 
 1.4.sec=The provisions of Sections 1(b) and 1(c) shall not apply to a dividend payable solely in Common Stock to which the provisions of Section 5(f) hereof are applicable, or any repurchase of any outstanding securities of the Company that is approved by the Board.
 
-1.=[Z/ol/s4]
+1.=[G/Z/ol/s4]
 
 2.=[Wx/com/techstars/Equity/COI/Sec/Issue_Preferred_Vote_v01.md]
 
@@ -28,7 +28,7 @@
 
 3.2.sec=After the payment of the full liquidation preference of the Series Preferred as set forth in Section 3(a) above, the remaining assets of the Company legally available for distribution, if any, shall be distributed ratably to the holders of the Common Stock.
 
-3.=[Z/ol/s2]
+3.=[G/Z/ol/s2]
 
 4.Ti=ACQUISITION AND ASSET TRANSFER  DEFINITIONS
 
@@ -38,7 +38,7 @@
 
 4.3.sec=In any Acquisition or Asset Transfer, if the consideration to be received is securities of a corporation or other property other than cash, its value will be deemed its fair market value as determined in good faith by the Board on the date such determination is made.
 
-4.=[Z/ol/s3]
+4.=[G/Z/ol/s3]
 
 5.=[Wx/com/techstars/Equity/COI/Sec/Issue_Preferred_Conversion_v01.md]
 
@@ -46,4 +46,4 @@
 
 6.sec=No share or shares of Series Preferred acquired by the Company by reason of redemption, purchase, conversion or otherwise shall be reissued.
 
-=[Z/ol/6]
+=[G/Z/ol/6]

@@ -14,4 +14,4 @@ Closing.Subsequent.Xref={Closing.Xref}.2
 
 3.sec=At the {Closing} and each {Additional_Closing} (i) each {Purchaser} shall deliver to {the_Company} a check or wire transfer funds in the amount of such {Purchaser}'s {Loan_Amount}; and (ii) {the_Company} shall issue and deliver to each {Purchaser} a {Note} in favor of such {Purchaser} payable in the principal amount of such {Purchaser}'s {Loan_Amount}.
 
-=[Z/ol/3]
+=[G/Z/ol/3]

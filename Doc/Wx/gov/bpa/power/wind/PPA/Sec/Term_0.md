@@ -8,4 +8,4 @@ Ti=Term
 
 2.sec=Applicable provisions of this Agreement shall continue in effect after termination to the extent necessary to provide for final billings and adjustments related to the period prior to termination, including repayment of any money due and owing to or by BPA pursuant to this Agreement.
 
-=[Z/ol-a/2]
+=[G/Z/ol-a/2]

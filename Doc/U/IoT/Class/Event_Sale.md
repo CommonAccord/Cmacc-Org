@@ -18,4 +18,4 @@ Ti=Sale Deed
 
 00.sec=Buyer: {Buyer.Name.Full}<br>Seller: {Seller.Sign.Block}
 
-=[Z/ol/3]
+=[G/Z/ol/3]

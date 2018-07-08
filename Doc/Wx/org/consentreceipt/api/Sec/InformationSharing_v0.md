@@ -12,4 +12,4 @@ Ti=Information Sharing
 
 3.sec={SharePurpose}
 
-=[Z/ol/3]
+=[G/Z/ol/3]

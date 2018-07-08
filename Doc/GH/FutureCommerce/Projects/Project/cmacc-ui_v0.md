@@ -4,4 +4,4 @@ Ti=cmacc-ui
 
 2.sec=<a href="https://github.com/zmon">Zmon</a>
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

@@ -12,7 +12,7 @@
 
 5.2.sec=Any repeal or modification of this Article V shall only be prospective and shall not affect the rights under this Article V in effect at the time of the alleged occurrence of any action or omission to act giving rise to liability.
 
-5.=[Z/ol/s2]
+5.=[G/Z/ol/s2]
 
 6.0.sec=For the management of the business and for the conduct of the affairs of the Company, and in further definition, limitation and regulation of the powers of the Company, of its directors and of its stockholders or any class thereof, as the case may be, it is further provided that:
 
@@ -22,6 +22,6 @@
 
 6.3.sec=The directors of the Company need not be elected by written ballot unless the Bylaws so provide.
 
-6.=[Z/ol/s3]
+6.=[G/Z/ol/s3]
 
-=[Z/ol/s6]
+=[G/Z/ol/s6]

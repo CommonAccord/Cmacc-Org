@@ -28,7 +28,7 @@ Head.sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 5.1.7.Sec="<strong>Recapitalization</strong>" shall mean any stock dividend, stock split, combination of shares, reorganization, recapitalization, reclassification or other similar event.
 
-5.1.=[Z/ol/7]
+5.1.=[G/Z/ol/7]
 
 5.2.Ti=Liquidation Rights
 
@@ -58,9 +58,9 @@ Head.sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 5.2.5.00.sec=In the event of a merger or other acquisition of the Corporation by another entity, the Distribution date shall be deemed to be the date such transaction closes.<br>For the purposes of this subsection {5.2(e)}, "<strong>trading day</strong>" shall mean any day which the exchange or system on which the securities to be distributed are traded is open and "<strong>closing prices</strong>" or "<strong>closing bid prices</strong>" shall be deemed to be: (i) for securities traded primarily on the New York Stock Exchange, the American Stock Exchange or a Nasdaq market, the last reported trade price or sale price, as the case may be, at 4:00 p.m., New York time, on that day and (ii) for securities listed or traded on other exchanges, markets and systems, the market price as of the end of the regular hours trading period that is generally accepted as such for such exchange, market or system. If, after the date hereof, the benchmark times generally accepted in the securities industry for determining the market price of a stock as of a given trading day shall change from those set forth above, the fair market value shall be determined as of such other generally accepted benchmark times.
 
-5.2.5.=[Z/ol/s2]
+5.2.5.=[G/Z/ol/s2]
 
-5.2.=[Z/ol/5]
+5.2.=[G/Z/ol/5]
 
 5.3.Ti=Conversion
 
@@ -114,7 +114,7 @@ Head.sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 5.3.9.sec=The Corporation shall at all times reserve and keep available out of its authorized but unissued shares of Common Stock solely for the purpose of effecting the conversion of the shares of the Preferred Stock, such number of its shares of Common Stock as shall from time to time be sufficient to effect the conversion of all then outstanding shares of the Preferred Stock; and if at any time the number of authorized but unissued shares of Common Stock shall not be sufficient to effect the conversion of all then outstanding shares of the Preferred Stock, the Corporation will take such corporate action as may, in the opinion of its counsel, be necessary to increase its authorized but unissued shares of Common Stock to such number of shares as shall be sufficient for such purpose.
 
-5.3.=[Z/ol/9]
+5.3.=[G/Z/ol/9]
 
 5.4.Ti=Voting
 
@@ -150,7 +150,7 @@ Vote.Bd.Together=Any additional members of the Corporation's Board of Directors 
 
 5.4.6.sec=Each holder of shares of Common Stock shall be entitled to one vote for each share thereof held.
 
-5.4.=[Z/ol/6]
+5.4.=[G/Z/ol/6]
 
 5.5.Ti=Amendments and Changes
 
@@ -170,7 +170,7 @@ Vote.Bd.Together=Any additional members of the Corporation's Board of Directors 
 
 5.7.sec=Any notice required by the provisions of this {5.Xref} to be given to the holders of Preferred Stock shall be deemed given if deposited in the United States mail, postage prepaid, and addressed to each holder of record at such holder's address appearing on the books of the Corporation.
 
-5.=[Z/ol/7]
+5.=[G/Z/ol/7]
 
 6.sec=The Corporation is to have perpetual existence.
 
@@ -186,12 +186,12 @@ Vote.Bd.Together=Any additional members of the Corporation's Board of Directors 
 
 10.3.sec=Neither any amendment nor repeal of this {10.Xref}, nor the adoption of any provision of this Corporation's Certificate of Incorporation inconsistent with this {10.Xref}, shall eliminate or reduce the effect of this {10.Xref}, in respect of any matter occurring, or any action or proceeding accruing or arising or that, but for this {10.Xref}, would accrue or arise, prior to such amendment, repeal or adoption of an inconsistent provision.
 
-10.=[Z/ol/s3]
+10.=[G/Z/ol/s3]
 
 11.sec=Meetings of stockholders may be held within or without the State of Delaware, as the Bylaws may provide. The books of the Corporation may be kept (subject to any provision contained in the statutes) outside of the State of Delaware at such place or places as may be designated from time to time by the Board of Directors or in the Bylaws of the Corporation.</li>
 
 
-=[Z/ol/11]
+=[G/Z/ol/11]
 
 xlist={Blist}
 

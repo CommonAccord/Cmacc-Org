@@ -14,4 +14,4 @@ Law.=[Wx/com/ycombinator/SAFE/Sec/Misc_Law_v01.md]
 
 Secs={Waive.Sec}<li>{Notice.Sec}<li>{NotStockholder.Sec}<li>{Assign.Sec}<li>{Sever.Sec}<li>{Law.Sec}
 
-=[Z/ol/6]
+=[G/Z/ol/6]

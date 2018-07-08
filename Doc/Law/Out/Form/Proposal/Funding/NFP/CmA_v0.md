@@ -10,28 +10,28 @@ Executive.Ti=Executive Summary
 
 Executive.sec=TBD
 
-Executive.=[Z/ol/0]
+Executive.=[G/Z/ol/0]
 
 Overview.Ti=Overview
 
 Overview.sec=TBD
 
-Overview.=[Z/ol/0]
+Overview.=[G/Z/ol/0]
 
 Budget.Ti=Budget
 
 Budget.sec=TBD
 
-Budget.=[Z/ol/0]
+Budget.=[G/Z/ol/0]
 
 Background.Ti=Background
 
 Background.sec=TBD
 
-Background.=[Z/ol/0]
+Background.=[G/Z/ol/0]
 
 00.Sec=<b>Contact:</b> {Contact.Name.Full}, {Contact.Email}, {Contact.Phone}
 
 DocBody={Doc}
 
-=[Z/ol/0]
+=[G/Z/ol/0]

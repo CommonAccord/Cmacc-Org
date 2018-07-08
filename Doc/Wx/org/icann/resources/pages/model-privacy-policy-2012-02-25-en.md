@@ -18,7 +18,7 @@ P2.Contact.Alt1.cl=your name, telephone number, and e-mail address.
 
 P2.Contact.Alt2.cl=your name and e-mail address.
 
-1.=[Z/Sec/3]
+1.=[G/Z/Sec/3]
 
 1.sec={1.sens}
 
@@ -30,7 +30,7 @@ P2.Contact.Alt2.cl=your name and e-mail address.
 
 2.3.sec=When you submit a question to our website, contact information is needed so that we can respond.
 
-2.=[Z/Sec/3]
+2.=[G/Z/Sec/3]
 
 2.sec={2.sens}
 
@@ -40,7 +40,7 @@ P2.Contact.Alt2.cl=your name and e-mail address.
 
 3.2.sec=Information you provide in asking questions about our service may be given to our employees and consultants and, upon its request, to ICANN.
 
-3.=[Z/Sec/s2]
+3.=[G/Z/Sec/s2]
 
 3.xlist={3.blist}
 
@@ -50,7 +50,7 @@ P2.Contact.Alt2.cl=your name and e-mail address.
 
 4.2.sec=You can access the information you provide, correct it, and update it by visiting our website {adjust as appropriate for registrar}.
 
-4.=[Z/Sec/2]
+4.=[G/Z/Sec/2]
 
 4.sec={4.sens}
 
@@ -58,4 +58,4 @@ P2.Contact.Alt2.cl=your name and e-mail address.
 
 5.sec=In providing personal information about other individuals (such as someone in whose name you are registering or the domain name's technical or billing contacts), you represent that you have notified them of the purposes for which the information will be used, the recipients of the information, and how they can access and correct the information, and that you have obtained their consent.
 
-=[Z/Sec/5]
+=[G/Z/Sec/5]

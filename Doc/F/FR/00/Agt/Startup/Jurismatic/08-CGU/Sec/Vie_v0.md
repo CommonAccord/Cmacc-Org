@@ -6,4 +6,4 @@ Ti=Durée des Services, désinscription
 
 3.sec=La désinscription est effective immédiatement. Elle entraîne la suppression automatique du Compte de l'Utilisateur.
 
-=[Z/paras/s3]
+=[G/Z/paras/s3]

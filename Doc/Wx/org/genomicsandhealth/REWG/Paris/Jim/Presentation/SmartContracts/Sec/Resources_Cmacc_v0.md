@@ -12,4 +12,4 @@ Ti=CommonAccord Texts Relating to Patient Consents
 
 4.sec=<a href="index.php?action=source&file=Dx/x-Privacy.md">[Dx/x-Privacy.md]</a>
 
-=[Z/ol/4]
+=[G/Z/ol/4]

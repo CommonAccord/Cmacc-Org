@@ -8,7 +8,7 @@ Title.3.sec=MASTER VERSION
 
 Title.4.sec=Revised:  June 2015
 
-Title.=[Z/paras/s4]
+Title.=[G/Z/paras/s4]
 
 0.Ti=</i>
 
@@ -26,7 +26,7 @@ Title.=[Z/paras/s4]
 
 0.1.2.4.sec=▪ 	provide opportunities for each employee’s professional development by providing training, guidance and careful evaluation of each employee’s performance.
 
-0.1.2.=[Z/ol-none/s4]
+0.1.2.=[G/Z/ol-none/s4]
 
 0.1.3.sec=As a member of the team you are expected to contribute to the best of your ability to help us reach the highest level of customer service and satisfaction. We value your opinion and welcome your comments and suggestions about ways that our work can be completed in a more efficient and effective manner.
 
@@ -34,9 +34,9 @@ Title.=[Z/paras/s4]
 
 0.1.5.sec=Please read this Handbook carefully and keep it as a reference guide.  If this Handbook fails to answer any important questions, ask {your supervisor/other title} for clarification.
 
-0.1.=[Z/paras/s5]
+0.1.=[G/Z/paras/s5]
 
-0.=[Z/paras/1]
+0.=[G/Z/paras/1]
 
 1.=[Wx/com/stlstartuplawyer.com/Employ/Handbook/Sec/General_v0.md]
 
@@ -704,4 +704,4 @@ Title.=[Z/paras/s4]
 
 =Book Number: _________
 
-=[Z/ol/4]
+=[G/Z/ol/4]

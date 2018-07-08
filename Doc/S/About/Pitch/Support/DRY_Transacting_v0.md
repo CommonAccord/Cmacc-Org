@@ -20,7 +20,7 @@ Note=Discuss:
 
 9.sec=See, e.g., <a href="http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf">http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf</a>
 
-=[Z/ol/s9]
+=[G/Z/ol/s9]
 
 
 Def.PDS={PDS} means a collection of information, organized as files or a database, which contain information about a person (natural, legal or role).  

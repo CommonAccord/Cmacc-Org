@@ -13,6 +13,6 @@ Ti={Personal_Data} received from {Supplier}
 
 4.00.sec=By way of example only, an Example Personal Data Notice and Consent Form is attached hereto as {Agt.Exh.D}.
 
-4.=[Z/ol/s2]
+4.=[G/Z/ol/s2]
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

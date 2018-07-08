@@ -18,7 +18,7 @@ Ti=Redemption
 
 2.00.sec=[If the Corporation receives, on or prior to the twentieth (20th) day after the date of delivery of the Redemption Notice to a holder of Series A Preferred Stock, written notice from such holder that such holder elects to be excluded from the redemption provided in this Section 6, then the shares of Series A Preferred Stock registered on the books of the Corporation in the name of such holder at the time of the Corporation’s receipt of such notice shall thereafter be “Excluded Shares.”  Excluded Shares shall not be redeemed or redeemable pursuant to this Section 6, whether on such Redemption Date or thereafter.]
 
-2.=[Z/ol/s4]
+2.=[G/Z/ol/s4]
 
 3.Ti=Surrender of Certificates; Payment
 
@@ -28,4 +28,4 @@ Ti=Redemption
 
 4.sec=If the Redemption Notice shall have been duly given, and if on the applicable Redemption Date the Redemption Price payable upon redemption of the shares of Series A Preferred Stock to be redeemed on such Redemption Date is paid or tendered for payment or deposited with an independent payment agent so as to be available therefor in a timely manner, then notwithstanding that any certificates evidencing any of the shares of Series A Preferred Stock so called for redemption shall not have been surrendered, dividends with respect to such shares of Series A Preferred Stock shall cease to accrue after such Redemption Date and all rights with respect to such shares shall forthwith after the Redemption Date terminate, except only the right of the holders to receive the Redemption Price without interest upon surrender of any such  certificate or certificates therefor.
 
-=[Z/ol/4]
+=[G/Z/ol/4]

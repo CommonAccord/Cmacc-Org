@@ -12,7 +12,7 @@ Ti=Legal
 
 1.3.=[Wx/org/genomicsandhealth/REWG/Consent/In/EN/Form/Form_V02]
 
-1.=[Z/ol/3]
+1.=[G/Z/ol/3]
 
 2.Ti=Employment
 
@@ -24,4 +24,4 @@ Ti=Legal
 
 5.sec=Hypothetical - (but must it remain so?) - engagements by governments with jurisdiction regarding their practices, expressed in contract language. 
 
-=[Z/ol/5]
+=[G/Z/ol/5]

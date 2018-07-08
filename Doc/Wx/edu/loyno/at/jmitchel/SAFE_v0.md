@@ -16,7 +16,7 @@ Company.Handle={Company}
 
 Investor.Handle={Investor}
 
-=[Z/ol/5]
+=[G/Z/ol/5]
 
 Event.Xref=Section 1
 

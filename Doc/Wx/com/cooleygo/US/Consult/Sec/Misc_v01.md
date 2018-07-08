@@ -32,6 +32,6 @@ P2.the={_the_Consultant}
 
 7.=[Wx/com/cooleygo/US/NDA/Sec/Misc_Counterparts_v01.md]
 
-=[Z/ol/7]
+=[G/Z/ol/7]
 
 NDA.Entire.=[Wx/com/cooleygo/US/NDA/Sec/Misc_Entire_v01.md]

@@ -32,4 +32,4 @@ Misc.=[Wx/com/ycombinator/SAFE/Sec/Misc_v02.md]
 
 =[Wx/com/ycombinator/SAFE/Sec/DefinedTerms_v01.md]
 
-=[Z/ol/0]
+=[G/Z/ol/0]

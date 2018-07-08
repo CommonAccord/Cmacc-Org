@@ -10,7 +10,7 @@ Ti=Liquidation, Dissolution or Winding Up; Certain Mergers, Consolidations and A
 
 1.Alt2.sec=In the event of any voluntary or involuntary liquidation, dissolution or winding up of the Corporation or Deemed Liquidation Event, after the payment of all preferential amounts required to be paid to the holders of shares of Series A Preferred Stock, the remaining assets of the Corporation available for distribution to its stockholders shall be distributed among the holders of shares of Common Stock, pro rata based on the number of shares held by each such holder.
 
-1.=[Z/Alt/2]
+1.=[G/Z/Alt/2]
 
 2.0.sec=[Use the following Subsections 2.1 and 2.2 if the term sheet calls for participating Preferred Stock.]
 
@@ -22,6 +22,6 @@ Ti=Liquidation, Dissolution or Winding Up; Certain Mergers, Consolidations and A
 
 2.2.sec=In the event of any voluntary or involuntary liquidation, dissolution or winding up of the Corporation or Deemed Liquidation Event, after the payment of all preferential amounts required to be paid to the holders of shares of Series A Preferred Stock the remaining assets of the Corporation available for distribution to its stockholders shall be distributed among the holders of the shares of Series A Preferred Stock and Common Stock, pro rata based on the number of shares held by each such holder, treating for this purpose all such securities as if they had been converted to Common Stock pursuant to the terms of the Certificate of Incorporation immediately prior to such liquidation, dissolution or winding up of the Corporation.  The aggregate amount which a holder of a share of Series A Preferred Stock is entitled to receive under Subsections 2.1 and 2.2 is hereinafter referred to as the “Series A Liquidation Amount.”
 
-2.=[Z/ol/2]
+2.=[G/Z/ol/2]
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

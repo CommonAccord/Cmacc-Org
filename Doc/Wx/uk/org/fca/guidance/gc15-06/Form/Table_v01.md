@@ -31,9 +31,9 @@ xx=Area of interest  Notes
 
 1.2.9.sec=• identify all the service providers in the supply chain and ensure that the requirements on the firm can be complied with throughout the supply chain. Similarly, where multiple providers form part of an overall arrangement (as distinct from a chain) the requirements should be complied with across the arrangement
 
-1.2.=[Z/ol-none/s9]
+1.2.=[G/Z/ol-none/s9]
 
-1.=[Z/ol-none/s2]
+1.=[G/Z/ol-none/s2]
 
 2.Ti=Risk management 
 
@@ -55,7 +55,7 @@ xx=Area of interest  Notes
 
 2.8.sec=• ensure the contract(s) provide for the remediation of breaches and other adverse events.
 
-2.=[Z/ol-none/s8]
+2.=[G/Z/ol-none/s8]
 
 3.Ti=International standards 
 
@@ -63,7 +63,7 @@ xx=Area of interest  Notes
 
 3.1.1.sec=• take account of any external assurance that has already been provided when conducting their own due diligence.
 
-3.1.=[Z/ol-none/s1]
+3.1.=[G/Z/ol-none/s1]
 
 3.2.0.sec=External assurance may be more relevant to a firm’s consideration where:
 
@@ -75,9 +75,9 @@ xx=Area of interest  Notes
 
 3.2.4.sec=• the scope of the third-party audit is specific to the service a firm proposes to use (i.e. the audit is against the data-centre you are using – not a similar datacentre in another jurisdiction)
 
-3.2.=[Z/ol-none/s4]
+3.2.=[G/Z/ol-none/s4]
 
-3.=[Z/ol-none/s2]
+3.=[G/Z/ol-none/s2]
 
 4.Ti=Oversight of service provider 
 
@@ -91,7 +91,7 @@ xx=Area of interest  Notes
 
 4.4.sec=• verify that suitable arrangements for dispute resolution exist
 
-4.=[Z/ol-none/s4]
+4.=[G/Z/ol-none/s4]
 
 5.Ti=Data security 
 
@@ -111,9 +111,9 @@ xx=Area of interest  Notes
 
 5.2.6.sec=• consider data sensitivity and how the data is transmitted, stored and encrypted, where necessary.
 
-5.2.=[Z/ol-none/s6]
+5.2.=[G/Z/ol-none/s6]
 
-5.=[Z/ol-none/s2]
+5.=[G/Z/ol-none/s2]
 
 6.Ti=Data Protection Act 1998 
 
@@ -123,7 +123,7 @@ xx=Area of interest  Notes
 
 6.3.sec=The DPA is overseen and regulated by the Information  Commissioner’s Office (ICO). Firms should therefore follow the ICO’s guidance on cloud computing: https://ico.org.uk/forthe-public/online/cloud-computing and other relevant guidance.
 
-6.=[Z/ol-none/s3]
+6.=[G/Z/ol-none/s3]
 
 7.Ti=Effective access to Data 
 
@@ -139,9 +139,9 @@ xx=Area of interest  Notes
 
 7.2.4.sec=• ensure that, where a firm cannot disclose data for any reason, the contract enables the regulator or the firm’s auditor to contact the service provider directly
 
-7.2.=[Z/ol-none/s4]
+7.2.=[G/Z/ol-none/s4]
 
-7.=[Z/ol-none/s2]
+7.=[G/Z/ol-none/s2]
 
 8.Ti=Access to business premises
 
@@ -163,7 +163,7 @@ xx=Area of interest  Notes
 
 8.4.1.4.sec=• The scope of the firm and/or auditor visit can be limited to those services that the firm and the entities in the firm’s group are using, as required by applicable legal and regulatory requirements.
 
-8.4.1.=[Z/ol-none/s4]
+8.4.1.=[G/Z/ol-none/s4]
 
 8.4.2.0.sec=Regulator access
 
@@ -177,11 +177,11 @@ xx=Area of interest  Notes
 
 8.4.2.5.sec=• During the visit, the regulator should be permitted to view the provision of services to the regulated firm or any affiliate within the group, as required under applicable financial services legislation. The regulator can commit to minimising, disruption to outsourcing providers’ operations.
 
-8.4.2.=[Z/ol-none/s5]
+8.4.2.=[G/Z/ol-none/s5]
 
-8.4.=[Z/ol-none/s2]
+8.4.=[G/Z/ol-none/s2]
 
-8.=[Z/ol-none/s4]
+8.=[G/Z/ol-none/s4]
 
 9.Ti= Relationship between service providers
 
@@ -193,11 +193,11 @@ xx=Area of interest  Notes
 
 9.1.3.sec=• The regulated firm should consider how service providers work together. For example will the firm or one service provider take the lead systems integration role?
 
-9.1.=[Z/ol-none/s3]
+9.1.=[G/Z/ol-none/s3]
 
 9.2.sec=Firms should consider how easily a service provider’s services will interface with a firm’s internal systems or other third-party systems (such as agency banking arrangements for payments).
 
-9.=[Z/ol-none/s2]
+9.=[G/Z/ol-none/s2]
 
 10.Ti=Change management 
 
@@ -207,7 +207,7 @@ xx=Area of interest  Notes
 
 10.2.sec=• establishing how the testing of changes will be carried out.
 
-10.=[Z/ol-none/s2]
+10.=[G/Z/ol-none/s2]
 
 11.Ti=Continuity and business planning
 
@@ -221,7 +221,7 @@ xx=Area of interest  Notes
 
 11.4.sec=• consider that disruptions could be caused by intentional cyber attacks, and that these may negate controls focused on delivering system availability (such as distribution of data to multiple locations)
 
-11.=[Z/ol-none/s4]
+11.=[G/Z/ol-none/s4]
 
 12.Ti=Resolution (where applicable)
 
@@ -231,7 +231,7 @@ xx=Area of interest  Notes
 
 12.3.sec=• For firms where insolvency procedures will be used, services should be set up in such a way that supports the rapid return of the firms’ deposits or client assets. For example, services should be organised in such a way that would not impede the production of a Single Customer View (SCV) file in a Bank Insolvency Procedure (BIP) or the production of accurate data around client assets in a Special Administration Regime (SAR).
 
-12.=[Z/ol-none/s3]
+12.=[G/Z/ol-none/s3]
 
 13.Ti=Exit plan 
 
@@ -247,6 +247,6 @@ xx=Area of interest  Notes
 
 13.5.sec=• monitor concentration risk and consider what action it would take if the outsource provider failed
 
-13.=[Z/ol-none/s5]  
+13.=[G/Z/ol-none/s5]  
 
-=[Z/ol/13]
+=[G/Z/ol/13]

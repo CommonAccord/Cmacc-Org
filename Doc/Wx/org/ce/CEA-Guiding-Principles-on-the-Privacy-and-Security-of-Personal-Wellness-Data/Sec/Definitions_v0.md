@@ -16,4 +16,4 @@ Ti=Definitions
 
 4.sec=Wellness data that a company collects, stores, or uses about an identified user through a device, software, or service that is primarily used to collect wellness data. However, data that has been reasonably de-identified is not personal wellness data and therefore is not covered by these Principles.
 
-=[Z/ol/4]
+=[G/Z/ol/4]

@@ -6,7 +6,7 @@ Ti=Appendix 1 to the Standard Contractual Clauses
 
 0.2.sec=The Member States may complete or specify, according to their national procedures, any additional necessary information to be contained in this Appendix
 
-0.=[Z/ol-none/s2]
+0.=[G/Z/ol-none/s2]
 
 
 
@@ -34,7 +34,7 @@ Ti=Appendix 1 to the Standard Contractual Clauses
 
 6.sec=The personal data transferred will be subject to the following basic processing activities (please specify): ................................................................................................................................................................................................................................ ................................................................................................................................................................................................................................ ................................................................................................................................................................................................................................
 
-=[Z/ol-none/6]
+=[G/Z/ol-none/6]
 
 00.1.Ti=DATA EXPORTER
 
@@ -43,4 +43,4 @@ Ti=Appendix 1 to the Standard Contractual Clauses
 
 00.2.sec=Name: .................................................................................................................... Authorised Signature ...............................................................................
 
-00.=[Z/ol-none/2]
+00.=[G/Z/ol-none/2]

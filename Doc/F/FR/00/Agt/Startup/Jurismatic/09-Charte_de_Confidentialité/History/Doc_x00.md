@@ -9,7 +9,7 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 1.2.sec=Le terme « données à caractère personnel » désigne toutes les données qui permettent d’identifier un individu, ce qui correspond notamment à vos nom, prénoms, pseudonyme, photographie, adresses postale et de courrier électronique, numéros de téléphone, date de naissance, données relatives à vos transactions sur le site, détails de vos achats et abonnements, numéros de carte bancaire, ainsi qu’à tout autre renseignement que vous choisirez de nous communiquer à votre sujet.
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=Objet de la présente charte
 
@@ -17,7 +17,7 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 2.2.sec=Nous vous indiquons à ce sujet que nous nous conformons, dans la collecte et la gestion de vos données à caractère personnel, à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa version actuelle.
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
 3.Ti=Identité du responsable de la collecte de données
 
@@ -47,7 +47,7 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 4.00.sec= Nous vous informons, lors de la collecte de vos données personnelles, si certaines données doivent être obligatoirement renseignées ou si elles sont facultatives. Nous vous indiquons également quelles sont les conséquences éventuelles d’un défaut de réponse.
 
-4.=[Z/ol/s9]
+4.=[G/Z/ol/s9]
 
 5.Ti=Destinataires des données collectées
 
@@ -55,7 +55,7 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 5.2.sec=Peuvent également être destinataires de vos données à caractère personnel les organismes publics, exclusivement pour répondre à nos obligations légales, les auxiliaires de justice, les officiers ministériels et les organismes chargés d’effectuer le recouvrement de créances.
 
-5.=[Z/ol/s2]
+5.=[G/Z/ol/s2]
 
 6.Ti=Cession des données à caractère personnel
 
@@ -65,7 +65,7 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 6.Alt2.sec=Vos données à caractère personnel ne feront pas l’objet de cessions, locations ou échanges au bénéfice de tiers.
  
-6.=[Z/Alt/2]
+6.=[G/Z/Alt/2]
 
 7.Ti=Durée de conservation des données à caractère personnel
 
@@ -79,13 +79,13 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 7.1.4.sec=Au terme de ce délai de trois ans, nous pourrons reprendre contact avec vous pour savoir si vous souhaitez continuer à recevoir des sollicitations commerciales.
 
-7.1.=[Z/ol/s4]
+7.1.=[G/Z/ol/s4]
 
 7.2.0.sec=(ii)	Concernant les pièces d’identité :
 
 7.2.1.sec=En cas d’exercice du droit d’accès ou de rectification, les données relatives aux pièces d’identité pourront être conservées pendant le délai prévu à l’article 9 du code de procédure pénale, soit un an. En cas d’exercice du droit d’opposition, ces données peuvent être archivées pendant le délai de prescription prévu par l’article 8 du code de procédure pénale, soit trois ans.
 
-7.2.=[Z/ol/s1]
+7.2.=[G/Z/ol/s1]
 
 7.3.0.sec=(iii)	Concernant les données relatives aux cartes bancaires :
 
@@ -105,21 +105,21 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 7.3.8.sec=En tout état de cause, les données relatives à celles-ci pourront être conservées, pour une finalité de preuve en cas d’éventuelle contestation de la transaction, en archives intermédiaires, pour la durée prévue par l’article L 133-24 du Code monétaire et financier, en l’occurrence 13 mois suivant la date de débit. Ce délai peut être étendu à 15 mois afin de prendre en compte la possibilité d’utilisation des cartes de paiement à débit différé.
 
-7.3.=[Z/ol/s8]
+7.3.=[G/Z/ol/s8]
 
 7.4.0.sec=(iv)	Concernant la gestion des listes d’opposition à recevoir de la prospection :
 
 7.4.1.sec=Les informations permettant de prendre en compte votre droit d’opposition sont conservées au minimum trois ans à compter de l’exercice du droit d’opposition.
 
-7.4.=[Z/ol/s1]
+7.4.=[G/Z/ol/s1]
 
 7.5.0.sec=(v)	Concernant les statistiques de mesure d’audience :
 
 7.5.1.sec=Les informations stockées dans le terminal des utilisateurs ou tout autre élément utilisé pour identifier les utilisateurs et permettant leur traçabilité ou fréquentation ne seront pas conservées au-delà de 6 mois. 
 
-7.5.=[Z/ol/s1]
+7.5.=[G/Z/ol/s1]
 
-7.=[Z/ol/s5]
+7.=[G/Z/ol/s5]
 
 8.Ti=Sécurité
 
@@ -135,7 +135,7 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 9.2.2.sec=Les cookies publicitaires peuvent être créés non seulement par le site internet sur lequel l’utilisateur navigue, mais également par d’autres sites internet diffusant des publicités, annonces, widgets ou autres éléments sur la page affichée. Ces cookies peuvent notamment être utilisés pour effectuer de la publicité ciblée, c’est-à-dire de la publicité déterminée en fonction de la navigation de l’utilisateur.
 
-9.2.=[Z/ol/s2]
+9.2.=[G/Z/ol/s2]
 
 9.3.sec=Nous utilisons des cookies techniques. Ceux-ci sont stockés dans votre navigateur pour une période qui ne peut excéder six mois.
 
@@ -145,7 +145,7 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 9.6.sec=Nous vous rappelons à toutes fins utiles qu’il vous est possible de vous opposer au dépôt de cookies en configurant votre navigateur. Un tel refus pourrait toutefois empêcher le bon fonctionnement du site.
 
-9.=[Z/ol/s6]
+9.=[G/Z/ol/s6]
 
 10.Ti=Consentement
 
@@ -161,7 +161,7 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 11.00.sec=Il est rappelé que toute personne peut, pour des motifs légitimes, s'opposer au traitement des données la concernant.
 
-11.=[Z/ol/s2]  
+11.=[G/Z/ol/s2]  
 
 12.Ti=Modifications
 
@@ -171,4 +171,4 @@ Ti=CHARTE DE CONFIDENTIALITE
 
 13.sec=La présente charte est entrée en vigueur le [date].
 
-=[Z/ol/13]
+=[G/Z/ol/13]

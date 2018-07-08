@@ -10,4 +10,4 @@ Omit.sec=Acceptance or rejection of the {Services} and/or any deliverables shall
 
 Fail.sec=If any of the {Services} and/or any deliverables under {this_Agreement}, are found at any time prior to delivery to be defective, or otherwise not in conformity with the requirements of {this_Agreement}, including any applicable specifications, Company, in addition to such other rights, remedies and choices as it may have by agreement and/or by law, at its option and sole discretion, and at {Supplier}’s expense may: <ol><li>reject and return such deliverables;</li><li>require {Supplier} to re perform/replace the non-conforming {Services} and/or deliverables with {Services} and/or deliverables that conform to the requirements of {this_Agreement}; and/or</li><li>take such actions as may be required to cure all defects and/or bring the {Services} and/or deliverables into conformity with all requirements.</li></ol>
 
-=[Z/ol/0]
+=[G/Z/ol/0]

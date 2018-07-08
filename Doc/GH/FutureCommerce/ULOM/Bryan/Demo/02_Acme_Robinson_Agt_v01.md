@@ -4,4 +4,4 @@ Olist=<ol><li>{Front.Secs}<li>{TLDR.Secs}</ol>
 
 P=[GH/FutureCommerce/ULOM/Bryan/Demo/01_Acme_Robinson_v0.md]  
 
-=[Z/Agt/Agt_TLDR_v01.md]
+=[G/Z/Agt/Agt_TLDR_v01.md]

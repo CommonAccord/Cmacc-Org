@@ -24,4 +24,4 @@ Ti=Term and Termination
 
 5.sec=The rights and obligations contained in Sections {Ownership.Xnum} ("{Ownership.Ti}"), {Rep.Xnum} ("{Rep.Ti}"), {Conf.Xnum} ("{Conf.Ti}"){q} and {Cov.Interfere.Xnum} ("{Cov.Interfere.Ti}") will survive any termination or expiration of {_this_Agreement}.
 
-=[Z/ol/5]
+=[G/Z/ol/5]

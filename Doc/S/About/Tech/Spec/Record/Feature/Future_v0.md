@@ -18,8 +18,8 @@ Ti=Future Possible Extensions
 
 2.3.00.sec=In each case, persisting the value as a standard Key/Value in a Record may increase certainty by keeping the data simple. 
 
-2.3.=[Z/ol/s2]
+2.3.=[G/Z/ol/s2]
 
-2.=[Z/ol/s3]    
+2.=[G/Z/ol/s3]    
 
-=[Z/ol/2]
+=[G/Z/ol/2]

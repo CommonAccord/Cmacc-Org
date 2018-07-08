@@ -14,4 +14,4 @@ Assign.Further.Sec={Supplier} and {Supplier}'s successors in interest will, at {
 
 Assign.NotRegister.Sec={Supplier} agrees that it will not apply for any state, federal or other U.S. or foreign jurisdiction's registration of rights in any of the {Company_Property} and that it will not oppose or object in any way to applications for registration of same by {Company} or others designated by {Company}
 
-=[Z/ol/0]
+=[G/Z/ol/0]

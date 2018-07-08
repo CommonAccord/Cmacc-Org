@@ -22,13 +22,13 @@ Ti={Doc.Ti}
 
 2.1.3.sec=We record our transactions accurately.
 
-2.1.=[Z/ol/s3]
+2.1.=[G/Z/ol/s3]
 
 2.2.sec=Any attempt to pay, authorize, or promise a bribe, kickback, or any other form of corrupt payment – in any amount – is strictly prohibited.  It does not matter if the intended recipient of the bribe works in the public or private sector.  It does not matter if the intended recipient conducts business in a country where paying bribes is a common practice, “necessary to get anything done,” or “engrained in the business culture.”  And it does not matter if “everyone else is doing it.”  No officer, director, or employee shall pay, authorize, or promise to give anything of value – whether directly or indirectly through a third party – in order to improperly influence any person or entity to act favorably towards {P1.Handle}.
 
 2.3.sec=To ensure compliance with this Policy, and consistent with our accounting policies, all transactions must be recorded accurately and with sufficient detail to identify the actual purpose for each payment.  {P1.Handle} strictly prohibits any “off-the books” accounts or payments, or making any false, misleading, or incomplete entries in the books and records in an attempt to obscure the actual purpose of a payment.  This prohibition applies regardless of the amount of the payment.
 
-2.=[Z/ol-none/s3]
+2.=[G/Z/ol-none/s3]
 
 3.Ti=Who is Covered by this Policy
 
@@ -38,7 +38,7 @@ Ti={Doc.Ti}
 
 3.1.2.sec=Any person acting on behalf of {P1.Handle}, including third parties acting on behalf of {P1.Handle}, such as distributors, agents, brokers, representatives, consultants, or business partners.
 
-3.1.=[Z/ol/s2]
+3.1.=[G/Z/ol/s2]
 
 3.2.0.sec=Acts of bribery and corruption commonly involve public or government officials.  This Policy prohibits the payment of bribes – in any amount and at any level – to any public or government officials, including but not limited to the following:
 
@@ -54,7 +54,7 @@ Ti={Doc.Ti}
 
 3.2.6.sec=Candidates for political office.
 
-3.2.=[Z/ol/s6]
+3.2.=[G/Z/ol/s6]
 
 3.3.0.sec=Bribery also can involve corrupt payments to agents or employees of customers or business partners in order to secure an advantage over competitors.  This Policy therefore prohibits the payment of bribes – in any amount and at any level – to any private persons, including but not limited to the following:
 
@@ -66,7 +66,7 @@ Ti={Doc.Ti}
 
 3.3.sec=As noted above, any payment that cannot be made directly to an individual under this Policy may also not be made indirectly, such as to a close relative, through a friend, via the individual’s business, or through some other intermediary.
 
-3.=[Z/ol-none/s3]
+3.=[G/Z/ol-none/s3]
 
 4.Ti=Bribery & Corruption - The Basics
 
@@ -78,7 +78,7 @@ Ti={Doc.Ti}
 
 4.4.sec=Importantly, anti-bribery and anti-corruption laws prohibit not only bribes made directly by employees, but also bribes made indirectly through third parties acting on behalf of {P1.Handle}.  In the context of this Policy, third parties are broadly defined to include any person or entity acting on behalf of {P1.Handle}, including but not limited to agents, brokers, consultants, sales representatives, lawyers, accountants, distributors, and other business partners.
 
-4.=[Z/ol-none/s4]
+4.=[G/Z/ol-none/s4]
 
 5.Ti=What Might Constitute a Bribe
 
@@ -94,7 +94,7 @@ Ti={Doc.Ti}
 
 5.1.5.sec=Donations to a charity affiliated with or sponsored by a government official; and Political contributions.
 
-5.1.=[Z/ol/s5]
+5.1.=[G/Z/ol/s5]
 
 5.2.0.sec=Some examples of improperly influence of a public or government official include:
 
@@ -102,7 +102,7 @@ Ti={Doc.Ti}
 
 5.2.2.sec=The government official has a choice to act or not and makes a decision based on a gift.
 
-5.2.=[Z/ol/s2]
+5.2.=[G/Z/ol/s2]
 
 5.3.0.sec=Some examples of improper business advantage include when a government official:
 
@@ -115,7 +115,7 @@ Reduces customs duties;
 
 5.3.4.sec=Directs business to {P1.Handle}.
 
-5.3.=[Z/ol/s4]
+5.3.=[G/Z/ol/s4]
 
 5.4.0.sec=Examples of commercial bribery include:
 
@@ -125,11 +125,11 @@ Reduces customs duties;
 
 5.4.3.sec=Paying a third party in order to unlawfully obtain a recommendation or referral for {P1.Handle}.
 
-5.4.=[Z/ol/s3]
+5.4.=[G/Z/ol/s3]
 
 5.5.sec=This Policy cannot cover every situation or provide information on every law that may be applicable where {P1.Handle} conducts business.  If you are ever uncertain, feel uncomfortable about, or question the ethics of any situation or request, you should seek further guidance from {P1.Handle}.  Information on who to contact for additional guidance, as well as other available resources, can be found in the Compliance Hotline and {P1.Handle} Contacts section of this Policy.
 
-5.=[Z/ol-none/s5]
+5.=[G/Z/ol-none/s5]
 
 6.Ti=Are Business Courtesies Permitted?
 
@@ -153,7 +153,7 @@ Reduces customs duties;
 
 6.4.6.sec=would not influence, or appear to influence, the recipient’s ability to conduct his or her official duties objectively and independently, to act in the best interest of his or her company, agency or entity, or to prevent the recipient from awarding business to one of the provider’s competitors.
 
-6.4.=[Z/ol/s6]
+6.4.=[G/Z/ol/s6]
 
 6.5.sec=Appropriate gifts or business courtesies will usually be valued at less than {GiftCeiling.$}, and any gifts given by {P1.Handle} employees, as appropriate, should usually bear {P1.Handle}'s logo.
 
@@ -170,7 +170,7 @@ lavish meals or entertainment;
 
 6.6.5.sec=gifts that are requested by the recipient.
 
-6.6.=[Z/ol/s5]
+6.6.=[G/Z/ol/s5]
 
 6.7.sec=Infrequently, it may be appropriate for {P1.Handle} personnel to pay for travel expenses of officials, customers, suppliers, or other business associates, such as where it is necessary to visit a particular facility for an inspection or for a contract negotiation session.  Because such offers in nearly all cases require a non-nominal expenditure, offers to pay for travel-related expenses always require the prior approval of {TravelApprover.Title}.
 
@@ -184,11 +184,11 @@ lavish meals or entertainment;
 
 6.8.4.sec=the itinerary includes side trips that are of a personal benefit (which are always prohibited).
 
-6.8.=[Z/ol/s4]
+6.8.=[G/Z/ol/s4]
 
 6.9.sec=Paid-for travel for family members generally is inappropriate, and always requires prior approval.  In no event is it permissible for {P1.Handle} personnel to provide a trip as a reward for obtaining or retaining business, or as a reward for the award of previous business.
 
-6.=[Z/ol-none/s9]
+6.=[G/Z/ol-none/s9]
 
 7.Ti=Third Party Intermediaries
 
@@ -216,11 +216,11 @@ lavish meals or entertainment;
 
 7.3.9.sec=Arrangements with third-party representatives will be reviewed regularly to ensure that they are in strict compliance with this Policy.
 
-7.3.=[Z/ol/s9]
+7.3.=[G/Z/ol/s9]
 
 7.4.sec={IDENTIFY POSITION} or his or her designee will create and maintain a file documenting the due diligence conducted on each third party representative.
 
-7.=[Z/ol-none/s4]
+7.=[G/Z/ol-none/s4]
 
 8.Ti=Compliance Hotline and Company Contacts
 
@@ -230,8 +230,8 @@ lavish meals or entertainment;
 
 8.3.sec=The Compliance Hotline is a toll-free, confidential, third party service set up for employees to report possible violations of the law, this Policy, or other ABC policies.  The Hotline is staffed 24 hours per day and calls can be accepted in any language.  Callers may make reports anonymously if they choose.  The Compliance Hotline can be reached by phone at {NUMBER}.  Reports or concerns can also be submitted online at {URL}.  All calls and online reports will be promptly forwarded to {P1.Handle}’s Corporate Headquarters for investigation and review.  Employees may also report issues or problems by email to {EMAIL} or by mail addressed to {CONTACT, ADDRESS}.
 
-8.=[Z/ol-none/s3]
+8.=[G/Z/ol-none/s3]
 
-=[Z/ol/8]
+=[G/Z/ol/8]
 
 DocBody=<!DOCTYPE html><html><head><title>(Curly-)PageName(-Curly)</title><style>li (Curly-)margin: 15px;(-Curly) ol (Curly-)list-style-type: upper-roman; (-Curly) ol ol (Curly-)list-style-type: disc;(-Curly) ol ol ol (Curly-)list-style-type: decimal;(-Curly)</style></head><body>{Doc}

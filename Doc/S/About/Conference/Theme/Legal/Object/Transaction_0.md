@@ -10,4 +10,4 @@ Ti=Object Model for a Legal Transaction
 
 00.sec=<br><br><img src="index.php?action=raw&file=S/About/Conference/Image/Legal_Transaction_ObjectModel.jpg" height="500" width="700">
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

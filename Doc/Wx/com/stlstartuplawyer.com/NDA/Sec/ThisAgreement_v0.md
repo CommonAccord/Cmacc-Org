@@ -6,4 +6,4 @@
 
 4.sec=Conversely, the term “{Discloser}” will refer to {Counterparty} whenever the context refers to {Counterparty}’s {Confidential_Information} being disclosed to the {Company}, which is referred to as “{Recipient}” in that context. 
 
-=[Z/para/s4]
+=[G/Z/para/s4]

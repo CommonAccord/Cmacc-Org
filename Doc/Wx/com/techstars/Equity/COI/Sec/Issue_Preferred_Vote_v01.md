@@ -17,6 +17,6 @@ Ti=VOTING RIGHTS
 
 3.3.sec=The holders of Common Stock and Series Preferred, voting together as a single class on an as-if-converted basis, shall be entitled to elect all remaining members of the Board at each meeting or pursuant to each consent of the Company's stockholders for the election of directors, and to remove from office such directors and to fill any vacancy caused by the resignation, death or removal of such directors.
 
-3.=[Z/ol/s3]
+3.=[G/Z/ol/s3]
 
-=[Z/ol/3]
+=[G/Z/ol/3]

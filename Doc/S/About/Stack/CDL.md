@@ -14,7 +14,7 @@ Ti=Center for Decentralized Law
 
 2.4.sec=Ideally, it would be supported by use rather than sponsors, to avoid conflicts of interest between users and funders.  But ideally and practically the materials will be free.  So it is anticipated that the organization will need small, continuing financial support in addition to launch funding, unless we find that it is practical to impose a micropayment at some point in the chain of use.  Organizations that it could resemble include the Wikipedia Foundation, the Linux Foundation, Creative Commons, the American Law Institute, and ICANN.
 
-2.=[Z/ol/s4]
+2.=[G/Z/ol/s4]
 
 3.=[S/About/Stack/Ideal_Law.md]
 
@@ -22,4 +22,4 @@ Ti=Center for Decentralized Law
 
 00.sec=contact@commonaccord.org
 
-=[Z/paras/s4]
+=[G/Z/paras/s4]

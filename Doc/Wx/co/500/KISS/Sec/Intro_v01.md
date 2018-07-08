@@ -12,4 +12,4 @@
   
 5.2.Sen=This {KISS} is one of a series of Series {Series.#} {KISSes} issued by {the_Company} to investors with identical terms and on the same form as set forth herein (except that {the_Investor}, {Purchase_Price} and {Date_of_Issuance} may differ in each {KISS}) (collectively, the "{Series}").
 
-=[Z/paras/s5]
+=[G/Z/paras/s5]

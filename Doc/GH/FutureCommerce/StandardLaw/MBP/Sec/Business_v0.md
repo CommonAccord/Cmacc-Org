@@ -12,11 +12,11 @@ Ti=Business - Policy
 
 1.3.1.sec=Our practices comply with the "<a href="https://en.wikipedia.org/wiki/Right_to_be_forgotten">right to be forgotten</a>."
 
-1.3.=[Z/ol/s1]
+1.3.=[G/Z/ol/s1]
  
 1.4.sec=Instead of needlessly retaining information, we re-request it from the source (app or person) from which we obtained it.
 
-1.=[Z/ol/s4]
+1.=[G/Z/ol/s4]
 
 2.Ti=Locations
 
@@ -26,8 +26,8 @@ Ti=Business - Policy
 
 2.2.sec=We store and treat it in the following additional countries: {Store.Countries}
 
-2.=[Z/f/ol/s2]
+2.=[G/Z/f/ol/s2]
 
 2.Ti=Other
 
-=[Z/ol/2]
+=[G/Z/ol/2]

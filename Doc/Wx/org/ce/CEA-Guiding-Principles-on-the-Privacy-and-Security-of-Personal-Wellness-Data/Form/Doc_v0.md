@@ -8,4 +8,4 @@ Ti=Consumer Electronics Association Guiding Principles on the Privacy and Securi
 
 3.=[Wx/org/ce/CEA-Guiding-Principles-on-the-Privacy-and-Security-of-Personal-Wellness-Data/Sec/Principles_v0.md]
 
-=[Z/ol/3]
+=[G/Z/ol/3]

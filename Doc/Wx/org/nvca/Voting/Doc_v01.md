@@ -7,7 +7,7 @@ Ti=</i>
 0.1.Ti=RECITALS
 
 
-0.1.1.=[Z/Alt/2]
+0.1.1.=[G/Z/Alt/2]
 
 0.1.1.Alt1.sec=Concurrently with the execution of this Agreement, the Company and the Investors are entering into a Series A Preferred Stock Purchase Agreement (the “Purchase Agreement”) providing for the sale of shares of the Company’s Series A Preferred Stock, and in connection with that agreement the parties desire to provide the Investors with the right, among other rights, to designate the election of certain members of the board of directors of the Company (the “Board”) in accordance with the terms of this Agreement.]
  
@@ -15,14 +15,14 @@ Ti=</i>
 
 0.1.1.SecName=0.1.1
 
-0.1.1.=[Z/ol/s2]
+0.1.1.=[G/Z/ol/s2]
 
 0.1.2.sec=The Amended and Restated Certificate of Incorporation of the Company (the “Restated Certificate”) provides that (a) the holders of record of the shares of the Company’s Series A Preferred Stock, exclusively and as a separate class, shall be entitled to elect [___] directors of the Company (the “Series A Directors”) [and the holders of record of the shares of Series [B] Preferred Stock shall be entitled to elect [___] directors of the Company]; [(b) the holders of record of the shares of common stock of the Company, [___] par value (“Common Stock”), exclusively and as a separate class, shall be entitled to elect [__] directors of the Company;] and (c) the holders of record of the shares of Common Stock and of any other class or series of voting stock (including Series A [and B] Preferred Stock), exclusively and voting together as a single class, shall be entitled to elect the balance of the total number of directors of the Company.
 
 
 0.1.3.sec=The parties also desire to enter into this Agreement to set forth their agreements and understandings with respect to how shares of the Company’s capital stock held by them will be voted on[, or tendered in connection with, an acquisition of the Company] [an increase in the number of shares of Common Stock required to provide for the conversion of the Company’s Preferred Stock.]]
 
-0.1.=[Z/ol/s3]
+0.1.=[G/Z/ol/s3]
 
 0.00.sec=NOW, THEREFORE, the parties agree as follows:
 
@@ -30,7 +30,7 @@ Note=is there a bug in Sec_01 ??
 
 0.xlist=<br><br>{0.1.Sec}
 
-0.=[Z/ol/2]
+0.=[G/Z/ol/2]
 
 0.Sec={0.sec}
 
@@ -48,13 +48,13 @@ Note=is there a bug in Sec_01 ??
 
 1.2.2.sec=One person designated by [Name of 2d Investor] (the “Name of 2d Investor Designee”), which individual shall initially be [_____________] for so long as such Stockholders and their Affiliates continue to own beneficially at least [__________] shares of Common Stock of the Company (including shares of Common Stock issued or issuable upon conversion of Series A Preferred Stock), which number is subject to appropriate adjustment for all stock splits, dividends, combinations, recapitalizations and the like.
 
-1.2.3.=[Z/Alt/2]
+1.2.3.=[G/Z/Alt/2]
 
 1.2.3.Alt1.sec=[Alternative 1: For so long as the Key Holders [who are then providing services to the Company as officers, employees or consultants] hold at least [____] shares of Common Stock (as adjusted for any stock splits, stock dividends, recapitalizations or the like), one individual designated by the holders of a majority of the Shares of Common Stock [held by the Key Holders], which individual shall initially be [___________];
 
 1.2.3.Alt2.sec=[Alternative 2: [name of Key Holder], for so long as [name of Key Holder] [remains an [officer] [employee] of the Company] [holds at least [_____] Shares (as adjusted for stock splits, stock dividends, recapitalizations or the like)] [holds at least [_____]% of the outstanding capital stock of the Company on an as-converted-to-Common Stock basis] [, except that if [name of Key Holder] declines or is unable to serve, his or her successor shall be designated by [name of alternate Key Holder] [the holders of a majority of the shares of Common Stock of the Company];
 
-1.2.3.=[Z/ol/s2]
+1.2.3.=[G/Z/ol/s2]
 
 1.2.4.sec=(d)	The Company’s Chief Executive Officer, who shall initially be [_____] (the “CEO Director”), provided that if for any reason the CEO Director shall cease to serve as the Chief Executive Officer of the Company, each of the Stockholders shall promptly vote their respective Shares (i) to remove the former Chief Executive Officer from the Board if such person has not resigned as a member of the Board; and (ii) to elect such person’s replacement as Chief Executive Officer of the Company as the new CEO Director; and
 
@@ -64,11 +64,11 @@ Note=is there a bug in Sec_01 ??
 
 1.2.00.2.sec=For purposes of this Agreement, an individual, firm, corporation, partnership, association, limited liability company, trust or any other entity (collectively, a “Person”) shall be deemed an “Affiliate” of another Person who, directly or indirectly, controls, is controlled by or is under common control with such Person, including, without limitation, any general partner, managing member, officer or director of such Person or any venture capital fund now or hereafter existing that is controlled by one or more general partners or managing members of, or shares the same management company with, such Person.
 
-1.2.00.=[Z/ol/s2]
+1.2.00.=[G/Z/ol/s2]
 
-1.2.=[Z/ol/s5]
+1.2.=[G/Z/ol/s5]
 
-1.=[Z/ol/2]
+1.=[G/Z/ol/2]
 
 1.3.Ti=Failure to Designate a Board Member
 
@@ -122,7 +122,7 @@ Note=is there a bug in Sec_01 ??
 
 3.2.7.sec= (g)	in the event that the Selling Investors, in connection with such Sale of the Company, appoint a stockholder representative (the “Stockholder Representative”) with respect to matters affecting the Stockholders under the applicable definitive transaction agreements following consummation of such Sale of the Company, (x) to consent to (i) the appointment of such Stockholder Representative, (ii) the establishment of any applicable escrow, expense or similar fund in connection with any indemnification or similar obligations, and (iii) the payment of such Stockholder’s pro rata portion (from the applicable escrow or expense fund or otherwise) of any and all reasonable fees and expenses to such Stockholder Representative in connection with such Stockholder Representative’s services and duties in connection with such Sale of the Company and its related service as the representative of the Stockholders, and (y) not to assert any claim or commence any suit against the Stockholder Representative or any other Stockholder with respect to any action or inaction taken or failed to be taken by the Stockholder Representative in connection with its service as the Stockholder Representative, absent fraud or willful misconduct.
 
-3.2.=[Z/ol/s7]
+3.2.=[G/Z/ol/s7]
 
 3.3.Ti=Exceptions
 
@@ -140,7 +140,7 @@ Note=is there a bug in Sec_01 ??
 
 3.3.6.sec=(f)	[subject to clause (e) above, requiring the same form of consideration to be available to the holders of any single class or series of capital stock, if any holders of any capital stock of the Company are given an option as to the form and amount of consideration to be received as a result of the Proposed Sale, all holders of such capital stock will be given the same option; provided, however, that nothing in this Subsection 3.3(f) shall entitle any holder to receive any form of consideration that such holder would be ineligible to receive as a result of such holder’s failure to satisfy any condition, requirement or limitation that is generally applicable to the Company’s stockholders.
 
-3.3.=[Z/ol/s6]
+3.3.=[G/Z/ol/s6]
 
 3.4.Ti=Restrictions on Sales of Control of the Company
 
@@ -148,7 +148,7 @@ Note=is there a bug in Sec_01 ??
 
 Note=[See ADDENDUM at end of this document with alternative “Sale Rights” provisions.]
 
-3.=[Z/ol/4]
+3.=[G/Z/ol/4]
 
 4.Ti=Remedies
 
@@ -168,7 +168,7 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 4.4.sec=All remedies, either under this Agreement or by law or otherwise afforded to any party, shall be cumulative and not alternative.
 
-4.=[Z/ol/4]
+4.=[G/Z/ol/4]
 
 5.Ti=“Bad Actor” Matters
  
@@ -180,7 +180,7 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 5.2.sec=Each Person with the right to designate or participate in the designation of a director pursuant to this Agreement hereby agrees that it shall notify the Company promptly in writing in the event a Disqualification Event becomes applicable to such Person or any of its Rule 506(d) Related Parties, except, if applicable, for a Disqualification Event as to which Rule 506(d)(2)(ii) or (iii) or (d)(3) is applicable.
 
-5.=[Z/ol/2]
+5.=[G/Z/ol/2]
 
 6.Ti=Term
 
@@ -194,7 +194,7 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 7.1.2.sec=(b)	[In the event that after the date of this Agreement, the Company enters into an agreement with any Person to issue shares of capital stock to such Person (other than to a purchaser of Preferred Stock described in Subsection 7.1(a) above), [following which such Person shall hold Shares constituting one percent (1%) or more of the Company’s then outstanding capital stock (treating for this purpose all shares of Common Stock issuable upon exercise of or conversion of outstanding options, warrants or convertible securities, as if exercised and/or converted or exchanged)], then, the Company shall cause such Person, as a condition precedent to entering into such agreement, to become a party to this Agreement by executing an Adoption Agreement in the form attached hereto as Exhibit A, agreeing to be bound by and subject to the terms of this Agreement as a Stockholder and thereafter such person shall be deemed a Stockholder for all purposes under this Agreement.]
 
-7.1.=[Z/ol/s2]
+7.1.=[G/Z/ol/s2]
 
 7.2.Ti=Transfers
 
@@ -235,7 +235,7 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 7.8.00.sec=The Company shall give prompt written notice of any amendment, termination, or waiver hereunder to any party that did not consent in writing thereto. Any amendment, termination, or waiver effected in accordance with this Subsection 7.8 shall be binding on each party and all of such party’s successors and permitted assigns, whether or not any such party, successor or assignee entered into or approved such amendment, termination or waiver. For purposes of this Subsection 7.8, the requirement of a written instrument may be satisfied in the form of an action by written consent of the Stockholders circulated by the Company and executed by the Stockholder parties specified, whether or not such action by written consent makes explicit reference to the terms of this Agreement.
 
-7.8.=[Z/ol/s5]
+7.8.=[G/Z/ol/s5]
 
 7.9.Ti=Delays or Omissions
 
@@ -257,7 +257,7 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 7.12.00.sec=The Company, by its execution of this Agreement, agrees that it will cause the certificates instruments, or book entry evidencing the Shares issued after the date hereof to be notated with the legend required by this Subsection 7.12 of this Agreement, and it shall supply, free of charge, a copy of this Agreement to any holder of such Shares upon written request from such holder to the Company at its principal office. The parties to this Agreement do hereby agree that the failure to cause the certificates, instruments, or book entry evidencing the Shares to be notated with the legend required by this Subsection 7.12 herein and/or the failure of the Company to supply, free of charge, a copy of this Agreement as provided hereunder shall not affect the validity or enforcement of this Agreement.
 
-7.12.=[Z/ol/1]
+7.12.=[G/Z/ol/1]
 
 7.13.Ti=Stock Splits, Stock Dividends, etc.
 
@@ -281,7 +281,7 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 7.16.4.sec=[Each party will bear its own costs in respect of any disputes arising under this Agreement.] [The prevailing party shall be entitled to reasonable attorney’s fees, costs, and necessary disbursements in addition to any other relief to which such party may be entitled.] Each of the parties to this Agreement consents to personal jurisdiction for any equitable action sought in the U.S. District Court for the District of [_____] or any court of the [State][Commonwealth] of [state] having subject matter jurisdiction.]
 
-7.16.=[Z/ol/s4]
+7.16.=[G/Z/ol/s4]
 
 7.17.Ti=Costs of Enforcement
 
@@ -294,7 +294,7 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 7.19.sec=If any individual Stockholder is married on the date of this Agreement, such Stockholder’s spouse shall execute and deliver to the Company a consent of spouse in the form of Exhibit B hereto (“Consent of Spouse”), effective on the date hereof. Notwithstanding the execution and delivery thereof, such consent shall not be deemed to confer or convey to the spouse any rights in such Stockholder’s Shares that do not otherwise exist by operation of law or the agreement of the parties. If any individual Stockholder should marry or remarry subsequent to the date of this Agreement, such Stockholder shall within thirty (30) days thereafter obtain his/her new spouse’s acknowledgement of and consent to the existence and binding effect of all restrictions contained in this Agreement by causing such spouse to execute and deliver a Consent of Spouse acknowledging the restrictions and obligations contained in this Agreement and agreeing and consenting to the same.]
 
-7.=[Z/ol/19]
+7.=[G/Z/ol/19]
 
 00.1.sec=IN WITNESS WHEREOF, the parties have executed this [Amended and Restated] Voting Agreement as of the date first written above.
 
@@ -304,11 +304,11 @@ Note=[See ADDENDUM at end of this document with alternative “Sale Rights” pr
 
 00.3.sec={Investor.Sign.Block}
 
-00.=[Z/ol/s3]
+00.=[G/Z/ol/s3]
 
 00.sec={00.blist}
 
-=[Z/ol/7]
+=[G/Z/ol/7]
 
 Sec={Doc}
 
@@ -355,9 +355,9 @@ Holder.Sign.Block=HOLDER:<br>By: <br>Name and Title of Signatory<br>Address: 		B
 
 Co.Sign.Block=ACCEPTED AND AGREED:<br>{Co.Name.Full}<br>By: <br>Title
 
-Exh.1.00.=[Z/ol/s2]
+Exh.1.00.=[G/Z/ol/s2]
 
-Exh.1.=[Z/ol/3]
+Exh.1.=[G/Z/ol/3]
 
 
 
@@ -373,9 +373,9 @@ Exh.2.00.1.sec=Dated:
 
 Exh.2.00.2.sec=[Name of Key Holder’s Spouse]
 
-Exh.2.00.=[Z/ol/s2]
+Exh.2.00.=[G/Z/ol/s2]
 
-Exh.2.=[Z/ol/s3]
+Exh.2.=[G/Z/ol/s3]
 
 
 
@@ -415,14 +415,14 @@ Add.1.2.2.8.sec=(viii)	Subject to Section _.3, execute and perform the Company�
 
 Add.1.2.2.9.sec=(ix)	Communicate regularly and promptly with each of the Financial Advisor and Deal Counsel regarding the Sale Process.
 
-Add.1.2.2.=[Z/ol/s9]
+Add.1.2.2.=[G/Z/ol/s9]
 
 Add.1.2.3.Ti=Approval of the Terms and Conditions of a Proposed Sale of the Company; Failure to Approve a Sale of the Company
 Add.1.2.3.1.sec=(a)	The Company shall cause its management, together with the Financial Advisor and Deal Counsel, to deliver regular updates to its Board regarding material developments in the Sale Process and summarizing the status of the negotiation of the terms and conditions of the Sale of the Company. The Company shall, upon request of the Holder Representative, either call a meeting of its Board or seek the written consent of the Board approving the Sale of the Company and the entering into of the definitive agreements relating thereto.
 
 Add.1.2.3.2.sec=(b)	In the event that the Board approval described in (i) above has not been obtained within the time period requested by the Holder Representative (such time period not to be less than three (3) business days), the Electing Holders shall have the right by written notice (the “Redemption Notice”) to require the Company to redeem all of the then outstanding shares of capital stock held by the Electing Holders at a price equal to the amount of proceeds that would have been paid in respect of their shares of capital stock were the Sale of the Company consummated or, in the case of a Sale of the Company that is structured as a sale of all or substantially all of the Company’s assets, the amount of proceeds that would have been paid in respect of their investment in the Company had all proceeds from the proposed Sale of the Company been distributed in a Deemed Liquidation Event (a “Preferred Redemption”). The Company and each Investor shall be obligated to effect the Preferred Redemption within ten (10) days of the delivery of the Redemption Notice.
 
-Add.1.2.3.=[Z/ol/s2]
+Add.1.2.3.=[G/Z/ol/s2]
 
 Add.1.2.4.Ti=Appointment and Authority of Holder Representative
 
@@ -436,8 +436,8 @@ Add.1.2.4.4.sec=(d)	Any action taken by the Holder Representative pursuant to th
 
 Add.1.2.4.5.sec= (e)	The Company shall be entitled to rely on the actions and determinations of the Holder Representative, and shall have no liability whatsoever with respect to any action or omission of them taken in reliance on the actions or omissions of the Holder Representative.
 
-Add.1.2.4.=[Z/ol/s5]
+Add.1.2.4.=[G/Z/ol/s5]
 
-Add.1.2.=[Z/ol/4]
+Add.1.2.=[G/Z/ol/4]
 
-Add.1.=[Z/ol/2]
+Add.1.=[G/Z/ol/2]

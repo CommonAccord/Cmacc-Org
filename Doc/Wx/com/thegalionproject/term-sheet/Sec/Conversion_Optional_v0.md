@@ -4,4 +4,4 @@ Ti=Optional Conversion
 
 2.sec=The conversion ratio shall be 1:1, subject to adjustment in the event of stock split or grouping.
 
-=[Z/para/s2]
+=[G/Z/para/s2]

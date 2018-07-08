@@ -6,7 +6,7 @@ Ti=Obligations de l'Utilisateur
 
 1.2.sec=Il est notamment seul responsable du bon accomplissement de toutes les formalités notamment administratives, fiscales et/ ou sociales et de tous les paiements de cotisations, taxes ou impôts de toutes natures qui lui incombent, le cas échéant, en relation avec son utilisation des Services. La responsabilité de {P1.Handle} ne pourra en aucun cas être engagée à ce titre.
 
-1.=[Z/paras/s2]
+1.=[G/Z/paras/s2]
 
 2.sec=L'Utilisateur reconnaît avoir pris connaissance sur le site des caractéristiques et contraintes, notamment techniques, de l'ensemble des Services. Il est seul responsable de son utilisation des Services.
 
@@ -38,9 +38,9 @@ Ti=Obligations de l'Utilisateur
 
 7.4.6.sec=et plus généralement des Contenus susceptibles de porter atteinte aux droits de tiers ou d'être préjudiciables à des tiers, de quelque manière et sous quelque forme que ce soit.
 
-7.4.=[Z/ol-none/s6]
+7.4.=[G/Z/ol-none/s6]
 
-7.=[Z/paras/s4]
+7.=[G/Z/paras/s4]
 
 8.sec=L'Utilisateur reconnaît que les Services lui offrent une solution supplémentaire mais non alternative des moyens qu'il utilise déjà par ailleurs pour atteindre le même objectif et que cette solution ne saurait se substituer à ces autres moyens.
 
@@ -48,4 +48,4 @@ Ti=Obligations de l'Utilisateur
 
 10.sec=L'Utilisateur est informé et accepte que la mise en œuvre des Services nécessite qu'il soit connecté à internet et que la qualité des Services dépend directement de cette connexion, dont il est seul responsable.
 
-=[Z/ol/s10]
+=[G/Z/ol/s10]

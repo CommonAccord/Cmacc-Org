@@ -26,6 +26,6 @@ Ti=The proposed privacy principles include:
 
 00.sec=- See more at: <a href="http://murray.seattle.gov/category/technology/privacy/#sthash.oWZLqMMV.dpuf">http://murray.seattle.gov/category/technology/privacy/#sthash.oWZLqMMV.dpuf</a>
 
-=[Z/ol/6]
+=[G/Z/ol/6]
 
 Note=Inspired by @xmlgrrl retweet of <a href="https://twitter.com/geekwire/status/653632239583014912">https://twitter.com/geekwire/status/653632239583014912</a>

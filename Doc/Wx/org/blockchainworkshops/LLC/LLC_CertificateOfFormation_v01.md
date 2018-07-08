@@ -30,6 +30,6 @@ Sign={Incorp.Sign.Block}
 
 Incorp.Handle=Incorporator
 
-=[Z/ol/4]
+=[G/Z/ol/4]
 
 Sec={Doc}

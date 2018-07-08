@@ -22,4 +22,4 @@ MFN.1.2.cl=the fair market value of the {Common_Stock} at the time of the {Liqui
 
 2.3.Sen=In connection with a {Change_of_Control} intended to qualify as a tax-free reorganization, {the_Company} may reduce, pro rata, the {Purchase_Amounts} payable to the {Cash-Out_Investors} by the amount determined by its board of directors in good faith to be advisable for such {Change_of_Control} to qualify as a tax-free reorganization for U.S. federal income tax purposes, and in such case, the {Cash-Out_Investors} will automatically receive the number of shares of {Common_Stock} equal to the remaining unpaid {Purchase_Amount} divided by the {Liquidity_Price}.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

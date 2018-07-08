@@ -48,7 +48,7 @@ Ti=DEVgrant Scheme Conditions
 
 1.1.11.sec=the addressee of the Letter.
 
-1.1.=[Z/ol-none/11]
+1.1.=[G/Z/ol-none/11]
 
 1.2.0.sec=In these Conditions:
 
@@ -64,9 +64,9 @@ Ti=DEVgrant Scheme Conditions
 
 1.2.6.sec=references to writing and written include communication by email and fax including all related attachments.
 
-1.2.=[Z/ol-a/s6]
+1.2.=[G/Z/ol-a/s6]
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=Your obligations
 
@@ -86,7 +86,7 @@ Ti=DEVgrant Scheme Conditions
 
 4.3.sec=permit us, or persons authorised by us, to inspect, audit and take copies of all reports, books and accounting records relating to the Project and the DEVgrant.
 
-4.=[Z/ol-a/s3]
+4.=[G/Z/ol-a/s3]
 
 5.Ti=Variation, suspension or withholding
 
@@ -108,7 +108,7 @@ Ti=DEVgrant Scheme Conditions
 
 6.7.sec=You warrant to us that neither the Intellectual Property Rights which you develop in conducting the Project nor the use or publication of any Project Work Product or Intellectual Property Rights necessary for use of the Project Work Product will infringe, in whole or in part, any Intellectual Property Right of any other person and you agree to indemnify and hold us harmless against any and all claims, demands and proceedings arising directly or indirectly out of our publication or use of the Project Work Product where this gives rise to or is alleged to give rise to an infringement of third party Intellectual Property Rights.
 
-6.=[Z/ol/s7]
+6.=[G/Z/ol/s7]
 
 7.Ti=Confidentiality
 
@@ -120,7 +120,7 @@ Ti=DEVgrant Scheme Conditions
 
 7.2.2.sec=as may be required by law, a court of competent jurisdiction or any governmental or regulatory authority.
 
-7.2.=[Z/ol-a/s2]
+7.2.=[G/Z/ol-a/s2]
 
  7.3.0.sec=The obligations contained in this clause 7 shall survive the expiry or termination of this agreement for any reason, but shall not apply to any Confidential Information which:
 
@@ -138,11 +138,11 @@ Ti=DEVgrant Scheme Conditions
 
 7.3.3.4.sec=is required by law, regulation or order of a competent authority (including any regulatory or governmental body or securities exchange) to be disclosed by you, provided that, where practicable, we are given reasonable advance notice of the intended disclosure.
 
-7.3.3.=[Z/ol-i/s4]
+7.3.3.=[G/Z/ol-i/s4]
 
-7.3.=[Z/ol-a/s3]
+7.3.=[G/Z/ol-a/s3]
 
-7.=[Z/ol/s3]
+7.=[G/Z/ol/s3]
 
 8.Ti=General
 
@@ -156,6 +156,6 @@ Ti=DEVgrant Scheme Conditions
 
 8.5.sec=This Agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non­contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales, and the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim arising out of or in connection with this Agreement or its subject matter or formation, save that we may, at our discretion, elect to bring a claim in the courts of any competent jurisdiction.
 
-8.=[Z/ol/s5]
+8.=[G/Z/ol/s5]
 
-=[Z/ol/8]
+=[G/Z/ol/8]

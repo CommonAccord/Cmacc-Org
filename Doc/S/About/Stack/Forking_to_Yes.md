@@ -14,7 +14,7 @@ Ti=How the open source community solved the problem of getting substantial agree
 
 3.4.sec=There is ongoing forking and convergence - eventually a few solutions emerge with strong followings.
 
-3.=[Z/ol/s4]
+3.=[G/Z/ol/s4]
 
 4.0.sec=What may be less well recognized is that this can be applied to other uses of text, notable to legal relationships.  The critical concepts are:
 
@@ -24,6 +24,6 @@ Ti=How the open source community solved the problem of getting substantial agree
 
 4.3.sec=Running code - local decision and consequences.
 
-4.=[Z/ol/s3]
+4.=[G/Z/ol/s3]
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

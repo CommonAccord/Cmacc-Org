@@ -8,7 +8,7 @@ Doc.Ti=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Company.Name.Full}
 
 0.00.sec=DOES HEREBY CERTIFY:
 
-0.=[Z/ol/s2]
+0.=[G/Z/ol/s2]
 
 1.sec=That the name of this corporation is {Company.Name.Full}, and that this corporation was originally incorporated pursuant to the General Corporation Law on {Company.OriginallyIncorporated.YMD} under the name {Company.OriginalIncorporationName.Full}.
 
@@ -18,7 +18,7 @@ Doc.Ti=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Company.Name.Full}
 
 2.1.=[Wx/org/nvca/COI/Sec/Text_v01.md]
 
-2.=[Z/ol/s1]
+2.=[G/Z/ol/s1]
 
 3.sec=That the foregoing amendment and restatement was approved by the holders of the requisite number of shares of this corporation in accordance with Section 228 of the General Corporation Law. 
 
@@ -28,8 +28,8 @@ Doc.Ti=AMENDED AND RESTATED CERTIFICATE OF INCORPORATION OF {Company.Name.Full}
 
 00.2.sec={Company.Secretary.Sign.Block}
 
-00.=[Z/paras/s2]
+00.=[G/Z/paras/s2]
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
   
 Sec={Doc}

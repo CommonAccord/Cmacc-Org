@@ -8,4 +8,4 @@ Ti=Données
 
 00.sec=L'Utilisateur peut accéder à ces données dans son Espace Personnel.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

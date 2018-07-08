@@ -21,4 +21,4 @@ WithWhat.cl=the {_Work_Product} in any medium or format, whether now known or la
 
 Waive.Sen=In the event that {_the_Consultant} has any rights in the {_Work_Product} that cannot be assigned or licensed, {_the_Consultant} unconditionally and irrevocably waives the enforcement of such rights, and all claims and causes of action of any kind against {_the_Client} or {_the_Client}'s customers.
 
-=[Z/ol/0]
+=[G/Z/ol/0]

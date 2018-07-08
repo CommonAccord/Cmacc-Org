@@ -12,7 +12,7 @@ Ti=A blockchain-enable consent system:
 
 1.5.sec=With each person and institution identified by handle.
 
-1.=[Z/ol/s5]
+1.=[G/Z/ol/s5]
 
 2.Ti=Consequences
 
@@ -24,7 +24,7 @@ Ti=A blockchain-enable consent system:
 
 2.4.sec=Blockchains can be chained.  A system can be satisfied with just one original of each bit of information.  Copies can be discarded because the original is safe.  Shard, share, discard, recharge. 
 
-2.=[Z/ol/s4]
+2.=[G/Z/ol/s4]
 
-=[Z/ol/2]
+=[G/Z/ol/2]
 

@@ -10,7 +10,7 @@ Ti=Compliance Hotline and Company Contacts
 
 2.4.sec=Any employee who is concerned about retaliation or feels that he or she has been subjected to such retaliation should immediately contact the Compliance Hotline or the {Compliance_Officer}.
 
-2.=[Z/para/s4]
+2.=[G/Z/para/s4]
 
 3.1.sec=The Compliance Hotline is a toll-free, confidential, third party service set up for employees to report possible violations of the law, {this_Policy}, or other {the_Company} policies.
 
@@ -26,6 +26,6 @@ Ti=Compliance Hotline and Company Contacts
 
 3.7.sec=Employees may also report issues or problems by email to {Compliance.Email} or by mail addressed to {Compliance.Name,Address}.
 
-3.=[Z/paras/s7]
+3.=[G/Z/paras/s7]
   
-=[Z/paras/s3]
+=[G/Z/paras/s3]

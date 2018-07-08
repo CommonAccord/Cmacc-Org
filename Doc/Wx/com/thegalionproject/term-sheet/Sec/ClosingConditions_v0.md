@@ -14,4 +14,4 @@ Note="{_New_Investor}s" is used in init cap but not defined.
 
 6.sec=no unanticipated material adverse events.
 
-=[Z/ol-i/s6]
+=[G/Z/ol-i/s6]

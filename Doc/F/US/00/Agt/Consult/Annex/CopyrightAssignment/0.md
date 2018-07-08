@@ -10,10 +10,10 @@ Doc.Ti=Assignment of Copyright
 
 1.00.sec=and all of the right, title and interest of the undersigned, vested and contingent, therein and thereto.
 
-1.=[Z/ol/3]
+1.=[G/Z/ol/3]
 
 00.sec=Executed as of {_EffectiveDate.YMD}.<br><br>{P2.Sign.Block}
 
-=[Z/ol/1]
+=[G/Z/ol/1]
 
 Sec={Doc}

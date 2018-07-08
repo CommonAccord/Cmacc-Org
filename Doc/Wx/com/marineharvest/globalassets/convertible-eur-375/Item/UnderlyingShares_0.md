@@ -4,4 +4,4 @@ Ti=Underlying Shares
 
 2.sec= Bloomberg: MHG NO Equity
 
-=[Z/paras/s2]
+=[G/Z/paras/s2]

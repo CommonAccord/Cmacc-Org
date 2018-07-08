@@ -6,7 +6,7 @@ Ti=Solution:
 
 1.2.sec=SF made GitHub.
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=HazardJ made Cmacc:
 
@@ -20,7 +20,7 @@ Ti=Solution:
 
 2.00.sec=Prefixed, multiple prototype inheritance.  Hard name, easy software,
 
-2.=[Z/ol/s3]
+2.=[G/Z/ol/s3]
 
 3.Ti=<a href="https://cyber.law.harvard.edu/people/pdefilippi">Primavera</a> redid the parser
 
@@ -32,6 +32,6 @@ Ti=Solution:
 
 3.4.sec= on GitHub.
 
-3.=[Z/ol-a/s4]
+3.=[G/Z/ol-a/s4]
 
-=[Z/ol/3]
+=[G/Z/ol/3]

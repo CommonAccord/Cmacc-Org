@@ -19,7 +19,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 1.3.sec=With this RFA, MassHealth seeks applications from Hospitals that wish to make presumptive eligibility determinations under the ACA. Upon receipt of applications to this RFA, EOHHS shall evaluate each submission based on the criteria set forth in this RFA. Upon EOHHS’ approval of a Hospital’s application, the Hospital and the EOHHS shall execute a MassHealth Hospital- Determined Presumptive Eligibility Contract. The non-financial Contract will remain valid until either party terminates the Contract or the Hospital is disqualified from making presumptive eligibility determinations, whichever occurs first. EOHHS reserves the right to terminate this agreement immediately without notice if it determines that any material term of the Contract has been violated.
 
-1.=[Z/ol-AA/s3]
+1.=[G/Z/ol-AA/s3]
 
 2.Ti=Definitions
 
@@ -61,7 +61,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 2.18.sec=State-developed Performance Standards –metrics developed by EOHHS regarding submission of applications for full MassHealth benefits and the outcome of such applications and other measures designed to evaluate Hospitals’ presumptive eligibility performance as they may be updated from time to time.
 
-2.=[Z/ol-AA/s18]
+2.=[G/Z/ol-AA/s18]
 
 3.Ti=Provider Qualifications
 
@@ -81,11 +81,11 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 3.90.2.sec=In determining whether a Hospital satisfies the requirements set forth in Section III, EOHHS may evaluate, pursuant to an on-site audit or otherwise, a number of factors including, but not limited to, State-developed Performance Standards.
 
-3.90.=[Z/paras/s2]􏰀􏰁􏰂􏰃􏰄􏰅􏰆􏰇􏰕􏰉 􏰗􏰅􏰘􏰙􏰔􏰄􏰓􏰆􏰂􏰁
+3.90.=[G/Z/paras/s2]􏰀􏰁􏰂􏰃􏰄􏰅􏰆􏰇􏰕􏰉 􏰗􏰅􏰘􏰙􏰔􏰄􏰓􏰆􏰂􏰁
 
 3.90.Ti=</i>
 
-3.=[Z/ol-AA/s5]
+3.=[G/Z/ol-AA/s5]
 
 4.Ti=Provider Election
 
@@ -99,7 +99,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 5.3.sec=MassHealth will monitor two measures to ensure that Hospitals are making presumptive eligibility determinations in a judicious manner. The details of performance measurement are provided in the contract. EOHHS will work with Hospitals that do not meet the standards to provide additional training, and, if necessary, develop and implement corrective action plans.
 
-5.=[Z/ol-AA/s3]
+5.=[G/Z/ol-AA/s3]
 
 6.Ti=Presumptive Eligibility Determinations
 
@@ -125,7 +125,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 6.3.8.sec=Children who are non-qualified permanent residents under color of law (PRUCOLs) eligible for MassHealth Family Assistance
 
-6.3.=[Z/f/ol/s8]
+6.3.=[G/Z/f/ol/s8]
 
 6.4.sec=Individuals found presumptively eligible will receive the MassHealth coverage for which they appear eligible (i.e., MassHealth Standard, MassHealth CarePlus, or MassHealth Family Assistance). No presumptive eligibility is offered for other MassHealth coverage including, but not limited to, MassHealth Limited and Health Safety Net.
 
@@ -133,7 +133,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 6.6.sec=For individuals found presumptively eligible for MassHealth, the notice will explain the duration of their presumptive eligibility; the services available to them and how to access them; and information on how to submit an application for continued coverage and the importance of doing so. If they are not found presumptively eligible, the notice will inform them of the decision; provide a reason for the determination; and advise them how to submit the full MassHealth Application. EOHHS will provide notice language for the Qualified Hospitals to use.􏰆
 
-6.=[Z/ol-AA/s6]
+6.=[G/Z/ol-AA/s6]
 
 7.Ti=Disqualification
 
@@ -143,7 +143,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 7.3.sec=If the Hospital is disqualified from making presumptive eligibility determinations, such disqualification will not necessarily limit the Hospital from participating in MassHealth or any agreements other than this one between the Hospital and EOHHS.
 
-7.=[Z/ol-AA/s3]
+7.=[G/Z/ol-AA/s3]
 
 8.Ti=Application Instructions
 
@@ -167,9 +167,9 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 8.4.2.sec=Accordingly, the MassHealth Hospital-Determined Presumptive Eligibility Contract contained in Appendix A requires that Hospitals complete and return the Executive Order 504 Certification contained in Appendix C.
 
-8.4.=[Z/f/ol/s2]
+8.4.=[G/Z/f/ol/s2]
 
-8.=[Z/ol-AA/4]
+8.=[G/Z/ol-AA/4]
 
 9.Ti=RFA Information
 
@@ -187,7 +187,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 9.2.4.sec=To learn more about the COMMBUYS system, please visit: http://www.mass.gov/anf/budget- taxes-and-procurement/procurement-info-and-res/conduct-a-procurement/commbuys/
 
-9.2.=[Z/f/ol/s4]
+9.2.=[G/Z/f/ol/s4]
 
 9.3.Ti=Applicants’ Conference Call
 
@@ -195,7 +195,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 9.3.2.sec=TABLE
 
-9.3.=[Z/f/ol/s2]
+9.3.=[G/Z/f/ol/s2]
 
 9.4.Ti=D. Inquiries
 
@@ -203,7 +203,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 9.4.2.sec=EOHHS shall review inquiries received and will identify questions for which written answers will be prepared. The written answers will be posted as described in Section IX.B. Only written answers are binding on EOHHS.
 
-9.4.=[Z/f/ol/s2]
+9.4.=[G/Z/f/ol/s2]
 
 9.5.Ti=Addendum or Withdrawal of RFA
 
@@ -241,7 +241,7 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 9.13.sec=Applicants shall comply with all state and federal laws, regulations, policies and procedures relating to confidentiality, privacy, and security.
 
-9.=[Z/ol-AA/13]
+9.=[G/Z/ol-AA/13]
 
 10.Ti=Timetable
 
@@ -251,6 +251,6 @@ Ti=<center><b>Commonwealth of Massachusetts Executive Office of Health and Human
 
 10.3.sec=TABLE
 
-10.=[Z/ol-AA/s3]
+10.=[G/Z/ol-AA/s3]
 
-=[Z/f/ol/10]
+=[G/Z/f/ol/10]

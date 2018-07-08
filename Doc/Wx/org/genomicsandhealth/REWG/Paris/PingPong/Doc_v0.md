@@ -8,7 +8,7 @@ Ti=PingPong
 
 1.3.Ti=Sign Consent P -> R
 
-1.=[Z/ol/3]
+1.=[G/Z/ol/3]
 
 2.Ti=Propose Data Set
 
@@ -20,6 +20,6 @@ Ti=PingPong
 
 2.4.Ti=Terms Sign Cx -> R
 
-2.=[Z/ol/4]
+2.=[G/Z/ol/4]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

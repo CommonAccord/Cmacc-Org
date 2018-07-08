@@ -33,7 +33,7 @@ Note=No title on the introduction:
 
 0.Sec={0.sec}
 
-0.=[Z/paras/s5]
+0.=[G/Z/paras/s5]
 
 1.Ti=Definition of Confidential Information
 
@@ -83,8 +83,8 @@ Note=No title on the introduction:
 
 00.3.sec={P1.Sign.Block}<br>{P2.Sign.Block}
 
-00.=[Z/paras/s3]
+00.=[G/Z/paras/s3]
 
-=[Z/ol/13]
+=[G/Z/ol/13]
 
 Sec={Doc}

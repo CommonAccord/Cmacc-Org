@@ -3,7 +3,7 @@ Model.Root={Content}
 Note= the various types of customers are: end users, influencers, recommenders, economic buyer, decision maker. And then we should always also consider who are the saboteurs
 
 Content=<ol><li>{Type}</li><li>{Problem}</li><li>{DayInTheLife}</li><li>{Organization}</li><li>{ROI}</li><li>{MVP}</li></ol>
-=[Z/ol/s6] 
+=[G/Z/ol/s6] 
 
 Type=What type of customer 
 

@@ -16,4 +16,4 @@ BioEffect.cl=human corpses to reanimate and seek to consume living human flesh, 
 
 Consequence.cl=the fall of organized civilization
 
-=[Z/ol/0]
+=[G/Z/ol/0]

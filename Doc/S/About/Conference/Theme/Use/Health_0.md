@@ -6,4 +6,4 @@ Ti=Health
 
 3.sec=Genetics
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]

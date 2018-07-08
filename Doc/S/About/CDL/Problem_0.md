@@ -12,4 +12,4 @@ Ti=Problem
 
 5.sec=Legal codification is slow and fragmented.
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]

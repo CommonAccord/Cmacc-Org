@@ -6,13 +6,13 @@ General.Ti=General
 
 General.sec={Supplier} shall take all necessary precautions to prevent the occurrence of any injury to persons, property or the environment during the progress of work and ensure that {Supplier_Personnel} neither pose a threat to {Company}’s safe work environment nor the integrity of its business operations. Except to the extent that any injury or damage is due solely and directly to {Company}, {Supplier} shall release, defend, hold harmless and indemnify {Company}, its directors, officers, employees, agents, representatives, successors and assigns against any and all suits, actions or proceedings, at law or in equity, and from any and all claims, demands, losses, judgments, damages, costs (including reasonable attorneys’ fees), fines, penalties, expenses or liabilities, including without limitation claims for personal injury or property or environmental damage, resulting from or in any way connected with any act or omission of {Supplier_Personnel}, {Supplier}, its agents, employees or subcontractors, whether acting in the course of their employment or otherwise, in connection with, but not limited to, all of the representations, warranties or covenants contained in {this_Agreement}. In addition, {Supplier} shall indemnify, defend and hold {Company} harmless from and against any claims, costs or expenses, including, but not limited to, reasonable attorneys' fees, arising out of or in connection with any employment claims, i.e., workers compensation, harassment or discrimination claims, or breaches of Sections {Confidential.Engage.Xnum}, {Comply.Xnum} or {Environment.Xnum} or {Schedule_B} hereto by {Supplier} or {Supplier}'s Personnel. {Supplier} agrees to include this clause in all related subcontracts. {Supplier} further agrees to indemnify {Company} for any attorneys’ fees or other costs {Company} incurs in the event that {Company} has to file a lawsuit to enforce any indemnity or additional insured provisions of {this_Agreement}.
 
-General.=[Z/ol/0]
+General.=[G/Z/ol/0]
 
 IP.Ti={Intellectual_Property}
 
 IP.sec={Supplier} shall indemnify, defend and hold {Company} harmless from any suit or proceeding brought against {Company} or its customers based on any claim that any {Services}, systems, article or apparatus, or any part thereof constituting {Services} and/or any deliverables furnished under {this_Agreement}, as well as any device or process necessarily resulting from the use thereof, constitutes an infringement of any patent, copyright or other {Intellectual_Property} right. If notified promptly in writing and given authority, information and assistance, at {Supplier}'s expense, for the defense of same, {Supplier} shall pay all damages, costs and expenses incurred or awarded therein, including, but not limited to, reasonable attorneys’ fees. If use of any systems, article, apparatus, part, device, process, {Service} and/or any deliverable is enjoined, {Supplier} shall, at its own expense and in the following order, subject to commercial practicality, either: a) procure for {Company} the right to continue using such {Service}, system, article or apparatus, part, device, process or deliverable; b) replace same with a non infringing equivalent; or c) remove such system, article or apparatus, part, device, process or deliverable or halt such {Service} and refund the purchase price and, if applicable, the transportation and installation costs thereof.
 
-IP.=[Z/ol/0]
+IP.=[G/Z/ol/0]
 
 Insurance.Ti=Insurance Coverage
 
@@ -26,7 +26,7 @@ Insurance.3.sec=Business Automobile Liability Insurance covering all vehicles us
 
 Insurance.4.sec=Professional Errors and Omissions Insurance covering the activities of {Supplier} written on a "claims made” basis with a minimum limit equal to: {Prof.Occur.$} per occurrence.
 
-Insurance.=[Z/ol/s4]
+Insurance.=[G/Z/ol/s4]
 
 Add.Ti=Additional Insurance Requirements
 
@@ -47,6 +47,6 @@ Add.4.sec=All policies provided for herein shall expressly provide that such pol
 
 Add.5.sec=All insurance specified in this section shall contain a waiver of subrogation in favor of the {Company}, its Affiliates and their respective employees for all losses and damages covered by the insurance required by this section.
 
-Add.=[Z/ol/s5]
+Add.=[G/Z/ol/s5]
 
-=[Z/ol/0]
+=[G/Z/ol/0]

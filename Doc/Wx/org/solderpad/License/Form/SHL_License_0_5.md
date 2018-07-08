@@ -26,12 +26,12 @@ ReWarrant.=[Wx/org/solderpad/License/Sec/ReWarrant_v01.md]
 
 Sec={Doc}
 
-=[Z/Sec/9]
+=[G/Z/Sec/9]
 
 You={d-}You{-d}
 
 Your={d-}Your{-d}
 
-=[Z/Misc/LinksSimple.md]
+=[G/Z/Misc/LinksSimple.md]
 
 MessageToUser=</u>

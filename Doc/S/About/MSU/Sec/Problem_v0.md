@@ -14,4 +14,4 @@ Ti=The problem:
 
 00.sec=How did it get this way?
 
-=[Z/para/s5]
+=[G/Z/para/s5]

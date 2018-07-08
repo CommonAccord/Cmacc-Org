@@ -6,7 +6,7 @@ Ti=Two examples:
 
 1.2.sec=EU gives us an opportunity to fix it.  Huge, urgent headache for Silicon Valley, big opportunity for Europe and privacy advocates.
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
 
 2.Ti=Startup
 
@@ -14,7 +14,7 @@ Ti=Two examples:
 
 2.2.sec=Very repetitive
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
 3.Ti=Document:
 
@@ -22,4 +22,4 @@ Ti=Two examples:
 
 SAFE.=[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]
 
-=[Z/ol/3]
+=[G/Z/ol/3]

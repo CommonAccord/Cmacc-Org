@@ -8,4 +8,4 @@ Ti=Further Agreements
 
 2.sec=Each {Purchaser} agrees and covenants that at any time and from time to time it will promptly execute and deliver to {the_Company} such further instruments and documents and take such further action as {the_Company} may reasonably require in order to carry out the full intent and purpose of {this_Agreement} and to comply with state or federal securities laws or other regulatory approvals.
 
-=[Z/ol/2]
+=[G/Z/ol/2]

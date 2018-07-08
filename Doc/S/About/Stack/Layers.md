@@ -18,6 +18,6 @@ Ti=Layers of Law
 
 5.sec={TBI}
 
-=[Z/ol/5]
+=[G/Z/ol/5]
 
 TBI=To be iterated.

@@ -18,7 +18,7 @@ Engage.3.sec=to destroy all copies or records of such information shortly after 
 
 Engage.4.sec=to notify {P1.Handle} of any leak or misuse of such information which {P2.Handle} learns of or should have learned of. 
 
-Engage.=[Z/ol/s4]
+Engage.=[G/Z/ol/s4]
 
 
 Def.Sec=<b>Definitions</b><ol><li>{Def.Principal.sec}<li>{Def.Trusted_Agent.sec}<li>{Def.Personal_Information.sec}</ol>
@@ -29,7 +29,7 @@ Def.Trusted_Agent.sec="{Trusted_Agent}" means you, {P2.Name.Full}, and such empl
 
 Def.Personal_Information.sec="{Personal_Information.sec}" means any and all information that you receive from me. 
 
-=[Z/Agt/Agt.md]
+=[G/Z/Agt/Agt.md]
 
 
 

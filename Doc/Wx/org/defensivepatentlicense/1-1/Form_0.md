@@ -4,7 +4,7 @@ Doc.Title=The Defensive Patent License 1.1
 
 2.=[Wx/org/defensivepatentlicense/1-1/Text_Marked_0.md]
 
-=[Z/paras/2]
+=[G/Z/paras/2]
 
 Sec={Doc}
 

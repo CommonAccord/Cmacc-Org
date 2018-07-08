@@ -46,12 +46,12 @@ Ti=Developer Agreement
 
 7.8.Ti=Miscellaneous
 
-1.=[Z/ol/2]
+1.=[G/Z/ol/2]
 
-2.=[Z/ol/4]
+2.=[G/Z/ol/4]
 
-4.=[Z/ol/2]
+4.=[G/Z/ol/2]
 
-7.=[Z/ol/8]
+7.=[G/Z/ol/8]
 
-=[Z/ol/7]
+=[G/Z/ol/7]

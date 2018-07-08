@@ -26,7 +26,7 @@ Board.1.1.4.sec=make certain other changes, as set forth in the Amended and Rest
 
 1.3.sec={R2} That the appropriate officers of the Company are hereby authorized and directed to execute the Amended Certificate and take all such action as such officers deem necessary or desirable to file the Amended Certificate with the Delaware Secretary of State and to cause the Amended Certificate to become effective.
 
-1.=[Z/ol/s3]
+1.=[G/Z/ol/s3]
 
 2.Ti=Omnibus Resolutions
 
@@ -34,7 +34,7 @@ Board.1.1.4.sec=make certain other changes, as set forth in the Amended and Rest
 
 2.2.sec={R2} That any actions taken by such officers prior to the date of the foregoing resolutions adopted hereby that are within the authority conferred thereby are hereby ratified, confirmed and approved as the acts and deeds of the Company.
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
 00.sec={Sign.Witness}<br>{Sign.Block}
 
@@ -42,6 +42,6 @@ Sign.Witness=<strong>IN WITNESS WHEREOF</strong>, by executing this Action by Wr
 
 Sign.Block=<table><tr><td>{Co.Sign.Block}</td><td>{Inv.1.Sign.Block}</td></tr></table>
 
-=[Z/ol/2]
+=[G/Z/ol/2]
 
 Sec={Doc}

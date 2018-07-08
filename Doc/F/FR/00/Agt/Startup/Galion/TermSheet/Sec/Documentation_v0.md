@@ -4,4 +4,4 @@ Ti=Documentation
 
 2.sec=The documents other than corporate documents shall be in English.
 
-=[Z/para/s2]
+=[G/Z/para/s2]

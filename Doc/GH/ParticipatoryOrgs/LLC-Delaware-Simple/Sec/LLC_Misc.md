@@ -48,7 +48,7 @@ Ti=MISCELLANEOUS
 
 11.3.sec=The Managers may exercise the special power of attorney granted in section {Xnum}.11(a) by a facsimile signature.
 
-11.=[Z/ol/s3]
+11.=[G/Z/ol/s3]
 
 12.Ti=Counterparts
 
@@ -58,4 +58,4 @@ Ti=MISCELLANEOUS
 
 13.sec=Each individual who is admitted as a Member of the Company shall cause the Member's spouse who is not also a Member to execute a consent to this agreement in the form of exhibit B. Any Member who marries subsequent to the Member's admission as a Member of the Company shall cause the Member's spouse to execute that consent as well.
 
-=[Z/ol/13]
+=[G/Z/ol/13]

@@ -8,4 +8,4 @@ Ti=Legal Applications
 
 3.sec=Projects to strengthen weak legal systems via codified legal documents, auditing, and mobilephone access. <a href="https://docs.google.com/document/d/1ZQA4LPeKqTz7K3YrlG5cT3So-GooJRWSkLmfu8umSjk/edit">Reinforcing Legal Institutions and the Rule of Law through Peer-to-Peer Transacting</a>
 
-=[Z/ol/s3]
+=[G/Z/ol/s3]

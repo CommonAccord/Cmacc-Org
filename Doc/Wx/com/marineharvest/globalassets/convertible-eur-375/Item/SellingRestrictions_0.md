@@ -6,4 +6,4 @@ Ti=Selling Restrictions
 
 3.sec=Sales to institutional investors only in {SellingRestrictions.WhiteListCountries} as per market practice
 
-=[Z/paras/s3]
+=[G/Z/paras/s3]

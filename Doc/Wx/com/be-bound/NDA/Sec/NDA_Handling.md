@@ -12,10 +12,10 @@ Ti=Handling of disclosed information
 
 1.4.sec=in the case of its consultants and professional advisers, the Receiving Party notifies the Disclosing Party in Writing of their identity prior to disclosing any Information to them and the Disclosing Party shall have the right within two working days of such notification to request that a confidentiality undertaking be entered into direct between the Disclosing Party and such consultant or professional adviser prior to any disclosure of Disclosed Information.
 
-1.=[Z/ol-i/s4]
+1.=[G/Z/ol-i/s4]
 
 2.sec=Copies or reproductions shall not be made except to the extent reasonably necessary for the Project and all copies made shall be the property of the Disclosing Party. All copies of Disclosed Information made by the Receiving Party will contain the same proprietary and confidentiality notices as detailed on the original Disclosed Information.
 
 3.sec=All Disclosed Information and copies thereof shall be returned to the Disclosing Party  forthwith upon receipt of a written request from the Disclosing Party. In such event the Receiving Party undertakes to destroy all documentation generated from or incorporating any Disclosed Information including any copies and/or erase or procure that there be erased, all Disclosed Information and any copies from any computer, word processor or other device containing such Disclosed Information, in a manner prescribed by the Disclosing Party, and thereafter certify to the Disclosing Party that it has complied with the terms of this section (c).
 
-=[Z/ol-a/s2]
+=[G/Z/ol-a/s2]

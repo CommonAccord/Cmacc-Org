@@ -12,7 +12,7 @@ Ti=Sequences
 
 13.1.sec=“superseded”
 
-13.=[Z/ol/s1]
+13.=[G/Z/ol/s1]
 
 
 12.Ti=Terminated – Contract reaches its expiry date.  It may or may not be renewed or renegotiated.
@@ -23,7 +23,7 @@ Ti=Sequences
 
 12.1.sec=“obsoleted”
 
-12.=[Z/ol/s1]
+12.=[G/Z/ol/s1]
 
 
 11.Ti=Rescinded – Contract is nullified because of faulty execution.  E.g., competency of the signer(s), or where the policy is substantially different from and did not accompany the application/form so that the applicant could not compare them.
@@ -34,7 +34,7 @@ Ti=Sequences
 
 11.1.sec=<i>"nullified" – Definition: “This Act instance was created in error and has been 'removed' and is treated as though it never existed. A record is retained for audit purposes only.”
 
-11.=[Z/ol/s1]
+11.=[G/Z/ol/s1]
 
 
 10.Ti=Cancelled – Contract is terminated due to failure of the Grantor and/or the Grantee to fulfill one or more contract provisions.
@@ -49,7 +49,7 @@ Ti=Sequences
 
 10.3.sec=“aborted” – Definition The Act has been terminated prior to the originally intended completion.
 
-10.=[Z/ol/s3]
+10.=[G/Z/ol/s3]
 
 
 9.Ti=Amended – Contract is revised substantially or to correct errors.
@@ -64,7 +64,7 @@ Ti=Sequences
 
 9.3.sec=entered-in-error
 
-9.=[Z/ol/s3]
+9.=[G/Z/ol/s3]
 
 
 8.Ti=Resolved – Contract dispute is settled so that the contract can be reactivated.
@@ -77,7 +77,7 @@ Ti=Sequences
 
 8.2.sec=“reactivated” – Definition: Change the status of a formerly active object representing an Act to "active", i.e., so it can again be performed or is being performed.
 
-8.=[Z/ol/s2]
+8.=[G/Z/ol/s2]
 
 
 7.Ti=Disputed – Contract is pended to rectify failure of the Grantor or the Grantee to fulfill obligations.
@@ -92,7 +92,7 @@ Ti=Sequences
 
 7.3.sec=“suspended” – Definition: Act that has been activated (actions could or have been performed against it), but has been temporarily disabled. No further action should be taken against it until it is released
 
-7.=[Z/ol/s3]
+7.=[G/Z/ol/s3]
 
 
 
@@ -106,7 +106,7 @@ Ti=Sequences
 
 6.2.sec=“completed” – Definition: An Act that has terminated normally after all of its constituents have been performed.
 
-6.=[Z/ol/s2]
+6.=[G/Z/ol/s2]
  
 
 5.Ti=Rejected – Execution of the Contract is not completed because either or both the Grantor and Grantee decline to accept some or all of the contract provisions.
@@ -119,7 +119,7 @@ Ti=Sequences
 
 5.2.sec=“cancelled” – Definition: The Act has been abandoned before activation.
 
-5.=[Z/ol/s2] 
+5.=[G/Z/ol/s2] 
 
 4.Ti=Negotiable – Contract execution is suspended while either or both the Grantor and Grantee propose and consider new or revised contract provisions.
 
@@ -141,11 +141,11 @@ Ti=Sequences
 
 4.Comment.2.sec=§  progress to “released” – Definition: Change the status of an object representing an Act so it is no longer "held", i.e., allow action to occur.
 
-4.Comment.=[Z/ol/s2]
+4.Comment.=[G/Z/ol/s2]
 
 4.00.Sec={4.Comment.Sec}
 
-4.=[Z/ol/s3]
+4.=[G/Z/ol/s3]
 
 
  
@@ -165,7 +165,7 @@ Ti=Sequences
 
 3.5.sec= “active”- Definition: The Act can be performed or is being performed
 
-3.=[Z/ol/s5]
+3.=[G/Z/ol/s5]
 
 
 
@@ -179,7 +179,7 @@ Ti=Sequences
 
 2.2.sec=“new” – Definition: An Act that is in the preparatory stages and may not yet be acted upon
 
-2.=[Z/ol/s2]
+2.=[G/Z/ol/s2]
 
  
 1.Ti=Policy/Form
@@ -194,8 +194,8 @@ Ti=Sequences
 
 1.2.sec=“intended”
 
-1.=[Z/ol/s2]
+1.=[G/Z/ol/s2]
  
-=[Z/ol/13]
+=[G/Z/ol/13]
 
 Note=Let me know if these make some sense, where I misunderstood the examples in Common Accord site, and any changes this group would like to recommend.

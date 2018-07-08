@@ -12,7 +12,7 @@ Ti=Smart Contracts
 
 1.3.sec=Provable.
 
-1.=[Z/ol/s3]
+1.=[G/Z/ol/s3]
 
 2.Ti=Examples
 
@@ -28,6 +28,6 @@ Ti=Smart Contracts
 
 3.2.5.sec=Make payments, in uncolored funds or colored funds.
 
-2.=[Z/ol/s5]
+2.=[G/Z/ol/s5]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

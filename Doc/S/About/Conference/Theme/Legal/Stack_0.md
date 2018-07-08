@@ -16,4 +16,4 @@ Ti=Legal Stack
 
 8.sec=The New Legal Profession
 
-=[Z/ol/s8]
+=[G/Z/ol/s8]

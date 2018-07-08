@@ -8,7 +8,7 @@ Ti=Order
 
 4.sec=Time of this record is <u>{Record.YMD:HMS}</u>.
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]
 
 
 Executable.1=primaryAddress = eth.accounts[0]<br>MyContract = eth.contract(abi);<br>contact = MyContract.new(arg1, arg2, ...,{from: primaryAddress, data: evmCode})

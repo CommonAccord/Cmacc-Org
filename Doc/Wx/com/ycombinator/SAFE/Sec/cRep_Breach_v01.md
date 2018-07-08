@@ -10,4 +10,4 @@ Obligation.cl=result in the acceleration of any material indenture or contract t
 
 Lien.cl=result in the creation or imposition of any lien upon any property, asset or revenue of {the_Company} or the suspension, forfeiture, or nonrenewal of any material permit, license or authorization applicable to {the_Company}, its business or operations
 
-=[Z/ol/0]
+=[G/Z/ol/0]

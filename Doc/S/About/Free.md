@@ -6,4 +6,4 @@ Ti=CommonAccord
 
 3.sec=     4 Everyone
 
-=[Z/ol-none/s3]
+=[G/Z/ol-none/s3]

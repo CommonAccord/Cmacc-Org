@@ -18,4 +18,4 @@ Contract.cl=any material indenture or contract to which {the_Company} is a party
 
 Impact.cl=where, in each case, such violation or default, individually, or together with all such violations or defaults, could reasonably be expected to have a material adverse effect on {the_Company}
 
-=[Z/ol/0]
+=[G/Z/ol/0]

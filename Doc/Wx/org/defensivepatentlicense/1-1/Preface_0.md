@@ -22,4 +22,4 @@ Ti=Preface
 
 10.sec=After withdrawing, existing licenses you previously granted to community members remain valid, but your obligation to grant free licenses to the DPL community ceases. Also, you retain any free licenses that you obtained from other DPL users. But those other DPL users have the right at any point to convert your license to a similar license that requires you to pay a fair, reasonable, and non-discriminatory royalty for each licensed product or service.
 
-=[Z/paras/s10]
+=[G/Z/paras/s10]

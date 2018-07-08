@@ -20,7 +20,7 @@ Ti=4 Steps to Epiphany
 
 1.1.1.6.sec={Product.TCO}
 
-1.1.1.=[Z/ol-i/s6]
+1.1.1.=[G/Z/ol-i/s6]
 
 Product.=[/S/OurPlan/Sec/Product_v0.md]
 
@@ -38,7 +38,7 @@ Product.=[/S/OurPlan/Sec/Product_v0.md]
 
 1.1.2.6.sec={Customer.MVP}
 
-1.1.2.=[Z/ol-i/s6]
+1.1.2.=[G/Z/ol-i/s6]
 
 Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
@@ -50,13 +50,13 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 1.1.4.2.sec={Demand.Influencers}
 
-1.1.4.=[Z/ol-i/s2]
+1.1.4.=[G/Z/ol-i/s2]
 
 1.1.5.sec=Market Type
 
 1.1.6.sec=Competition
 
-1.1.=[Z/ol-a/s6]
+1.1.=[G/Z/ol-a/s6]
 
 1.2.0.sec=Phase 2: test and qualify your hypotheses
 
@@ -68,7 +68,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 1.2.4.sec=Market knowledge
 
-1.2.=[Z/ol-a/s4]
+1.2.=[G/Z/ol-a/s4]
 
 1.3.0.sec=Phase 3: test and qualify the product concept
 
@@ -82,7 +82,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 1.3.5.sec=First advisory board members
 
-1.3.=[Z/ol-a/s5]
+1.3.=[G/Z/ol-a/s5]
 
 1.4.0.sec=Phase 4: verify
 
@@ -94,9 +94,9 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 1.4.4.sec=Assess whether to iterate or exit
 
-1.4.=[Z/ol-a/s4]
+1.4.=[G/Z/ol-a/s4]
 
-1.=[Z/ol/s4]
+1.=[G/Z/ol/s4]
 
 2.sec=Customer Validation
 
@@ -116,7 +116,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 2.1.7.sec=Formalize your advisory board
 
-2.1.=[Z/ol-a/s7]
+2.1.=[G/Z/ol-a/s7]
 
 2.2.0.sec=Phase 2: sell to visionary customers
 
@@ -126,7 +126,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 2.2.3.sec=Refine and validate the distribution channel
 
-2.2.=[Z/ol-a/s3]
+2.2.=[G/Z/ol-a/s3]
 
 2.3.0.sec=Phase 3: develop positioning for the company and its products
 
@@ -136,7 +136,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 2.3.3.sec=Make presentations to analysts and industry influencers
 
-2.3.=[Z/ol-a/s3]
+2.3.=[G/Z/ol-a/s3]
 
 2.4.0.sec=Phase 4: verify
 
@@ -150,7 +150,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 2.4.5.sec=Iterate, return or exit
 
-2.4.=[Z/ol-a/s5]
+2.4.=[G/Z/ol-a/s5]
 
 3.0.sec=Customer creation
 
@@ -162,7 +162,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 3.1.3.sec=Agree on the company first year customer creation and sales objectives
 
-3.1.=[Z/ol-a/s3]
+3.1.=[G/Z/ol-a/s3]
 
 3.2.0.sec=Phase 2: position the company and product
 
@@ -172,7 +172,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 3.2.3.sec=Match positioning to market type
 
-3.2.=[Z/ol-a/s3]
+3.2.=[G/Z/ol-a/s3]
 
 3.3.0.sec=Phase 3: launch the company and product
 
@@ -190,7 +190,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 3.3.7.sec=Measure success
 
-3.3.=[Z/ol-a/s7]
+3.3.=[G/Z/ol-a/s7]
 
 3.4.0.sec=Phase 4: create demand
 
@@ -200,9 +200,9 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 3.4.3.sec=Iterate, return or exit
 
-3.4.=[Z/ol-a/s3]
+3.4.=[G/Z/ol-a/s3]
 
-3.=[Z/ol/s4]
+3.=[G/Z/ol/s4]
 
 4.0.sec=Company building
 
@@ -212,7 +212,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 4.1.2.sec=Managing sales growth by market-type
 
-4.1.=[Z/ol-a/s2]
+4.1.=[G/Z/ol-a/s2]
 
 4.2.0.sec=Phase 2: review management and build a mission-centric organisation
 
@@ -220,7 +220,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 4.2.2.sec=Develop a mission-centric organization and culture
 
-4.2.=[Z/ol-a/s2]
+4.2.=[G/Z/ol-a/s2]
 
 4.3.0.sec=Phase 3: Transition the Customer Development team into Functional departments
 
@@ -228,7 +228,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 4.3.2.sec=Set Department roles by market-type
 
-4.3.=[Z/ol-a/s2]
+4.3.=[G/Z/ol-a/s2]
 
 4.4.0.sec=Phase 4: build fast-response departments
 
@@ -244,7 +244,7 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 4.4.1.5.sec=Mission synchronization
 
-4.4.1.=[Z/ol-i/s5]
+4.4.1.=[G/Z/ol-i/s5]
 
 4.4.2.sec=Create a culture for information gathering and dissemination
 
@@ -252,8 +252,8 @@ Customer.=[S/OurPlan/Sec/Customer_v0.md]
 
 4.4.4.sec=Iterate and grow
 
-4.4.=[Z/ol-a/s4]
+4.4.=[G/Z/ol-a/s4]
 
-4.=[Z/ol/s4]
+4.=[G/Z/ol/s4]
 
-=[Z/ol/s4]
+=[G/Z/ol/s4]

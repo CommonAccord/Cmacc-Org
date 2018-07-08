@@ -14,8 +14,8 @@ Ti=Issuer Call
 
 2.2.3.sec=VWAP = the Volume Weighted Average Price of a {Share} on such dealing day (provided that if on any such dealing day the {Shares} shall have been quoted cumDividend or cum-any other entitlement, the closing price on such dealing day shall be deemed to be the amount thereof reduced by an amount equal to the Fair Market Value of any such Dividend or entitlement per {Share} as at the date of first public announcement of such Dividend or entitlement (or, if that is not a dealing day, the immediately preceding dealing day)), translated into EUR at the Prevailing Rate on such dealing day.
 
-2.2.=[Z/ol-none/s3]
+2.2.=[G/Z/ol-none/s3]
 
-2.=[Z/ol-none/s2]
+2.=[G/Z/ol-none/s2]
 
-=[Z/paras/s2]
+=[G/Z/paras/s2]

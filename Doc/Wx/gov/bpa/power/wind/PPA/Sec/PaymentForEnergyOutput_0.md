@@ -10,6 +10,6 @@ Ti=Payment for Energy Output
 
 2.1.sec=(1) [To be negotiated]
 
-2.=[Z/ol/s1]
+2.=[G/Z/ol/s1]
 
-=[Z/ol/2]
+=[G/Z/ol/2]

@@ -16,4 +16,4 @@ Ti=Common Clauses
 
 8.Ti=Assignment Restrictions
 
-=[Z/ol/8]
+=[G/Z/ol/8]

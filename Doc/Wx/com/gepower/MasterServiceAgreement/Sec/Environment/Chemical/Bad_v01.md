@@ -12,4 +12,4 @@ Ozone=designated ozone depleting chemicals as restricted under the Montreal Prot
 
 Similar=any other chemical the use of which is restricted in any other jurisdiction to or through which {Company} informs {Supplier} the goods are likely to be shipped, unless {Company} expressly agrees in writing
 
-=[Z/ol/0]
+=[G/Z/ol/0]

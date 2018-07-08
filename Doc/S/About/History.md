@@ -18,7 +18,7 @@ Ti=Cmacc Background
 
 1.8.sec=Lun Yuen, who also supported the project in other very important ways, coded a version that had some new notions of versioning and a somewhat different approach to formatting key/values.  It also had some ability to use variables in names of files and keys, as well as in the values (text). 
 
-1.=[Z/ol-none/s8]
+1.=[G/Z/ol-none/s8]
 
 2.Ti=Berkman, MIT, Primavera and GitHub
 
@@ -30,9 +30,9 @@ Ti=Cmacc Background
 
 2.2.2.sec=Organizing the file system into an image of the web (at /W/) and GitHub (at /GH/) so that materials are organized by author (actually by host), rather than trying to develop a generic naming scheme.  This has been greatly simplifying and liberating.  (There are also a few subject matter classifications, such as  /D/ for transactions; /U/ for persons, places and things; /S/ for shared, common materials, /P/ for private materials.)
 
-2.2.=[Z/ol/s2]
+2.2.=[G/Z/ol/s2]
 
-2.=[Z/ol-none/s2]
+2.=[G/Z/ol-none/s2]
 
 3.Ti=MIT, Access Control, DRY transaction, Conference
 
@@ -42,6 +42,6 @@ Ti=Cmacc Background
 
 3.3.sec=This led to the organization of the Conference.
 
-3.=[Z/ol-none/s3]
+3.=[G/Z/ol-none/s3]
 
-=[Z/ol/3]
+=[G/Z/ol/3]

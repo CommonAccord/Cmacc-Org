@@ -81,4 +81,4 @@ Note1="s3" means "s"ection bodies w/o headings, "3" of them. If you dropped the 
 
 9.sec=You can send us your work by any means, including even pasting in an email.  If you want to really make it easy (for us), get a GitHub account, fork the repository, make your additions and do a "pull request."  For those who know nothing about any of this, it might take you an hour to acquire basic competence. 
 
-=[Z/ol/9]
+=[G/Z/ol/9]

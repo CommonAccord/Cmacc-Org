@@ -8,4 +8,4 @@ Ti=Notices
 
 00.sec=Any such notice shall be effective when received.
 
-=[Z/ol/s2]
+=[G/Z/ol/s2]

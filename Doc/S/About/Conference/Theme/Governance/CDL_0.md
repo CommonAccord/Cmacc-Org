@@ -10,7 +10,7 @@ Ti=Organi{s/z}ation of {df.CDL}
 
 5.sec=The {df.CDL}'s budget will likely be from donations, though micropayments could be explored. 
 
-=[Z/ol/s5]
+=[G/Z/ol/s5]
 
 df.CDL=Center for Collaborative Law
 

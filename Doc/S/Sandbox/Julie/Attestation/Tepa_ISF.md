@@ -6,7 +6,7 @@ Ti=ATTESTATION TEPA-ISF ETAT INDIVIDUEL
 
 0.3.sec=La société {Nom_Société}, société par actions simplifiée au capital de montant {Montant_Capital} euros, dont le siège social est sis{Adresse_Siège} et ayant pour objet {Objet_Social}, représentée par {Nom_Prénom_Représentant}, Président. 
 
-0.=[Z/paras/s3]
+0.=[G/Z/paras/s3]
 
 1.0.sec=Atteste par la présente que :
 
@@ -14,7 +14,7 @@ Ti=ATTESTATION TEPA-ISF ETAT INDIVIDUEL
 
 1.2.sec= Les versements au titre de la -souscription initiale- ou -augmentation de capital- ont été réalisés aux dates suivantes {Dates}<br><br>
 
-1.=[Z/paras/s2]
+1.=[G/Z/paras/s2]
 
 2.0.sec=Par ailleurs, la société répond aux conditions visées à l'article 885-O V du CGI :<br><br> 
 
@@ -38,6 +38,6 @@ Ti=ATTESTATION TEPA-ISF ETAT INDIVIDUEL
 
 2.10.sec=-La société {Nom_Société} n'accorde aucune garantie en capital à ses associés ou actionnaires en contrepartie de leurs souscriptions.
 
-2.=[Z/ol-none/s10]
+2.=[G/Z/ol-none/s10]
 
-=[Z/ol/s2]  
+=[G/Z/ol/s2]  
