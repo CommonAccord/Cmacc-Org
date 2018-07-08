@@ -80,7 +80,7 @@ sub expand_fields  {
 	foreach( $$field =~ /\{([^}]+)\}/g ) {
 	  my $ex = $_;
 	  my $ox = $part ? $part . $ex : $ex;
-my $value;
+
 	  my $value = parse($orig, $ox); 
 	  my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $value . "</span>";
 	  $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
