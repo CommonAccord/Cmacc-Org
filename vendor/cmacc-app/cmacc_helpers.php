@@ -30,18 +30,18 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/doc.php');
         break;
 
-   case 'xEdit':
+#   case 'xEdit':
 
-        include('./vendor/cmacc-app/view/xEdit.php');
-        break;
+#        include('./vendor/cmacc-app/view/xEdit.php');
+#        break;
 
-   case 'xEditSaveFile':
-        include('./vendor/cmacc-app/ajax/xEditSaveFile.php');
-        break;
+#   case 'xEditSaveFile':
+#       include('./vendor/cmacc-app/ajax/xEditSaveFile.php');
+#        break;
 
-   case 'xEditUpdateFile':
-        include('./vendor/cmacc-app/ajax/xEditUpdateFile.php');
-        break;
+#   case 'xEditUpdateFile':
+#        include('./vendor/cmacc-app/ajax/xEditUpdateFile.php');
+#        break;
 
 
    case 'showme1':
@@ -54,10 +54,10 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/showme2.php');
         break;
 
-    case 'edit':
+#    case 'edit':
 
-        include('./vendor/cmacc-app/view/-edit.php');
-        break;
+#       include('./vendor/cmacc-app/view/-edit.php');
+#       break;
 
 
    case 'html':
@@ -100,7 +100,7 @@ switch ($_REQUEST['action']) {
 
 
 
- case 'javaccord':
+case 'javaccord':
 
         if (isset($_REQUEST['submit'])) {
 
@@ -152,10 +152,10 @@ case 'list':
         break;
 
 
-   case 'openedit':
+#   case 'openedit':
 
-        include('./vendor/cmacc-app/view/openedit.php');
-        break;
+#       include('./vendor/cmacc-app/view/openedit.php');
+#        break;
 
 
    case 'print':
