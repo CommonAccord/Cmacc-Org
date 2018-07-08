@@ -152,10 +152,10 @@ case 'list':
         break;
 
 
-#   case 'openedit':
+   case 'openedit':
 
 #       include('./vendor/cmacc-app/view/openedit.php');
-#        break;
+        break;
 
 
    case 'print':
