@@ -14,6 +14,7 @@ my $remote_cnt = 0;
 my $path = "./Doc/";
 my $orig;
 
+my $value;
 my $filelist = "";
 
 sub parse {
@@ -81,9 +82,9 @@ sub expand_fields  {
 	  my $ex = $_;
 	  my $ox = $part ? $part . $ex : $ex;
 
-	  my $valewe = parse($orig, $ox); 
-	  my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $valewe . "</span>";
-	  $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $valewe;
+	  my $value = parse($orig, $ox); 
+	  my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $value . "</span>";
+	  $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
 	}
       }
 
