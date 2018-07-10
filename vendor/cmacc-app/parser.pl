@@ -14,7 +14,6 @@ my $remote_cnt = 0;
 my $path = "./Doc/";
 my $orig;
 
-my $value;
 my $filelist = "";
 
 sub parse {
@@ -75,7 +74,7 @@ sub parse_root {
 sub expand_fields  {
 
 	my($f,$field,$part) = @_;
-
+	my $value;
 
 
 	foreach( $$field =~ /\{([^}]+)\}/g ) {
