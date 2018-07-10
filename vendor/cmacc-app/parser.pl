@@ -74,15 +74,15 @@ sub parse_root {
 sub expand_fields  {
 
 	my($f,$field,$part) = @_;
-	my $value = "";
-
+	
 
 	foreach( $$field =~ /\{([^}]+)\}/g ) {
+	  my $value = "";
 	  my $ex = $_;
 	  my $ox = $part ? $part . $ex : $ex;
 
 	  my $value = parse($orig, $ox); 
-	  my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $value . "</span>";
+	  my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $value "</span>";
 	  $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
 	}
       }
