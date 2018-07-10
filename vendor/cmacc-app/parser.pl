@@ -74,7 +74,7 @@ sub parse_root {
 sub expand_fields  {
 
 	my($f,$field,$part) = @_;
-	my $value;
+	my $value = "";
 
 
 	foreach( $$field =~ /\{([^}]+)\}/g ) {
