@@ -60,7 +60,7 @@ switch ($_REQUEST['action']) {
         break;
 
 
-   case 'html':
+    case 'html':
 
         include('./vendor/cmacc-app/view/html.php');
         break;
@@ -98,28 +98,32 @@ switch ($_REQUEST['action']) {
 
         break;
 
-case 'jaw':
-
-        include('./vendor/cmacc-app/view/jaw.php');
-        break;
-
     case 'list':
 
         include('./vendor/cmacc-app/view/list.php');
         break;
 
 
-   case 'openedit':
+    case 'openedit':
 
-#        include('./vendor/cmacc-app/view/openedit.php');
+        include('./vendor/cmacc-app/view/openedit.php');
         break;
 
 
-   case 'print':
+    case 'print':
 
         include('./vendor/cmacc-app/view/print.php');
         break;
 
+    case 'xray':
+
+        include('./vendor/cmacc-app/view/xray.php');
+        break;
+
+    case 'cicero':
+
+        include('./vendor/cmacc-app/view/cicero.php');
+        break;
 
 
     case 'source':
