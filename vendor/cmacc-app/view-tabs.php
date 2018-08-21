@@ -9,7 +9,7 @@ echo "<b><a href=index.php?action=doc&file=$dir>". DOC_TAB_MESSAGE
 
 echo "<a href=index.php?action=xray&file=$dir>Xray</a> ";
 
-# echo "<a href=index.php?action=xEdit&file=$dir>xEdit</a> ";
+echo "<a href=index.php?action=xEdit&file=$dir>xEdit</a> ";
 
 echo "<a href=index.php?action=visual&file=$dir> Visual</a> ";
 

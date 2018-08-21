@@ -32,15 +32,15 @@ switch ($_REQUEST['action']) {
 
    case 'xEdit':
 
-#        include('./vendor/cmacc-app/view/xEdit.php');
+        include('./vendor/cmacc-app/view/xEdit.php');
         break;
 
    case 'xEditSaveFile':
-#       include('./vendor/cmacc-app/ajax/xEditSaveFile.php');
+       include('./vendor/cmacc-app/ajax/xEditSaveFile.php');
         break;
 
    case 'xEditUpdateFile':
-#        include('./vendor/cmacc-app/ajax/xEditUpdateFile.php');
+        include('./vendor/cmacc-app/ajax/xEditUpdateFile.php');
         break;
 
 
