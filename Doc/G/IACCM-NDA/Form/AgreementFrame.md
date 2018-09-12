@@ -33,6 +33,6 @@ Warrant.=[G/IACCM-NDA/Sec/Warrant/0.md]
 Misc.=[G/IACCM-NDA/Sec/Misc/0.md]
 
 
-sec=<ol><li>{Parties.Sec}<li>{Purpose.Sec}<li>{ConfidentialInformation.Sec}<li>{Confidentiality.Sec}<li>{Use.Sec}<li>{Protect.Sec}<li>{NotifyDisclosure.Sec}<li>{Erase.Sec}<li>{InadvertentDisclosure.Sec}<li>{Term.Sec}<li>{Ownership.Sec}<li>{License.Sec}<li>{Injunction.Sec}<li>{Indemnify.Sec}<li>{Warrant.Sec}<li>{Misc.Sec}</ol>
+sec=<ol class="secs-and"><li>{Parties.Sec}<li>{Purpose.Sec}<li>{ConfidentialInformation.Sec}<li>{Confidentiality.Sec}<li>{Use.Sec}<li>{Protect.Sec}<li>{NotifyDisclosure.Sec}<li>{Erase.Sec}<li>{InadvertentDisclosure.Sec}<li>{Term.Sec}<li>{Ownership.Sec}<li>{License.Sec}<li>{Injunction.Sec}<li>{Indemnify.Sec}<li>{Warrant.Sec}<li>{Misc.Sec}</ol>
 
-=[G/IACCM-Agt-Form/US/0.md]
+=[G/IACCM-Agt-Frame/EN/0.md]
