@@ -60,7 +60,7 @@ PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance)
 
 MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Conference</a>
 
-CDL.Link=<a href="https://docs.google.com/document/d/1eizIqpx_ni8KaGkk3bVKvBBDoRy2eTEtvPHE0hiar7c">Centre for Decentralised Governance</a>  
+CDL.Link=<a href="https://docs.google.com/document/d/13nCIPNS8lByEj4_Ibwj29jUwHv4q_DeBkFgLV6-Hj-I">Common Trust Fabric</a>
 
 Bqc.Link=<a href="http://www.commonaccord.org/index.php?action=list&file=/bqc/fr/bnpp/a5we/">Universal bank account</a>
 

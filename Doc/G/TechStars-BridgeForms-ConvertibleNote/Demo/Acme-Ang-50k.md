@@ -20,12 +20,6 @@ Event.Liquidation.Multiplier.#=2.8
 
 Event.Financing.Cap.sec={Event.Financing.Cap.Yes.sec}
 
-Company.=[G/U/id/acme_incorporated.md]
-
-Investor.=[G/U/id/andrea_ang.md]
-
-Law.=[G/U/at/US/RI/Geo]
-
 Company.xSignature=x Abigail Altima
 
 Company.Sign.YMD=2018-03-15
@@ -33,5 +27,11 @@ Company.Sign.YMD=2018-03-15
 Investor.xSignature=x Andrea Ang
 
 Investor.Sign.YMD=2018-03-14
+
+Company.=[G/U/id/acme_incorporated.md]
+
+Investor.=[G/U/id/andrea_ang.md]
+
+Law.=[G/U/at/US/MA/Geo]
 
 =[G/TechStars-BridgeForms-ConvertibleNote/Form/0.md]
