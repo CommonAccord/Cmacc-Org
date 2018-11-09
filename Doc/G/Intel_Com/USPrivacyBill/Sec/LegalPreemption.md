@@ -1,0 +1,33 @@
+Ti=PREEMPTION
+
+1.Ti=Preemption
+
+1.sec=For a {_covered_entity} that is subject to this subtitle, the provisions of this subtitle shall preempt any civil provisions of the law of any State or political subdivision of a State that are primarily focused on the reduction of privacy risk through the regulation of {_personal_data} {_collect}ion and processing activities.
+
+2.Ti=Consumer Protection Laws
+
+2.sec=Except as provided in subsection (a), this section shall not be construed to limit the enforcement of any State consumer protection law by an attorney general of a State.
+
+3.Ti=Protection Of Certain State Law
+
+3.0.sec=Nothing in this Act shall be construed to preempt the applicability of—
+
+3.1.sec=State constitutional, trespass, contract, data breach notification or tort law; or
+
+3.2.sec=any other state law to the extent that the law relates to acts of fraud.
+
+3.3.sec=any state law to the extent it provides additional provisions to regulate the covered entities as defined in the Health Insurance Portability and Accountability Act of 1996 (Pub.L. 104-191) or the Financial Services Modernization Act of 1999 (Pub.L. 106-102).
+
+3.4.sec=Private contracts based on any state law that require a party to provide additional or greater {_personal_data} privacy or data security protections to an individual than does this Act.
+
+3.=[G/Z/ol/s4]
+
+4.Ti=Preservation Of FTC Authority
+
+4.sec=Nothing in this Act may be construed in any way to limit the authority of the Federal Trade Commission under any other provision of law.
+
+5.Ti=FCC Authority
+
+5.sec=Insofar as any provision of the Communications Act of 1934 (47 U.S.C. 151 et seq.), including but not limited to Section 222 of the Communications Act of 1934 (47 U.S.C. 222), or any regulations promulgated under such Act apply to any {_person}, partnership, or corporation subject to this Act with respect to privacy policies, terms of service, and practices covered by this Act, such provision of the Communications Act of 1934 or such regulations shall have no force or effect, unless such regulations pertain to emergency services.
+
+=[G/Z/ol-a/5]

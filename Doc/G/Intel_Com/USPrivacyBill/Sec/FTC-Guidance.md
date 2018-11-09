@@ -1,0 +1,43 @@
+Ti=FEDERAL TRADE COMMISSION GUIDANCE; INTERNATIONAL COORDINATION; REPORTS TO CONGRESS
+
+1.Ti=Federal Trade Commission Guidance
+
+1.0.sec=Not later than one year after the date of enactment of this Act, and at least annually thereafter, the {_Commission} shall publish:
+
+1.1.sec=a report to Congress on recommendations to modify existing federal privacy laws which have become unnecessary or inconsistent by the provisions of this Act.
+
+1.2.sec=guidance for covered entities to achieve and maintain compliance with this Act; and
+
+1.3.sec=materials intended to assist individuals in understanding the requirements of covered entities pursuant to this Act, and the rights of individuals afforded pursuant to this Act.
+
+1.4.0.sec=Contents.—  The guidance and materials required by this section shall include, but shall not be limited to:
+
+1.4.1.sec=examples of types of data included within the definition of {_personal_data};
+
+1.4.2.sec=guidance on the analysis required for ethical uses of {_personal_data} for automated processing under Section 4;
+
+1.4.3.sec=guidance on the analysis required on the ethical considerations of automated uses of {_personal_data} under Section 4(d)(4);
+
+1.4.4.sec=guidance on examples of, and the process to determine, the situations where Explicit Notice is required under Section 4(f);
+
+1.4.5.sec=guidance on the form and necessary detail required in the General and Complete Notices required under Section 4(f);
+
+1.4.6.sec=guidance on how to provide reasonable obscurity as required in Section 4(g)(6);
+
+1.4.7.sec=guidance on the assessment process for {_third_parties} as required in Section 5; and
+
+1.4.8.sec=guidance on the requirements and format for the certification described in Section 7.
+
+1.4.=[G/Z/ol-AA/s8]
+
+1.=[G/Z/ol/s4]
+
+2.Ti=International Coordination And Cooperation
+
+2.sec=Where necessary, the {_Commission} shall coordinate any enforcement actions undertaken pursuant to this Act with the Data Protection Authorities or similar offices of foreign nations in a manner consistent with authorities codified at Section 6, subsections (j)-(k) of the Federal Trade Commission Act (15 U.S.C. 46).
+
+3.Ti=Reports To Congress
+
+3.sec=Not later than 180 days after the date of enactment of this Act, and at least annually thereafter, the {_Commission} shall submit to Congress and make available on a public website a report concerning the effectiveness of this Act, compliance by covered entities, violations of this Act and enforcement actions undertaken, if any, to resolve those violations, enforcement priorities and resources needed by the {_Commission} to fully implement and enforce this Act and regulations promulgated pursuant to this Act.
+
+=[G/Z/ol-a/3]
