@@ -14,19 +14,19 @@ Ti=FEDERAL TRADE COMMISSION GUIDANCE; INTERNATIONAL COORDINATION; REPORTS TO CON
 
 1.4.1.sec=examples of types of data included within the definition of {_personal_data};
 
-1.4.2.sec=guidance on the analysis required for ethical uses of {_personal_data} for automated processing under Section 4;
+1.4.2.sec=guidance on the analysis required for ethical uses of {_personal_data} for automated processing under Section {Principle.Xnum};
 
-1.4.3.sec=guidance on the analysis required on the ethical considerations of automated uses of {_personal_data} under Section 4(d)(4);
+1.4.3.sec=guidance on the analysis required on the ethical considerations of automated uses of {_personal_data} under Section {Principle.Xnum}(d)(4);
 
-1.4.4.sec=guidance on examples of, and the process to determine, the situations where Explicit Notice is required under Section 4(f);
+1.4.4.sec=guidance on examples of, and the process to determine, the situations where Explicit Notice is required under Section {Principle.Xnum}(f);
 
-1.4.5.sec=guidance on the form and necessary detail required in the General and Complete Notices required under Section 4(f);
+1.4.5.sec=guidance on the form and necessary detail required in the General and Complete Notices required under Section {Principle.Xnum}(f);
 
-1.4.6.sec=guidance on how to provide reasonable obscurity as required in Section 4(g)(6);
+1.4.6.sec=guidance on how to provide reasonable obscurity as required in Section {Principle.Xnum}(g)(6);
 
-1.4.7.sec=guidance on the assessment process for {_third_parties} as required in Section 5; and
+1.4.7.sec=guidance on the assessment process for {_third_parties} as required in Section {FTC-Authority.Xnum}; and
 
-1.4.8.sec=guidance on the requirements and format for the certification described in Section 7.
+1.4.8.sec=guidance on the requirements and format for the certification described in Section {SanctionSafeHarbor.Xnum}.
 
 1.4.=[G/Z/ol-AA/s8]
 

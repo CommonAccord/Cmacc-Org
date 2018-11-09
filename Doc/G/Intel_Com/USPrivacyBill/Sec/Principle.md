@@ -2,7 +2,7 @@ Ti=IMPLEMENTATION OF FAIR INFORMATION PRACTICE PRINCIPLES THROUGH ESTABLISHMENT 
 
 1.Ti=Collection Limitation
 
-1.sec=— No {_covered_entity} shall {_collect} any {_personal_data} that is not relevant and necessary to accomplish the specified purpose(s) required in section 4(c).
+1.sec=— No {_covered_entity} shall {_collect} any {_personal_data} that is not relevant and necessary to accomplish the specified purpose(s) required in section {Principle.Xnum}(c).
 
 2.Ti=Data Quality
 
@@ -10,7 +10,7 @@ Ti=IMPLEMENTATION OF FAIR INFORMATION PRACTICE PRINCIPLES THROUGH ESTABLISHMENT 
 
 3.Ti=Purpose Specification
 
-3.0.sec=—The purposes for which {_personal_data} are processed shall be included in the notices required by Section 4(b). Such description of the purposes shall be described clearly and specifically in relation to the intended uses of the {_personal_data} by the {_covered_entity}.
+3.0.sec=—The purposes for which {_personal_data} are processed shall be included in the notices required by Section {Principle.Xnum}(b). Such description of the purposes shall be described clearly and specifically in relation to the intended uses of the {_personal_data} by the {_covered_entity}.
 
 3.1.Ti=Time of Specification
 
@@ -20,7 +20,7 @@ Ti=IMPLEMENTATION OF FAIR INFORMATION PRACTICE PRINCIPLES THROUGH ESTABLISHMENT 
 
 4.Ti=Use Limitation
 
-4.0.sec=—A {_covered_entity} shall only process {_personal_data} consistent with the provisions of this Section 4(d):
+4.0.sec=—A {_covered_entity} shall only process {_personal_data} consistent with the provisions of this Section {Principle.Xnum}(d):
 
 4.1.Ti=Permitted Processing
 
@@ -30,7 +30,7 @@ Ti=IMPLEMENTATION OF FAIR INFORMATION PRACTICE PRINCIPLES THROUGH ESTABLISHMENT 
 
 4.1.2.sec=as required by law or regulation, including the lawful request of a government agency; or
 
-4.1.3.sec=any uses that satisfy the language of consistent uses under section 4(d)(c).
+4.1.3.sec=any uses that satisfy the language of consistent uses under section {Principle.Xnum}(d)(c).
 
 4.1.=[G/Z/ol-AA/s2]
 
@@ -42,13 +42,13 @@ Ti=IMPLEMENTATION OF FAIR INFORMATION PRACTICE PRINCIPLES THROUGH ESTABLISHMENT 
 
 4.2.2.sec=interfere with, or deny, individuals their rights and privileges under the United States Constitution.
 
-4.2.3.sec=Only the forms of processing or the specific processing activity that are prohibited by the requirements of section 4(d)(2)(A)  or (B) above shall be prohibited. Processing activities that do not meet the requirements shall not be prohibited.
+4.2.3.sec=Only the forms of processing or the specific processing activity that are prohibited by the requirements of section {Principle.Xnum}(d)(2)(A)  or (B) above shall be prohibited. Processing activities that do not meet the requirements shall not be prohibited.
 
 4.2.=[G/Z/ol-AA/s2]
 
 4.3.Ti=Consistent Uses
 
-4.3.0.sec=— A {_covered_entity} shall be allowed to process {_personal_data} for purposes consistent with the purposes specified pursuant to Section 4(c).  The determination of whether a specific processing activity is consistent shall be documented and based on a risk/benefits analysis, taking into consideration the following factors:
+4.3.0.sec=— A {_covered_entity} shall be allowed to process {_personal_data} for purposes consistent with the purposes specified pursuant to Section {Principle.Xnum}(c).  The determination of whether a specific processing activity is consistent shall be documented and based on a risk/benefits analysis, taking into consideration the following factors:
 
 4.3.1.sec=the degree to which the individual to whom the {_personal_data} relates would reasonably expect the processing of the {_personal_data} given the specified purpose;
 
@@ -64,7 +64,7 @@ Ti=IMPLEMENTATION OF FAIR INFORMATION PRACTICE PRINCIPLES THROUGH ESTABLISHMENT 
 
 4.4.Ti=Automated Processing
 
-4.4.sec=— Processing of {_personal_data} by algorithmic, machine learning, or artificial intelligence processing or predictive analytics, without human intervention, shall only be done after the {_covered_entity} conducts an assessment, specific to the automated processing, which: Determines, through objective means, that such processing, and the results of such processing, are reasonably free from bias and error, and that the data quality obligations of section 4(b) are met; analyzes privacy risks, as defined in Section 2(h) of this Act, to the individual.  Such assessment shall include the identification of reasonably foreseeable privacy risks and mitigation of such privacy risk to that individual from that processing, including the potential ethical and legal consequences of processing for the individual; and Concludes that, after all reasonable steps are taken to mitigate privacy risk, the automated processing does not cause, or is not likely to cause, substantial privacy risk.
+4.4.sec=— Processing of {_personal_data} by algorithmic, machine learning, or artificial intelligence processing or predictive analytics, without human intervention, shall only be done after the {_covered_entity} conducts an assessment, specific to the automated processing, which: Determines, through objective means, that such processing, and the results of such processing, are reasonably free from bias and error, and that the data quality obligations of section {Principle.Xnum}(b) are met; analyzes privacy risks, as defined in Section 2(h) of this Act, to the individual.  Such assessment shall include the identification of reasonably foreseeable privacy risks and mitigation of such privacy risk to that individual from that processing, including the potential ethical and legal consequences of processing for the individual; and Concludes that, after all reasonable steps are taken to mitigate privacy risk, the automated processing does not cause, or is not likely to cause, substantial privacy risk.
 
 4.=[G/Z/ol/4]
 
@@ -143,7 +143,7 @@ sexual life data, including concepts such as sexual activity, sexual orientation
 
 6.3.7.sec=Predictive analysis concerning that {_personal_data};
 
-6.3.8.sec=Mechanisms established to demonstrate accountability in compliance with Section 4(h); and
+6.3.8.sec=Mechanisms established to demonstrate accountability in compliance with Section {Principle.Xnum}(h); and
 
 6.3.9.sec=Foreseeable privacy risk related to the processing of the {_personal_data} by the {_covered_entity} or a {_third_party}, including the foreseeable privacy risk created from or by the application of machine learning, algorithmic processing or artificial intelligence to that {_personal_data}.
 
@@ -163,19 +163,19 @@ sexual life data, including concepts such as sexual activity, sexual orientation
 
 7.4.sec=Reasonable access to the {_personal_data} and the ability to correct erroneous {_personal_data};
 
-7.5.sec=Supplementation of the {_personal_data} with additional information offered voluntarily by the individual to address data quality requirements as described in Section 4(b).
+7.5.sec=Supplementation of the {_personal_data} with additional information offered voluntarily by the individual to address data quality requirements as described in Section {Principle.Xnum}(b).
 
 7.6.0.sec=Reasonable obscurity of {_personal_data} processed and maintained in a publicly available format under the control of the {_covered_entity} or by a {_third_party}, where the availability of that {_personal_data} creates or is likely to create significant privacy risk to the individual that is disproportionate to the public benefit of the availability of the {_personal_data}.
 
 7.6.1.sec=For purposes of this section, {_personal_data} that is sold for a fee shall be deemed publicly available.
 
-7.6.2.sec=The requirements set forth in this section 4(g)(6) shall not come into effect until the {_Commission} publishes the guidance described in Section 8(a)(3)(f) below;
+7.6.2.sec=The requirements set forth in this section {Principle.Xnum}(g)(6) shall not come into effect until the {_Commission} publishes the guidance described in Section 8(a)(3)(f) below;
 
 7.6.3.sec=Exclusion.—No individual may demand that a {_covered_entity} obscure accurate information that an individual committed and was convicted of a crime, unless that information would be expunged or otherwise removed from official records pursuant to state or federal law or regulation, including by operation of a pardon.
 
 7.6.=[G/Z/ol-AA/s3]
 
-7.7.sec=EXCEPTION – Nothing in this section 4(g) shall require a {_covered_entity} to take actions that jeopardize the safety of the data subject or rights and freedoms of others under the United States Constitution.
+7.7.sec=EXCEPTION – Nothing in this section {Principle.Xnum}(g) shall require a {_covered_entity} to take actions that jeopardize the safety of the data subject or rights and freedoms of others under the United States Constitution.
 
 7.=[G/Z/ol/s7]
 

@@ -92,7 +92,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # Key=
 
-# print "$_=\n" foreach @arr;
+print "$_=\n" foreach @arr;
 
 # Key=Key;
 
@@ -100,11 +100,15 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
-print "$_=<a href='#Def.$_.sec' class='param'>$_</a>\n" foreach @arr;
+# print "$_=<a href='#Def.$_.sec' class='param'>$_</a>\n" foreach @arr;
 
 # to mark the place a defined term is defined inline.
 
 # print "$_=\{_" . substr($_, 4, -4) ."\}\n" foreach @arr;
+
+# Make cross-references (that already have "".Xnum");
+
+# print "$_=<a href='#" . substr($_, 0, -5) . ".Sec'>QQQ</a>\n" foreach @arr;
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;

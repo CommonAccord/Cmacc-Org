@@ -4,7 +4,7 @@ Ti=OVERSIGHT OF THIRD PARTIES BY A COVERED ENTITY
 
 1.1.sec=exercise appropriate due diligence in the selection of the {_third_party} for responsibilities related to {_personal_data}, and take reasonable steps to maintain appropriate controls for the privacy and security of the {_personal_data} at issue;
 
-1.2.sec=require the {_third_party} by contract to implement and maintain appropriate measures designed to meet the objectives and requirements required by Section 4 of this Act; and
+1.2.sec=require the {_third_party} by contract to implement and maintain appropriate measures designed to meet the objectives and requirements required by Section {Principle.Xnum} of this Act; and
 
 1.3.sec=implement an assessment process to periodically, and in no event less than annually, determine whether the {_third_party} is in compliance with the provisions of this Act. The assessment process shall reﬂect the particular circumstances of the {_covered_entity} including its size and complexity and the nature and scope of the {_covered_entity}’s data holdings and activities with respect to {_personal_data}.
 

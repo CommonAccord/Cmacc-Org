@@ -16,7 +16,7 @@ Commission.=[G/Z/ol/Base]
 
 consumer_privacy_and_data_security_program.Ti=Consumer Privacy and Data Security Program.
 
-consumer_privacy_and_data_security_program.sec=—The term “{_consumer_privacy_and_data_security_program}” means the program described in section 4 of this Act.
+consumer_privacy_and_data_security_program.sec=—The term “{_consumer_privacy_and_data_security_program}” means the program described in section {Principle.Xnum} of this Act.
 
 consumer_privacy_and_data_security_program.=[G/Z/ol/Base]
 
@@ -32,13 +32,13 @@ covered_entity.3.sec=Notwithstanding sections 4 and 5(a)(2) of the Federal Trade
 
 covered_entity.4.sec=Organizations that are related to the {_covered_entity} by common ownership or corporate control; and
 
-covered_entity.5.sec={_third_parties}, as defined by section 3(j) of this Act;
+covered_entity.5.sec={_third_parties}, as defined by section {Def.Xnum}(j) of this Act;
 
 covered_entity.6.0.sec=Exclusions. — The term “{_covered_entity}” does not include
 
-covered_entity.6.1.sec={_Person}s, as described in sections 3(d)(1) – (4) of this Act, that have fewer than 15 employees and {_collect} or utilize the {_personal_data} of fewer than 5,000 individuals; or;
+covered_entity.6.1.sec={_Person}s, as described in sections {Def.Xnum}(d)(1) – (4) of this Act, that have fewer than 15 employees and {_collect} or utilize the {_personal_data} of fewer than 5,000 individuals; or;
 
-covered_entity.6.2.0.sec={_Person}s, as described in sections 3(d)(1) – (4) of this Act, to the extent they offer services related to the transmission, routing, or connections by which digital {_personal_data} and other data is transferred between or among covered entities, or to and from the individual to whom the {_personal_data} relates, but which services do not access, review, or modify the content of that {_personal_data}, or otherwise perform or conduct any analytical, algorithmic or machine learning processes on such {_personal_data}, other than to:
+covered_entity.6.2.0.sec={_Person}s, as described in sections {Def.Xnum}(d)(1) – (4) of this Act, to the extent they offer services related to the transmission, routing, or connections by which digital {_personal_data} and other data is transferred between or among covered entities, or to and from the individual to whom the {_personal_data} relates, but which services do not access, review, or modify the content of that {_personal_data}, or otherwise perform or conduct any analytical, algorithmic or machine learning processes on such {_personal_data}, other than to:
 
 covered_entity.6.2.1.sec=Ensure the security of the data and the networks, systems, software, hardware or devices employed by the {_covered_entity}; or
 
@@ -46,7 +46,7 @@ covered_entity.6.2.2.sec=Aid in the efficiency of the transmission of the {_pers
 
 covered_entity.6.2.=[G/Z/ol-i/s2]
 
-covered_entity.6.3.sec=To the extent a {_person}, as described in sections 3(d)(1) – (4) of this Act, offers services covered by section 3(d)(B) as well as other services not covered by Section 3(d)(B), this exclusion applies only to the conduct or services explicitly covered by Section 3(d)(B).
+covered_entity.6.3.sec=To the extent a {_person}, as described in sections {Def.Xnum}(d)(1) – (4) of this Act, offers services covered by section {Def.Xnum}(d)(B) as well as other services not covered by section {Def.Xnum}(d)(B), this exclusion applies only to the conduct or services explicitly covered by section {Def.Xnum}(d)(B).
 
 covered_entity.6.=[G/Z/ol-AA/s3]
 

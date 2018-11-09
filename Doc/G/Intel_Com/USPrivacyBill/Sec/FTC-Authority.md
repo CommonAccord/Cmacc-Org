@@ -26,11 +26,11 @@ Ti=FTC RULEMAKING AUTHORITY; TECHNOLOGY NEUTRALITY REQUIREMENT; ENFORCEMENT; PEN
 
 2.2.1.Ti=In General
 
-2.2.1.sec=The Attorney General may bring an action for a criminal violation in the appropriate United States district court against any company officer who completes a certification to the {_Commission} under section 7 of this Act, and who knew that the statements required by the certification are not true. Reckless disregard of whether a statement is true, or a conscious effort to avoid learning the truth, can be construed as acting knowingly under this statute. Providing the certification without conducting the review as described in Section 7, or verifying that the review was conducted and completed, may constitute a conscious effort to avoid learning the truth.
+2.2.1.sec=The Attorney General may bring an action for a criminal violation in the appropriate United States district court against any company officer who completes a certification to the {_Commission} under section {SanctionSafeHarbor.Xnum} of this Act, and who knew that the statements required by the certification are not true. Reckless disregard of whether a statement is true, or a conscious effort to avoid learning the truth, can be construed as acting knowingly under this statute. Providing the certification without conducting the review as described in Section {SanctionSafeHarbor.Xnum}, or verifying that the review was conducted and completed, may constitute a conscious effort to avoid learning the truth.
 
 2.2.2.Ti=Criminal Penalties
 
-2.2.2.sec=Whoever provides the certification as set forth in Section 7 knowing that the periodic report accompanying the statement contains false or inaccurate information shall be fined not more than $1,000,000 or imprisoned not more than 10 years.
+2.2.2.sec=Whoever provides the certification as set forth in Section {SanctionSafeHarbor.Xnum} knowing that the periodic report accompanying the statement contains false or inaccurate information shall be fined not more than $1,000,000 or imprisoned not more than 10 years.
 
 2.2.=[G/Z/ol-AA/s2]
 
@@ -42,11 +42,11 @@ Ti=FTC RULEMAKING AUTHORITY; TECHNOLOGY NEUTRALITY REQUIREMENT; ENFORCEMENT; PEN
 
 2.3.2.Ti=Civil Penalties
 
-2.3.2.1.sec=A violation of the provisions of Section 4 or 5 of this Act shall be subject to a civil penalty in an amount that is not greater than $16,500 per individual for whom the {_covered_entity} processed {_personal_data} in violation of the terms of the Act.
+2.3.2.1.sec=A violation of the provisions of Section {Principle.Xnum} or {OversightOfThirdParties.Xnum} of this Act shall be subject to a civil penalty in an amount that is not greater than $16,500 per individual for whom the {_covered_entity} processed {_personal_data} in violation of the terms of the Act.
 
 2.3.2.2.sec=Civil Penalty Cap.—Notwithstanding (3)(B)(i) of this section, no civil penalty shall be imposed under this Act in excess of $1,000,000,000 arising out of the same acts or omissions.
 
-2.3.2.3.sec=CRITERIA FOR CIVIL PENALTIES – When determining the amount of civil penalties the {_Commission} will take into consideration the degree of privacy risk created by the processing of the {_covered_entity}, the intent of the {_covered_entity}, the degree to which the {_covered_entity} put in place appropriate controls as described in Section 4(h) and what efforts the {_covered_entity} took to mitigate the privacy risk.
+2.3.2.3.sec=CRITERIA FOR CIVIL PENALTIES – When determining the amount of civil penalties the {_Commission} will take into consideration the degree of privacy risk created by the processing of the {_covered_entity}, the intent of the {_covered_entity}, the degree to which the {_covered_entity} put in place appropriate controls as described in Section {Principle.Xnum}(h) and what efforts the {_covered_entity} took to mitigate the privacy risk.
 
 2.3.2.=[G/Z/ol-i/s3]
 
@@ -76,7 +76,7 @@ Ti=FTC RULEMAKING AUTHORITY; TECHNOLOGY NEUTRALITY REQUIREMENT; ENFORCEMENT; PEN
 
 2.5.1.5.sec=Notwithstanding 5(A)(i)(d) of this section, no civil penalty shall be imposed under this Act in excess of $1,000,000,000, arising out of the same acts or omissions.
 
-2.5.1.6.sec=When determining the amount of civil penalties attorney general of the state will take into consideration the degree of privacy risk created by the processing of the {_covered_entity}, the intent of the {_covered_entity}, the degree to which the {_covered_entity} put in place appropriate controls as described in Section 4(h) and what efforts the {_covered_entity} took to mitigate the privacy risk.
+2.5.1.6.sec=When determining the amount of civil penalties attorney general of the state will take into consideration the degree of privacy risk created by the processing of the {_covered_entity}, the intent of the {_covered_entity}, the degree to which the {_covered_entity} put in place appropriate controls as described in Section {Principle.Xnum}(h) and what efforts the {_covered_entity} took to mitigate the privacy risk.
 
 2.5.1.=[G/Z/ol-i/s6]
 
@@ -108,7 +108,7 @@ Ti=FTC RULEMAKING AUTHORITY; TECHNOLOGY NEUTRALITY REQUIREMENT; ENFORCEMENT; PEN
 
 2.5.2.4.2.sec=initiate an action in the appropriate United States district court pursuant to this Act and move to consolidate all pending actions, including State actions, in such court;
 
-2.5.2.4.3.sec=intervene in an action brought under section 6(b)(5)(A); and
+2.5.2.4.3.sec=intervene in an action brought under section {FTC-Authority.Xnum}(b)(5)(A); and
 
 2.5.2.4.4.sec=file petitions for appeal.
 
@@ -122,7 +122,7 @@ Ti=FTC RULEMAKING AUTHORITY; TECHNOLOGY NEUTRALITY REQUIREMENT; ENFORCEMENT; PEN
 
 2.5.4.Ti=Rule Of Construction
 
-2.5.4.0.sec=For purposes of bringing any civil action described in section 6(b)(5)(A), nothing in this subtitle shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
+2.5.4.0.sec=For purposes of bringing any civil action described in section {FTC-Authority.Xnum}(b)(5)(A), nothing in this subtitle shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
 
 2.5.4.1.sec=conduct investigations;
 
@@ -139,7 +139,7 @@ Ti=FTC RULEMAKING AUTHORITY; TECHNOLOGY NEUTRALITY REQUIREMENT; ENFORCEMENT; PEN
 
 2.6.1.Ti=Venue
 
-2.6.1.0.sec=Any action brought under section 6(b)(2) may be brought in—
+2.6.1.0.sec=Any action brought under section {FTC-Authority.Xnum}(b)(2) may be brought in—
 
 2.6.1.1.sec=the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28, United States Code; or
 
@@ -149,7 +149,7 @@ Ti=FTC RULEMAKING AUTHORITY; TECHNOLOGY NEUTRALITY REQUIREMENT; ENFORCEMENT; PEN
 
 2.6.2.Ti=Service Of Process
 
-2.6.2.0.sec=In an action brought under section 6(b)(2), process may be served in any district in which the defendant—
+2.6.2.0.sec=In an action brought under section {FTC-Authority.Xnum}(b)(2), process may be served in any district in which the defendant—
 
 2.6.2.1.sec=is an inhabitant; or
 
