@@ -13,7 +13,10 @@ if (strlen($htmlHead) > 5){
 
 
 $lib_path = LIB_PATH;
-$document = `perl $lib_path/parser-print.pl $path/$dir`;
+
+$document = `php -V`;
+
+#$document = `perl $lib_path/parser-print.pl $path/$dir`;
 
 $minDocLength = 1;
 
