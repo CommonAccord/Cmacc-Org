@@ -14,7 +14,7 @@ if (strlen($htmlHead) > 5){
 
 $lib_path = LIB_PATH;
 
-$document = `php -V`;
+$document = `python -V`;
 
 #$document = `perl $lib_path/parser-print.pl $path/$dir`;
 
