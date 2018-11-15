@@ -14,9 +14,9 @@ if (strlen($htmlHead) > 5){
 
 $lib_path = LIB_PATH;
 
-$document = "perl version: " . `perl -V` . "<br><br>python3: " . `python3 -V`. "<br><br> php: " . `php -V`;
+# $document = "perl version: " . `perl -V` . "<br><br>python3: " . `python3 -V`. "<br><br> php: " . `php -V`;
 
-# $document = $document . `perl $lib_path/parser-print.pl $path/$dir`;
+$document = $document . `perl $lib_path/parser-print.pl $path/$dir`;
 
 $minDocLength = 1;
 
