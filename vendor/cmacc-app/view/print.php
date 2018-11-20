@@ -14,9 +14,10 @@ if (strlen($htmlHead) > 5){
 
 $lib_path = LIB_PATH;
 
-$document = `python3 vendor/cmacc-app/view/py_render/parser-print.py G/Agt-Form-CmA/US/0.md Doc Model.Root` ;
+#testing python - so far, no good.
+# $document = `python3 vendor/cmacc-app/view/py_render/parser-print.py G/Agt-Form-CmA/US/0.md Doc Model.Root` ;
 
-# $document = `perl $lib_path/parser-print.pl $path/$dir`;
+$document = `perl $lib_path/parser-print.pl $path/$dir`;
 
 $minDocLength = 1;
 
