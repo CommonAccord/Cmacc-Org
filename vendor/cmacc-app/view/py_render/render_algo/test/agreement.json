@@ -1,0 +1,47 @@
+{
+    "root": "Purchase_Agreement",
+    "graph": {
+        "Alice": {
+            "data": {
+                "Name": ["Alice Waters"],
+                "City": ["Providence"],
+                "State": ["Rhode Island"]
+            },
+            "edges": [["Friend.2.", "Bob"]]
+        },
+        "Bob": {
+            "data": {
+                "First Name": ["Robert"],
+                "M.I.": ["F."],
+                "Last Name": ["Mueller"],
+                "Full Name": ["", "First Name", " ", "M.I.", " ", "Last Name", ""],
+                "Address": ["", "Address.FirstLine", ",", "Address.City", ", ", "State", ""],
+                "Address.FirstLine": ["13 Benefit St."],
+                "Address.SecondLine": ["Apt.3"],
+                "Name_and_Address": [", ", "Name", ", ", "Address", ""],
+                "Name_and_Address.Formal": ["", "Full Name", ", ", "Address", ""],
+                "Address.City": ["Providence"]
+            },
+            "edges": []
+        },
+        "Purchase_Agreement": {
+            "data": {
+                "Prose Description": ["", "Buyer.Name", " bought a book for ",
+                                      "Buyer.Friend.2.Name", ". <br> It was called ",
+                                      "Item.Book.Title", " by ", "Item.Book.Author",
+                                      ". She sent it in the mail to ",
+                                      "Buyer.Friend.2.Name_and_Address.Formal", "."],
+                "Buyer.Name": ["Alice"],
+                "Buyer.Friend.2.Name": ["Rob"]
+            },
+            "edges": [["Item.Book.", "Moby_Dick"], ["Buyer.", "Alice"]]
+        },
+        "Moby_Dick": {
+            "data": {
+                "Title": ["Moby Dick"],
+                "Author": ["Herman Melville"]
+            },
+            "edges": []
+        }
+    }
+}

@@ -1,0 +1,29 @@
+#%RAML 1.0
+title: render API
+version: v1
+# update this later?
+baseUri: /
+
+/renderer:
+  displayName: Renderer
+  get:
+    description: Render a list of tokens on a given graph
+    queryParameters: 
+      to_render: 
+        description: The key that you want rendered
+        required: true
+        type: JSON formatted string
+      lw_graph:
+        description: The lightweight graph to render atop of. The top level keys represent the values of the root.
+        required: true
+        type: JSON formatted string
+    responses:
+      200:
+        body:
+          properties:
+            parse_tree: !include schemas/parse_tree.json
+      404:
+        body:
+          application/json:
+            example: |
+              {"message": Malformed request}
