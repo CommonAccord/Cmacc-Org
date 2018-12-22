@@ -23,7 +23,9 @@ if(preg_match('/\[(.+?)\]/', $v, $matches)) {
 elseif(isset($v)) { 
 $vhtml =  htmlspecialchars(json_encode($v));
 $vhtml = str_replace('\/', '/', $vhtml);
-echo "\"$k\" : $vhtml , <br>"; 
+$vhtml = str_replace('{', '", "', $vhtml);
+  $vhtml = str_replace('}', '", "', $vhtml);
+    echo "\"$k\" : $vhtml , <br>"; 
 }
 
   else { 
@@ -43,16 +45,16 @@ if(preg_match('/\[(.+?)\]/', $v, $matches)) {
  
    if(strlen($k) > 0){
      $vlink = "\"<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$matches[1]</a>\"" ;
-	  echo "[ \"$k\" : $vlink ] , <br>"; 
+	  echo "[ \"$k\" : $vlink ] , "; 
    }
    else{ 
      $vlink = "\"\" : \"<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$matches[1]</a>\""; 
-     echo "[ $vlink ] , <br>"; 
+     echo "[ $vlink ] ,"; 
    }
 }
 
 
 }
-echo "]</ul>}";
+echo "]</ul></ul>}";
 
 ?>
