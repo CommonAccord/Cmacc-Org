@@ -30,12 +30,12 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/doc.php');
         break;
 
-#   case 'xEdit':
+# case 'xEdit':
 
         include('./vendor/cmacc-app/view/xEdit.php');
         break;
 
-#  case 'xEditSaveFile':
+# case 'xEditSaveFile':
        include('./vendor/cmacc-app/ajax/xEditSaveFile.php');
         break;
 
@@ -54,7 +54,7 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/showme2.php');
         break;
 
-#    case 'edit':
+#  case 'edit':
 
        include('./vendor/cmacc-app/view/edit.php');
         break;
@@ -94,7 +94,40 @@ switch ($_REQUEST['action']) {
         $filenameX = basename($dir);
 
         //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/cmacc-app/view/ipld.php");
+        include("./vendor/cmacc-app/view/json.php");
+
+        break;
+
+        case 'json':
+
+        if (isset($_REQUEST['submit'])) {
+
+            $file_name = $path . $dir;
+
+            if (file_exists($file_name)) {
+
+                if (is_writeable($file_name)) {
+                    $fp = fopen($file_name, "w");
+                    $data = $_REQUEST['newcontent'];
+                    $data = preg_replace('/\r\n/', "\n", $data);
+                    $data = trim($data);
+                    fwrite($fp, $data);
+                    fclose($fp);
+                } else {
+                    print '<span style="color: red">ERROR: File ' . $dir . ' is not write able.</style>';
+                }
+            } else {
+                print '<span style="color: red">ERROR: File ' . $dir . ' does not exists.</style>';
+            }
+        }
+
+        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
+        $contents = explode("\n", $content);
+        $rootdir = pathinfo($dir);
+        $filenameX = basename($dir);
+
+        //source.php includes the formatting for the table that displays the components of a document
+        include("./vendor/cmacc-app/view/json.php");
 
         break;
 
@@ -104,7 +137,7 @@ switch ($_REQUEST['action']) {
         break;
 
 
-#    case 'openedit':
+    case 'openedit':
 
         include('./vendor/cmacc-app/view/openedit.php');
         break;

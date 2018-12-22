@@ -9,7 +9,7 @@ echo "<b><a href=index.php?action=doc&file=$dir>". DOC_TAB_MESSAGE
 
 echo "<a href=index.php?action=xray&file=$dir>Xray</a> ";
 
-// echo "<a href=index.php?action=xEdit&file=$dir>xEdit</a> ";
+echo "<a href=index.php?action=xEdit&file=$dir>xEdit</a> ";
 
 echo "<a href=index.php?action=visual&file=$dir> Visual</a> ";
 
@@ -21,11 +21,11 @@ echo " &emsp; Source views: ";
 
 echo "<a href=index.php?action=source&file=$dir>". SOURCE_TAB_MESSAGE."</a> ";
 
-// echo "<a href=index.php?action=edit&file=$dir>".EDIT_TAB_MESSAGE."</a> ";
+echo "<a href=index.php?action=edit&file=$dir>".EDIT_TAB_MESSAGE."</a> ";
 
-//echo "<a href=index.php?action=openedit&file=$dir>". COMPLETE_TAB_MESSAGE."</a> ";
+echo "<a href=index.php?action=openedit&file=$dir>". COMPLETE_TAB_MESSAGE."</a> ";
 
-echo "<a href=index.php?action=ipld&file=$dir>". IPLD_TAB_MESSAGE
+echo "<a href=index.php?action=json&file=$dir>". "JSON"
 ."</a> ";
 
 echo "&emsp; On GitHub: ";
