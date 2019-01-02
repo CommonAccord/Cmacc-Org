@@ -30,16 +30,16 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/doc.php');
         break;
 
-# case 'xEdit':
+    case 'xEdit':
 
         include('./vendor/cmacc-app/view/xEdit.php');
         break;
 
-# case 'xEditSaveFile':
+    case 'xEditSaveFile':
        include('./vendor/cmacc-app/ajax/xEditSaveFile.php');
         break;
 
-#   case 'xEditUpdateFile':
+    case 'xEditUpdateFile':
         include('./vendor/cmacc-app/ajax/xEditUpdateFile.php');
         break;
 
@@ -54,7 +54,7 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/showme2.php');
         break;
 
-#  case 'edit':
+  case 'edit':
 
        include('./vendor/cmacc-app/view/edit.php');
         break;

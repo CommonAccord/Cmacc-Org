@@ -14,7 +14,7 @@ my $remote_cnt = 0;
 my $path = "./Doc/";
 my $orig;
 
-my $filelist = "";
+# my $filelist = "";
 
 sub parse {
 	
@@ -53,15 +53,15 @@ sub parse_root {
 			
 			if($what =~ s/^\?//) { 
 				if(! $remote{$path.$what}) {  $remote_cnt++;
-					`curl '$what' > '$path/tmp$remote_cnt.cmacc'`;
-					$remote{$path.$what} = "$path/tmp$remote_cnt.cmacc";
+					`curl '$what' > '$path/tmp$remote_cnt'`;
+					$remote{$path.$what} = "$path/tmp$remote_cnt";
 				}
 				$root = parse($remote{$path.$what}, $newfield || $field, $part);
 			}
 			else {
 				$root = parse($path.$what, $newfield || $field, $part);
 			}
-	$filelist = $filelist . "<br><br>[" . $what. "]";
+#	$filelist = $filelist . "<br><br>[" . $what. "]";  to make a list of each file visited.
 
 			return $root if $root;
 		}
