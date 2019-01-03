@@ -2,6 +2,8 @@ Note=A presentation of a number of the <i>section</i> organization of the DSA Ou
 
 Ti=Presentation of top-level sections for a number of Data Sharing Agreements
 
+CiscoTrustPrinciples.=[G/IACCM-DataSharing/Outline/Cisco-Trust-Principles.md]
+
 CAVDOrg.=[G/IACCM-DataSharing/Outline/CAVDOrg.md]
 
 ChathamHouseOrg.=[G/IACCM-DataSharing/Outline/ChathamHouseOrg.md]
@@ -12,6 +14,6 @@ SLDavid.=[G/IACCM-DataSharing/Outline/SLDavid.md]
 
 YCombinator-SaaS.=[G/IACCM-DataSharing/Outline/YCombinator-SaaS.md]
 
-sec=<ol><li><b>{CAVDOrg.Ti}</b>{CAVDOrg.sec}<li><b>{ChathamHouseOrg.Ti}</b>{ChathamHouseOrg.sec}<li><b>{IntraGroup.Ti}</b>{IntraGroup.sec}<li><b>{SLDavid.Ti}</b>{SLDavid.sec}<li><b>{YCombinator-SaaS.Ti}</b>{YCombinator-SaaS.sec}</ol>
+sec=<ol><li><b>Cisco Trust Principles</b><br>{CiscoTrustPrinciples.xlist}<li><b>{CAVDOrg.Ti}</b>{CAVDOrg.sec}<li><b>{ChathamHouseOrg.Ti}</b>{ChathamHouseOrg.sec}<li><b>{IntraGroup.Ti}</b>{IntraGroup.sec}<li><b>{SLDavid.Ti}</b>{SLDavid.sec}<li><b>{YCombinator-SaaS.Ti}</b>{YCombinator-SaaS.sec}</ol>
 
 =[G/Z/ol/Base]
