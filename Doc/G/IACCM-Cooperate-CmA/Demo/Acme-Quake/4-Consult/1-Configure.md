@@ -4,7 +4,7 @@
 
 //=They click on "Opens" and complete the form.
 
-Why.Secs={_P1} wishes to engage {_P2} to provide data security audits.
+Why.sec={_P1} wishes to engage {_P2} to provide data security audits.
 
 EffectiveDate.YMD=2017-05-25
 
