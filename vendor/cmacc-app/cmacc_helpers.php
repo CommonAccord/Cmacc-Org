@@ -11,6 +11,7 @@ if (!isset($_REQUEST['action'])) {
 
 if (isset($_REQUEST['file'])) {
     $dir = $_REQUEST['file'];
+    $dir = preg_replace('~[^\w/.,_-]~u', '_', $dir);
     $dir = str_replace('..', '', $dir);
 } else {
     $dir = './';
