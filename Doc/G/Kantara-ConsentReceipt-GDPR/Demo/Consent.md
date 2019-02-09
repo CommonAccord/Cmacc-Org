@@ -1,8 +1,8 @@
 consent
 
-policies.1.=[G/Kantara-ConsentReceipt-GDPR/Consent/Policies/0.md]
+policies.1.=[G/Kantara-ConsentReceipt-GDPR/Consent/policies/0.md]
 
-policies.2.=[G/Kantara-ConsentReceipt-GDPR/Consent/Policies/0.md]
+policies.2.=[G/Kantara-ConsentReceipt-GDPR/Consent/policies/0.md]
 
 policies.=[G/Z/ol/s2]
 
