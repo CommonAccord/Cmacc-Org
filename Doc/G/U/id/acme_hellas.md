@@ -1,6 +1,10 @@
 Name.Full=Acme Hellas
 
-=[G/U/at/GR/Athens/Geo]
+=[G/Agt-Form-CmA/00/ID/Entity/0.md]
+
+Adr.=[G/U/at/GR/Athens/Geo]
+
+Register.Adr.=[G/U/at/GR/Athens/Geo]
 
 Adr.1=100 Odos Marathonos
 
