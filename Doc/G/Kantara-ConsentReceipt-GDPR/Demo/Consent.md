@@ -26,22 +26,7 @@ consent-collection.collection-information.given-by.type.authentication=signed-fo
 
 data-subject-identifier.email=an@example.com
 
-data-controllers.name=Data Controlle Inc.
-
-data-controllers.url=data.controller.example.com
-
-data-controllers.contact.email=an@example.com
-
-data-controllers.contact.phone=+0-000-00000
-
-data-controllers.contact.address=11 Nowhere Street, Neverland
-data-controllers.contact.twitter=@data-controller
-
-data-controllers.DPO.name=Mr. DPO
-
-data-controllers.DPO.contact.email=mr.dpo@example.com
-
-data-controllers.DPO.contact.phone=+0-000-00000
+data-controllers.=[G/Kantara-ConsentReceipt-GDPR/Demo/id/data_controlle_inc.md/0.md]
 
 validity.duration=6 months
 
