@@ -81,7 +81,9 @@ purposes.data-storage.validity.event=after deletion of account
 
 purposes.data-storage.validity.declaration=as long as required
 
-jurisdictions="EU", "USA"
+jurisdictions.1.sec=EU
+
+jurisdictions.2.sec=US
 
 policies.1.URL=example.com
 
