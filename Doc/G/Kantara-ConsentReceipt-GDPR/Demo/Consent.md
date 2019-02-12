@@ -28,15 +28,9 @@ data-subject-identifier.email=an@example.com
 
 data-controllers.=[G/Kantara-ConsentReceipt-GDPR/Demo/id/data_controlle_inc.md/0.md]
 
-validity.duration=6 months
-
 validity.expiry=2019-07-01
 
-validity.condition=3months after data collection
-
-validity.event=after deletion of account
-
-validity.declaration=as long as required
+validity.=[G/Kantara-ConsentReceipt-GDPR/Consent/validity/-duration6months/0.md]
 
 purposes.name=purpose 1
 
