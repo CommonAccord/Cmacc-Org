@@ -13,10 +13,15 @@ include("header.php");
 
 if(! ($dir == './')) {
         $rootdir = pathinfo($dir);
- 	
+         
+       $docpath = $rootdir['dirname'];
+       if ($docpath == "."){
+               $docpath = "";
+       }
 
-	echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php?action=list&file=><img src='" . ASSETS_PATH . "/arrowup.png' height=25></a>
-<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $rootdir['dirname']."</a>/".$rootdir['filename']."</h3><br>";
+        echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php><img src='" . ASSETS_PATH . "/CmA-Square.png' height=25></a>";
+        echo "<a href=index.php?action=list&file=>Docs</a>/";
+        echo "<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $docpath."</a>/".$rootdir['filename']."</h3><br>";
 
 echo "<center><a href=" . URLFORDOCSINREPO . $dir.">Github</a> &emsp;</div>";
 
