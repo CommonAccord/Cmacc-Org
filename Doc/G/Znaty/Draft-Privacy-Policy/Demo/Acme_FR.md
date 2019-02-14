@@ -1,5 +1,4 @@
-P1.Application.Name=Squadge Keys of Life
-
+P1.Application.Name=La vie quadratique
 _P1=Acme
 
 P1.Privacy.Email=privacy@acme.fr
