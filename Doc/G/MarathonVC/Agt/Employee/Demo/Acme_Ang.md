@@ -28,12 +28,16 @@ P2.NonCompete.Year.Number(_)=two (2)
 
 Salary.sec={Salary.BaseWith14Months.sec}
 
+Law.cl=laws of Greece
+
+Law.Forum.cl=competent courts of Athens, Greece
+
 Annex.sec=</i>
 
 //=Prior existing parameters:
 
 =[G/MarathonVC/Agt/Employee/Form/0.md]  
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/id/acme_hellas.md]
 
 P2.=[G/U/id/andrea_ang.md]
