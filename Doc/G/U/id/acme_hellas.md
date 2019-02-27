@@ -6,7 +6,13 @@ Adr.=[G/U/at/GR/Athens/Geo]
 
 Register.Adr.=[G/U/at/GR/Athens/Geo]
 
-Adr.1=100 Odos Marathonos
+Personality.type=Greek corporation
+
+Register.Account.#=12345678765-4321
+
+Adr.Street.#=100
+
+Adr.Street.Name=Odos Marathonos
 
 Adr.Zip=11852
 
