@@ -1,4 +1,4 @@
-=[G/US-CA-MHP-CmA/Demo/SacVillage.md]
+Park.=[G/US-CA-MHP-CmA/Demo/SacVillage.md]
 
 Utilities.Separate.List=<b>Electricity 	   Water  $21.30	Trash $8.75	Sewer $12.50</b>		
 
@@ -9,6 +9,10 @@ EffectiveDate.YMD=2019-03-02
 Tenant.Names=Jack Jones
 
 Tenant.HouseholdNames=Jill Jones
+
+RentalTerm.sec={RentalTerm.Alt2.sec}
+
+RentalTerm.Months=three (3)
 
 Deposit.$=$800
 
