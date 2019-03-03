@@ -1,0 +1,5 @@
+sec=<span title="sec" id="sec" ><span title="0.sec" id="0.sec" >{0.sec}</span><span title="Table" id="Table" ><table border=1><span title="Ti.Row" id="Ti.Row" ><tr><th><span>Score</span></th><th><span>{Scale.sec}</span></th></tr></span><span title="sec.Row" id="sec.Row" ><span title="1.Row" id="1.Row" ><tr><td><span>{1.Score}</span></td><td><span>{1.sec}</span></td></tr></span><span title="2.Row" id="2.Row" ><tr><td><span>{2.Score}</span></td><td><span>{2.sec}</span></td></tr></span><span title="3.Row" id="3.Row" ><tr><td><span>{3.Score}</span></td><td><span>{3.sec}</span></td></tr></span><span title="4.Row" id="4.Row" ><tr><td><span>{4.Score}</span></td><td><span>{4.sec}</span></td></tr></span><span title="5.Row" id="5.Row" ><tr><td><span>{5.Score}</span></td><td><span>{5.sec}</span></td></tr></span></span></table></span></span></span>
+
+Scale.sec={Scale.Bottom} to {Scale.Top}
+ 
+=[G/Z/ol/Base]
