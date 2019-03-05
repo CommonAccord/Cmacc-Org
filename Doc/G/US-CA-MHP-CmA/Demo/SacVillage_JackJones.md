@@ -28,9 +28,9 @@ Tenant.Names={Tenant.1.Name.Full}
 
 Tenant.HouseholdNames=Jill Jones
 
-RentalTerm.sec={RentalTerm.Alt2.sec}
+RentalTerm.sec={RentalTerm.MultipleMonths.sec}
 
-RentalTerm.Months=three (3)
+RentalTerm.Months=three (3) months
 
 Deposit.$=$800
 
