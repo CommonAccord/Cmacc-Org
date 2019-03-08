@@ -1,8 +1,12 @@
-P1.=[U/id/acme_incorporated.md]
+_P1=Acme
 
-P2.=[U/id/abigail_altima.md]
+_P2=Altima
 
-Frame.=[F/US/00/Agt/Base/Frame/2Parties/0.md]
+P1.=[G/U/id/acme_incorporated.md]
+
+P2.=[G/U/id/abigail_altima.md]
+
+=[F/US/00/Agt/Base/Frame/2Parties/0.md]
 
 Doc.GUID=012345
 
@@ -14,28 +18,34 @@ Purpose.cl=discuss and perhaps negotiate a collaboration
 
 EffectiveDate.YMD=2016-07-09
 
-Conf.Life.End.YMD=2016-12-31
+Relate.Conf.Intro.sec={Relate.Conf.Intro.Mutual.sec}
 
-Law.=[U/at/US/CA/Geo]
+Relate.Conf.Life.End.YMD=2016-12-31
 
-Conf.Engage.Access.sec={Conf.Engage.Access.Entity;EODLA;Know;Sign;Form.sec}
+Law.=[U/at/US/CA/San_Francisco/Geo]
 
-Conf.Life.Sec={Conf.Life.Alt2.Sec}
+Forum.cl=the State and Federal courts for the county of San Francisco, {Law.State}
 
-Conf.Life.sec={Conf.Life.Alt1.sec}
+Relate.Conf.Engage.Access.sec={Relate.Conf.Engage.Access.Entity;EODLA;Know;Sign;Form.sec}
 
-Life.End.YMD=2019-12-31
+Relate.Conf.Life.sec={Relate.Conf.Life.Alt2.sec}
+
+Relate.Life.End.YMD=2019-12-31
 
 Life.Terminate.TimeSpan=30 days
 
-Misc.Assign.sec={Misc.Assign.Example.Alt1.sec}
+Relate.Dispute.Cost.sec={Relate.Dispute.Cost.LoserBearsAll.sec}
+
+Relate.Assign.Limit.sec={Relate.Assign.Limit.Mutual.sec}
+
+Relate.Assign.Void.sec={Relate.Assign.Void.Base.sec}
+
+Relate.Assign.Benefit.sec={Relate.Assign.Benefit.Mutual.sec}
 
 Misc.Entire.sec={Misc.Entire.Alt1.sec}
-
-Def.Confidential_Information.0.sec={Def.Confidential_Information.0.Alt1.sec}
 
 q=,
 
 Annex.Div=</i>
 
-=[GH/CommonAccord/Agt-NDA/Sec/0.md]
+=[G/Agt-NDA-CmA/Form/0.md]

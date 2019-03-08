@@ -1,6 +1,8 @@
 Note=Standard information about the Park
 
-Park.=[G/US-CA-MHP-CmA/Demo/SacVillage.md]
+Unit.=[G/US-CA-MHP-CmA/Unit/VIN-1234.md]
+
+Park.=[G/US-CA-MHP-CmA/SacRV/SacVillage.md]
 
 Note=The form of Rental Agreement:
 
@@ -13,12 +15,6 @@ Utilities.Separate.List=<b>Electricity ($21 meter charge plus actual usage);  Wa
 Utilities.Included.List=<b>None.</b>		
 
 Note=Specifics:
-
-Tenant.1.Name.Full=Jack Jones
-
-Tenant.1.DriverLicense.#=CA 1234-5432
-
-Tenant.1.Phone=916.996.1212
 
 Space.#=5
 
@@ -35,26 +31,6 @@ RentalTerm.Months=three (3) months
 Deposit.$=$800
 
 Rent.$=$475
-
-Unit.LegalOwner.Name.Full=Citibank Leasing
-
-Unit.LegalOwner.Adr.1,2=100 Main Street, San Francisco, 94123
-
-Unit.LegalOwner.Phone=415.514.5454
-
-Unit.RegisteredOwner.Name.Full=Jack Jones
-
-Unit.RegisteredOwner.Adr.1,2=Space {Space.#} {Park.Adr.1,2}
-
-Unit.RegisteredOwner.Phone.#={Tenant.1.Phone}
-
-Unit.Manufacturer.Name=Coleman Campers
-
-Unit.Model=Silver Flow 550
-
-Unit.ID.#=563-3434-4567-222
-
-Unit.License.#=546 AC 245
 
 LateFee.$=$25
 
