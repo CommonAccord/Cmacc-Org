@@ -1,9 +1,15 @@
 Name=Sacramento Village
 
-Adr.1=2644 Beaumont Street
+Adr.Street.#=2644
 
-Adr.2=Sacramento, CA 95815
+Adr.Street.Name=Beaumont Street
 
-Adr.=[G/U/at/US/CA/Sacramento/Geo]
+Adr.Zip=95815
+
+Adr.=[G/U/at/US/CA/Sacramento/Sacramento/Geo]
 
 LawEnforcement.Phone.#=916-925-1212
+
+Name.Full={Name}
+
+=[G/Agt-Form-CmA/00/ID/Entity/0.md]
