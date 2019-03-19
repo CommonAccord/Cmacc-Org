@@ -1,3 +1,5 @@
-sec={box}<br>{comment}
+sec=[{check}] {prompt}<br>{comment}
+
+check=_
 
 =[G/Z/ol/Base]
