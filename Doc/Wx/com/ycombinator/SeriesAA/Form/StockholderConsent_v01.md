@@ -4,7 +4,7 @@ R1={Board.R1}
 
 R2={Board.R2}
 
-Doc.Title={Co.Name.Full} Action By Written Consent of Stockholders
+Doc.Ti={Co.Name.Full} Action By Written Consent of Stockholders
 
 0.Ti=</i>
 

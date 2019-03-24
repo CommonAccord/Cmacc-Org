@@ -14,7 +14,7 @@ Head.Sec={Head.Message}<center><h4>{Head.sec}</h4></center>
 
 Head.Message=<font color="grey">{MessageToUser} GUID: {Doc.GUID}</font>
 
-Head.sec={Doc.Title}
+Head.sec={Doc.Ti}
 
 Sec=<b>{Ti}</b><br>{sec}
 

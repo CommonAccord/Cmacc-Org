@@ -2,7 +2,7 @@ Note=From http://unfccc.int/resource/docs/2015/cop21/eng/l09r01.pdf
 
 =[Wx/int/unfccc/2015/cop21/eng/Sec/Headings_Descriptive_v0.md]
 
-Doc.Title=PARIS AGREEMENT
+Doc.Ti=PARIS AGREEMENT
 
 Introduction.=[Wx/int/unfccc/2015/cop21/eng/Sec/Introduction_v0.md]
 
@@ -71,7 +71,7 @@ Signature.=[Wx/int/unfccc/2015/cop21/eng/Sec/Signature_v0.md]
 
 Note=From http://unfccc.int/key_documents/the_convention/items/2853.php
 
-Doc={Head.Message}<center><b>{Doc.Title}</b></center><br><br>{Introduction.Sec}<br><ol><li>{Definition.Sec}<li>{Purpose.Sec}<li>{Effort.Sec}<li>{Contribution.Sec}<li>{CarbonSink.Sec}<li>{Transfer.Sec}<li>{Adaptation.Sec}<li>{Warsaw.Sec}<li>{Financial.Sec}<li>{Technology.Sec}<li>{Capacity.Sec}<li>{Education.Sec}<li>{Transparency.Sec}<li>{Conference.Sec}<li>{Committee.Sec}<li>{Meeting.Sec}<li>{Secretariat.Sec}<li>{SubsidiaryBody.Sec}<li>{OtherInstitution.Sec}<li>{Ratification.Sec}<li>{EntryIntoEffect.Sec}<li>{Amendment.Sec}<li>{Annexes.Sec}<li>{Dispute.Sec}<li>{Voting.Sec}<li>{Depositary.Sec}<li>{Reservation.Sec}<li>{Withdrawal.Sec}<li>{Language.Sec}</ol>{Signature.Sec}
+Doc={Head.Message}<center><b>{Doc.Ti}</b></center><br><br>{Introduction.Sec}<br><ol><li>{Definition.Sec}<li>{Purpose.Sec}<li>{Effort.Sec}<li>{Contribution.Sec}<li>{CarbonSink.Sec}<li>{Transfer.Sec}<li>{Adaptation.Sec}<li>{Warsaw.Sec}<li>{Financial.Sec}<li>{Technology.Sec}<li>{Capacity.Sec}<li>{Education.Sec}<li>{Transparency.Sec}<li>{Conference.Sec}<li>{Committee.Sec}<li>{Meeting.Sec}<li>{Secretariat.Sec}<li>{SubsidiaryBody.Sec}<li>{OtherInstitution.Sec}<li>{Ratification.Sec}<li>{EntryIntoEffect.Sec}<li>{Amendment.Sec}<li>{Annexes.Sec}<li>{Dispute.Sec}<li>{Voting.Sec}<li>{Depositary.Sec}<li>{Reservation.Sec}<li>{Withdrawal.Sec}<li>{Language.Sec}</ol>{Signature.Sec}
 
 Head.Message=Unofficial
 

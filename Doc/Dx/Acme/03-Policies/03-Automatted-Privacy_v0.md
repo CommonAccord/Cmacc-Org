@@ -1,6 +1,6 @@
 Note= per comment on UMA thread
 
-Doc.Title={P1.Handle} Data Use Policy
+Doc.Ti={P1.Handle} Data Use Policy
 
 Privacy_Policy=Data Use Policy
 

@@ -1,4 +1,4 @@
-Doc.Title=Private and Confidential  ÐΞVgrant Scheme – Offer Letter
+Doc.Ti=Private and Confidential  ÐΞVgrant Scheme – Offer Letter
 
 0.sec=Further to your application dated {Application.Date.YMD}, we are pleased to offer you a DEVgrant in the sum of {Pay.Total.$} in order to support the project described in your application (the DEVgrant​). This Letter sets out the terms and conditions of the DEVgrant Scheme (the Scheme​), and our offer of the DEVgrant is conditional upon your acceptance of these terms and conditions. Please read this Letter carefully, and, if you wish to accept the DEVgrant, please sign and return to us the enclosed copy of the Letter.
 

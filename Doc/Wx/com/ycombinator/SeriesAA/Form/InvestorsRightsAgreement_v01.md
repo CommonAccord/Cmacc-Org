@@ -1,4 +1,4 @@
-Doc.Title={Co.Name.Full} Investors' Rights Agreement
+Doc.Ti={Co.Name.Full} Investors' Rights Agreement
 
 0.Ti=</i>
 0.0.sec=This Investors' Rights Agreement (this "<strong>Agreement</strong>") is made as of {AGT.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the "<strong>Company</strong>") and the persons and entities (each, an "<strong>Investor</strong>" and collectively, the "<strong>Investors</strong>") listed on <u>Exhibit A</u> hereto.  Unless otherwise defined herein, capitalized terms used in this Agreement have the meanings ascribed to them in <strong>Section 1</strong>.

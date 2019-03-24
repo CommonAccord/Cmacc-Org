@@ -6,6 +6,6 @@ Agree.Intro.Parties.List={Agree.Intro.Parties.List.1,3}
 
 Agree.End.Sign.List={Agree.End.Sign.List.1,3}
 
-Agree.Doc.Title=Terms of Agreement between {UMA.Authorizing_Party} and {UMA.Requesting_Party}
+Agree.Doc.Ti=Terms of Agreement between {UMA.Authorizing_Party} and {UMA.Requesting_Party}
 
 UMA.Secs={UMA.AuthzP.Sec}<li>{UMA.RqP.Sec}<li>{UMA.Terminology.Sec}

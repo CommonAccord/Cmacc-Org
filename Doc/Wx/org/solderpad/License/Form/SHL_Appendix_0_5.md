@@ -1,4 +1,4 @@
-Doc.Title=APPENDIX: How to apply this license to your work
+Doc.Ti=APPENDIX: How to apply this license to your work
 
 MessageToUser=Copyright Notice
 

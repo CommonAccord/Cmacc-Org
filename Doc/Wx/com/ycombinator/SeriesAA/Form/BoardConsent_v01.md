@@ -1,4 +1,4 @@
-Doc.Title={Co.Name.Full} Action By Unanimous Written Consent of the Board of Directors
+Doc.Ti={Co.Name.Full} Action By Unanimous Written Consent of the Board of Directors
 
 0.Ti=</i>
 

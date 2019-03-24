@@ -4,17 +4,17 @@ Org.Name.Full=<span class="person">Public Privacy Partners, Ltd.</span>
 
 Org.Handle=<span class="person">PPPL</span>
 
-Doc.Title={P1.Name.Full} Privacy Policy
+Doc.Ti={P1.Name.Full} Privacy Policy
 
 Charter.Link=<a href="http://github.com/CommonAccord/Cmacc-Org/tree/master/Doc/Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md">github.com/CommonAccord/Cmacc-Org/tree/master/Doc/Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/Charter/CPBR_Privacy_Charter_Form.01.md</a>
 
 P1.Handle=<span class="person">Member Company</span>
 
-0.1.sec=To assure the protection of the {personal_data} of {P1.Handle}'s users, {P1.Handle} has adopted a {Doc.Title}.
+0.1.sec=To assure the protection of the {personal_data} of {P1.Handle}'s users, {P1.Handle} has adopted a {Doc.Ti}.
 
-0.2.sec={P1.Handle} cares about transparency.  This policy is based on a Charter at {Charter.Link} (the "{Charter}") created by {Org.Name.Full} ("{Org.Handle}").  The {Charter} complies with and is organized according to the {Act.Doc.Title}  (the "{Act}").
+0.2.sec={P1.Handle} cares about transparency.  This policy is based on a Charter at {Charter.Link} (the "{Charter}") created by {Org.Name.Full} ("{Org.Handle}").  The {Charter} complies with and is organized according to the {Act.Doc.Ti}  (the "{Act}").
 
-0.3.sec=The {Doc.Title} is presented so that you can see {P1.Handle}'s policy, but you can also click to see precisely the differences between our policy and the {Charter}, and you can see the way the {Charter}'s provisions correspond to the requirements of {the_Act}.  By clicking to see the {Charter}, you will also be able to see the comments and ratings collected by {Org.Handle} and to see how other members of {Org.Handle} use the {Charter}. 
+0.3.sec=The {Doc.Ti} is presented so that you can see {P1.Handle}'s policy, but you can also click to see precisely the differences between our policy and the {Charter}, and you can see the way the {Charter}'s provisions correspond to the requirements of {the_Act}.  By clicking to see the {Charter}, you will also be able to see the comments and ratings collected by {Org.Handle} and to see how other members of {Org.Handle} use the {Charter}. 
 
 0.=[G/Z/paras/s3]
 

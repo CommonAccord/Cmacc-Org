@@ -1,4 +1,4 @@
-Doc.Title=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
+Doc.Ti=STANDARD CONTRACTUAL CLAUSES (PROCESSORS)
 
 0.1.sec=For the purposes of Article 26(2) of Directive 95/46/EC for the transfer of personal data to processors established in third countries which do not ensure an adequate level of data protection
 

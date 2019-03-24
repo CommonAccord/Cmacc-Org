@@ -1,5 +1,7 @@
 Ti=License
 
+Doc.Ti={Ti}
+
 0.sec=<span style="text-transform: uppercase">Notice: All rights in {Licensed_Patents} (as defined below) provided under this Defensive Patent License ("{DPL}") are subject to all of the conditions and limitations set forth below. Making, using, selling, offering for sale, importing, or distributing products or services embodying the {Licensed_Patents}, other than as explicitly authorized under this {License} or patent law, is prohibited.</span>
 
 1.Ti=License Grant

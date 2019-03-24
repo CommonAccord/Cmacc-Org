@@ -1,11 +1,11 @@
-Doc.Title=The Defensive Patent License 1.1
+Doc.Ti=The Defensive Patent License 1.1
 
-1.=[Wx/org/defensivepatentlicense/1-1/Preface_0.md]
+Preface.=[Wx/org/defensivepatentlicense/1-1/Preface_0.md]
 
-2.=[Wx/org/defensivepatentlicense/1-1/Text_Marked_0.md]
+Text.=[Wx/org/defensivepatentlicense/1-1/Text_Marked_0.md]
 
-=[G/Z/paras/2]
+Doc={Preface.Doc}<br>{Text.Doc}
 
-Sec={Doc}
+Model.Root={Doc}
 
 MessageToUser=From <a href="http://www.defensivepatentlicense.org/content/defensive-patent-license">defensivepatentlicense.org</a>

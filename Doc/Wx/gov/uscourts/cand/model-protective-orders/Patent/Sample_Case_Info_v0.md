@@ -14,7 +14,7 @@ ThePatent.Title=Simple Method for Automating Litigation
 
 ThePatent.Filing.Date=April 2, 2010
 
-<b>The Case</b>=-
+The Case=-
 
 Forum.Name.Full=United States District Court for the Northern District of California
 
@@ -28,7 +28,7 @@ Court.Jurisd.Abbrev=N.D. Cal.
 
 Judge1.Name.Full=Hon. Meagan Majeured
 
-<b>Plaintiff</b>=-
+Plaintiff=-
 
 Plaintiff1=AIII
 
@@ -38,7 +38,7 @@ Plaintiff1.Party.EntityType.a=a {Plaintiff1.Party.EntityType}
 
 Plaintiff1.Party.EntityType=Delaware Corporation
 
-<b>Defendant1</b>=-
+Defendant1=-
 
 Defendant1=SaS
 
@@ -48,7 +48,7 @@ Defendant1.Party.EntityType.a=a {Defendant1.Party.EntityType}
 
 Defendant1.Party.EntityType=California Corporation
 
-<b>P1's Law Firm</b>=-
+P1's Law Firm=-
 
 Plaintiff1.Firm.Team={Plaintiff1.Atty1.N,Bar/Email}<br>{Plaintiff1.Atty2.N,Bar/Email}
 
@@ -66,8 +66,7 @@ Plaintiff1.Firm.Adr.1,2=2222 El Camino Real, Mountain View, CA 94040
 
 Default_Field={RFP.Proponent}
 
-
-<b>P1's Law Firm</b>=-
+P1's Law Firm=-
 
 Defendant1.Firm.Team={Defendant1.Atty.1.N,Bar/Email}<br>{Defendant1.Atty2.N,Bar/Email}
 
@@ -87,7 +86,7 @@ Defendant1.Firm.Addr.2=Palo Alto, CA 94301
 
 Defendant1.Firm.Addr.1,2={Defendant1.Firm.Addr.1}, {Defendant1.Firm.Addr.2}
 
-<b>General Elements</b>=To be transferred to boilerplate.
+General Elements=To be transferred to boilerplate.
 
 Plaintiff1.Party.Name,Entity={Plaintiff1.Party.Name.Full}, {Plaintiff1.Party.EntityType.a}
 

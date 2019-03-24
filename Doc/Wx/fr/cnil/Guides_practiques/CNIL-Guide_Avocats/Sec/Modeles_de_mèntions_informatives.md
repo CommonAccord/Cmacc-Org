@@ -41,7 +41,9 @@ du traitement).
 
 3.Ti=Panneau d’information concernant la vidéoprotection
 
-3.1.sec=Établissement sous vidéoprotection <img src="http://www.rueducommerce.fr/info/images/produits/screenshots/DCS-7010L.jpg" height="60" width="60"/>
+3.1.sec=Établissement sous vidéoprotection (IMAGE)
+
+<img src="http://www.rueducommerce.fr/info/images/produits/screenshots/DCS-7010L.jpg" height="60" width="60"/>
 
 3.2.sec=Nous vous informons que cet établissement est placé sous vidéoprotection pour des raisons de {finalités} 
 
@@ -104,7 +106,7 @@ demande à formuler à l’opérateur…)
 
 Note=(Veuillez préciser le service – par exemple le service clientèle) auront accès à cet enregistrement.
 
-6.5.sec=Conformément à la loi « informatique et libertés » du 6 janvier 1978 modifiée, vous pouvez accéder et rectifier les informations qui vous concernent en vous adressant à ……………………………… 
+6.5.sec=Conformément à la loi « informatique et libertés » du 6 janvier 1978 modifiée, vous pouvez accéder et rectifier les informations qui vous concernent en vous adressant à {le_service_et_l’adresse}
 
 Note=(Veuillez préciser le service et l’adresse).
 
@@ -112,9 +114,9 @@ Note=(Veuillez préciser le service et l’adresse).
 
 7.Ti=Notice d’information en matière de recrutement
 
-7.1.sec=………………………………... 
+7.1.sec={Indication de l’identité du responsable du traitement}
 
-Note=(Indication de l’identité du responsable du traitement)
+Note=(Identité_du_responsable_du_traitement}
 
 7.2.sec=Nous vous prions de bien vouloir compléter soigneusement ce formulaire.
 
@@ -152,35 +154,35 @@ ferait la demande : {AuxClientes.Oui/Non}
 
 Note=(Veuillez indiquer la finalité du traitement, par exemple la gestion des ressources humaines, la gestion de la paie, la maintenance informatique, etc.).
 
-8.2.sec=Les informations enregistrées sont réservées à l’usage du (ou des) service(s) concerné(s) et ne peuvent être communiquées qu’aux destinataires suivants :<br>...........… (Veuillez préciser les destinataires).
+8.2.sec=Les informations enregistrées sont réservées à l’usage du (ou des) service(s) concerné(s) et ne peuvent être communiquées qu’aux destinataires suivants :<br>{les_destinataires} (Veuillez préciser les destinataires).
 
 8.3.sec=Certains de ces destinataires sont situés en dehors de l’Union européenne
 
 Note=(Veuillez indiquer le nom des entités ou services destinataires ainsi que leur pays d’établissement). Ces destinataires auront communication des données suivantes (à préciser, par exemple nom, prénom, matricule, coordonnées
 professionnelles, salaire, données de connexion…)
 
-8.4.sec=La transmission de ces données aux destinataires situés en dehors de l’Union européenne est destinée à ……………….. 
+8.4.sec=La transmission de ces données aux destinataires situés en dehors de l’Union européenne est destinée à {la_finalité_du_transfert_des_données}
 
 Note=(Veuillez indiquer la finalité du transfert des données).
 
 8.5.0.sec=Les garanties suivantes ont été prises pour s’assurer d’un niveau de protection suffisant des données personnelles : 
 
-8.5.1.sec=- Le pays du ou des destinataire(s) offre un niveau de protection adéquat par décision de la Commission européenne : …………………………………
+8.5.1.sec=- Le pays du ou des destinataire(s) offre un niveau de protection adéquat par décision de la Commission européenne : {pays}
 
 Note=(Précisez laquelle);
 
 8.5.2.sec=- Le ou les destinataire(s) sont adhérent(s) aux principes du Safe Harbour;
 
-8.5.3.sec=- Le transfert de données a été autorisé par la CNIL et est encadré par les clauses contractuelles types établies par la Commission européenne ..........
+8.5.3.sec=- Le transfert de données a été autorisé par la CNIL et est encadré par les clauses contractuelles types établies par la Commission européenne {numéro_de_la_délibération_autorisant_le_transfert}
 
  Note=(précisez le numéro de la délibération autorisant le transfert);
 
 8.5.4.sec=- Le transfert de données a été autorisé par la CNIL et est encadré par des règles internes validées par la CNIL;
-8.5.5.sec=- La société bénéficie d’une des exceptions mentionnées à l’article 69 de la loi du 6 janvier 1978 modifiée : ……………………………….. 
+8.5.5.sec=- La société bénéficie d’une des exceptions mentionnées à l’article 69 de la loi du 6 janvier 1978 modifiée : {exception_article_69}.
 
 Note=(Précisez laquelle).
 
-8.5.6.sec=Conformément aux articles 39 et suivants de la loi du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, toute personne peut obtenir communication et, le cas échéant, rectification ou suppression des informations la concernant, en s’adressant au service……………………………… 
+8.5.6.sec=Conformément aux articles 39 et suivants de la loi du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, toute personne peut obtenir communication et, le cas échéant, rectification ou suppression des informations la concernant, en s’adressant au service {nom_du_service}.
 
 Note=(Veuillez citer le nom du service auprès duquel il est possible d’exercer son droit
 d’accès).
@@ -191,23 +193,23 @@ d’accès).
 
 9.Ti=Contrôle d’accès biométrique
 
-9.1.sec=………………………………… 
+9.1.sec={l’identité_du_responsable_du_traitement}
 
 Note=(Indication de l’identité du responsable du traitement)
 
-9.2.sec=Un dispositif biométrique destiné au contrôle de l’accès ………………………
+9.2.sec=Un dispositif biométrique destiné au contrôle de l’accès {la_finalité} a été mis en place.
 
-Note=(Veuillez préciser ici la finalité, par exemple contrôle d’accès à un bâtiment ou à une zone en particulier, contrôle d’accès à un poste informatique ou à une application) a été mis en place.
+Note=(Veuillez préciser ici la finalité, par exemple contrôle d’accès à un bâtiment ou à une zone en particulier, contrôle d’accès à un poste informatique ou à une application) 
 
-9.3.sec=Les données vous concernant sont conservées au maximum ...........
+9.3.sec=Les données vous concernant sont conservées au maximum {période_de_conservation}.
 
-Note=(précisez).
+Note=(précisez)
 
-9.4.sec=Au-delà, toutes les données sont détruites. Seules les personnes habilitées du service ……………………………… auront accès à vos données biométriques.
+9.4.sec=Au-delà, toutes les données sont détruites. Seules les personnes habilitées du service {le_service_informatique} auront accès à vos données biométriques.
 
 Note=(Veuillez préciser le service – par exemple le service informatique)
 
-9.5.sec=Conformément à la loi « informatique et libertés » du 6 janvier 1978 modifiée, vous pouvez avoir accès et rectifier les informations qui vous concernent en vous adressant à ……………………………… 
+9.5.sec=Conformément à la loi « informatique et libertés » du 6 janvier 1978 modifiée, vous pouvez avoir accès et rectifier les informations qui vous concernent en vous adressant à {le_service_et_son_adresse} 
 
 Note=(Veuillez préciser le service et l’adresse)
 

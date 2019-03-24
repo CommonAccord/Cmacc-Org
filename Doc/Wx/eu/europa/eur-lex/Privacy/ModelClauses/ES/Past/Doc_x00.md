@@ -3,7 +3,7 @@ Note=Uses the common outline for all Model Clauses:
 =[Wx/eu/europa/eur-lex/Privacy/ModelClauses/00/Doc/Clauses_Outline_v0.md]
 
 
-Doc.Title=CLÁUSULAS CONTRACTUALES TIPO («ENCARGADOS DEL TRATAMIENTO»)
+Doc.Ti=CLÁUSULAS CONTRACTUALES TIPO («ENCARGADOS DEL TRATAMIENTO»)
 
 0.1.sec=A efectos del artículo 26, apartado 2, de la Directiva 95/46/CE para la transferencia de datos personales a los encargados del tratamiento establecidos en terceros países que no garanticen una adecuada protección de los datos.
 

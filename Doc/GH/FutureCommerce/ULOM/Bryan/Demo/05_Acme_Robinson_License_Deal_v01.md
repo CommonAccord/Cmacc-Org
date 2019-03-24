@@ -2,7 +2,7 @@ MessageToUser=Signed!
 
 Doc.GUID=5432112345
 
-Doc.Title=Acme - Robinson License Agreement
+Doc.Ti=Acme - Robinson License Agreement
 
 P1.Handle=<b>Licensor</b>
 

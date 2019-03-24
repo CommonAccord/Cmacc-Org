@@ -1,4 +1,4 @@
-Doc.Title={CompanyName}<br>{Ti}
+Doc.Ti={CompanyName}<br>{Ti}
 
 Ti=Convertible Promissory Note Purchase Agreement
 

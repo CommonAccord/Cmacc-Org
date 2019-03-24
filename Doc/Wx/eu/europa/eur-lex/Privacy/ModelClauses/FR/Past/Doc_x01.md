@@ -1,4 +1,4 @@
-Doc.Title=CLAUSES CONTRACTUELLES TYPES (SOUS-TRAITANTS)
+Doc.Ti=CLAUSES CONTRACTUELLES TYPES (SOUS-TRAITANTS)
 
 0.1.sec=Aux fins de l’article 26, paragraphe 2 de la directive 95/46/CE pour le transfert des données à caractère personnel vers des sous-traitants établis dans des pays tiers qui n’assurent pas un niveau adéquat de protection des données
 

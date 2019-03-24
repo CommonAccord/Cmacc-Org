@@ -1,2 +1,2 @@
 # ADR-Org-CmA
-The adr.org Clause Builder - done as a Prose Object
+The American Arbitration Association Clause Builder (<a href="https://www.clausebuilder.org/">https://www.clausebuilder.org/</a>) - done as a Prose Object

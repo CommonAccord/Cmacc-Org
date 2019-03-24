@@ -1,4 +1,4 @@
-Doc.Title=NFP Proposal Outline
+Doc.Ti=NFP Proposal Outline
 
 Head.Message=</i>
 

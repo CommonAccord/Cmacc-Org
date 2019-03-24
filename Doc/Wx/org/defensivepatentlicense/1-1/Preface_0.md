@@ -1,5 +1,7 @@
 Ti=Preface
 
+Doc.Ti={Ti}
+
 1.sec=The Defensive Patent License (DPL) is a free, copyleft-style license for patents.
 
 1.sec=Most patents and patent licenses are designed to take away the public's access to knowledge and the freedom to share and improve on the patented inventions. By contrast, the DPL is intended to protect the freedom to share and improve patented inventions, among a community of like-minded people. It is also intended to help establish a robust body of prior art that prevents subsequent attempts to patent the same inventions in ways that restrict access and freedom.

@@ -2,7 +2,7 @@
 
 BIJLAGE
 
-Doc.Title=MODELCONTRACTBEPALINGEN („VERWERKERS”)
+Doc.Ti=MODELCONTRACTBEPALINGEN („VERWERKERS”)
 
 0.1.sec=Voor de toepassing van artikel 26, lid 2, van Richtlijn 95/46/EG, voor de doorgifte van persoonsgegevens aan verwerkers die gevestigd zijn in derde landen die geen passend beschermingsniveau waarborgen
 

@@ -1,6 +1,6 @@
 ANHANG
 
-Doc.Title=STANDARDVERTRAGSKLAUSELN (AUFTRAGSVERARBEITER)
+Doc.Ti=STANDARDVERTRAGSKLAUSELN (AUFTRAGSVERARBEITER)
 
 0.1.sec=gemäß Artikel 26 Absatz 2 der Richtlinie 95/46/EG für die Übermittlung personenbezogener Daten an Auftragsverarbeiter, die in Drittländern niedergelassen sind, in denen kein angemessenes Schutzniveau gewährleistet ist
 

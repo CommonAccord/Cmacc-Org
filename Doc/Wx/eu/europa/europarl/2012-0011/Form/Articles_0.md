@@ -184,4 +184,4 @@ Sec=<ol><li>{1.Sec}<li>{2.Sec}<li>{3.Sec}<li>{4.Sec}<li>{5.Sec}<li>{6.Sec}<li>{7
 
 Model.Root={Head.Sec}<br>{Intro.Sec}{Sec}{Foot.Sec} 
 
-Head.Sec=<h4>{Doc.Title}</h4></center>
+Head.Sec=<h4>{Doc.Ti}</h4></center>

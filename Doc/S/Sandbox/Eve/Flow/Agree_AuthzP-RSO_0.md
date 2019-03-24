@@ -3,7 +3,7 @@ Agree.Intro.Parties.List={Agree.Intro.Parties.List.1,2}
 Agree.End.Sign.List={Agree.End.Sign.List.1,2}
 
 
-Agree.Doc.Title=Terms of Agreement between {UMA.Authorizing_Party} and {UMA.Resource_Server_Operator}
+Agree.Doc.Ti=Terms of Agreement between {UMA.Authorizing_Party} and {UMA.Resource_Server_Operator}
 
 Recite.secs=The {Parties} wish to provide for the secure, orderly availability to one or more third persons of information about {UMA.Authorizing_Party} held by {UMA.Resource_Server_Operator} in "{Data.Title}."
 

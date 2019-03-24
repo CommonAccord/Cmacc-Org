@@ -1,4 +1,4 @@
-Doc.Title=CommonAccord - Center for Decentralized Law
+Doc.Ti=CommonAccord - Center for Decentralized Law
 
 EffectiveDate.YMD=January 12, 2016
 

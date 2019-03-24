@@ -1,4 +1,4 @@
-Doc.Title={Ti}<br>of<br>{Co.Name.Full}<br>{Effective.YMD} 
+Doc.Ti={Ti}<br>of<br>{Co.Name.Full}<br>{Effective.YMD} 
 
 Ti=Limited Liability Company Operating Agreement
 

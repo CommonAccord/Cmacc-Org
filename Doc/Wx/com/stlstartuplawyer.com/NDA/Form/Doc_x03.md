@@ -1,4 +1,4 @@
-Doc.Title=Mutual Nondisclosure Agreement
+Doc.Ti=Mutual Nondisclosure Agreement
  
 Confidential_Information=<font color=“#006400”>Confidential Information</font>
 
@@ -79,7 +79,7 @@ Note=No title on the introduction:
 
 00.1.sec={Signature Page Follows}
  
-00.2.sec=The parties have executed this {Doc.Title} as of the date first above written.
+00.2.sec=The parties have executed this {Doc.Ti} as of the date first above written.
 
 00.3.sec={P1.Sign.Block}<br>{P2.Sign.Block}
 

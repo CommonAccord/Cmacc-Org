@@ -1,4 +1,4 @@
-Doc.Title=Delivery Agreement
+Doc.Ti=Delivery Agreement
 
 Intro.Parties.List={Intro.Parties.List.1,3}
 

@@ -6,7 +6,7 @@ From=http://web.mit.edu/tlo/www/misc/forms.html.
 
 <b>Parameters</b>=These fit the agreement to Mutual (as opposed to InBound or OutBound).
 
-Doc.Title=Mutual Non-Disclosure Agreement
+Doc.Ti=Mutual Non-Disclosure Agreement
 
 Conf.Protect.Period.Years=three years
 

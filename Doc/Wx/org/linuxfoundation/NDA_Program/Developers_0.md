@@ -2,7 +2,7 @@ Note=The Linux Foundation – NDA Program 2 Confidential Disclosure Agreement fo
 
 Note="Open Source Software Program" is defined, but not otherwise used. Therefore not parameterized.
 
-Doc.Title=THE LINUX FOUNDATION NDA PROGRAM CONFIDENTIAL DISCLOSURE AGREEMENT FOR DEVELOPERS
+Doc.Ti=THE LINUX FOUNDATION NDA PROGRAM CONFIDENTIAL DISCLOSURE AGREEMENT FOR DEVELOPERS
 
 Intro.This.sec=This NDA Program Confidential Disclosure Agreement for Developers (the “{_Agreement}”) is made by and between The Linux Foundation, an Oregon nonprofit mutual benefit corporation (“{_Company}”), located at 210 Fell Street, Suite 16, San Francisco, California, and the undersigned consultant, an individual residing at the address set forth below (“{_Consultant}”), as of the date of the {_Company}’s signature below (the “{_Effective_Date}”).
 

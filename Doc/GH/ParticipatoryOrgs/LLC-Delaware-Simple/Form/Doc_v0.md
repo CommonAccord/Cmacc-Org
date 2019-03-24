@@ -1,6 +1,6 @@
 Note=From <a href="https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple">https://github.com/ParticipatoryOrgs/LLC-Delaware-Simple</a>
 
-Doc.Title=Operating Agreement of {Co.Name.Full}
+Doc.Ti=Operating Agreement of {Co.Name.Full}
 
 
 0.sec=This operating agreement of {Co.Name.Full} is dated as of the date stated on the cover page, and is between the parties listed on the signature pages of this agreement.

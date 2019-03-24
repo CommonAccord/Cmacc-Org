@@ -2,7 +2,7 @@ Doc.Ti=Amended and Restated Right of First Refusal and Co-Sale Agreement
 
 0.Ti=</i>
 
-0.0.sec=THIS {Doc.Title} (this “Agreement”), is made as of the [__] day of [________, 20__] by and among [_____], a [Delaware] corporation (the “Company”), the Investors listed on Schedule A and the Key Holders listed on Schedule B.
+0.0.sec=THIS {Doc.Ti} (this “Agreement”), is made as of the [__] day of [________, 20__] by and among [_____], a [Delaware] corporation (the “Company”), the Investors listed on Schedule A and the Key Holders listed on Schedule B.
 
 0.1.Alt1.1.sec=WHEREAS, each Key Holder is the beneficial owner of the number of shares of Capital Stock, or of options to purchase Common Stock, set forth opposite the name of such Key Holder on Schedule B; 
 

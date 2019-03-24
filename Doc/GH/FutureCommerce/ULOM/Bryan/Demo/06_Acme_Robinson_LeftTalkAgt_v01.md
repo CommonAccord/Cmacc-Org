@@ -6,7 +6,7 @@ Note2=For convenience, we reference all the sections, but only use some of them.
 
 Dispute.sec=Any disputes under {this_Agreement} may be brought in the state courts and the Federal courts for {Dispute.Seat}, and the parties hereby consent to the personal jurisdiction and exclusive venue of these courts.
 
-Doc.Title=LeftTalk Agreement
+Doc.Ti=LeftTalk Agreement
 
 Doc.GUID=65543456
 
@@ -26,7 +26,7 @@ Interact.Ti=Interaction
 
 Interact.1.sec=The {parties} wish to interact with one another in good faith, confident that neither {party} will expect that they have made any commitment to the other unless that commitment is formalized in writing.  
 
-Interact.2.sec=Each {party} agrees that it will not disclose to the other {party} any {Confidential_Information} (neither its own, nor that of any third person) except under a written addition to this {Doc.Title} referencing its GUID ({Doc.GUID}).
+Interact.2.sec=Each {party} agrees that it will not disclose to the other {party} any {Confidential_Information} (neither its own, nor that of any third person) except under a written addition to this {Doc.Ti} referencing its GUID ({Doc.GUID}).
 
 Interact.=[G/Z/ol/s2]  
 

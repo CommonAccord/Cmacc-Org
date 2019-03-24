@@ -14,7 +14,7 @@ Recital.NoAgreement=Counsel for the Named Parties and Defendant disagree as to w
 
 Recital.Diligence=The Parties have engaged in written discovery and have taken numerous depositions relevant to the facts, claims and potential damages in this matter.  The Parties also filed cross motions for summary judgment and Plaintiffs filed a motion for class certification, which Defendant opposed.  Prior to oral argument on the pending summary judgment motions and class certification motion, the Parties engaged in settlement negotiations, attempting to avoid further costly litigation and the uncertainties and risks associated therewith.  As a result of these negotiations, the Parties have agreed to enter into this Settlement Agreement, which includes certification of a proposed Settlement Class.  
 
-<b>Oxford Comma</b>=Some instability of usage. 
+Oxford Comma=Some instability of usage. 
 
 Recital.Rule23-a/b3=For purposes of this Settlement Agreement only, the Parties agree that the proposed Settlement Class (as defined below) satisfies the requirements of Rules 23(a) and 23(b)(3) of the Federal Rules of Civil Procedure.
 
@@ -36,7 +36,7 @@ Recital.ClassCounselServiceNeeded=Class Counsel asserts that but for the legal s
 
 Recital.ClassCounselLabored=Class Counsel asserts that they have expended considerable time in prosecuting {theory of liability} claims of the proposed Settlement Class and the legal fees provided herein, equal to {Legal.Fee.%} of the Settlement Amount minus the Service Payments (defined below), plus costs, are fair and reasonable. 
 
-<b>Recital.L</b>=slight difference in wording of the fee as between L and I. And we reference the definition of Service Payments here, rather than earlier.
+Recital.L=slight difference in wording of the fee as between L and I. And we reference the definition of Service Payments here, rather than earlier.
 
 Recital.AgreeToSettle=The Parties have agreed to fully and finally compromise, settle, and resolve any and all demands, claims, and causes of action, present and future, arising from the Amended Complain, as described below. 
 
@@ -46,15 +46,15 @@ Text.Sec={Introduction.Sec}<ol><li>{ClassCertification.sec}</li><li>{QSF.sec}</l
 
 ClassCertification.sec=The Parties agree to certification of the Settlement Class, as defined above, for settlement purposes only.  The Parties have agreed that the best evidence available in this case suggests that all the Settlement Class Members who satisfy the above definition are listed on Exhibit A hereto.  The named Plaintiffs shall be named as Class Representatives and {Case.Class.Counsel.Description} shall be appointed Class Counsel.
 
-<b>named Plaintiffs</b>=should be "Named Plaintiffs" ?
+named Plaintiffs=should be "Named Plaintiffs" ?
 
 QSF.sec=Defendant agrees to pay into a Qualified Settlement Fund ("the QSF") to be established by Class Counsel a total sum of {SettlementAmount.Dollar/S} (the "Settlement Amount") in order to fully and finally resolve the Claims as defined in paragraph {Def.Claims.Xnum} below in their entirety.  Class Counsel shall act as the trustee ("Trustee") of the QSF and make all distributions therefrom in accordance with this Settlement Agreement, once approved by the Court.  The QSF shall be terminated on or before {QSF.Terminates.days} following the initial settlement distributions.  The Settlement Amount is inclusive of Class Counsel's fees and costs; interest; back wages; the Class Representative's service payments; any liability for taxes on the Settlement Amount or on or arising from the distributions made therefrom; and any other obligation or liability arising out of this Settlement.  Under no circumstances shall Defendant be required to pay any sums in addition to the Settlement Amount described herein for any purpose whatsoever.  The Parties agree to the following distributions from the QSF:  {QSF.Distributions.List}.  The exact amount of the disbursement to each Class Member shall be finally determined and made after the QSF has determined and made all other necessary deductions and payments and the exact number of Class Members after opt-outs is know. 
 
-<b>"QSF has determined"</b>=- ??
+"QSF has determined"=- ??
 
 EffectiveDate.sec=If the Court grants an order ("Final Approval Order") fully, finally, and unconditionally granting the Parties' motion for approval of their settlement and extinguishing claims against the Released Parties as specified in paragraph {Def.Final_Approval_Order.Xnum}, and an order dismissing the Action with prejudice, and this Settlement Agreement has not been voided at the option of a Party in accordance with the terms of this Settlement Agreement, then the "Effective Date" shall be deemed to occur (A) thirty (30) days after the entry of the Final Approval Order, if no appeal is filed within that 30-day period, or (B) upon the final disposition of any appeal that has the effect of affirming the Final Approval Order in its entirety.  
 
-<b>Effective Date</b>=could be rewritten to align the conditions - Effective Date occurs if and when: (i) court order and (ii) appeal over.
+Effective Date=could be rewritten to align the conditions - Effective Date occurs if and when: (i) court order and (ii) appeal over.
 
 ListOfClassMembers.sec=The Parties agree that Exhibit A, attached hereto, represents the best information currently available to the Parties concerning the identities of the members of the proposed Settlement Class.  Exhibit A also contains the last known address for each individual listed thereon according to the materials produced during discovery. 
 
@@ -66,7 +66,7 @@ NoEffectOnOpt-outs.sec=The rights and obligations of any proposed member of the 
 
 DefendantPayToQSF.sec=Within ten business (10) days of the  Effective Date, Defendant shall cause to be wired, or shall deliver a check for, the Settlement Amount of {SettlementAmount.S} to the QSF according to such instructions that {Case.Plaintiff1.Firm.Name.Full} provides to Defendant's counsel.  The QSF shall then promptly distribute the Settlement Amount in accordance with the terms of the Final Approval Order.
 
-<b>8 Notes</b>= (10) seems in wrong place.  Why restate the amount of "Settlement Amount"?  It has already been spelled out.
+8 Notes=(10) seems in wrong place.  Why restate the amount of "Settlement Amount"?  It has already been spelled out.
 
 Release2.sec=Upon occurrence of the Effective Date, all Claims of all of the Releasing Parties shall be deemed settled, released and dismissed in their entirety, on the merits, with prejudice.
 
@@ -78,15 +78,15 @@ QSF.Disbursement.sec=If a distribution is returned to the QSF as undeliverable, 
 
 BearOwnCosts-RefrainFromOtherSuit.sec=The Parties agree that they are compromising and settling disputed litigation.  Each of the Parties shall bear their own attorney's fees, expenses, and court costs.  Each of the Parties agrees that it shall not commence or continue any lawsuit that is inconsistent with any provision of this Settlement Agreement. 
 
-<b>Costs and Other Suit</b>=could be in separate sections
+Costs and Other Suit=could be in separate sections
 
 EvidenceForEnforcement.sec=Nothing herein shall prevent any Party from seeking to offer this Settlement Agreement in evidence after the entry of the Order approving the Settlement Agreement by the Court for the purpose of enforcing the terms of the Settlement Agreement. 
 
-<b>EvidenceForEnforcement</b>=could be near the limitations on use in NoAdmissionOfLiability
+EvidenceForEnforcement=could be near the limitations on use in NoAdmissionOfLiability
 
 Successors.sec=This Settlement Agreement shall be binding upon and shall inure to the benefit of the predecessors, heirs and assigns of each of the Parties to the fullest extent under the law.
 
-<b>"Section" vs "paragraph"</b>=-
+"Section" vs "paragraph"=-
 
 PostClass.NewMemberDetermination=If Class Counsel make such determination in favor of the New Settlement Class Member, Class Counsel shall determine whether the New Settlement Class Member falls into Subclass A or Subclass B based on proof of their termination date.  
 
@@ -125,14 +125,6 @@ Notice.sec=Any notices issued pursuant to the terms of this Settlement Agreement
 Signature.sec=Executed this {Sign.YMD.this_of}.<br><br>{Signature.Block}
 
 Header.West=<span style="text-transform:uppercase">{Case.Plaintiffs.Name.Full}</span> on behalf of themselves and all others similarly situated<br><center>Plaintiffs,</center><br>v.<br><br><span style="text-transform:uppercase">{Case.Defendants.Name.Full}</span><br><center>Defendant.</center>
-
-/Case.Caption=<div style="text-transform:uppercase; text-align:center;" width="100%">{PleadingHeader.North}</div><br><br><table><tr><td width="60%">{PleadingHeader.West}</td><td>       </td><td  width="30%">{PleadingHeader.East}</td></tr></table><br><br><center><b>{PleadingHeader.South}</b></center><br>
-
-/Model.Root={Settlement.Doc.Body}
-
-/Settlement.Doc.Body={Case.Caption}<br><br>{ThisSettlement.Sec}<br><br><br>{Recitals.Sec}<br>{NowTherefore.Sec}<br><br>{Text.Sec}<br>
-
-
 
 Settlement_Amount.Xnum=2
 

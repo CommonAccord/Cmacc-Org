@@ -1,4 +1,4 @@
-Doc.Title={P1.Name.Full} Privacy Agreement
+Doc.Ti={P1.Name.Full} Privacy Agreement
 
 Olist=<ol><li>{Engage.Sec}<li>{Specific.Secs}<li>{Boilerplate.Secs}</ol>
 
@@ -29,7 +29,7 @@ Def.Trusted_Agent.sec="{Trusted_Agent}" means you, {P2.Name.Full}, and such empl
 
 Def.Personal_Information.sec="{Personal_Information.sec}" means any and all information that you receive from me. 
 
-=[G/Z/Agt/Agt.md]
+=[G/Agt-Form-CmA/US/0.md]
 
 
 

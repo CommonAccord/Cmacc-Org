@@ -29,7 +29,7 @@ Role.P2.sec={P2.Handle} has the role of {UMA.Resource_Server_Operator}.
 Role.P3.sec={P3.Handle} has the role of {UMA.Requesting_Party}
 
 
-Doc.Title=Key Agreement
+Doc.Ti=Key Agreement
 
 =[G/Z/Agt/Agt_v01.md]
 

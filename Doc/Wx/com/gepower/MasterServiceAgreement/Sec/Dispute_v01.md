@@ -6,18 +6,18 @@ Law.Ti=Applicable Law
 
 Law.sec=Each {party}’s rights and obligations under or in connection with {this_Agreement} shall be governed by the laws of {Dispute.State.the} (excluding its conflict of laws rules). The {parties} exclude application of the United Nations Convention on Contracts for the International Sale of Goods.
 
-Law.=[G/Z/ol/0]
+Law.=[G/Z/ol/Base]
 
 Amical.Ti=Amicable Resolution
 
 Amical.sec=The parties shall attempt amicably to resolve any controversy, dispute or difference arising out of {this_Agreement}.
 
-Amical.=[G/Z/ol/0]
+Amical.=[G/Z/ol/Base]
 
 Forum.Ti=Exclusive Forum
 
 Forum.sec=The parties shall attempt amicably to resolve any controversy, dispute or difference arising out of {this_Agreement}, failing which either party may initiate litigation only in {Dispute.Forum.cl}. The parties submit to personal jurisdiction in said courts and waive any defenses regarding venue or <i>forum non conveniens</i>.
 
-Forum.=[G/Z/ol/0]
+Forum.=[G/Z/ol/Base]
   
-=[G/Z/ol/0]
+=[G/Z/ol/Base]

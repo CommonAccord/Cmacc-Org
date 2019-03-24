@@ -8,7 +8,7 @@ P1.Handle={Licensor}
 
 P2.Handle={Licensee}
 
-Doc.Title=Standard License Agreement
+Doc.Ti=Standard License Agreement
 
 Material.=[Wx/org/cdlib/vendor/License/Sec/Materials.md]
 
@@ -24,7 +24,7 @@ Dispute.=[Wx/org/cdlib/vendor/License/Sec/Dispute.md]
 
 Misc.=[Wx/org/cdlib/vendor/License/Sec/Misc.md]
 
-=[G/Z/Agt/Agt.md]
+=[G/Agt-Form-CmA/US/0.md]
 
 =[Wx/org/cdlib/vendor/License/Sec/Defined_Terms.md]
 

@@ -1,4 +1,4 @@
-1.sec=This {Doc.Title} (this “{Agreement}”) is made as of {EffectiveDate.YMD}, by and between {P1.N,E,A} (the “{Company}”), and {P2.N,E,A} (“{Counterparty}”).
+1.sec=This {Doc.Ti} (this “{Agreement}”) is made as of {EffectiveDate.YMD}, by and between {P1.N,E,A} (the “{Company}”), and {P2.N,E,A} (“{Counterparty}”).
 
 2.sec=Each party has disclosed and/or may further disclose its {Confidential_Information} (as defined below) to the other in connection with the {Relationship} (as defined below) pursuant to the terms and conditions of this {Agreement}.
 
