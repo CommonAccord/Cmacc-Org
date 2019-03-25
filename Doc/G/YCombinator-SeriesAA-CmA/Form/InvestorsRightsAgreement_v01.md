@@ -1,7 +1,7 @@
-Doc.Ti={Co.Name.Full} Investors' Rights Agreement
+Doc.Ti={Company.Name.Full} Investors' Rights Agreement
 
 0.Ti=</i>
-0.0.sec=This Investors' Rights Agreement (this "<strong>Agreement</strong>") is made as of {AGT.Effective.YMD} by and among {Co.Name.Full}, a Delaware corporation (the "<strong>Company</strong>") and the persons and entities (each, an "<strong>Investor</strong>" and collectively, the "<strong>Investors</strong>") listed on <u>Exhibit A</u> hereto.  Unless otherwise defined herein, capitalized terms used in this Agreement have the meanings ascribed to them in <strong>Section 1</strong>.
+0.0.sec=This Investors' Rights Agreement (this "<strong>Agreement</strong>") is made as of {AGT.Effective.YMD} by and among {Company.Name.Full}, a Delaware corporation (the "<strong>Company</strong>") and the persons and entities (each, an "<strong>Investor</strong>" and collectively, the "<strong>Investors</strong>") listed on <u>Exhibit A</u> hereto.  Unless otherwise defined herein, capitalized terms used in this Agreement have the meanings ascribed to them in <strong>Section 1</strong>.
 
 0.1.sec=<strong>WHEREAS</strong>: The Investors are parties to the Series AA Preferred Stock Purchase Agreement of even date herewith, among the Company and the Investors listed on the Schedule of Investors thereto (the "<strong>Purchase Agreement</strong>"), and it is a condition to the closing of the sale of the Series AA Preferred Stock (the "<strong>Shares</strong>") that the Investors and the Company execute and deliver this Agreement.
 
@@ -166,7 +166,7 @@ Transfer.Legend=THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRI
 
 5.2.1.sec=if to an Investor, at the Investor's address, facsimile number or electronic mail address as shown in the Company's records, as may be updated in accordance with the provisions hereof; or
 
-5.2.2.sec=if to the Company, one copy should be sent to {Co.N,A}, {Co.Fax}, Attn: Chief Executive Officer, or at such other address as the Company shall have furnished to the Investors.
+5.2.2.sec=if to the Company, one copy should be sent to {Company.N,A}, {Company.Fax}, Attn: Chief Executive Officer, or at such other address as the Company shall have furnished to the Investors.
 
 5.2.00.sec=Each such notice or other communication shall for all purposes of this Agreement be treated as effective or having been given when delivered if delivered personally, or, if sent by mail, at the earlier of its receipt or 72 hours after the same has been deposited in a regularly maintained receptacle for the deposit of the United States mail, addressed and mailed as aforesaid or, if sent by facsimile, upon confirmation of facsimile transfer or, if sent by electronic mail, upon confirmation of delivery when directed to the electronic mail address set forth on the Schedule of Investors.
 
@@ -235,7 +235,7 @@ Sec={Doc}
 
 Sign.Witness=IN WITNESS WHEREOF, the parties hereto have executed this Investors' Rights Agreement effective as of the day and year first above written.
 
-Sign.Block={Co.Sign.Block} {Inv.1.Sign.Block}
+Sign.Block={Company.Sign.Block} {Inv.1.Sign.Block}
 
 Xnums=
 

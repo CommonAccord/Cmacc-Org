@@ -2,7 +2,7 @@ Note.=[Wx/com/tcflaw/ConvertibleNote/Note/Form/0.md]
 
 Agt.=[Wx/com/tcflaw/ConvertibleNote/PurchaseAgreement/Form/0.md]
 
-Model.Root={Note.DocBody}<hr>{Agt.DocBody}
+Model.Root={Note.Doc}<hr>{Agt.Doc}
 
 Company.=[U/id/acme_incorporated]
 

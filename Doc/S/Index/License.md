@@ -6,7 +6,11 @@ Copyright-Docracy.=[Wx/com/docracy/8770/Form/0.md]
 
 Copyright-Library.=[Wx/edu/crl/liblicense/Model/Form/Form_v14_r15-05_v0.md]
 
+Copyright-ContributorAgreements:=[G/Org-ContributorAgreements-CmA/]
+
 LexPredict.=[G/LexPredict-SoftwareLicense-110064-CmA/Demo/0.md]
+
+OpenGov-Policy.=[G/OpenGovFoundation-CmA/Copyright/0.md]  
 
 Patent-Exclusive-NIH.=[G/NIH-License-Patent-Exclusive-CmA/Sec/0.md]
 

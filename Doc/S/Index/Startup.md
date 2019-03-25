@@ -8,7 +8,9 @@ Note-KISS-500.=[G/500Startups-KISS-CmA/]
 
 Employee:=[S/Index/Employ/]
 
-Note-SAFE.YC:=[G/YCombinator-Note-SAFE-CmA/Form/]
+Note-SAFE-YC:=[G/YCombinator-Note-SAFE-CmA/Form/]
+
+SeriesAA-YC.=[G/YCombinator-SeriesAA-CmA/Form/Binder_v01.md]
 
 SharePurchase-NVCA:=[G/NVCA-SPA-CmA/]
 
@@ -21,3 +23,5 @@ France-TermSheet-Galion:=[G/GalionProject-TermSheet-CmA/]
 France-SharePurchase-Bondard:=[G/CabinetBondard-CessionPartsSAS-CmA/]
 
 SeriesA-Lipshaw:=[G/Lipshaw_EVCL_CmA/Demo/]
+
+LLC-NY.=[Wx/org/legalhackers/NYC/LLC/Form/_v0.md]

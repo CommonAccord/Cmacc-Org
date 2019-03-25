@@ -1,7 +1,7 @@
-Head.sec={Co.Name.Full}<p>SERIES AA PREFERRED STOCK PURCHASE AGREEMENT</p><p>{AGT.Effective.YMD}</p>
+Head.sec={Company.Name.Full}<p>SERIES AA PREFERRED STOCK PURCHASE AGREEMENT</p><p>{AGT.Effective.YMD}</p>
 
 
-0.Sec=This Series AA Preferred Stock Purchase Agreement (this "<strong>Agreement</strong>") is made as of {AGT.Effective.YMD}, by and among {Co.N,E,A} (the "<strong>Company</strong>"), and the persons and entities (each, an "<strong>Investor</strong>" and collectively, the "<strong>Investors</strong>") listed on the Schedule of Investors attached hereto as Exhibit A (the "<strong>Schedule of Investors</strong>").
+0.Sec=This Series AA Preferred Stock Purchase Agreement (this "<strong>Agreement</strong>") is made as of {AGT.Effective.YMD}, by and among {Company.N,E,A} (the "<strong>Company</strong>"), and the persons and entities (each, an "<strong>Investor</strong>" and collectively, the "<strong>Investors</strong>") listed on the Schedule of Investors attached hereto as Exhibit A (the "<strong>Schedule of Investors</strong>").
 
 1.Ti=Authorization, Sale and Issuance of Series AA Preferred Stock
 
@@ -27,7 +27,7 @@ Head.sec={Co.Name.Full}<p>SERIES AA PREFERRED STOCK PURCHASE AGREEMENT</p><p>{AG
 
 Note1=RD is time and place. RDV is time, place, persons. A pun looking for a vocabulary.
 
-Closing.RD=the Company's offices at {Co.Adr.1,2}, at {Closing.Time} local time on {Closing.YMD}
+Closing.RD=the Company's offices at {Company.Adr.1,2}, at {Closing.Time} local time on {Closing.YMD}
 
 2.1.2.Sec=If less than all of the Shares are sold and issued at the Initial Closing, then, subject to the terms and conditions of this Agreement, the Company may sell and issue at one or more subsequent closings (each, a "<strong>Subsequent Closing</strong>"), within 120 days after the Initial Closing, up to the balance of the unissued Shares to such persons or entities as may be approved by the Company in its sole discretion. Any such sale and issuance in a Subsequent Closing shall be on the same terms and conditions as those contained herein, and such persons or entities shall, upon execution and delivery of the relevant signature pages, become parties to, and be bound by, this Agreement and the Investors' Rights Agreement in substantially the form attached hereto as Exhibit C (the "<strong>Rights Agreement</strong>," and together with this Agreement, the "<strong>Agreements</strong>"), without the need for an amendment to any of the Agreements except to add such person's or entity's name to the appropriate exhibit to such Agreements, and shall have the rights and obligations hereunder and thereunder, in each case as of the date of the applicable Subsequent Closing. Each Subsequent Closing shall take place at such date, time and place as shall be approved by the Company in its sole discretion.
 
@@ -51,7 +51,7 @@ cRep.0.sec=A Schedule of Exceptions, if necessary, shall be delivered to the Inv
 
 cRep.1.Ti=Organization, Good Standing and Qualification
 
-cRep.1.sec=The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of {Co.Register.State}. The Company has the requisite corporate power and authority to own and operate its properties and assets, to carry on its business as presently conducted, to execute and deliver the Agreements, to issue and sell the Shares and the Conversion Shares and to perform its obligations pursuant to the Agreements and the Restated Certificate. The Company is presently qualified to do business as a foreign corporation in each jurisdiction where the failure to be so qualified could reasonably be expected to have a material adverse effect on the Company's financial condition or business as now conducted (a "<strong>Material Adverse Effect</strong>").
+cRep.1.sec=The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of {Company.Register.State}. The Company has the requisite corporate power and authority to own and operate its properties and assets, to carry on its business as presently conducted, to execute and deliver the Agreements, to issue and sell the Shares and the Conversion Shares and to perform its obligations pursuant to the Agreements and the Restated Certificate. The Company is presently qualified to do business as a foreign corporation in each jurisdiction where the failure to be so qualified could reasonably be expected to have a material adverse effect on the Company's financial condition or business as now conducted (a "<strong>Material Adverse Effect</strong>").
 
 cRep.2.Ti=Capitalization
 
@@ -205,7 +205,7 @@ iRep.=[G/Z/ol/13]
 
 5.6.Sec.Select=Select: 5.6.Sec= 5.6.BdMembers.Sec <em>[only if the Series AA holders will have a board seat]</em> <strong>5.6.BdMembers.Sec</strong>: {5.6.BdMembers.Sec}
 
-5.6.BdMembers.Sec=<b>Board of Directors</b><br>The authorized size of the Board of Directors shall be {Co.Bd.Seat.Auth.#}, and the members of the Board of Directors shall be {Co.Bd.Member.List}.
+5.6.BdMembers.Sec=<b>Board of Directors</b><br>The authorized size of the Board of Directors shall be {Company.Bd.Seat.Auth.#}, and the members of the Board of Directors shall be {Company.Bd.Member.List}.
 
 5.=[G/Z/ol/5]
 
@@ -227,7 +227,7 @@ iRep.=[G/Z/ol/13]
 
 6.4.Ti=Restated Certificate
 
-6.4.sec= The Restated Certificate shall have been duly authorized, executed and filed with and accepted by the Secretary of State of {Co.Register.Agent.Adr.State}.
+6.4.sec= The Restated Certificate shall have been duly authorized, executed and filed with and accepted by the Secretary of State of {Company.Register.Agent.Adr.State}.
 
 6.5.Ti=Rights Agreement
 
@@ -249,11 +249,11 @@ iRep.=[G/Z/ol/13]
 
 7.2.1.2.sec=if to any other holder of any Shares or Conversion Shares, at such address, facsimile number or electronic mail address as shown in the Company's records, or, until any such holder so furnishes an address, facsimile number or electronic mail address to the Company, then to and at the address of the last holder of such Shares or Conversion Shares for which the Company has contact information in its records; or
 
-7.2.1.3.sec=if to the Company, one copy should be sent to {Co.N,A}, {Co.Fax}, Attn: Chief Executive Officer, or at such other address as the Company shall have furnished to the Investors.
+7.2.1.3.sec=if to the Company, one copy should be sent to {Company.N,A}, {Company.Fax}, Attn: Chief Executive Officer, or at such other address as the Company shall have furnished to the Investors.
 
 7.2.1.=[G/Z/ol/s3]
 
-7.2.2.sec=With respect to any notice given by the Company under any provision of the {Co.Register.Law.Corp.Title} or the Company's charter or bylaws, each Investor agrees that such notice may be given by facsimile or by electronic mail.
+7.2.2.sec=With respect to any notice given by the Company under any provision of the {Company.Register.Law.Corp.Title} or the Company's charter or bylaws, each Investor agrees that such notice may be given by facsimile or by electronic mail.
 
 7.2.3.sec=Each such notice or other communication shall for all purposes of this Agreement be treated as effective or having been given when delivered if delivered personally, or, if sent by mail, at the earlier of its receipt or 72 hours after the same has been deposited in a regularly maintained receptacle for the deposit of the United States mail, addressed and mailed as aforesaid or, if sent by facsimile, upon confirmation of facsimile transfer or, if sent by electronic mail, upon confirmation of delivery when directed to the electronic mail address set forth on the Schedule of Investors.
 
@@ -295,7 +295,7 @@ iRep.=[G/Z/ol/13]
 
 00.sec={Sign.Block}<hr>{Exh.A}
 
-Sign.Block={Co.Sign.Block}<br>{Inv.1.Sign.Block}
+Sign.Block={Company.Sign.Block}<br>{Inv.1.Sign.Block}
 
 =[G/Z/ol/7]
 

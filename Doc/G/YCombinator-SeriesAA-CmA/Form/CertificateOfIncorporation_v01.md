@@ -1,10 +1,10 @@
-Head.sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
+Head.sec=Amended & Restated Certificate of Incorporation of {Company.Name.Full}
 
-1.sec=The name of the Corporation is {Co.Name.Full}.
+1.sec=The name of the Corporation is {Company.Name.Full}.
 
 2.sec=The purpose of this corporation is to engage in any lawful act or activity for which corporations may be organized under the General Corporation Law of Delaware.
 
-3.sec=The address of the Corporation's registered office in the State of Delaware is {Co.Register.Agent.Adr.1,2}. The name of the registered agent at such address is {Co.Register.Agent.Name.Full}.
+3.sec=The address of the Corporation's registered office in the State of Delaware is {Company.Register.Agent.Adr.1,2}. The name of the registered agent at such address is {Company.Register.Agent.Name.Full}.
 
 4.sec=The total number of shares of stock that the corporation shall have authority to issue is {Cap.Auth.Number} ({Cap.Auth.#}), consisting of {Cap.Common.Auth.Number} ({Cap.Common.Auth.#}) shares of Common Stock, ${Cap.Common.Par.$} par value per share, and {Cap.Pref.Auth.Number} ({Cap.Pref.Auth.#}) shares of Preferred Stock, ${Cap.Pref.Par.$} par value per share. The first Series of Preferred Stock shall be designated "<strong>Series AA Preferred Stock</strong>" and shall consist of {Cap.AA.Auth.Number} ({Cap.AA.Auth.#}) shares.
 
@@ -16,7 +16,7 @@ Head.sec=Amended & Restated Certificate of Incorporation of {Co.Name.Full}
 
 5.1.1.Sec="<strong>Conversion Price</strong>" shall mean ${Cap.AA.Convert.Price.$} per share for the Series AA Preferred Stock (subject to adjustment from time to time for Recapitalizations and as otherwise set forth elsewhere herein).
 
-5.1.2.Sec="<strong>Corporation</strong>" shall mean {Co.Name.Full}.
+5.1.2.Sec="<strong>Corporation</strong>" shall mean {Company.Name.Full}.
 
 5.1.3.Sec="<strong>Distribution</strong>" shall mean the transfer of cash or other property without consideration whether by way of dividend or otherwise, other than dividends on Common Stock payable in Common Stock, or the purchase or redemption of shares of the Corporation by the Corporation for cash or property other than: (i) repurchases of Common Stock issued to or held by employees, officers, directors or consultants of the Corporation or its subsidiaries upon termination of their employment or services pursuant to agreements providing for the right of said repurchase, (ii) repurchases of Common Stock issued to or held by employees, officers, directors or consultants of the Corporation or its subsidiaries pursuant to rights of first refusal contained in agreements providing for such right, (iii) repurchase of capital stock of the Corporation in connection with the settlement of disputes with any stockholder, and (iv) any other repurchase or redemption of capital stock of the Corporation approved by the holders of the Common and Preferred Stock of the Corporation voting as separate classes.
 

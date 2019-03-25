@@ -1,13 +1,15 @@
-Ti=NDA
+CooleyInspired: =[G/Agt-NDA-CmA/]
 
-NDA (Cooley inspired): =[G/Agt-NDA-CmA/]
+TechContractsAcademy:=[G/TechContractsAcademy-NDA-CmA/Demo/]
 
-TechContractsAcademy form of NDA: =[G/TechContractsAcademy-NDA-CmA/Demo/]
+French:=[G/CabinetBondard-FR-NDA-CmA/]
 
-French NDA: =[G/CabinetBondard-FR-NDA-CmA/]
+MIT Tech Licensing Office:=[G/Edu-MIT-TLO-CmA/NDA/Form/]
 
-MIT Tech Licensing Office Model Forms:=[G/Edu-MIT-TLO-CmA/NDA/Form/]
+NIH CDA form:=[Wx/gov/nih/ott/CDA/Form/]
 
-NIH (National Institutes of Health) CDA form:=[Wx/gov/nih/ott/CDA/Form/]
+StLouis.=[Wx/com/stlstartuplawyer.com/NDA/Demo/01-Acme-Quake-NDA_v0.md]
 
-Statute-reliant Swiss paradigm NDA: =[G/CH-NDA-CmA/Demo/]
+Swiss_SuperShortParadigm:=[G/CH-NDA-CmA/Demo/]
+
+NVCA-Bio.=[G/NVCA/2018/CDA/Form/0.md]

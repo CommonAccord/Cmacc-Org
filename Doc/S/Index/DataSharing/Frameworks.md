@@ -12,10 +12,16 @@ Finnish Model Form of Data Sharing.= [G/FI-IT-EHDot/it2018-evt/Form/0.md]
 
 GlobalAllianceForGenomics&Health.=[G/GA4GH-DataSharing-Framework/EN/Form/0.md]
 
+JLINC.=[G/Org-JLINC-SISA/Form/0.md]  
+
 Linux Foundation:=[G/CDLA-IO/]
+
+ManilaPrinciples:=[G/ManilaPrinciples-CmA/]
 
 Simple Data Sharing Agreement from Scott David:=[G/SLDavid/DataSharing/]
 
 Trust-Cisco.=[G/Cisco-Trust-Principles/Sec/0.md]
 
 UN Human Rights:=[G/Org-UNHCR/Sharing-Personal-Data-Of-Refugees/]
+
+DigitalTransacting.=[Wx/org/unescap/Framework_Agreement_on_Facilitation_of_Cross-border_Paperless_Trade_in_Asia_and_the_Pacific/Form/0.md]
