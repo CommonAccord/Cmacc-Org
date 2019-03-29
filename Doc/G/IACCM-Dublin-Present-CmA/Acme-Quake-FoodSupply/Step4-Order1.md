@@ -1,5 +1,7 @@
-Order Number=Acme-Quake-Order-001
+Order_Number=Acme-Quake-Order-001
  
+Order_Date=2017-07-20
+
 Order_Item_1=Broccoli - 200 kilos - 1.50 Euro / kilo - 300 Euros
  
 Order_Item_2=Cabbage - 100 kilos - 1.75 Euro / kilo - 175 Euros
