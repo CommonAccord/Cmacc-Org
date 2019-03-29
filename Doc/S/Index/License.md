@@ -1,5 +1,13 @@
 Ti=License
 
+Blockchain/Ricardian Models=-----------
+
+AccordProject-Copyright.=[G/Cicero-Template-CmA/Copyright-License/Demo/Acme-Quake-Copyright.md]
+
+OpenLaw.io.=[G/OpenLaw.io/CopyrightLicense/Form/0.md]
+
+Conventional=----------------
+
 Copyright-CreativeCommons:=[G/CreativeCommons-4.0-CmA/]
   
 Copyright-Docracy.=[Wx/com/docracy/8770/Form/0.md]
