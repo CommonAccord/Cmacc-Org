@@ -4,7 +4,7 @@ Blockchain/Ricardian Models=-----------
 
 AccordProject-Copyright.=[G/Cicero-Template-CmA/Copyright-License/Demo/Acme-Quake-Copyright.md]
 
-OpenLaw.io.=[G/OpenLaw.io/CopyrightLicense/Form/0.md]
+OpenLaw.io.=[G/OpenLaw.io/CopyrightLicense/Demo/Acme-Quake-2019-04-01.md]
 
 Conventional=----------------
 
