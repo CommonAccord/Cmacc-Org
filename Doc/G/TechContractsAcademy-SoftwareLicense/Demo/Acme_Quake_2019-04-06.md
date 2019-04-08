@@ -36,7 +36,7 @@ LicenseFee.Increase.PriorNotice.Days=60 days
 
 ConfInfo.ConfirmInWriting.Period=15 days
 
-Conf.Life.Period=3 years
+ConfInfo.Life.Period=3 years
 
 LimitVendorLiability.Max.$=$30,000
 
