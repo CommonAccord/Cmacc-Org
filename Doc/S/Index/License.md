@@ -26,6 +26,6 @@ Patent-Exclusive-NIH.=[G/NIH-License-Patent-Exclusive-CmA/Sec/0.md]
 
 SaaS-YCombinator.=[G/YCombinator-SaaS-CmA/Form/0.md]
 
-TechContractAcademy.=[G/TechContractsAcademy-SoftwareLicense/Demo/Acme_Quake_2019-04-06.md]
+TechContractsAcademy.=[G/TechContractsAcademy-SoftwareLicense/Demo/Acme_Quake_2019-04-06.md]
 
 Trademark-Docracy.=[Wx/com/docracy/4790/Form/0.md]

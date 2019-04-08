@@ -1,3 +1,7 @@
+Note=This demonstration uses the Tech Contracts Academy form of Software License (next link).  It references the Vendor, the Customer and the Escrow Agent for the software escrow.  It then lists the deal points.  For some of the deal points, it references a template for the "Merlin Product," instead of repeating each of those deal points here.  It also references California as providing the governing law and San Francisco as the forum for dispute resolution.  (Referencing the objects for California and San Francisco improves the computability of the contract.  The machine can accurately conclude that this contract is subject to California law and SF forum because the document references the objects for those places, using standard referents (Law. and Dispute.).  When hosted in a graph database, a query for all contracts subject to California law or SF forum can easily find this contract by looking for backlinks from the objects for California and San Francisco.
+
+Note=To see the full agreement, click on "Document" in the menu above.      
+
 =[G/TechContractsAcademy-SoftwareLicense/Form/0.md]
 
 Vendor.=[G/U/id/acme_incorporated.md]
