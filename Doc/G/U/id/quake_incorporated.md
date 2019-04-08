@@ -16,7 +16,7 @@ Phone=1.650.555.5500
 
 Fax=1.650.555.5511
 
-FR.Capital.All=Trois cents milles dollars US
+FR.Capital.All.#=Trois cents milles dollars US
 
 FR.Personality.type="corporation" à liabilité limitée de Delaware
 
@@ -41,4 +41,3 @@ Notice.Title=Vice President
 PL.Register.Adr.Nation=Stany Zjednoczone Ameryki
 
 PL.Adr.Nation=Stany Zjednoczone Ameryki
-
