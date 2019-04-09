@@ -47,3 +47,9 @@ SourceCodeEscrow.Ti=SOURCE CODE ESCROW
 SourceCodeEscrow.sec=<ol><li>{SourceCodeEscrow.Contract.Sec}<li>{SourceCodeEscrow.Deposit.Sec}<li>{SourceCodeEscrow.License.Sec}<li>{SourceCodeEscrow.Release.Sec}</ol>
 
 SourceCodeEscrow.=[G/Z/ol/Base]
+
+Indemnify.Ti=INDEMNIFICATION
+
+Indemnify.sec=<ol><li>{Indemnify.ByVendor.Sec}<li>{Indemnify.Mutual.Sec}<li>{Indemnify.LawSuit.Sec}</ol>
+
+Indemnify.=[G/Z/ol/Base] 
