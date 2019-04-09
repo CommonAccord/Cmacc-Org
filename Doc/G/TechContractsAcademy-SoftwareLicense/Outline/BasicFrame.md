@@ -1,5 +1,7 @@
 Note=The structure of [G/TechContractsAcademy-SoftwareLicense/Form/0.md].
 
+Note=See this Outline populated with subsections at [G/TechContractsAcademy-SoftwareLicense/Outline/BusinessSubsections.md]
+
 Note=A contract frame and a list of sections.
 
 Note=The contract frame - "Vendor" and "Customer":
@@ -8,7 +10,7 @@ Note=The contract frame - "Vendor" and "Customer":
 
 Note=The sections:
 
-sec=<ol><li>{Def.Sec}<li>{License.Sec}<li>{Customize.Sec}<li>{Maintain.Sec}<li>{Fee.Sec}<li>{IP.Sec}<li>{ConfInfo.Sec}<li>{SoftwareAudit.Sec}<li>{SourceCodeEscrow.Sec}<li>{Warrant.Sec}<li>{Indemnify.Sec}<li>{LimitLiability.Sec}<li>{Life.Sec}<li>{Misc.Sec}</ol>
+sec=<ol><li>{Def.Sec}<li>{License.Sec}<li>{Customize.Sec}<li>{Maintain.Sec}<li>{Compensate.Sec}<li>{IP.Sec}<li>{ConfInfo.Sec}<li>{SoftwareAudit.Sec}<li>{SourceCodeEscrow.Sec}<li>{Warrant.Sec}<li>{Indemnify.Sec}<li>{LimitLiability.Sec}<li>{Life.Sec}<li>{Misc.Sec}</ol>
 
 Note=The annexes (called "Attachments"):
 
