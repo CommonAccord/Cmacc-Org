@@ -52,4 +52,23 @@ Indemnify.Ti=INDEMNIFICATION
 
 Indemnify.sec=<ol><li>{Indemnify.ByVendor.Sec}<li>{Indemnify.Mutual.Sec}<li>{Indemnify.LawSuit.Sec}</ol>
 
-Indemnify.=[G/Z/ol/Base] 
+Indemnify.=[G/Z/ol/Base]
+
+LimitLiability.Ti=LIMITATION OF LIABILITY
+
+LimitLiability.sec=<ol><li>{LimitLiability.Cap.sec}<li>{LimitLiability.ConsequentialDamages.sec}<li>{LimitLiability.Except.sec}</ol>
+
+LimitLiability.=[G/Z/ol/Base]
+
+Life.Ti=TERM & TERMINATION
+
+Life.sec=<ol><li>{Life.TerminationCause.sec}<li>{Life.TerminationConvenience.sec}<li>{Life.TerminationEffect.sec}<li>{Life.TerminationEffect.sec}</ol>
+
+Life.=[G/Z/ol/4]
+
+
+Misc.Ti=MISCELLANEOUS
+
+Misc.sec=<ol><li>{Misc.Independent.Sec}<li>{Misc.CustomerUsers.Sec}<li>{Misc.Notice.Sec}<li>{Misc.ForceMajeure.Sec}<li>{Misc.Assign.Sec}<li>{Misc.Sever.Sec}<li>{Misc.Waive.Sec}<li>{Misc.GovtRestrictedRights.Sec}<li>{Misc.Bankruptcy.Sec}<li>{Misc.LawAndForum.Sec}<li>{Misc.AnnexPriority.Sec}<li>{Misc.CommonDrafting.Sec}<li>{Misc.TechExport.Sec}<li>{Misc.EntireAgreement.Sec}<li>{Misc.Counterpart.Sec}<li>{Misc.Amend.Sec}</ol>
+
+Misc.=[G/Z/ol/Base]
