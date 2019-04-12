@@ -48,6 +48,12 @@ SourceCodeEscrow.sec=<ol><li>{SourceCodeEscrow.Contract.Sec}<li>{SourceCodeEscro
 
 SourceCodeEscrow.=[G/Z/ol/Base]
 
+Warrant.Ti=REPRESENTATIONS & WARRANTIES
+
+Warrant.sec=<ol><li>{Warrant.Vendor.Sec}<li>{Warrant.Mutual.Sec}<li>{Warrant.Limit.Sec}</ol>
+
+Warrant.=[G/Z/ol/Base]
+
 Indemnify.Ti=INDEMNIFICATION
 
 Indemnify.sec=<ol><li>{Indemnify.ByVendor.Sec}<li>{Indemnify.Mutual.Sec}<li>{Indemnify.LawSuit.Sec}</ol>

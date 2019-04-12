@@ -2,13 +2,21 @@ Note=This demonstration uses the Tech Contracts Academy form of Software License
 
 Note=To see the full agreement, click on "Document" in the menu above.      
 
+Note=Here is the form of agreement:
+
 =[G/TechContractsAcademy-SoftwareLicense/Form/0.md]
+
+Note=Here are the parties:
 
 Vendor.=[G/U/id/acme_incorporated.md]
 
 Customer.=[G/U/id/quake_incorporated.md]
 
+Note=and the Escrow Agent:
+
 SoftwareEscrow.Agent.=[G/U/id/state_street_corporation.md]
+
+Note=Now for the particulars:
 
 Doc.GUID=Acme-Quake-2019-04-06
 
@@ -46,7 +54,13 @@ Milestone.2.$=$7,000
 
 Milestone.3.$=$11,000
 
+Note=Some of the particulars come from a template:  (ToDo: it would be better to restate the parameter names to permit prefixing.)
+
 =[G/TechContractsAcademy-SoftwareLicense/Demo/Acme_StandardParamenters_MerlinProduct.md]
+
+Note=Confidentiality is Mutual.
+
+ConfInfo.Def.Direction.sec={ConfInfo.Def.Direction.Mutual.sec}
 
 Law.=[G/U/at/US/CA/Geo]
 
