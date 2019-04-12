@@ -5,6 +5,13 @@ Note=First the Outline:
 =[G/TechContractsAcademy-SoftwareLicense/Outline/BasicFrame.md]
 
 Note=Now the selected subsections:
+
+Def.Ti=DEFINITIONS
+
+Def.sec={Def.0.sec}<ol><li>{Def.Customization_Services.sec}<li>{Def.Deliverable.sec}<li>{Def.Documentation.sec}<li>{Def.Go-Live.sec}<li>{Def.License_Term.sec}<li>{Def.Maintenance_Term.sec}<li>{Def.Software.sec}<li>{Def.Specifications.sec}<li>{Def.Upgrade.sec}<li>{Def.User.sec}</ol>
+
+Def.=[G/Z/ol/Base]
+
 License.Ti=LICENSES & DELIVERY
 
 License.sec=<ol><li>{License.Grant.Sec}<li>{License.Restrict.Sec}<li>{License.Deliver.Sec}<li>{License.Document.Sec}</ol>
