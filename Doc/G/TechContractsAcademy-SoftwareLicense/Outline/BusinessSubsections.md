@@ -57,7 +57,7 @@ SourceCodeEscrow.=[G/Z/ol/Base]
 
 Warrant.Ti=REPRESENTATIONS & WARRANTIES
 
-Warrant.sec=<ol><li>{Warrant.Vendor.Sec}<li>{Warrant.Mutual.Sec}<li>{Warrant.Limit.Sec}</ol>
+Warrant.sec=<ol><li>{Warrant.ByVendor.Sec}<li>{Warrant.Mutual.Sec}<li>{Warrant.Limit.Sec}</ol>
 
 Warrant.=[G/Z/ol/Base]
 
