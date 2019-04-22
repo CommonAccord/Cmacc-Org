@@ -1,6 +1,6 @@
 Ti=Startup Documents
 
-Note=This is a collection of more recent work on startup company documents.  We do not include many of the document of general purpose that a startup might use, only ones that are specifically intended for startups. 
+Note=This is a collection of more recent work on startup company documents.  These are only the ones that specifically intended for startups.  Look in other categories for documents of general purpose that might also be useful for startups. 
 
 SaaS-YC:=[G/YCombinator-SaaS-CmA/]
 
@@ -12,7 +12,7 @@ Note-SAFE-YC:=[G/YCombinator-Note-SAFE-CmA/Form/]
 
 SeriesAA-YC.=[G/YCombinator-SeriesAA-CmA/Form/Binder_v01.md]
 
-SharePurchase-NVCA:=[G/NVCA-SPA-CmA/]
+NVCA:=[G/NVCA/2018/] - just beginning - 
 
 Note-SeriesSeed:=[G/SeriesSeed-Cooley-CmA/]
 
