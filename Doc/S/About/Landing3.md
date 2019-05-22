@@ -10,9 +10,9 @@ Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td> </td><td valign="top
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec={CmAQuick.sec}<br><br>Overview:</b><ul><li>{SSRN.sec}<li>{Slack.sec}<li> Prose Objects (our most recent work) <a href="index.php?action=list&file=G/">Prose Objects in /G/</a><li> {Blog.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec={CmAQuick.sec}<br><br>Overview:</b><ul><li>{SSRN.sec}<li>Prose Objects (our most recent work) <a href="index.php?action=list&file=G/">Prose Objects in /G/</a><li> {Blog.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
-CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CDL.Link} 
+CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  <br><br>{CDL.Link} 
 
 CmAbqc.sec=One proposed implementation of CommonAccord is a universal bank account that would allow people to manage in a portable account all types of transactions rather than just payments. Examples of how it would look like can be found here: {Bqc.Link}. An interview explaining the concept can be found here (in French - minute 24.21): {BfmPodcast.Link}.
 
@@ -60,7 +60,7 @@ PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance)
 
 MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Conference</a>
 
-CDL.Link=<a href="https://docs.google.com/document/d/13nCIPNS8lByEj4_Ibwj29jUwHv4q_DeBkFgLV6-Hj-I">Common Trust Fabric</a>
+CDL.Link=Call for <a href="https://docs.google.com/document/d/1X8NEAGpXAFf72rZxL8EKAAE5Idz_qVLbkcbIqfEW12c">Global Codification of Legal Documents</a>
 
 Bqc.Link=<a href="http://www.commonaccord.org/index.php?action=list&file=/bqc/fr/bnpp/a5we/">Universal bank account</a>
 
