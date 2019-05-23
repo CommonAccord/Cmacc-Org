@@ -145,7 +145,7 @@ Req.46.Sec=<b>{Req.46.Ti}</b><br><b>{Req.46.Text}</b><ol start=20><li>{20.sec}<l
 
 Model.Root={H.Sec}
 
-H.=[G/Z/f/ol/5]
+H.=[G/Z/ol/5]
   
 Footnote_47=<sup><a href="index.php?action=doc&file=Wx/org/iaea/GSR3/Footnote/47.md">47</a></sup>
 
