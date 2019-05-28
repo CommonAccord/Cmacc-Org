@@ -1,3 +1,5 @@
 =[G/Z/ol/2]
 
+xlist=<ul type="none" style="color:blue; margin-left:-2.5em;"><li>{secs}</ul>
+
 xlist=<ul type="none"><li>{secs}</ul>
