@@ -51,6 +51,13 @@ span :hover {
 	font-weight: 550 ;
 }  
 
+.definedinitalic {
+	color: #004400 ;
+        text-decoration: none;
+	font-weight: 550 ;
+        font-style: italic;
+}  
+
 .param {
 	color: grey ;
         font-weight: bold;
