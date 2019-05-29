@@ -1,3 +1,3 @@
 =[G/Z/ol/11]
 
-xlist=<ul type="none"><li>{secs}</ul>
+xlist=<ul type="none" style="margin-left:-2.5em"><li>{secs}</ul>
