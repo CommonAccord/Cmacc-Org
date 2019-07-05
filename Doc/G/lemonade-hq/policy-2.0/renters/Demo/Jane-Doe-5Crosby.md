@@ -8,6 +8,8 @@ Insured.Name.First=Jane
 
 Insured.Name.Last=Doe
 
+Insured.Email=jane@doedomain.com
+
 Insured.=[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 
 Policy.Cover.Address.1=5 Crosby St.
