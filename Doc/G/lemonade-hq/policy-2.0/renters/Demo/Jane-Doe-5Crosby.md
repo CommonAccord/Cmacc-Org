@@ -22,4 +22,4 @@ Policy.Number=LP234F32
 
 Policy.Premium.Month.$=$5.20
  
-HowMuch.CoverageOption.=[G/lemonade-hq/policy-2.0/renters/CoverageOption/10-100.md]
+CoverageOption.=[G/lemonade-hq/policy-2.0/renters/CoverageOption/10-100.md]
