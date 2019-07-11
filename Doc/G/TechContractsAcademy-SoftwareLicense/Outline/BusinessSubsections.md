@@ -75,7 +75,7 @@ LimitLiability.=[G/Z/ol/Base]
 
 Life.Ti=TERM & TERMINATION
 
-Life.sec=<ol><li>{Life.TerminationCause.sec}<li>{Life.TerminationConvenience.sec}<li>{Life.TerminationEffect.sec}<li>{Life.TerminationEffect.sec}</ol>
+Life.sec=<ol><li>{Life.Term.Sec}<li>{Life.TerminationCause.Sec}<li>{Life.TerminationConvenience.Sec}<li>{Life.TerminationEffect.Sec}</ol>
 
 Life.=[G/Z/ol/4]
 
