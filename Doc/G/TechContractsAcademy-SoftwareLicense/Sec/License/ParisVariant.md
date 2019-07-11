@@ -1,8 +1,13 @@
-Ti=Licenses & Delivery
+
+Ti=LICENSES & DELIVERY
 
 Grant.Ti=License
 
-Grant.0.sec=<a class='definedterm' href='#Def.Vendor.sec'>Vendor</a> hereby grants <a class='definedterm' href='#Def.Customer.sec'>Customer</a> a nonexclusive license to reproduce and use the <a class='definedterm' href='#Def.Software.sec'>Software</a> solely for <a class='definedterm' href='#Def.Customer.sec'>Customer</a>’s internal business purposes, provided:
+Grant.0.sec=Subject to <a class='definedterm' href='#Def.Customer.sec'>Customer</a>'s compliance with the restrictions of Section {Restrict.Xnum}, <a class='definedterm' href='#Def.Vendor.sec'>Vendor</a> hereby grants <a class='definedterm' href='#Def.Customer.sec'>Customer</a>:
+
+Grant.1.sec=a nonexclusive license to
+
+Grant.2.sec=reproduce and use the <a class='definedterm' href='#Def.Software.sec'>Software</a> solely for <a class='definedterm' href='#Def.Customer.sec'>Customer</a>’s internal business purposes, provided:
 
 Grant.1.sec=<a class='definedterm' href='#Def.Customer.sec'>Customer</a> may give no more than {ConcurrentUsers.Max.#} concurrent <a class='definedterm' href='#Def.User.sec'>Users</a> access to the <a class='definedterm' href='#Def.Software.sec'>Software</a>
 
@@ -44,3 +49,8 @@ Document.Ti=Documentation
 Document.sec=Upon delivery of the <a class='definedterm' href='#Def.Software.sec'>Software</a>, <a class='definedterm' href='#Def.Vendor.sec'>Vendor</a> shall also deliver {Documentation.NumberOfCopies.#} copies of the <a class='definedterm' href='#Def.Documentation.sec'>Documentation</a>. <a class='definedterm' href='#Def.Vendor.sec'>Vendor</a> shall revise the <a class='definedterm' href='#Def.Documentation.sec'>Documentation</a> as reasonably necessary in response to changes to the <a class='definedterm' href='#Def.Software.sec'>Software</a> made pursuant to Section {Customize.Xnum} below and promptly deliver electronic copies of such revisions, without further charge. Such revisions will constitute “<a class='definedterm' href='#Def.Documentation.sec'>Documentation</a>” as of delivery to <a class='definedterm' href='#Def.Customer.sec'>Customer</a>. <a class='definedterm' href='#Def.Customer.sec'>Customer</a> may reproduce the <a class='definedterm' href='#Def.Documentation.sec'>Documentation</a> as reasonably necessary to support internal use of the <a class='definedterm' href='#Def.Software.sec'>Software</a>.
 
 Document.=[G/Z/ol/Base]
+
+sec=<ol><li>{Grant.Sec}<li>{Restrict.Sec}<li>{Deliver.Sec}<li>{Document.Sec}</ol>
+
+=[G/Z/ol/Base]
+
