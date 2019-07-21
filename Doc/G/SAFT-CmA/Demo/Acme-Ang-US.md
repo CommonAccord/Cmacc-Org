@@ -18,9 +18,9 @@ across/on exchange(s)/index(es)=across the indexes
 
 GoverningLaw.cl=the law of the State of California, USA
 
-Company.=[G/U/id/acme_incorporated.md]
+Company.=[G/U/Who/acme_incorporated.md]
 
-Purchaser.=[G/U/id/andrea_ang.md]
+Purchaser.=[G/U/Who/andrea_ang.md]
 
 
 =[G/SAFT-CmA/Form/-US/0.md]

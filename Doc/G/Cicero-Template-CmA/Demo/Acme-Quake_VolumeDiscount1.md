@@ -8,11 +8,11 @@ secondRate=2.75
 
 thirdRate=2.50
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
 _P1=Card Issuer
 
-P2.=[G/U/id/quake_incorporated.md]
+P2.=[G/U/Who/quake_incorporated.md]
 
 _P2=Merchant
 

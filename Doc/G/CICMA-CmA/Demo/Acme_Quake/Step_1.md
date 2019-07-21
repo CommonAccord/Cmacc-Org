@@ -1,10 +1,10 @@
 Doc.GUID=Draft 001
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
 P1.Handle=<i>Acme</i>
 
-P2.=[G/U/id/quake_incorporated.md]
+P2.=[G/U/Who/quake_incorporated.md]
 
 P2.Handle=<i>Quake</i>
 

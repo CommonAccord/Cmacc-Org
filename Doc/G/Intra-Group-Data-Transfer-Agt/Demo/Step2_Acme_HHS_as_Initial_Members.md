@@ -8,9 +8,9 @@ P1.Signer.Name.Full=Ms. Andrea Ang
 
 P1.Signer.Title=Manager
 
-Sub1.P2.=[G/U/id/acme_incorporated.md]
+Sub1.P2.=[G/U/Who/acme_incorporated.md]
 
-Sub2.P2.=[G/U/id/hhs_org.md]
+Sub2.P2.=[G/U/Who/hhs_org.md]
 
 Sub1.P2.Handle=Acme
 

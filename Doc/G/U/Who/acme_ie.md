@@ -28,10 +28,10 @@ Register.Adr.City=Dubin
 
 Register.Adr.Nation=Ireland
 
-Sign.=[G/U/id/andrea_ang.md]
+Sign.=[G/U/Who/andrea_ang.md]
 
 Sign.Title=Manager
 
-Signer.=[G/U/id/andrea_ang.md]
+Signer.=[G/U/Who/andrea_ang.md]
 
 Signer.Title=Manager

@@ -2,15 +2,15 @@ Note=This is a set of terms for a Master Supply Agreement.  The terms can be vie
 
 Note=<b>Parties</b>
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
 P1.Handle=<i>Acme</i>
 
-P1.FinanceWing.=[G/U/id/acme_uk.md]
+P1.FinanceWing.=[G/U/Who/acme_uk.md]
 
 P1.FinanceWing.Handle=<i>Acme UK</i>
 
-P2.=[G/U/id/quake_incorporated.md]
+P2.=[G/U/Who/quake_incorporated.md]
 
 P2.Handle=<i>Quake</i>
 

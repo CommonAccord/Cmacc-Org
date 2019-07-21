@@ -1,8 +1,8 @@
 Ti=CO-RqpA Agreement
 
-CO.=[G/U/id/the_corporation_company.md]
+CO.=[G/U/Who/the_corporation_company.md]
 
-RqpA.=[G/U/id/safe_hands_inc.md]
+RqpA.=[G/U/Who/safe_hands_inc.md]
 
 US.Contract.Among.Sec={CO.US.Contract.Among.Sec}{RqpA.US.Contract.Among.Sec}
 

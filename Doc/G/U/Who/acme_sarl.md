@@ -46,6 +46,6 @@ Dirigeant1.Titre=Gérant
 
 Signer.Title=Gérant
 
-Signer.=[G/U/id/abigail_altima.md]
+Signer.=[G/U/Who/abigail_altima.md]
 
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]

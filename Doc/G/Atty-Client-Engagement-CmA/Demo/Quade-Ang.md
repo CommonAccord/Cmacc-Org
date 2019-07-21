@@ -1,8 +1,8 @@
 /=Example of Atty-Client Engagement Agreement
 
-Atty.=[G/U/id/quade_and_quinn.md]
+Atty.=[G/U/Who/quade_and_quinn.md]
 
-Client.=[G/U/id/andrea_ang.md]
+Client.=[G/U/Who/andrea_ang.md]
 
 EffectiveDate.YMD=2018-02-09
 

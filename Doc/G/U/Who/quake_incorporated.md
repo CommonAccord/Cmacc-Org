@@ -4,7 +4,7 @@ Adr.=[G/U/at/US/CA/San_Mateo/Menlo_Park/Geo]
 
 Register.Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
 
-Signer.=[G/U/id/solomon_shirley.md]
+Signer.=[G/U/Who/solomon_shirley.md]
 
 Name.Inc=Inc.
 

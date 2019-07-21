@@ -1,6 +1,6 @@
 Doc.GUID=CDL-001
 
-P1.=[G/U/id/decentlaw.md]
+P1.=[G/U/Who/decentlaw.md]
 
 =[G/Intra-Group-Data-Transfer-Agt/Form/0.md]
 

@@ -1,14 +1,14 @@
-Company.CEO.=[G/U/id/andrea_ang.md]
+Company.CEO.=[G/U/Who/andrea_ang.md]
 
-Company.CTO.=[G/U/id/alison_andrews.md]
+Company.CTO.=[G/U/Who/alison_andrews.md]
 
-Company.Counsel.=[G/U/id/quade_and_quinn.md]
+Company.Counsel.=[G/U/Who/quade_and_quinn.md]
 
-Company.=[G/U/id/acme_incorporated.md]
+Company.=[G/U/Who/acme_incorporated.md]
 
-Investor.Lead.=[G/U/id/barbara_oreilly.md]
+Investor.Lead.=[G/U/Who/barbara_oreilly.md]
 
-Investor.Counsel.=[G/U/id/solomon_shirley.md]
+Investor.Counsel.=[G/U/Who/solomon_shirley.md]
 
 =[G/Lipshaw_EVCL_CmA/Form/TermSheet/1/Form/0.md]  
 

@@ -1,6 +1,6 @@
-Principal.=[G/U/id/acme_incorporated.md]
+Principal.=[G/U/Who/acme_incorporated.md]
 
-Agent.=[G/U/id/andrea_ang.md]
+Agent.=[G/U/Who/andrea_ang.md]
 
 Why.sec={_Principal} wishes to use {_Agent}'s market analysis services.
 

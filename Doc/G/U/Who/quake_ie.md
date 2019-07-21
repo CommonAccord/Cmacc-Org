@@ -2,7 +2,7 @@
 
 Adr.=[G/U/at/IE/Dublin/Sir_John_Rogersons_Quay/32-34/Geo]
 
-Signer.=[G/U/id/solomon_shirley.md]
+Signer.=[G/U/Who/solomon_shirley.md]
 
 Personality.type=Irish Limited Company
 

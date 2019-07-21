@@ -1,4 +1,4 @@
-Sub3.P2.=[G/U/id/quake_incorporated.md]
+Sub3.P2.=[G/U/Who/quake_incorporated.md]
 
 Sub3.P2.Handle=Quake
 

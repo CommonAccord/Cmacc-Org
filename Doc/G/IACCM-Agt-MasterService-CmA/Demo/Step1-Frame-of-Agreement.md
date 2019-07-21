@@ -4,8 +4,8 @@
 
 /=We reference a frame for the agreement.  This has two parties and assumes a US style.  There are alternatives for more parties and for other jurisdictions.
 
-Customer.=[G/U/id/acme_incorporated.md]
+Customer.=[G/U/Who/acme_incorporated.md]
 
-Provider.=[G/U/id/quake_incorporated.md]
+Provider.=[G/U/Who/quake_incorporated.md]
 
 =[G/Agt-Form-CmA/US/Frame/Customer-Provider/0.md]

@@ -10,13 +10,13 @@ EffectiveDate.YMD=<span class="param">2017-10-25</span>
 
 /=Parties:
 
-Customer.=[G/U/id/acme_incorporated.md]
+Customer.=[G/U/Who/acme_incorporated.md]
 
 Customer.xSignature=<span class="param">xAbigail_Altima</span>
 
 Customer.Sign.YMD=<span class="param">November 12, 2017</span>
 
-Vendor.=[G/U/id/quake_incorporated.md]
+Vendor.=[G/U/Who/quake_incorporated.md]
 
 Vendor.xSignature=<span class="param">xSolomon_Shirley</span>
 

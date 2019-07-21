@@ -18,7 +18,7 @@ Personality.type=law firm
 
 Adr.Type=principal business 
 
-Signer.=[G/U/id/quentin_quade.md]
+Signer.=[G/U/Who/quentin_quade.md]
 
 Signer.Title=Partner
 

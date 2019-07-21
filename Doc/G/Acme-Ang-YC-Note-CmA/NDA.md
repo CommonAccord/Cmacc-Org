@@ -1,6 +1,6 @@
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
-P2.=[G/U/id/andrea_ang.md]
+P2.=[G/U/Who/andrea_ang.md]
 
 P1.Handle=<i>Acme</i>
 

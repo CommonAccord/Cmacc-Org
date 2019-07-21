@@ -32,6 +32,6 @@ Fax=44.617.345.1234
 
 Adr.Type=principal business
 
-Sign.=[G/U/id/andrea_ang.md]
+Sign.=[G/U/Who/andrea_ang.md]
 
 Sign.Title=Manager

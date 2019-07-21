@@ -8,13 +8,13 @@ Note=Here is the form of agreement:
 
 Note=Here are the parties:
 
-Vendor.=[G/U/id/acme_incorporated.md]
+Vendor.=[G/U/Who/acme_incorporated.md]
 
-Customer.=[G/U/id/quake_incorporated.md]
+Customer.=[G/U/Who/quake_incorporated.md]
 
 Note=and the Escrow Agent:
 
-SoftwareEscrow.Agent.=[G/U/id/state_street_corporation.md]
+SoftwareEscrow.Agent.=[G/U/Who/state_street_corporation.md]
 
 Note=Now for the particulars:
 

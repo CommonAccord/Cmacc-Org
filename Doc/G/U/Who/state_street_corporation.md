@@ -12,7 +12,7 @@ Adr.Street.Name=Financial Center
 
 Adr.Zip=02111
 
-Signer.=[G/U/id/samuel_hardy.md]
+Signer.=[G/U/Who/samuel_hardy.md]
 
 Signer.Title=Vice President
 

@@ -18,7 +18,7 @@ Adr.=[G/U/at/US/MA/Suffolk/Boston/State_Street/75/Geo]
 
 Register.Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
 
-Register.Agent.=[G/U/id/the_corporation_company.md]
+Register.Agent.=[G/U/Who/the_corporation_company.md]
 
 Personality.type=Delaware corporation
 
@@ -26,7 +26,7 @@ FR.Personality.type="corporation de Delaware, Etats-Unis"
 
 Register.Account.#=12345654321
 
-Signer.=[G/U/id/abigail_altima.md]
+Signer.=[G/U/Who/abigail_altima.md]
 
 Signer.Title=President
 

@@ -24,11 +24,11 @@ maxTemperature=14
 
 maxPenaltyFactor=25%
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
 importer={P1.Name.Full}
 
-P2.=[G/U/id/quake_incorporated.md]
+P2.=[G/U/Who/quake_incorporated.md]
 
 grower={P2.Name.Full}
 

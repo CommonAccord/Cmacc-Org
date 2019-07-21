@@ -1,8 +1,8 @@
 Ti=RqpA-RqP Agreement
 
-RqpA.=[G/U/id/safe_hands_inc.md]
+RqpA.=[G/U/Who/safe_hands_inc.md]
 
-RqP.=[G/U/id/solomon_shirley.md]
+RqP.=[G/U/Who/solomon_shirley.md]
 
 US.Contract.Among.Sec={RqpA.US.Contract.Among.Sec}{RqP.US.Contract.Among.Sec}
 

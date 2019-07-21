@@ -1,8 +1,8 @@
 //=This presents a completed NDA.  It lists the parties, a place for choice of law and dispute resolution, a form and then the business points.  The parties and the place are "objects" that stand for the parties and places, which makes the agreement partially "computable", as well as easy to write.  The form is a One-Way, built on a common library for all NDAs.  Follow the form link to see the One-Way, the general library and its components.  The components include libraries for each section.  It links to a general frame for "all" agreements, universally.
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
-P2.=[G/U/id/andrea_ang.md]
+P2.=[G/U/Who/andrea_ang.md]
 
 Law.=[G/U/at/US/CA/Santa_Clara/Geo]
 

@@ -4,7 +4,7 @@ Doc.GUID=Acme-001
 
 Sign.YMD=2018-05-06
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
 _P1=<a href="#P1.Handle" class="definedterm">Acme</a>
 
@@ -14,9 +14,9 @@ Law.cl=state and federal laws of the State of California, USA
 
 Misc.EntireAgreement.sec=This {_Agreement} represents the entire understanding between the {_Parties} in relation to its subject matter and supersedes all agreements and representations made by the {_Parties}, whether oral or written in relation to its subject matter.  The {_Parties} acknowledge that the {_Lead_Entity} is a party to a {Parent.Doc.Ti} among the {_Lead_Entity} and other entities dated {Parent.EffectiveDate.YMD}.  This {_Agreement} will be interpreted to be consistent with that {Parent.Doc.Ti}.
 
-Sub1.P2.=[G/U/id/acme_ie.md]
+Sub1.P2.=[G/U/Who/acme_ie.md]
 
-Sub2.P2.=[G/U/id/acme_sarl.md]
+Sub2.P2.=[G/U/Who/acme_sarl.md]
 
 Sub1.P2.Handle=Acme Eire
 

@@ -62,8 +62,8 @@ Distributor.xSignature=xSolomon Shirley
 
 Distributor.Sign.YMD=2017-11-25
 
-Provider.=[G/U/id/acme_incorporated.md]
+Provider.=[G/U/Who/acme_incorporated.md]
 
-Distributor.=[G/U/id/quake_incorporated.md]
+Distributor.=[G/U/Who/quake_incorporated.md]
 
 =[G/TechContractsCom_Distribution-Agreement_CmA/Form/0.md]

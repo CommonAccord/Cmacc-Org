@@ -38,9 +38,9 @@ Charge.ServiceCancellation.PaymentDueWithin.TimeSpan=ten {_Business_Days}
 
 //=Prior existing parameters:
 
-Customer.=[G/U/id/acme_incorporated.md]
+Customer.=[G/U/Who/acme_incorporated.md]
 
-Provider.=[G/U/id/quake_incorporated.md]
+Provider.=[G/U/Who/quake_incorporated.md]
 
 sec=<b>We include only the "Variables Section"</b><br>{Variable.Sec}<br>The {_MSA} terms are incorporated by reference.
 

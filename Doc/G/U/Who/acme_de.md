@@ -30,6 +30,6 @@ Fax=49.617.345.1234
 
 Adr.Type=principal business
 
-Sign.=[G/U/id/alison_andrews.md]
+Sign.=[G/U/Who/alison_andrews.md]
 
 Sign.Title=Manager

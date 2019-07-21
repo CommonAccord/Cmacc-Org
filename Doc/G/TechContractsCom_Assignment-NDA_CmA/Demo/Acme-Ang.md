@@ -18,8 +18,8 @@ Employee.Sign.YMD=2017-11-25
 
 Annex.PriorInventions.sec=Method for Sorting Priorities  2015-03-05 US Patent 2345678
 
-Company.=[G/U/id/quake_incorporated.md]
+Company.=[G/U/Who/quake_incorporated.md]
 
-Employee.=[G/U/id/andrea_ang.md]
+Employee.=[G/U/Who/andrea_ang.md]
 
 =[G/TechContractsCom_Assignment-NDA_CmA/Form/0.md]

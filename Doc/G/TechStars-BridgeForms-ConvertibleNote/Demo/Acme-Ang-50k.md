@@ -28,9 +28,9 @@ Investor.xSignature=x Andrea Ang
 
 Investor.Sign.YMD=2018-03-14
 
-Company.=[G/U/id/acme_incorporated.md]
+Company.=[G/U/Who/acme_incorporated.md]
 
-Investor.=[G/U/id/andrea_ang.md]
+Investor.=[G/U/Who/andrea_ang.md]
 
 Law.=[G/U/at/US/MA/Geo]
 

@@ -26,8 +26,8 @@ P1.Sign.YMD=2018-05-06
 
 P2.Sign.YMD=2018-05-07
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
-P2.=[G/U/id/quake_incorporated.md]
+P2.=[G/U/Who/quake_incorporated.md]
 
 =[G/Cicero-Template-CmA/Copyright-License/Form/0.md]

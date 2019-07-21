@@ -1,8 +1,8 @@
 //=This page is just an information sheet for other pages.  So it does not render into a full document.  We point to Acme and Quake identities, give their names for use in the document, and give the page an ID.
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
-P2.=[G/U/id/quake_incorporated.md]
+P2.=[G/U/Who/quake_incorporated.md]
 
 _P1=<a href="#Def.P1.Sec" class="definedterm">Acme</a>
 

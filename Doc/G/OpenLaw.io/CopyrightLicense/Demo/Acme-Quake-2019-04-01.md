@@ -2,9 +2,9 @@
 
 Doc.GUID=Acme-Quake-001
 
-Licensor.=[G/U/id/acme_incorporated.md]
+Licensor.=[G/U/Who/acme_incorporated.md]
 
-Licensee.=[G/U/id/quake_incorporated.md]
+Licensee.=[G/U/Who/quake_incorporated.md]
 
 Effective Date=2019-04-01
 

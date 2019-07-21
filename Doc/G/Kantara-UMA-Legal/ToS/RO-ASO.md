@@ -1,8 +1,8 @@
 Ti=RO-ASO Agreement
 
-RO.=[G/U/id/alicia_applegate.md]
+RO.=[G/U/Who/alicia_applegate.md]
 
-ASO.=[G/U/id/quade_and_quinn.md]
+ASO.=[G/U/Who/quade_and_quinn.md]
 
 US.Contract.Among.Sec={RO.US.Contract.Among.Sec}{ASO.US.Contract.Among.Sec}
 

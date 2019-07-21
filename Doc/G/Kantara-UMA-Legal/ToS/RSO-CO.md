@@ -1,8 +1,8 @@
 Ti=RSO-CO Agreement
 
-RSO.=[G/U/id/state_street_corporation.md]
+RSO.=[G/U/Who/state_street_corporation.md]
 
-CO.=[G/U/id/the_corporation_company.md]
+CO.=[G/U/Who/the_corporation_company.md]
 
 US.Contract.Among.Sec={RSO.US.Contract.Among.Sec}{CO.US.Contract.Among.Sec}
 

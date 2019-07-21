@@ -14,19 +14,19 @@ Recipient.Institution.xSignature=xMIT_2344562
 
 Recipient.Institution.Sign.YMD=2018-01-10
 
-Recipient.Scientist.=[G/U/id/solomon_shirley.md]
+Recipient.Scientist.=[G/U/Who/solomon_shirley.md]
 
 Recipient.Scientist.Handle=Recipient Scientist
 
-Recipient.Institution.=[G/U/id/mit_edu.md]
+Recipient.Institution.=[G/U/Who/mit_edu.md]
 
 Recipient.Institution.Handle=Recipient Institution
 
-Provider.Institution.=[G/U/id/brown_edu.md]
+Provider.Institution.=[G/U/Who/brown_edu.md]
 
 Providing.Scientist.Handle=Providing Scientist
 
-Provider.Scientist.=[G/U/id/andrea_ang.md]
+Provider.Scientist.=[G/U/Who/andrea_ang.md]
 
 Provider.Institution.Handle=Provider Institution
 
