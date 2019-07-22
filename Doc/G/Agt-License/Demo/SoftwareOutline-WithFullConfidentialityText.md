@@ -2,6 +2,10 @@ Conf.=[G/Agt-NDA-CmA/Sec/Relate/Conf/0.md]
 
 =[G/Agt-License/Outline/-Software/0.md]
 
+P1.=[G/U/Who/quake_ie.md]
+
+P2.=[G/U/Who/acme_incorporated.md]
+
 Note=Cross-References
 
 Conf.SecName=Conf
