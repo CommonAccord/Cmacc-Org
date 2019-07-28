@@ -1,3 +1,7 @@
+Microsoft - Open DSA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md]
+
+Microsoft - Computational DSA.=[G/Computational-Use-of-Data-Agreement/Cmacc/Form/0.md]
+
 CanadianDigitalIdentityEcosystem.=[G/CA-DIACC-DigitalIdentityRequirements-CmA/0.md]
 
 Chatham House - Framework for Data Sharing:=[G/ChathamHouseOrg/DataSharing/]
