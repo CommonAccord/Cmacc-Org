@@ -1,4 +1,4 @@
-Microsoft - Data Use Agreement for Open AI Model Development.=[G/DUA-OAI/Form/0.md]
+Microsoft - Data Use Agreement for Open AI Model Development.=[G/Microsoft-DUA-OAI/Form/0.md]
 
 Microsoft - Open DSA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md]
 
