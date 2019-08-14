@@ -34,7 +34,15 @@ There are also a number of variations in where terms are defined.  In more forma
 
 When using a defined term, it is common but not universal practice to use Initial Capitals for the Defined Term.  There is a hesitation to capitalize verbs as oppose to Nouns.  Of course, ambiguities can arise when the defined term is at the beginning of a sentence or when one defined term is immediately followed by another.
 
+We propose a convention for defined terms.  All defined terms must be "parameterized", with initial caps, leading underscore and with spaces as underscores.  Hence {_Authorized_Representative}, anywhere in the text that the defined term is used.  We also suggest a format for the definition.  A defined term shall be in the format:
 
+Def.Authorized_Representative.sec="{_Authorized_Representative}" means ....
+
+The third piece is the defined term parameter. It should be a link to the definitions.  Hence:
+
+_Authorized_Representative=&lt; a  href="Def.Authorized_Representative.sec">Authorized Representative&lt;a>
+
+Each defined term will appear as a link to the definition, wherever it is in the agreement.
 
 
 Collaboration:
