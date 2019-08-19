@@ -9,14 +9,14 @@ In this introduction, we will touch very quickly on some basic problems of contr
 
 Background:
 
-Contract agreements are important.  They are a kind of "law of the parties" - expressing the expectations and providing for contingencies, most of which are unexpected and undesired by the parties.  Properly done, contracts clarify expectations, invite investigation, facilitate monitoring, and provide for effective resolution of disputes.
+Contract agreements are important.  They are a kind of "law of the parties" - expressing the expectations and providing for contingencies, most of which are unexpected and undesired by the parties.  Properly done, contracts clarify expectations, invite investigation, facilitate monitoring, specify consequences, and provide for effective resolution of disputes.
 
 Making and managing contract agreements is a major concern of businesses and government agencies.  Drafting them is a core activity of lawyers. 
 
 
 On Structure - Contract Agreements as Layers:
 
-Contract agreementss are not literature - they are functional.  The purpose is to align expectations among the parties.  Most contracts relate to common transactions and the agreements can resemble one another.  For reasons that can be developed elsewhere, there is great advantage to consistency in organization, format and phrasing.
+Contract agreements are not literature - they are functional.  The purpose is to align expectations among the parties.  Most contracts relate to common transactions and the agreements can resemble one another.  For reasons that can be developed elsewhere, there is great advantage to consistency in organization, format and phrasing.
 
 Drafting can be understood as layers.  At each layer, there is a list of issues to be addressed, and a variety of answers.
 
@@ -49,7 +49,7 @@ We'll skip the parties information and whereas sections for the moment and go ri
 
 There is great variation in the organization of the outline of engagements.  Some prefer many sections - numbering up to 30 or even more.  Others prefer a few main headings with more extensive subsections.  A radical approach advocated by some is to organize all the content under just a few main headings based on the principal audience - the parties or their lawyers - in order to focus attention.  An extreme version of this is to have a short business agreement with a short but comprehensive statement of the transaction and a long annex of details and legal issues.  Inversely, in some circumstances, parties will sign a master agreement of general terms and then do actual business under purchase orders or statements of work.  At the extreme, this is how most of e-commerce is done - the customers accept terms of use and then do transactions.
 
-All of these can different forms can be expressed as objects and the sections can be reused whatever the organization.  For purposes of this discussion we will assume a short top level of the outline, where the terms are organized into a few major topics based on the audience.  Basically, i) the business terms, ii) the business mechanics, iii) the legal mechanics and iv) the terms often called "Miscellaneous" that relate to the mechanics of the agreement itself.
+All of these different forms can be expressed as objects and the sections can be reused whatever the organization.  For purposes of this discussion we will assume a short top level of the outline, where the terms are organized into a few major topics based on the audience.  Basically, i) the business terms, ii) the business mechanics, iii) the legal mechanics and iv) the terms often called "Miscellaneous" that relate to the mechanics of the agreement itself.
 
 =[G/Agt-License/Outline/0.md]
 
@@ -68,7 +68,7 @@ We also suggest a format for the definition.  A defined term should lead with th
 Def.Authorized_Representative.sec="{_Authorized_Representative}" means ....
 
 
-The third piece is the defined term parameter. It should be a link to the definitions.  Hence:
+The third piece is the defined term parameter. It should be a link to the definition.  Hence:
 
 _Authorized_Representative=&lt; a  href="Def.Authorized_Representative.sec">Authorized Representative&lt;a>
 
