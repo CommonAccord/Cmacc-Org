@@ -12,7 +12,7 @@ Doc.GUID=Acme-Quake-D0001
 
 //=Their legal leads make a couple of general choices about their relationship, such as how how disputes should be handled.  These choices become defaults for use in their agreements.
 
-Law.=[G/U/at/US/MA/Suffolk/Boston/Geo]
+Law.=[G/U/Place/US/MA/Suffolk/Boston/Geo]
 
 Assign.=[G/IACCM-Cooperate-CmA/Sec/Relate/Assign/-MutualBan/-ExceptMerger/0.md]
 

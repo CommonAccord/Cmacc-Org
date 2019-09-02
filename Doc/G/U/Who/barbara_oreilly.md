@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 
-Adr.=[G/U/at/IE/Dublin/Sir_John_Rogersons_Quay/32-34/Geo]
+Adr.=[G/U/Place/IE/Dublin/Sir_John_Rogersons_Quay/32-34/Geo]
 
 Name.First=Barbara
 
@@ -10,11 +10,11 @@ Adr.Type=mailing
 
 Email=barbara0reilly@mildmail.com
 
-Birth.Adr.=[G/U/at/IE/Dublin/Geo]
+Birth.Adr.=[G/U/Place/IE/Dublin/Geo]
 
 Birth.YMD=1959-06-15
 
-Citizen.=[G/U/at/IE/Geo]
+Citizen.=[G/U/Place/IE/Geo]
 
 US.Citizen.nationality=Ireland
 

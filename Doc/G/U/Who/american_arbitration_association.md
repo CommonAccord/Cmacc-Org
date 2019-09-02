@@ -16,4 +16,4 @@ Adr.Zip=10271
 
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/US/NY/New_York/New_York/Geo]
+Adr.=[G/U/Place/US/NY/New_York/New_York/Geo]

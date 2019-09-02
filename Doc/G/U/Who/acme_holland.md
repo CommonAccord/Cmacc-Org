@@ -1,6 +1,6 @@
 Name.Full=Acme Holland BV
 
-=[G/U/at/NL/Amsterdam/Geo]
+=[G/U/Place/NL/Amsterdam/Geo]
 
 Adr.1=Reinwardtstraat 58
 

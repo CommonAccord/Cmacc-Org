@@ -1,8 +1,8 @@
 =[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 
-Adr.=[G/U/at/US/MA/Middlesex/Cambridge/Broadway/55/Geo]
+Adr.=[G/U/Place/US/MA/Middlesex/Cambridge/Broadway/55/Geo]
 
-Birth.Adr.=[G/U/at/US/MA/Suffolk/Boston/Geo]
+Birth.Adr.=[G/U/Place/US/MA/Suffolk/Boston/Geo]
 
 Name.First=Alicia
 
@@ -14,7 +14,7 @@ Email=aappllee@amail.com
 
 Birth.YMD=1978-03-25
 
-Citizen.=[G/U/at/US/Geo]
+Citizen.=[G/U/Place/US/Geo]
 
 US.Citizen.nationality=United States
 

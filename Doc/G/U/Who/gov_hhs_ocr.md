@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-=[G/U/at/US/DC/Washington/Geo]
+=[G/U/Place/US/DC/Washington/Geo]
 
 Name.Full=<font color="orange">U.S. Department of Health and Human Services Office for Civil Rights</font>
 

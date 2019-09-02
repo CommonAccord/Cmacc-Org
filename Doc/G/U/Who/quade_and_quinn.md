@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/US/MA/Suffolk/Boston/State_Street/Geo]
+Adr.=[G/U/Place/US/MA/Suffolk/Boston/State_Street/Geo]
 
 Name.Full=Quade & Quinn
 
@@ -25,4 +25,4 @@ Signer.Title=Partner
 Register.Account.#=102938475
 
 {Signer.US.M/Ms_NameFull}
-Register.Adr.=[G/U/at/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
+Register.Adr.=[G/U/Place/US/MA/Middlesex/Cambridge/Broadway/1/Geo]

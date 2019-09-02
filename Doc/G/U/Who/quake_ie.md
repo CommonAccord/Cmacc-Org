@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/IE/Dublin/Sir_John_Rogersons_Quay/32-34/Geo]
+Adr.=[G/U/Place/IE/Dublin/Sir_John_Rogersons_Quay/32-34/Geo]
 
 Signer.=[G/U/Who/solomon_shirley.md]
 

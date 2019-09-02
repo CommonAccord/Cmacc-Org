@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/US/DC/Washington/Geo]
+Adr.=[G/U/Place/US/DC/Washington/Geo]
 
 Name.Full=U.S. Department of Health and Human Services
 

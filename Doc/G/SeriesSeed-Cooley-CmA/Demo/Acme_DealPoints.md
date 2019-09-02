@@ -30,7 +30,7 @@ EffectiveDate.YMD=<span class="definedterm">2017-06-21</span>
 
 ClosingDate.YMD=<span class="definedterm">2017-07-06</span>
 
-Law.=[G/U/at/US/CA/San_Francisco/San_Francisco/Geo]
+Law.=[G/U/Place/US/CA/San_Francisco/San_Francisco/Geo]
 
 StockPlan.Title,Date.cl=<span class="definedterm">Acme Employee Stock Plan</span>
 

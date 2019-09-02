@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 
-Adr.=[G/U/at/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
+Adr.=[G/U/Place/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
 
 Name.First=Alison
 

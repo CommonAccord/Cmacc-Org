@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Human/He/0.md]
 
-Adr.=[G/U/at/US/MA/Middlesex/Waltham/Geo]  
+Adr.=[G/U/Place/US/MA/Middlesex/Waltham/Geo]  
 
 Adr.Street.Name=Main Street
 
@@ -8,7 +8,7 @@ Adr.Street.#=332
 
 Adr.Zip=02452
 
-Birth.Adr.=[G/U/at/US/MA/Suffolk/Boston/Geo]  
+Birth.Adr.=[G/U/Place/US/MA/Suffolk/Boston/Geo]  
 
 Name.Last=Shirley
 

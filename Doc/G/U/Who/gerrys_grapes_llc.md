@@ -4,7 +4,7 @@ Sign.=[G/U/Who/geraldine_graber]
 
 Sign.Title=Founder
 
-=[G/U/at/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
+=[G/U/Place/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
 
 Name.Full=Gerry's Grapes, LLC
 

@@ -788,3 +788,9 @@ null=</i>
 Foot.Sec={null}
 
 Xref=Section {Xnum}
+
+Xsec=Section {Xnum}
+
+Xsec(Ti)=Section {Xnum} ({Ti})
+
+Xnum(Ti)={Xnum} ({Ti})

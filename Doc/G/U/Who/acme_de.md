@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/DE/Berlin/Geo]
+Adr.=[G/U/Place/DE/Berlin/Geo]
 
 Name.Full=Acme Deutschland GmbH
 

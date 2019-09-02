@@ -2,9 +2,9 @@ Name.Full=Acme Hellas
 
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/GR/Athens/Geo]
+Adr.=[G/U/Place/GR/Athens/Geo]
 
-Register.Adr.=[G/U/at/GR/Athens/Geo]
+Register.Adr.=[G/U/Place/GR/Athens/Geo]
 
 Personality.type=Greek corporation
 

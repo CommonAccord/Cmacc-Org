@@ -7,7 +7,7 @@ Adr.Zip=1049
 
 Email=JUST-04-PROCUREMENT@ec.europa.eu
 
-Adr.=[G/U/at/BE/Bruxelles/Geo]
+Adr.=[G/U/Place/BE/Bruxelles/Geo]
 
 Phone=+32 229-91111
 

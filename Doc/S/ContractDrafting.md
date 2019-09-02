@@ -70,11 +70,11 @@ Def.Authorized_Representative.sec="{_Authorized_Representative}" means ....
 
 The third piece is the defined term parameter. It should be a link to the definition.  Hence:
 
-_Authorized_Representative=&lt; a  href="Def.Authorized_Representative.sec">Authorized Representative&lt;a>
+_Authorized_Representative=< a  href="Def.Authorized_Representative.sec">Authorized Representative<a>
 
-Each defined term will appear as a link to the definition, wherever it is in the agreement.
+Each defined term will appear as a link to the definition, wherever it is in the agreement.  Parameterizing is a help for the reader, who can click to go to the definition.  It can also be a help for the drafter because an "defined term" that isn't defined (it happens) will stand out because there won't be a matching parameter. 
 
 
 Collaboration:
 
-Git and GitHub enable a much more structured approach to contract drafting and to collaboration - both within a transaction and across the ecosystem of contract drafters.
+Git and GitHub enable a much more structured approach to contract drafting and to collaboration - both within a transaction and across the ecosystem of contract drafters.  On one level, they provide an unlimited library of solutions.  Experts can post solutions, they can be used by cloning, updates are clear.   Git can also be used for the actual negotiation of a transaction, but other systems, from Word to contract management systems can also be used.

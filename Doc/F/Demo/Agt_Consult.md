@@ -1,6 +1,6 @@
-P1.=[U/id/acme_incorporated.md]
+P1.=[G/U/id/acme_incorporated.md]
 
-P2.=[U/id/abigail_altima.md]
+P2.=[G/U/id/abigail_altima.md]
 
 P1.Handle=Client
 
@@ -18,7 +18,7 @@ EffectiveDate.YMD=2016-08-01
 
 Conf.Life.End.YMD=2019-12-31
 
-Relate.Law.=[U/at/US/MA/Geo]
+Relate.Law.=[G/U/Place/US/MA/Geo]
 
 Relate.Cov.Conf.Engage.Access.sec={Relate.Cov.Conf.Engage.Access.Entity;EODLA;Know;Sign;Form.sec}
 

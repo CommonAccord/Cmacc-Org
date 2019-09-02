@@ -1,8 +1,8 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/US/MA/Suffolk/Boston/Geo]
+Adr.=[G/U/Place/US/MA/Suffolk/Boston/Geo]
 
-Register.Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
+Register.Adr.=[G/U/Place/US/DE/New_Castle/Wilmington/Geo]
 
 Register.Account.#=1357908642
 

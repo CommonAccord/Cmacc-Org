@@ -4,7 +4,7 @@ P1.=[G/U/Who/acme_incorporated.md]
 
 P2.=[G/U/Who/andrea_ang.md]
 
-Law.=[G/U/at/US/CA/Santa_Clara/Geo]
+Law.=[G/U/Place/US/CA/Santa_Clara/Geo]
 
 _P1=<i>Acme</i>
 

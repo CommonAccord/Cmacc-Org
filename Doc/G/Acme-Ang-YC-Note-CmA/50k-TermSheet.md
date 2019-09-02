@@ -20,7 +20,7 @@ Investor.xSignature=xA-Ang-w4lDIn925u
 
 Investor.Sign.YMD=September 27, 2015
 
-Law.=[G/U/at/US/CA/Geo]
+Law.=[G/U/Place/US/CA/Geo]
 
 
 

@@ -14,9 +14,9 @@ FR.Capital.All=Deux cents cinquante milles dollars US
 
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/US/MA/Suffolk/Boston/State_Street/75/Geo]
+Adr.=[G/U/Place/US/MA/Suffolk/Boston/State_Street/75/Geo]
 
-Register.Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
+Register.Adr.=[G/U/Place/US/DE/New_Castle/Wilmington/Geo]
 
 Register.Agent.=[G/U/Who/the_corporation_company.md]
 

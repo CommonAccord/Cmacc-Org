@@ -1,8 +1,8 @@
 =[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 
-Adr.=[G/U/at/US/MA/Suffolk/Boston/State_Street/75/Geo]
+Adr.=[G/U/Place/US/MA/Suffolk/Boston/State_Street/75/Geo]
 
-Birth.Adr.=[G/U/at/US/NY/New_York/New_York/Wall_Street/48/Geo]
+Birth.Adr.=[G/U/Place/US/NY/New_York/New_York/Wall_Street/48/Geo]
 
 Name.First=Abigail
 
@@ -10,7 +10,7 @@ Name.Last=Altima
 
 Birth.YMD=1988-01-18
 
-Citizen.=[G/U/at/US/Geo]
+Citizen.=[G/U/Place/US/Geo]
 
 US.Citizen.nationality=American
 

@@ -62,9 +62,9 @@ Note=Confidentiality is Mutual.
 
 ConfInfo.Def.Direction.sec={ConfInfo.Def.Direction.Mutual.sec}
 
-Law.=[G/U/at/US/CA/Geo]
+Law.=[G/U/Place/US/CA/Geo]
 
-Dispute.=[G/U/at/US/CA/San_Francisco/San_Francisco/Geo]
+Dispute.=[G/U/Place/US/CA/San_Francisco/San_Francisco/Geo]
 
 RateSchedule.Name=Acme Software Rate Schedule
 

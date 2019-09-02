@@ -1,8 +1,8 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/US/CA/San_Mateo/Menlo_Park/Geo]
+Adr.=[G/U/Place/US/CA/San_Mateo/Menlo_Park/Geo]
 
-Register.Adr.=[G/U/at/US/DE/New_Castle/Wilmington/Geo]
+Register.Adr.=[G/U/Place/US/DE/New_Castle/Wilmington/Geo]
 
 Signer.=[G/U/Who/solomon_shirley.md]
 

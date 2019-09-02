@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/UK/London/Geo]
+Adr.=[G/U/Place/UK/London/Geo]
 
 Name.Given=Acme UK 
 

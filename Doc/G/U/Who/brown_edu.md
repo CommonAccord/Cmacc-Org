@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Adr.=[G/U/at/US/RI/Providence/Providence/Geo]
+Adr.=[G/U/Place/US/RI/Providence/Providence/Geo]
 
 Name.Full=Brown University
 

@@ -6,7 +6,7 @@ Adr.Street.Name=Beaumont Street
 
 Adr.Zip=95815
 
-Adr.=[G/U/at/US/CA/Sacramento/Sacramento/Geo]
+Adr.=[G/U/Geo/US/CA/Sacramento/Sacramento/Geo]
 
 LawEnforcement.Phone.#=916-925-1212
 

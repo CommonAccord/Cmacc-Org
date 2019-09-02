@@ -32,6 +32,6 @@ Company.=[G/U/Who/acme_incorporated.md]
 
 Investor.=[G/U/Who/andrea_ang.md]
 
-Law.=[G/U/at/US/MA/Geo]
+Law.=[G/U/Place/US/MA/Geo]
 
 =[G/TechStars-BridgeForms-ConvertibleNote/Form/0.md]

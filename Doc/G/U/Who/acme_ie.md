@@ -10,7 +10,7 @@ Email=info@acme.com.ie
 
 Personality.type=Irish Limited Liability Company
 
-Adr.=[G/U/at/IE/Dublin/Dun_Laoghaire/Marine_Road/Geo]
+Adr.=[G/U/Place/IE/Dublin/Dun_Laoghaire/Marine_Road/Geo]
 
 Adr.Street.#=5
 

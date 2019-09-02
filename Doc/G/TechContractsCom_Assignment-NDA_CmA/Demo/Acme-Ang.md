@@ -4,7 +4,7 @@ EffectiveDate.YMD=2017-11-28
 
 InfoConfidentialByType.cl=all information relating to reverse-fitting of cyber-attack profiles
 
-Law.=[G/U/at/US/CA/Geo]
+Law.=[G/U/Place/US/CA/Geo]
 
 Tribunal.cl=the State and Federal Courts for San Mateo County, California
 

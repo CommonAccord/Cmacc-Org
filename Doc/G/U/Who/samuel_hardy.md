@@ -1,6 +1,6 @@
 =[G/Agt-Form-CmA/00/ID/Human/He/0.md]
 
-Adr.=[G/U/at/US/CA/San_Francisco/San_Francisco/Geo]
+Adr.=[G/U/Place/US/CA/San_Francisco/San_Francisco/Geo]
 
 Adr.Street.#=111
 

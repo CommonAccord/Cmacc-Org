@@ -16,7 +16,7 @@ Policy.Cover.Address.1=5 Crosby St.
 
 Policy.Cover.Address.Zip=10013
 
-Policy.Cover.Address.=[G/U/at/US/NY/New_York/New_York/Geo]
+Policy.Cover.Address.=[G/U/Place/US/NY/New_York/New_York/Geo]
 
 Policy.Number=LP234F32
 

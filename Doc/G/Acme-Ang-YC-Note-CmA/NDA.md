@@ -20,7 +20,7 @@ Conf.Intro.sec={Conf.Intro.P1-to-P2.sec}
 
 Conf.Life.End.YMD=2018-12-31
 
-Law.=[G/U/at/US/CA/Geo]
+Law.=[G/U/Place/US/CA/Geo]
 
 Forum.USCourts.cl=the federal and state courts for the Santa Clara County, California, USA 
 
