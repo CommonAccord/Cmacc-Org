@@ -53,6 +53,8 @@ All of these different forms can be expressed as objects and the sections can be
 
 =[G/Agt-License/Outline/0.md]
 
+Definitions:
+
 In addition, in longer, more formal agreements there is a section on "definitions."   Definitions play multiple roles in legal agreements.  Some provide a background and precision for terms used in the agreement.  An "Affiliate" of a party can for instance be defined with some precision to include or exclude small ownership interests in another company.  Some provide a shorthand for ideas developed in the agreement.  In some cases, defined terms act as what coders would call "parameters."  For instance, "Price" could be defined to be "$15,000" and "Delivery Date" could be defined as October 15, 2019.
 
 There are also variations in where terms are defined.  In more formal agreements, there is often a section entitled "Definitions."  This is often the first section of an agreement because it establishes the vocabulary.  This has the inconvenience of making the reader wade through a list of definitions before getting to any actual engagement.  So sometimes the definitions are at the end of the agremeent or even as an attachment. But there is also a practice of defining terms in the course of the agreement and then dropping a parenthesis with the defined term (hereinafter "in-line").  Some agreements mix these approaches, with a tendency to define in-line terms that are used in particular sections of the agreement.  This occasionally raises the issue of "scope" - if a term is defined in-line in one section, does that meaning carry over to other sections?  It also can create inconvenience for the reader in finding the defined term, so sometimes the section of defined terms includes references to the sections in which in-line terms are defined.
@@ -63,7 +65,7 @@ When using a defined term, it is common but not universal practice to use Initia
 
 We propose a convention for defined terms.  All defined terms must be "parameterized", using Initial Caps.  The parameter is expressed as the defined term with a leading underscore and spaces replaced with underscores.  Hence {_Authorized_Representative}, anywhere that the defined term is used.
 
-We also suggest a format for the definition.  A defined term should lead with the defined term in quotes, follow by "means".  For example:
+We also suggest a format for the definition.  A defined term should lead with the defined term in quotes, followed by "means".  For example:
 
 Def.Authorized_Representative.sec="{_Authorized_Representative}" means ....
 
@@ -72,7 +74,7 @@ The third piece is the defined term parameter. It should be a link to the defini
 
 _Authorized_Representative=< a  href="Def.Authorized_Representative.sec">Authorized Representative<a>
 
-Each defined term will appear as a link to the definition, wherever it is in the agreement.  Parameterizing is a help for the reader, who can click to go to the definition.  It can also be a help for the drafter because an "defined term" that isn't defined (it happens) will stand out because there won't be a matching parameter. 
+Each defined term will appear as a link to the definition, wherever it is in the agreement.  Parameterizing is a help for the reader, who can click to go to the definition.  It can also be a help for the drafter because a "defined term" that isn't defined (yes, it happens) will stand out because there won't be a matching parameter. 
 
 
 Collaboration:
