@@ -2,7 +2,7 @@ Name.Given=Acme
 
 Name.Inc=SARL
 
-Personality.type=French SARL
+/Personality.type=French SARL
 
 Adr.Type=registered
 
@@ -48,4 +48,4 @@ Signer.Title=Gérant
 
 Signer.=[G/U/Who/abigail_altima.md]
 
-=[G/Agt-Form-CmA/00/ID/Entity/0.md]
+=[G/ISO-ELF/Type/FR/6CHY.md]
