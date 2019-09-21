@@ -16,8 +16,6 @@ MinimumPeriod.TimeSpan=three years
 
 Term.Renew.TimeSpan=one year
 
-Termination.Customer.MajorBreach.Xrefs=
-
 Manufacturer.com/legal/thirdpartyterms.URL=www.quake.com/legal/thirdpartyterms.html
 
 Price.CurrencyType=U.S. Dollars
