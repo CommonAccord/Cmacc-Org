@@ -1,14 +1,6 @@
-ELF.Country.Name=France
+ELF.Country.Name=Ireland
 
-ELF.Country.Code=FR
-
-ELF.Language.Name=French
-
-ELF.Language.Code=fr
-
-FR.Personality.type={Type.Name.Local}
-
-FR.Personality.type.a=un {Type.Name.Local}
+ELF.Country.Code=IE
 
 ELF.Country.Sub.Name=N/A
 

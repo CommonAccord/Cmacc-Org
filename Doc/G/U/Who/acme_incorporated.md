@@ -12,7 +12,7 @@ Capital.All.#=$250,000
 
 FR.Capital.All=Deux cents cinquante milles dollars US
 
-=[G/Agt-Form-CmA/00/ID/Entity/0.md]
+=[G/ISO-ELF/Type/US/DE/XTIQ.md]
 
 Adr.=[G/U/Place/US/MA/Suffolk/Boston/State_Street/75/Geo]
 

@@ -1,22 +1,27 @@
-Ti=ELF Codes
-
-sec=<ol><li><b>ELF Code</b><br>{ELF-Code.txt}</li><li><b>Country of Formation</b><br>{CountryName.txt}</li><li><b>Country Code (ISO 3166-1)</b><br>{CountryCode.txt}</li><li><b>Jurisdiction of Formation</b><br>{SubjurisdictionName.txt}</li><li><b>Country sub-division code (ISO 3166-2)</b><br>{SubjurisdictionCode.txt}</li><li><b>Entity Legal Form name Local name</b><br>{LegalFormName.txt}</li><li><b>Language</b><br>{LanguageName.txt}</li><li><b>Language Code (ISO 639-1)</b><br>{LanguageCode.txt}</li><li><b>Entity Legal Form name Transliterated name (per ISO 01-140-10)</b><br>{LegalFormNameTransliterated.txt}</li><li><b>Abbreviations Local language</b><br>{LegalFormAbbreviation.txt}</li><li><b>Abbreviations transliterated</b><br>{LegalFormAbbreviationTransliteration.txt}</li><li><b>Date created<br>YYYY-MM-DD (ISO 8601)</b><br>{LegalFormCreatedDate.txt}</li><li><b>ELF Status ACTV/INAC</b><br>{ELF-Status.txt}</li><li><b>Modification</b><br>{LegalFormModification.txt}</li><li><b>Modification date<br>YYYY-MM-DD (ISO 8601)</b><br>{LegalFormModificationDate.txt}</li><li><b>Reason</b><br>{LegalFormModificationReason.txt}</li></ol>
-
-=[G/Z/Base]
-
 ELF-Code.txt=1TX8
-CountryName.txt=Belgium
-CountryCode.txt=BE
-LegalFormName.txt=Commanditaire vennootschap op aandelen met een sociaal oogmerk
-LanguageName.txt=Dutch
-LanguageCode.txt=nl
-LegalFormNameTransliterated.txt=Commanditaire vennootschap op aandelen met een sociaal oogmerk
-LegalFormAbbreviation.txt=CVA SO
-LegalFormCreatedDate.txt=2017-11-30
-ELF-Status.txt=ACTV
-LegalFormModification.txt=legislation change
-LegalFormModificationDate.txt=2019-07-05
-LegalFormModificationReason.txt=after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date
+
+ELF.Country.Name=Belgium
+
+ELF.Country.Code=BE
+
+ELF.Type.Name.Local=Commanditaire vennootschap op aandelen met een sociaal oogmerk
+
+ELF.Language.Name.=Dutch
+
+ELF.Language.Code=nl
+
+ELF.Type.Abbreviation.Local=CVA SO
+
+ELF.DateCreated=2017-11-30
+
+ELF.Status=ACTV
+
+ELF.Modification.Kind=legislation change
+
+ELF.Modification.Date=2019-07-05
+
+ELF.Modification.Reason=after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date
+
 ELF-Code.txt=1TX8
 CountryName.txt=Belgium
 CountryCode.txt=BE

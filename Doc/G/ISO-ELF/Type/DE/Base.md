@@ -1,14 +1,14 @@
-ELF.Country.Name=France
+ELF.Country.Name=Germany
 
-ELF.Country.Code=FR
+ELF.Country.Code=DE
 
-ELF.Language.Name=French
+ELF.Language.Name=German
 
-ELF.Language.Code=fr
+ELF.Language.Code=de
 
 FR.Personality.type={Type.Name.Local}
 
-FR.Personality.type.a=un {Type.Name.Local}
+FR.Personality.type.a=ein {Type.Name.Local}
 
 ELF.Country.Sub.Name=N/A
 
