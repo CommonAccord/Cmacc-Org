@@ -2,15 +2,15 @@ Doc.GUID=AcmeQuake-001
 
 EffectiveDate.YMD=2019-10-01
 
-_P1=Big Corp
+_P1=<a href="#_P1" class="definedterm">Big Corp</a>
 
 P2.Birth.Adr.State=</i>
 
-_P2=Brilliant Scientist
+_P2=<a href="#_P2" class="definedterm">Brilliant Scientist</a>
 
-Why.sec={_P1} and {_P2} wish to discuss the possible development by {_P1} of {_P2}'s proprietary work.
+Purpose.Clause={_P1} and {_P2} wish to discuss the possible development by {_P1} of {_P2}'s proprietary work.
 
-Purpose.sec={Why.sec}
+Why.sec={Purpose.Clause}<br>The {_Parties} wish to provide for the protection of their respective {_Confidential_Information}.
 
 Law.Country=Ireland
 
