@@ -86,3 +86,8 @@ span :hover {
         text-transform : uppercase;
         font-weight: bold;
 }
+
+.highlight {
+	color: #5500AA ;
+        font-weight: bold;
+}

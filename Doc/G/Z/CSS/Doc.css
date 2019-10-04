@@ -48,7 +48,6 @@ span :hover {
 .definedterm {
 	color: #004400 ;
         text-decoration: none;
-	font-weight: 550 ;
 }  
 
 .definedinitalic {
@@ -64,8 +63,6 @@ span :hover {
 }  
 
 .highlight {
-	color: purple ;
-        font-style: italic;
 }  
 
 .xref {

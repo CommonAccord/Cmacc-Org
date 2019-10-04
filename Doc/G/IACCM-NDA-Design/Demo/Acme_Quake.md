@@ -14,7 +14,7 @@ Why.sec={Purpose.Clause}<br>The {_Parties} wish to provide for the protection of
 
 Law.Country=Ireland
 
-Annex.Div=</i>
+Conf.Duration.InWords=three years
 
 P1.=[G/U/Who/acme_ie.md]
 
