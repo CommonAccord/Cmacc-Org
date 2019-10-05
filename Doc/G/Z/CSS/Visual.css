@@ -36,16 +36,18 @@ span :hover {
         text-decoration: none;
 }  
 
+.secs {
+	color: olive ;
+	outline: 2px dotted olive;
+        background-color: #fff0ff;
+	margin: 10px 10px 10px 10px;
+}
+
 .secs-and {
 	color: olive ;
 	outline: 2px dotted olive;
         background-color: #aaf0ff;
 	margin: 10px 10px 10px 10px;
-}
-.dealpoint {
-	color: #008800;
-        text-transform : underline;
-        font-weight: bold;
 }
 
 .secs-and li{
@@ -70,6 +72,11 @@ span :hover {
 
 }  
 
+.dealpoint {
+	color: #008800;
+        text-transform : underline;
+        font-weight: bold;
+}
 
 .jurisdiction {
 	color: #5500AA ;

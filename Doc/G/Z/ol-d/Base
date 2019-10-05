@@ -24,34 +24,34 @@ sec={0.sec} {xlist} {00.sec}
 
 xlist={Olist}
 
-Olist=<ol class="secs-and"><li>{Secs}</li></ol>
+Olist=<ol class="secs"><li>{Secs}</li></ol>
 
-olist=<ol class="secs-and"><li>{secs}</li></ol>
+olist=<ol class="secs"><li>{secs}</li></ol>
 
 ol=ol
 
 
-Alist=<ol type="a" class="secs-and"><li>{Secs}</li></ol>
+Alist=<ol type="a" class="secs"><li>{Secs}</li></ol>
 
-alist=<ol type="a" class="secs-and"><li>{secs}</li></ol>
+alist=<ol type="a" class="secs"><li>{secs}</li></ol>
 
 Ilist=<ol type="i"><li>{Secs}</li></ol>
 
-ilist=<ol type="i" class="secs-and"><li>{secs}</li></ol>
+ilist=<ol type="i" class="secs"><li>{secs}</li></ol>
 
-Ulist=<ul class="secs-and"><li>{Secs}</li></ul>
+Ulist=<ul class="secs"><li>{Secs}</li></ul>
 
-ulist=<ul class="secs-and"><li>{secs}</li></ul>
+ulist=<ul class="secs"><li>{secs}</li></ul>
 
-Nlist=<ul type="none" class="secs-and"><li>{Secs}</li></ul>
+Nlist=<ul type="none" class="secs"><li>{Secs}</li></ul>
 
-nlist=<ul type="none" class="secs-and"><li>{secs}</li></ul>
+nlist=<ul type="none" class="secs"><li>{secs}</li></ul>
 
 /blist = for "break list" e.g. < br>
  
-Blist=<ul class="paras secs-and" type="none" style="padding-left: 0"><li>{Secs}</ul>
+Blist=<ul class="paras secs" type="none" style="padding-left: 0"><li>{Secs}</ul>
 
-blist=<ul class="paras secs-and" type="none" style="padding-left: 0; " ><li>{secs}</ul>
+blist=<ul class="paras secs" type="none" style="padding-left: 0; " ><li>{secs}</ul>
 
 Note=This avoids the need for cluttering a list with a separate Z/ol/0 for each section that has only a simple sec text.  It also forces you to put the reference to any Z/… at the bottom. 
 
