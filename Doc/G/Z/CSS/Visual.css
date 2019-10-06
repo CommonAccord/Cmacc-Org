@@ -43,6 +43,13 @@ span :hover {
 	margin: 10px 10px 10px 10px;
 }
 
+span img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  height: 40px;
+  width: 40px;
+}
 .secs-and {
 	color: olive ;
 	outline: 2px dotted olive;
