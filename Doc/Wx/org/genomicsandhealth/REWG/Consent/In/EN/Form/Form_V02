@@ -3,3 +3,7 @@
 4.=[Wx/org/genomicsandhealth/REWG/Consent/In/EN/Sec/4/Library_V01]
 
 =[Wx/org/genomicsandhealth/REWG/Consent/In/EN/Form/Form_V01]
+
+2.3.sec={DUO.COL.ds}
+
+DUO.=[Wx/org/genomicsandhealth/REWG/DUO/DataItem/0.md]

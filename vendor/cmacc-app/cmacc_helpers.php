@@ -60,6 +60,11 @@ switch ($_REQUEST['action']) {
        include('./vendor/cmacc-app/view/edit.php');
         break;
 
+  case 'kvs':
+
+       include('./vendor/cmacc-app/view/print-kvs.php');
+        break;
+
 
     case 'html':
 
