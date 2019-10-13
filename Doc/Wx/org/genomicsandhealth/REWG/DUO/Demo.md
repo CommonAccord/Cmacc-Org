@@ -1,10 +1,11 @@
 Ti=Name Space for Consent
 
-Framework.=[G/GA4GH-DataSharing-Framework/EN/Form/0.md]
+UDBHR.=[G/Org-UNESCO/Universal_Declaration_on_Bioethics_and_Human_Rights/Form/YMD-2005-10-19.md]
 
-DUO.=[Wx/org/genomicsandhealth/REWG/DUO/DataItem/0.md]
+GA4GH.Framework.=[G/GA4GH-DataSharing-Framework/EN/Form/0.md]
 
+GA4GH.DUO.=[Wx/org/genomicsandhealth/REWG/DUO/DataItem/0.md]
 
-sec=<ol><li><b>DUO.ConsentCode.DS.description: </b>{DUO.ConsentCode.DS.description}<li><b>Framework.Principle.sec: </b>{Framework.Principle.sec}</ol>
+sec=<ol><li><b>UDBHR.Principle.Consent.Research.sec: </b>{UDBHR.Principle.Consent.Research.sec}<li><b>GA4GH.Framework.Principle.sec: </b>{GA4GH.Framework.Principle.sec}<li><b>GA4GH.DUO.ConsentCode.RS.description: </b>{GA4GH.DUO.ConsentCode.RS.description}</ol>
 
 =[G/Z/Base]

@@ -15,6 +15,8 @@ Patent-CreativeCommons:=[G/CreativeCommonsOrg-Model_Patent_License/Form/0.md]
 
 Patent-Exclusive-NIH.=[G/NIH-License-Patent-Exclusive-CmA/Sec/0.md]
 
+INPI.Brevet.=[G/FR-INPI-ContratDeLicenceDExploitation/Demo/Acme_Quake_123456.md]
+
 Copyright-CreativeCommons:=[G/CreativeCommons-4.0-CmA/]
   
 Copyright-Docracy.=[Wx/com/docracy/8770/Form/0.md]
