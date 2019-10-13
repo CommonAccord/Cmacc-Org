@@ -2,13 +2,13 @@ Note=Click on "Document" (above) to see four versions of an agreement Frame - wi
 
 Note=Here are the parties:
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
-P2.=[G/U/id/abigail_altima.md]
+P2.=[G/U/Who/abigail_altima.md]
 
-P3.=[G/U/id/solomon_shirley.md]
+P3.=[G/U/Who/solomon_shirley.md]
 
-P4.=[G/U/id/quake_incorporated.md]
+P4.=[G/U/Who/quake_incorporated.md]
 
 P1.Handle=Acme
 

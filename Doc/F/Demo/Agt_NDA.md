@@ -2,9 +2,9 @@ _P1=Acme
 
 _P2=Altima
 
-P1.=[G/U/id/acme_incorporated.md]
+P1.=[G/U/Who/acme_incorporated.md]
 
-P2.=[G/U/id/abigail_altima.md]
+P2.=[G/U/Who/abigail_altima.md]
 
 =[F/US/00/Agt/Base/Frame/2Parties/0.md]
 
