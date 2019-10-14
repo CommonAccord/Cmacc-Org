@@ -1,0 +1,34 @@
+Note/BP=Given that for many research participants it is important to know whether the research will have health-benefits for other people, should we say "health-related research purposes" here, instead of merely "research purposes", which, in theory, could include market research etc?
+
+JTW.for research purposes={m-}for health-related research purposes{-m}
+
+VERSION = V01 - Note - we could have done all of the following by simply pointing to V01, but since there was so little there, we copy it here for convenience of reference.  When the system is built out further, interface will make this transparent.  
+
+=[G/GA4GH/Consent/Outline/Sec/4/V01]
+JTW.=[G/GA4GH/Consent/In/EN/Sec/4/JTW_Library_V01]
+
+3.1.Sen=<b>3.1.Sen</b><br><b>Base: </b><br>{3.1.1.Sen}<br><b>JTW Variants (Prefix using "3.1.")</b><br><i>{JTW.?}</i>
+
+Ti=Access to the Data
+
+Ti=What will happen with the data I give you?  
+
+1.1.Sen=Your data will be stored in controlled-access databases (i.e. a server/cloud provider) that meet international security and safety standards.
+
+1.2.Sen=Your data will be used for international research and may be moved and stored in different countries. 
+
+2.sec=Over the next {m-}{Study.Duration.Expected}{-m}, researchers will: {2.List}
+
+2.1.sec=analyse your genetic information using a process called 'sequencing'
+
+2.2.sec=study DNA variation
+
+3.1.1.Sen=Your data will be shared with other researchers around the world and used in future biomedical research projects after ethics approval.
+
+3.2.Sen=These projects can take place in universities, hospitals, non-profit groups, companies, and/or government laboratories.
+
+3.3.Sen=All researchers must respect the laws and ethical guidelines for biomedical research.
+
+4.sec=Your data will be kept for a period of {m-}{Study.PersonalData.Retained.Duration}{-m}.
+
+Model.Root={Sec}

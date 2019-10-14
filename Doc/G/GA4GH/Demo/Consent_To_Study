@@ -1,0 +1,13 @@
+Study.=[G/GA4GH/Demo/Study_N01]
+
+Note/3.1.List= This is the list of forms of access to the Donor's data. Here we include all three.
+3.1.List={3.1.List.123.cl}
+
+Note/5.1=Concerns compensation.  The choice "5.1.N" means no compensation. "5.1.R" provides for reimbursement.
+5.1.sec={5.1.N.sec}
+
+Framework.URL=www.esantesite.orG/GA4GH/Cadre/V01
+
+Note/9.2.1=Contact information
+
+9.2.1.Sen={9.2.1.PhoneEmail}

@@ -1,0 +1,91 @@
+Model.Root={Doc}
+
+SummaryAndDoc={Summary}<hr><b>DOCUMENT</b><hr>{Doc}
+
+Summary={Doc.Top}<br><b>Study:</b>  {1.2.sec}<br><b>Time:</b> {4.4.sec}<br><b>Compensation:</b>  {5.1.sec}<br><b>Withdrawal:</b> {9.2.1.Sen}<br><b>Signature:</b>{Sign.8}
+
+
+Doc={Doc.Top}<br><hr><br>{Doc.Secs}<br><br>{Doc.Sign}
+
+
+
+Doc.Top=<center><b><span style="text-transform: uppercase">{Doc.Ti}</span></b><br>{GUIDs.cl}</center><br><br><table><tr><td valign="top">{Study.Inv1.Role}{:}</td><td width="10%"></td><td>{Study.Inv1.Name.Full}</td></tr><tr><td valign="top">{Study.Org.Role}{:} </td><td width="10%"></td><td>{Study.Org.Name.Full}</td></tr><tr><td valign="top">{Study.Funder.Role}{:}</td><td width="10%"></td><td>{Study.Funder.List.Name}</td></tr><tr><td valign="top">{Study.Contact.Role}{:}</td><td width="10%"></td><td>{Study.Contact.N,A}</td></tr></table>
+
+Doc.Secs=<ol><li>{1.Sec}</li><li>{2.Sec}</li><li>{3.Sec}</li><li>{4.Sec}</li><li>{5.Sec}</li><li>{6.Sec}</li><li>{7.Sec}</li><li>{8.Sec}</li><li>{9.Sec}</li><li>{10.Sec}</li><li>{11.Sec}</li><li>{12.Sec}</ol>
+
+1.Sec=<b>{1.Ti}</b><br><br>{1.1.sec}<br><br>{1.2.sec}<br>{1.3.sec}<br><br>{1.4.sec}<br><br>{1.5.sec}<br><br>{1.6.sec}<br><br>
+
+1.1.sec={1.1.1.Sen} {1.1.2.Sen} {1.1.3.Sen} 
+
+1.2.List=<ol><li>{1.2.1.sec}{;}</li><li>{1.2.2.sec}{;}</li><li>{1.2.3.sec}{;} {and}</li><li>{1.2.4.sec}.</ol>  
+
+1.3.sec={1.3.1.Sen} {1.3.2.Sen} {1.3.1.Sen} {1.3.3.Sen} {1.3.4.Sen} {1.3.5.Sen} {1.3.6.Sen} 
+
+1.6.sec={1.6.1.Sen} {1.6.2.Sen} {1.6.3.Sen}
+
+2.Sec=<b>{2.Ti}</b><br><br>{2.sec}
+
+2.sec={2.1.sec}<br><br>{2.2.sec}<br><br>{2.3.sec}<br><br>
+
+2.1.sec={2.1.1.Sen} {2.1.2.Sen} {2.1.3.Sen} {2.1.4.Sen} {2.1.5.Sen} {2.1.6.Sen} {2.1.7.Sen}
+
+2.2.sec={2.2.1.Sec} {2.2.2.Sec} {2.2.3.Sec}
+
+3.Sec=<b>{3.Ti}</b><br><br>{3.1.sec}<br><br>
+
+3.1.List=<b>Select</b> {3.1.List } is e.g. {3.1.List.123.cl } <i>{3.1.List.123.cl}</i> 
+
+3.1.List.123.cl=<ol><li>{3.1.1.cl},</li><li>{3.1.2.cl} {and} </li><li>{3.1.3.cl}.</ol>
+
+4.Sec=<b>{4.Ti}</b><br><br>{4.1.sec}<br><br>{4.2.sec}<br><br>{4.3.sec}<br><br>{4.4.sec}<br><br>
+
+4.1.sec={4.1.1.Sen} {4.1.2.Sen} 
+
+4.2.List=<ul><li>{4.2.1.sec}{;} {and}</li><li>{4.2.2.sec}.</ul>
+
+4.3.sec={4.3.1.Sen} {4.3.2.Sen} {4.3.3.Sen} 
+
+5.Sec=<b>{5.Ti}</b><br><br>{5.1.sec}<br><br>
+
+5.1.sec={5.1.sec } select: <ol><li><b>5.1.N.sec</b><br>{5.1.N.sec}</li><li><b>5.1.R.sec</b><br> {5.1.R.sec}</li></ol>
+
+6.Sec=<b>{6.Ti}</b><br><br>{6.1.sec}<br><br>
+
+7.Sec=<b>{7.Ti}</b><br><br>{7.1.sec}<br><br>
+
+7.1.sec={7.1.1.Sen} {7.1.2.Sen} {7.1.3.Sen} {7.1.4.Sen} 
+
+8.Sec=<b>{8.Ti}</b><br><br>{8.1.sec}<br><br>{8.2.sec}<br><br>{8.3.sec}<br><br>
+
+8.1.sec={8.1.1.Sen}  {8.1.2.Sen} {8.1.3.Sen} {8.1.5.Sen} 
+
+8.1.5.Sen={8.1.5.Intro} {8.1.5.List}
+
+8.1.5.List=<ul><li>{8.1.5.1.sec}{;}</li><li>{8.1.5.2.sec}{;}</li><li>{8.1.5.3.sec}{;} {and}</li><li>{8.1.5.4.sec}.</ul>
+
+8.3.sec={8.3.1.Sen} {8.3.2.Sen} {8.3.3.Sen} {8.3.4.Sen}
+
+8.Xref=8
+  
+9.Sec=<b>{9.Ti}</b><br><br>{9.1.sec}<br><br>{9.2.sec}<br><br>
+
+9.2.sec={9.2.1.Sen}  {9.2.Cont}
+
+9.2.1.Sen={9.2.1.Sen }<ol><li>9.2.1.PhoneEmail<br>{9.2.1.PhoneEmail}</li><li>9.2.1.Mail<br>{9.2.1.Mail}</li></ol>
+
+10.Sec=<b>{10.Ti}</b><br><br>{10.1.sec}<br><br>{10.2.sec}<br><br>
+
+10.1.sec={10.1.1.Sen} {10.1.2.Sen}
+
+11.Sec=<b>{11.Ti}</b><br><br>{11.1.sec}<br><br>
+
+12.Sec=<b>{12.Ti}</b><br><br>{12.1.sec}<br><br>
+
+12.1.sec={12.1.1.Sen}  {12.1.2.Sen}  {12.1.3.Sen}
+
+Doc.Sign=<center><b>{Sign.Ti}</b></center><br><br>{Sign.1}<br><br>{Sign.2}<br><br>{Sign.3}<br><br>{Sign.4}<br><br>{Sign.5}<br><br>{Sign.6}<br><br>{Sign.7}<br><br>{Sign.8}
+Sign.4={Sign.4.Intro} {Sign.4.List}
+Sign.4.List=<ol><li>{Sign.4.1}{;}</li><li>{Sign.4.2}{;}</li><li>{Sign.4.3}{;}</li><li>{Sign.4.4}{;}</li><li>{Sign.4.5}{;} {and}</li><li>{Sign.4.6}.</ol>
+ 
+m-=<font color="magenta">
+-m=</font>
