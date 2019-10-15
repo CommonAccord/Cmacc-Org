@@ -1,0 +1,350 @@
+openapi: 3.0.0
+servers: []
+info:
+  version: "1.1.0"
+  title: ADA-M
+  description: |
+    The Automatable Discovery and Access Matrix (ADA-M) provides a standardized way to unambiguously represent the conditions related to data discovery and access. By adopting ADA-M, data custodians can generally describe what their data are (the Header section), who can access them (the Permissions section), terms related to their use (the Terms section), and special conditions (the Meta-Conditions). By doing so, data custodians can participate in data sharing and collaboration by making meta information about their data computer-readable and hence directly available for digital communication, searching and automation activities.
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+externalDocs:
+  description: 'Guidance Document'
+  url: 'https://drive.google.com/file/d/14pSiJFG9K6MiQClAhs5n2Y9ad0MhG7Hb/view'
+paths: {}
+components:
+  schemas:
+    Adam:
+      type: object
+      required:
+        - Header
+      properties:
+        header:
+          $ref: '#/components/schemas/Header'
+        profile:
+          $ref: '#/components/schemas/Profile'
+        terms:
+          $ref: '#/components/schemas/Terms'
+        metaConditions:
+          $ref: '#/components/schemas/MetaConditions'
+    Header:
+      type: object
+      properties:
+        matrixName:
+          type: string
+        matrixVersion:
+          type: string
+        matrixReferences:
+          type: array
+          items:
+            type: string
+          description: 'Publications, URLs, DOIs for the resource.'
+        matrixProfileCreateDate:
+          type: string
+          example: '2017-01-17T20:33:40Z'
+        matrixProfileUpdates:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileUpdates'
+        resourceName:
+          type: string
+        resourceReferences:
+          type: array
+          items:
+            type: string
+          description: 'Publications, URLs, DOIs for the resource.'
+        resourceDescription:
+          type: string
+        resourceDataLevel:
+          $ref: '#/components/schemas/DataLevel'
+        resourceContactNames:
+          type: array
+          items:
+            $ref: '#/components/schemas/Contact'
+        resourceContactOrganisations:
+          type: array
+          items:
+            type: string
+    ProfileUpdates:
+      type: object
+      properties:
+        date:
+          type: string
+          description: 'Date the change was made to the profile.'
+          example: '2012-07-19 or 2017-01-17T20:33:40Z'
+        description:
+          type: string
+          description: 'Text describing the profile change made.'
+    DataLevel:
+      type: string
+      enum:
+        - UNKNOWN
+        - DATABASE
+        - METADATA
+        - SUMMARISED
+        - DATASET
+        - RECORDSET
+        - RECORD
+        - RECORDFIELD
+    Contact:
+      type: object
+      properties:
+        name:
+          type: string
+        email:
+          type: string
+    Profile:
+      type: object
+      properties:
+        country:
+          $ref: '#/components/schemas/RestrictionsUL'
+        allowedCountries:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        organisation:
+          $ref: '#/components/schemas/RestrictionsUL'
+        allowedOrganisations:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        nonProfitOrganisation:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedNonProfitOrganisations:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        profitOrganisation:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedProfitOrganisations:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        person:
+          $ref: '#/components/schemas/RestrictionsUL'
+        allowedPersons:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        academicProfessional:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedAcademicProfessionals:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        clinicalProfessional:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedClinicalProfessionals:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        profitProfessional:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedProfitProfessionals:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        nonProfessional:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedNonProfessionals:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        nonProfitPurpose:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedNonProfitPurposes:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        profitPurpose:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedProfitPurposes:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        researchPurpose:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedResearchPurposes:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        allowedResearchProfiles:
+          type: array
+          items:
+            $ref: '#/components/schemas/ResearchDescription'
+        clinicalPurpose:
+          $ref: '#/components/schemas/RestrictionsULF'
+        allowedClinicalPurpose:
+          type: array
+          items:
+            $ref: '#/components/schemas/ProfileDescription'
+        allowedClinicalProfiles:
+          type: array
+          items:
+            $ref: '#/components/schemas/ClinicalDescription'
+    RestrictionsUL:
+      type: string
+      enum:
+        - UNRESTRICTED
+        - LIMITED
+    RestrictionsULF:
+      type: string
+      enum:
+        - UNRESTRICTED
+        - LIMITED
+        - UNRESTRICTED_OBLIGATORY
+        - LIMITED_OBLIGATORY
+        - FORBIDDEN
+    ProfileDescription:
+      type: object
+      properties:
+        description:
+          type: string
+        obligatory:
+          type: boolean
+    ResearchProfile:
+      type: string
+      enum:
+        - OTHER
+        - METHODS
+        - CONTROL
+        - POPULATION
+        - ANCESTRY
+        - BIOMEDICAL
+        - FUNDAMENTAL
+        - GENETIC
+        - DRUG
+        - DISEASE
+        - GENDER
+        - AGE
+    ResearchDescription:
+      type: object
+      properties:
+        type:
+          $ref: '#/components/schemas/ResearchProfile'
+        description:
+          type: string
+        restriction:
+          $ref: '#/components/schemas/RestrictionsULF'
+    ClinicalProfile:
+      type: string
+      enum:
+        - OTHER
+        - DECISION_SUPPORT
+        - DISEASE
+    ClinicalDescription:
+      type: object
+      properties:
+        type:
+          $ref: '#/components/schemas/ClinicalProfile'
+        description:
+          type: string
+        restriction:
+          $ref: '#/components/schemas/RestrictionsULF'
+    Terms:
+      type: object
+      properties:
+        noAuthorizationTerms:
+          type: boolean
+        whichAuthorizationTerms:
+          type: array
+          items:
+            type: string
+        noPublicationTerms:
+          type: boolean
+        whichPublicationTerms:
+          type: array
+          items:
+            type: string
+        noTimelineTerms:
+          type: boolean
+        whichTimelineTerms:
+          type: array
+          items:
+            type: string
+        noSecurityTerms:
+          type: boolean
+        whichSecurityTerms:
+          type: array
+          items:
+            type: string
+        noExpungingTerms:
+          type: boolean
+        whichExpungingTerms:
+          type: array
+          items:
+            type: string
+        noLinkingTerms:
+          type: boolean
+        whichLinkingTerms:
+          type: array
+          items:
+            type: string
+        noRecontactTerms:
+          type: boolean
+        allowedRecontactTerms:
+          type: array
+          items:
+            type: string
+        compulsoryRecontactTerms:
+          type: array
+          items:
+            type: string
+        noIPClaimTerms:
+          type: boolean
+        whichIPClaimTerms:
+          type: array
+          items:
+            type: string
+        noReportingTerms:
+          type: boolean
+        whichReportingTerms:
+          type: array
+          items:
+            type: string
+        noCollaborationTerms:
+          type: boolean
+        whichCollaborationTerms:
+          type: array
+          items:
+            type: string
+        noPaymentTerms:
+          type: boolean
+        whichPaymentTerms:
+          type: array
+          items:
+            type: string
+    MetaConditions:
+      type: object
+      properties:
+        sharingMode:
+          $ref: '#/components/schemas/SharingMode'
+        multipleObligationsRule:
+          $ref: '#/components/schemas/MultipleObligationsRule'
+        noOtherConditions:
+          type: boolean
+          description: 'There are no other use restrictions/limitations in force which are not herein specified.'
+        whichOtherConditions:
+          type: array
+          items:
+            type: string
+          description: 'Other permissions/limitations may apply as specified.'
+        sensitivePopulations:
+          type: boolean
+          description: 'No special evaluation required for access requests involving sensitive/restricted populations.'
+        uniformConsent:
+          type: boolean
+          description: 'Identical consent permissions have been provided by all subjects.'
+    SharingMode:
+      type: string
+      enum:
+        - UNKNOWN
+        - DISCOVERY
+        - ACCESS
+        - DISCOVERY_AND_ACCESS
+    MultipleObligationsRule:
+      type: string
+      enum:
+        - MEET_ALL_OBLIGATIONS
+        - MEET_AT_LEAST_ONE_OBLIGATION
+      description: 'Intepretation rule if multiple obligatory profiles are specified.'
