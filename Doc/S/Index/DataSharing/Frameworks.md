@@ -1,3 +1,5 @@
+GA4GH.DSIP.=[G/GA4GH/data-security/DSIP_v4.0/]
+
 Microsoft - Data Use Agreement for Open AI Model Development.=[G/Microsoft-DUA-OAI/Demo/Acme-Quake.md]
 
 Microsoft - Open DSA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md]
