@@ -1,8 +1,8 @@
 Ti=Smart Contracts and Machine Readable Consent<br>GA4GH - 2015-11-10
 
-Consent.GA4GH.=[G/GA4GH/Demo/Roberta_Robinson_US]
+Consent.GA4GH.=[G/GA4GH/WiP/Demo/Roberta_Robinson_US]
 
-Study.GA4GH.=[G/GA4GH/Demo/Study_N01]
+Study.GA4GH.=[G/GA4GH/WiP/Demo/Study_N01]
 
 Consent.=[Wx/org/consentreceipt/api/Variations/Form/Demo1_v0.md]
 
