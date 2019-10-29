@@ -1,5 +1,7 @@
 GA4GH.DSIP.=[G/GA4GH/data-security/DSIP_v4.0/]
 
+GA4GH.DataSharing.=[G/GA4GH/DataSharing-Framework/EN/Form/0.md]
+
 Microsoft - Data Use Agreement for Open AI Model Development.=[G/Microsoft-DUA-OAI/Demo/Acme-Quake.md]
 
 Microsoft - Open DSA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md]
@@ -14,11 +16,9 @@ Collaboration for AIDS Vaccine Discovery - data sharing agreement:=[G/Org-CAVD/D
 
 CustomerCommons.=[G/CustomerCommons_Org/p2b1/Form/beta1.md]
 
-DLA Piper contribution of form of intra-group data sharing agreement (extensive and inspiring use of annexes): =[G/Intra-Group-Data-Transfer-Agt/]
+IntraGroup.=[G/Intra-Group-Data-Transfer-Agt/] /// DLA Piper contribution of form of intra-group data sharing agreement (extensive and inspiring use of annexes): 
 
 Finnish Model Form of Data Sharing.= [G/FI-IT-EHDot/it2018-evt/Form/0.md]
-
-GlobalAllianceForGenomics&Health.=[G/GA4GH-DataSharing-Framework/EN/Form/0.md]
 
 JLINC.=[G/Org-JLINC-SISA/Form/0.md]  
 
