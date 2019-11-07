@@ -22,4 +22,4 @@ Resource.=[G/GA4GH/WiP/Paris/Jim/Presentation/SmartContracts/Sec/Resources_v0.md
 
 Olist=<ol><li>{Blockchain.Sec}<li>{SmartContract.Sec}<li>{Resource.Sec}</ol>
 
-=[G/Z/ol/0]
+=[G/Z/Base]
