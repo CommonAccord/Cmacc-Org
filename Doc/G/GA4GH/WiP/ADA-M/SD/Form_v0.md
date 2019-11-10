@@ -4,4 +4,4 @@ ADAM.List=<b>ADAM</b><ol><li><b>The materials are permitted for use:</b><ol><li>
 
 Model.Root=<b>SD et al.</b><ol><li>{Consent.List}<li>{ADAM.List}</ol><br><br><br><div style="background-color:#DDDDDD"><b>ADAM - Select from:</b> {ADAM.Sec}</ol></div>
 
-ADAM.=[G/GA4GH/WiP/ADA-M/_v1.md]
+ADAM.=[G/GA4GH/ADA-M/_v1.md]
