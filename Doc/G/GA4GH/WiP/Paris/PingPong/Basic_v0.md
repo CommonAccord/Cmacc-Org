@@ -14,8 +14,8 @@ Ti=Basics
 
 =[G/Z/ol/s4]
 
-Bis.1.=[G/GA4GH/Demo/Beacon/Consent_Categories.md]
+Bis.1.=[G/GA4GH/WiP/Beacon/Consent_Categories.md]
 
-Bis.2.=[G/GA4GH/Demo/Beacon/Consent_Requirements.md]
+Bis.2.=[G/GA4GH/WiP/Beacon/Consent_Requirements.md]
 
 Bis.3.=[G/GA4GH/Demo/Roberta_Robinson_US]
