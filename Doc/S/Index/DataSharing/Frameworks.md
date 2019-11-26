@@ -16,8 +16,6 @@ Collaboration for AIDS Vaccine Discovery - data sharing agreement:=[G/Org-CAVD/D
 
 CustomerCommons.=[G/CustomerCommons_Org/p2b1/Form/beta1.md]
 
-ContractForTheWeb.=[G/ContractForTheWeb/Principle/]
-
 IntraGroup.=[G/Intra-Group-Data-Transfer-Agt/] /// DLA Piper contribution of form of intra-group data sharing agreement (extensive and inspiring use of annexes): 
 
 Finnish Model Form of Data Sharing.= [G/FI-IT-EHDot/it2018-evt/Form/0.md]
