@@ -1,6 +1,6 @@
 Ti=Contract for the Web
 
-AssureConnection.=[G/ContractForTheWeb/Principle/01/0.md]
+AssureConnection.=[G/ContractForTheWeb/Principle/01/Semantic.0.md]
 
 AssureAccess.=[G/ContractForTheWeb/Principle/02/0.md]
 
