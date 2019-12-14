@@ -8,6 +8,8 @@ Microsoft - Open DSA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md]
 
 Microsoft - Computational DSA.=[G/Computational-Use-of-Data-Agreement/Cmacc/Form/0.md]
 
+TheClearingHouse.=[G/TheClearingHouse/DataAccessAgreement/Form/0.md]
+
 CanadianDigitalIdentityEcosystem.=[G/CA-DIACC-DigitalIdentityRequirements-CmA/0.md]
 
 Chatham House - Framework for Data Sharing:=[G/ChathamHouseOrg/DataSharing/]
@@ -16,7 +18,7 @@ Collaboration for AIDS Vaccine Discovery - data sharing agreement:=[G/Org-CAVD/D
 
 CustomerCommons.=[G/CustomerCommons_Org/p2b1/Form/beta1.md]
 
-ContractForTheWeb.=[G/ContractForTheWeb/Principle/]
+ContractForTheWeb.=[G/ContractForTheWeb/Form/]
 
 IntraGroup.=[G/Intra-Group-Data-Transfer-Agt/] /// DLA Piper contribution of form of intra-group data sharing agreement (extensive and inspiring use of annexes): 
 
