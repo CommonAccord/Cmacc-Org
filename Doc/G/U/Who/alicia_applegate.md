@@ -12,6 +12,8 @@ Adr.Type=business
 
 Email=aappllee@amail.com
 
+Phone=(415) 514-1441
+
 Birth.YMD=1978-03-25
 
 Citizen.=[G/U/Place/US/Geo]

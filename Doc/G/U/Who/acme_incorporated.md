@@ -32,6 +32,8 @@ Signer.Title=President
 
 Contact.Name.Full=Andreas Andros
 
+Contact.Email=andreas.andros@acme.com
+
 Secretary.Title=Corporate Secretary
 
 Notice.Name.Full={Contact.Name.Full}
