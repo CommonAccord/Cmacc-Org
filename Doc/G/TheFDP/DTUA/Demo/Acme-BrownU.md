@@ -42,4 +42,4 @@ Annex.3.Def.CollaboratorPersonnel.sec={Annex.3.Def.CollaboratorPersonnel.Academi
 
 Annex.3.Def.CollaboratorPersonnel.Academic.CollaboratorInformed.sec={Annex.3.Def.CollaboratorPersonnel.Academic.CollaboratorInformed.HasSigned.sec}
 
-=[G/TheFTP/DTUA/Form/0.md]
+=[G/TheFDP/DTUA/Form/0.md]
