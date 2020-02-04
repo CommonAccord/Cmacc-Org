@@ -3,6 +3,6 @@ D
 .DS_Store
 .gitignore
 .gitattributes
-xvendor
-xvendor/cmacc-app/view-tabs.php
+vendor
+vendor/cmacc-app/view-tabs.php
 vendor/cmacc-app/openedit-parser.pl
