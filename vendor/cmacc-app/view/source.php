@@ -15,7 +15,7 @@ foreach($contents as $n) {
         if(preg_match('/\[\?(.+?)\]/', $v, $matches)) {
 	  // to allow comments in the target field.
 	 	  list($v1, $v2) = array_pad( explode ("///", $v, 2), 2, null);
-	  	  $v1=substr($v1, 2, -2);
+	  	  $v1=substr($v1, 2, -1);
 	  $v = "<a href=$matches[1]>$v1</a></td><td>$v2";
         }
 	//for folders (navigation)
