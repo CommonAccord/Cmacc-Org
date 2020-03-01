@@ -11,12 +11,17 @@ Model.Root={Action.cl} when {Trigger.cl}, by {Method.cl}{Except.cl}.
 
 Action.cl={_P1.The} may terminate {_Agreement}
 
-
 Trigger.cl={Trigger.1.cl}, or {Trigger.2.cl}, or {Trigger.3.cl}, or {Trigger.4.cl}
 
+Trigger.1.cl={_P2.the}, {Trigger.1.1.cl}, or  {Trigger.1.2.cl} 
 
-Trigger.1.cl={_P2.the}, having made application and executed this lease in advance of enrollment, is not eligible to enroll or fails to enroll in {_P1.the} or leaves {_P1.the} at any time prior to the expiration of this lease
+Trigger.1.1.cl={Trigger.1.1.1.cl}, {Trigger.1.1.2.cl}
 
+Trigger.1.1.1.cl=having made application and executed this lease in advance of enrollment
+
+Trigger.1.1.2.cl=is not eligible to enroll or fails to enroll in {_P1.the}
+
+Trigger.1.2.cl=leaves {_P1.the} at any time prior to the expiration of this lease
 
 Trigger.2.cl=for violation of any provisions of this lease
 
