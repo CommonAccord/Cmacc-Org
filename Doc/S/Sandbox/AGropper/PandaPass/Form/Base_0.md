@@ -6,21 +6,23 @@ P2.Handle=<b>Hotel</b>
 
 P3.Handle=<b>Delivery Company</b>
 
-Recite.1.sec={P1.Handle} is a guest at {P2.Handle} staying from {Residence.Begin.YMDT} to {Residence.End.YMDT} in room {Room.#}.
+Why.1.sec={P1.Handle} is a guest at {P2.Handle} staying from {Residence.Begin.YMDT} to {Residence.End.YMDT} in room {Room.#}.
 
-Recite.2.sec={P2.Handle} uses an electronic key system for accessing rooms and other facilities and allows guests to use their own authorization systems.
+Why.2.sec={P2.Handle} uses an electronic key system for accessing rooms and other facilities and allows guests to use their own authorization systems.
 
-Recite.3.sec=(Some services incur additional charges.)
+Why.3.sec=(Some services incur additional charges.)
 
-Recite.4.sec="{P2.Handle}" means the hotel operated by {P2.Name.Full} situated at {P2.Adr.1,2}.
+Why.4.sec="{P2.Handle}" means the hotel operated by {P2.Name.Full} situated at {P2.Adr.1,2}.
 
-Recite.5.sec={P1.Handle} wishes to authorize {P3.Handle} to make a delivery directly to {P1.Handle}'s room at any time between {Access.Begin.YMDT} and {Access.End.YMDT}.  
+Why.5.sec={P1.Handle} wishes to authorize {P3.Handle} to make a delivery directly to {P1.Handle}'s room at any time between {Access.Begin.YMDT} and {Access.End.YMDT}.  
 
-Recite.6.sec={P1.Handle} means {P1.Name.Full} of {P1.Adr.1,2}.
+Why.6.sec={P1.Handle} means {P1.Name.Full} of {P1.Adr.1,2}.
 
-Recite.7.sec={P3.Handle} wishes to obtain authorization from {P2.Handle} to make a delivery directly to {P1.Handle}'s room.  
+Why.7.sec={P3.Handle} wishes to obtain authorization from {P2.Handle} to make a delivery directly to {P1.Handle}'s room.  
 
-Secs={Roles.Sec}<li>{UMA.Terminology.Sec}<li><b>UMA Obligations</b><ol><li><i>{UMA.Obligations}</i></ol><li>{Loss.Sec}<li>{Misc.Sec}
+Why.=[G/Z/ol-none/s7]
+
+sec={Roles.Sec}<li>{UMA.Terminology.Sec}<li><b>UMA Obligations</b><ol><li><i>{UMA.Obligations}</i></ol><li>{Loss.Sec}<li>{Misc.Sec}
 
 Role.P1.sec={P1.Handle} has the roles of {UMA.Authorizing_Party} and {UMA.Authorization_Server_Operator}.
 
@@ -31,7 +33,7 @@ Role.P3.sec={P3.Handle} has the role of {UMA.Requesting_Party}
 
 Doc.Ti=Key Agreement
 
-=[G/Z/Agt/Agt_v01.md]
+=[G/Agt-Form-CmA/US/0.md]
 
 UMA.=[GH/KantaraInitiative/UMA-Text/0.md]
 
