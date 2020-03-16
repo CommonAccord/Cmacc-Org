@@ -1,6 +1,6 @@
 This repo is intended as the kernel of a codification effort for data sharing agreements, hosted and organized by the IACCM, in cooperation with the World Economic Forum's initiative on data sharing, CommonAccord.org and KM Standards.<br>
 
-We proceed in steps, iteratively.  In <a href="https://github.com/IACCM/IACCM/IACCM-Agt-Frame">https://github.com/IACCM/IACCM/IACCM-Agt-Frame</a> another repo, there is already a suggested framework for "all" contract agreements.  It provides basics such as a framework for party identification and signature.<br>
+We proceed in steps, iteratively.  In <a href="https://github.com/IACCM/IACCM-Agt-Frame">https://github.com/IACCM/IACCM/IACCM-Agt-Frame</a> another repo, there is already a suggested framework for "all" contract agreements.  It provides basics such as a framework for party identification and signature.<br>
 
 In this repo, we suggest section names for the major headings of data sharing agreements.  We give each of these a short descriptive name that serves as a classification system ("taxonomy").  The goals are i) to improve reading by harmonizing the order in which sections are presented, ii) to facilitate the creation of public libraries of terms and alternatives, iii) to accelerate the process of standardization.<br>
 
