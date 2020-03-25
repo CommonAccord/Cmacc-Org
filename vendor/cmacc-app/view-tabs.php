@@ -20,7 +20,7 @@ echo " &emsp; Source views: ";
 
 echo "<a href=index.php?action=source&file=$dir>". SOURCE_TAB_MESSAGE."</a> ";
 
-# echo "<a href=index.php?action=edit&file=$dir>".EDIT_TAB_MESSAGE."</a> ";
+echo "<a href=index.php?action=edit&file=$dir>".EDIT_TAB_MESSAGE."</a> ";
 
 # echo "<a href=index.php?action=openedit&file=$dir>". COMPLETE_TAB_MESSAGE."</a> ";
 

@@ -41,10 +41,10 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/showme2.php');
         break;
 
-  case 'edit':
+  #case 'edit':
 
-       include('./vendor/cmacc-app/view/edit.php');
-        break;
+   #    include('./vendor/cmacc-app/view/edit.php');
+    #    break;
 
   case 'kvs':
 
@@ -129,10 +129,11 @@ switch ($_REQUEST['action']) {
         break;
 
 
-    case 'openedit':
+#    case 'openedit':
 
-        include('./vendor/cmacc-app/view/openedit.php');
-        break;
+
+# include('./vendor/cmacc-app/view/openedit.php');
+#        break;
 
     case 'missing':
 
@@ -147,6 +148,11 @@ switch ($_REQUEST['action']) {
     case 'xray':
 
         include('./vendor/cmacc-app/view/xray.php');
+        break;
+
+   case 'raw':
+
+        include('./vendor/cmacc-app/view/raw.php');
         break;
 
     case 'cicero':
