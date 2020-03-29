@@ -51,7 +51,7 @@ s2a=<u>{s2a.Title}</u><ol><li>{s2a1}</li><li>{s2a2}</li><li>{s2a3}</li><li>{s2a4
 
 s2a.Title=License grant
 
-/s2a=[G/CreativeCommons-4.0-CmA/Sec/Grant.md]
+/s2a=[G/CreativeCommons/4.0/Sec/Grant.md]
 
 s2a1={s2a10}:<ol type='A'><li>{s2a1A}; and</li><li>{s2a1B}.</li></ol>
 

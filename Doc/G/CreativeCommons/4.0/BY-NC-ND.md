@@ -1,4 +1,4 @@
-=[G/CreativeCommons-4.0-CmA/BY-NC-SA.md]
+=[G/CreativeCommons/4.0/BY-NC-SA.md]
 
 /Note=https://wiki.creativecommons.org/images/d/d1/Building_the_4.0_Suite.pdf - To make BY-NC-ND 4.0:
  

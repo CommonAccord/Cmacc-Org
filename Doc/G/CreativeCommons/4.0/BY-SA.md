@@ -1,4 +1,4 @@
-=[G/CreativeCommons-4.0-CmA/BY-NC-SA.md]
+=[G/CreativeCommons/4.0/BY-NC-SA.md]
 
 To make BY-SA 4.0:
 
