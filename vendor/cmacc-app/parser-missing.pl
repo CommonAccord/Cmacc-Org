@@ -93,7 +93,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # Key=
 
-print "$_=<br><br>" foreach @arr;
+# print "$_=<br><br>" foreach @arr;
 
 # Key=Key;
 
@@ -105,7 +105,7 @@ print "$_=<br><br>" foreach @arr;
 
 # to mark the place a defined term is defined inline - use the convention "{Def.My_Term.sec}".  This will make Def.My_Term.sec={_My_Term}.
 
-# print "$_=\{_" . substr($_, 4, -4) ."\}\n" foreach @arr;
+print "$_=\{_" . substr($_, 4, -4) ."\}\n" foreach @arr;
 
 # Make cross-references (that already have "".Xnum");
 
