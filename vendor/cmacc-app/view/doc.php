@@ -28,8 +28,9 @@ $document=str_replace("{","<span class='missing'>{",$document);
 
 $document=str_replace("}","}</span>",$document);
 
-  echo $document;}
- else {
+  echo $document;
+  echo "<br><br><br><br><br><br><br><br><br><br><br><br><br>"; }
+else {
    echo "Nothing to Show";
 
 }
