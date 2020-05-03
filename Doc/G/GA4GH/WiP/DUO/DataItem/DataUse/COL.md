@@ -6,4 +6,4 @@ label=collaboration required
 
 description=This requirement indicates that the requestor must agree to collaboration with the primary study investigator(s).
 
-=[G/GA4GH/WIP/DUO/DataItem/Z-Base.md]
+=[G/GA4GH/WiP/DUO/DataItem/Z-Base.md]

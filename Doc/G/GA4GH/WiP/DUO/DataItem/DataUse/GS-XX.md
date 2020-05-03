@@ -6,4 +6,4 @@ label=geographical restriction
 
 description=This requirement indicates that use is limited to within a specific geographic region.
 
-=[G/GA4GH/WIP/DUO/DataItem/Z-Base.md]
+=[G/GA4GH/WiP/DUO/DataItem/Z-Base.md]

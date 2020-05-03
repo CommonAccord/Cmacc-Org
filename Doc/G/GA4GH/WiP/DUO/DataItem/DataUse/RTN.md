@@ -6,4 +6,4 @@ label=return to database or resource
 
 description=This requirement indicates that the requestor must return derived/enriched data to the database/resource.
 
-=[G/GA4GH/WIP/DUO/DataItem/Z-Base.md]
+=[G/GA4GH/WiP/DUO/DataItem/Z-Base.md]

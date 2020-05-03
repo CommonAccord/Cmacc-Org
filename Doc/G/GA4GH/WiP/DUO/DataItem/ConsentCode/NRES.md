@@ -6,4 +6,4 @@ label=no restriction
 
 description=This consent code primary category indicates there is no restriction on use.
 
-=[G/GA4GH/WIP/DUO/DataItem/Z-Base.md]
+=[G/GA4GH/WiP/DUO/DataItem/Z-Base.md]

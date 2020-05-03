@@ -6,4 +6,4 @@ label=ethics approval required
 
 description=This requirement indicates that the requestor must provide documentation of local IRB/ERB approval.
 
-=[G/GA4GH/WIP/DUO/DataItem/Z-Base.md]
+=[G/GA4GH/WiP/DUO/DataItem/Z-Base.md]

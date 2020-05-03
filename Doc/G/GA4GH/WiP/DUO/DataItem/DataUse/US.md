@@ -7,5 +7,5 @@ label=user specific restriction
 
 description=This requirement indicates that use is limited to use by approved users.
 
-=[G/GA4GH/WIP/DUO/DataItem/Z-Base.md]
+=[G/GA4GH/WiP/DUO/DataItem/Z-Base.md]
 

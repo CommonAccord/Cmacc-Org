@@ -6,4 +6,4 @@ label=time limit on use
 
 description=This requirement indicates that use is approved for a specific number of months.
 
-=[G/GA4GH/WIP/DUO/DataItem/Z-Base.md]
+=[G/GA4GH/WiP/DUO/DataItem/Z-Base.md]

@@ -6,4 +6,4 @@ label=population origins or ancestry research
 
 description=This primary category consent code indicates that use of the data is limited to the study of population origins or ancestry.
 
-=[G/GA4GH/WIP/DUO/DataItem/Z-Base.md]
+=[G/GA4GH/WiP/DUO/DataItem/Z-Base.md]
