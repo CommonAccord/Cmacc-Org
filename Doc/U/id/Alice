@@ -1,6 +1,6 @@
-=[U/class/ID_She]
+=[G/Agt-Form-CmA/00/ID/Human/She/0.md]
 
-=[U/at/US/TX/Dallas/Dallas/Geo]
+Adr.=[G/U/Place/US/TX/Dallas/Dallas/Geo]
 
 Name.First=Alice
 
@@ -10,7 +10,9 @@ Name.Dr=Ms.
 
 Adr.Type=home
 
-Adr.1=333 Tophat Lane
+Adr.Street.#=333
+
+Adr.Street.Name=Tophat Lane
 
 Adr.Zip=765432
 
