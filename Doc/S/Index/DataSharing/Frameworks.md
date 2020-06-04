@@ -34,7 +34,7 @@ Linux Foundation:=[G/CDLA-IO/]
 
 ManilaPrinciples:=[G/ManilaPrinciples-CmA/]
 
-Simple Data Sharing Agreement from Scott David:=[G/SLDavid/DataSharing/]
+SLDavid:=[G/SLDavid/DataSharing/]
 
 Trust-Cisco.=[G/Cisco-Trust-Principles/Sec/0.md]
 
