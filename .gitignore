@@ -6,3 +6,6 @@ D
 vendor
 vendor/cmacc-app/view-tabs.php
 vendor/cmacc-app/openedit-parser.pl
+vendor/cmacc-app/cmacc_helpers.php
+vendor/cmacc-app/parser-missing.pl
+vendor/cmacc-app/view-tabs.php
