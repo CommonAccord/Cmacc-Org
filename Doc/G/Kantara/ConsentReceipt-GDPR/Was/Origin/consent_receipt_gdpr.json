@@ -1,0 +1,228 @@
+{
+    "receipt": {
+        // the format of the version needs to be fixed e.g. semantic versioning
+        // @required
+        "version": "1.2.0",
+        // taken from CRv1.1
+        // @required
+        "timestamp": "ISO8061 seconds since epoch",
+        // taken from CRv1.1
+        // @required
+        "id": "XXXX-XXXX-XXXX-XXXX",
+        // verification signature of receipt
+        // @required
+        "signature": "XXXX-XXXX-XXXX-XXXX",
+        // a receipt can contain multiple records
+        // @required
+    },
+    "consent": {
+        // id of the consent provided by the data controller - this is different from the consent receipt
+        // @required
+        "id": "XXXX-XXXX-XXXX-XXXX",
+        "consent-collection": {
+            // timestamp of the consent - this is different from the receipt timestamp
+            // @required
+            "timestamp": "ISO8061 seconds since epoch",
+            // entity that collected consent
+            // if this field is missing, assume consent is collected by primary data controller the consent is given for
+            // @optional
+            "collected-by": {
+                "name": "Processor Inc.",
+                "on-behalf-of": "Controller Inc."
+            },
+            // information on how the consent was collected
+            // @optional
+            "collection-information": {
+                "medium": "online",
+                "language": "ISO639",
+                "given-by": {
+                    // type specifies the type of consent - explicit, implicit, delegation
+                    // @required
+                    // "type": "explicit",
+                    "type": "delegation",
+                    // in case of delegation, information about the delegate
+                    // if this field is missing, assume it was given by data subject
+                    "given-by": {
+                        "name": "Person-A",
+                        "relation": "Parent",
+                        "authentication": "signed-form"
+                    }
+                }
+            }
+        },
+        // the identifier of the data subject whose consent this is about
+        // @required @one_or_more
+        "data-subject-identifier": {
+            // identifier can be anything e.g. email, phone
+            // semantic markup is needed to specify what the identifier is
+            // @required
+            "email": "an@example.com"
+        },
+        // controllers the consent is given to
+        // @required @one_or_more
+        "data-controllers": [
+            // information about one controller
+            {
+                // legal name of the controller
+                // @required
+                "name": "Data Controlle Inc.",
+                // url of the controller
+                // @optional
+                "url": "data.controller.example.com",
+                // contact details of the controller - not the DPO
+                // optional
+                "contact": {
+                    // there can be multiple types of contacts, and semantic markup is needed to specify what type of contact this is
+                    // @required @one_or_more
+                    "email": "an@example.com",
+                    "phone": "+0-000-00000",
+                    "address": "11 Nowhere Street, Neverland",
+                    "twitter": "@data-controller"
+                },
+                // information about the DPO
+                // @optional
+                "DPO": {
+                    // @required
+                    "name": "Mr. DPO",
+                    // @required
+                    "contact": {
+                        // @required @one_or_mores
+                        "email": "mr.dpo@example.com",
+                        "phone": "+0-000-00000"
+                    }
+                }
+            }
+        ],
+        // validity of this consent
+        // @required
+        "validity": {
+            // the validity can be specified in multiple forms
+            // it can be based on duration, timestamp, or condition
+            // duration - specifies a time duration from given consent
+            // expiry - specifies a fixed timestamp in future
+            // condition - specifies the condition used to evaluate validity
+            // event - specifies the event after which consent is invalidated/terminated
+            // declaration - specifies some other condition
+            // @required @one_or_more
+            "duration": "6 months",
+            "expiry": "2019-07-01",
+            "condition": "3months after data collection",
+            "event": "after deletion of account",
+            "declaration": "as long as required"
+        },
+        // specifies the purposes the consent is given for
+        // purposes can be hierarchical
+        // this is referred to as services in CRv1.1
+        // @required @one_or_more
+        "purposes": [
+            // each purpose has following fields
+            {
+                // name of the purpose
+                "name": "purpose 1",
+                // specifies if the purpose is primary/main
+                "is-primary-purpose": true,
+                // the processing operations required for this purpose
+                // @required @one_or_more
+                "processing-types": [
+                    "collect",
+                    "store",
+                    "use"
+                ],
+                "requires-profiling": false,
+                "has-automated-processing": false,
+                // the personal data required for this purpose
+                // @required @one_or_more
+                "personal-data": {
+                    // the sensitive and non-sensitive data categories are segregated
+                    // @required
+                    "not-sensitive": [
+                        "data1", 
+                        "data2"
+                    ],
+                    // @required
+                    "sensitive": [
+                        "data3", 
+                        "data4"
+                    ]
+                },
+                // storage of data can also be based on duration, expiry, condition, event, or declaration
+                // @optional
+                "data-storage": {
+                    // @required @one_or_more
+                    "duration": "6 months",
+                    "expiry": "2019-07-01",
+                    "condition": "3months after data collection",
+                    "event": "after deletion of account",
+                    "declaration": "as long as required"
+                },
+                // the third parties data is shared with
+                // @optional
+                "data-recipients": [
+                    {
+                        // name of third party
+                        // @required
+                        "name": "Org1",
+                        // optional
+                        "url": "org1.example.com",
+                        // optional
+                        "contact": {
+                            "contact-fields": "values"
+                        }
+                    }
+                ],
+                // regions where this information is transferred
+                // if missing, the regions are the same as jurisdictions
+                // @optional
+                "data-transfers": [
+                    "Ireland",
+                    "Frankfurt",
+                    "London",
+                    {
+                        "location": "Seattle",
+                        "jurisdictions": "USA",
+                        "safeguards": {
+                            "encryption": [],
+                            "access-control": []
+                        }
+                    }
+                ],
+                "validity": {
+                    "duration": "6 months",
+                    "expiry": "2019-07-01",
+                    "condition": "3months after data collection",
+                    "event": "after deletion of account",
+                    "declaration": "as long as required"
+                }
+            }
+        ],
+        // list of jurisdictions that determine the legality of this consent
+        // @required @one_or_more
+        "jurisdictions": [
+            "EU",
+            "USA"
+        ],
+        // list of policies relevant to the consent
+        "policies": [
+            {
+                "URL": "example.com",
+                "type": "privacy-policy"
+            },
+            {
+                "URL": "example.com",
+                "type": "terms-and-conditions"
+            }
+        ],
+        // rights of the data subject required to be provided
+        "rights": {
+            "withdraw": {
+                "url": "example.com/withdraw-consent"
+            },
+            "rectify": {
+                "url": "example.com/rectify-data"
+            },
+            "data-portability": {
+                "url": "example.com/data-portability"
+            }
+        }
+    }
+}
