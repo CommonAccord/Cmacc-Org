@@ -1,9 +1,0 @@
-Receipt
-
-version=1.2.0
-
-timestamp=ISO8061 seconds since epoch
-
-id=XXXX-XXXX-XXXX-XXXX
-
-signature=XXXX-XXXX-XXXX-XXXX
