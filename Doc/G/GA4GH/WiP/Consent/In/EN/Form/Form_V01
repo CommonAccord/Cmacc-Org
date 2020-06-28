@@ -205,7 +205,7 @@ Framework.URL=www.commonaccord.orG/GA4GH/Framework/V01
 
 11.1.sec=With  your  permission,  we  may re-contact  you  to  invite  you  to  update  your questionnaire, to provide  additional data, or to  be  involved  in  new  research projects by other researchers.
 
-12.Title=Who can I contact if I have questions or concerns?
+12.Ti=Who can I contact if I have questions or concerns?
 
 12.1.1.Sen=If you have any questions or concerns, please contact {m-}{Study.Contact.Name.Full}{-m} free of charge at {Study.Contact.Phone}{-m} or by mail/email at {m-}{Study.Contact.Email}{-m}.
 
