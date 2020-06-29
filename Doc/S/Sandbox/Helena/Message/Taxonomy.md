@@ -4,25 +4,25 @@ Intro.sec=When one of the parties wishes to communicate a message to another par
 
 Why.Ti=Messages in order to:
 
-Why.ChangeOrder.Ti=To Modify an Order
+Why.ChangeOrder.Ti=Modify an Order
 
 Why.ChangeOrder.sec=To modify an order, please log into {DataRightsPortal.Link}. Your user name is your email address.
 
 Why.ChangeOrder.=[G/Z/ol/Base]
 
-Why.ModifyArrangement.Ti=To Propose a Modification of Our Arrangement
+Why.ModifyArrangement.Ti=Propose a Modification of Our Arrangement
 
 Why.ModifyArrangement.sec=To propose a modification to our contractual arrangement, please send an email as described below.
 
 Why.ModifyArrangement.=[G/Z/ol/Base]
 
-Why.Renew.Ti=To Renew our Contract
+Why.Renew.Ti=Renew our Contract
 
 Why.Renew.sec=To renew our contract, please send an email {Recipient.Email} as described below at least {Renew.AdvanceNotice.Period} before the end of the contract.
 
 Why.Renew.=[G/Z/ol/Base]
 
-Why.DataRights.Ti=To Exercise Rights Regarding Data
+Why.DataRights.Ti=Exercise Rights Regarding Data
 
 Why.DataRights.sec=To exercise your rights relating to privacy or data, please log into {Receiver.DataRightsPortal.Link}. Your user name is your email address.
 
