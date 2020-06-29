@@ -1,8 +1,8 @@
-Ti=Notices
+Ti=Messages
 
 Intro.sec=When one of the parties wishes to communicate a message to another party, please use the following methods.
 
-Why.Ti=Communications in order to:
+Why.Ti=Messages in order to:
 
 Why.ChangeOrder.Ti=To Modify an Order
 
@@ -22,9 +22,9 @@ Why.Renew.sec=To renew our contract, please send an email {Recipient.Email} as d
 
 Why.Renew.=[G/Z/ol/Base]
 
-Why.DataRights.Ti=To exercise rights regarding Data
+Why.DataRights.Ti=To Exercise Rights Regarding Data
 
-Why.DataRights.sec=Please make any requests relating to privacy or data rights by logging into {Receiver.DataRightsPortal.Link}. Your user name is your email address.
+Why.DataRights.sec=To exercise your rights relating to privacy or data, please log into {Receiver.DataRightsPortal.Link}. Your user name is your email address.
 
 Why.DataRights.=[G/Z/ol/Base]
 
@@ -32,21 +32,21 @@ Why.sec=<ol><li>{Why.ChangeOrder.Sec}<li>{Why.ModifyArrangement.Sec}<li>{Why.Ren
 
 Why.=[G/Z/ol/Base]
 
-How.Ti=How to Send Notices:
+How.Ti=Ways to Send Messages:
 
-How.Email.Ti=Notice by Email
+How.Email.Ti=Message by Email
 
 How.Email.sec=Please send by email to {Recipient.Email.Address}.
 
 How.Email.=[G/Z/ol/Base]
 
-How.PostalMail.Ti=Notice by Postal Email
+How.PostalMail.Ti=Message by Postal Email
 
 How.PostalMail.sec=Please send any postal mail to {Recipient.Name,Address}.
 
 How.PostalMail.=[G/Z/ol/Base]
 
-How.Fax.Ti=Notice by Fax
+How.Fax.Ti=Message by Fax
 
 How.Fax.sec=Please send any fax to {Recipient.Fax.Number}, with a cover sheet to the attention of {Recipient.Notice.Contact.Name.Full}.
 
@@ -58,7 +58,7 @@ How.=[G/Z/ol/Base]
 
 Acknowledge.Ti=Acknowledgement by Recipient
 
-Acknowledge.sec=With respect to any notice sent in any of the ways above, {Recipient.Handle} will:<ol type=i><li>acknowledge any message received this way by email within {Acknowledge.timePeriod} of receipt and<li>to make a substantive reply within {Respond.timePeriod}.</ol>
+Acknowledge.sec=With respect to any message sent in any of the ways above, {Recipient.Handle} will:<ol type=i><li>acknowledge reciept of the message by email within {Acknowledge.timePeriod} and<li>make a substantive reply within {Respond.timePeriod}.</ol>
 
 Acknowledge.=[G/Z/ol/Base]
 
