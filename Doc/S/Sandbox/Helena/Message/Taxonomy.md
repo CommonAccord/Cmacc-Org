@@ -1,12 +1,13 @@
 Ti=Messages
 
-Intro.sec=When one of the parties wishes to communicate a message to another party, please use the following methods.
+
+Intro.sec=When {Sender.Handle} wishes to communicate a message to {Receiver.Handle}, please use the following methods.
 
 Why.Ti=Messages in order to:
 
 Why.ChangeOrder.Ti=Modify an Order
 
-Why.ChangeOrder.sec=To modify an order, please log into {DataRightsPortal.Link}. Your user name is your email address.
+Why.ChangeOrder.sec=To modify an order, please log into {Receiver.DataRightsPortal.Link}. Your user name is your email address.
 
 Why.ChangeOrder.=[G/Z/ol/Base]
 
@@ -18,7 +19,7 @@ Why.ModifyArrangement.=[G/Z/ol/Base]
 
 Why.Renew.Ti=Renew our Contract
 
-Why.Renew.sec=To renew our contract, please send an email {Recipient.Email} as described below at least {Renew.AdvanceNotice.Period} before the end of the contract.
+Why.Renew.sec=To renew our contract, please send an email {Receiver.Email} as described below at least {Renew.AdvanceNotice.Period} before the end of the contract.
 
 Why.Renew.=[G/Z/ol/Base]
 
@@ -36,19 +37,19 @@ How.Ti=Ways to Send Messages:
 
 How.Email.Ti=Message by Email
 
-How.Email.sec=Please send by email to {Recipient.Email.Address}.
+How.Email.sec=Please send by email to {Receiver.Email}.
 
 How.Email.=[G/Z/ol/Base]
 
 How.PostalMail.Ti=Message by Postal Email
 
-How.PostalMail.sec=Please send any postal mail to {Recipient.Name,Address}.
+How.PostalMail.sec=Please send any postal mail to {Receiver.Notice.Block}.
 
 How.PostalMail.=[G/Z/ol/Base]
 
 How.Fax.Ti=Message by Fax
 
-How.Fax.sec=Please send any fax to {Recipient.Fax.Number}, with a cover sheet to the attention of {Recipient.Notice.Contact.Name.Full}.
+How.Fax.sec=Please send any fax to {Receiver.Fax}, with a cover sheet to the attention of {Receiver.Notice.Name.Full}.
 
 How.Fax.=[G/Z/ol/Base]
 
@@ -58,23 +59,20 @@ How.=[G/Z/ol/Base]
 
 Acknowledge.Ti=Acknowledgement by Recipient
 
-Acknowledge.sec=With respect to any message sent in any of the ways above, {Recipient.Handle} will:<ol type=i><li>acknowledge reciept of the message by email within {Acknowledge.timePeriod} and<li>make a substantive reply within {Respond.timePeriod}.</ol>
+Acknowledge.sec=With respect to any message sent in any of the ways above, {Receiver.Handle} will:<ol type=i><li>acknowledge reciept of the message by email within {Acknowledge.timePeriod} and<li>make a substantive reply within {Respond.timePeriod}.</ol>
 
 Acknowledge.=[G/Z/ol/Base]
 
-Who.Ti=Persons Authorized to Send Messages on Behalf of a Party
+Signer.Ti=Persons Authorized to Send Messages on Behalf of a Party
 
-Who.0.sec=The following persons are authorized to send messages on behalf of {Sender.Handle}:
+Signer.0.sec=The following persons are authorized to send messages on behalf of {Sender.Handle}:
 
-Who.1.sec=_________________ with respect to {Why.1.cl}
 
-Who.2.sec=_________________ with respect to {Why.2.cl}
+Signer.00.sec=In each case, {Sender.Handle} agrees that such persons are authorized to bind {Sender.Handle} with respect to such matter.  {Sender.Handle} may revoke such authorization by a message that satisfies the criteria for a {Why.ModifyArrangement.Ti}.
 
-Who.00.sec=In each case, {Sender.Handle} agrees that such persons are authorized to bind {Sender.Handle} with respect to such matter.  {Sender.Handle} may revoke such authorization by a message that satisfies the criteria for a {Why.ModifyArrangement.Ti}.
+Signer.=[G/Z/ol/s5]
 
-Who.=[G/Z/ol/s2]
-
-sec={Intro.sec}<ol><li>{Why.Sec}<li>{How.Sec}<li>{Acknowledge.Sec}<li>{Who.Sec}</ol>
+sec={Intro.sec}<ol><li>{Why.Sec}<li>{How.Sec}<li>{Acknowledge.Sec}<li>{Signer.Sec}</ol>
 
 
 =[G/Z/ol/Base]
