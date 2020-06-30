@@ -10,7 +10,7 @@ Why.ChangeOrder.sec=To modify an order, please log into {DataRightsPortal.Link}.
 
 Why.ChangeOrder.=[G/Z/ol/Base]
 
-Why.ModifyArrangement.Ti=Propose a Modification of Our Arrangement
+Why.ModifyArrangement.Ti=Request to Modify Our Arrangement
 
 Why.ModifyArrangement.sec=To propose a modification to our contractual arrangement, please send an email as described below.
 
@@ -62,6 +62,19 @@ Acknowledge.sec=With respect to any message sent in any of the ways above, {Reci
 
 Acknowledge.=[G/Z/ol/Base]
 
-sec={Intro.sec}<ol><li>{Why.Sec}<li>{How.Sec}<li>{Acknowledge.Sec}</ol>
+Who.Ti=Persons Authorized to Send Messages on Behalf of a Party
+
+Who.0.sec=The following persons are authorized to send messages on behalf of {Sender.Handle}:
+
+Who.1.sec=_________________ with respect to {Why.1.cl}
+
+Who.2.sec=_________________ with respect to {Why.2.cl}
+
+Who.00.sec=In each case, {Sender.Handle} agrees that such persons are authorized to bind {Sender.Handle} with respect to such matter.  {Sender.Handle} may revoke such authorization by a message that satisfies the criteria for a {Why.ModifyArrangement.Ti}.
+
+Who.=[G/Z/ol/s2]
+
+sec={Intro.sec}<ol><li>{Why.Sec}<li>{How.Sec}<li>{Acknowledge.Sec}<li>{Who.Sec}</ol>
+
 
 =[G/Z/ol/Base]
