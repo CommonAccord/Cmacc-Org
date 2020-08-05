@@ -20,8 +20,6 @@ PrivacyPolicy_Automattic:=[G/Automattic-PrivacyPolicy-CmA/]
 
 PrivacyPolicy_ICAAN:=[G/ICAAN-ModelPrivacyPolicy-EN-CmA/]
 
-PrivacyPolicy_OpenGov.org:=[G/OpenGovFoundation-CmA/PrivacyPolicy/0.md]
-
 TimApple.=[G/ICDPPC/40th-TimCook/Form/0.md]
 
 PubPub.=[Wx/org/pubpub/Privacy/Form/0.md]
