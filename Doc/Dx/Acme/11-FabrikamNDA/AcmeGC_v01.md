@@ -13,7 +13,7 @@ Law.=[G/U/Place/US/MA/Suffolk/Geo]
 
 _P1=<i>Acme</i>
 
-_P2=<i>FabrikamNDA</i>
+_P2=<i>Fabrikam</i>
 
 Doc.GUID=012346
 
