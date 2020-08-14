@@ -1,4 +1,3 @@
 ﻿Quade-Quinn input sheet
 
-P1.Counsel.=[G/U/Who/quade_and_quinn.md]
-
+=[Dx/Acme/11-FabrikamNDA/AcmeGC_v01.md]
