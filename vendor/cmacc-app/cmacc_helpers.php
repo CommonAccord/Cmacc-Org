@@ -41,15 +41,15 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/showme2.php');
         break;
 
-  #case 'edit':
+  case 'edit':
 
-   #    include('./vendor/cmacc-app/view/edit.php');
-    #    break;
+        include('./vendor/cmacc-app/view/edit.php');
+        break;
 
   case 'kvs':
 
        include('./vendor/cmacc-app/view/print-kvs.php');
-        break;
+       break;
 
 
     case 'html':
@@ -129,11 +129,10 @@ switch ($_REQUEST['action']) {
         break;
 
 
-#    case 'openedit':
+    case 'openedit':
 
-
-# include('./vendor/cmacc-app/view/openedit.php');
-#        break;
+        include('./vendor/cmacc-app/view/openedit.php');
+        break;
 
     case 'missing':
 
