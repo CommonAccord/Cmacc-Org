@@ -29,6 +29,6 @@ Quade.Except.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Except/Item/0.md]
 
 P1.Counsel.=[G/U/Who/quade_and_quinn.md]
 
-GeneralInstructions=Please respond in one the following ways: 1) Copy this whole page into an email, edit and send it to AcmeGC, we'll handle updating the repo. ii) Go to Github, open your account, then edit this page at github.com/CommonAccord/cmacc-org/Doc/Dx/Acme/11-FabrikamNDA/QuadeQuinn.md and do a pull-request. iii) host your own version (we'll help you with that.)
+GeneralInstructions=Please respond in one the following ways: 1) Copy this whole page into an email, edit and send it to AcmeGC, we'll handle updating the repo. ii) Go to Github, open your account, then edit this page at https://github.com/CommonAccord/Cmacc-Org/blob/master/Doc/Dx/Acme/11-FabrikamNDA/QuadeQuinn.md and do a pull-request. iii) host your own version (we'll help you with that.)
 
 
