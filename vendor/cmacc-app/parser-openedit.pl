@@ -93,7 +93,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # Key=
 
-# print "$_=" foreach @arr;
+print "$_=" foreach @arr;
 
 # Key=Key;
 
@@ -101,7 +101,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
-print "$_=<a href='#Def." . substr($_, 1).".sec' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
+# print "$_=<a href='#Def." . substr($_, 1).".sec' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 
 # to mark the place a defined term is defined inline - use the convention "{Def.My_Term.sec}".  This will make Def.My_Term.sec={_My_Term}.
 
