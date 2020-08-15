@@ -1,2 +1,0 @@
-# FabrikamNDA
-Fictive NDA
