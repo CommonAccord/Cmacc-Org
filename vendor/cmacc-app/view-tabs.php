@@ -20,13 +20,13 @@ echo " &emsp; Source views: ";
 
 echo "<a href=index.php?action=source&file=$dir>". SOURCE_TAB_MESSAGE."</a> ";
 
-# echo "<a href=index.php?action=edit&file=$dir>".EDIT_TAB_MESSAGE."</a> ";
+echo "<a href=index.php?action=edit&file=$dir>".EDIT_TAB_MESSAGE."</a> ";
 
-# echo "<a href=index.php?action=openedit&file=$dir>". COMPLETE_TAB_MESSAGE."</a> ";
+echo "<a href=index.php?action=openedit&file=$dir>OpenEdit </a> ";
 
-echo "<a href=index.php?action=missing&file=$dir>". "OpenParameters" ."</a> ";
+echo "<a href=index.php?action=missing&file=$dir>Opens </a> ";
 
-echo "<a href=index.php?action=json&file=$dir>". "JSON(ish)" ."</a> ";
+echo "<a href=index.php?action=json&file=$dir>JSON(ish) </a> ";
 
 # echo "<a href=index.php?action=kvs&file=$dir> KVs</a> ";
 
