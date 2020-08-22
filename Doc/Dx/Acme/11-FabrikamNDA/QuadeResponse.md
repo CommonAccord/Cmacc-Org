@@ -24,6 +24,6 @@ Relate.Conf.Except.Item.Had.cl=was in {_Receiving_Party}'s possession free of an
 
 Relate.Notice.=[G/Agt-NDA-CmA/Sec/Relate/Notice/0.md]
 
-Relate.Notice.Olist=<ol>{Relate.Notice.Personal.li};{Relate.Notice.Overnight.li}; or {Relate.Notice.Mail.li}</ol>
+Relate.Notice.Olist=<ol>{Relate.Notice.Personal.li};{Relate.Notice.Overnight.li}; or {Relate.Notice.Mail.li}.</ol>
 
 ShowMe1={Relate.Conf.Except.Sec}  <br> {Relate.Notice.Sec}
