@@ -4,7 +4,9 @@ Company.=[G/U/Who/acme_incorporated.md]
 
 Client.=[G/U/Who/acme_ie.md]
 
-Matter.Description.Short.cl=Outsourcing Agreement
+Matter.Description.Short.a/an=an {Matter.Description.Title} for logistics
+
+Matter.Description.Title=Outsourcing Agreement
 
 Counterparty.=[G/U/Who/fabrikam_incorporated.md]
 
