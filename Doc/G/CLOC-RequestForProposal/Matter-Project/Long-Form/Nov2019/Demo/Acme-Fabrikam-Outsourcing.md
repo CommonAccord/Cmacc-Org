@@ -24,9 +24,21 @@ Matter.SupportingDocuments.sec=<ol><li>Acme-Fabrikam Heads of Agreement on Outso
 
 Matter.Objectives.sec=To achieve a balanced agreement that reduces Acme IE's risks but provides a base for a long-term relationship.
 
+#Note=Data for Pricing:
+
+Pricing.PricingModel.sec={Pricing.PricingModel.Fixed.sec}
+
+Pricing.Table.Description.Fixed.sec={Matter.WorkDescription.Long.sec}  With expectation of a two-month engagement to completion, with 200 aggregate hours of work.
+
+Counsel.=[G/CLOC-RequestForProposal/Matter-Project/Long-Form/Nov2019/Demo/Acme-QuadeCounsel.md]
+
 #Note=Documents:
 Conflict.=[G/CLOC-RequestForProposal/Matter-Project/Long-Form/Nov2019/Conflict-Check/0.md]
 
 RFP.=[G/CLOC-RequestForProposal/Matter-Project/Long-Form/Nov2019/RFP/0.md]
 
-Model.Root={RFP.Sec}
+Pricing.=[G/CLOC-RequestForProposal/Matter-Project/Long-Form/Nov2019/Pricing/0.md]
+
+Counsel.Questionnaire.=[G/CLOC-RequestForProposal/Matter-Project/Long-Form/Nov2019/CounselQuestionnaire/0.md]
+
+Model.Root=<b>This is the series of four documents:</b> <ol><li><b>Conflict Check</b><br>{Conflict.Sec}<li><b>RFP</b><br>{RFP.Sec}<li><b>Pricing</b><br>{Pricing.Sec}<li> <b>Counsel Questionnaire</b><br>{Counsel.Questionnaire.Sec}</ol>
