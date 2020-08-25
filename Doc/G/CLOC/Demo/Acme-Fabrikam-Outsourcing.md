@@ -32,7 +32,6 @@ Pricing.PricingModel.sec={Pricing.PricingModel.Fixed.sec}
 
 Pricing.Table.Description.Fixed.sec={Matter.WorkDescription.Long.sec}  With expectation of a two-month engagement to completion, with 200 aggregate hours of work.
 
-
 #Note=Data for Guidelines:
 
 Invoice.Frequency.cl={calendar/fiscal} month
@@ -43,7 +42,9 @@ Invoice.Pay.Currency.Schedule.Xref=Appendix Z
 
 Invoice.Submit.Deadline.cl=the last day of the {calendar/fiscal} month
 
-Invoice.Accrual.LatePenalty.$=$10,000
+AccrualReport.LatePenalty.$=$10,000
+
+AccrualReport.LatePenalty.Rachet.$=$2,000
 
 Invoice.Deminimus.Threshhold.$=$500
 
@@ -59,7 +60,7 @@ Vendor.CourtReporting.Name.Full=Accurrus Reporters
 
 Vendor.TranslationServices.Name.Full=Ubersetzt Traducteurs Limited
 
-Guidelines.5.7.sec={Guidelines.5.7.1.sec}
+Guidelines.Appendix.7.sec={Guidelines.Appendix.7.1.sec}
 
 #Note=Documents:
 
