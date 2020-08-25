@@ -62,6 +62,14 @@ Vendor.TranslationServices.Name.Full=Ubersetzt Traducteurs Limited
 
 Guidelines.Appendix.7.sec={Guidelines.Appendix.7.1.sec}
 
+Arbitration.Institution.cl=JAMS of Northern California
+
+Arbitration.Seat=Santa Clara County, California
+
+ApplicableLaw.the=the State of California
+
+Court.Venue.cl=federal district court in and for the Northern District of California or the Superior Court of Santa Clara County, California
+
 #Note=Documents:
 
 Conflict.=[G/CLOC/Matter-Project/Long-Form/Nov2019/Conflict-Check/0.md]
