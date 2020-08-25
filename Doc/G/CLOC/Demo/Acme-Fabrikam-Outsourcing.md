@@ -60,7 +60,7 @@ Vendor.CourtReporting.Name.Full=Accurrus Reporters
 
 Vendor.TranslationServices.Name.Full=Ubersetzt Traducteurs Limited
 
-Guidelines.Appendix.7.sec={Guidelines.Appendix.7.1.sec}
+Guidelines.Appendix.Dispute.sec={Guidelines.Appendix.Dispute.1.sec}
 
 Arbitration.Institution.cl=JAMS of Northern California
 
