@@ -2,7 +2,7 @@ Ti=General Terms and conditions
 
 1.Ti=APPLICABILITY, SCOPE AND GOVERNANCE
 
-1.sec=The {_Data_Network} is established by the {_Constitutive_Agreement}, which is signed by the {_Founding_Member}s of the {_Network}.
+1.1.sec=The {_Data_Network} is established by the {_Constitutive_Agreement}, which is signed by the {_Founding_Member}s of the {_Network}.
 
 1.2.sec=The provisions of these General Terms and Conditions will become applicable to and legally binding on the data sharing agreements of the {_Parties} to the {_Data_Network} upon the execution of the {_Constitutive_Agreement} and any further {_Accession_Agreement}s, as applicable.
 
