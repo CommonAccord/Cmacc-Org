@@ -6,10 +6,10 @@ ValuationCap.$=$2,000,000
 
 Discount.%=8%
 
-Law.=[U/at/US/CA/Geo]
+Law.=[G/U/Place/US/CA/Geo]
 
-Company.=[U/id/acme_incorporated]
+Company.=[G/U/Who/acme_incorporated.md]
 
-Investor.=[U/id/roberta_robinson]
+Investor.=[G/U/Who/roberta_robinson.md]
  
 =[Wx/com/ycombinator/SAFE/Form/Cap_Discount_v01.md]
