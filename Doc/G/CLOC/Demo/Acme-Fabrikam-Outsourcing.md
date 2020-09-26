@@ -1,3 +1,5 @@
+Note=CLOC models. (Click "Document" in the border above, to see the rendered result.)
+
 Model.Root=<b>This is the series of five documents:</b> <ol><li><b>Conflict Check</b><br>{Conflict.Sec}<li><b>RFP</b><br>{RFP.Sec}<li><b>Pricing</b><br>{Pricing.Sec}<li> <b>Counsel Questionnaire</b><br>{Counsel.Questionnaire.Sec}<li> <b>Guidelines</b><br>{Guidelines.Sec}</ol>
 
 #Note=Links to persons involved
