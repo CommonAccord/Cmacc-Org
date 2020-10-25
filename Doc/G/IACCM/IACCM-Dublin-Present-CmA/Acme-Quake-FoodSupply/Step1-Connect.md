@@ -1,4 +1,4 @@
-//=Acme decides to add Quake as a supplier.  They create a relationship page that lists the two of them and the terms they expect to use. The terms are the "Dublin Food Industry Common Terms" that the local merchant community keeps.  It is based on a Master Services form that we suggest could be hosted by the IACCM.
+//=Acme decides to add Quake as a supplier.  They create a relationship page that lists the two of them and the terms they expect to use. The terms are the "Dublin Food Industry Common Terms" that the local merchant community keeps.  It is based on a Master Services form that we suggest could be hosted by the WorldCC.
 
 P1.=[G/U/Who/acme_ie.md]
 
@@ -10,4 +10,4 @@ _P2=<a href="#MSA.Annex.Def.Supplier.Sec" style="color:orange">Quake</a>
 
 Adr.State=</i>
 
-=[G/IACCM/IACCM-Dublin-Present-CmA/Form/Dublin-MasterSupply-CommonForms.md]
+=[G/WorldCC/WorldCC-Dublin-Present-CmA/Form/Dublin-MasterSupply-CommonForms.md]

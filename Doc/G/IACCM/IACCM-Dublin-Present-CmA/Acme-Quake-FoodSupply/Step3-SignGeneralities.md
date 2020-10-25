@@ -8,4 +8,4 @@ P2.xSignature=Solomon Shirley
 
 P2.Sign.YMD=2017-05-05
 
-=[G/IACCM/IACCM-Dublin-Present-CmA/Acme-Quake-FoodSupply/Step2-AgreeOnGeneralities.md]
+=[G/WorldCC/WorldCC-Dublin-Present-CmA/Acme-Quake-FoodSupply/Step2-AgreeOnGeneralities.md]

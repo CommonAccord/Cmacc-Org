@@ -1,4 +1,4 @@
-PaymentProfile.Name=<a href="index.php?action=source&file=G/IACCM/IACCM-Dublin-Present-CmA/Sec/Comp/PaymentProfile/30-Days.md">30-Days, 3%</a>
+PaymentProfile.Name=<a href="index.php?action=source&file=G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Comp/PaymentProfile/30-Days.md">30-Days, 3%</a>
 
 Note=One model of pre-payment terms.
 

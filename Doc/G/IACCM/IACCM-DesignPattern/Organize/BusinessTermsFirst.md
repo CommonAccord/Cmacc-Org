@@ -1,4 +1,4 @@
-Note=An adaptation and implementation of [?https://contract-design.iaccm.com/business-first?category%5B0%5D=organizing]
+Note=An adaptation and implementation of [?https://contract-design.WorldCC.com/business-first?category%5B0%5D=organizing]
 
 Deal.sec=<ol><li>{Subject.Sec}</li><li>{ProductDescription.Sec}</li><li>{ProductApprove.Sec}</li><li>{Term.Sec}</li><li>{ProductQuantity.Sec}</li><li>{Price.Sec}</li></ol>
 

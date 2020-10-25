@@ -14,7 +14,7 @@ P1.=[G/U/Who/acme_ie.md]
 
 P2.=[G/U/Who/barbara_oreilly.md]
 
-=[G/IACCM/IACCM-NDA-Design/Form/0.md]
+=[G/WorldCC/WorldCC-NDA-Design/Form/0.md]
 
 _P1=<a href="#_P1" class="definedterm">Big Corp</a>
 

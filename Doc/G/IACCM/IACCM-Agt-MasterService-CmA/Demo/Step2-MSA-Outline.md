@@ -4,8 +4,8 @@
 
 /=We add the original outline:
 
-=[G/IACCM/IACCM-Agt-MasterService-CmA/Outline/-Original/0.md]
+=[G/WorldCC/WorldCC-Agt-MasterService-CmA/Outline/-Original/0.md]
 
 /=We reference Step 1:
 
-=[G/IACCM/IACCM-Agt-MasterService-CmA/Demo/Step1-Frame-of-Agreement.md]
+=[G/WorldCC/WorldCC-Agt-MasterService-CmA/Demo/Step1-Frame-of-Agreement.md]

@@ -8,4 +8,4 @@ P2.xSignature=xSolomon Shirley
 
 P2.Sign.YMD=2017-05-21
 
-=[G/IACCM/IACCM-Cooperate-CmA/Demo/Acme-Quake/4-Consult/1-Configure.md]
+=[G/WorldCC/WorldCC-Cooperate-CmA/Demo/Acme-Quake/4-Consult/1-Configure.md]

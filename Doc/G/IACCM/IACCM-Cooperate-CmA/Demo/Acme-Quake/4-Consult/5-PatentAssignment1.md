@@ -16,10 +16,10 @@ P2.Sign.YMD=2017-05-28
 
 //=Form of assignment:
 
-Patent.=[G/IACCM/IACCM-Cooperate-CmA/Form/Annex/PatentAssignment/0.md]
+Patent.=[G/WorldCC/WorldCC-Cooperate-CmA/Form/Annex/PatentAssignment/0.md]
 
 Model.Root={Patent.Sec}
 
 //=Master contract:
 
-=[G/IACCM/IACCM-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]
+=[G/WorldCC/WorldCC-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]

@@ -2,8 +2,8 @@
 
 /=We add the library of Section texts, which will populate the outline:
 
-=[G/IACCM/IACCM-Agt-MasterService-CmA/Sec/0.md]
+=[G/WorldCC/WorldCC-Agt-MasterService-CmA/Sec/0.md]
 
 /=To the deep outline we made:
 
-=[G/IACCM/IACCM-Agt-MasterService-CmA/Demo/Step2-MSA-Outline.md]
+=[G/WorldCC/WorldCC-Agt-MasterService-CmA/Demo/Step2-MSA-Outline.md]

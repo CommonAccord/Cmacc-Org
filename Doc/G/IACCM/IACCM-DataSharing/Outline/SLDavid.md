@@ -6,4 +6,4 @@ sec=<ol><li>{Parties.Sec}<li>{PurposeAuthorityLife.Sec}<li>{DataSharing.Sec}<li>
 
 Annex.sec={StaffNotice.Sec}
 
-=[G/IACCM/IACCM-Agt-Frame/EN/0.md]
+=[G/WorldCC/WorldCC-Agt-Frame/EN/0.md]

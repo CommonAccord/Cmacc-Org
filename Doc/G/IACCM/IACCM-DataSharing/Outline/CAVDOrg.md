@@ -6,4 +6,4 @@ sec=<ol><li>{Def.sec}<li>{Engage.sec}<li>{Conf.sec}<li>{Share.sec}<li>{Entire.se
 
 Annex.Sec=<hr><b>Annexes:</b><br><b>Annex A</b><br>{Annex.Institutions.Sec}<hr><b>Annex B</b><br>{Annex.Def.Sec}<hr><b>Annex C</b><br>{Annex.SharingPrinciples.Sec}<hr><b>Annex D</b><br>{Annex.ConfidentialDisclosure.Sec}<hr><b>Attachment A</b><br>{Annex.MTA.Sec}<hr><b>Exhibit 1</b><br>{Annex.OriginalMaterials.Sec}
 
-=[G/IACCM/IACCM-Agt-Frame/EN/0.md]
+=[G/WorldCC/WorldCC-Agt-Frame/EN/0.md]

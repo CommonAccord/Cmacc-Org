@@ -1,10 +1,10 @@
-# IACCM/IACCM-NDA-Design
+# WorldCC/WorldCC-NDA-Design
 
-Original at http://github.com/IACCM/
+Original at http://github.com/WorldCC/
 Forked at http://github.com/CommonAccord/
 
 Demonstrated at:
-http://www.commonaccord.org/index.php?action=visual&file=G/IACCM/IACCM-NDA-Design/Demo/Acme_Quake.md
+http://www.commonaccord.org/index.php?action=visual&file=G/WorldCC/WorldCC-NDA-Design/Demo/Acme_Quake.md
 
 Part of: http://OpenTrustFabric.org
 

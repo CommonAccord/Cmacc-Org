@@ -1,2 +1,2 @@
-# IACCM/IACCM-ModelContractPolicy-CmA
-HYPOTHETICAL - Form of Policy for IACCM members to use - promoting standardization
+# WorldCC/WorldCC-ModelContractPolicy-CmA
+HYPOTHETICAL - Form of Policy for WorldCC members to use - promoting standardization

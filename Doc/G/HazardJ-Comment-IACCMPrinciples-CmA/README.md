@@ -1,5 +1,5 @@
-# HazardJ-Comment-IACCMPrinciples-CmA
+# HazardJ-Comment-WorldCCPrinciples-CmA
 
-A list of resources in CommonAccord format relating to the IACCM Contract Principles <a href="https://github.com/IACCM/IACCM-ContractPrinciples-CmA">IACCM/IACCM-ContractPrinciples-CmA</a> 
+A list of resources in CommonAccord format relating to the WorldCC Contract Principles <a href="https://github.com/WorldCC/WorldCC-ContractPrinciples-CmA">WorldCC/WorldCC-ContractPrinciples-CmA</a> 
 
-See <a href="http://source.commonaccord.org/index.php?action=list&file=G/IACCM/IACCM-ContractPrinciples-CmA/">http://source.commonaccord.org/index.php?action=list&file=G/IACCM/IACCM-ContractPrinciples-CmA/</a>
+See <a href="http://source.commonaccord.org/index.php?action=list&file=G/WorldCC/WorldCC-ContractPrinciples-CmA/">http://source.commonaccord.org/index.php?action=list&file=G/WorldCC/WorldCC-ContractPrinciples-CmA/</a>

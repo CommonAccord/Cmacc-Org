@@ -8,53 +8,53 @@ Intro.Friends.Ti=Subsidiaries of {P1.Handle}
 
 Intro.Friends.Define.sec=Each a "{_Company_Affiliate}" and collectively the "{_Company_Affiliates}."
 
-Appoint.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Appoint/0.md]
+Appoint.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Appoint/0.md]
 
 Appoint.Xnum=1
 
-Life.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Life/0.md]
+Life.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Life/0.md]
 
-Staff.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Staff/0.md]
+Staff.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Staff/0.md]
 
-Comp.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Comp/0.md]
+Comp.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Comp/0.md]
 
-Conf.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Conf/0.md]
+Conf.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Conf/0.md]
 
-IP.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/IP/0.md]
+IP.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/IP/0.md]
 
-PersonalData.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/PersonalData/0.md]
+PersonalData.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/PersonalData/0.md]
 
-TangibleProperty.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/TangibleProperty/0.md]
+TangibleProperty.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/TangibleProperty/0.md]
 
-Test.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Test/0.md]
+Test.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Test/0.md]
 
-Warrant.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Warrant/0.md]
+Warrant.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Warrant/0.md]
 
-Assure.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Assure/0.md]
+Assure.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Assure/0.md]
 
-Relate.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Relate/0.md]
+Relate.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Relate/0.md]
 
-Comply.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Comply/0.md]
+Comply.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Comply/0.md]
 
-Environment.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Environment/0.md]
+Environment.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Environment/0.md]
 
-Conflict.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Conflict/0.md]
+Conflict.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Conflict/0.md]
 
-Limit.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Limit/0.md]
+Limit.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Limit/0.md]
 
-Release.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Release/0.md]
+Release.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Release/0.md]
 
-Dispute.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Dispute/0.md]
+Dispute.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Dispute/0.md]
 
-Notice.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Notice/0.md]
+Notice.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Notice/0.md]
 
-Misc.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Misc/0.md]
+Misc.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Misc/0.md]
 
-Def.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Def/MSA_Annex/0.md]
+Def.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Def/MSA_Annex/0.md]
 
-_=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/_/MSA_Annex/0.md]
+_=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/_/MSA_Annex/0.md]
 
-=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Xnum/0.md]
+=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Xnum/0.md]
 
 Notice.Block=<table><tbody><tr><td>{P1.Notice.Block}</td><td width="100"></td><td>{P2.Notice.Block}</td> </tr></tbody></table>
 

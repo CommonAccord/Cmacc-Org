@@ -14,7 +14,7 @@ Client Reception Hours=from 14:00 to 17:00 on Tuesdays through Saturdays
 
 Term.End.YMD=<span class="highlight">2017-12-31</a>
 
-MSA.Annex.Assure.Insurance.=[G/IACCM/IACCM-Dublin-Present-CmA/Sec/Assure/Cover/10MM-Euro.md]
+MSA.Annex.Assure.Insurance.=[G/WorldCC/WorldCC-Dublin-Present-CmA/Sec/Assure/Cover/10MM-Euro.md]
 
 Dispute.Forum.cl=courts of Dublin, Ireland
 
@@ -28,4 +28,4 @@ P2.Notice.Name.Full=Caitlin Colin
 
 P2.Notice.Title=Controller
 
-=[G/IACCM/IACCM-Dublin-Present-CmA/Acme-Quake-FoodSupply/Step1-Connect.md]
+=[G/WorldCC/WorldCC-Dublin-Present-CmA/Acme-Quake-FoodSupply/Step1-Connect.md]

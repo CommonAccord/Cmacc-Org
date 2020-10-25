@@ -22,5 +22,5 @@ _P1={_Customer}
 
 _P2={_Provider}
 
-=[G/IACCM/IACCM-Agt-MasterService-CmA/Demo/Step3-MSA-FullText.md]
+=[G/WorldCC/WorldCC-Agt-MasterService-CmA/Demo/Step3-MSA-FullText.md]
 

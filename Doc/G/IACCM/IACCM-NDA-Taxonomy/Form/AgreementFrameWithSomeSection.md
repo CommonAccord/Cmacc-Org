@@ -1,8 +1,8 @@
 Ti=Non-Disclosure Agreement
 
-Parties.=[G/IACCM/IACCM-NDA-Taxonomy/Sec/Parties/0.md]
+Parties.=[G/WorldCC/WorldCC-NDA-Taxonomy/Sec/Parties/0.md]
 
-Purpose.=[G/IACCM/IACCM-NDA-Taxonomy/Sec/Purpose/0.md]
+Purpose.=[G/WorldCC/WorldCC-NDA-Taxonomy/Sec/Purpose/0.md]
 
 ConfidentialInformation.=[G/Agt-NDA-CmA/Sec/Def/Confidential_Information/0.md]
 
@@ -12,7 +12,7 @@ Use.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Engage/Use/0.md]
 
 Protect.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Engage/Care/0.md]
 
-NotifyDisclosure.=[G/IACCM/IACCM-NDA-Taxonomy/Sec/NotifyDisclosure/0.md]
+NotifyDisclosure.=[G/WorldCC/WorldCC-NDA-Taxonomy/Sec/NotifyDisclosure/0.md]
 
 Erase.=[G/Agt-NDA-CmA/Sec/Relate/Remedy/Return/0.md]
 
@@ -22,17 +22,17 @@ Term.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Life/0.md]
 
 Term.sec={Term.TimeLimit-FixedDate.sec}
 
-Ownership.=[G/IACCM/IACCM-NDA-Taxonomy/Sec/Ownership/0.md]
+Ownership.=[G/WorldCC/WorldCC-NDA-Taxonomy/Sec/Ownership/0.md]
 
-License.=[G/IACCM/IACCM-NDA-Taxonomy/Sec/License/0.md]
+License.=[G/WorldCC/WorldCC-NDA-Taxonomy/Sec/License/0.md]
 
-Injunction.=[G/IACCM/IACCM-NDA-Taxonomy/Sec/Injunction/0.md]
+Injunction.=[G/WorldCC/WorldCC-NDA-Taxonomy/Sec/Injunction/0.md]
 
-Indemnify.=[G/IACCM/IACCM-NDA-Taxonomy/Sec/Indemnify/0.md]
+Indemnify.=[G/WorldCC/WorldCC-NDA-Taxonomy/Sec/Indemnify/0.md]
 
-Warrant.=[G/IACCM/IACCM-NDA-Taxonomy/Sec/Warrant/0.md]
+Warrant.=[G/WorldCC/WorldCC-NDA-Taxonomy/Sec/Warrant/0.md]
 
-Misc.=[G/IACCM/IACCM-NDA-Taxonomy/Sec/Misc/0.md]
+Misc.=[G/WorldCC/WorldCC-NDA-Taxonomy/Sec/Misc/0.md]
 
 
 sec=<ol><li>{Parties.Sec}<li>{Purpose.Sec}<li>{ConfidentialInformation.Sec}<li>{Confidentiality.Sec}<li>{Use.Sec}<li>{Protect.Sec}<li>{NotifyDisclosure.Sec}<li>{Erase.Sec}<li>{InadvertentDisclosure.Sec}<li>{Term.Sec}<li>{Ownership.Sec}<li>{License.Sec}<li>{Injunction.Sec}<li>{Indemnify.Sec}<li>{Warrant.Sec}<li>{Misc.Sec}</ol>

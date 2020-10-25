@@ -6,4 +6,4 @@ sec=<ol class="secs-and"><li>{Def.Sec}<li>{PurposeAndPrinciples.Sec}<li>{ScopeOf
 
 Annex.sec=<h2>Annex A</h2><br>{Annex.Activity.Sec}<br><h2>Annex B</h2><br>{Annex.DataManagementPlan.Sec}<br><h2>Annex C</h2><br>{Annex.IPR-ManagementPlan.Sec}<br><h2>Annex D</h2><br>{Annex.BenefitSharingPlan.Sec}<br>
 
-=[G/IACCM/IACCM-Agt-Frame/EN/0.md]
+=[G/WorldCC/WorldCC-Agt-Frame/EN/0.md]
