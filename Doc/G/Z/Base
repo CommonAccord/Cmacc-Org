@@ -1,26 +1,11 @@
-Model.Root={Sec}
-
-LI=<li>{Sec}</li>
-
-Li=<li>{Sec}
-
-lI={Sec}</li>
-
-Doc={Head.Sec}<br>{sec}{Foot.Sec} 
-
-Head.Sec={Head.Message}<center><h4>{Head.sec}</h4></center>
-
-Head.Message=<font color="grey">{MessageToUser} GUID: {Doc.GUID}</font>
-
-Head.sec={Doc.Ti}
+Note=A "Sec" is a title (Ti) with section text (sec). 
 
 Sec=<span class="sec-ti">{Ti}</span><br>{sec}
 
+Note=Section text (sec) can be a simple text provided by the user, or it can be more structured.  It can be a list of subsections and may have an introductory clause (0.sec) and may have an exit clause (00.sec).  The list of sections may use any of the HTML numbering formats - 1, I, i, A, a, bullet, etc.  
 sec={0.sec} {xlist} {00.sec}
 
-0.sec=</i>
-
-00.sec=</i>
+Model.Root={Sec}
 
 xlist={Olist}
 
@@ -29,7 +14,6 @@ Olist=<ol class="secs"><li>{Secs}</li></ol>
 olist=<ol class="secs"><li>{secs}</li></ol>
 
 ol=ol
-
 
 Alist=<ol type="a" class="secs"><li>{Secs}</li></ol>
 
@@ -53,9 +37,16 @@ Blist=<ul class="paras secs" type="none" style="padding-left: 0"><li>{Secs}</ul>
 
 blist=<ul class="paras secs" type="none" style="padding-left: 0; " ><li>{secs}</ul>
 
-Note=This avoids the need for cluttering a list with a separate Z/ol/0 for each section that has only a simple sec text.  It also forces you to put the reference to any Z/… at the bottom. 
 
+Doc={Head.Sec}<br>{sec}{Foot.Sec} 
 
+Head.Sec={Head.Message}<center><h4>{Head.sec}</h4></center>
+
+Head.Message=<font color="grey">{MessageToUser} GUID: {Doc.GUID}</font>
+
+Head.sec={Doc.Ti}
+
+Note=This set of defaults avoids the need for cluttering a list with a separate Z/ol/0 for each section that has only a simple sec text.  It also forces you to put the reference to any Z/… at the bottom. 
 
 1.Sec=<span class="sec-ti">{1.Ti}</span><br>{1.sec}
 
