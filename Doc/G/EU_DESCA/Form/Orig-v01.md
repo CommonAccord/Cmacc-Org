@@ -72,7 +72,7 @@ REGULATION (EU) No 1290/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11
 
 1.2.5.1.0.sec=For the implementation of the Project:
 
-1.2.5.1.1.sec=sec=Access Rights are Needed if, without the grant of such Access Rights, carrying out the tasks assigned to the recipient Party would be technically or legally impossible, significantly delayed, or require significant additional financial or human resources.
+1.2.5.1.1.sec=Access Rights are Needed if, without the grant of such Access Rights, carrying out the tasks assigned to the recipient Party would be technically or legally impossible, significantly delayed, or require significant additional financial or human resources.
 
 1.2.5.1.=[G/Z/ol/s1]
 
@@ -120,11 +120,11 @@ REGULATION (EU) No 1290/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11
 
 3.2.3.0.sec=If 
 
-3.2.3.1.sec=- the Grant Agreement is not signed by the Funding Authority or a Party, or 
+3.2.3.1.sec=the Grant Agreement is not signed by the Funding Authority or a Party, or 
 
-3.2.3.2.sec=- the Grant Agreement is terminated, or
+3.2.3.2.sec=the Grant Agreement is terminated, or
 
-3.2.3.3.sec=- a Party's participation in the Grant Agreement is terminated, 
+3.2.3.3.sec=a Party's participation in the Grant Agreement is terminated, 
 
 3.2.3.00.sec=this Consortium Agreement shall automatically terminate in respect of the affected Party/ies, subject to the provisions surviving the expiration or termination under Section 3.3 of this Consortium Agreement.
 
@@ -214,294 +214,12 @@ REGULATION (EU) No 1290/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11
 5.=[G/Z/ol/4]
 
 
-6.Ti=Section: Governance structure
+6.Sec={Governance.Sec}
+
+Governance.=[G/EU_DESCA/Sec/Governance-Large-Project/0.md]
 
 Note=[Module GOV LP]
 
-Note=Governance structure for Medium and Large Projects
-
-6.1.Ti=General structure
-
-6.1.0.sec=The organisational structure of the Consortium shall comprise the following Consortium Bodies:
-
-6.1.1.sec=General Assembly as the ultimate decision-making body of the consortium
-
-6.1.2.sec=Executive Board as the supervisory body for the execution of the Project which shall report to and be accountable to the General Assembly
-
-6.1.3.sec=The Coordinator is the legal entity acting as the intermediary between the Parties and the Funding Authority. The Coordinator shall, in addition to its responsibilities as a Party, perform the tasks assigned to it as described in the Grant Agreement and this Consortium Agreement. 
-
-Note=[Option: The Management Support Team assists the Executive Board and the Coordinator.
-
-6.1.=[G/Z/ol/s3]
-
-6.2.Ti=	General operational procedures for all Consortium Bodies
-
-6.2.1.Ti=Representation in meetings
-
-6.2.1.0.sec=Any Party which is a member of a Consortium Body (hereinafter referred to as "Member"):
-6.2.1.1.sec=	-	should be present or represented at any meeting;
-6.2.1.2.sec=	-	may appoint a substitute or a proxy to attend and vote at any meeting; 
-6.2.1.00.sec=and shall participate in a cooperative manner in the meetings.
-
-6.2.1.=[G/Z/ol-bullet/s2]
-
-6.2.2.Ti=Preparation and organisation of meetings
-
-6.2.2.1.0.sec=Convening meetings
-
-6.2.2.1.1.sec=	The chairperson of a Consortium Body shall convene meetings of that Consortium Body.
-
-6.2.2.1.2.sec=<table border=3><tr><td></td><td>	Ordinary meeting</td><td>	Extraordinary meeting</td></tr><tr><td>General Assembly</td><td>	At least once a year</td><td>	At any time upon written request of the Executive Board or 1/3 of the Members of the General Assembly</td></tr><tr><td>Executive Board</td><td>	At least quarterly</td><td>	At any time upon written request of any Member of the Executive Board</td></tr></table>
-
-6.2.2.1.=[G/Z/ol/s2]
-
-6.2.2.2.0.sec=	Notice of a meeting
-
-6.2.2.2.1.sec=	The chairperson of a Consortium Body shall give notice in writing of a meeting to each Member of that Consortium Body as soon as possible and no later than the minimum number of days preceding the meeting as indicated below.
-
-6.2.2.2.2.sec=<table border=3><tr><td></td><td>	Ordinary meeting</td><td>	Extraordinary meeting</td></tr><tr><td>General Assembly</td><td>	45 calendar days</td><td>	15 calendar days</td></tr><tr><td>Executive Board	</td><td>14 calendar days	</td><td>  7 calendar days</td><tr></table>
-
-6.2.2.2.=[G/Z/ol/s2]
-
-6.2.2.3.0.sec=	Sending the agenda
-
-6.2.2.3.1.sec=	The chairperson of a Consortium Body shall prepare and send each Member of that Consortium Body a written (original) agenda no later than the minimum number of days preceding the meeting as indicated below.
-
-6.2.2.3.2.sec=<table border=3><tr><td>General Assembly</td><td>	21 calendar days, 10 calendar days for an extraordinary meeting</td></tr><tr><td>Executive Board	</td><td> 7 calendar days</td></tr></table> 
-
-6.2.2.3.=[G/Z/ol/s2]
-
-6.2.2.4.0.sec=	Adding agenda items:
-
-6.2.2.4.1.sec=	Any agenda item requiring a decision by the Members of a Consortium Body must be identified as such on the agenda. 
-
-6.2.2.4.2.sec=Any Member of a Consortium Body may add an item to the original agenda by written notification to all of the other Members of that Consortium Body up to the minimum number of days preceding the meeting as indicated below.
-
-6.2.2.4.3.sec=<table border=3><tr><td>General Assembly</td><td>	14 calendar days, 7 calendar days for an extraordinary meeting </td></tr><tr><td>Executive Board	</td><td>  2 calendar days </td></tr></table>
-
-6.2.2.4.=[G/Z/ol/s3]
-
-6.2.2.5.sec=During a meeting the Members of a Consortium Body present or represented can unanimously agree to add a new item to the original agenda
-
-6.2.2.6.sec=Meetings of each Consortium Body may also be held by teleconference or other telecommunication means.
-
-6.2.2.7.sec=Decisions will only be binding once the relevant part of the Minutes has been accepted according to Section 6.2.5.
-
-6.2.2.8.sec=Any decision may also be taken without a meeting if the Coordinator circulates to all Members of the Consortium Body a written document, which is then agreed by the defined majority (see Section 6.2.3) of all Members of the Consortium Body. Such document shall include the deadline for responses.
-
-6.2.2.00.sec=Decisions taken without a meeting shall be considered as accepted if, within the period set out in article 6.2.4.4, no Member has sent an objection in writing to the chairperson. The decisions will be binding after the chairperson sends to all Members of the Consortium Body and to the Coordinator a written notification of this acceptance.
-
-6.2.2.=[G/Z/ol/s8]
-
-6.2.3.Ti=Voting rules and quorum
-
-6.2.3.1.sec=Each Consortium Body shall not deliberate and decide validly unless two-thirds (2/3) of its Members are present or represented (quorum). If the quorum is not reached, the chairperson of the Consortium Body shall convene another ordinary meeting within 15 calendar days. If in this meeting the quorum is not reached once more,  the chairperson shall convene an extraordinary meeting which shall be entitled to decide even if less than the quorum of Members are present or represented.
-
-6.2.3.2.sec=Each Member of a Consortium Body present or represented in the meeting shall have one vote.
-
-6.2.3.3.sec=A Party which the General Assembly has declared according to Section 4.2 to be a Defaulting Party may not vote.
-
-6.2.3.4.sec=Decisions shall be taken by a majority of two-thirds (2/3) of the votes cast.
-
-6.2.3.=[G/Z/ol/s4]
-
-6.2.4.Ti=Veto rights
-
-6.2.4.1.sec=A Member which can show that its own work, time for performance, costs, liabilities, intellectual property rights or other legitimate interests would be severely affected by a decision of a Consortium Body may exercise a veto with respect to the corresponding decision or relevant part of the decision.
-
-6.2.4.2.sec=When the decision is foreseen on the original agenda, a Member may veto such a decision during the meeting only.
-
-6.2.4.3.sec=When a decision has been taken on a new item added to the agenda before or during the meeting, a Member may veto such decision during the meeting and within 15 calendar days after the draft minutes of the meeting are sent. A Party that is not a Member of a particular Consortium Body may veto a decision within the same number of calendar days after the draft minutes of the meeting are sent.
-
-6.2.4.4.sec=When a decision has been taken without a meeting a Member may veto such decision within 15 c alendar days after written notification by the chairperson of the outcome of the vote.
-
-6.2.4.5.sec=In case of exercise of veto, the Members of the related Consortium Body shall make every effort to resolve the matter which occasioned the veto to the general satisfaction of all its Members. 
-
-6.2.4.6.sec=A Party may neither veto decisions relating to its identification to be in breach of its obligations nor to its identification as a Defaulting Party. The Defaulting Party may not veto decisions relating to its participation and termination in the consortium or the consequences of them.
-
-6.2.4.7.sec=A Party requesting to leave the consortium may not veto decisions relating thereto.
-
-6.2.4.=[G/Z/ol/s7]
-
-6.2.5.Ti=Minutes of meetings
-
-6.2.5.1.sec=The chairperson of a Consortium Body shall produce written minutes of each meeting which shall be the formal record of all decisions taken. He/she shall send the draft minutes to all Members within 10 calendar days of the meeting.
-
-6.2.5.2.sec=The minutes shall be considered as accepted if, within 15 calendar days from sending, no Member has sent an objection in writing to the chairperson with respect to the accuracy of the draft of the minutes.
-
-6.2.5.3.sec=The chairperson shall send the accepted minutes to all the Members of the Consortium Body and to the Coordinator, who shall safeguard them. If requested the Coordinator shall provide authenticated duplicates to Parties.
-
-6.2.5.=[G/Z/ol/s3]
-
-6.2.=[G/Z/ol/5]
-
-6.3.Ti=Specific operational procedures for the Consortium Bodies
-
-6.3.1.Ti=General Assembly
-
-6.3.1.0.sec=In addition to the rules described in Section 6.2, the following rules apply:
-
-6.3.1.1.Ti=Members
-
-6.3.1.1.1.sec=	The General Assembly shall consist of one representative of each Party (hereinafter General Assembly Member).
-
-6.3.1.1.2.sec=	Each General Assembly Member shall be deemed to be duly authorised to deliberate, negotiate and decide on all matters listed in Section 6.3.1.2. of this Consortium Agreement.
-
-6.3.1.1.3.sec=	The Coordinator shall chair all meetings of the General Assembly, unless decided otherwise in a meeting of the General Assembly.
-
-6.3.1.1.4.sec=	The Parties agree to abide by all decisions of the General Assembly. This does not prevent the Parties to submit a dispute to resolution in accordance with the provisions of Settlement of disputes in Section 11.8.
-
-6.3.1.1.=[G/Z/ol/s4]
-
-6.3.1.2.Ti=Decisions
-
-6.3.1.2.1.sec=	The General Assembly shall be free to act on its own initiative to formulate proposals and take decisions in accordance with the procedures set out herein. In addition, all proposals made by the Executive Board shall also be considered and decided upon by the General Assembly.
-
-
-6.3.1.2.2.0.sec=The following decisions shall be taken by the General Assembly:
-
-6.3.1.2.2.1.0.sec=Content, finances and intellectual property rights
-
-6.3.1.2.2.1.1.sec=Proposals for changes to Annexes 1 and 2 of the Grant Agreement to be agreed by the Funding Authority
-
-6.3.1.2.2.1.2.sec=Changes to the Consortium Plan
-
-6.3.1.2.2.1.3.sec=Modifications to Attachment 1 (Background Included)
-
-6.3.1.2.2.1.4.sec=Additions to Attachment 3 (List of Third Parties for simplified transfer according to Section 8.3.2)
-
-6.3.1.2.2.1.5.sec=Additions to Attachment 4 (Identified Affiliated Entities)
-
-6.3.1.2.2.1.=[G/Z/ol/s5]
-
-6.3.1.2.2.2.0.sec=Evolution of the consortium
-
-6.3.1.2.2.2.1.sec=Entry of a new Party to the consortium and approval of the settlement on the conditions of the accession of such a new Party
-
-6.3.1.2.2.2.2.sec=Withdrawal of a Party from the consortium and the approval of the settlement on the conditions of the withdrawal
-
-6.3.1.2.2.2.3.sec=Identification of a breach by a Party of its obligations under this Consortium Agreement or the Grant Agreement
-
-6.3.1.2.2.2.4.sec=Declaration of a Party to be a Defaulting Party 
-
-6.3.1.2.2.2.5.sec=Remedies to be performed by a Defaulting Party
-
-6.3.1.2.2.2.6.sec=Termination of a Defaulting Party’s participation in the consortium and measures relating thereto
-
-6.3.1.2.2.2.7.sec=Proposal to the Funding Authority for a change of the Coordinator
-
-6.3.1.2.2.2.8.sec=Proposal to the Funding Authority for suspension of all or part of the Project
-
-6.3.1.2.2.2.9.sec=Proposal to the Funding Authority for termination of the Project and the Consortium Agreement
-
-6.3.1.2.2.2.=[G/Z/ol/s9]
-
-6.3.1.2.2.3.0.sec=Appointments
-
-6.3.1.2.2.3.1.0.sec=On the basis of the Grant Agreement, the appointment if necessary of:
-
-6.3.1.2.2.3.1.1.sec=	-	Executive Board Members
-
-6.3.1.2.2.3.1.=[G/Z/ol-bullet/s1]
-
-6.3.1.2.2.3.=[G/Z/ol/s1]
-
-6.3.1.2.2.=[G/Z/ol/s3]
-
-6.3.1.2.=[G/Z/ol/s2]
-
-6.3.1.=[G/Z/ol/2]
-
-6.3.2.Ti=Executive Board
-
-6.3.2.0.sec=In addition to the rules in Section 6.2, the following rules shall apply:
-
-6.3.2.1.0.sec=	Members
-
-6.3.2.1.1.sec=	The Executive Board shall consist of the Coordinator and the Parties appointed by the General Assembly .
-
-6.3.2.1.2.sec=	The Coordinator shall chair all meetings of the Executive Board, unless decided otherwise by a majority of two-thirds.
-
-6.3.2.1.=[G/Z/ol/s2]
-
-6.3.2.2.0.sec=	Minutes of meetings
-
-6.3.2.2.1.sec=	Minutes of Executive Board meetings, once accepted, shall be sent by the Coordinator to the General Assembly Members for information. 
-
-6.3.2.2.=[G/Z/ol/s1]
-
-6.3.2.3.0.sec=	Tasks
-
-6.3.2.3.1.sec=	The Executive Board shall prepare the meetings, propose decisions and prepare the agenda of the General Assembly according to Section 6.3.1.2.
-
-6.3.2.3.2.sec=	The Executive Board shall seek a consensus among the Parties.
-
-6.3.2.3.3.sec=	The Executive Board shall be responsible for the proper execution and implementation of the decisions of the General Assembly.
-
-6.3.2.3.4.sec=	The Executive Board shall monitor the effective and efficient implementation of the Project.
-
-6.3.2.3.5.sec=	In addition, the Executive Board shall collect information at least every 6 months on the progress of the Project, examine that information to assess the compliance of the Project with the Consortium Plan and, if necessary, propose modifications of the Consortium Plan to the General Assembly. 
-
-6.3.2.3.6.0.sec=	The Executive Board shall:
-
-6.3.2.3.6.1.sec=agree on the Members of the Management Support Team, upon a proposal by the Coordinator
-
-6.3.2.3.6.2.sec=support the Coordinator in preparing meetings with the Funding Authority and in preparing related data and deliverables
-
-6.3.2.3.6.3.sec=prepare the content and timing of press releases and joint publications by the consortium or proposed by the Funding Authority in respect of the procedures of the Grant Agreement Article 29.
-
-6.3.2.3.6.=[G/Z/ol/s3]
-
-6.3.2.3.7.sec=In the case of abolished tasks as a result of a decision of the General Assembly, the Executive Board shall advise the General Assembly on ways to rearrange tasks and budgets of the Parties concerned. Such rearrangement shall take into consideration the legitimate commitments taken prior to the decisions, which cannot be cancelled.
-
-6.3.2.3.=[G/Z/ol/s7]
-
-6.3.2.=[G/Z/ol/s3]
-
-6.3.=[G/Z/ol/2]
-
-6.4.Ti=	Coordinator
-
-6.4.1.sec=The Coordinator shall be the intermediary between the Parties and the Funding Authority and shall perform all tasks assigned to it as described in the Grant Agreement and in this Consortium Agreement.
-
-6.4.2.0.sec=In particular, the Coordinator shall be responsible for:
-
-6.4.2.1.sec=	monitoring compliance by the Parties with their obligations
-
-6.4.2.2.sec=	keeping the address list of Members and other contact persons updated and available 
-
-6.4.2.3.sec=	collecting, reviewing to verify consistency and submitting reports, other deliverables (including financial statements and related certifications) and specific requested documents to the Funding Authority
-
-6.4.2.4.sec=	transmitting documents and information connected with the Project to any other Parties concerned 
-
-6.4.2.5.sec=	administering the financial contribution of the Funding Authority and fulfilling the financial tasks described in Section 7.3
-
-6.4.2.6.sec=	providing, upon request, the Parties with official copies or originals of documents that are in the sole possession of the Coordinator when such copies or originals are necessary for the Parties to present claims.
-
-6.4.2.00.sec=If one or more of the Parties is late in submission of any project deliverable, the Coordinator may nevertheless submit the other ’Parties’ project deliverables and all other documents required by the Grant Agreement to the Funding Authority in time.
-
-6.4.2.=[G/Z/ol/s6]
-
-6.4.3.sec=If the Coordinator fails in its coordination tasks, the General Assembly may propose to the Funding Authority to change the Coordinator.
-
-6.4.4.sec=	The Coordinator shall not be entitled to act or to make legally binding declarations on behalf of any other Party or of the consortium, unless explicitly stated otherwise in the Grant Agreement or this Consortium Agreement.
-
-6.4.5.sec=	The Coordinator shall not enlarge its role beyond the tasks specified in this Consortium Agreement and in the Grant Agreement. 
-
-6.4.=[G/Z/ol/s5]
-
-6.5.Ti=	[Option: 6.5 Management Support Team
-Note=(Optional, where foreseen in Grant Agreement or otherwise decided by the consortium)
-
-6.5.sec=The Management Support Team shall be proposed by the Coordinator. It shall be appointed by the Executive Board and shall assist and facilitate the work of the Executive Board and the Coordinator for executing the decisions of the General Assembly as well as the day-to-day management of the Project.]
-
-6.6.Ti=	[Option: 6.6 External Expert Advisory Board (EEAB)
-
-Note=(Optional, where foreseen in the Grant Agreement or otherwise decided by the consortium)
-
-6.6.sec=An External Expert Advisory Board (EEAB) will be appointed and steered by the Executive Board. The EEAB shall assist and facilitate the decisions made by the General Assembly. The Coordinator will ensure that a non-disclosure agreementis executed between all Parties and each EEAB member. Its terms shall be not less stringent than those stipulated in this Consortium Agreement,and it shall be concluded no later than 30 calendar days after their nomination or before any confidential information will be exchanged, whichever date is earlier. The Coordinator shall write the minutes of the EEAB meetings and prepare the implementation of the EEAB's suggestions. The EEAB members shall be allowed to participate in General Assembly meetings upon invitation but have not any voting rights.
-
-6.=[G/Z/ol/6]
 
 7.Ti=	Section: Financial provisions
 
@@ -622,9 +340,9 @@ Note=[Option 1:]
 
 8.2.1.Alt1.2.0.sec=each of the joint owners shall be entitled to otherwise Exploit the jointly owned Results and to grant non-exclusive licenses to third parties (without any right to sub-license), if the other joint owners are given:
 
-8.2.1.Alt1.2.1.sec= (a) at least 45 calendar days advance notice; and
+8.2.1.Alt1.2.1.sec=at least 45 calendar days advance notice; and
 
-8.2.1.Alt1.2.2.sec= (b) Fair and Reasonable compensation.
+8.2.1.Alt1.2.2.sec=Fair and Reasonable compensation.
 
 8.2.1.Alt1.2.=[G/Z/ol-a/s2]
 
