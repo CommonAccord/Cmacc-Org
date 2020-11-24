@@ -41,43 +41,48 @@ Therefore.sec=THE PARTIES HERETO AGREE AS FOLLOWS:
 
 Def.Confidential_Information.Ti=Confidential Information
 
-Def.Confidential_Information.1.0.sec=For the purposes of this {_Agreement}, {_Confidential_Information} means any data or information that is proprietary to or possessed by a {_Party} and not generally known to the public or that has not yet been revealed, whether in tangible or intangible form, whenever and however disclosed, including, but not limited to:
+Def.Confidential_Information.sec=<ol><li>{Def.Confidential_Information.Include.sec}</li><li>{Def.Confidential_Information.Broad.sec}</li><li>{Def.Confidential_Information.Marking.sec}</li><li>{Def.Confidential_Information.Valuable.sec}</li><li>{Def.Confidential_Information.PartyRole.sec}</li><li>{Def.Confidential_Information.Except.sec}</li></ol>
 
-Def.Confidential_Information.1.1.sec=any scientific or technical information, invention, design, process, procedure, formula, improvement, technology or method;
+Def.Confidential_Information.Include.0.sec=For the purposes of this {_Agreement}, {_Confidential_Information} means any data or information that is proprietary to or possessed by a {_Party} and not generally known to the public or that has not yet been revealed, whether in tangible or intangible form, whenever and however disclosed, including, but not limited to:
 
-Def.Confidential_Information.1.2.sec=any concepts, samples, reports, data, know-how, works-in-progress, designs, drawings, photographs, development tools, specifications, software programs, source code, object code, flow charts, and databases;
+Def.Confidential_Information.Include.1.sec=any scientific or technical information, invention, design, process, procedure, formula, improvement, technology or method;
 
-Def.Confidential_Information.1.3.sec=any marketing strategies, plans, financial information, or projections, operations, sales estimates, business plans and performance results relating to the {_Party}’s past, present or future business activities, or those of its affiliates, subsidiaries and affiliated companies;
+Def.Confidential_Information.Include.2.sec=any concepts, samples, reports, data, know-how, works-in-progress, designs, drawings, photographs, development tools, specifications, software programs, source code, object code, flow charts, and databases;
 
-Def.Confidential_Information.1.4.sec=trade secrets; plans for products or services, and customer or supplier lists;
+Def.Confidential_Information.Include.3.sec=any marketing strategies, plans, financial information, or projections, operations, sales estimates, business plans and performance results relating to the {_Party}’s past, present or future business activities, or those of its affiliates, subsidiaries and affiliated companies;
 
-Def.Confidential_Information.1.5.sec=any other information that should reasonably be recognised as {_Confidential_Information} by the {_Parties}.
+Def.Confidential_Information.Include.4.sec=trade secrets; plans for products or services, and customer or supplier lists;
 
-Def.Confidential_Information.1.=[G/Z/ol-i/s5]
+Def.Confidential_Information.Include.5.sec=any other information that should reasonably be recognised as {_Confidential_Information} by the {_Parties}.
 
-Def.Confidential_Information.2.sec=The {_Parties} agree hereby that {_Confidential_Information} needs not to be novel, unique, patentable, copyrightable or constitutes a trade secret in order to be designated {_Confidential_Information} and therefore protected.
+Def.Confidential_Information.Include.=[G/Z/ol-i/s5]
 
-Def.Confidential_Information.3.sec={_Confidential_Information} shall be identified either by marking it, in the case of written materials, or, in the case of information that is disclosed orally or written materials that are not marked, by notifying the other {_Party} of the confidential nature of the information. Such notification shall be done orally, by e-mail or written correspondence, or via other appropriate means of communication.
+Def.Confidential_Information.Broad.sec=The {_Parties} agree hereby that {_Confidential_Information} needs not to be novel, unique, patentable, copyrightable or constitutes a trade secret in order to be designated {_Confidential_Information} and therefore protected.
 
-Def.Confidential_Information.4.sec=The {_Parties} hereby acknowledge that the {_Confidential_Information} proprietary to each {_Party} has been developed and obtained through great efforts and shall be regarded and kept as {_Confidential_Information}.
+Def.Confidential_Information.Marking.sec={_Confidential_Information} shall be identified either by marking it, in the case of written materials, or, in the case of information that is disclosed orally or written materials that are not marked, by notifying the other {_Party} of the confidential nature of the information. Such notification shall be done orally, by e-mail or written correspondence, or via other appropriate means of communication.
 
-Def.Confidential_Information.5.sec=For the purposes of this {_Agreement}, the {_Party} which discloses {_Confidential_Information} within the terms established hereunder to the other {_Party} shall be regarded as the {Def.Disclosing_Party.sec}. Likewise the {_Party} which receives the disclosed {_Confidential_Information} shall be regarded as the {Def.Receiving_Party.sec}.
+Def.Confidential_Information.Valuable.sec=The {_Parties} hereby acknowledge that the {_Confidential_Information} proprietary to each {_Party} has been developed and obtained through great efforts and shall be regarded and kept as {_Confidential_Information}.
 
-Def.Confidential_Information.6.0.sec=Notwithstanding the aforementioned, {_Confidential_Information} shall exclude information that:
+Def.Confidential_Information.PartyRole.sec=For the purposes of this {_Agreement}, the {_Party} which discloses {_Confidential_Information} within the terms established hereunder to the other {_Party} shall be regarded as the {Def.Disclosing_Party.sec}. Likewise the {_Party} which receives the disclosed {_Confidential_Information} shall be regarded as the {Def.Receiving_Party.sec}.
 
-Def.Confidential_Information.6.1.sec=is already in the public domain at the time of disclosure by the {_Disclosing_Party} to the {_Receiving_Party} or thereafter enters the public domain without any breach of the terms of this {_Agreement};
+Def.Confidential_Information.Except.sec={Def.Confidential_Information.Except.Intro.sec}<ol type=i><li>{Def.Confidential_Information.Except.Public.sec}</li><li>{Def.Confidential_Information.Except.Had.sec}</li><li>{Def.Confidential_Information.Except.Find.sec}</li><li>{Def.Confidential_Information.Except.BecomesPublic.sec}</li><li>{Def.Confidential_Information.Except.Make.sec}</li></ol>
 
-Def.Confidential_Information.6.2.sec=was already known by the {_Receiving_Party} before the moment of disclosure (under evidence of reasonable proof or written record of such disclosure);
+Def.Confidential_Information.Except.Intro.sec=Notwithstanding the aforementioned, {_Confidential_Information} shall exclude information that:
 
-Def.Confidential_Information.6.3.sec=is subsequently communicated to the {_Receiving_Party} without any obligation of confidence from a third party who is in lawful possession thereof and under no obligation of confidence to the {_Disclosing_Party};
+Def.Confidential_Information.Except.Public.sec=is already in the public domain at the time of disclosure by the {_Disclosing_Party} to the {_Receiving_Party} or thereafter enters the public domain without any breach of the terms of this {_Agreement};
 
-Def.Confidential_Information.6.4.sec=becomes publicly available by other means than a breach of the confidentiality obligations by the {_Receiving_Party} (not through fault or failure to act by the {_Receiving_Party});
+Def.Confidential_Information.Except.Had.sec=was already known by the {_Receiving_Party} before the moment of disclosure (under evidence of reasonable proof or written record of such disclosure);
 
-Def.Confidential_Information.6.5.sec=is or has been developed independently by employees, consultants or agents of the {_Receiving_Party} (proved by reasonable means) without violation of the terms of this {_Agreement} or reference or access to any {_Confidential_Information} pertaining to the {_Parties}.
+Def.Confidential_Information.Except.Find.sec=is subsequently communicated to the {_Receiving_Party} without any obligation of confidence from a third party who is in lawful possession thereof and under no obligation of confidence to the {_Disclosing_Party};
 
-Def.Confidential_Information.6.=[G/Z/ol-i/s5]
+Def.Confidential_Information.Except.BecomesPublic.sec=becomes publicly available by other means than a breach of the confidentiality obligations by the {_Receiving_Party} (not through fault or failure to act by the {_Receiving_Party});
 
-Def.Confidential_Information.=[G/Z/ol/s6]
+Def.Confidential_Information.Except.Make.sec=is or has been developed independently by employees, consultants or agents of the {_Receiving_Party} (proved by reasonable means) without violation of the terms of this {_Agreement} or reference or access to any {_Confidential_Information} pertaining to the {_Parties}.
+
+
+Def.Confidential_Information.Except.=[G/Z/Base]
+
+Def.Confidential_Information.=[G/Z/Base]
 
 Purpose.Ti=Purpose of the Disclosure of {_Confidential_Information}
 
