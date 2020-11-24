@@ -21,17 +21,17 @@ By.=[G/Z/ol-none/s2]
 
 Why.Ti=WHEREAS:
 
-Why.1.sec=The {_Parties} hereto desire to {Collaboraration.Purpose.sec}.
+Why.1.sec=The {_Parties} hereto desire to {CollaborationPurpose.sec}.
 
-Collaboraration.Purpose.Alt1.sec=participate in early discussions regarding the entering into future collaboration as a European Funded Project {in the field of ….}
+CollaborationPurpose.Alt1.sec=participate in early discussions regarding the entering into future collaboration as a European Funded Project {in the field of ….}
 
-Collaboraration.Purpose.Alt2.sec=submit a proposal for a collaborative project in response to the call {identify the call} under {identify the EU-funded Programme}
+CollaborationPurpose.Alt2.sec=submit a proposal for a collaborative project in response to the call {identify the call} under {identify the EU-funded Programme}
 
-Collaboraration.Purpose.Alt3.sec=evaluate entering into partnership or business collaboration for the purpose of {identify the undertaking intended to perform}
+CollaborationPurpose.Alt3.sec=evaluate entering into partnership or business collaboration for the purpose of {identify the undertaking intended to perform}
 
-Collaboraration.Purpose.=[G/Z/Alt/3]
+CollaborationPurpose.=[G/Z/Alt/3]
 
-Collaboraration.Purpose.SecName=Collaboraration.Purpose
+CollaborationPurpose.SecName=CollaborationPurpose
 
 Why.2.sec=Throughout the aforementioned discussions, {_Parties} may share between themselves proprietary information or {_Confidential_Information} under the terms and covenants set forth below.
 
