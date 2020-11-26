@@ -1,3 +1,5 @@
+CodersNote=From http://www.iprhelpdesk.eu/sites/default/files/newsdocuments/Mutual-Non-Disclosure-Agreement-EN.pdf
+
 Ti=MUTUAL NON-DISCLOSURE AGREEMENT
 
 sec={Head.sec}<br>{Body.sec}<br>{Sign.sec}
@@ -21,7 +23,7 @@ By.=[G/Z/ol-none/s2]
 
 Why.Ti=WHEREAS:
 
-Why.1.sec=The {_Parties} hereto desire to {CollaborationPurpose.sec}.
+Why.Collaborate.sec=The {_Parties} hereto desire to {CollaborationPurpose.sec}.
 
 CollaborationPurpose.Alt1.sec=participate in early discussions regarding the entering into future collaboration as a European Funded Project {in the field of ….}
 
@@ -33,9 +35,11 @@ CollaborationPurpose.=[G/Z/Alt/3]
 
 CollaborationPurpose.SecName=CollaborationPurpose
 
-Why.2.sec=Throughout the aforementioned discussions, {_Parties} may share between themselves proprietary information or {_Confidential_Information} under the terms and covenants set forth below.
+Why.ShareInfo.sec=Throughout the aforementioned discussions, {_Parties} may share between themselves proprietary information or {_Confidential_Information} under the terms and covenants set forth below.
 
-Why.=[G/Z/paras/s2]
+Why.sec={Why.Collaborate.sec}<br>{Why.ShareInfo.sec}
+
+Why.=[G/Z/Base]
 
 Therefore.sec=THE PARTIES HERETO AGREE AS FOLLOWS:
 
@@ -79,7 +83,6 @@ Def.Confidential_Information.Except.BecomesPublic.sec=becomes publicly available
 
 Def.Confidential_Information.Except.Make.sec=is or has been developed independently by employees, consultants or agents of the {_Receiving_Party} (proved by reasonable means) without violation of the terms of this {_Agreement} or reference or access to any {_Confidential_Information} pertaining to the {_Parties}.
 
-
 Def.Confidential_Information.Except.=[G/Z/Base]
 
 Def.Confidential_Information.=[G/Z/Base]
@@ -95,6 +98,8 @@ PurposeDescription.Alt2.sec=submit a proposal for a collaborative project in res
 PurposeDescription.Alt3.sec=enter into or evaluate alternatives for partnership or collaboration with {name of the other Party or Parties} for the purpose of {identify the undertaking intended to perform or achieve}
 
 PurposeDescription.=[G/Z/Alt/3]
+
+PurposeDescription.SecName=PurposeDescription
 
 Purpose.=[G/Z/Base]
 
@@ -129,6 +134,7 @@ Engage.13.sec=Neither {_Party} is under any obligation under this {_Agreement} t
 Engage.14.sec=Nothing in this {_Agreement} shall be construed to constitute an agency, partnership, joint venture, or other similar relationship between the {_Parties}.
 
 Engage.=[G/Z/ol/s14]
+
 
 Misc.Ti=Miscellaneous
 
