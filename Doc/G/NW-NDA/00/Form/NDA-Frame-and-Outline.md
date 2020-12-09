@@ -1,5 +1,9 @@
 CodersNote=A basic outline for an NDA.  Borrowing some terms from "TechContracts.com".
 
+CodersNote=We start with the basic frame for an Agreement - header, parties, why, sections, signature.
+
+=[G/NW-NDA/00/Form/Agt-Frame.md]
+
 sec=<ol><li>{Prime.Sec}<li>{Def.Sec}<li>{General.Sec}<li>{Misc.Sec}</ol>
 
 CodersNote=We borrow TechContracts' notion of "Prime" clauses - the business terms.
@@ -30,8 +34,6 @@ Def.Sec=<b>{Def.Ti}</b><br><ol><li>{Def.Provider.sec}</li><li>{Def.Recipient.sec
 General.Sec=<b>{General.Ti}</b><br><ol><li>{Notice.Sec}</li><li>{Amend.Sec}</li><li>{GovtDemand.Sec}</li><li>{Dispute.Sec}</li><li>{Law.Sec}</li></ol>
 
 Misc.Sec=<b>{Misc.Ti}</b><br><ol><li>{Counterpart.Sec}</li></ol>
-
-=[G/NW-NDA/US/00/EN/Form/Agt-Frame.md]
 
 
 CodersNote=English Language defaults (to be moved to the /US/EN/ folder)
