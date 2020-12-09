@@ -50,7 +50,7 @@ Circulate.Ti=Circulation of Information by Recipient
 
 Copy.Ti=Copies of Information Made by Recipient
 
-Return.Ti=Return of Information by Recient
+Return.Ti=Return of Information by Recipient
 
 Def.Ti=Definitions
 
