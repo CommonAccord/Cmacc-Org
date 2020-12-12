@@ -1,4 +1,3 @@
-
 CodersNote=French Language headings.
 
 =[G/NW-NDA/00/Form/NDA-Frame-and-Outline.md]
@@ -18,9 +17,10 @@ Copy.Ti=Copies des Information par le Destinataire
 
 Return.Ti=Retour des Information par le Destinataire
 
+ConfInfo.Ti=Informations Confidentielles
+
 Def.Ti=Definitions
 
 General.Ti=Clauses Générales
 
 Misc.Ti=Clauses Miscellaneous
- 
