@@ -18,7 +18,7 @@ By.0.sec=Fait à lieu de conclusion de l'{_Accord}, le {DateSignature.YMD}.
 
 CodersNote=Section Headings
 
-Prime.Ti=Confidentialité
+Prime.Ti=Dispositions Primaires
 
 Convey.Ti=Communication des Informations
 
@@ -38,6 +38,6 @@ ConfInfo.Ti=Informations Confidentielles
 
 Def.Ti=Definitions
 
-General.Ti=Clauses Générales
+General.Ti=Dispositions Générales
 
-Misc.Ti=Clauses Miscellaneous
+Misc.Ti=Dispositions Diverses

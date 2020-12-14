@@ -58,7 +58,7 @@ By.0.sec=IN WITNESS WHEREOF, the {_Parties} have executed {_this_Agreement} as o
 
 CodersNote=Section Headings
 
-Prime.Ti=Confidentiality
+Prime.Ti=Primary Terms
 
 Convey.Ti=Conveying Confidential Information
 
