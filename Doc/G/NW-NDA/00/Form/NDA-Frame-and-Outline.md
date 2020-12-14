@@ -8,9 +8,11 @@ sec=<ol><li>{Prime.Sec}<li>{Def.Sec}<li>{General.Sec}<li>{Misc.Sec}</ol>
 
 CodersNote=We borrow TechContracts' notion of "Prime" clauses - the business terms.
 
-Prime.Sec=<b>{Prime.Ti}</b><br>{Intro.sec}<ol><li>{Use.Sec}</li><li>{Convey.Sec}</li><li>{ConfInfo.Sec}</li></ol>
+Prime.Sec=<b>{Prime.Ti}</b><br>{Intro.sec}<ol><li>{Use.Sec}</li><li>{IP.Sec}</li><li>{Convey.Sec}</li><li>{ConfInfo.Sec}</li></ol>
 
 Use.Sec=<b>{Use.Ti}</b><br><ol><li>{Use.Purpose.Sec}</li><li>{Use.Analyze.Sec}</li></ol>
+
+IP.Sec=<b>{IP.Ti}</b><br><ol><li>{IP.Had.Sec}</li><li>{IP.Make.Sec}</li></ol>
 
 CodersNote="Convey" is for the intended movement of information.  Confide, Circulate, Copy, Return.  Disclosure to a non-party is an unintended risk, handled in the General terms.
 
