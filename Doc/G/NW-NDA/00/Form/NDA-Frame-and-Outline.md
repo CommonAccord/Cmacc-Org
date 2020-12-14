@@ -32,7 +32,7 @@ ConfInfo.Sec=<b>{ConfInfo.Ti}</b><br>{ConfInfo.Intro.sec}<ol><li>{Include.Sec}</
 
 Def.Sec=<b>{Def.Ti}</b><br><ol><li>{Def.Provider.sec}</li><li>{Def.Recipient.sec}</li><li>{Def.Confidential_Information.sec}</li></ol>
 
-General.Sec=<b>{General.Ti}</b><br><ol><li>{Breach.Sec}</li><li>{Notice.Sec}</li><li>{Amend.Sec}</li><li>{GovtDemand.Sec}</li><li>{Dispute.Sec}</li><li>{Law.Sec}</li></ol>
+General.Sec=<b>{General.Ti}</b><br><ol><li>{BreachByDisclosure.Sec}</li><li>{Notice.Sec}</li><li>{Amend.Sec}</li><li>{GovtDemand.Sec}</li><li>{Dispute.Sec}</li><li>{Law.Sec}</li></ol>
 
 Misc.Sec=<b>{Misc.Ti}</b><br><ol><li>{Counterpart.Sec}</li></ol>
 
@@ -45,6 +45,8 @@ Convey.Ti=Conveying Confidential Information
 Confide.Ti=Scope and Methods of Confiding Information
 
 Use.Ti=Use of Information
+
+IP.Ti=Intellectual Property Rights
 
 Circulate.Ti=Circulation of Information by Recipient
 

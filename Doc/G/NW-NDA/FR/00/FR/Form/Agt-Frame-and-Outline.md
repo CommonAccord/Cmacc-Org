@@ -11,6 +11,8 @@ Confide.Ti=Champs et Methôdes de Communication
 
 Use.Ti=Utilisation des Informations par le Destinataire
 
+IP.Ti=Propriété Intellectuelle
+
 Circulate.Ti=Circulation des Informations par le Destinataire
 
 Copy.Ti=Copies des Information par le Destinataire
