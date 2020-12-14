@@ -38,6 +38,26 @@ Misc.Sec=<b>{Misc.Ti}</b><br><ol><li>{Counterpart.Sec}</li></ol>
 
 CodersNote=English Language defaults (to be moved to the /US/EN/ folder)
 
+Doc.Ti=Non-Disclosure Agreement
+
+Why.Ti=Whereas:
+
+Among.Ti/2=By and Between:
+
+This.sec/2=This {Doc.Ti} (this "{Def.Agreement.sec}") is made as of {EffectiveDate.YMD} ("{Def.Effective_Date.sec}"), by and between the {_Parties}.
+
+Why.Ti=Recitals
+
+That.sec=In consideration of the mutual promises contained in {_this_Agreement} and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the {_Parties} agree as follows:
+
+By.Ti=Signature
+
+Note=As with "Among," By assumes two parties but you can make more - By.secs={By.secs/3} or 4, etc.
+
+By.0.sec=IN WITNESS WHEREOF, the {_Parties} have executed {_this_Agreement} as of the {_Effective_Date}.
+
+CodersNote=Section Headings
+
 Prime.Ti=Confidentiality
 
 Convey.Ti=Conveying Confidential Information

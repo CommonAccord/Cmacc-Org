@@ -2,6 +2,21 @@ CodersNote=French Language headings.
 
 =[G/NW-NDA/00/Form/NDA-Frame-and-Outline.md]
 
+Doc.Ti=Accord de Confidentialité
+
+Among.Ti/2=Entre :
+
+This.sec/2=Entre les {_parties} :
+
+Why.Ti=Etant préalablement rappelé que :
+
+That.sec=Il a été convenu et arrêté ce qui suit :
+
+By.Ti=Signature
+
+By.0.sec=Fait à lieu de conclusion de l'{_Accord}, le {DateSignature.YMD}.
+
+CodersNote=Section Headings
 
 Prime.Ti=Confidentialité
 
