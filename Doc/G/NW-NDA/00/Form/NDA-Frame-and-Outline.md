@@ -30,7 +30,9 @@ Return.Sec=<b>{Return.Ti}</b><br><ol><li>{ReturnToProvider.Sec}</li><li>{Destroy
 
 ConfInfo.Sec=<b>{ConfInfo.Ti}</b><br>{ConfInfo.Intro.sec}<ol><li>{Include.Sec}</li><li>{Exclude.Sec}</li></ol>
 
-Def.Sec=<b>{Def.Ti}</b><br><ol><li>{Def.Provider.sec}</li><li>{Def.Recipient.sec}</li><li>{Def.Confidential_Information.sec}</li></ol>
+Include.Sec=<b>{Include.Ti}</b><br>{Include.Intro.sec}<ol><li>{Include.Core.sec}</li><li>{Include.Marked.sec}</li><li>{Include.Obvious.sec}</li></ol>
+
+Def.Sec=<b>{Def.Ti}</b><br><ol><li>{Def.Provider.sec}</li><li>{Def.Recipient.sec}</li><li>{Def.Confidential_Information.sec}</li><li>{Def.Asset.sec}</li></ol>
 
 General.Sec=<b>{General.Ti}</b><br><ol><li>{BreachByDisclosure.Sec}</li><li>{Notice.Sec}</li><li>{Amend.Sec}</li><li>{GovtDemand.Sec}</li><li>{Dispute.Sec}</li><li>{Law.Sec}</li></ol>
 
