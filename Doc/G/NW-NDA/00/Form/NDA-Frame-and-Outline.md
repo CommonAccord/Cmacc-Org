@@ -8,17 +8,17 @@ sec=<ol><li>{Prime.Sec}<li>{Def.Sec}<li>{General.Sec}<li>{Misc.Sec}</ol>
 
 CodersNote=We borrow TechContracts' notion of "Prime" clauses - the business terms.
 
-Prime.Sec=<b>{Prime.Ti}</b><br>{Intro.sec}<ol><li>{Use.Sec}</li><li>{IP.Sec}</li><li>{Convey.Sec}</li><li>{ConfInfo.Sec}</li></ol>
+Prime.Sec=<b>{Prime.Ti}</b><br>{Intro.sec}<ol><li>{Use.Sec}</li><li>{IP.Sec}</li><li>{Flow.Sec}</li><li>{ConfInfo.Sec}</li></ol>
 
 Use.Sec=<b>{Use.Ti}</b><br><ol><li>{Use.Purpose.Sec}</li><li>{Use.Analyze.Sec}</li></ol>
 
 IP.Sec=<b>{IP.Ti}</b><br><ol><li>{IP.Had.Sec}</li><li>{IP.Make.Sec}</li></ol>
 
-CodersNote="Convey" is for the intended movement of information.  Confide, Circulate, Copy, Return.  Disclosure to a non-party is an unintended risk, handled in the General terms.
+CodersNote="Flow" is for the intended movement of information.  Confide, Circulate, Copy, Return.  Disclosure to a non-party is an unintended risk, handled in the General terms.
 
-CodersNote="Convey" is something like the notion of "Happy Path", what is supposed to happen with information confided by the Provider to the Recipient.  Most of the rest is background or risk management.
+CodersNote="Flow" is something like the notion of "Happy Path", what is supposed to happen with information confided by the Provider to the Recipient.  Most of the rest is background or risk management.
 
-Convey.Sec=<b>{Convey.Ti}</b><br><ol><li>{Confide.Sec}</li><li>{Circulate.Sec}</li><li>{Copy.Sec}</li><li>{Return.Sec}</li></ol>
+Flow.Sec=<b>{Flow.Ti}</b><br><ol><li>{Confide.Sec}</li><li>{Circulate.Sec}</li><li>{Copy.Sec}</li><li>{Return.Sec}</li></ol>
 
 Confide.Sec=<b>{Confide.Ti}</b><br><ol><li>{Confide.Scope.Sec}</li><li>{Confide.Method.Sec}</li></ol>
 
@@ -42,6 +42,8 @@ Doc.Ti=Non-Disclosure Agreement
 
 Why.Ti=Whereas:
 
+Among.secs/2=<ul type="none" style="padding-left: 0"><li>{P1.US.Contract.Among.Sec}</li><li>{P2.US.Contract.Among.Sec}</li></ul>
+
 Among.Ti/2=By and Between:
 
 This.sec/2=This {Doc.Ti} (this "{Def.Agreement.sec}") is made as of {EffectiveDate.YMD} ("{Def.Effective_Date.sec}"), by and between the {_Parties}.
@@ -56,17 +58,19 @@ Note=As with "Among," By assumes two parties but you can make more - By.secs={By
 
 By.0.sec=IN WITNESS WHEREOF, the {_Parties} have executed {_this_Agreement} as of the {_Effective_Date}.
 
+By.secs/2=<table><tr><td valign=top>{P1.US.Contract.By.Sec}</td><td valign=top>   </td><td valign=top>{P2.US.Contract.By.Sec}</td></tr></table>
+
 CodersNote=Section Headings
 
 Prime.Ti=Primary Terms
 
-Convey.Ti=Conveying Confidential Information
-
-Confide.Ti=Scope and Methods of Confiding Information
-
 Use.Ti=Use of Information
 
 IP.Ti=Intellectual Property Rights
+
+Flow.Ti=The Flow of Confidential Information
+
+Confide.Ti=Scope and Methods of Confiding Information
 
 Circulate.Ti=Circulation of Information by Recipient
 
