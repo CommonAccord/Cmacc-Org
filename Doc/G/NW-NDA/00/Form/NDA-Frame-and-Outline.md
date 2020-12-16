@@ -48,6 +48,8 @@ Among.secs/2=<ul type="none" style="padding-left: 0"><li>{P1.US.Contract.Among.S
 
 Among.Ti/2=By and Between:
 
+Among.Def.sec=Each a "{Def.Party.sec}" and collectively the "{_Parties}."
+
 This.sec/2=This {Doc.Ti} (this "{Def.Agreement.sec}") is made as of {EffectiveDate.YMD} ("{Def.Effective_Date.sec}"), by and between the {_Parties}.
 
 Why.Ti=Recitals
@@ -87,3 +89,24 @@ Def.Ti=Definitions
 General.Ti=General Terms
 
 Misc.Ti=Miscellaneous Terms
+
+
+CodersNote=Examples of Defined Terms as Links:
+
+_Effective_Date=<a href="#Def.Effective_Date.sec" class="definedterm">Effective Date</a>
+
+_Agreement=<a href="#Def.Agreement.sec" class="definedterm">Agreement</a>
+
+_this_Agreement=this {_Agreement}
+
+_Party=<a href="#Def.Party.sec" class="definedterm">Party</a>
+
+_Parties=<a href="#Def.Party.sec" class="definedterm">Parties</a>
+
+CodersNote=These terms are defined "inline" - in the text rather than in the Definitions section. That is a common device, though debatable as a best practice.  We can make each use of the defined term link to the place in which the term is defined by using the device of a double include - the Def.Agreement.sec={_Agreement} provides an HTML target called Def.Agreement.sec.  
+
+Def.Effective_Date.sec={_Effective_Date}
+
+Def.Agreement.sec={_Agreement}
+
+Def.Party.sec={_Party}

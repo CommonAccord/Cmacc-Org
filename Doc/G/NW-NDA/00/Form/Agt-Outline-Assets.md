@@ -26,6 +26,7 @@ Def.Asset.Plan.cl={_Plan_Assets}: {_Business_Plans}; {_Projections}; ....
 CodersNote=Examples of Defined Terms as Links.  Notice the preference for singular targets organized hierarchically - Def.Asset.Right.cl, even as the defined term is plural and posed in normal English order of adjective-noun. In general, we think that terms should be defined in the singular, but both can be accommodated.
 
 
+_Assets=<a href="#Def.Asset.sec">Assets</a>
 
 _IP_Assets=<a href="#Def.Asset.IP.cl">IP Assets</a>
 
@@ -42,4 +43,5 @@ LawyersNote=This is not intended to imply that "data" is "property" or otherwise
 _Data_Assets=<a href="#Def.Asset.Data.cl">Data Assets</a>
 
 _Rights_Assets=<a href="#Def.Asset.Right.cl">Rights Assets</a>
+
 _Plan_Assets=<a href="#Def.Asset.Plan.cl">Plan Assets</a>
