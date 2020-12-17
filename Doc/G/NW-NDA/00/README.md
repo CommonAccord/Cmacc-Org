@@ -1,3 +1,5 @@
+CodersNote=This page is formatted for GitHub markdown and looks a lot better there (click "GitHub" at the top if on a CommonAccord site).
+
 CodersNote=Agreements involve a number of notions:
 
 1. Persons:
