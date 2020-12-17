@@ -4,21 +4,23 @@ CodersNote=This is a placeholder for "Assets" - things that discussions can be a
 
 Def.Asset.Ti=Assets
 
-Def.Asset.sec={_Assets} include:<ol><li>{Def.Asset.IP.cl};</li><li>{Def.Asset.Investment.cl};</li><li>{Def.Asset.Tangible.cl};</li><li>{Def.Asset.Real.cl};<li>{Def.Asset.Data.cl};</li><li>{Def.Asset.Right.cl}; and</li><li>{Def.Asset.Plan.cl}.</li></ol>
+Def.Asset.sec="{_Assets}" include:<ol><li>{Def.Asset.IP.cl};</li><li>{Def.Asset.Financial.cl};</li><li>{Def.Asset.Tangible.cl};</li><li>{Def.Asset.Real.cl};<li>{Def.Asset.Data.cl};</li><li>{Def.Asset.Right.cl}; and</li><li>{Def.Asset.Plan.cl}.</li></ol>
 
-Def.Asset.IP.cl={_IP_Assets}: {_Patents} and {_Patent_Applications}; {_Copyrights}; {_Trademarks}; {_Trade_Names}; {_Designations_of_Origin}; and similar intellectual property rights
+Def.Asset.IP.cl="{_IP_Assets}": {_Patents} and {_Patent_Applications}; {_Copyrights}; {_Trademarks}; {_Trade_Names}; {_Designations_of_Origin}; and similar intellectual property rights
 
-Def.Asset.Investment.cl={_Investment_Assets}: {_Shares_in_Companies}; {_Bonds}; {_Derivatives}; {_Partnership_Interests}; ...  
+Def.Asset.Financial.cl="{_Financial_Assets}": {_Shares_in_Companies}; {_Bonds}; {_Derivatives}; {_Partnership_Interests}; ...  
 
-Def.Asset.Tangible.cl={_Tangible_Assets}: {_Vehicles}; {_Machinery}; {_Manufactured_Goods};{_Materials}; {_Agricultural_Produce}; {_Food_Stuffs}; {_Prepared_Food} ....
+SubstantiveNote=See for instance the ACTUS paradigms.
 
-Def.Asset.Real.cl={_Real_Assets}: {_Land}; {_Easements}; {_Fixtures}; ....
+Def.Asset.Tangible.cl="{_Tangible_Assets}": {_Vehicles}; {_Machinery}; {_Manufactured_Goods};{_Materials}; {_Agricultural_Produce}; {_Food_Stuffs}; {_Prepared_Food} ....
 
-Def.Asset.Data.cl={_Data_Assets}: {_Data_Sets}; {_PII}; {_Medical_Data}; ....
+Def.Asset.Real.cl="{_Real_Assets}": {_Land}; {_Easements}; {_Fixtures}; ....
 
-Def.Asset.Right.cl={_Rights_Assets}: {_Entitlements}; {_Government_Permits}; {_Certifications}; {_Rights_Under_Contracts}; {_Causes_of_Action}; ....
+Def.Asset.Data.cl="{_Data_Assets}": {_Data_Sets}; {_PII}; {_Medical_Data}; ....
 
-Def.Asset.Plan.cl={_Plan_Assets}: {_Business_Plans}; {_Projections}; ....
+Def.Asset.Right.cl="{_Rights_Assets}": {_Entitlements}; {_Government_Permits}; {_Certifications}; {_Rights_Under_Contracts}; {_Causes_of_Action}; ....
+
+Def.Asset.Plan.cl="{_Plan_Assets}": {_Business_Plans}; {_Projections}; {_Drawings}; {_Diagrams}; ....
 
 =[G/Z/ol/Base]
 
@@ -30,7 +32,7 @@ _Assets=<a href="#Def.Asset.sec">Assets</a>
 
 _IP_Assets=<a href="#Def.Asset.IP.cl">IP Assets</a>
 
-_Investment_Assets=<a href="#Def.Asset.Investment.cl">Investment Assets</a>
+_Financial_Assets=<a href="#Def.Asset.Financial.cl">Financial Assets</a>
 
 _Tangible_Assets=<a href="#Def.Asset.Tangible.cl">Tangible Assets</a>
 
