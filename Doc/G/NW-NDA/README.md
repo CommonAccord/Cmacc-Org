@@ -1,11 +1,28 @@
-Note=The source code for this is available at https://github.com/CommonAccord/NW-NDA.  A running version is at http://commonaccord.org/index.php?action=list&file=G/NW-NDA/.
+README.md
 
-Ti=Root for Jurisdictions
+This repo is developed for an online course of mixed computer science and law students.  It takes Non-Disclosure Agreements as a use-case for contracting.  It tests a number of theses:
 
-1.sec=The organizational structure (ontology) here is by jurisdiction, using the ____ system of country codes (BE/DE/FR/US).  /00/ is jurisdiction neutral basic components - ontologies.
+1. Can NDAs be "codified" globally?
 
-2.sec=Within the jurisdiction is the language code using the ___ system of language codes (DE/EN/FR). (Note the overlaps, which are disambiguated by their position, /US/EN/ means a US-compatible agreement, in English /BE/DE/ means a German language agreement fit for Belgium.
+1. Will front-line users of NDAs - corporate counsel, businesses and others - appreciate and adopt codification.
 
-3.sec=As you navigate the folders, look for the 0.md file at the top of the list, which will usually bring together and/or explain the content of the folder.  
+1. Are "Prose Objects" a good way to do this?
 
-=[G/Z/ol/s3]
+1. What are the barriers to easier, better use of "Prose Objects"?  How do they fit into an ecosystem of contracting, governance, Smart Contracts, AI/ML/NLP processing?
+
+1. Is git (and GitHub) as good a platform for legal collaboration as it is for code collaboration?
+
+1. Can we organize a law/CS course via git?
+
+1. Will we ever run out of question marks?
+
+
+The repo is at <a href="https://github.com/CommonAccord/NW-NDA">https://github.com/CommonAccord/NW-NDA</a>
+
+It is presented at <a href="http://www.commonaccord.org/index.php?action=list&file=G/NW-NDA/">http://www.commonaccord.org/index.php?action=list&file=G/NW-NDA/</a>
+
+Materials about the process and the course are at /99/, 
+
+We will link to some featured work here. These are likely to change and to move, so keep checking back here:
+
+<a href="http://www.commonaccord.org/index.php?action=source&file=G/NW-NDA/US/00/EN/Demo/Acme-Quake.md">http://www.commonaccord.org/index.php?action=source&file=G/NW-NDA/US/00/EN/Demo/Acme-Quake.md</a>
