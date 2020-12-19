@@ -2,7 +2,7 @@ Legal In Context
 
 Placing “legal” in context:
 
-1. Legal is a feature, not a product.  The purpose is the transaction.
+1. Legal is a feature, not a product.  The purpose is the transaction.  Most transactions can be completed without legal questions or intervention.  It is the most complex or original ones, or the edge cases that call for legal design, expertise or repair.
 
 2.	Error handling on transactions
 
