@@ -21,7 +21,9 @@ The repo is at <a href="https://github.com/CommonAccord/NW-NDA">https://github.c
 
 It is presented at <a href="http://www.commonaccord.org/index.php?action=list&file=G/NW-NDA/">http://www.commonaccord.org/index.php?action=list&file=G/NW-NDA/</a>
 
-Materials about the process and the course are at /99/, 
+Materials about the process and the course are at /99/.
+
+To get up to speed, it is highly recommended to get the application Visual Studio Code (VS Code) and clone a copy of this NW-NDA repo into VS Code.  VS Code greatly eases reading and navigation, as well as providing a way to edit and contribute.  Think of it as a browser.
 
 We will link to some featured work here. These are likely to change and to move, so keep checking back here:
 
