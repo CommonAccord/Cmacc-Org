@@ -1,6 +1,6 @@
-CodersNote=This is a placeholder for "Assets" - things that discussions can be about - the "things" involved. That is distinguished from the activities, purposes, plans between the parties. Assets as a label is a rough fit.
+CodersNote=This is a placeholder for "Assets" - things that discussions can be about - the "things" involved. That is distinguished from the activities, purposes, plans between the parties. Assets as a label is a rough fit.  The goal here is simply to point out the need for a general taxonomy for thingy-things. 
 
-=[G/NW-NDA/00/Form/NDA-Frame-and-Outline.md]
+=[G/NW-NDA/00/Form/Agt-Outline.md]
 
 Def.Asset.Ti=Assets
 

@@ -2,7 +2,7 @@ CodersNote=A basic outline for an NDA.  Borrowing some terms from "TechContracts
 
 CodersNote=We start with the basic frame for an Agreement - header, parties, why, sections, signature.
 
-=[G/NW-NDA/00/Form/Agt-Frame.md]
+=[G/NW-NDA/00/Form/Agt.md]
 
 sec=<ol><li>{Prime.Sec}<li>{Def.Sec}<li>{General.Sec}<li>{Misc.Sec}</ol>
 
