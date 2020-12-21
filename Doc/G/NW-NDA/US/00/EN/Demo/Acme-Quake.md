@@ -1,3 +1,5 @@
+Doc.Ti=Mutual Non-Disclosure Agreement for Consulting Discussion
+
 P1.=[G/U/Who/acme_incorporated.md]
 
 P2.=[G/U/Who/quake_ie.md]
@@ -6,13 +8,22 @@ _P1=<a href="#P1.Handle">Acme</a>
 
 _P2=<a href="#P2.Handle">Quake</a>
 
-IP.Had.=[G/Agt-NDA-CmA/Sec/Relate/Own/0.md]
+Doc.GUID=AcmeQuake-0001
 
-Include.=[G/Agt-NDA-CmA/Sec/Def/Confidential_Information/0.md]
+EffectiveDate.YMD=2020-12-21
 
-Exclude.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Except/Item/0.md]
+Purpose.cl=to discuss a possible consulting arrangement relating to contract automation
 
-GovtDemand.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Except/Compelled/0.md]
+ConfInfo.IdentifyInWriting.Within.days=5 business days
 
-=[G/NW-NDA/00/Form/Agt-Outline-Assets.md]
+ConfInfo.Include.Specified.cl=information relating to contracts and contract relations and performance of Acme
 
+Conf.Life.End.YMD=2021-06-30
+
+Law.State.the=the State of California
+
+Dispute.Forum.cl=Santa Clara County, California
+
+Annex.Div=</i>
+
+=[G/NW-NDA/US/00/EN/Form/TechContracts.md]

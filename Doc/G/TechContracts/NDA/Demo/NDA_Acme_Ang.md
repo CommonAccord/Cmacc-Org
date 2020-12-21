@@ -8,11 +8,15 @@ _P2=Ang
 
 Purpose.cl=discuss a business collaboration
 
+ConfInfo.IdentifyInWriting.Within.days=5 business days
+
+ConfInfo.Include.Specified.cl=information regarding a method for infusing silicon with aluminum-oxide
+
 Conf.Life.End.YMD=2019-12-31
 
 P2.Notice.Title=Self
 
-Annex.sec=</i>
+Annex.Div=</i>
 
 P1.=[G/U/Who/acme_incorporated.md]
 
