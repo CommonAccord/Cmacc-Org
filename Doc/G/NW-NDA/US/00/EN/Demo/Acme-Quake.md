@@ -2,7 +2,7 @@ Doc.Ti=Mutual Non-Disclosure Agreement for Consulting Discussion
 
 P1.=[G/U/Who/acme_incorporated.md]
 
-P2.=[G/U/Who/quake_ie.md]
+P2.=[G/U/Who/quake_incorporated.md]
 
 _P1=<a href="#P1.Handle">Acme</a>
 
@@ -22,7 +22,7 @@ Conf.Life.End.YMD=2021-06-30
 
 Law.State.the=the State of California
 
-Dispute.Forum.cl=Santa Clara County, California
+Dispute.Forum.cl=the state and federal courts for San Mateo County, California
 
 Annex.Div=</i>
 
