@@ -27,4 +27,4 @@ To get up to speed, it is highly recommended to get the application Visual Studi
 
 We will link to some featured work here. These are likely to change and to move, so keep checking back here:
 
-<a href="http://www.commonaccord.org/index.php?action=source&file=G/NW-NDA/US/00/EN/Demo/Acme-Quake.md">http://www.commonaccord.org/index.php?action=source&file=G/NW-NDA/US/00/EN/Demo/Acme-Quake.md</a>
+<a href="http://www.commonaccord.org/index.php?action=source&file=G/NW-NDA/99/Demo/US_TechContracts_Acme-Quake.md">http://www.commonaccord.org/index.php?action=source&file=G/NW-NDA/99/Demo/US_TechContracts_Acme-Quake.md</a>
