@@ -31,3 +31,30 @@ CodersNote=Agreements involve a number of notions:
 1. Events.  This is a catch-all category.  An event can be a proposal of a contract, a counter-proposal, a signature, the other signature, an order, confirmation, notice of shipping, notice of receipt, notice of claim, resolution of claim, etc.  An even can be the notice to a warehouse to pick an inventory item and package it, notice to the transporter, confirmation that the package was picked up by the transporter, that delivery is expected at a particular time, presentation of the delivery, etc.  Some of these will be in the transacting record, some may be handled outside of the shared system.
 
 1. Paradigms.  For legal purposes, paradigms include forms of legal documents and their components.  Notably, contract agreements and their sections, subsections, annexed, Statements of Work, noticing and the like.  That is the initial focus of Prose Objects.
+
+
+Some Ontologies:
+
+Persons - Entities:
+ISO-LEI - http://www.commonaccord.org/index.php?action=list&file=G/ISO-ELF/Type/
+
+Financial Flows:
+
+ACTUS -  http://www.commonaccord.org/index.php?action=list&file=G/ACTUS/Taxonomy/
+
+Private Information:
+
+https://www.w3.org/community/dpvcg/wiki/Main_Page
+
+https://kantarainitiative.org/confluence/display/WGISI/Personal+Data+Categories
+
+Accounting:
+
+https://www.xbrl.org/
+
+Geography:
+
+Country and political subdivision codes: https://www.iso.org/glossary-for-iso-3166.html  https://www.iso.org/obp/ui/#search
+
+Ports, warehouses and other in transport: https://unece.org/cefact/unlocode-code-list-country-and-territory
+
