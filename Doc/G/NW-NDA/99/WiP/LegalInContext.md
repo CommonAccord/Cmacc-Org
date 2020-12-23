@@ -15,7 +15,7 @@ Placing “legal” in context:
 
 3.	Governance, democracy and rule of law
 
-    31.	Government as meta-contract manager.  A portfolio of portfolios.
+    31.	Government as meta-contract manager.  A portfolio of portfolios of portfolios.
 
     32. Legitimacy - in what language(s) do we decide the rules? - @meggersma: is this a question of jurisdiction or formality of language (the latter perhaps points to complexity).  @hazardj - At root, this is the "demotic" issue: shall there be a special literacy test for participation?  Shall our instituted governors speak in common languages.  Latin in the Church, Ancient Greek in the US, English in Brussels.   The same issue arises in somewhat softer form when we discuss "plain language" versus "legal language."  It gets super strong when we contemplate expressing rules as code.  Is Python or Solidity a requirement of participation in the discussion of what rules govern us?
 
@@ -32,4 +32,7 @@ Placing “legal” in context:
     https://law.mit.edu/pub/writinginsign/release/1  Megan Ma - Writing in Sign: Code as the Next Contract Language?
     https://arxiv.org/pdf/1804.04268.pdf  Dylan Hadfield-Menell, Gillian Hadfield - Incomplete Contracting and AI Alignment
 
-    
+6.  Can we do without words?  The relationship among words, humans, algorithms and patterns.  
+
+    Lots of materials on this subject.  For instance, this brief, incisive one on separating policy and mechanism, relegating AI to mechanism.  : https://bford.info/post/2020-11-18-ai-governance/  (The author distinguishes this from "mere" Human-In-The-Loop.  The human will be influenced by the machine. Argues that there must be an articulable principle, in words, expressed by humans.)
+
