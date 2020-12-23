@@ -4,13 +4,13 @@ Placing “legal” in context:
 
 1. Legal is a feature (quality), not a product.  The purpose is the transaction.  Most transactions can be completed without legal questions or intervention.  It is the most complex or original ones, or the edge cases that call for legal design, expertise or repair.
 
-2.	Error handling on transactions
+2.	Legal as error-handling - the unhappy path
 
     21.	Happy path:  Legal does nothing.  There is already a path.  "Happy" is relative: really happy is that the product arrives and the buyer is happy with it.  Less happy but still "happy" is that the buyer opens their app and schedules a return of the product.  (Still no lawyers injured or used in the process.)  (Unhappy path is, one hopes, the exception.)
 
     22.	Guidance, Maintenance and Repair: What does business want from legal? (Or, what are currently the demands for "legal" intervention? What is the role of legal?)
         
-    23. Guard-Rails:  What should legal prevent business from getting? (I would fit this with 22 because it seems to me two sides of the same coin) 
+    23. Guard-Rails:  What should legal prevent business from doing? 
 
 
 3.	Governance, democracy and rule of law
