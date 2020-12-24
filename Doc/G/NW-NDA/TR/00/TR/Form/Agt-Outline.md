@@ -22,6 +22,8 @@ By.0.sec={DateSignature.YMD} tarihinde {_Agreement} akdedilmiştir.
 
 By.secs/2=<table><tr><td valign=top>{P1.TR.Contract.By.Sec}</td><td valign=top>   </td><td valign=top>{P2.TR.Contract.By.Sec}</td></tr></table>
 
+Among.Def.sec=Tek başına "{Def.Party.sec}" ve birlikte "{_Parties}. 
+
 CodersNote=Bölüm Başlıkları
 
 Prime.Ti=Birincil Hükümler
