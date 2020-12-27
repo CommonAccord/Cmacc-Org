@@ -13,3 +13,4 @@ VS Code plug-in:  It would be great to have basic rendering available as a VS Co
 
 
 
+See - What Would an Integrated Development Environment for Law look like?  https://law.mit.edu/pub/whatwouldanintegrateddevelopmentenvironmentforlawlooklike/release/2

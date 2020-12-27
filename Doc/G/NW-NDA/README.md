@@ -2,17 +2,19 @@ README.md
 
 This repo is developed for an online course of mixed computer science and law students.  It takes Non-Disclosure Agreements as a use-case for contracting.  It tests a number of theses:
 
-1. Can NDAs be "codified" globally?
-
-1. Will front-line users of NDAs - corporate counsel, businesses and others - appreciate and adopt codification.
-
-1. Are "Prose Objects" a good way to do this?
-
-1. What are the barriers to easier, better use of "Prose Objects"?  How do they fit into an ecosystem of contracting, governance, Smart Contracts, AI/ML/NLP processing?
+1. Can we organize a law/CS course via git?
 
 1. Is git (and GitHub) as good a platform for legal collaboration as it is for code collaboration?
 
-1. Can we organize a law/CS course via git?
+1. Is VS Code a ready-made interface for legal work? 
+
+1. Are "Prose Objects" an ideal form of legal "source" ?
+
+1. What are the barriers to easier, better use of "Prose Objects"?  How do they fit into an ecosystem of contracting, governance, Smart Contracts, AI/ML/NLP processing?
+
+1. Can NDAs be "codified" globally?
+
+1. Will front-line users of NDAs - corporate counsel, businesses and others - appreciate and adopt codification.
 
 1. Will we ever run out of question marks?
 

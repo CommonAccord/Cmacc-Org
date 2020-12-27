@@ -23,4 +23,23 @@ Open the repo in VS Code.  Try making a change to a file, save it.  Click on the
 Do a pull-request.
 (Need to work through the pull-request cycle - since others will not have authority to directly commit.)
 
+
+BIG STEP UP TECHNICALLY - your own Prose Object webserver. 
+
 **To be able to render your work locally, you will need a local webserver running Cmacc-Org or similar**
+
+Requires - a local webserver app, a running version of PHP and of Perl.  These are sometimes already installed on laptops or need only a bit of configuration.  A quick way forward is to install MAMP, which has all three, and more.  As people do an install, please update this (make a pull-request!) to provide more details.  
+
+A copy of a CommonAccord repo with the cmacc-app software and other framework available.  The canoncical version of that is Cmacc-Org, which comes with everything - tha app, the framework, this NW-NDA, and hundreds of other document solutions, including the /G/TechContracts/ materials, the /G/Z/ widgets for sections, the /G/Agt-Frame-CmA/ for agreement framing, etc.
+
+If you point MAMP at the Cmacc-Org repository, and nest your version of NW-NDA in /Doc/G/, you can then navigate your own materials locally, as you work them, while still using VS Code to edit, move, and do the git collaboration.
+
+If it turns out to be useful, we can create a NW-NDA-Org version that has the framework and only the /G/ materials that are immediately relevant.
+
+
+The above should be focused on what a law student (non-coder) would need to start the course, get an account at GitHub, install VS Code.  Sync.  These are a few videos on GitForLaw connecting David Tollen’s class at Berkeley Law.  https://www.youtube.com/results?search_query=gitforlaw
+
+
+The practice of Prose Objects needs similar (and better) stuff.  
+
+Converting a complex PDF to Prose Object - https://www.youtube.com/video/c-qN9_CJTCA/
