@@ -18,5 +18,6 @@ The thesis is that two aspects of Records are critical to the project
 
 
 
-This does not exclude other formats for Records. A production transacting system will use a database, probably a graph database.  Communications of transactions will often use formats such as JSON or XML.  But see below for the Mirage/OCaml decision to manage everything as git repos.
+This does not exclude other formats for Records. A production transacting system will use a database, probably a graph database.  Communications of transactions will often use formats such as JSON or XML.  But see Databases.md for the Mirage/OCaml decision to skip over the notion of file systems and manage everything as git repos.
+
 

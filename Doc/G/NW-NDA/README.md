@@ -16,7 +16,7 @@ This repo is developed for an online course of mixed computer science and law st
 
 1. Will front-line users of NDAs - corporate counsel, businesses and others - appreciate and adopt codification.
 
-1. Will we ever run out of question marks?
+1. Will we ever run out of questions?
 
 
 The repo is at <a href="https://github.com/CommonAccord/NW-NDA">https://github.com/CommonAccord/NW-NDA</a>
