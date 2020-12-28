@@ -1,8 +1,10 @@
-CodersNote=We reference the deal terms:
+CodersNote=This NDA so far makes very little use of the -TermSheet.  As an example of a way to handle a non-conformed document, we take the prompts for parameters as they were expressed in the original Word document form created by the EU IP Helpdesk.  Ideally, we would rename the prompts into a conforming set of parameter names.  Or we could do that on the fly by reassigning the prompts to conforming names using the style "promt name={Conforming.Name}.  This idea needs to be ground finer.
 
 P1.=[G/U/Who/acme_holland.md]
 
 P2.=[G/U/Who/quake_ie.md]
+
+CodersNote=We reference the deal terms, enabling use to access its parameters for those few places we do:
 
 =[G/NW-NDA/99/Demo/-Termsheet_Acme-Quake.md]
 
@@ -10,7 +12,7 @@ CodersNote=We reference the form of agreement:
 
 =[G/EU-IP-HelpDesk/NDA/Mutual/EN/Orig-v01.md]
 
-CodersNote=As an example of a way to handle a non-conformed document, we take the prompts for parameters as they were expressed in the original Word document form created by the EU IP Helpdesk.  We then map them to our Termsheet where possible.
+CodersNote=Here are the prompts:
 
 insert number of day=27th
 
