@@ -4,21 +4,21 @@ Weeks:
 
 1. Manifesto, Tools
 
-2. Legal in Context, Ontology of Transacting
+2. Legal in Context, Method
 
-3. Dependencies, Semantic Web
+3. Dependencies, Ontology of Transacting
 
-4. Records, JD Printing
+4. Semantic Web, Records
 
-5.
+5. Nested Collaboration, Data Sharing
 
-6.
+6. JD Printing, Contract Automation
 
-7.
+7. NDA
 
-8.
+8. Fractal, AI Overfitting
 
-9.
+9. Why not other tech
 
 10.
 

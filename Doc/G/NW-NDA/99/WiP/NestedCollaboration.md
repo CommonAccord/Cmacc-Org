@@ -2,7 +2,7 @@ Nested Collaboration:
 
 An inter-business negotiation will often involve a tree of conversations:
 
-The two parties will have a channel between them, often two of more channels, led by the lead lawyer for each side, by the lead business persons, by the lead technical persons.  
+The two parties will have a channel between them, often two or more channels, led by the lead lawyer for each side, by the lead business persons, by the lead technical persons.  
 
 Each of the lead persons will often rely on others within their organization or in outside consultancies (e.g. law firms).  
 
