@@ -1,6 +1,6 @@
 CodersNote=To make this NDA, we reference the deal terms:
 
-=[G/NW-NDA/99/Demo/Termsheet_Acme-Quake.md]
+=[G/NW-NDA/99/Demo/-Termsheet_Acme-Quake.md]
 
 CodersNote=We reference the form of agreement:
 

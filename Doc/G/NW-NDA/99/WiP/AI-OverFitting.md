@@ -6,5 +6,5 @@ This fits into a general tension in pattern-recognition between fitting a patter
 
 We are likely to find the same notion scattered about in law. Conforming to every circumstance may result in a washboard road rather than an efficient one, cowpaths. 
 
-Consider whether the French principle that court judgments must always be a single (very long) sentence, in a particular structure, and must reason from the Code (statutes), not other court decisions.  Smoothing. Or the US common law judges' abandonment of the effort to define a standard for negligence more specific than "reasonable."  Or a lawyer's duty of confidentiality.  Going deep puts you deep in the weeds. 
+Consider whether the French principle that court judgments must always be a single (very long) sentence, in a particular structure, reasoning from the Code (statutes) not other court decisions and ending in a decisional verb.  Smoothing.  Or the US common law judges' abandonment of the effort to define a standard for negligence more specific than "reasonable."  Or a lawyer's duty of confidentiality.  Going deep into details puts you deep in the weeds.
 
