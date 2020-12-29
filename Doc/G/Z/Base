@@ -8,6 +8,12 @@ sec={0.sec} {xlist} {00.sec}
 
 Model.Root={Sec}
 
+LI=<li>{Sec}</li>
+
+Li=<li>{Sec}
+
+lI={Sec}</li>
+
 xlist={Olist}
 
 Olist=<ol class="secs"><li>{Secs}</li></ol>
