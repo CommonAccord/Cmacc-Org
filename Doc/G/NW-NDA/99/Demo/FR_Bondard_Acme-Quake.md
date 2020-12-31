@@ -2,9 +2,9 @@ Doc.GUID= NDA Test
 
 EffectiveDate.YMD= 31/12/2020
 
-_P1= société
+_P1= Société
 
-_P2= cliente
+_P2= Cliente
 
 Domaine.le/la= la gestion financière d'entreprises
 
@@ -14,7 +14,7 @@ Collaboration.cl= leur collaboration
 
 Objet.au/à la= aux transactions effectuées
 
-Objet.le= à la réalisation des transactions
+Objet.le=la réalisation des transactions
 
 DateSignature.YMD= 31/12/2020
 
