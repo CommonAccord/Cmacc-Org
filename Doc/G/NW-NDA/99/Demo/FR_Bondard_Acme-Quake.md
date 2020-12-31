@@ -1,22 +1,22 @@
-Doc.GUID=
+Doc.GUID= NDA Test
 
-EffectiveDate.YMD=
+EffectiveDate.YMD= 31/12/2020
 
-_P1=
+_P1= société
 
-_P2=
+_P2= cliente
 
-Domaine.le/la=
+Domaine.le/la= la gestion financière d'entreprises
 
-Création.du/de la=
+Création.du/de la= de transactions bancaires
 
-Collaboration.cl=
+Collaboration.cl= leur collaboration
 
-Objet.au/à la=
+Objet.au/à la= aux transactions effectuées
 
-Objet.le=
+Objet.le= à la réalisation des transactions
 
-DateSignature.YMD=
+DateSignature.YMD= 31/12/2020
 
 P1.=[G/U/Who/acme_sarl.md]
 
