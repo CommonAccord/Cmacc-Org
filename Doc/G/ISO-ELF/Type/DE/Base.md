@@ -6,9 +6,9 @@ ELF.Language.Name=German
 
 ELF.Language.Code=de
 
-FR.Personality.type={Type.Name.Local}
+FR.Personality.type={ELF.Type.Name.Local}
 
-FR.Personality.type.a=ein {Type.Name.Local}
+FR.Personality.type.a=ein {ELF.Type.Name.Local}
 
 ELF.Country.Sub.Name=N/A
 
