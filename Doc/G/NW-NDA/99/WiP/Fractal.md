@@ -25,3 +25,5 @@ This idea connects to Zittrain Generativity.  It could also connect to self-gove
   
 The critical point of this is that the system remain free in both senses (open and costless), and simple in its logic.
 
+There is a reverse principle in play here, which is roughly "HumanAutonomy.md".
+  

@@ -14,7 +14,7 @@ Collaboration.cl=leur collaboration
 
 Objet.au/à la=aux transactions effectuées
 
-Objet.le=la réalisation des transactions
+Objet.le/la=la réalisation des transactions
 
 DateSignature.YMD=31/12/2020
 
