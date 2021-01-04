@@ -20,7 +20,7 @@ Note-Techstars:=[G/Techstars-Equity-CmA/]
 
 France-TermSheet-Galion:=[G/GalionProject-TermSheet-CmA/]
 
-France-SharePurchase-Bondard:=[G/CabinetBondard-CessionPartsSAS-CmA/]
+France-SharePurchase-Bondard:=[G/CabinetBondard/CessionPartsSAS-CmA/]
 
 SeriesA-Lipshaw:=[G/Lipshaw_EVCL_CmA/Demo/]
 

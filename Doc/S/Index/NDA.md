@@ -6,7 +6,7 @@ CooleyInspired: =[G/Agt-NDA-CmA/]
 
 TechContractsAcademy:=[G/TechContractsAcademy-NDA-CmA/Demo/]
 
-French:=[G/CabinetBondard-FR-NDA-CmA/]
+French:=[G/CabinetBondard/FR-NDA-CmA/]
 
 MIT Tech Licensing Office:=[G/Edu-MIT-TLO-CmA/NDA/Form/]
 

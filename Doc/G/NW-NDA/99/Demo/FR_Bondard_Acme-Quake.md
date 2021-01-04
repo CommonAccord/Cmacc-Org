@@ -23,5 +23,5 @@ P1.=[G/U/Who/acme_sarl.md]
 P2.=[G/U/Who/geraldine_graber.md]
 
 
-=[G/CabinetBondard-FR-NDA-CmA/Mutual/0.md]
+=[G/CabinetBondard/FR-NDA-CmA/Mutual/0.md]
 

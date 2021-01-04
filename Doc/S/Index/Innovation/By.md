@@ -22,7 +22,7 @@ YC-SeriesAA.=[G/YCombinator-SeriesAA-CmA/Form/Binder_v01.md]
 
 Galion-TermSheet:=[G/GalionProject-TermSheet-CmA/]
 
-Bondard-SharePurchase:=[G/CabinetBondard-CessionPartsSAS-CmA/]
+Bondard-SharePurchase:=[G/CabinetBondard/CessionPartsSAS-CmA/]
 
 =Greece:
 
