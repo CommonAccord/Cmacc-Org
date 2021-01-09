@@ -8,4 +8,12 @@ NDAs also resemble agreements such as Data Sharing Agreements and Consents to us
 
 Some NDAs in Prose Object format can be found in at /S/Index/NDA.md.
 
+A few models are at /G/NW-NDA/99/Demo/.
+
+
 Are NDAs just a different name for "Consents to Use of Information" ? https://healthcaresecprivacy.blogspot.com/2020/12/actual-consent-is-more-important-than.html?m=1
+
+
+https://www.americanbar.org/groups/construction_industry/publications/under_construction/2019/summer/non-disclosure-agreement/
+
+
