@@ -45,3 +45,7 @@ The practice of Prose Objects needs similar (and better) stuff.
 Converting a complex PDF to Prose Object - https://www.youtube.com/video/c-qN9_CJTCA/
 
 *** If "VS Code does not identify Git in the user's path" : The issue is either that the user has not given VS Code the “permission” to access all the computer’s files (therefore VS Code was not able to find Git), or that the user needs to manually overwrite the “git.path” setting to point to their program files directory (see the many answers at https://stackoverflow.com/questions/26620312/git-installing-git-in-path-with-github-client-for-windows). However, generally, when you install the Github extension to VS Code, there is no problem whatsoever ***
+
+
+@hazardj had a problem pushing to GitHub using a new installation of VSCode on a Mac that required removing the vscode/github certificate from KeyChain and doing it over.  The process was confusing because VSCode seems to have a place where you set the login credentials, but those did not control the credentially with GitHub. Go figure.
+
