@@ -25,3 +25,10 @@ We also need to play with pyramids of collaboration.  Presumably, these can be d
         ..         ..      ..        _____|______
                                      |          | 
         ..         ..      ..       Lawyer2    Lawyer3
+
+
+What's involved in getting VSCode to work with Git Repos:
+
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+Is there a way to see what remote one is working with? Still unclear.

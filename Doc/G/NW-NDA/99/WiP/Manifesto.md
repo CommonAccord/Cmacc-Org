@@ -36,3 +36,8 @@ https://www.theinformation.com/articles/mary-meekers-vc-firm-bond-invests-in-iro
 IDE for Law:
 https://law.mit.edu/pub/whatwouldanintegrateddevelopmentenvironmentforlawlooklike/release/2
 
+
+OpenTrustFabric.org
+
+Common-Legal-Platform:
+https://www.common-legal-platform.org/
