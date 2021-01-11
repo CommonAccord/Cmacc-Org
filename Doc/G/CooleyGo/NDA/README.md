@@ -16,3 +16,5 @@ These NDAs are also the base of the Agt-NDA-CmA solution, which is one of the mo
 5. Then we parameterize the blanks in the document - for party name and date of the agreement.  We also make a form of Demo document with two parties - Acme and Quake.  
 
 6. Then we parameterize the Defined Terms.  Also break out the list of items included as Confidential Information.  And give a few semantic names to items in the document. 
+
+7. Renaming the form to add "Mutual" :  Form_of_Non-Disclosure_Agreement_Mutual_01.md

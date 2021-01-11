@@ -12,7 +12,13 @@ OtherParty.cl=the other party named on the signature page hereto
 
 1.2.sec=trade secrets
 
-1.3.sec=proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents, and formulae related to the current, future, and proposed products and services of each of the {_Parties}, such as information concerning research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, and marketing plans
+1.3.sec={ConfInfo.Item.General.cl}
+
+ConfInfo.Item.General.cl={ConfInfo.Item.General.Scope.cl}, such as {ConfInfo.Item.General.Examples.cl}
+
+ConfInfo.Item.General.Scope.cl=proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents, and formulae related to the current, future, and proposed products and services of each of the {_Parties}
+
+ConfInfo.Item.General.Examples.cl=information concerning research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, and marketing plans
 
 1.4.sec=all other information that the {_Receiving_Party} knew, or reasonably should have known, was the {_Confidential_Information} of the {_Disclosing_Party}
 
@@ -32,7 +38,7 @@ Conf.Access.sec=The {_Receiving_Party} will limit access to the {_Confidential_I
 
 CodersNote=Renaming 3.sec to become 3.0.sec, thereby becoming the intro to the list of 3.x.sec.
 
-Conf.Except.Intro.sec=The {_Receiving_Party} will not have any obligations under this {_Agreement} with respect to a specific portion of the {_Confidential_Information} of the {_Disclosing_Party} if such {_Receiving_Party} can demonstrate with competent evidence that such portion of {_Confidential_Information}:
+Conf.Except.Intro.sec=The {_Receiving_Party} will not have any obligations under this {_Agreement} with respect to a specific portion of the {_Confidential_Information} of the {_Disclosing_Party} if such {_Receiving_Party} can demonstrate with competent evidence that such portion of {_Confidential_Information}
 
 Conf.Except.PublicWas.sec=was in the public domain at the time it was disclosed to the {_Receiving_Party}
 
