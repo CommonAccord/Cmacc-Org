@@ -1,8 +1,8 @@
 US.Contract.Among.ID.sec={US.Contract.Among.ELF.ID.sec}
 
-US.Personality.type.a=a {ELF.Country.Name} {ELF.Type.Name.Local}
+US.Personality.type.a=a {ELF.Country.Sub.Name} {ELF.Type.Name.Local}
 
-US.Personality.type={ELF.Country.Name} {ELF.Type.Name.Local}
+US.Personality.type={ELF.Country.Sub.Name} {ELF.Type.Name.Local}
 
 FR.Contract.Among.ID.sec={FR.Contract.Among.ELF.ID.sec}
 
