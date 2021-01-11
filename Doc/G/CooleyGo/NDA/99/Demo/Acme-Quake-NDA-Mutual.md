@@ -4,7 +4,7 @@ P1.=[G/U/Who/acme_incorporated.md]
 
 P2.=[G/U/Who/quake_incorporated.md]
 
-=[G/CooleyGo/NDA/99/Original/Form_of_Non-Disclosure_Agreement_01.md]
+=[G/CooleyGo/NDA/99/Original/Form_of_Non-Disclosure_Agreement_Mutual_01.md]
 
 CodersNote=We then run the "Open Parameters" view at the website and fill in the blanks.
 
