@@ -6,13 +6,13 @@
 =[G/Agt-NDA-CmA/Form/P1-to-P2/0.md]  
 
 
-/Purpose.cl=discuss a possible investment by {_P2} in {_P1}
-
-/EffectiveDate.YMD=2016-07-09
-
 Relate.Conf.Life.End.YMD=2018-12-31
 
-Relate.Conf.Engage.Access.sec={Relate.Conf.Engage.Access.HumanSolely.sec}
+Relate.Conf.Engage.Access.sec={Relate.Conf.Engage.Access.Entity.sec}
+
+Relate.Conf.Engage.Access.Role.sec={Relate.Conf.Engage.Access.Role.EmpsAndReps.cl}
+
+Relate.Conf.Engage.Access.Cond.sec={Relate.Conf.Engage.Access.Cond.Alt2.sec}
 
 Relate.Conf.Life.sec={Relate.Conf.Life.TimeLimit-FixedDate.sec}
 
