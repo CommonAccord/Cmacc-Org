@@ -4,7 +4,7 @@ P1.=[G/U/Who/acme_incorporated.md]
 
 P2.=[G/U/Who/quake_incorporated.md]
 
-=[G/CooleyGo/NDA/99/Original/Form_of_Non-Disclosure_Agreement_Mutual_01.md]
+=[G/CooleyGo/NDA/Form/US/0.md]
 
 CodersNote=We then run the "Open Parameters" view at the website and fill in the blanks.
 
@@ -15,5 +15,9 @@ _P2=Quake
 Doc.GUID=Acme-Quake-Agt001-v01
 
 EffectiveDate.YMD=2021-01-10
+
+Mutual/OneWay=Mutual
+
+Intro.1.sec={Intro.1.Mutual.sec}
 
 Why.sec=As a demonstration of how we can do NDAs more quickly.

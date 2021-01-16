@@ -6,7 +6,7 @@ The basic editing is fine, excellent.
 
 The basic file navigation is also fine, excellent. 
 
-I write this in one pane on the right and have a list of all the other file in the left bar.  All the other files I've opened are along the top. 
+I write this in one pane on the right and have a list of all the other files in the left bar.  All the other files I've opened are along the top. 
 
 One thing I can't find is a "back" button.  For example, I've done some editing, think of something that needs to be done to another file, finish that then want to resume with the prior bit of work. 
 
