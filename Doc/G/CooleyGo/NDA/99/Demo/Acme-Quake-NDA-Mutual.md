@@ -21,3 +21,15 @@ Mutual/OneWay=Mutual
 Intro.1.sec={Intro.1.Mutual.sec}
 
 Why.sec=As a demonstration of how we can do NDAs more quickly.
+
+CodersNote=These parameters relate to the sections introduced by the Singapore version.
+
+PersonalDataLaws.cl=personal data laws of the USA and California
+
+PersonalData.Jurisdiction.cl={Law.Nation.the}
+
+ExportControl.Law.Nation=U.S.
+
+Law.Nation.the=the United States of America
+
+Dispute.sec={Dispute.Singapore.sec}

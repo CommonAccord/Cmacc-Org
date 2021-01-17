@@ -8,7 +8,7 @@
 
 Item.General.cl={Item.General.Scope.cl} of each of the {_Parties}, including without limitation {Item.General.Examples.cl}
 
-Item.General.Scope.cl=proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents, and formulae related to the current, future, and proposed products and services
+Item.General.Scope.cl=proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents, data sets (whether or not containing personal data) and formulae related to the current, future, and proposed products and services
 
 Item.General.Examples.cl=information concerning research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, {Item.General.Examples.And.cl}
 
