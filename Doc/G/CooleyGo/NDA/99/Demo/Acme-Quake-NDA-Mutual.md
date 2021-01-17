@@ -4,7 +4,7 @@ P1.=[G/U/Who/acme_incorporated.md]
 
 P2.=[G/U/Who/quake_incorporated.md]
 
-=[G/CooleyGo/NDA/Form/US/0.md]
+=[G/CooleyGo/NDA/US/Form/0.md]
 
 CodersNote=We then run the "Open Parameters" view at the website and fill in the blanks.
 

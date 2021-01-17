@@ -1,0 +1,3 @@
+sec=Subject to Section {3.Xnum}, the {_Receiving_Party} agrees that at all times and notwithstanding any termination or expiration of this {_Agreement} it will hold in strict confidence and not disclose to any third party any {_Confidential_Information} of the {_Disclosing_Party}, except as approved in writing by the {_Disclosing_Party}, and will use the {_Confidential_Information} of the {_Disclosing_Party} for no purpose other than the {_Permitted_Use}.
+
+=[G/Z/Base]
