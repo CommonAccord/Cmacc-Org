@@ -18,7 +18,7 @@ Relate.Conf.Life.sec={Relate.Conf.Life.TimeLimit-FixedDate.sec}
 
 Relate.Conf.Life.End.YMD=2019-12-31
 
-Relate.Life.Term.End.YMD=2017-12-31
+Relate.Life.Term.End.YMD=2020-01-19
 
 Relate.Life.Terminate.TimeSpan=30 days
 

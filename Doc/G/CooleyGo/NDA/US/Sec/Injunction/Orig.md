@@ -1,3 +1,7 @@
 sec=Each {_Party} agrees that its breach of this {_Agreement} may cause irreparable damage to the other {_Party} for which recovery of damages would be inadequate, and that the other {_Party} will be entitled to obtain timely injunctive relief under this {_Agreement}, as well as such further relief as may be granted by a court of competent jurisdiction.
 
 =[G/Z/Base]
+
+UK.sec=The {_Receiving_Party} acknowledges that damages alone would not be an adequate remedy for the breach of any of the provisions of this {_Agreement}.  Accordingly, without prejudice to any other rights and remedies it may have, the {_Disclosing_Party} shall be entitled to the granting of equitable relief (including without limitation injunctive relief) concerning any threatened or actual breach of any of the provisions of this {_Agreement}. 
+
+UK.Indemnify.sec=Furthermore, the {_Receiving_Party} shall indemnify and keep fully indemnified the {_Disclosing_Party} at all times against all liabilities, costs (including legal costs on an indemnity basis), expenses, damages and losses (including any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and other reasonable costs and expenses suffered or incurred by the {_Disclosing_Party} arising from any breach of this {_Agreement} by the {_Receiving_Party} and from the actions or omissions of any representative of the {_Receiving_Party}.

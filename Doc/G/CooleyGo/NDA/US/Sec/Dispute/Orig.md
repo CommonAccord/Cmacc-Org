@@ -5,3 +5,9 @@ Forum.sec=Any disputes under this {_Agreement} may be brought in the state court
 sec={Law.sec}  {Forum.sec}
 
 =[G/Z/Base]
+
+UK.sec={UK.Law.Cl} and {UK.Forum.cl}
+
+UK.Law.Cl=This {_Agreement} shall be governed by and construed in accordance with English Law
+
+UK.Forum.cl=the {_Parties} irrevocably submit to the exclusive jurisdiction of the courts of England and Wales in respect of any claim, dispute or difference arising out of or in connection with this {_Agreement}.
