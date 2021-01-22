@@ -1,11 +1,11 @@
 Why Not Other Tech:
 
-Alternative Technology Paths. Most of these will be found to be complementary. Some will become supplanted by a 
+Alternative Technology Paths. Most of these will be found to be complementary.  
 
-Document Assembly.
+    Document Assembly.
 
-Rules as Code.
+    Rules as Code.
 
-NLP text crunching.
+    NLP text crunching.
 
-Word and CRM.
+    Word and CRM.

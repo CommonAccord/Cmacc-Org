@@ -14,8 +14,8 @@ The thesis is that two aspects of Records are critical to the project
 
         3. Git - the best system of collaboration - is file-oriented.
         
-    3.  We think that key=values should not be "typed" (in the data sense) in the Record. "Typing" can be done in validation or interface, and the rules for "typing" can be expressed in referenced objects, but it should be OK for a user to type (in the keyboard sense) YMD=December 17, 2020 even if YMD=2020-12-17 is the preferred format.  The system can propose the correction - or make it.  Or leave it uncorrected, surely pattern-recognition can make sense of the variations.  (There is a deeper design issue here.)
 
+We think that key=values should not be "typed" (in the data sense) in the Record. "Typing" can be done in validation or interface, and the rules for "typing" can be expressed in referenced objects, but it should be OK for a user to type (in the keyboard sense) YMD=December 17, 2020 even if YMD=2020-12-17 is the preferred format.  The system can propose the correction - or make it.  Or leave it uncorrected, surely pattern-recognition can make sense of the variations.  (There is a deeper design issue here.)
 
 
 This does not exclude other formats for Records. A production transacting system will use a database, probably a graph database.  Communications of transactions will often use formats such as JSON or XML.  But see Databases.md for the Mirage/OCaml decision to skip over the notion of file systems and manage everything as git repos.
