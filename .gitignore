@@ -5,4 +5,6 @@ D
 .gitattributes
 
 *.docx
+*.pdf
+vendor
 
