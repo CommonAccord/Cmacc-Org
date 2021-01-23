@@ -2,7 +2,7 @@ Doc.Ti=Independent Contractor Agreement
 
 CodersNote=Because some sections of this Contractor Agreement are the same as sections of the Employment Agreement, we will reference those Employment Agreement sections and delete the corresponding text here.  This assures uniformity and focuses improvements.  Many other sections have only minor variations, and could be harmonized and then "refactored."  
 
-This.sec=This Independent Contractor Agreement (the “Agreement”) is made as of [] by and between the following contracting parties (each a “Party” and together the “Parties”):
+This.sec=This Independent Contractor Agreement (the “Agreement”) is made as of {EffectiveDate.YMD} by and between the following contracting parties (each a “Party” and together the “Parties”):
 
 /UseAgtFrame=A)[], a [] company incorporated and operating under the laws of Greece, with General Commercial Register nr. [], registered offices at [], Greece, and Tax Identification Number [], being herein duly represented by Mr. [], [] (hereinafter referred to as the “Company”) and
 
@@ -59,11 +59,14 @@ LawNote=Optional
 
 3.1.sec=As consideration for the Services to be provided by Contractor, the Company will compensate Contractor as described in Schedule 2 hereof.
 
-3.2.sec=The Company will pay Contractor the Contractor’s [annual] compensation in monthly installments of €[].
+3.2.sec=The Company will pay Contractor the Contractor’s {Comp.Period.annual/monthly} compensation in monthly installments of {Comp.Monthly.$}.
+
 
 3.3.sec=Compensation for Contractor’s Services shall be conditioned on the actual performance by Contractor of the Services and the Company’s receipt and approval of accurate and detailed monthly invoices, including records of time Services performed, from Contractor. Contractor shall issue and submit to the Company such monthly invoices for all Services performed by Contractor during the applicable month within the first five (5) calendar days of the following month.
 
-3.4.sec=The Company shall pay Contractor’s invoices within [] ([]) days from receipt.
+3.4.sec=The Company shall pay Contractor’s invoices within {Invoice.Pay.Within.cl}.
+
+Invoice.Pay.Within.cl={__} days from receipt
 
 3.5.sec=The Company shall reimburse (or procure the reimbursement of) all reasonable actual out-of-pocket business costs and expenses (including travel and accommodation expenses) wholly, properly and necessarily incurred by Contractor in connection with the performance of Contractor’s duties and obligations provided for in this Agreement. Reimbursement will be paid upon prompt presentation of VAT invoices/receipts and such other appropriate evidence of payment and supporting information as the Company may from time to time require in accordance with the Company’s customary policies and procedures to which Contractor shall abide, as such policies will be communicated to Contractor from time to time. The Company reserves the right to change such policies and procedures on a prospective basis, at any time, effective upon reasonable notice to Contractor.
 
@@ -153,7 +156,7 @@ LawNote=Optional
 
 9.1.1.sec=This Agreement may be terminated by either Party immediately upon written notice to the other Party for important cause, including, without limitation, upon breach by the other Party of any material term or condition of this Agreement and, where such breach is remediable, such breach having remained uncorrected for fifteen (15) days following receipt of written notice of such breach.
 
-9.1.2.sec=Each Party may terminate this Agreement at any time, without cause, upon [] ([]) days’ prior notification to the other Party.
+9.1.2.sec=Each Party may terminate this Agreement at any time, without cause, upon {Agt.Life.Stop.NoticePeriod.days}’ prior notification to the other Party.
 
 9.1.=[G/Z/ol/s2]
 
