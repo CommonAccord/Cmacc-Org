@@ -4,10 +4,6 @@ EffectiveDate.YMD=2019-01-28
 
 Doc.GUID=Acme-Quake-0001-001
 
-_P1=Acme
-
-_P2=Quake
-
 Comp.Period.annual/monthly=monthly
 
 Comp.Monthly.$=3,000.00 Euros
