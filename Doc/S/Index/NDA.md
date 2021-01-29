@@ -1,6 +1,6 @@
 NW-NDA.=[G/NW-NDA/]
 
-WorldCC-Design.=[G/WorldCC-NDA-Design/]
+WorldCC-Design.=[OTF/WorldCC/-NDA-Design/]
 
 CooleyInspired: =[G/Agt-NDA-CmA/]
 

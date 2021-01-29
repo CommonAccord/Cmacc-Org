@@ -12,7 +12,7 @@ Capital.All.#=$2,250,000
 
 FR.Capital.All=Deux million deux cents cinquante milles dollars US
 
-=[G/ISO-ELF/Type/US/DE/XTIQ.md]
+=[OTF/ISO-ELF/Type/US/DE/XTIQ.md]
 
 Adr.=[G/U/Place/US/MA/Middlesex/Cambridge/Broadway/55/Geo]  ????
 

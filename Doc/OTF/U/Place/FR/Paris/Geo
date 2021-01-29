@@ -1,0 +1,9 @@
+=[OTF/U/Place/FR/Geo]
+
+Ville=Paris
+
+City={Ville}
+
+County={Departement}
+
+Departement=Ile de France		

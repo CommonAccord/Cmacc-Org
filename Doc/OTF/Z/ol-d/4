@@ -1,0 +1,11 @@
+=[OTF/Z/ol-d/Base]
+
+Secs={1.Image}{1.Sec}</li><li>{2.Image}{2.Sec}</li><li>{3.Image}{3.Sec}</li><li>{4.Image}{4.Sec}
+
+secs={1.image}{1.sec}</li><li>{2.image}{2.sec}</li><li>{3.image}{3.sec}</li><li>{4.image}{4.sec}
+
+secs;and={1.image}{1.sec};<li>{2.image}{2.sec};<li>{3.image}{3.sec}; and<li>{4.image}{4.sec}.
+
+secs;or={1.image}{1.sec};<li>{2.image}{2.sec};<li>{3.image}{3.sec}; or<li>{4.image}{4.sec}.
+
+sens={1.image}{1.sec} {2.image}{2.sec} {3.image}{3.sec} {4.image}{4.sec}

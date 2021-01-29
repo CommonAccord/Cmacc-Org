@@ -1,0 +1,128 @@
+body { 
+    background-color: #ffffff;
+    padding: 10px 10px 10px 10px;
+    margin: 40px 40px 40px 40px;
+}
+
+.paras {
+    padding: 10px 0px 0px 0px;
+    line-height: 1.5em;
+}
+
+.paras li {
+padding: 0px 0px 0px 0px;
+}
+
+span :hover { 
+    background-color: #f0f0ff;
+}
+
+.sec-ti {
+	color: #0F0F8F;
+        font-weight: bold;
+}
+
+ol .sec-ti {
+        font-size: 28px;
+}
+
+ol ol .sec-ti {
+        font-size: 24px;
+}
+
+ol ol ol .sec-ti {
+        font-size: 20px;
+}
+
+.token {
+	color: maroon ;
+        text-decoration: none;
+}  
+
+.person {
+	color: #4B2503 ;
+        text-decoration: none;
+        font-style: italic;
+}  
+
+.definedterm {
+	color: green ;
+        text-decoration: none;
+}  
+
+.secs {
+	color: olive ;
+	outline: 2px dotted olive;
+        background-color: #fff0ff;
+	margin: 10px 10px 10px 10px;
+}
+
+
+span {
+  line-height: 32px;   /* within paragraph */
+  margin-bottom: 30px; /* between paragraphs */
+}
+
+
+span img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  height: 40px;
+  width: 40px;
+}
+.secs-and {
+	color: olive ;
+	outline: 2px dotted olive;
+        background-color: #aaf0ff;
+	margin: 10px 10px 10px 10px;
+}
+
+.secs-and li{
+  margin: 20px 0px;
+}
+
+.secs-or {
+	color: teal ;
+	outline: 2px dashed teal;
+        background-color: #f0f0aa;
+	margin: 10px 10px 10px 10px;
+
+}
+
+.secs-or li{
+  margin: 20px 0px;
+}
+
+.xref {
+	color: blue ;
+        text-decoration: none;
+
+}  
+
+.dealpoint {
+	color: #008800;
+        text-transform : underline;
+        font-weight: bold;
+}
+
+.jurisdiction {
+	color: #5500AA ;
+       
+}
+
+.missing {
+	color: red ;
+       
+}
+
+.warning {
+	color: #8F0000;
+        text-transform : uppercase;
+        font-weight: bold;
+}
+
+.highlight {
+	color: #5500AA ;
+        font-weight: bold;
+}

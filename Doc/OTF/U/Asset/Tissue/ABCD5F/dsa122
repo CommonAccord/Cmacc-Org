@@ -1,0 +1,9 @@
+GUID=12345654321
+
+Description=blood sample
+
+Date=September 2, 2014
+
+Donor.=[U/id/solomon_shirley]
+
+Clinician.=[U/id/quentin_quade]

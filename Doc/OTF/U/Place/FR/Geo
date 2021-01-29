@@ -1,0 +1,15 @@
+FR=FR
+
+Pays=France
+
+UK=FR
+
+Nation=France
+
+This is pretty tangled:
+
+Model.Root={Geo.?}<br><br>{US.Geo.?}
+
+=[OTF/U/class/Geo_EU]
+
+US.=[OTF/U/class/Geo_USA]

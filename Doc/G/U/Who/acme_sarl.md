@@ -48,4 +48,4 @@ Signer.Title=Gérant
 
 Signer.=[G/U/Who/abigail_altima.md]
 
-=[G/ISO-ELF/Type/FR/6CHY.md]
+=[OTF/ISO-ELF/Type/FR/6CHY.md]

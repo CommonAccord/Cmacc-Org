@@ -1,0 +1,11 @@
+Model.Root={Sec}
+
+LI=<li>{Sec}</li>
+
+Li=<li>{Sec}
+
+lI={Sec}</li>
+
+Sec=<b>{Ti}</b><br>{sec}
+
+sec=<i>sec</i>

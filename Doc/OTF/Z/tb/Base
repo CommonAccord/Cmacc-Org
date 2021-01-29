@@ -1,0 +1,15 @@
+Model.Root={Sec}
+
+Sec=<b>{Ti}</b><br>{sec}
+
+sec={Intro.sec}{table}
+ 
+table=<table border=1>{0.Sec}{secs}{00.Sec}</table>
+
+0.Sec=<tr><th>{0.sec}</th></tr>
+
+Ti=</i>
+
+Intro.sec=</i>
+
+00.Sec=<tr><th>{00.sec}</th></tr>

@@ -1,4 +1,4 @@
-=[G/ISO-ELF/Type/IE/MNQ7.md]
+=[OTF/ISO-ELF/Type/IE/MNQ7.md]
 
 Name.Given=Acme IE
 

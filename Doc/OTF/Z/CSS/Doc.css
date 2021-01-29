@@ -1,0 +1,84 @@
+body { 
+    background-color: #ffffff;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.paras {
+padding: 10px 0px 0px 0px;
+}
+
+.paras li {
+padding: 0px 0px 0px 0px;
+}
+
+span { 
+    background-color: #ffffff;
+}
+
+span :hover { 
+    background-color: #ffffff;
+}
+
+.sec-ti {
+	color: #0F0F8F;
+            font-weight: bold;
+
+}  
+
+
+.warning {
+	color: #8F0000;
+        text-transform : uppercase;
+        font-weight: bold;
+
+}
+
+.token {
+	color: maroon ;
+        text-decoration: none;
+}  
+
+.person {
+	color: #4B2503 ;
+        text-decoration: none;
+        font-style: italic;
+}  
+
+.definedterm {
+	color: #004400 ;
+        text-decoration: none;
+}  
+
+.definedinitalic {
+	color: #004400 ;
+        text-decoration: none;
+	font-weight: 550 ;
+        font-style: italic;
+}  
+
+.param {
+	color: grey ;
+        font-weight: bold;
+}  
+
+.highlight {
+}  
+
+.xref {
+	color: darkblue ;
+        text-decoration: none;
+	font-weight: 550 ;
+
+}  
+
+
+.jurisdiction {
+	color: #5500AA ;
+       
+}
+
+.missing {
+	color: red ;
+       
+}
