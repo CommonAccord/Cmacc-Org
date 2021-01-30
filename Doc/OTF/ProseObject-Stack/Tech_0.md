@@ -14,8 +14,8 @@ Ti=Tech Stack:
    
 6.sec=CRUD, Share
 
-7.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Cmacc_0.md">Cmacc</a>
+7.sec=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/Cmacc_0.md">Cmacc</a>
 
-00.sec=</center><br><a href="index.php?action=doc&file=S/About/Conference/Stack/Legal/Documents_0.md">Legal Documents</a>
+00.sec=</center><br><a href="index.php?action=doc&file=OTF/ProseObject-Stack/Legal/Documents_0.md">Legal Documents</a>
 
 =[G/Z/paras/s7]

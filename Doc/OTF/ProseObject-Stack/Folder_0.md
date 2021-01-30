@@ -14,7 +14,7 @@ Ti=Folders
 
 2.1.sec=Organized by names of parties?
 
-2.2.=[S/About/Conference/Stack/Legal/Sources_0.md]
+2.2.=[OTF/ProseObject-Stack/Legal/Sources_0.md]
 
 2.3.Ti=Identities
  
@@ -56,5 +56,5 @@ Ti=Folders
 
 2.=[G/Z/ol/5]  
 
-00.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD - Operations on Files</a>
+00.sec=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/CRUD_0.md">CRUD - Operations on Files</a>
 =[G/Z/ol/2]

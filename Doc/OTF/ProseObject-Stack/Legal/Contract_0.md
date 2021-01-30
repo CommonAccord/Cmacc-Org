@@ -2,7 +2,7 @@ Ti=Contract
 
 1.Ti=General
 
-1.0.sec=A contract (in the legal sense) extends the notion of a <a href="index.php?action=doc&file=S/About/Conference/Stack/Legal/Record_0.md">Record</a>.
+1.0.sec=A contract (in the legal sense) extends the notion of a <a href="index.php?action=doc&file=OTF/ProseObject-Stack/Legal/Record_0.md">Record</a>.
 
 1.1.sec=The statements are often of the nature of price, quantities, dates, specific arrangements, etc.
 

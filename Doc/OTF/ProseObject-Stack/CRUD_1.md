@@ -1,4 +1,4 @@
-Ti=<a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD</a>
+Ti=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/CRUD_0.md">CRUD</a>
 
 0.sec=This lists a few operations on Cmacc Files.  This is only a start, and may be incorrect, but the idea will be apparent.  If there are a few canonical operations, then they can interoperate well, even when implemented in different applications and via decentralized access.
   
@@ -26,6 +26,6 @@ Ti=<a href="index.php?action=doc&file=S/About/Conference/Stack/CRUD_0.md">CRUD</
 
 6.sec=Perhaps "access" is an aspect of each of the CRUD operations.
 
-00.sec=<a href="index.php?action=doc&file=S/About/Conference/Stack/Access_0.md">Access</a>.
+00.sec=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/Access_0.md">Access</a>.
   
 =[G/Z/ol/6]
