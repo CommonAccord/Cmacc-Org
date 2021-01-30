@@ -1,8 +1,8 @@
 Ti=Preserving the Privacy of Data Subjects
 
-GDPR:=[G/EU-GDPR-Law-CmA/]
+GDPR:=[OTF/EU-GDPR-Law-CmA/]
 
-GDPR.Article5.=[G/EU-GDPR-Law-CmA/Sec/Article/5.md]
+GDPR.Article5.=[OTF/EU-GDPR-Law-CmA/Sec/Article/5.md]
 
 UNESCO-UDBHR.=[G/Org-UNESCO/Universal_Declaration_on_Bioethics_and_Human_Rights/Sec/Principle/Confidentiality/0.md]
 

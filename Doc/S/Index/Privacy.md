@@ -2,7 +2,7 @@ Ti=Privacy
 
 EU_ModelClauses_in_five_languages:=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/]
 
-EU_GDPR:=[G/EU-GDPR-Law-CmA/]
+EU_GDPR:=[OTF/EU-GDPR-Law-CmA/]
   
 IntraGroup.=[G/Intra-Group-Data-Transfer-Agt/Demo/] /// Highly structured - demonstrating federation, meant to be GDPR-compliant
 
