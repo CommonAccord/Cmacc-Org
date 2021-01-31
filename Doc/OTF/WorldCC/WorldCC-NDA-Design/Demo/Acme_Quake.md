@@ -14,7 +14,7 @@ P1.=[OTF/U/Who/acme_ie.md]
 
 P2.=[OTF/U/Who/barbara_oreilly.md]
 
-=[OTF/WorldCC//WorldCC-NDA-Design/Form/0.md]
+=[OTF/WorldCC/WorldCC-NDA-Design/Form/0.md]
 
 _P1=<a href="#_P1" class="definedterm">Big Corp</a>
 

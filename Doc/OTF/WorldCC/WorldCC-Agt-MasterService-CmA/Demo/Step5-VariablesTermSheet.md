@@ -46,4 +46,4 @@ sec=<b>We include only the "Variables Section"</b><br>{Variable.Sec}<br>The {_MS
 
 /=The form of agreement:
 
-=[OTF/WorldCC//WorldCC-Agt-MasterService-CmA/Form/-VariablesFirst/0.md]
+=[OTF/WorldCC/WorldCC-Agt-MasterService-CmA/Form/-VariablesFirst/0.md]

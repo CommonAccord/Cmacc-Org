@@ -10,6 +10,6 @@ WarrantyPeriod=one year
 
 NameOfPrincipalDeveloperOrDevelopers=Norbert Wiener and Seymour Papert
 
-=[OTF/WorldCC//WorldCC-9520-SoftwareDevelopmentAgt-CmA/Sec/0.md]  
+=[OTF/WorldCC/WorldCC-9520-SoftwareDevelopmentAgt-CmA/Sec/0.md]  
 
 =[G/Agt-MasterService-CmA/Demo/Acme-Quake/Agreement.md]

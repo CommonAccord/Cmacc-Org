@@ -2,17 +2,17 @@ Note=A presentation of a number of the <i>section</i> organization of the DSA Ou
 
 Ti=Presentation of top-level sections for a number of Data Sharing Agreements
 
-CiscoTrustPrinciples.=[OTF/WorldCC//WorldCC-DataSharing/Outline/Cisco-Trust-Principles.md]
+CiscoTrustPrinciples.=[OTF/WorldCC/WorldCC-DataSharing/Outline/Cisco-Trust-Principles.md]
 
-CAVDOrg.=[OTF/WorldCC//WorldCC-DataSharing/Outline/CAVDOrg.md]
+CAVDOrg.=[OTF/WorldCC/WorldCC-DataSharing/Outline/CAVDOrg.md]
 
-ChathamHouseOrg.=[OTF/WorldCC//WorldCC-DataSharing/Outline/ChathamHouseOrg.md]
+ChathamHouseOrg.=[OTF/WorldCC/WorldCC-DataSharing/Outline/ChathamHouseOrg.md]
 
-IntraGroup.=[OTF/WorldCC//WorldCC-DataSharing/Outline/IntraGroup.md]
+IntraGroup.=[OTF/WorldCC/WorldCC-DataSharing/Outline/IntraGroup.md]
 
-SLDavid.=[OTF/WorldCC//WorldCC-DataSharing/Outline/SLDavid.md]
+SLDavid.=[OTF/WorldCC/WorldCC-DataSharing/Outline/SLDavid.md]
 
-YCombinator-SaaS.=[OTF/WorldCC//WorldCC-DataSharing/Outline/YCombinator-SaaS.md]
+YCombinator-SaaS.=[OTF/WorldCC/WorldCC-DataSharing/Outline/YCombinator-SaaS.md]
 
 sec=<ol><li><b>Cisco Trust Principles</b><br>{CiscoTrustPrinciples.xlist}<li><b>{CAVDOrg.Ti}</b>{CAVDOrg.sec}<li><b>{ChathamHouseOrg.Ti}</b>{ChathamHouseOrg.sec}<li><b>{IntraGroup.Ti}</b>{IntraGroup.sec}<li><b>{SLDavid.Ti}</b>{SLDavid.sec}<li><b>{YCombinator-SaaS.Ti}</b>{YCombinator-SaaS.sec}</ol>
 

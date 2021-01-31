@@ -2,13 +2,13 @@ Doc.Ti=Dublin Food Industry Common Terms (version 0.1)
 
 MSA.Annex.Comment.sec=This {_Annex} reconfigures a model Master Service Agreement for the purposes of the Dublin food industry.  In order to maintain numbering consistency, where a provision is removed, we keep the section stub and numbering.  (Editors Note:  Do mouse hover-over to see the section names that have been deleted.  It is also possible to fully remove sections and renumber.) Customized provisions are marked in <i>italics</i>.
 
-Order.=[OTF/WorldCC//WorldCC-Dublin-Present-CmA/Form/FoodOrder-PO.md]
+Order.=[OTF/WorldCC/WorldCC-Dublin-Present-CmA/Form/FoodOrder-PO.md]
 
-MSA.=[OTF/WorldCC//WorldCC-Dublin-Present-CmA/Form/FoodOrder-Agreement.md]
+MSA.=[OTF/WorldCC/WorldCC-Dublin-Present-CmA/Form/FoodOrder-Agreement.md]
 
-MSA.Annex.=[OTF/WorldCC//WorldCC-Dublin-Present-CmA/Form/MasterSupply-Annex.md]
+MSA.Annex.=[OTF/WorldCC/WorldCC-Dublin-Present-CmA/Form/MasterSupply-Annex.md]
 
-_=[OTF/WorldCC//WorldCC-Dublin-Present-CmA/Sec/_/MSA_Annex/0.md]
+_=[OTF/WorldCC/WorldCC-Dublin-Present-CmA/Sec/_/MSA_Annex/0.md]
 
 Payment.DueAfter.Days={Payment Due Within}
 

@@ -18,7 +18,7 @@ Weeks:
 
 8. Fractal, AI Overfitting
 
-9. Why not other tech
+9. Why not other tech?
 
 10.
 

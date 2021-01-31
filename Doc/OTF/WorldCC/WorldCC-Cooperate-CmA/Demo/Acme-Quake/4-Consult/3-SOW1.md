@@ -24,6 +24,6 @@ P2.xSignature=xSolomon Shirley
 
 P2.Sign.YMD=2017-05-26
 
-SoW.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Form/Annex/SoW/0.md]
+SoW.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Form/Annex/SoW/0.md]
 
-=[OTF/WorldCC//WorldCC-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]
+=[OTF/WorldCC/WorldCC-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]

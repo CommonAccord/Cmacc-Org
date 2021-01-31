@@ -22,14 +22,14 @@ Life.Term.End.YMD=2017-12-31
 
 Life.Terminate.TimeSpan=30 days
 
-Conf.Engage.Access.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Conf/Engage/Access/-HumanSolely/0.md]
+Conf.Engage.Access.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Conf/Engage/Access/-HumanSolely/0.md]
 
-Conf.Life.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Conf/Life/-TimeLimit-FixedDate/0.md]
+Conf.Life.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Conf/Life/-TimeLimit-FixedDate/0.md]
 
-Assign.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Assign/-P2Ban/0.md]
+Assign.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Assign/-P2Ban/0.md]
 
-Cost.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
+Cost.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
 
-Tribunal.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
+Tribunal.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
 
-=[OTF/WorldCC//WorldCC-Cooperate-CmA/Form/-NDA/-P1-to-P2/0.md]
+=[OTF/WorldCC/WorldCC-Cooperate-CmA/Form/-NDA/-P1-to-P2/0.md]

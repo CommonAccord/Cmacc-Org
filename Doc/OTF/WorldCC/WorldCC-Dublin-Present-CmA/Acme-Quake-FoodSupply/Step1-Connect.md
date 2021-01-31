@@ -10,4 +10,4 @@ _P2=<a href="#MSA.Annex.Def.Supplier.Sec" style="color:orange">Quake</a>
 
 Adr.State=</i>
 
-=[OTF/WorldCC//WorldCC-Dublin-Present-CmA/Form/Dublin-MasterSupply-CommonForms.md]
+=[OTF/WorldCC/WorldCC-Dublin-Present-CmA/Form/Dublin-MasterSupply-CommonForms.md]

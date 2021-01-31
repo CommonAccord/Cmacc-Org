@@ -14,12 +14,12 @@ Doc.GUID=Acme-Quake-D0001
 
 Law.=[OTF/U/Place/US/MA/Suffolk/Boston/Geo]
 
-Assign.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Assign/-MutualBan/-ExceptMerger/0.md]
+Assign.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Assign/-MutualBan/-ExceptMerger/0.md]
 
-Cost.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
+Cost.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Dispute/Cost/-LoserBearAll/0.md]
 
-Tribunal.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
+Tribunal.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Dispute/Tribunal/-USCourt/0.md]
 
-Conf.Engage.Access.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Conf/Engage/Access/-Entity/-EmployeeAndRep/-NeedToKnow/-Sign/0.md]
+Conf.Engage.Access.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Conf/Engage/Access/-Entity/-EmployeeAndRep/-NeedToKnow/-Sign/0.md]
 
-Conf.Life.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Sec/Relate/Conf/Life/-TimeLimit-FixedDate/0.md]
+Conf.Life.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Sec/Relate/Conf/Life/-TimeLimit-FixedDate/0.md]

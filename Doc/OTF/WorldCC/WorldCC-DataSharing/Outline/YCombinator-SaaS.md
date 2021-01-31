@@ -23,4 +23,4 @@ Misc.sec=<ol class="secs-and"><li>{Sever.Sec}<li>{Entire.Sec}</ol>
 
 Misc.=[OTF/Z/ol/Base]  
 
-=[OTF/WorldCC//WorldCC-Agt-Frame/EN/0.md]
+=[OTF/WorldCC/WorldCC-Agt-Frame/EN/0.md]

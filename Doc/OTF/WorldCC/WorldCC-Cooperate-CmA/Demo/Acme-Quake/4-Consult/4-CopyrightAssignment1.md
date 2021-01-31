@@ -20,10 +20,10 @@ P2.Sign.YMD=2017-05-26
 
 //=Form of assignment:
 
-Copyright.=[OTF/WorldCC//WorldCC-Cooperate-CmA/Form/Annex/CopyrightAssignment/0.md]
+Copyright.=[OTF/WorldCC/WorldCC-Cooperate-CmA/Form/Annex/CopyrightAssignment/0.md]
 
 Model.Root={Copyright.Sec}
 
 //=Master contract:
 
-=[OTF/WorldCC//WorldCC-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]
+=[OTF/WorldCC/WorldCC-Cooperate-CmA/Demo/Acme-Quake/4-Consult/2-Sign.md]

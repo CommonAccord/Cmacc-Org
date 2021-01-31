@@ -6,4 +6,4 @@ sec=<ol class="secs-and"><li>{Def.Sec}<li>{DataDescription.Sec}<li>{Controller2C
 
 Annex.Div=<hr><h1>Schedules</h1><hr><h2>Schedule A</h2><br>{Annex.GroupInitialMembers.Doc}<hr><h2>Schedule B</h2><br>{Annex.ParticipationAgreement.Doc}<hr><h2>Schedule C</h2><br>{Annex.ControllerControllerAgreement.Doc}<hr><h2>Schedule D</h2><br>{Annex.ControllerProcessorAgreement.Doc}<hr><h2>Schedule E</h2>{Annex.BasicControllerProcessorAgreement.Doc}<hr><h2>Schedule F</h2><br>{Annex.SecurityMeasures.Doc}<hr><h2>Schedule G</h2>{Annex.JurisdictionSpecific.Doc}
 
-=[OTF/WorldCC//WorldCC-Agt-Frame/EN/0.md]
+=[OTF/WorldCC/WorldCC-Agt-Frame/EN/0.md]
