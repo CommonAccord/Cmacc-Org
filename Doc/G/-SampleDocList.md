@@ -9,17 +9,17 @@ Basic Frames for Agreements:
 
 NDAs built on a shared model:
 
--=[OTF/WorldCC/WorldCC-Cooperate-CmA/Form/-NDA/0.md]
+-=[OTF/WorldCC/Cooperate-CmA/Form/-NDA/0.md]
 
--=[OTF/WorldCC/WorldCC-Cooperate-CmA/Form/-NDA/-P1-to-P2/0.md]
+-=[OTF/WorldCC/Cooperate-CmA/Form/-NDA/-P1-to-P2/0.md]
 
--=[OTF/WorldCC/WorldCC-Cooperate-CmA/Form/-NDA/-P2-to-P1/0.md]
+-=[OTF/WorldCC/Cooperate-CmA/Form/-NDA/-P2-to-P1/0.md]
 
--=[OTF/WorldCC/WorldCC-Cooperate-CmA/Form/-NDA/-Mutual/0.md]
+-=[OTF/WorldCC/Cooperate-CmA/Form/-NDA/-Mutual/0.md]
 
 Consulting Agreement Form on same model:
 
--=[OTF/WorldCC/WorldCC-Cooperate-CmA/Form/-Consult/0.md]
+-=[OTF/WorldCC/Cooperate-CmA/Form/-Consult/0.md]
 
 SaaS Service Hosting Agreement - Y Combinator model
 
