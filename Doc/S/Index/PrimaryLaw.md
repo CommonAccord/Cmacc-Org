@@ -4,7 +4,7 @@ Declaration_Bioethics.=[G/Org-UNESCO/Universal_Declaration_on_Bioethics_and_Huma
 
 Directive_EU_GDPR:=[OTF/EU-GDPR-Law-CmA/]
 
-Declaration_ParisClimateControl.=[Wx/int/unfccc/2015/cop21/eng/l09r01_With-SemanticArticles_v0.md]
+Declaration_ParisClimateControl.=[OTF/int/unfccc/2015/cop21/eng/l09r01_With-SemanticArticles_v0.md]
 
 EU_DataProtectionModelClauses:=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/Demo/]
 
