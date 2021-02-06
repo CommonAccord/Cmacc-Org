@@ -65,7 +65,7 @@ H.6.sec=<b>{6.Req.Ti}</b><br><b>{6.Req.Text}</b><ol start=13><li>{13.sec}<li>{14
 
 15.5.sec=Provides for coordination between authorities with responsibilities relevant to protection and safety for all exposure situations.
 
-15.=[G/Z/ol-a/s5]
+15.=[OTF/Z/ol-a/s5]
 
 16.sec=The government shall ensure that the regulatory body is effectively independent, in making decisions relating to protection and safety, of persons and organizations using or promoting the use of radiation and radioactive material, so that it is free from any undue influence by interested parties and from any conflicts of interest; and shall ensure that it has functional separation from entities having responsibilities or interests that could unduly influence its decision making.
 
@@ -79,7 +79,7 @@ H.6.sec=<b>{6.Req.Ti}</b><br><b>{6.Req.Text}</b><ol start=13><li>{13.sec}<li>{14
 
 19.2.sec=Interested parties are involved as appropriate in regulatory decision making processes or regulatory decision aiding processes.
 
-19.=[G/Z/ol-a/s2]
+19.=[OTF/Z/ol-a/s2]
 
 20.sec=The government shall ensure that arrangements are in place at the national level for making decisions relating to protection and safety that fall outside the authority of the regulatory body.
 
@@ -91,7 +91,7 @@ H.6.sec=<b>{6.Req.Ti}</b><br><b>{6.Req.Text}</b><ol start=13><li>{13.sec}<li>{14
 
 21.4.sec=The competence of organizations that have responsibilities relating to protection and safety.
 
-21.=[G/Z/ol-a/s4]
+21.=[OTF/Z/ol-a/s4]
 
 22.sec=The government shall ensure that arrangements are in place for the provision of the education and training services required for building and maintaining the competence of persons and organizations that have responsibilities relating to protection and safety.
 
@@ -113,7 +113,7 @@ H.6.sec=<b>{6.Req.Ti}</b><br><b>{6.Req.Text}</b><ol start=13><li>{13.sec}<li>{14
 
 28.3.sec=Shall promote international cooperation to enhance safety globally.
 
-28.=[G/Z/ol-a/s3]
+28.=[OTF/Z/ol-a/s3]
 
 
 H.7.Ti=RESPONSIBILITIES OF THE REGULATORY BODY
@@ -124,7 +124,7 @@ H.7.Ti=RESPONSIBILITIES OF THE REGULATORY BODY
 
 H.7.sec=<b>{7.Req.Ti}</b><br><b>{7.Req.Text}</b><ol start=29><li>{29.sec}<li>{30.sec}<li>{31.sec}<li>{32.sec}<li>{33.sec}<li>{34.sec}<li>{35.sec}<li>{36.sec}<li>{37.sec}<li>{38.sec}</ol>
 
-H.7.=[G/Z/ol/1]
+H.7.=[OTF/Z/ol/1]
 
 29.sec=The regulatory body shall establish requirements for the application of the principles of radiation protection specified in paras 2.8–2.12 for all exposure situations and shall establish or adopt regulations and guides for protection and safety.
 
@@ -142,7 +142,7 @@ H.7.=[G/Z/ol/1]
 
 30.6.sec=Provision of information to, and consultation with, parties affected by its decisions and, as appropriate, the public and other interested parties.
 
-30.=[G/Z/ol-a/s6]
+30.=[OTF/Z/ol-a/s6]
 
 31.sec=The regulatory body shall adopt a graded approach to the implementation of the system of protection and safety, such that the application of regulatory requirements is commensurate with the radiation risks associated with the exposure situation.
 
@@ -166,7 +166,7 @@ H.7.=[G/Z/ol/1]
 
 35.6.sec=— Inventories of radioactive waste and of spent fuel.
 
-35.=[G/Z/ol-none/s6]
+35.=[OTF/Z/ol-none/s6]
 
 36.sec=The regulatory body shall establish mechanisms for communication and discussion that involve professional and constructive interactions with relevant parties for all protection and safety related issues.
 
@@ -194,7 +194,7 @@ H.8.sec=<b>{8.Req.Ti}</b><br><b>{8.Req.Text}</b><ol start=39><li>{39.sec}<li>{40
 
 40.4.sec=Those persons or organizations designated to deal with emergency exposure situations or existing exposure situations.
 
-40.=[G/Z/ol-a/s4]
+40.=[OTF/Z/ol-a/s4]
 
 41.0.sec=Other parties shall have specified responsibilities in relation to protection and safety. These other parties include:
 
@@ -214,7 +214,7 @@ H.8.sec=<b>{8.Req.Ti}</b><br><b>{8.Req.Text}</b><ol start=39><li>{39.sec}<li>{40
 
 41.8.sec=Ethics committees.
 
-41.=[G/Z/ol-a/s8]
+41.=[OTF/Z/ol-a/s8]
 
 42.0.sec=The relevant principal parties shall establish and implement a protection and safety programme that is appropriate for the exposure situation. The protection and safety programme:
 
@@ -222,7 +222,7 @@ H.8.sec=<b>{8.Req.Ti}</b><br><b>{8.Req.Text}</b><ol start=39><li>{39.sec}<li>{40
 
 42.2.sec=Shall apply measures for protection and safety that are commensurate with the radiation risks associated with the exposure situation and that are adequate to ensure compliance with the requirements of these Standards.
 
-42.=[G/Z/ol-a/s2]
+42.=[OTF/Z/ol-a/s2]
 
 43.0.sec=The relevant principal parties shall ensure that, in the implementation of the protection and safety programme:
 
@@ -236,7 +236,7 @@ H.8.sec=<b>{8.Req.Ti}</b><br><b>{8.Req.Text}</b><ol start=39><li>{39.sec}<li>{40
 
 43.5.sec=Appropriate records are maintained.
 
-43.=[G/Z/ol-a/s5]
+43.=[OTF/Z/ol-a/s5]
 
 44.sec=The relevant principal parties and other parties having specified responsibilities in relation to protection and safety shall ensure that all personnel engaged in activities relevant to protection and safety have appropriate education, training and qualification so that they understand their responsibilities and can perform their duties competently, with appropriate judgement and in accordance with procedures.
 
@@ -265,7 +265,7 @@ H.9.3.Ti=Human factors
 
 H.9.3.sec=<ol start=52><li>{52.sec}</ol>
 
-H.9.=[G/Z/paras/3]
+H.9.=[OTF/Z/paras/3]
 
 47.sec=The principal parties shall demonstrate commitment to protection and safety at the highest levels within the organizations for which they are responsible.
 
@@ -281,7 +281,7 @@ H.9.=[G/Z/paras/3]
 
 48.5.sec=Promoting safety culture.
 
-48.=[G/Z/ol-a/s5]
+48.=[OTF/Z/ol-a/s5]
 
 49.sec=The principal parties shall ensure that protection and safety elements of the management system are commensurate with the complexity of and the radiation risks associated with the activity.
 
@@ -305,7 +305,7 @@ H.9.=[G/Z/paras/3]
 
 51.8.sec=Providing means by which the organization continually seeks to develop and strengthen its safety culture.
 
-51.=[G/Z/ol-a/s8]
+51.=[OTF/Z/ol-a/s8]
 
 52.0.sec=The principal parties and other parties having specified responsibilities in relation to protection and safety, as appropriate, shall take into account human factors and shall support good performance and good practices to prevent human and organizational failures, by ensuring among other things that:
 
@@ -319,15 +319,15 @@ H.9.=[G/Z/paras/3]
 
 52.2.3.sec=To facilitate protective actions and corrective actions in the event of failures of safety systems or failures of measures for protection and safety.
 
-52.2.=[G/Z/ol-i/s3]
+52.2.=[OTF/Z/ol-i/s3]
 
-52.=[G/Z/ol-a/s2]
+52.=[OTF/Z/ol-a/s2]
 
-H.=[G/Z/paras/9]
+H.=[OTF/Z/paras/9]
 
 Model.Root={H.Sec}
 
-List.=[G/Z/ol/s52]
+List.=[OTF/Z/ol/s52]
 
 
 Footnote_9=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/9.md">9</a></sup>

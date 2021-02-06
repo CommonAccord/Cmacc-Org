@@ -12,7 +12,7 @@ H.1.Sec=<b>{H.1.Ti}</b><br><ol><li>{1.sec}</ol>
 
 1.1.2.sec=A nuclear or radiological emergency, after an emergency has been declared to be ended (as required in para. 4.20).
 
-1.1.=[G/Z/ol-i/s2]
+1.1.=[OTF/Z/ol-i/s2]
 
 1.2.sec=Exposure due to commodities, including food, feed, drinking water and construction materials, that incorporate radionuclides deriving from residual radioactive material as stated in para. 5.1(a).
 
@@ -26,9 +26,9 @@ H.1.Sec=<b>{H.1.Ti}</b><br><ol><li>{1.sec}</ol>
 
 1.3.4.sec=Exposure of aircrew and space crew to cosmic radiation.
 
-1.3.=[G/Z/ol-i/s4]
+1.3.=[OTF/Z/ol-i/s4]
 
-1.=[G/Z/ol-a/s3]
+1.=[OTF/Z/ol-a/s3]
 
 
 H.2.Ti=GENERIC REQUIREMENTS
@@ -54,7 +54,7 @@ Req.47.Text=The government shall ensure that existing exposure situations that h
 
 3.4.sec=Shall provide for the involvement of interested parties in decisions regarding the development and implementation of protection strategies, as appropriate.
 
-3.=[G/Z/ol-a/s4]
+3.=[OTF/Z/ol-a/s4]
 
 4.0.sec=The regulatory body or other relevant authority assigned to establish a protection strategy for an existing exposure situation shall ensure that it specifies:
 
@@ -62,7 +62,7 @@ Req.47.Text=The government shall ensure that existing exposure situations that h
 
 4.2.sec=Appropriate reference levels.
 
-4.=[G/Z/ol-a/s2]
+4.=[OTF/Z/ol-a/s2]
 
 5.0.sec=The regulatory body or other relevant authority shall implement the protection strategy, including:
 
@@ -70,7 +70,7 @@ Req.47.Text=The government shall ensure that existing exposure situations that h
 
 5.2.sec=Ensuring that information is available to individuals subject to exposure on potential health risks and on the means available for reducing their exposures and the associated risks.
 
-5.=[G/Z/ol-a/s2]
+5.=[OTF/Z/ol-a/s2]
 
 H.3.Ti=PUBLIC EXPOSURE
 
@@ -110,7 +110,7 @@ Req.49.Sec=<b>{Req.49.Ti}</b><br><b>{Req.49.Text}</b><ol start=10><li>{10.sec}<l
 
 10.4.sec=An appropriate system for maintaining, retrieval and amendment of records that cover the nature and the extent of contamination; the decisions made before, during and after remediation; and information on verification of the results of remedial actions, including the results of all monitoring programmes after completion of the remedial actions.
 
-10.=[G/Z/ol-a/s4]
+10.=[OTF/Z/ol-a/s4]
 
 11.sec=The government shall ensure that a strategy for radioactive waste management is put in place to deal with any waste arising from the remedial actions and that provision for such a strategy is made in the framework for protection and safety.
 
@@ -128,7 +128,7 @@ Req.49.Sec=<b>{Req.49.Ti}</b><br><b>{Req.49.Text}</b><ol start=10><li>{10.sec}<l
 
 12.4.2.sec=The costs of the transport and management of radioactive waste, the radiation exposure of and health risks to the workers managing the radioactive waste, and any subsequent public exposure associated with its disposal are all taken into account.
 
-12.4.=[G/Z/ol-i/s2]
+12.4.=[OTF/Z/ol-i/s2]
 
 12.5.sec=A mechanism for public information is in place and interested parties are involved in the planning, implementation and verification of the remedial actions, including any monitoring following remediation.
 
@@ -138,7 +138,7 @@ Req.49.Sec=<b>{Req.49.Ti}</b><br><b>{Req.49.Text}</b><ol start=10><li>{10.sec}<l
 
 12.8.sec=Procedures are in place for reporting to the regulatory body or other relevant authority on any abnormal conditions relevant to protection and safety.
 
-12.=[G/Z/ol-a/s8]
+12.=[OTF/Z/ol-a/s8]
 
 13.0.sec=The regulatory body, in accordance with para. 2.29, or other relevant authority shall take responsibility, in particular for:
 13.1.sec=Review of the safety assessment submitted by the responsible person or organization, approval of the remedial action plan and of any subsequent changes to the remedial action plan, and granting of any necessary authorization;
@@ -151,7 +151,7 @@ Req.49.Sec=<b>{Req.49.Ti}</b><br><b>{Req.49.Text}</b><ol start=10><li>{10.sec}<l
 
 13.5.sec=Where necessary, establishment of regulatory requirements for control measures following remediation.
 
-13.=[G/Z/ol-a/s5]
+13.=[OTF/Z/ol-a/s5]
 
 14.0.sec=The person or organization responsible for carrying out the remedial actions:
 
@@ -165,7 +165,7 @@ Req.49.Sec=<b>{Req.49.Ti}</b><br><b>{Req.49.Text}</b><ol start=10><li>{10.sec}<l
 
 14.5.sec=Shall prepare and retain a final remediation report and shall submit a copy to the regulatory body or other relevant authority.
 
-14.=[G/Z/ol-a/s5]
+14.=[OTF/Z/ol-a/s5]
 
 15.0.sec=After the remedial actions have been completed, the regulatory body or other relevant authority:
 
@@ -181,10 +181,10 @@ Req.49.Sec=<b>{Req.49.Ti}</b><br><b>{Req.49.Text}</b><ol start=10><li>{10.sec}<l
 
 15.3.3.sec=Future use of the area, including the use of water resources and its use for the production of food or feed, and the consumption of food from the area.
 
-15.3.=[G/Z/ol-i/s3]
+15.3.=[OTF/Z/ol-i/s3]
 
 15.4.sec=Shall periodically review conditions in the remediated area and, if appropriate, shall amend or remove any restrictions.
-15.=[G/Z/ol-a/s4]
+15.=[OTF/Z/ol-a/s4]
 
 16.sec=The person or organization responsible for post-remediation control measures shall establish and maintain, for as long as required by the regulatory body or other relevant authority, an appropriate programme, including any  necessary provision for monitoring, to verify the long term effectiveness of the completed remedial actions for areas in which controls are required after remediation.
 
@@ -194,7 +194,7 @@ Req.49.Sec=<b>{Req.49.Ti}</b><br><b>{Req.49.Text}</b><ol start=10><li>{10.sec}<l
 
 17.2.sec=Establishment of an infrastructure to support continuing ‘self-help protective actions’ in the affected areas, such as by the provision of information and advice, and by monitoring.
 
-17.=[G/Z/ol-a/s2]
+17.=[OTF/Z/ol-a/s2]
 
 18.sec=The conditions prevailing after the completion of remedial actions, if the regulatory body or other relevant authority has imposed no restrictions or controls, shall be considered to constitute the background conditions for any new facilities and activities or for habitation on the land.
 
@@ -210,7 +210,7 @@ Req.50.Sec=<b>{Req.50.Ti}</b><br><b>{Req.50.Text}</b><ol start=19><li>{19.sec}<l
 
 19.2.sec=Relevant information on exposure due to radon and the associated health risks, including the increased risks relating to smoking, is provided to the public and other interested parties.
 
-19.=[G/Z/ol-a/s2]
+19.=[OTF/Z/ol-a/s2]
 
 20.0.sec=Where activity concentrations of radon that are of concern for public health are identified on the basis of the information gathered as required in para. 5.19(a), the government shall ensure that an action plan is established comprising coordinated actions to reduce activity concentrations of radon in existing buildings and in future buildings, which includes{Footnote_54}:
 
@@ -222,7 +222,7 @@ Req.50.Sec=<b>{Req.50.Ti}</b><br><b>{Req.50.Text}</b><ol start=19><li>{19.sec}<l
 
 20.4.sec=Including in building codes appropriate preventive measures and corrective actions to prevent the ingress of <sup>222</sup>Rn and to facilitate further actions wherever necessary.
 
-20.=[G/Z/ol-a/s4]
+20.=[OTF/Z/ol-a/s4]
 
 21.0.sec=The government shall assign responsibility for:
 
@@ -230,7 +230,7 @@ Req.50.Sec=<b>{Req.50.Ti}</b><br><b>{Req.50.Text}</b><ol start=19><li>{19.sec}<l
 
 21.2.sec=Determining the circumstances under which actions are to be mandatory or are to be voluntary, with account taken of legal requirements and of the prevailing social and economic circumstances.
 
-21.=[G/Z/ol-a/s2]
+21.=[OTF/Z/ol-a/s2]
 
 Req.51.Ti=Requirement 51: Exposure due to radionuclides in commodities
 
@@ -284,7 +284,7 @@ Req.52.3.Ti=Exposure of aircrew and space crew due to cosmic radiation
 
 32.1.2.sec=Shall make records of doses available to aircrew.
 
-32.1.=[G/Z/ol-i/s2]
+32.1.=[OTF/Z/ol-i/s2]
 
 32.2.0.sec=Employers:
 
@@ -292,17 +292,17 @@ Req.52.3.Ti=Exposure of aircrew and space crew due to cosmic radiation
 
 32.2.2.sec=Shall apply the requirements of para. 3.114 in respect of notification of pregnancy.
 
-32.2.=[G/Z/ol-i/s2]
+32.2.=[OTF/Z/ol-i/s2]
 
-32.=[G/Z/ol-a/s2]
+32.=[OTF/Z/ol-a/s2]
 
 33.sec=The regulatory body or other relevant authority shall establish, where appropriate, a framework for radiation protection that applies to individuals in space based activities that is appropriate for the exceptional conditions of space. While the requirements of these Standards in respect of dose limits do not apply to individuals in space based activities, all reasonable efforts shall be made to optimize protection for individuals in space based activities by restricting the doses received by such individuals while not unduly limiting the extent of such activities.
 
 Model.Root={H.Sec}
 
-H.=[G/Z/paras/4]
+H.=[OTF/Z/paras/4]
 
-S.=[G/Z/ol/s33]
+S.=[OTF/Z/ol/s33]
 
 Footnote_49=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/49.md">49</a></sup>
 

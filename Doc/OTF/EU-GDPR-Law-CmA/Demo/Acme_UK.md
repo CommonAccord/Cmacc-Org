@@ -5,8 +5,8 @@ EffectiveDate.YMD=2016-09-03
 
 RevisionDate.YMD=2016-09-04 T 16:07:00
 
-SiteOwner.=[G/U/Who/acme_uk.md]
+SiteOwner.=[OTF/U/Who/acme_uk.md]
 
-SiteOwner.Contact.=[G/U/Who/andrea_ang.md]
+SiteOwner.Contact.=[OTF/U/Who/andrea_ang.md]
 
 =[OTF/EU-GDPR-Law-CmA/PrivacyPolicy/Form/1.md]

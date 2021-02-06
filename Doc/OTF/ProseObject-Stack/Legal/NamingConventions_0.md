@@ -18,7 +18,7 @@ Ti=Naming Conventions
 
 2.4.sec=We use CamelCase for file names because that makes them easier to read.  However, do not name two files the same thing except for the upper/lower case of one or more letters.  Some computers (e.g., Macs) do not allow file names that are identical except for the case.    
 
-2.=[G/Z/ol/s4]
+2.=[OTF/Z/ol/s4]
 
 3.Ti=Keys
 
@@ -30,6 +30,6 @@ Ti=Naming Conventions
 
 3.4.sec=Similarly, there are conventions for party names, addresses and the like.  We are less happy with these conventions, which we think are half-baked.  Suggestions invited.  But we do have some widgets that are very useful and based on these conventions. 
 
-3.=[G/Z/ol/s4]
+3.=[OTF/Z/ol/s4]
 
-=[G/Z/ol/3]
+=[OTF/Z/ol/3]

@@ -34,6 +34,6 @@
 
 00.sec=Have agreed as follows:
 
-=[G/Z/paras/s17]
+=[OTF/Z/paras/s17]
 
 Ti=</i>

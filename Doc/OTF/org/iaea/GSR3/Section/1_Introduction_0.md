@@ -64,7 +64,7 @@ H.1.1.sec=<ol start=6><li>{1.6.sec}<li>{1.7.sec}<li>{1.8.sec}<li>{1.9.sec}<li>{1
 
 1.7.90.Ti=The three general principles of radiation protection, which concern justification, optimization of protection and application of dose limits, are expressed in Safety Principles 4, 5, 6 and also 10 [1].
 
-1.7.=[G/Z/ol-none/10]
+1.7.=[OTF/Z/ol-none/10]
 
 1.8.sec=The prime responsibility for safety must rest with the person or organization responsible for facilities and activities{Foot6}  that give rise to radiation risks [1]. Other parties also bear certain responsibilities. For instance, suppliers of radiation generators and radioactive sources have responsibilities in relation to their design and manufacture and operating instructions for their safe use. In the case of medical exposures, because of the medical setting in which such exposures occur, primary responsibility for protection and safety for patients lies with the health professional responsible for administration of the radiation dose, who is referred to in these Standards as the ‘radiological medical practitioner’. Other types of health professional may be involved in the preparation for, and the conduct of, radiological procedures, and each type has specific responsibilities, as established in these Standards.
 
@@ -94,7 +94,7 @@ H.1.1.sec=<ol start=6><li>{1.6.sec}<li>{1.7.sec}<li>{1.8.sec}<li>{1.9.sec}<li>{1
 
 1.18.3.sec=— To prevent the loss of, or the loss of control over, a radioactive source or other source of radiation.
 
-1.18.=[G/Z/ol-none/s3]
+1.18.=[OTF/Z/ol-none/s3]
 
 1.19.0.sec=Arrangements must be made for emergency preparedness and response for nuclear or radiological incidents. The primary goals of preparedness and response for a nuclear or radiological emergency are:
 
@@ -104,7 +104,7 @@ H.1.1.sec=<ol start=6><li>{1.6.sec}<li>{1.7.sec}<li>{1.8.sec}<li>{1.9.sec}<li>{1
 
 1.19.3.sec=— For any incidents that do occur, to take practical measures to mitigate any consequences for human life and health and the environment.
 
-1.19.=[G/Z/ol-none/s3]
+1.19.=[OTF/Z/ol-none/s3]
 
 H.1.2.Ti=Types of exposure situation
 
@@ -118,7 +118,7 @@ H.1.2.Ti=Types of exposure situation
 
 1.20.00.sec=If an event or a sequence of events that has been considered in the assessment of potential exposure does actually occur, it may be treated either as a planned exposure situation or, if an emergency has been declared, as an emergency exposure situation.
 
-1.20.=[G/Z/ol-a/s3]
+1.20.=[OTF/Z/ol-a/s3]
 
 1.21.sec=The descriptions that are given in para. 1.20 of the three types of exposure situation are not always sufficient to determine unequivocally which type of exposure situation applies for particular circumstances. For instance, the transitions from an emergency exposure situation to an existing exposure situation may occur progressively over time; and some exposures due to natural sources may have some characteristics of both planned exposure situations and existing exposure situations. In these Standards, the most appropriate type of exposure situation for particular circumstances has been determined by taking practical considerations into account. For the purposes of these Standards, the exposure of aircrew to cosmic radiation is considered under existing exposure situations in Section 5. The exposure of space crew to cosmic radiation presents exceptional circumstances and these are considered separately in Section 5.
 
@@ -146,7 +146,7 @@ H.1.3.Ti=Dose constraints and reference levels
 
 1.28.3.sec=— National or regional factors, together with a consideration of international guidance and good practice elsewhere.
 
-1.28.=[G/Z/ol-none/s3]
+1.28.=[OTF/Z/ol-none/s3]
 
 1.29.sec=The system of protection and safety required by these Standards includes criteria for protection against exposure due to radon that are based on the average level of risk to a population with typical but various smoking habits. Owing to the synergistic effects of smoking and exposure due to radon, the absolute risk of lung cancer resulting from unit dose from exposure due to radon for people who are smokers is substantially greater than for those who have never smoked [3, 5, 6]. Information provided to people on the risks associated with exposure due to radon needs to highlight this increased risk for smokers.
 
@@ -176,7 +176,7 @@ H.1.5.Ti=Interfaces between safety and security
 
 H.1.5.sec=<ol start=36><li>{1.36.sec}<li>{1.37.sec}</ol>
 
-H.1.=[G/Z/paras/5]
+H.1.=[OTF/Z/paras/5]
 
 H.2.Ti=OBJECTIVE
 
@@ -208,7 +208,7 @@ H.3.Ti=SCOPE
 
 1.45.4.sec=— Carried out under any bilateral or multilateral arrangement whereby the parties request the IAEA to provide for the application of these Standards.
 
-1.45.=[G/Z/ol-none/s4]
+1.45.=[OTF/Z/ol-none/s4]
 
 1.46.sec=Quantities and units used in these Standards are in accordance with the recommendations of the International Commission on Radiation Units and Measurements [7].
 
@@ -236,7 +236,7 @@ Table1=<b>TABLE 1. ORGANIZATION OF THE REQUIREMENTS OF THESE STANDARDS</b><br><t
 
 1.53.2.sec=Persons or organizations responsible for a medical facility in which radiation generators or radioactive sources are used are subject to the requirements given in Section 2 for all exposure situations and all categories of exposure, and also to those requirements given in Section 3 that are common to all planned exposure situations (paras 3.5–3.67). In addition, such persons or organizations are subject to the separate requirements given in Section 3 for occupational exposure (such as exposure of medical staff operating medical devices that emit radiation) (paras 3.68–3.116), public exposure (such as exposure in rooms adjacent to rooms containing equipment that generates radiation) (paras 3.117–3.144) and medical exposure (such as exposure of patients) (paras 3.145–3.185).
 
-1.53.=[G/Z/ol-a/s2]
+1.53.=[OTF/Z/ol-a/s2]
 
 1.54.sec=Schedules I–IV provide numerical values in support of the requirements, covering exemption and clearance, categorization of sealed sources, dose limits for planned exposure situations and criteria for use in emergency preparedness and response.
 
@@ -246,9 +246,9 @@ H.4.sec=<ol start=47><li>{1.47.sec}<li>{1.48.sec}<li>{1.49.sec}<li>{1.50.sec}<li
 
 Model.Root={H.Sec}
 
-H.=[G/Z/paras/4]
+H.=[OTF/Z/paras/4]
 
-1.=[G/Z/ol/s55]
+1.=[OTF/Z/ol/s55]
   
 Foot1=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/1.md">1</a></sup>
 

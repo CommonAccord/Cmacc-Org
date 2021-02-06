@@ -28,4 +28,4 @@ Ti=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/CRUD_0.md">CRUD</a>
 
 00.sec=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/Access_0.md">Access</a>.
   
-=[G/Z/ol/6]
+=[OTF/Z/ol/6]

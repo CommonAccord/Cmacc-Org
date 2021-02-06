@@ -11,4 +11,4 @@ Ti=Textual Conductivity
 
 5.sec=Another, perhaps better image, is that new text is a thin wire connecting the parties.  Each reading fattens the wire, reducing its resistance, enabling it to carry more transactions. 
 
-=[G/Z/ol/s5] 
+=[OTF/Z/ol/s5] 

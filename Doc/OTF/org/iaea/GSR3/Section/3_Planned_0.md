@@ -20,7 +20,7 @@ H.1.sec=<ol><li>{1.sec}<li>{2.sec}<li>{3.sec}<li>{4.sec}</ol>
 
 1.7.sec=Any other practice as specified by the regulatory body.
 
-1.=[G/Z/ol-a/s7]
+1.=[OTF/Z/ol-a/s7]
 
 2.0.sec=The requirements for planned exposure situations apply to exposure due to sources within practices16, as follows:
 
@@ -28,7 +28,7 @@ H.1.sec=<ol><li>{1.sec}<li>{2.sec}<li>{3.sec}<li>{4.sec}</ol>
 
 2.2.sec=Individual sources of radiation, including sources within the types of facility mentioned in para. 3.2(a), as appropriate, in accordance with the requirements of the regulatory body.
 
-2.=[G/Z/ol-a/s2]
+2.=[OTF/Z/ol-a/s2]
 
 3.sec=The requirements for planned exposure situations apply for any occupational exposure, medical exposure or public exposure due to any practice or due to a source within a practice as specified in paras 3.1 and 3.2.
 
@@ -42,7 +42,7 @@ H.1.sec=<ol><li>{1.sec}<li>{2.sec}<li>{3.sec}<li>{4.sec}</ol>
 
 4.4.sec=Exposure due to <sup>222</sup>Rn and to <sup>222</sup>Rn progeny where the annual average activity concentration of <sup>222</sup>Rn in air in workplaces remains above the reference level established in accordance with para. 5.27 after the fulfilment of the requirement in para. 5.28.
 
-4.=[G/Z/ol-a/s4]
+4.=[OTF/Z/ol-a/s4]
 
 H.2.Ti=GENERIC REQUIREMENTS
 
@@ -83,7 +83,7 @@ Req.7.2.Ti=Authorization: Registration or licensing
 
 9.5.sec=Shall, as required by the regulatory body, have an appropriate prospective assessment made for radiological environmental impacts, commensurate with the radiation risks associated with the facility or activity.
 
-9.=[G/Z/ol-a/s5]
+9.=[OTF/Z/ol-a/s5]
 
 Req.7.Sec=<b>{Req.7.Ti}</b><br>{Req.7.Text}</b><br>{Req.7.1.Ti}<ol start=7><li>{7.sec}</ol>{Req.7.2.Ti}<ol start=8><li>{8.sec}<li>{9.sec}</ol>
 
@@ -136,7 +136,7 @@ Req.9.Text=Registrants and licensees shall be responsible for protection and saf
 
 15.10.sec=Shall ensure safe management of and control over all radioactive waste that is generated, and shall dispose of such waste in accordance with the regulatory requirements.
 
-15.=[G/Z/ol-a/s10]
+15.=[OTF/Z/ol-a/s10]
 
 
 Req.9.Sec=<b>{Req.9.Ti}</b><br><b>{Req.9.Text}</b><br><ol start=13><li>{13.sec}<li>{14.sec}<li>{15.sec}</ol>
@@ -156,7 +156,7 @@ Req.10.Text=The government or the regulatory body shall ensure that only justifi
 
 17.3.sec=Human imaging using radiation that is performed as a form of art or for publicity purposes.
 
-17.=[G/Z/ol-a/s3]
+17.=[OTF/Z/ol-a/s3]
 
 18.sec=Human imaging using radiation that is performed for occupational, legal or health insurance purposes{Footnote_24}, and is undertaken without reference to clinical indication, shall normally be deemed to be not justified. If, in exceptional circumstances, the government or the regulatory body decides that the justification of such human imaging for specific practices is to be considered, the requirements of paras 3.61–3.64 and 3.66 shall apply.
 
@@ -181,7 +181,7 @@ Req.11.Text=The government or the regulatory body shall establish and enforce re
 
 22.3.sec=Shall establish or approve constraints{Footnote_25} on dose and on risk, as appropriate, or shall establish or approve a process for establishing such constraints, to be used in the optimization of protection and safety.
 
-22.=[G/Z/ol-a/s3]
+22.=[OTF/Z/ol-a/s3]
 
 23.sec=Registrants and licensees shall ensure that protection and safety is optimized.
 
@@ -191,7 +191,7 @@ Req.11.Text=The government or the regulatory body shall establish and enforce re
 
 24.2.sec=To establish criteria, on the basis of the results of the optimization, for the restriction of the likelihood and magnitudes of exposures by means of measures for preventing accidents and for mitigating the consequences of those that do occur.
 
-24.=[G/Z/ol-a/s2]
+24.=[OTF/Z/ol-a/s2]
 
 25.sec=For occupational exposure and public exposure, registrants and licensees shall ensure, as appropriate, that relevant constraints are used in the optimization of protection and safety for any particular source within a practice.{Footnote_25}
 
@@ -226,7 +226,7 @@ Req.13.Text=The regulatory body shall establish and enforce requirements for saf
 
 31.3.sec=To assess the adequacy of the provisions for protection and safety.
 
-31.=[G/Z/ol-a/s3]
+31.=[OTF/Z/ol-a/s3]
 
 32.0.sec=The safety assessment shall include, as appropriate, a systematic critical review of:
 
@@ -244,7 +244,7 @@ Req.13.Text=The regulatory body shall establish and enforce requirements for saf
 
 32.7.sec=Any uncertainties or assumptions and their implications for protection and safety.
 
-32.=[G/Z/ol-a/s7]
+32.=[OTF/Z/ol-a/s7]
 
 33.0.sec=The registrant or licensee shall take into account in the safety assessment:
 
@@ -256,7 +256,7 @@ Req.13.Text=The regulatory body shall establish and enforce requirements for saf
 
 33.4.sec=The extent to which the use of redundant and diverse safety features that are independent of each other, so that failure of one does not result in failure of any other, is appropriate to restrict the likelihood and magnitude of potential exposures.
 
-33.=[G/Z/ol-a/s4]
+33.=[OTF/Z/ol-a/s4]
 
 34.sec=Registrants and licensees shall ensure that the safety assessment is documented and, where appropriate, that it is independently reviewed under the relevant management system.
 
@@ -272,7 +272,7 @@ Req.13.Text=The regulatory body shall establish and enforce requirements for saf
 
 35.5.sec=Any relevant changes in guidelines or standards have been made or are envisaged.
 
-35.=[G/Z/ol-a/s5]
+35.=[OTF/Z/ol-a/s5]
 
 36.sec=If as a result of a safety assessment, or for any other reason, opportunities to improve protection and safety appear to be available and improvement seems desirable, any consequential modifications shall be made cautiously and only after favourable assessment of all the implications for protection and safety. The implementation of all improvements shall be prioritized so as to optimize protection and safety.
 
@@ -297,7 +297,7 @@ Req.14.Text=Registrants and licensees and employers shall conduct monitoring to 
 
 38.5.sec=The results of monitoring and verification of compliance are shared with the regulatory body as required.
 
-38.=[G/Z/ol-a/s5]
+38.=[OTF/Z/ol-a/s5]
 
 Req.14.Sec=<b>{Req.14.Ti}</b><br><b>{Req.14.Text}</b><br><ol start=37><li>{37.sec}<li>{38.sec}</ol>
 
@@ -318,7 +318,7 @@ Req.15.1.Ti=Good engineering practice
 
 39.4.sec=Take account of relevant developments concerning technical criteria, as well as the results of any relevant research on protection and safety and feedback of information on lessons learned from experience.
 
-39.=[G/Z/ol-a/s4]
+39.=[OTF/Z/ol-a/s4]
 
 
 
@@ -332,7 +332,7 @@ Req.15.2.Ti=Defence in depth
 
 40.3.sec=Restoring the sources to safe conditions after any such accidents. Accident prevention
 
-40.=[G/Z/ol-a/s3]
+40.=[OTF/Z/ol-a/s3]
 
 41.sec=Registrants and licensees shall ensure that structures, systems and components, including software, that are related to protection and safety for facilities and activities are designed, constructed, commissioned, operated and maintained so as to prevent accidents as far as reasonably practicable.
 
@@ -356,7 +356,7 @@ Req.15.2.Ti=Defence in depth
 
 42.9.sec=To ensure that all relevant safety documentation is available in the appropriate languages understandable to users.
 
-42.=[G/Z/ol-a/s9]
+42.=[OTF/Z/ol-a/s9]
 
 
 Req.15.2.Ti=Emergency preparedness and response
@@ -367,7 +367,7 @@ Req.15.2.Ti=Emergency preparedness and response
 
 43.2.sec=Arrangements for assessing and mitigating any consequences of an emergency.
 
-43.=[G/Z/ol-a/s2]
+43.=[OTF/Z/ol-a/s2]
 
 44.0.sec=Registrants and licensees shall be responsible for the implementation of their emergency plans and shall be prepared to take any necessary action for effective response. To prevent the occurrence of conditions that could lead to a loss of control over a source or to the escalation of such conditions, registrants and licensees shall, as appropriate:
 
@@ -377,7 +377,7 @@ Req.15.2.Ti=Emergency preparedness and response
 
 44.3.sec=Train and periodically retrain personnel in the procedures to be followed and exercise the procedures.
 
-44.=[G/Z/ol-a/s3]
+44.=[OTF/Z/ol-a/s3]
 
 Req.15.Sec=<b>{Req.15.Ti}</b><br><b>{Req.15.Text}</b><br>{Req.15.1.Ti}<ol start=39><li>{39.sec}</ol>{Req.15.2.Ti}<ol start=40><li>{40.sec}<li>{41.sec}<li>{42.sec}</ol>{Req.15.2.Ti}<ol start=43><li>{43.sec}<li>{44.sec}</ol>
 
@@ -393,7 +393,7 @@ Req.16.Text=Registrants and licensees shall conduct formal investigations of abn
 
 46.2.sec=Any equipment failure, accident, error, mishap or other unusual event or condition occurs that has the potential for causing a quantity to exceed any relevant limit or operating restriction.
 
-46.=[G/Z/ol-a/s2]
+46.=[OTF/Z/ol-a/s2]
 
 47.sec=The registrant or licensee shall conduct an investigation as soon as possible after an event and shall prepare a written record of its causes, or suspected causes, including a verification or determination of any doses received or committed and recommendations for preventing the recurrence of the event and the occurrence of similar events.
 
@@ -417,7 +417,7 @@ Req.17.Text=Registrants and licensees shall ensure the safety of radiation gener
 
 49.1.4.sec=Provides clear displays, gauges and instructions on operating consoles in the appropriate language understandable to users.
 
-49.1.=[G/Z/ol-i/s4]
+49.1.=[OTF/Z/ol-i/s4]
 
 49.2.sec=Ensuring that radiation generators and radioactive sources are tested to demonstrate compliance with the relevant specifications.
 
@@ -425,7 +425,7 @@ Req.17.Text=Registrants and licensees shall ensure the safety of radiation gener
 
 49.4.sec=Ensuring that the protection provided by shielding and by other protective devices is optimized.
 
-49.=[G/Z/ol-a/s4]
+49.=[OTF/Z/ol-a/s4]
 
 50.0.sec=Where applicable, registrants and licensees shall make suitable arrangements with suppliers of radiation generators and radioactive sources, the regulatory body and relevant parties for the purposes of:
 
@@ -433,7 +433,7 @@ Req.17.Text=Registrants and licensees shall ensure the safety of radiation gener
 
 50.2.sec=Providing feedback and information that may have implications for protection and safety for other users, or that may have implications for the possibility for improvements in protection and safety for radiation generators and radioactive sources.
 
-50.=[G/Z/ol-a/s2]
+50.=[OTF/Z/ol-a/s2]
 
 51.0.sec=When choosing a location to use or to store a radiation generator or radioactive source, registrants and licensees shall take into account:
 
@@ -443,7 +443,7 @@ Req.17.Text=Registrants and licensees shall ensure the safety of radiation gener
 
 51.3.sec=The feasibility of taking the foregoing factors into account in engineering design.
 
-51.=[G/Z/ol-a/s3]
+51.=[OTF/Z/ol-a/s3]
 
 52.sec=In selecting a site for a facility that will contain a large amount of radioactive material and that will have the potential for the release of significant amounts of radioactive material, registrants and licensees shall take into account features that might affect protection and safety, features that might affect the integrity or functioning of the facility, and the feasibility of carrying out off-site protective actions if they become necessary.
 
@@ -453,7 +453,7 @@ Req.17.Text=Registrants and licensees shall ensure the safety of radiation gener
 
 53.2.sec=The activity and form of each radioactive source for which they are responsible.
 
-53.=[G/Z/ol-a/s2]
+53.=[OTF/Z/ol-a/s2]
 
 54.sec=Registrants and licensees shall provide the regulatory body as required with appropriate information from their inventory records of radiation generators and radioactive sources.
 
@@ -467,7 +467,7 @@ Req.17.Text=Registrants and licensees shall ensure the safety of radiation gener
 
 55.4.sec=An inventory, as required in para. 3.53, of radiation generators or radioactive sources is checked periodically to confirm that they are in their assigned locations and are under control.
 
-55.=[G/Z/ol-a/s4]
+55.=[OTF/Z/ol-a/s4]
 
 56.sec=Registrants and licensees shall ensure that sealed sources are categorized in accordance with the categorization scheme set out in Schedule II, and in accordance with the requirements of the regulatory body.
 
@@ -498,7 +498,7 @@ Req.18.Text=The government shall ensure that the use of ionizing radiation for h
 
 61.5.sec=The availability of sufficient resources to conduct the human imaging procedure safely throughout the intended period of the practice.
 
-61.=[G/Z/ol-a/s5]
+61.=[OTF/Z/ol-a/s5]
 
 62.sec=If it has been determined by means of the process specified in para. 3.61 that a particular practice of human imaging using radiation is justified, then such a practice shall be subject to regulatory control.
 
@@ -510,7 +510,7 @@ Req.18.Text=The government shall ensure that the use of ionizing radiation for h
 
 64.2.sec=The registrant or licensee shall ensure that the appropriate optimization requirements for medical exposure in paras 3.162–3.177 are applied, with dose constraints as required in (a) above used instead of diagnostic reference levels.
 
-64.=[G/Z/ol-a/s2]
+64.=[OTF/Z/ol-a/s2]
 
 65.sec=Procedures with inspection imaging devices in which radiation is used to expose persons for the purpose of detection of concealed weapons, contraband or other objects on or within the body shall be considered to give rise to public exposure. Registrants and licensees shall apply the requirements for public exposure in planned exposure situations. In particular, registrants and licensees shall ensure that optimization of protection and safety is subject to any dose constraints for public exposure set by the government or the regulatory body.
 
@@ -546,7 +546,7 @@ Req.19.Text=The government or the regulatory body shall establish and enforce re
 
 72.2.sec=Design criteria and design features of the appropriate systems and programmes for monitoring of workers for occupational exposure in all operational states and in accident conditions.
 
-72.=[G/Z/ol-a/s2]
+72.=[OTF/Z/ol-a/s2]
 
 Req.19.Sec=<b>{Req.19.Ti}</b><br><b>{Req.19.Text}</b><ol start=69><li>{69.sec}<li>{70.sec}<li>{71.sec}<li>{72.sec}</ol>
 
@@ -568,7 +568,7 @@ Req.20.Text=The regulatory body shall establish and enforce requirements for the
 
 73.6.sec=Verification of compliance of an authorized practice with the requirements on the control of occupational exposure.
 
-73.=[G/Z/ol-a/s6]
+73.=[OTF/Z/ol-a/s6]
 
 Req.20.Sec=<b>{Req.20.Ti}</b><br><b>{Req.20.Text}</b><ol start=73><li>{73.sec}</ol>
 
@@ -582,7 +582,7 @@ Req.21.Text=Employers, registrants and licensees shall be responsible for the pr
 
 74.2.sec=Compliance with other relevant requirements of these Standards.
 
-74.=[G/Z/ol-a/s2]
+74.=[OTF/Z/ol-a/s2]
 
 75.sec=Employers who are also registrants or licensees shall have the responsibilities of both employers and registrants or licensees.
 
@@ -610,7 +610,7 @@ Req.21.Text=Employers, registrants and licensees shall be responsible for the pr
 
 76.11.sec=Necessary conditions for promoting safety culture are provided.
 
-76.=[G/Z/ol-a/s11]
+76.=[OTF/Z/ol-a/s11]
 
 77.0.sec=Employers, registrants and licensees:
 
@@ -618,7 +618,7 @@ Req.21.Text=Employers, registrants and licensees shall be responsible for the pr
 
 77.2.sec=Shall establish and use, as appropriate, constraints as part of optimization of protection and safety.
 
-77.=[G/Z/ol-a/s2]
+77.=[OTF/Z/ol-a/s2]
 
 78.sec=Employers, registrants and licensees shall ensure that workers exposed to radiation from sources within a practice that are not required by or directly related to their work have the same level of protection against such exposure as members of the public.
 
@@ -650,7 +650,7 @@ Req.22.Text=Workers shall fulfil their obligations and carry out their duties fo
 
 83.6.sec=Shall accept such information, instruction and training in protection and safety as will enable them to conduct their work in accordance with the requirements of these Standards.
 
-83.=[G/Z/ol-a/s6]
+83.=[OTF/Z/ol-a/s6]
 
 84.sec=A worker who identifies circumstances that could adversely affect protection and safety shall report such circumstances to the employer, registrant or licensee as soon as possible.
 
@@ -670,7 +670,7 @@ Req.23.Text=Employers and registrants and licensees shall cooperate to the exten
 
 86.3.sec=A clear allocation and documentation of the responsibilities of the employer and those of the registrant or licensee for protection and safety.
 
-86.=[G/Z/ol-a/s3]
+86.=[OTF/Z/ol-a/s3]
 
 87.0.sec=As part of the cooperation between parties, the registrant or licensee responsible for the source or for the exposure as appropriate:
 
@@ -680,7 +680,7 @@ Req.23.Text=Employers and registrants and licensees shall cooperate to the exten
 
 87.3.sec=Shall provide both the worker and the employer with the relevant exposure records.
 
-87.=[G/Z/ol-a/s3]
+87.=[OTF/Z/ol-a/s3]
 
 Req.23.Sec=<b>{Req.23.Ti}</b><br><b>{Req.23.Text}</b><ol start=85><li>{85.sec}<li>{86.sec}<li>{87.sec}</ol>
 
@@ -697,7 +697,7 @@ Req.24.1.Ti=Classification of areas: Controlled areas
 
 88.2.sec=Preventing or limiting the likelihood and magnitude of exposures in anticipated operational occurrences and accident conditions.
 
-88.=[G/Z/ol-a/s2]
+88.=[OTF/Z/ol-a/s2]
 
 89.sec=In defining the boundaries of any controlled area, registrants and licensees shall take account of the magnitude of the exposures expected in normal operation, the likelihood and magnitude of exposures in anticipated operational occurrences and in accident conditions, and the type and extent of the procedures required for protection and safety.
 
@@ -721,7 +721,7 @@ Req.24.1.Ti=Classification of areas: Controlled areas
 
 90.6.3.sec=Suitable storage for personal clothing.
 
-90.6.=[G/Z/ol-i/s3]
+90.6.=[OTF/Z/ol-i/s3]
 
 90.7.0.sec=Shall provide, as appropriate, at exits from controlled areas:
 
@@ -733,13 +733,13 @@ Req.24.1.Ti=Classification of areas: Controlled areas
 
 90.7.4.sec=Suitable storage for contaminated personal protective equipment.
 
-90.7.=[G/Z/ol-i/s4]
+90.7.=[OTF/Z/ol-i/s4]
 
 90.8.sec=Shall periodically review conditions to assess whether there is any need to modify the measures for protection and safety or the boundaries of controlled areas;
 
 90.9.sec=Shall provide appropriate information, instruction and training for persons working in controlled areas.
 
-90.=[G/Z/ol-a/s9]
+90.=[OTF/Z/ol-a/s9]
 
 Req.24.2.Ti=Classification of areas: Supervised areas
 
@@ -753,7 +753,7 @@ Req.24.2.Ti=Classification of areas: Supervised areas
 
 92.3.sec=Shall periodically review conditions to assess whether there is any need for further measures for protection and safety or any need for changes to the boundaries of supervised areas.
 
-92.=[G/Z/ol-a/s3]
+92.=[OTF/Z/ol-a/s3]
 
 Req.24.3.Ti=Local rules and procedures and personal protective equipment
 
@@ -765,7 +765,7 @@ Req.24.3.Ti=Local rules and procedures and personal protective equipment
 
 93.3.sec=Personal protective equipment.
 
-93.=[G/Z/ol/s3]
+93.=[OTF/Z/ol/s3]
 
 94.0.sec=Employers, registrants and licensees, in consultation with workers, or through their representatives where appropriate:
 
@@ -779,7 +779,7 @@ Req.24.3.Ti=Local rules and procedures and personal protective equipment
 
 94.5.sec=Shall designate, as appropriate, a radiation protection officer in accordance with criteria established by the regulatory body.
 
-94.=[G/Z/ol-a/s5]
+94.=[OTF/Z/ol-a/s5]
 
 95.0.sec=Employers, registrants and licensees shall ensure that:
 
@@ -791,7 +791,7 @@ Req.24.3.Ti=Local rules and procedures and personal protective equipment
 
 95.1.3.sec=Protective aprons, protective gloves and organ shields.
 
-95.1.=[G/Z/ol-i/s3]
+95.1.=[OTF/Z/ol-i/s3]
 
 95.2.sec=Where appropriate, workers receive adequate instruction in the proper use of respiratory protective equipment, including testing for good fit.
 
@@ -801,7 +801,7 @@ Req.24.3.Ti=Local rules and procedures and personal protective equipment
 
 95.5.sec=If the use of personal protective equipment is considered for any given task, account is taken of any additional exposure that could result owing to the additional time taken or the inconvenience, and of any non-radiological risks that might be associated with using personal protective equipment while performing the task.
 
-95.=[G/Z/ol-a/s5]
+95.=[OTF/Z/ol-a/s5]
 
 Req.24.4.Ti=Monitoring of the workplace
 
@@ -817,11 +817,11 @@ Req.24.4.Ti=Monitoring of the workplace
 
 97.1.3.sec=Review of the classification of controlled areas and supervised areas.
 
-97.1.=[G/Z/ol-i/s3]
+97.1.=[OTF/Z/ol-i/s3]
 
 97.2.sec=Shall be based on dose rate, activity concentration in air and surface contamination, and their expected fluctuations, and on the likelihood and magnitude of exposures in anticipated operational occurrences and accident conditions.
 
-97.=[G/Z/ol-a/s2]
+97.=[OTF/Z/ol-a/s2]
 
 98.sec=Registrants and licensees, in cooperation with employers where appropriate, shall maintain records of the findings of the workplace monitoring programme. The findings of the workplace monitoring programme shall be made available to workers, through their representatives where appropriate.
 
@@ -856,7 +856,7 @@ Req.25.2.Ti=Records of occupational exposure
 
 105.4.sec=Records of any assessments made of doses, exposures and intakes due to actions taken in an emergency or due to accidents or other incidents, which shall be distinguished from assessments of doses, exposures and intakes due to normal conditions of work and which shall include references to reports of any relevant investigations.
 
-105.=[G/Z/ol-a/s4]
+105.=[OTF/Z/ol-a/s4]
 
 106.0.sec=Employers, registrants and licensees:
 
@@ -870,7 +870,7 @@ Req.25.2.Ti=Records of occupational exposure
 
 106.5.sec=Shall, in complying with (a)–(d) above, give due care and attention to maintaining the confidentiality of records.
 
-106.=[G/Z/ol-a/s5]
+106.=[OTF/Z/ol-a/s5]
 
 107.sec=If employers, registrants and licensees cease to conduct activities in which workers are subject to occupational exposure, they shall make arrangements for the retention of workers’ records of occupational exposure by the regulatory body or a State registry, or by a relevant employer, registrant or licensee, as appropriate.
 
@@ -882,7 +882,7 @@ Req.25.3.Ti=Workers’ health surveillance
 
 108.2.sec=Shall be designed to assess the initial fitness and continuing fitness of workers for their intended tasks.
 
-108.=[G/Z/ol-a/s2]
+108.=[OTF/Z/ol-a/s2]
 
 109.sec=If one or more workers are to be engaged in work in which they are or could be exposed to radiation from a source that is not under the control of their employer, the registrant or licensee responsible for the source shall, as a precondition for the engagement of such workers, make with the employer any special arrangements for workers’ health surveillance that are needed to comply with the rules established by the regulatory body or other relevant authority.
 
@@ -900,7 +900,7 @@ Req.26.Text=Employers, registrants and licensees shall provide workers with adeq
 
 110.3.sec=Shall maintain records of the training provided to individual workers.
 
-110.=[G/Z/ol-a/s3]
+110.=[OTF/Z/ol-a/s3]
 
 Req.26.Sec=<b>{Req.26.Ti}</b><br><b>{Req.26.Text}</b><br><ol start=110><li>{110.sec}</ol>
 
@@ -926,7 +926,7 @@ Req.28.Text=Employers, registrants and licensees shall make special arrangements
 
 113.3.sec=The risk of health effects for a breastfed infant due to ingestion of radioactive substances.
 
-113.=[G/Z/ol-a/s3]
+113.=[OTF/Z/ol-a/s3]
 
 114.sec=Notification of the employer by a female worker if she suspects that she is pregnant or if she is breast-feeding shall not be considered a reason to exclude the female worker from work. The employer of a female worker, who has been notified of her suspected pregnancy or that she is breast-feeding, shall adapt the working conditions in respect of occupational exposure so as to ensure that the embryo or fetus or the breastfed infant is afforded the same broad level of protection as is required for members of the public.
 
@@ -962,7 +962,7 @@ Req.29.Text=The government or the regulatory body shall establish the responsibi
 
 120.4.sec=The views of interested parties.
 
-120.=[G/Z/ol-a/s4]
+120.=[OTF/Z/ol-a/s4]
 
 121.sec=The government or the regulatory body shall establish, and the regulatory body shall enforce compliance with, the dose limits specified in Schedule III for public exposure.
 
@@ -980,7 +980,7 @@ Req.29.Text=The government or the regulatory body shall establish the responsibi
 
 123.5.sec=Shall take into account the results of the prospective assessment for radiological environmental impacts that is undertaken in accordance with requirements of the regulatory body (see paras 3.9(e) and 3.15(d)).
 
-123.=[G/Z/ol-a/s5]
+123.=[OTF/Z/ol-a/s5]
 
 124.0.sec=When a source within a practice could cause public exposure outside the territory or other area under the jurisdiction or control of the State in which the source is located, the government or the regulatory body:
 
@@ -990,7 +990,7 @@ Req.29.Text=The government or the regulatory body shall establish the responsibi
 
 124.3.sec=Shall arrange with the affected State the means for the exchange of information and consultations, as appropriate.
 
-124.=[G/Z/ol-a/s3]
+124.=[OTF/Z/ol-a/s3]
 
 Req.29.Sec=<b>{Req.29.Ti}</b><br><b>{Req.28.Text}</b><br><ol start=118><li>{118.sec}<li>{119.sec}<li>{120.sec}<li>{121.sec}<li>{122.sec}<li>{123.sec}<li>{124.sec}</ol>
 
@@ -1013,7 +1013,7 @@ Req.30.1.Ti=General considerations
 
 126.4.sec=Uncertainties in the assessment of doses, especially uncertainties in contributions to doses if the source and the representative person are separated in space or in time.
 
-126.=[G/Z/ol-a/s4]
+126.=[OTF/Z/ol-a/s4]
 
 127.0.sec=Registrants and licensees, for sources under their responsibility, shall establish, implement and maintain:
 
@@ -1025,7 +1025,7 @@ Req.30.1.Ti=General considerations
 
 127.2.2.sec=Limitation of exposure of members of the public from such sources, in accordance with the authorization.
 
-127.2.=[G/Z/ol-i/s2]
+127.2.=[OTF/Z/ol-i/s2]
 
 127.3.sec=Measures for ensuring the safety of such sources.
 
@@ -1039,7 +1039,7 @@ Req.30.1.Ti=General considerations
 
 127.8.sec=Emergency plans, emergency procedures and emergency arrangements, in accordance with the nature and magnitude of the radiation risks associated with the sources.
 
-127.=[G/Z/ol-a/s8]
+127.=[OTF/Z/ol-a/s8]
 
 
 Req.30.2.Ti=Visitors
@@ -1054,7 +1054,7 @@ Req.30.2.Ti=Visitors
 
 128.4.sec=Shall ensure that adequate control is maintained over the entry of visitors to a controlled area or a supervised area, including the use of signs for such areas.
 
-128.=[G/Z/ol-a/s4]
+128.=[OTF/Z/ol-a/s4]
 
 
 Req.30.3.Ti=External exposure and contamination in areas accessible to members of the public
@@ -1065,7 +1065,7 @@ Req.30.3.Ti=External exposure and contamination in areas accessible to members o
 
 129.2.sec=Shielding and other measures for protection and safety, including access control, are provided as appropriate for restricting public exposure, in particular at open sites such as for some applications of industrial radiography.
 
-129.=[G/Z/ol-a/s2]
+129.=[OTF/Z/ol-a/s2]
 
 130.0.sec=Registrants and licensees shall ensure, as appropriate, that:
 
@@ -1073,7 +1073,7 @@ Req.30.3.Ti=External exposure and contamination in areas accessible to members o
 
 130.2.sec=Measures for protection and safety are implemented for restricting public exposure due to contamination in areas within a facility that are accessible to members of the public.
 
-130.=[G/Z/ol-a/s2]
+130.=[OTF/Z/ol-a/s2]
 
 Req.30.Sec=<b>{Req.30.Ti}</b><br><b>{Req.30.Text}</b><br>{Req.30.1.Ti}<ol start=125><li>{125.sec}<li>{126.sec}<li>{127.sec}</ol>{Req.30.2.Ti}<ol start=128><li>{128.sec}</ol>{Req.30.3.Ti}<ol start=129><li>{129.sec}<li>{130.sec}</ol>
 
@@ -1097,7 +1097,7 @@ Req.31.1.Ti=Radioactive waste
 
 131.6.sec=Shall develop and implement a strategy for radioactive waste management and shall include appropriate evidence that protection and safety is optimized.
 
-131.=[G/Z/ol-a/s6]
+131.=[OTF/Z/ol-a/s6]
 
 
 Req.31.2.Ti=Discharges
@@ -1114,7 +1114,7 @@ Req.31.2.Ti=Discharges
 
 132.5.sec=Shall submit to the regulatory body the findings of (a)–(d) above as an input to the establishment by the regulatory body, in accordance with para. 3.123, of authorized limits on discharges and conditions for their implementation.
 
-132.=[G/Z/ol-a/s5]
+132.=[OTF/Z/ol-a/s5]
 
 133.sec=Registrants and licensees shall ensure that operational limits and conditions relating to public exposure are met in accordance with paras 3.123 and 3.124.
 
@@ -1124,7 +1124,7 @@ Req.31.2.Ti=Discharges
 
 134.2.sec=Any changes in exposure pathways or in the characteristics of the representative person that could affect the assessment of doses due to the discharges.
 
-134.=[G/Z/ol-a/s2]
+134.=[OTF/Z/ol-a/s2]
 
 Req.31.Sec=<b>{Req.31.Ti}</b><br><b>{Req.31.Text}</b><br>{Req.31.1.Ti}<ol start=131><li>{131.sec}</ol>{Req.31.2.Ti}<ol start=132><li>{132.sec}<li>{133.sec}<li>{134.sec}</ol>
 
@@ -1141,7 +1141,7 @@ Req.32.Text=The regulatory body and relevant parties shall ensure that programme
 
 135.1.2.sec=Assessing doses from public exposure.
 
-135.1.=[G/Z/ol-i/s2]
+135.1.=[OTF/Z/ol-i/s2]
 
 135.2.sec=Review of periodic reports on public exposure (including results of monitoring programmes and dose assessments) submitted by registrants and licensees.
 
@@ -1153,7 +1153,7 @@ Req.32.Text=The regulatory body and relevant parties shall ensure that programme
 
 135.6.sec=Verification of compliance of an authorized practice with the requirements of these Standards for the control of public exposure.
 
-135.=[G/Z/ol-a/s6]
+135.=[OTF/Z/ol-a/s6]
 
 136.sec=The regulatory body shall publish or shall make available on request, as appropriate, results from source monitoring and environmental monitoring programmes and assessments of doses from public exposure.
 
@@ -1169,7 +1169,7 @@ Req.32.Text=The regulatory body and relevant parties shall ensure that programme
 
 137.1.4.sec=Other parameters important for the assessment of public exposure.
 
-137.1.=[G/Z/ol-i/s4]
+137.1.=[OTF/Z/ol-i/s4]
 
 137.2.sec=Maintain appropriate records of the results of the monitoring programmes and estimated doses to members of the public.
 
@@ -1185,7 +1185,7 @@ Req.32.Text=The regulatory body and relevant parties shall ensure that programme
 
 137.8.sec=Publish or make available on request, as appropriate, results from source monitoring and environmental monitoring programmes and assessments of doses from public exposure.
 
-137.=[G/Z/ol-a/s8]
+137.=[OTF/Z/ol-a/s8]
 
 Req.32.Sec=<b>{Req.32.Ti}</b><br><b>{Req.32.Text}</b><ol start=135><li>{135.sec}<li>{136.sec}<li>{137.sec}</ol>
 
@@ -1204,7 +1204,7 @@ Req.33.Text=Providers of consumer products shall ensure that consumer products a
 
 139.4.sec=Shall authorize the provision to the public of the consumer product, where appropriate, subject to specific conditions of authorization.
 
-139.=[G/Z/ol-a/s4]
+139.=[OTF/Z/ol-a/s4]
 
 140.0.sec=Providers of consumer products:
 
@@ -1214,7 +1214,7 @@ Req.33.Text=Providers of consumer products shall ensure that consumer products a
 
 140.3.sec=Shall plan for appropriate arrangements for the servicing, maintenance, recycling or disposal of consumer products.
 
-140.=[G/Z/ol-a/s3]
+140.=[OTF/Z/ol-a/s3]
 
 141.0.sec=The design and manufacture of consumer products, with regard to features that could affect exposure during normal handling, transport and use, as well as in the event of mishandling, misuse, accident or disposal, shall be subject to the optimization of protection and safety. In this regard, designers, manufacturers and other providers of consumer products shall take into account the following:
 
@@ -1228,7 +1228,7 @@ Req.33.Text=Providers of consumer products shall ensure that consumer products a
 
 141.5.sec=Relevant experience with similar consumer products.
 
-141.=[G/Z/ol-a/s5]
+141.=[OTF/Z/ol-a/s5]
 
 142.0.sec=Providers of consumer products shall ensure that:
 
@@ -1240,11 +1240,11 @@ Req.33.Text=Providers of consumer products shall ensure that consumer products a
 
 142.1.3.sec=Provides information on required or recommended options for recycling or disposal.
 
-142.1.=[G/Z/ol-i/s3]
+142.1.=[OTF/Z/ol-i/s3]
 
 142.2.sec=The information specified in (a) above is also printed legibly on the retail packaging of the consumer product.
 
-142.=[G/Z/ol-a/s2]
+142.=[OTF/Z/ol-a/s2]
 
 143.0.sec=Providers of consumer products shall provide clear and appropriate information and instructions with each consumer product on:
 
@@ -1258,7 +1258,7 @@ Req.33.Text=Providers of consumer products shall ensure that consumer products a
 
 143.5.sec=Required or recommended options for recycling or disposal.
 
-143.=[G/Z/ol-a/s5]
+143.=[OTF/Z/ol-a/s5]
 
 144.sec=Providers of consumer products shall provide the consumer product retailers with appropriate information on safety and instructions on their transport and storage.
 
@@ -1292,11 +1292,11 @@ Req.34.Text=The government shall ensure that relevant parties are authorized to 
 
 149.1.2.sec=Exposures due to diagnostic investigations of volunteers participating in a programme of biomedical research.
 
-149.1.=[G/Z/ol-i/s2]
+149.1.=[OTF/Z/ol-i/s2]
 
 149.2.sec=Criteria and guidelines for the release of patients who have undergone therapeutic radiological procedures using unsealed sources or patients who still retain implanted sealed sources.
 
-149.=[G/Z/ol-a/s2]
+149.=[OTF/Z/ol-a/s2]
 
 Req.34.Sec=<b>{Req.34.Ti}</b><ol start=145><li>{145.sec}<li>{146.sec}<li>{147.sec}<li>{148.sec}<li>{149.sec}</ol>
 
@@ -1312,7 +1312,7 @@ Req.35.Text=The regulatory body shall require that health professionals with res
 
 150.3.sec=Are named in a list maintained up to date by the registrant or licensee.
 
-150.=[G/Z/ol-a/s3]
+150.=[OTF/Z/ol-a/s3]
 
 Req.35.Sec=<b>{Req.35.Ti}</b><ol start=150><li>{150.sec}</ol>
 
@@ -1330,7 +1330,7 @@ Req.36.Text=Registrants and licensees shall ensure that no person incurs a medic
 
 151.4.sec=The patient or the patient’s legal authorized representative has been informed as appropriate of the expected diagnostic or therapeutic benefits of the radiological procedure as well as the radiation risks.
 
-151.=[G/Z/ol-a/s4]
+151.=[OTF/Z/ol-a/s4]
 
 152.sec=Registrants and licensees shall ensure that no individual incurs a medical exposure as part of a programme of biomedical research unless the exposure has been approved by an ethics committee (or other institutional body that has been assigned functions similar to those of an ethics committee by the relevant authority) as required in para. 3.161 and a radiological medical practitioner has assumed responsibility as specified in para. 3.154(a). Registrants and licensees shall ensure that the requirements specified in para. 3.174 are fulfilled for the optimization of protection and safety for persons subject to exposure as part of a programme of biomedical research.
 
@@ -1350,7 +1350,7 @@ Req.36.Text=Registrants and licensees shall ensure that no person incurs a medic
 
 154.6.sec=Any delegation of responsibilities by a principal party is documented.
 
-154.=[G/Z/ol-a/s6]
+154.=[OTF/Z/ol-a/s6]
 
 Req.36.Sec=<b>{Req.36.Ti}</b><ol start=151><li>{151.sec}<li>{152.sec}<li>{153.sec}<li>{154.sec}</ol>
 
@@ -1374,7 +1374,7 @@ Req.37.Text=Relevant parties shall ensure that medical exposures are justified.
 
 157.5.sec=Relevant information from the patient’s previous radiological procedures.
 
-157.=[G/Z/ol-a/s5]
+157.=[OTF/Z/ol-a/s5]
 
 158.sec=Relevant national or international referral guidelines shall be taken into account for the justification of the medical exposure of an individual patient in a radiological procedure.
 
@@ -1388,7 +1388,7 @@ Req.37.Text=Relevant parties shall ensure that medical exposures are justified.
 
 161.2.sec=It is subject to approval by an ethics committee (or other institutional body that has been assigned functions similar to those of an ethics committee by the relevant authority), subject to any dose constraints that may be specified (as required in paras 3.149(a)(ii) and 3.174), and subject to applicable national regulations and local regulations.
 
-161.=[G/Z/ol-a/s2]
+161.=[OTF/Z/ol-a/s2]
 
 
 Req.37.Sec=<b>{Req.37.Ti}</b><ol start=155><li>{155.sec}<li>{156.sec}<li>{157.sec}<li>{158.sec}<li>{159.sec}<li>{160.sec}<li>{161.sec}</ol>
@@ -1410,7 +1410,7 @@ Req.38.2.Ti=Operational considerations
 
 163.2.sec=Appropriate techniques and parameters to deliver a medical exposure of the patient that is the minimum necessary to fulfil the clinical purpose of the radiological procedure, with account taken of relevant norms of acceptable image quality established by relevant professional bodies and of relevant diagnostic reference levels established in accordance with paras 3.148 and 3.169.
 
-163.=[G/Z/ol-a/s2]
+163.=[OTF/Z/ol-a/s2]
 
 164.sec=For therapeutic radiological procedures, the radiological medical practitioner, in cooperation with the medical physicist and the medical radiation technologist, shall ensure that for each patient the exposure of volumes other than the planning target volume is kept as low as reasonably achievable consistent with delivery of the prescribed dose to the planning target volume within the required tolerances.
 
@@ -1430,7 +1430,7 @@ Req.38.2.Ti=Operational considerations
 
 166.6.sec=Exposure of a breastfed infant as a result of a female patient having undergone a radiological procedure with radiopharmaceuticals.
 
-166.=[G/Z/ol-a/s6]
+166.=[OTF/Z/ol-a/s6]
 
 Req.38.3.Ti=Calibration
 
@@ -1444,7 +1444,7 @@ Req.38.3.Ti=Calibration
 
 167.4.sec=Calibration of all dosimeters used for dosimetry of patients and for the calibration of sources is traceable to a standards dosimetry laboratory.
 
-167.=[G/Z/ol-a/s4]
+167.=[OTF/Z/ol-a/s4]
 
 
 Req.38.4.Ti=Dosimetry of patients
@@ -1459,7 +1459,7 @@ Req.38.4.Ti=Dosimetry of patients
 
 168.4.sec=For therapeutic radiological procedures with unsealed sources, typical absorbed doses to patients.
 
-168.=[G/Z/ol-a/s4]
+168.=[OTF/Z/ol-a/s4]
 
 Req.38.5.Ti=Diagnostic reference levels
 
@@ -1473,9 +1473,9 @@ Req.38.5.Ti=Diagnostic reference levels
 
 169.2.2.sec=Typical doses or activities fall substantially below the relevant diagnostic reference level and the exposures do not provide useful diagnostic information or do not yield the expected medical benefit to the patient.
 
-169.2.=[G/Z/ol-i/s2]
+169.2.=[OTF/Z/ol-i/s2]
 
-169.=[G/Z/ol-a/s2]
+169.=[OTF/Z/ol-a/s2]
 
 Req.38.6.Ti=Quality assurance for medical exposures
 
@@ -1493,7 +1493,7 @@ Req.38.6.Ti=Quality assurance for medical exposures
 
 171.1.4.sec=After any installation of new software or modification of existing software that could affect protection and safety of patients.
 
-171.1.=[G/Z/ol-i/s4]
+171.1.=[OTF/Z/ol-i/s4]
 
 171.2.sec=Implementation of corrective actions if measured values of the physical parameters mentioned in (a) above are outside established tolerance limits.
 
@@ -1503,7 +1503,7 @@ Req.38.6.Ti=Quality assurance for medical exposures
 
 171.5.sec=Periodic checks of the calibration and conditions of operation of dosimetry equipment and monitoring equipment.
 
-171.=[G/Z/ol-a/s5]
+171.=[OTF/Z/ol-a/s5]
 
 172.sec=Registrants and licensees shall ensure that regular and independent audits are made of the programme of quality assurance for medical exposures, and that their frequency is in accordance with the complexity of the radiological procedures being performed and the associated risks.
 
@@ -1525,7 +1525,7 @@ Req.39.Text=Registrants and licensees shall ensure that there are arrangements i
 
 175.2.sec=She is breast-feeding and the scheduled radiological procedure includes the administration of a radiopharmaceutical.
 
-175.=[G/Z/ol-a/s2]
+175.=[OTF/Z/ol-a/s2]
 
 176.sec=Registrants and licensees shall ensure that there are procedures in place for ascertaining the pregnancy status of a female patient of reproductive capacity before the performance of any radiological procedure that could result in a significant dose to the embryo or fetus, so that this information can be considered in the justification for the radiological procedure (paras 3.155 and 3.156) and in the optimization of protection and safety (para. 3.166).
 
@@ -1548,9 +1548,9 @@ Req.40.Text=Registrants and licensees shall ensure that there are arrangements i
 
 178.2.2.sec=Information on the radiation risks.
 
-178.2.=[G/Z/ol-i/s2]
+178.2.=[OTF/Z/ol-i/s2]
 
-178.=[G/Z/ol-a/s2]
+178.=[OTF/Z/ol-a/s2]
 
 Req.40.Sec=<b>{Req.40.Ti}</b><br><b>{Req.40.Text}</b><ol start=178><li>{178.sec}</ol>
 
@@ -1575,7 +1575,7 @@ Req.41.1.Ti=Investigation of unintended and accidental medical exposures
 
 180.6.sec=Any failure of medical radiological equipment, failure of software or system failure, or accident, error, mishap or other unusual occurrence with the potential for subjecting the patient to a medical exposure that is substantially different from what was intended.
 
-180.=[G/Z/ol-a/s6]
+180.=[OTF/Z/ol-a/s6]
 
 181.0.sec=Registrants and licensees shall, with regard to any unintended or accidental medical exposures investigated as required in para. 3.180:
 
@@ -1589,7 +1589,7 @@ Req.41.1.Ti=Investigation of unintended and accidental medical exposures
 
 181.5.sec=Ensure that the appropriate radiological medical practitioner informs the referring medical practitioner and the patient or the patient’s legal authorized representative of the unintended or accidental medical exposure.
 
-181.=[G/Z/ol-a/s5]
+181.=[OTF/Z/ol-a/s5]
 
 Req.41.Sec=<b>{Req.41.Ti}</b><br><b>{Req.41.Text}</b><ol start=179><li>{179.sec}</ol>{Req.41.1.Ti}<ol start=180><li>{180.sec}<li>{181.sec}</ol>
 
@@ -1611,7 +1611,7 @@ Req.42.2.Ti=Records
 
 183.2.sec=Records of training of personnel in radiation protection (as required in para. 3.150(b)).
 
-183.=[G/Z/ol-a/s2]
+183.=[OTF/Z/ol-a/s2]
 
 184.0.sec=Registrants and licensees shall maintain for a period as specified by the regulatory body and shall make available, as required, the following records of calibration, dosimetry and quality assurance:
 
@@ -1623,7 +1623,7 @@ Req.42.2.Ti=Records
 
 184.4.sec=Records associated with the quality assurance programme, as required in para. 3.171(d).
 
-184.=[G/Z/ol-a/s4]
+184.=[OTF/Z/ol-a/s4]
 
 185.0.sec=Registrants and licensees shall maintain for a period as specified by the regulatory body and shall make available, as required, the following records for medical exposure:
 
@@ -1639,7 +1639,7 @@ Req.42.2.Ti=Records
 
 185.6.sec=Reports on investigations of unintended and accidental medical exposures (as required in para. 3.181(d)).
 
-185.=[G/Z/ol-a/s6]
+185.=[OTF/Z/ol-a/s6]
 
 Req.42.Sec=<b>{Req.42.Ti}</b><br><b>{Req.42.Text}</b><br>{Req.42.1.Ti}<ol start=182><li>{182.sec}</ol>{Req.42.2.Ti}<ol start=183><li>{183.sec}<li>{182.sec}<li>{183.sec}<li>{184.sec}<li>{185.sec}</ol>
 
@@ -1647,7 +1647,7 @@ H.5.Sec=<b>{H.5.Ti}</b><br>{H.5.1.Ti}<ol start=145><li>{145.sec}<li>{146.sec}</o
 
 Model.Root={H.Sec}
 
-H.=[G/Z/paras/5]
+H.=[OTF/Z/paras/5]
 
 SecList=<ol><li>{1.sec}<li>{2.sec}<li>{3.sec}<li>{4.sec}<li>{5.sec}<li>{6.sec}<li>{7.sec}<li>{8.sec}<li>{9.sec}<li>{10.sec}<li>{11.sec}<li>{12.sec}<li>{13.sec}<li>{14.sec}<li>{15.sec}<li>{16.sec}<li>{17.sec}<li>{18.sec}<li>{19.sec}<li>{20.sec}<li>{21.sec}<li>{22.sec}<li>{23.sec}<li>{24.sec}<li>{25.sec}<li>{26.sec}<li>{27.sec}<li>{28.sec}<li>{29.sec}<li>{30.sec}<li>{31.sec}<li>{32.sec}<li>{33.sec}<li>{34.sec}<li>{35.sec}<li>{36.sec}<li>{37.sec}<li>{38.sec}<li>{39.sec}<li>{40.sec}<li>{41.sec}<li>{42.sec}<li>{43.sec}<li>{44.sec}<li>{45.sec}<li>{46.sec}<li>{47.sec}<li>{48.sec}<li>{49.sec}<li>{50.sec}<li>{51.sec}<li>{52.sec}<li>{53.sec}<li>{54.sec}<li>{55.sec}<li>{56.sec}<li>{57.sec}<li>{58.sec}<li>{59.sec}<li>{60.sec}<li>{61.sec}<li>{62.sec}<li>{63.sec}<li>{64.sec}<li>{65.sec}<li>{66.sec}<li>{67.sec}<li>{68.sec}<li>{69.sec}<li>{70.sec}<li>{71.sec}<li>{72.sec}<li>{73.sec}<li>{74.sec}<li>{75.sec}<li>{76.sec}<li>{77.sec}<li>{78.sec}<li>{79.sec}<li>{80.sec}<li>{81.sec}<li>{82.sec}<li>{83.sec}<li>{84.sec}<li>{85.sec}<li>{86.sec}<li>{87.sec}<li>{88.sec}<li>{89.sec}<li>{90.sec}<li>{91.sec}<li>{92.sec}<li>{93.sec}<li>{94.sec}<li>{95.sec}<li>{96.sec}<li>{97.sec}<li>{98.sec}<li>{99.sec}<li>{100.sec}<li>{101.sec}<li>{102.sec}<li>{103.sec}<li>{104.sec}<li>{105.sec}<li>{106.sec}<li>{107.sec}<li>{108.sec}<li>{109.sec}<li>{110.sec}<li>{111.sec}<li>{112.sec}<li>{113.sec}<li>{114.sec}<li>{115.sec}<li>{116.sec}<li>{117.sec}<li>{118.sec}<li>{119.sec}<li>{120.sec}<li>{121.sec}<li>{122.sec}<li>{123.sec}<li>{124.sec}<li>{125.sec}<li>{126.sec}<li>{127.sec}<li>{128.sec}<li>{129.sec}<li>{130.sec}<li>{131.sec}<li>{132.sec}<li>{133.sec}<li>{134.sec}<li>{135.sec}<li>{136.sec}<li>{137.sec}<li>{138.sec}<li>{139.sec}<li>{140.sec}<li>{141.sec}<li>{142.sec}<li>{143.sec}<li>{144.sec}<li>{145.sec}<li>{146.sec}<li>{147.sec}<li>{148.sec}<li>{149.sec}<li>{150.sec}<li>{151.sec}<li>{152.sec}<li>{153.sec}<li>{154.sec}<li>{155.sec}<li>{156.sec}<li>{157.sec}<li>{158.sec}<li>{159.sec}<li>{160.sec}<li>{161.sec}<li>{162.sec}<li>{163.sec}<li>{164.sec}<li>{165.sec}<li>{166.sec}<li>{167.sec}<li>{168.sec}<li>{169.sec}<li>{170.sec}<li>{171.sec}<li>{172.sec}<li>{173.sec}<li>{174.sec}<li>{175.sec}<li>{176.sec}<li>{177.sec}<li>{178.sec}<li>{179.sec}<li>{180.sec}<li>{181.sec}<li>{182.sec}<li>{183.sec}<li>{184.sec}<li>{185.sec}</ol>
 

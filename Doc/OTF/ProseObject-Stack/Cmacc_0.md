@@ -8,7 +8,7 @@ Repo.Ti=Repository
 
 Repo.sec=A Cmacc repository is a folder of files ("Files"), which may have subfolders. The Files may have meaningful names, or may be named by hashing the content of the File.
 
-Repo.=[G/Z/ol/0]
+Repo.=[OTF/Z/ol/0]
 
 File.Ti=Files
 
@@ -22,13 +22,13 @@ File.1.3.sec==[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]
 
 File.1.4.sec=Buyer.=[U/id/acme_incorporated]
  
-File.1.=[G/Z/ol-none/s4]
+File.1.=[OTF/Z/ol-none/s4]
 
 File.2.sec=The Key/Values are delimited by a start-of-line, the first equals sign ("=")(the Value may contain an equals sign) and an end-of-line.  (There is reason to want to change this to a double end-of-line.)
 
 File.3.sec=The file format is the canonical form, but the data model can also be done in a database, including a blockchain or a graph database.  It may be convenient to use <a href="index.php?action=json&file=OTF/ProseObject-Stack/Cmacc_0.md">JSON</a>.  
 
-File.=[G/Z/ol/s3]
+File.=[OTF/Z/ol/s3]
 
 Doc.Ti=Rendering Documents
 
@@ -44,7 +44,7 @@ Doc.4.sec=A [Path/Name_of_Another_File] is matched with a file path and name.  T
 
 Doc.5.sec=The only other feature is "prefixing."  When referencing another File, the Key for the reference can be empty (see below in the source view of this File) or it can be a string (see 2.= in this File).  If the Key has a string, then the string is added to the front of each Key and to the front of each Variable in the referenced File.  This is chained, so that if a File3 uses a prefix "Buyer." when referencing File2, and File2 uses a prefix "CEO." when referencing File1, then each of the Keys in File1 is treated as being prefixed by "Buyer.CEO." This chaining can be as long as you want.  When expanding a prefixed Variable, if no match is found, then the right-most prefixing link is removed and it is tried again.  ("Buyer.") (This sounds complicated, but is extremely convenient and comports with our instincts the great majority of the time.)
 
-Doc.=[G/Z/ol/s5]
+Doc.=[OTF/Z/ol/s5]
   
 EG.Ti=For Example
 
@@ -52,7 +52,7 @@ EG.1.sec=A File of deal points references parties and a form of document:  <a hr
 
 EG.2.sec=File names may be "hashes", guaranteeing uniqueness and allowing certain kinds of proof even when maintaining the confidentiality of information in a "DRY" system: <a href="index.php?action=list&file=S/Sandbox/Blockchain/">S/Sandbox/Blockchain/</a>
 
-EG.=[G/Z/ol/s2] 
+EG.=[OTF/Z/ol/s2] 
 
 Plus.=[OTF/ProseObject-Stack/Cmacc_Extensions_0.md]
 

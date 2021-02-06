@@ -16,8 +16,8 @@ Ti=Terms
 
 5.3.sec=Widgets
 
-5.=[G/Z/ol/s3]
+5.=[OTF/Z/ol/s3]
 
 6.sec=CmA-like open source, including national
   
-=[G/Z/ol/s6]
+=[OTF/Z/ol/s6]

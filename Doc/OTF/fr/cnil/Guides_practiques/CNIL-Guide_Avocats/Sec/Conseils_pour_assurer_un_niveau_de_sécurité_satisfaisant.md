@@ -14,7 +14,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 1.3.sec=obligez l’utilisateur à changer son mot de passe après réinitialisation
 
-1.=[G/Z/paras/s3]
+1.=[OTF/Z/paras/s3]
 
 2.Ti=Gérez les habilitations et sensibilisez les utilisateurs
 
@@ -26,7 +26,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 2.4.sec=rédigez une charte informatique et annexez-la au règlement intérieur
 
-2.=[G/Z/paras/s4]
+2.=[OTF/Z/paras/s4]
 
 3.Ti=Sécurisez les postes de travail
 
@@ -38,7 +38,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 3.4.sec=prévoyez une procédure de verrouillage automatique de session
 
-3.=[G/Z/paras/s4]
+3.=[OTF/Z/paras/s4]
 
 4.Ti=Sécurisez l’informatique mobile
 
@@ -56,7 +56,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 5.5.sec=chiffrez les sauvegardes
 
-5.=[G/Z/paras/s5]
+5.=[OTF/Z/paras/s5]
 
 6.Ti=Encadrez la maintenance
 
@@ -68,7 +68,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 6.4.sec=prévoyez de rendre impossible l’accès au contenu des bases de données aux prestataires techniques
 
-6.=[G/Z/paras/s4]
+6.=[OTF/Z/paras/s4]
 
 7.Ti=Tracez les accès et gérez les incidents
 
@@ -80,7 +80,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 7.4.sec=notifiez aux personnes concernées des accès frauduleux à leurs données
 
-7.=[G/Z/paras/s4]
+7.=[OTF/Z/paras/s4]
 
 8.Ti=Protégez les locaux
 
@@ -88,7 +88,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 8.2.sec=installez des alarmes anti-intrusion et vérifiez-les périodiquement
 
-8.=[G/Z/paras/s2]
+8.=[OTF/Z/paras/s2]
 
 9.Ti=Protégez le réseau informatique interne
 
@@ -100,7 +100,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 9.4.sec=mettez en œuvre le protocole WPA - AES/CCMP pour les réseaux WiFi
 
-9.=[G/Z/paras/s4]
+9.=[OTF/Z/paras/s4]
 
 10.Ti=Sécurisez les serveurs et les applications
 
@@ -110,7 +110,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 10.3.sec=assurez une disponibilité des données
 
-10.=[G/Z/paras/s3]
+10.=[OTF/Z/paras/s3]
  
 11.Ti=Gérez la sous-traitance
 
@@ -120,7 +120,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 11.3.sec=prévoyez les conditions de restitution et de destruction des données
 
-11.=[G/Z/paras/s3]
+11.=[OTF/Z/paras/s3]
 
 12.Ti=Archivez
 
@@ -128,7 +128,7 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 12.2.sec=détruisez les archives obsolètes de manière sécurisée
 
-12.=[G/Z/paras/s2]
+12.=[OTF/Z/paras/s2]
 
 13.Ti=Sécurisez les échanges avec d’autres organismes
 
@@ -138,6 +138,6 @@ Note=Rappel : Les avocats, au même titre que les éventuels prestataires spéci
 
 13.3.sec=transmettez le secret lors d’un envoi distinct et via un canal différent
 
-13.=[G/Z/paras/s3]
+13.=[OTF/Z/paras/s3]
 
-=[G/Z/ol/13]
+=[OTF/Z/ol/13]

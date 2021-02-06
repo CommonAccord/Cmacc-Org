@@ -44,7 +44,7 @@ Req.43.Text=The government shall ensure that an integrated and coordinated emerg
 
 5.12.sec=Involvement of relevant parties and interested parties.
 
-5.=[G/Z/ol-a/s12]
+5.=[OTF/Z/ol-a/s12]
 
 6.sec=The government shall ensure the coordination of its emergency arrangements and capabilities with the relevant international emergency arrangements.
 
@@ -70,7 +70,7 @@ Note=Different numbering  (1), (2) of the subsections.
 
 8.3.sec=Once the protection strategy has been optimized and a set of generic criteria has been developed, pre-established operational criteria for initiating the different parts of an emergency plan, primarily for the initial phase, shall be derived from the generic criteria. Operational criteria, such as on-scene conditions, operational intervention levels and emergency action levels, shall be expressed in terms of parameters or observable conditions. Arrangements shall be established in advance to revise these operational criteria, as appropriate, in an emergency, with account taken of the prevailing conditions as they evolve.
 
-8.=[G/Z/ol/s3]
+8.=[OTF/Z/ol/s3]
 
 9.sec=Each protective action shall be justified in the context of the protection strategy.
 
@@ -86,7 +86,7 @@ Note=Different numbering  (1), (2) of the subsections.
 
 11.4.sec=Implementing further protection strategies as necessary, on the basis of prevailing conditions and available information.
 
-11.=[G/Z/ol-a/s4]
+11.=[OTF/Z/ol-a/s4]
 
 H.3.Sec=<b>{H.3.Ti}</b><br>{Req.44.Sec}
 
@@ -112,7 +112,7 @@ Req.45.Text=The government shall establish a programme for managing, controlling
 
 15.3.sec=When undertaking actions to avert a large collective dose.
 
-15.=[G/Z/ol-a/s3]
+15.=[OTF/Z/ol-a/s3]
 
 16.sec=In the exceptional circumstances specified in para. 4.15, response organizations and employers shall make all reasonable efforts to keep doses to emergency workers below the values set out in Table IV.2 of Schedule IV (p. 373). In addition, emergency workers undertaking actions as a result of which their doses could approach or exceed the values set out in Table IV.2 of Schedule IV shall do so only when the expected benefits to others would clearly outweigh the risks to the emergency workers.
 
@@ -141,11 +141,11 @@ H.5.Sec=<b>{H.5.Ti}</b><br>{Req.46.Sec}
 
 Req.46.Sec=<b>{Req.46.Ti}</b><br><b>{Req.46.Text}</b><ol start=20><li>{20.sec}<li>{21.sec}</ol>
 
-=[G/Z/ol/s21]
+=[OTF/Z/ol/s21]
 
 Model.Root={H.Sec}
 
-H.=[G/Z/ol/5]
+H.=[OTF/Z/ol/5]
   
 Footnote_47=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/47.md">47</a></sup>
 

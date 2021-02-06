@@ -12,11 +12,11 @@ Ti=Contract
 
 1.2.2.sec=a Form of contract agreement.
 
-1.2.=[G/Z/ol/s2] 
+1.2.=[OTF/Z/ol/s2] 
 
 1.3.sec=A contract must have signature - actual or a substitute.
 
-1.=[G/Z/ol/s3] 
+1.=[OTF/Z/ol/s3] 
 
 2.Ti=Parties
 
@@ -26,7 +26,7 @@ Ti=Contract
 
 2.2.sec=As a convention, in a Record we might refer to Parties as "P1.", "P2.", etc.  Of course we can also refer to them by role, such as "Seller." and "Buyer.".
 
-2.=[G/Z/ol/s2] 
+2.=[OTF/Z/ol/s2] 
 
 3.Ti=Form
 
@@ -42,6 +42,6 @@ Ti=Contract
 
 3.5.sec=Signature generally includes a statement referencing the agreement and has blocks for signature by each Party or their agent.
 
-3.=[G/Z/ol/s5]
+3.=[OTF/Z/ol/s5]
 
-=[G/Z/ol/s3]
+=[OTF/Z/ol/s3]

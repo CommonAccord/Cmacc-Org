@@ -28,4 +28,4 @@ Ti=Hourglass of Transacting:
 Theme.=[S/About/Conference/Theme/0.md]
 
  
-=[G/Z/paras/s10]
+=[OTF/Z/paras/s10]

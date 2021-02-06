@@ -1,6 +1,6 @@
 Ti=Legal Document Types
 
-Agt.=[G/Z/Agt/Agt_v01.md]
+Agt.=[OTF/Z/Agt/Agt_v01.md]
 
 Plead.=[Law/Out/Form/Litig/Plead/Defendant1_v0.md]
 

@@ -28,7 +28,7 @@ Ti=Folders
 
 2.3.00.sec=Perhaps everything is a Thing.
 
-2.3.=[G/Z/ol/s4]
+2.3.=[OTF/Z/ol/s4]
 
 2.4.Ti=Properties
 
@@ -44,7 +44,7 @@ Ti=Folders
 
 2.4.6.sec=IoTs
 
-2.4.=[G/Z/ol/s6]
+2.4.=[OTF/Z/ol/s6]
 
 2.5.Ti=Places
 
@@ -52,9 +52,9 @@ Ti=Folders
 
 2.5.2.sec=GPS
 
-2.5.=[G/Z/ol/s2]
+2.5.=[OTF/Z/ol/s2]
 
-2.=[G/Z/ol/5]  
+2.=[OTF/Z/ol/5]  
 
 00.sec=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/CRUD_0.md">CRUD - Operations on Files</a>
-=[G/Z/ol/2]
+=[OTF/Z/ol/2]

@@ -16,8 +16,8 @@ Ti=Section
 
 2.00.sec=The kit is not mandatory and not complete.  It can be improved and expanded.  Notably, 0.sec and 00.sec could be Intro.sec and Extro.sec, or something along those lines.  At times, I have also experimented with "decorated" sections - for instance where each subsection ends with a ";" and the penultimate one ends with either "; and" or "; or", and the ultimate one ends with ".".  You can also eliminate the numbering ("[Z/paras/..]" or run all the subsections into a single paragraph ("[Z/para/...]").  Widgets would also be useful for lists expressed as elements in a conventional sentence, e.g., "i) first; ii) second; and iii) third."
 
-2.=[G/Z/ol/s5] 
+2.=[OTF/Z/ol/s5] 
 
-=[G/Z/ol/s2]
+=[OTF/Z/ol/s2]
 
 Note=This File spells out some of the special characters, notably the { so that they are not evaluated.  Editing on GitHub retains the spelled-out form.  As usual, the GitHub interface is well-adapted. 

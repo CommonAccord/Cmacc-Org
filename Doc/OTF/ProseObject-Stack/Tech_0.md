@@ -18,4 +18,4 @@ Ti=Tech Stack:
 
 00.sec=</center><br><a href="index.php?action=doc&file=OTF/ProseObject-Stack/Legal/Documents_0.md">Legal Documents</a>
 
-=[G/Z/paras/s7]
+=[OTF/Z/paras/s7]

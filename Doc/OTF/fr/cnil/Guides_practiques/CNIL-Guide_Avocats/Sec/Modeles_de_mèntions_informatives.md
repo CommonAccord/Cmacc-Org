@@ -20,7 +20,7 @@ Note=(Précisez le service et l’adresse).
 
 1.5.sec=Vous pouvez également, pour des motifs légitimes, vous opposer au traitement des données vous concernant. »
 
-1.=[G/Z/ol/s5]
+1.=[OTF/Z/ol/s5]
 
 2.Ti=Note d’information à afficher
 
@@ -37,7 +37,7 @@ du traitement).
 
 ( Veuillez citer le nom du service ou des services concernés).
 
-2.=[G/Z/ol/s3]
+2.=[OTF/Z/ol/s3]
 
 3.Ti=Panneau d’information concernant la vidéoprotection
 
@@ -53,7 +53,7 @@ Note=(Indiquez les finalités poursuivies).
 
 Note=(identifiez la personne ou le service compétent)
 
-3.=[G/Z/ol/s3]
+3.=[OTF/Z/ol/s3]
 
 4.Ti=Mention générale pour formulaire :
 
@@ -75,7 +75,7 @@ Note=(Veuillez préciser le service et l’adresse).
 
 4.5.sec=Vous pouvez également, pour des motifs légitimes, vous opposer au traitement des données vous concernant.
 
-4.=[G/Z/ol/s5]
+4.=[OTF/Z/ol/s5]
 
 5.Ti=Annuaire diffusé sur internet
 
@@ -89,7 +89,7 @@ Note=(Veuillez préciser le service et l’adresse).
 
 5.5.sec=Pour que nous puissions prendre en compte votre refus, contactez-nous (Précisez comment).
 
-5.=[G/Z/ol/s5]
+5.=[OTF/Z/ol/s5]
 
 6.Ti=Enregistrement de conversations téléphoniques
 
@@ -110,7 +110,7 @@ Note=(Veuillez préciser le service – par exemple le service clientèle) auron
 
 Note=(Veuillez préciser le service et l’adresse).
 
-6.=[G/Z/ol/s5]
+6.=[OTF/Z/ol/s5]
 
 7.Ti=Notice d’information en matière de recrutement
 
@@ -140,13 +140,13 @@ ferait la demande : {AuxClientes.Oui/Non}
 
 7.9.2.sec=- diffuser en ligne les informations me concernant sans les rendre anonymes : {EnLigne.Oui/Non}
 
-7.9.=[G/Z/ol/s2]
+7.9.=[OTF/Z/ol/s2]
 
 7.10.sec=Vous pouvez accéder aux informations vous concernant, les rectifier ou les supprimer pour ce faire il suffit de vous adresser auprès du service suivant : (à préciser).
 
 7.11.sec=Fait le : ............................................... à ...............................................<br>Signature : .............................
 
-7.=[G/Z/ol/s11]
+7.=[OTF/Z/ol/s11]
  
 8.Ti=Mention d’information en cas de transfert de donnés en dehors de l’Union européenne
 
@@ -187,9 +187,9 @@ Note=(Précisez laquelle).
 Note=(Veuillez citer le nom du service auprès duquel il est possible d’exercer son droit
 d’accès).
 
-8.5.=[G/Z/ol/s6]
+8.5.=[OTF/Z/ol/s6]
 
-8.=[G/Z/ol/s5]
+8.=[OTF/Z/ol/s5]
 
 9.Ti=Contrôle d’accès biométrique
 
@@ -213,6 +213,6 @@ Note=(Veuillez préciser le service – par exemple le service informatique)
 
 Note=(Veuillez préciser le service et l’adresse)
 
-9.=[G/Z/ol/s5]
+9.=[OTF/Z/ol/s5]
 
-=[G/Z/ol/9]
+=[OTF/Z/ol/9]

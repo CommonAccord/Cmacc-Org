@@ -14,4 +14,4 @@ Ti=Access
 
 00.sec=Needs much more work.<br><a href="index.php?action=doc&file=OTF/ProseObject-Stack/Tech_0.md">Tech stack</a>
 
-=[G/Z/ol/s4]
+=[OTF/Z/ol/s4]
