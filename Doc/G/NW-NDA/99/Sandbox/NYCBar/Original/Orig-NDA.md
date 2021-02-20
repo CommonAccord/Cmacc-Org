@@ -222,7 +222,27 @@ FtNt.30
 
 13.11.Ti=(k) Conflict Waiver
 
-13.11.sec=This Agreement also constitutes notice to Buyer that the Company has engaged [LAW FIRM] as its legal counsel in connection with the Transaction, and Buyer hereby (i) consents to the continued representation of the Company by [LAW FIRM] in connection with the Transaction notwithstanding the fact that [LAW FIRM] may have represented, and may currently or in the future represent, Buyer and/or any of its Affiliates with respect to unrelated matters and (ii) waives any actual or alleged conflict and actual or alleged violation of ethical or comparable rules applicable to [LAW FIRM] that may arise from its representation of the Company in connection with the Transaction, including but not limited to representing the Company against Buyer and/or any of its Affiliates (or any Person acting on behalf of or in concert with Buyer or any such Affiliates who receives Evaluation Material from Buyer and/or its Representatives) in litigation, arbitration or mediation in connection therewith. In addition, Buyer hereby acknowledges that its consent and waiver under this Section 13(k) is voluntary and informed, and that Buyer has obtained independent legal advice with respect to this consent and waiver. If Buyer has any questions regarding this Section 13(k), please contact [NAME] at [LAW FIRM] at [PHONE NUMBER] or [EMAIL ADDRESS]. Each party hereto agrees that [LAW FIRM] is an express third party beneficiary of this Section 13(k).
+13.11.1.0.sec=This Agreement also constitutes notice to Buyer that the Company has engaged [LAW FIRM] as its legal counsel in connection with the Transaction, and Buyer hereby
+
+13.11.1.1.sec=(i) consents to the continued representation of the Company by [LAW FIRM] in connection with the Transaction notwithstanding the fact that [LAW FIRM] may have represented, and may currently or in the future represent, Buyer and/or any of its Affiliates with respect to unrelated matters and 
+
+13.11.1.2.sec=(ii) waives any actual or alleged conflict and actual or alleged violation of ethical or comparable rules applicable to [LAW FIRM] that may arise from its representation of the Company in connection with the Transaction, including but not limited to representing the Company against Buyer and/or any of its Affiliates (or any Person acting on behalf of or in concert with Buyer or any such Affiliates 
+
+13.11.1.00.sec=who receives Evaluation Material from Buyer and/or its Representatives) in litigation, arbitration or mediation in connection therewith.
+
+13.11.1.=[G/Z/ol-i/s2]
+
+13.11.2.sec=In addition, Buyer hereby acknowledges that its consent and waiver under this Section 13(k) is voluntary and informed, and that Buyer has obtained independent legal advice with respect to this consent and waiver.
+
+13.11.3.sec=If Buyer has any questions regarding this Section 13(k), please contact [NAME] at [LAW FIRM] at [PHONE NUMBER] or [EMAIL ADDRESS]. 
+
+Misc.11.4.sec=Each party hereto agrees that {Seller.LawFirm.Name.Full} is an express third party beneficiary of this Section 13(k).
+
+Seller.LawFirm.=[G/U/Who/CliffordChance.md]
+
+13.Sec={Misc.Sec}
+
+13.11.=[G/Z/ol/s4]
 
 13.12.Ti=(l) Counterparts
 
@@ -230,8 +250,9 @@ FtNt.30
 
 13.=[G/Z/ol-a/12]
 
+sec=<ol><li>{Misc.Sec}</ol>
 
-=[G/Z/ol/13]
+=[G/Z/Base]
 
 [Signature page follows] 
 

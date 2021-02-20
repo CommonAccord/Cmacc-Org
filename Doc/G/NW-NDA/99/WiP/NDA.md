@@ -27,3 +27,6 @@ Templates available with NW access credentials.
 
 
 https://www.it.northwestern.edu/policies/nda.html
+
+A wiki-formatted guide to NDAs.  Superb:
+https://jollycontrarian.com/index.php?title=Confi_Anatomy
