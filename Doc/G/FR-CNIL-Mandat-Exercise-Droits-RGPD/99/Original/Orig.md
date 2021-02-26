@@ -126,11 +126,11 @@ Attention : ce document est un exemple de mandat relatif à l’exercice des dro
 
 3.2.4.sec=__ des éléments relatifs à mon identité (nom, prénom, date de naissance, et, si l’organisme la détient déjà, une copie de ma pièce d’identité). 
 
-3.2.5.sec=__Je comprends que si le responsable de traitement a des doutes sur mon identité, il peut, en application de l’article 12 du RGPD, me demander des informations supplémentaires, en me contactant directement ou en se tournant vers le mandataire. 
+3.2.=[G/Z/ol-bullet/s4]
 
-3.2.=[G/Z/ol-bullet/s5]
+3.3.sec=Je comprends que si le responsable de traitement a des doutes sur mon identité, il peut, en application de l’article 12 du RGPD, me demander des informations supplémentaires, en me contactant directement ou en se tournant vers le mandataire. 
 
-3.=[G/Z/ol/s2]
+3.=[G/Z/ol/s3]
 
 4.Ti=Article 4 - Demandes d’exercice de droit automatisées et renouvellement du mandat par défaut 
 
