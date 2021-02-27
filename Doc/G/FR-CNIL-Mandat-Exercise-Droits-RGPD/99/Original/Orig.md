@@ -56,7 +56,7 @@ Attention : ce document est un exemple de mandat relatif à l’exercice des dro
 
 1.2.Ti=2e option (en cas d’une demande de renouvellement) 
 
-1.2.1.0.sec=Plus précisément, le présent mandat a pour objet de confier au {_mandataire} le renouvellement de ma demande précédemment adressée le {Prior.EffectiveDate.YMD} et ayant pour objet l’exercice de mon : 
+1.2.1.0.sec=Plus précisément, le présent mandat a pour objet de confier au {_mandataire} le renouvellement de ma demande précédemment adressée le {AuthDoc1.EffectiveDate.YMD} et ayant pour objet l’exercice de mon : 
 
 1.2.1.1.sec=__droit d’accès (article 15 du {_RGPD}) ; 
 
@@ -162,7 +162,7 @@ LawyersNote="web scrapping" is i) defined but not used and ii) misspelled - shou
 
 5.1.0.sec=Afin de répondre à ma demande, le {_responsable_de_traitement} pourra : 
 
-5.1.1.sec=__ me transmettre directement les données me concernant à l’adresse suivante : {P1.AdressForReceivingData.cl} ; 
+5.1.1.sec=__ me transmettre directement les données me concernant à l’adresse suivante : {AddressForReceivingData.cl} ; 
 
 5.1.2.sec=__ transmettre directement les données au {_mandataire} ; 
 
