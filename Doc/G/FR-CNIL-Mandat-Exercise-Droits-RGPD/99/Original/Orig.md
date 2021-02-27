@@ -166,7 +166,7 @@ LawyersNote="web scrapping" is i) defined but not used and ii) misspelled - shou
 
 5.1.2.sec=__ transmettre directement les données au {_mandataire} ; 
 
-5.1.3.sec=__ dans le cadre d’une demande de portabilité, transmettre les données au(x) responsable(s) de traitement suivant(s) : {F2.FR.Adr.1,2}
+5.1.3.sec=__ dans le cadre d’une demande de portabilité, transmettre les données au(x) responsable(s) de traitement suivant(s) : {F2.FR.N,1,2}
 
 5.1.=[G/Z/ol-bullet/s3]
 

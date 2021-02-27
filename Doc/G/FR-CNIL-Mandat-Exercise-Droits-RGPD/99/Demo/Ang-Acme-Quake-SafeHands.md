@@ -25,7 +25,7 @@ Prior.EffectiveDate.YMD=N/A
 
 DataCategory.cl=W3C .... or other data classification system.
 
-P1.AdressForReceivingData.cl={P1.FR.Adr.1,2}
+P1.AdressForReceivingData.cl={P1.FR.N,1,2}
 
 EffectiveDate.YMD=2021-03-01
 
