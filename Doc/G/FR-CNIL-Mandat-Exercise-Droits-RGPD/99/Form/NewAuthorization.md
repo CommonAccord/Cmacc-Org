@@ -6,4 +6,4 @@ CodersNote=Treating this as a new request, not a renewal, so selecting the first
 
 Prior.EffectiveDate.YMD=N/A
 
-=[G/FR-CNIL-Mandat-Exercise-Droits-RGPD/99/Original/Orig.md]
+=[G/FR-CNIL-Mandat-Exercise-Droits-RGPD/FR/Form/0.md]

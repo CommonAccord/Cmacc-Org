@@ -4,4 +4,4 @@ CodersNote=Treating this as a new request, not a renewal, so selecting the first
 
 2.sec={2.2.sec}
 
-=[G/FR-CNIL-Mandat-Exercise-Droits-RGPD/99/Original/Orig.md]
+=[G/FR-CNIL-Mandat-Exercise-Droits-RGPD/FR/Form/0.md]

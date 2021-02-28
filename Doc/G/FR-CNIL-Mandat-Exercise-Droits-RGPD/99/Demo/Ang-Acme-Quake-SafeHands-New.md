@@ -24,6 +24,22 @@ EffectiveDate.YMD=2021-03-01
 
 ExpirationDate.YMD=2021-12-31
 
+GDPR-15.Yes/No=Oui
+
+GDPR-16.Yes/No=Non
+
+GDPR-17.Yes/No=Oui
+
+GDPR-18.Yes/No=Non
+
+GDPR-20.Yes/No=Oui
+
+GDPR-21.Yes/No=Non
+
+GDPR-22.Yes/No=Oui
+
+GDPR-7.Yes/No=Non
+
 P1.Sign.Location=Paris
 
 P1.Sign.Date.YMD=2021-02-27
