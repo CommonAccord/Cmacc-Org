@@ -8,9 +8,13 @@ ExpirationDate.YMD=2022-05-31
 
 P1.Sign.Date.YMD=2021-05-23
 
+Purpose.Renew.Why.sec={Purpose.Renew.Why.Alt7.sec}
+
 Renewal.OtherReason.cl=modification d'adresse pour la transmission des données á {F2.Name.Full}
 
 AddressForReceivingData.cl={F2.FR.N,1,2}
+
+P1.Signature=<b><i>s/ ANDREA ANG</i></b>
 
 =[G/FR-CNIL-Mandat-Exercise-Droits-RGPD/99/Form/RenewAuthorization.md]
 
