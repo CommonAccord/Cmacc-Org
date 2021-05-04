@@ -16,6 +16,8 @@ License.Copyright.NoDistribute-LimitNewWork.=[G/Polyform-Licenses/Sec/License/Co
 
 License.Copyright.LimitDistribute-LimitNewWork.=[G/Polyform-Licenses/Sec/License/Copyright/LimitDistribute-LimitNewWork/0.md]
 
+License.Copyright.NoDistribute-NoNewWork.=[G/Polyform-Licenses/Sec/License/Copyright/NoDistribute-NoNewWork/0.md]
+
 License.NewWork.=[G/Polyform-Licenses/Sec/License/NewWork/0.md]
 
 License.Patent.=[G/Polyform-Licenses/Sec/License/Patent/0.md]
@@ -31,6 +33,8 @@ License.Distribute.Notice.=[G/Polyform-Licenses/Sec/License/Distribute/Notice/0.
 License.InternalBusinessUse.=[G/Polyform-Licenses/Sec/License/InternalBusinessUse/0.md]
 
 License.ExcludedRights.=[G/Polyform-Licenses/Sec/License/ExcludedRights/0.md]
+
+License.SmallBusiness.=[G/Polyform-Licenses/Sec/License/SmallBusiness/0.md]
 
 License.Termination.ForPatentClaim.=[G/Polyform-Licenses/Sec/License/Termination/ForPatentClaim/0.md]
 
@@ -72,8 +76,7 @@ Def.BaseAndProduct.sec=<ol><li>{Def.Licensor.sec}</li><li>{Def.Software.sec}</li
 
 =[G/Z/ol/Base]
 
-
-Def.=[/G/Agt-Form-CmA/US/Def/Target/0.md]
+Note=Defined Terms - as hyperlinks:
 
 _Affiliates=<a href='#Def.Affiliates.target' class='definedterm'>Affiliates</a>
 
@@ -125,31 +128,7 @@ Def.Your_Licenses.target={_Your_Licenses}
 Note=Some outlines that organize the sections by subject matter.
 
 
-License.NewWork.Sec}</li><li>{
-License.Patent.Sec}</li><li>{
-License.FairUse.
-License.FreeTrial.
-License.Distribute.
-License.Distribute.Notice.
-License.InternalBusinessUse.
-License.ExcludedRights.
-License.Termination.ForPatentClaim.
-License.Termination.ForViolation.
-License.Termination.ForViolation-WithCurePeriod.
-LimitLiability.
-Purpose.Noncommercial.
-Purpose.Personal.
-Purpose.NoncommercialOrganization.=
-Purpose.Noncompete.Software.
-Purpose.Noncompete.SoftwareOrProduct.
-Compete.Def.
-Compete.Def.Perimeter.
-Compete.NewProduct.
-Compete.DiscontinuedProduct.
-Compete.SaleOfBusiness.
-
-
-License.Secs=<b>License.</b><ol><li>{License.Copyright.Secs}</li><li>{License.NewWork.Sec}</li><li>{License.Patent.Sec}</li><li>{License.FairUse.Sec}</li><li>{License.FreeTrial.Sec}</li><li>{License.Distribute.Sec}</li><li>{License.InternalBusinessUse.Sec}</li><li>{License.ExcludedRights.Sec}</li><li>{License.Termination.Secs}</li></ol>
+License.Secs=<b>License.</b><ol><li>{License.Copyright.Secs}</li><li>{License.NewWork.Sec}</li><li>{License.Patent.Sec}</li><li>{License.FairUse.Sec}</li><li>{License.FreeTrial.Sec}</li><li>{License.Distribute.Sec}</li><li>{License.InternalBusinessUse.Sec}</li><li>{License.SmallBusiness.Sec}</li><li>{License.ExcludedRights.Sec}</li><li>{License.Termination.Secs}</li></ol>
 
 License.Copyright.Secs=<b>License.Copyright.</b><ol><li>{License.Copyright.NoDistribute-LimitNewWork.Sec}</li><li>{License.Copyright.LimitDistribute-LimitNewWork.Sec}</li></ol>
 
@@ -165,5 +144,5 @@ Compete.Def.Secs=<b>Compete.Def.</b><ol><li>{Compete.Def.Sec}</li><li>{Compete.D
 Def.Secs=<b>Def.</b><ol><li><b>Def.Base.</b>{Def.Base.sec}</li><li><b>Def.BaseAndProduct.</b>{Def.BaseAndProduct.sec}</li></ol>
 
 
-Model.Root=<b>Subject-Oriented Organization of Sections</b><ol><li>{Accept.Sec}</li><li>{License.Secs}</li><li>{LimitLiability.Sec}</li><li>{Purpose.Secs}</li><li>{Compete.Secs}</li><li>{Def.Secs}</li></ol>
+sec=<b>Subject-Oriented Organization of Sections</b><ol><li>{Accept.Sec}</li><li>{License.Secs}</li><li>{LimitLiability.Sec}</li><li>{Purpose.Secs}</li><li>{Compete.Secs}</li><li>{Def.Secs}</li></ol>
 
