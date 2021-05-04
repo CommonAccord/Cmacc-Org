@@ -130,7 +130,7 @@ Note=Some outlines that organize the sections by subject matter.
 
 License.Secs=<b>License.</b><ol><li>{License.Copyright.Secs}</li><li>{License.NewWork.Sec}</li><li>{License.Patent.Sec}</li><li>{License.FairUse.Sec}</li><li>{License.FreeTrial.Sec}</li><li>{License.Distribute.Sec}</li><li>{License.InternalBusinessUse.Sec}</li><li>{License.SmallBusiness.Sec}</li><li>{License.ExcludedRights.Sec}</li><li>{License.Termination.Secs}</li></ol>
 
-License.Copyright.Secs=<b>License.Copyright.</b><ol><li>{License.Copyright.NoDistribute-LimitNewWork.Sec}</li><li>{License.Copyright.LimitDistribute-LimitNewWork.Sec}</li></ol>
+License.Copyright.Secs=<b>License.Copyright.</b><ol><li>{License.Copyright.NoDistribute-LimitNewWork.Sec}</li><li>{License.Copyright.LimitDistribute-LimitNewWork.Sec}</li><li>{License.Copyright.NoDistribute-NoNewWork.Sec}</li></ol>
 
 License.Termination.Secs=<b>License.Termination.</b><ol><li>{License.Termination.ForPatentClaim.Sec}</li><li>License.Termination.ForViolation.Sec}</li><li>License.Termination.ForViolation-WithCurePeriod.Sec}</li></ol>
 
