@@ -21,10 +21,8 @@ sub parse {
 
 	
 	my($file,$root,$part) = @_; my $f;
-my $htmlfile = $file . ".html";
-	
 
-	ref($file) eq "GLOB" ? $f = $file : open $f, $file or die $!;
+	ref($file) eq "GLOB" ? $f = $file : open $f, "<$file" or die $!;
 	$orig = $f unless $orig;
 	
 	my $content = parse_root($f, $root, $part);
