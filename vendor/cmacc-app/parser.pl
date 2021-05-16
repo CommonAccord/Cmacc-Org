@@ -14,21 +14,22 @@ my $remote_cnt = 0;
 my $path = "./Doc/";
 my $orig;
 
-# my $filelist = "";
+my $filelist = "";
 
 
 sub parse {
-
 	
 	my($file,$root,$part) = @_; my $f;
 
 	ref($file) eq "GLOB" ? $f = $file : open $f, "<$file" or die $!;
+	
 	$orig = $f unless $orig;
 	
 	my $content = parse_root($f, $root, $part);
 	if($content) { expand_fields($f, \$content, $part); return($content) }
 
 	return;
+	 
 }
 
 
@@ -46,7 +47,6 @@ sub parse_root {
 	seek($f, 0, 0);
 	while(<$f>) {
 		my($part,$what, $newfield);
-#		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ s/^\Q$part\E//) ) {
 		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ /^\Q$part\E/ )) {
 			if ( $part && ($field =~ /^\Q$part\E(.+?)$/) ){ $newfield = $1;}
 			
@@ -62,7 +62,7 @@ sub parse_root {
 			else {
 				$root = parse($path.$what, $newfield || $field, $part);
 			}
-#	$filelist = $filelist . "<br><br>[" . $what. "]";  to make a list of each file visited.
+#   $filelist = $filelist . "<br><br>[" . $what. "] - - -  " . $field ; # to make a list of each file visited.
 
 			return $root if $root;
 		}
@@ -88,9 +88,9 @@ sub expand_fields  {
 
 
 my $output  = parse($ARGV[0], "Model.Root");
-# print $output . "\n\n" . $filelist;
+# "$filelist is list of files visited if line 65 is uncommented"
+print $output . "\n\n" . $filelist;
 
-print $output;
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;
