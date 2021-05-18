@@ -14,7 +14,7 @@ my $remote_cnt = 0;
 my $path = "./Doc/";
 my $orig;
 
-my $filelist = "";
+# my $filelist = "";
 
 
 sub parse {
@@ -89,7 +89,10 @@ sub expand_fields  {
 
 my $output  = parse($ARGV[0], "Model.Root");
 # "$filelist is list of files visited if line 65 is uncommented"
-print $output . "\n\n" . $filelist;
+
+print $output . "\n\n"
+
+# print $output . "\n\n" . $filelist;
 
 
 #clean up the temporary files (remote fetching)
