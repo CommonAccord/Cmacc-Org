@@ -1,0 +1,46 @@
+   Party 1
+Company Address
+Execution
+Party 2
+Company Address Execution
+[INSERT] [INSERT]
+By: Name: Title:
+[INSERT] [INSERT]
+By: Name: Title:
+Parties and execution
+     Variables
+ Purpose Duration Governing Law Jurisdiction
+Discussing and sharing information in relation to [INSERT] [INSERT] years
+[INSERT]
+[INSERT]
+   
+  Terms
+1. What is Confidential Information?
+(a) Confidential Information means information which is disclosed by a party (the Discloser) to another party (the Receiver) for the Purpose.
+(b) Confidential Information does not include information that is: (i) inthepublicdomainnotbybreachofthisAgreement,
+(ii) knownbytheReceiveratthetimeofdisclosure,
+(iii) independentlydevelopedbytheReceiver,or
+(iv) expresslyindicatedbytheDiscloserasnotconfidential.
+2. Who can I share it with?
+(a) The Receiver may share the Confidential Information with entities that directly or indirectly control, are controlled by or are under common control, or affiliated with, the Receiver (its Affiliates) and its officers, employees, members, representatives, professional advisors, agents and subcontractors (altogether, Permitted Receivers) but only if they:
+(i) needtoknowit,andonlyuseit,forthePurpose,and
+(ii) haveagreedtokeepitconfidentialandrestrictitsusetothesameextent that the Receiver has.
+(b) The Receiver is liable for any breach by a Permitted Receiver of the obligations contained in this Agreement.
+(c) TheReceivermaysharetheConfidentialInformationiflegallyrequiredbut must (if legally allowed) promptly notify the Discloser of the requirement.
+3. What are my obligations?
+(a) The Receiver must:
+(i) onlyusetheConfidentialInformationforthePurpose,
+(ii) keeptheConfidentialInformationsecureandconfidentialandonly disclose it as allowed by this Agreement,
+(iii) promptlynotifytheDiscloserifitbecomesawareofabreachofthis Agreement or circumstances that are likely to result in the unauthorised disclosure of any Confidential Information, and
+(iv) takereasonablestepstodestroyoreraseanyConfidentialInformationit holds within thirty days of the Discloser’s request. However, copies of Confidential Information may be securely stored in archival or computer back-up systems, or to meet legal or regulatory obligations, subject to the confidentiality obligations in this Agreement.
+4. How long do my obligations last?
+(a) This Agreement will apply from the signature date for the Duration.
+www.oneNDA.club 2
+ 
+ 5. Other important information
+(a) Formal notices under this Agreement must be in writing and sent to the email addresses on the Agreement’s front page (as may be updated by a party to the other in writing).
+(b) Neither party can assign the Agreement to anyone else without the other party's consent.
+(c) IfapartyfailstoenforcearightunderthisAgreement,thatisnotawaiverof that right at any time.
+(d) The Governing Law will apply to this Agreement, and all disputes will be litigated in the courts of the Jurisdiction.
+www.oneNDA.club 3
+ 
