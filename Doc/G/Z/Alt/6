@@ -8,7 +8,7 @@ sec=<font color="magenta">{Alt0.sec}:{Altolist}</font>
 
 1.sec=hello
 
-Alt0.sec=Select one - {SecName}.sec={{SecName}.AltX.sec}where X is 1-6
+Alt0.sec=<b>{AltPrompt}:</b>  Select one - {SecName}.sec={{SecName}.AltX.sec}where X is 1-6
 
 Model.Root={Sec}
 

@@ -6,7 +6,7 @@ Alt0.Sec=Select one - {SecName}.Sec={{SecName}.AltX.Sec}where X is 1-10
 
 sec=<font color="magenta">{Alt0.sec}:{Altolist}</font>
 
-Alt0.sec=Select one - {SecName}.sec={{SecName}.AltX.sec}where X is 1-10
+Alt0.sec=<b>{AltPrompt}:</b>  Select one - {SecName}.sec={{SecName}.AltX.sec}where X is 1-10
 
 Model.Root={Sec}
 
