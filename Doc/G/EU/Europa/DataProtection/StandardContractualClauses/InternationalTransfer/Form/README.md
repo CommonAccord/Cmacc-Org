@@ -12,3 +12,10 @@ You can use these docs by referencing them, either as such (include a reference 
 
 The hope is that these will become more granular and more annotated, including with explanatory materials and with smart code.
 
+Some other useful resources:
+
+Bird & Bird commentary:
+https://www.twobirds.com/en/news/articles/2021/uk/replacement-standard-contractual-clauses
+
+Redline and discussion:
+https://www.linkedin.com/feed/update/urn:li:activity:6806535306582482944/
