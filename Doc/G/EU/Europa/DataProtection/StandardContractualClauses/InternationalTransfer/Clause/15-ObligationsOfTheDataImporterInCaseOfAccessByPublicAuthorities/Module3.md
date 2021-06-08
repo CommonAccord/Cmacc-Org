@@ -1,4 +1,4 @@
-Note=For each of Modules One, Two and Four, a second sentence is removed from each of three paragraphs.  As so:
+Note=For each of Modules Three, a second sentence is added to each of three paragraphs.  We reference the Base.md and tweak it as so:
 
 
 1.1.00.Note - Optional for Module Three: 
