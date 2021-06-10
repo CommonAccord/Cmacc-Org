@@ -26,9 +26,9 @@ Judge1.Name.Full=Hon. Meagan Majeured
 
 Note=Plaintiff
 
-Plaintiff1.=[OTF/AIII-v-SAS-PatentProtectiveOrder-CmA/Plaintiff1.md]
+Plaintiff1.=[G/AIII-v-SAS-PatentProtectiveOrder-CmA/Plaintiff1.md]
 
-Defendant1.=[OTF/AIII-v-SAS-PatentProtectiveOrder-CmA/Defendant1.md]
+Defendant1.=[G/AIII-v-SAS-PatentProtectiveOrder-CmA/Defendant1.md]
 
 Default_Field={RFP.Proponent}
 
