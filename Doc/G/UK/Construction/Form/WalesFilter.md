@@ -1,4 +1,4 @@
-Ti=ENGLAND FILTER 
+Ti=WALES FILTER on Scheme for Construction Contracts (England and Wales) Regulations 1998/649 
 
 9.sec={9.Alt2.sec}
 
