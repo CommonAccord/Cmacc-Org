@@ -4,6 +4,8 @@ P2.=[G/U/Who/quake_incorporated.md]
 
 P3.=[G/U/Who/state_street_corporation.md]
 
+design/construction=design and construction
+
 BusinessDay.Reference.cl=England when banks in London
 
 Law.Adverb.cl=English
