@@ -16,6 +16,6 @@ Construe.Legislation.sec={Construe.Legislation.UnlessException.sec}
 
 Construe.legislation_as.sec={Construe.legislation_as.Amended.sec}
 
-Step-In.sec={Step-In.Alt1.sec}
+Step-In.=[G/UK/CollateralWarranty/Sec/Step-In/ContractorMayNotTerminate/0.md]
 
 =[G/UK/CollateralWarranty/Form/0.md]
