@@ -6,6 +6,20 @@ P3.=[G/U/Who/state_street_corporation.md]
 
 design/construction=design and construction
 
+Doc.GUID=AcQuSt-001
+
+EffectiveDate.YMD=2021-07-02
+
+BuildingContract.EffectiveDate.YMD=2021-05-30
+
+Property.Description.cl=the little house at the edge of the Enchanted Forest
+
+xSignature=xDigitalSignatures
+
+Sign.YMD=2021-08-01
+
+Annex.Div=</i>
+
 BusinessDay.Reference.cl=England when banks in London
 
 Law.Adverb.cl=English
