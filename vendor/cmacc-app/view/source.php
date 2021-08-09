@@ -31,8 +31,10 @@ foreach($contents as $n) {
 	  list($v1, $v2) = array_pad( explode ("///", $v, 2), 2, null);
 
 	  $v = "<a href=$_SERVER[PHP_SELF]?action=source&file=$matches[1]>$v1</a></td><td>$v2";
-
         }
+        else
+        $v = str_replace('{', '<b>{', $v);
+        $v = str_replace('}', '}</b>', $v);
 
        	
         echo "<tr id=$k>";

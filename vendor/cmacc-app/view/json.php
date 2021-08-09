@@ -51,8 +51,8 @@ if(preg_match('/\[(.+?)\]/', $v, $matches)) {
 elseif(isset($v)) { 
 $vhtml =  htmlspecialchars(json_encode($v));
 $vhtml = str_replace('\/', '/', $vhtml);
-$vhtml = str_replace('{', '", "', $vhtml);
-$vhtml = str_replace('}', '", "', $vhtml);
+$vhtml = str_replace('{', '", "<b>', $vhtml);
+$vhtml = str_replace('}', '</b>", "', $vhtml);
 $text= $text .  "\"$k\" : $vhtml ,<br><br>"; 
 }
   else { 
