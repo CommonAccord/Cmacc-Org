@@ -33,8 +33,8 @@ foreach($contents as $n) {
 	  $v = "<a href=$_SERVER[PHP_SELF]?action=source&file=$matches[1]>$v1</a></td><td>$v2";
         }
         else
-        $v = str_replace('{', '<b>{', $v);
-        $v = str_replace('}', '}</b>', $v);
+        $v = str_replace('{', '<span class="missing">{', $v);
+        $v = str_replace('}', '}</span>', $v);
 
        	
         echo "<tr id=$k>";
