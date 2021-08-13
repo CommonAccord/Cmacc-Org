@@ -12,7 +12,7 @@ Intro.3.sec=<b>{Among.sec}</b>
 
 Among.1.sec=<span style="text-transform: uppercase">Each person who sells, purchases or otherwise possesses a collectible (as defined herein) under circumstances indicating that such collectible is subject to this form of license, thereby, without further action, agrees to be bound by the terms of this {License.Title}.</span>
 
-Among.2.sec=This {License.Title} (the “Def.Terms.target}”) sets forth the terms and conditions governing each Collectible lawfully offered, sold or transferred under circumstances indicating to a reasonable person that the bona fide creator, offeror or seller of such Collectible (the “{Def.Creator.target}”) intends that the Collectible or the offer, sale, use, or transfer of the Collectible shall be governed hereby.
+Among.2.sec=This {License.Title} (the “{Def.Terms.target}”) sets forth the terms and conditions governing each Collectible lawfully offered, sold or transferred under circumstances indicating to a reasonable person that the bona fide creator, offeror or seller of such Collectible (the “{Def.Creator.target}”) intends that the Collectible or the offer, sale, use, or transfer of the Collectible shall be governed hereby.
 
 Among.3.0.sec=Without limiting the generality of the foregoing, any Collectible shall be governed by these Terms if the Collectible Metadata includes
 
