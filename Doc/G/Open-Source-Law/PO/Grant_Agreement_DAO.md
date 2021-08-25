@@ -62,11 +62,7 @@ Compensate.2.sec={_DAO_Party} will reimburse {_Service_Provider} for all reasona
 
 Compensate.=[G/Z/ol-a/s2]
 
-IndependentContractor.Ti=Independent Contractor Relationship
-
-IndependentContractor.sec=In providing the {_Services} under this {_Agreement}, the {_Parties} expressly agree that {_Service_Provider} is acting as an independent contractor and not as an employee or agent of {_DAO_Legal_Entity}, {_DAO_Party} or any other related entity. {_Service_Provider} and {_DAO_Party} acknowledge and agree that this {_Agreement} does not create a partnership of any kind, nor any joint venture or similar relationship, and is exclusively a contract for service. {_Service_Provider} is not required to pay or make any contributions of any monetary value towards any governmental entity for tax purposes, unemployment compensation, worker’s compensation, insurance premium, pension or any other employee benefit with respect to {_DAO_Party} during the {_Term}. {_Service_Provider} acknowledges and agrees that {_Service_Provider} is solely responsible for complying with all laws, regulations, and other governmental requirements applicable to {_Service_Provider} including but not limited to paying all taxes, expenses, and other amounts due from {_Service_Provider} of any kind related to this {_Agreement}.
-
-IndependentContractor.=[G/Z/Base]
+IndependentContractor.=[G/Open-Source-Law/PO/Sec/IndependentContractorRelationship/2021-08-23.md]
 
 // applicable for where grantee will be privy to confidential information, such as information subject to a third party's NDA, or perhaps where a grantee wishes to preserve their own anonymity, etc.
 

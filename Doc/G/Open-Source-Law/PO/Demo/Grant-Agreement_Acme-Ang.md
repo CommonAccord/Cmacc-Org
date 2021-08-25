@@ -4,6 +4,8 @@ P1.=[G/U/Who/andrea_ang.md]
 
 P2.=[G/U/Who/acme_incorporated.md]
 
+IndependentContractor.=[G/Open-Source-Law/PO/Sec/IndependentContractorRelationship/2021-08-24.md]
+
 =[G/Open-Source-Law/PO/Grant_Agreement_DAO.md]
 
 Law.Dispute.sec=<span class="warning">{ICC.ARB.1.sec}</span>
