@@ -8,3 +8,12 @@ D
 *.pdf
 vendor
 
+Doc/G/Open-Source-Law/forms/
+Doc/G/Open-Source-Law/solidity/
+Doc/G/nft-license/Markdown Format/
+Doc/G/Open-Source-Law/Disclosure.md
+Doc/G/Open-Source-Law/LICENSE
+Doc/G/Open-Source-Law/README.md
+Doc/G/nft-license/README.md
+
+Doc/G/crypto-governance/delegation/
