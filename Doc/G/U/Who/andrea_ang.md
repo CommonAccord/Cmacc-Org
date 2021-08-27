@@ -23,3 +23,5 @@ Work.profession=CEO
 Email=aang@multimail.com
 
 Notice.Name.Full=IMPORTANT!
+
+Personality.type.a=an individual

@@ -20,6 +20,8 @@ Register.Adr.=[G/U/Place/US/DE/New_Castle/Wilmington/Geo]
 
 Register.Agent.=[G/U/Who/the_corporation_company.md]
 
+Personality.type.a=a Delaware corporation
+
 FR.Personality.type="corporation de Delaware, Etats-Unis"
 
 Register.Account.#=12345654321
