@@ -74,9 +74,9 @@ IP.=[G/Z/ol-a/s2]
 
 Term.Ti=Term and Termination
 
-Term.1.sec=The initial term of this {_Agreement} shall be {Term.Initial.Months.#} months from the {_Effective_Date} (the "{Def.Initial_Term.Target}"). Thereafter this {_Agreement} shall automatically renew for successive {Term.Extension.Automatic.Months.#} month periods (each, a "{Def.Renewal_Term.Target}" and together with the {_Initial_Term}, the "{Def.Term.Target}"), provided that neither party has notified the other party in writing at least {Term.Extension.BilateralNoticeToCancel.Days.#} days prior to expiration of such {_Term} that it wishes to not renew the {_Agreement}, in which case the {_Agreement} will terminate at the end of such {_Term}. Notwithstanding the foregoing, Sections 4, 5, 8, and 9 shall survive any termination of this {_Agreement}.
+Term.1.sec=The initial term of this {_Agreement} shall be {Term.Initial.Months.#} months from the {_Effective_Date} (the "{Def.Initial_Term.Target}"). Thereafter this {_Agreement} shall automatically renew for successive {Term.Extension.Automatic.Months.#} month periods (each, a "{Def.Renewal_Term.Target}" and together with the {_Initial_Term}, the "{Def.Term.Target}"), provided that neither party has notified the other party in writing at least {Term.Extension.BilateralNoticeToCancel.Days.#} days prior to expiration of such {_Term} that it wishes to not renew the {_Agreement}, in which case the {_Agreement} will terminate at the end of such {_Term}. Notwithstanding the foregoing, Sections {Liability.Xnum}, {IP.Xnum}, {Law.Xnum}, and {Notice.Xnum} shall survive any termination of this {_Agreement}.
 
-Term.2.sec={_Tokenholder} may only terminate this {_Agreement} prior to the expiration of the {_Term} in the event that {_Delegate} materially fails to satisfy its {_Protocol} governance duties described in Section 2 herein, including, without limitation, continued non-participation in material votes, and does not cure such breach within {Term.Termination.TokenholderForCause.Notice.Days.#} days.
+Term.2.sec={_Tokenholder} may only terminate this {_Agreement} prior to the expiration of the {_Term} in the event that {_Delegate} materially fails to satisfy its {_Protocol} governance duties described in Section {Participate.Xnum} herein, including, without limitation, continued non-participation in material votes, and does not cure such breach within {Term.Termination.TokenholderForCause.Notice.Days.#} days.
 
 Term.3.sec={_Delegate} may terminate this {_Agreement} for any reason or no reason, upon providing {Term.Termination.DelegateAtWill.Notice.Months.#} month's written notice to {_Tokenholder}.
 
@@ -181,3 +181,26 @@ _Delegation_Related_Services=<a href='#Def.Delegation_Related_Services.Target' c
 _Initial_Term=<a href='#Def.Initial_Term.Target' class='definedterm'>Initial Term</a>
 
 _Renewal_Term=<a href='#Def.Renewal_Term.Target' class='definedterm'>Renewal Term</a>
+
+CodersNote=Hyperlinked cross-references (Semantic - you can move the sections around and they still work.):
+
+Delegation.Xnum=<a href='#Delegation.Sec'>1</a>
+
+Participate.Xnum=<a href='#Participate.Sec'>2</a>
+
+Compensation.Xnum=<a href='#Compensation.Sec'>2</a>
+
+Liability.Xnum=<a href='#Liability.Sec'>4</a>
+
+IP.Xnum=<a href='#IP.Sec'>5</a>
+
+Term.Xnum=<a href='#Term.Sec'>6</a>
+
+Amend.Xnum=<a href='#Amend.Sec'>7</a>
+
+Law.Xnum=<a href='#Law.Sec'>8</a>
+
+Notice.Xnum=<a href='#Notice.Sec'>9</a>
+
+
+sec=<ol><li>{Delegation.Sec}</li><li>{Participate.Sec}</li><li>{Compensate.Sec}</li><li>{Liability.Sec}</li><li>{IP.Sec}</li><li>{Term.Sec}</li><li>{Amend.Sec}</li><li>{Law.Sec}</li><li>{Notice.Sec}</
