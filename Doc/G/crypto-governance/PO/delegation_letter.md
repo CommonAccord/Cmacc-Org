@@ -72,17 +72,7 @@ IP.2.sec=Nothing in this {_Agreement} shall be construed to create a license of 
 
 IP.=[G/Z/ol-a/s2]
 
-Term.Ti=Term and Termination
-
-Term.1.sec=The initial term of this {_Agreement} shall be {Term.Initial.Months.#} months from the {_Effective_Date} (the "{Def.Initial_Term.Target}"). Thereafter this {_Agreement} shall automatically renew for successive {Term.Extension.Automatic.Months.#} month periods (each, a "{Def.Renewal_Term.Target}" and together with the {_Initial_Term}, the "{Def.Term.Target}"), provided that neither party has notified the other party in writing at least {Term.Extension.BilateralNoticeToCancel.Days.#} days prior to expiration of such {_Term} that it wishes to not renew the {_Agreement}, in which case the {_Agreement} will terminate at the end of such {_Term}. Notwithstanding the foregoing, Sections {Liability.Xnum}, {IP.Xnum}, {Law.Xnum}, and {Notice.Xnum} shall survive any termination of this {_Agreement}.
-
-Term.2.sec={_Tokenholder} may only terminate this {_Agreement} prior to the expiration of the {_Term} in the event that {_Delegate} materially fails to satisfy its {_Protocol} governance duties described in Section {Participate.Xnum} herein, including, without limitation, continued non-participation in material votes, and does not cure such breach within {Term.Termination.TokenholderForCause.Notice.Days.#} days.
-
-Term.3.sec={_Delegate} may terminate this {_Agreement} for any reason or no reason, upon providing {Term.Termination.DelegateAtWill.Notice.Months.#} month's written notice to {_Tokenholder}.
-
-Term.4.sec=Following the termination or non-renewal of this {_Agreement} by either party, {_Tokenholder} will revoke the {_Delegated_Portion} in full. In such case, {_Delegate} shall provide any assistance reasonably requested by {_Tokenholder} for the purpose of revoking and returning the {_Delegated_Portion} and terminating this {_Agreement}.
-
-Term.=[G/Z/ol-a/s4]
+Term.=[G/crypto-governance/PO/Sec/Term/2021-08-25.md]
 
 Amend.Ti=Entire Agreement; Amendment; Severability
 
