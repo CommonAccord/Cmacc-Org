@@ -36,3 +36,8 @@ Term.Termination.TokenholderForCause.Notice.Days.#=60
 
 Term.Termination.DelegateAtWill.Notice.Months.#=60
 
+Law.State.the=the Commonwealth of Massachusetts
+
+Dispute.Forum.cl=any appropriate federal or state court of competent jurisdiction located in Suffolk county, Massachusetts
+
+

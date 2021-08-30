@@ -4,7 +4,7 @@ CodersNote=Some of the parameter-ish items parameterized and made defaults.
 
 Law.State.the=the State of California
 
-Dispute.Forum.cl=any appropriate federal or state court of competent jurisdiction located in the Counties of San Francisco and Santa Clara
+Dispute.Forum.cl=any appropriate federal or state court of competent jurisdiction located in the Counties of San Francisco and Santa Clara, California
 
 LawyersNote="party" could be Defined.
 
@@ -86,7 +86,7 @@ Amend.=[G/Z/ol-a/s3]
 
 Law.Ti=Governing Law; Waiver of Jury Trial
 
-Law.sec=This {_Agreement} will be governed by and construed exclusively in accordance with the laws of {Law.State.the}, without regard to its conflicts of laws provisions or rules. The parties hereby agree to submit to the exclusive jurisdiction of {Dispute.Forum.cl}, California, as a forum for litigation. Each of the parties hereto hereby waives all right to trial by jury in any lawsuit, action, proceeding or counterclaim arising out of this {_Agreement}.
+Law.sec=This {_Agreement} will be governed by and construed exclusively in accordance with the laws of {Law.State.the}, without regard to its conflicts of laws provisions or rules. The parties hereby agree to submit to the exclusive jurisdiction of {Dispute.Forum.cl}, as a forum for litigation. Each of the parties hereto hereby waives all right to trial by jury in any lawsuit, action, proceeding or counterclaim arising out of this {_Agreement}.
 
 Law.=[G/Z/Base]
 
