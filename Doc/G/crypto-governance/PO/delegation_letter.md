@@ -84,26 +84,16 @@ Amend.3.sec=If any provision of this {_Agreement} is found by a proper authority
 
 Amend.=[G/Z/ol-a/s3]
 
-Law.Ti=Governing Law; Waiver of Jury Trial
+Law.=[G/crypto-governance/PO/Sec/LawAndForum/2021-08-25.md]
 
-Law.sec=This {_Agreement} will be governed by and construed exclusively in accordance with the laws of {Law.State.the}, without regard to its conflicts of laws provisions or rules. The parties hereby agree to submit to the exclusive jurisdiction of {Dispute.Forum.cl}, as a forum for litigation. Each of the parties hereto hereby waives all right to trial by jury in any lawsuit, action, proceeding or counterclaim arising out of this {_Agreement}.
-
-Law.=[G/Z/Base]
-
-Notice.Ti=Counterparts; Notice
-
-Notice.1.sec=This {_Agreement} may be executed in one or more counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument.
-
-Notice.2.sec=All notices or reports permitted or required under this {_Agreement} shall be in writing and shall be delivered by personal delivery, electronic mail, facsimile transmission or by certified or registered mail, return receipt requested, and shall be deemed given upon personal delivery, five days after deposit in the mail, or upon acknowledgment of receipt of electronic transmission. Notices shall be sent to the addresses set forth at the end of this {_Agreement} or such other address as either party may specify in writing.
-
-Notice.=[G/Z/ol-a/s2]
+CounterpartAndNotice.=[G/crypto-governance/PO/Sec/CounterpartAndNotice/2021-08-25.md]
 
 IN WITNESS WHEREOF, by their duly authorized representatives, {_Tokenholder} and {_Delegate} hereby execute this {_Agreement} as of the {_Effective_Date}.
 
 =[G/Agt-Form-CmA/US/Frame/Tokenholder-Delegate/0.md]
 
 
-sec=<ol><li>{Delegation.Sec}</li><li>{Participate.Sec}</li><li>{Compensate.Sec}</li><li>{Liability.Sec}</li><li>{IP.Sec}</li><li>{Term.Sec}</li><li>{Amend.Sec}</li><li>{Law.Sec}</li><li>{Notice.Sec}</li></ol>
+sec=<ol><li>{Delegation.Sec}</li><li>{Participate.Sec}</li><li>{Compensate.Sec}</li><li>{Liability.Sec}</li><li>{IP.Sec}</li><li>{Term.Sec}</li><li>{Amend.Sec}</li><li>{Law.Sec}</li><li>{CounterpartAndNotice.Sec}</li></ol>
 
 Annex.Div=</i>
 
