@@ -6,7 +6,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF {Company.Name.Full}
 
 0.1.sec=a Delaware Limited Liability Company
 
-0.2.sec=THIS LIMITED LIABILITY COMPANY AGREEMENT (this "Agreement") of {Company.Name.Full}, a Delaware limited liability company (the "Company"), is effective as of {EffectiveDate.YMD}, by {Member.Initial.Name.Full}, a {Member.Initial.type} (the "Member") as the initial member of the Company.
+0.2.sec=THIS LIMITED LIABILITY COMPANY AGREEMENT (this "Agreement") of {Company.Name.Full}, a Delaware limited liability company (the "Company"), is effective as of {EffectiveDate.YMD}, by {Member.Initial.US.N,E,A} (the "Member") as the initial member of the Company.
 
 Why.Ti=RECITALS
 
@@ -121,7 +121,7 @@ Why.=[G/Z/ol-AA/s6]
 
 Manager.Initial.Alt1.sec=the Member
 
-Manager.Initial.Alt2.sec={Manager.Initial.N,E,A}
+Manager.Initial.Alt2.sec={Manager.Initial.US.N,E,A}
 
 Manager.Initial.=[G/Z/Alt/2]
 

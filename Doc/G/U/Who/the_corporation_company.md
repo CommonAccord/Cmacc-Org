@@ -20,6 +20,8 @@ Sign.Name.Full={Secretary.Name.Full}
 
 Personality.type=Delaware corporation
 
+Personality.type.a=a Delaware corporation
+
 Register.Account.#=67583920
 
 Signer.US.M/Ms_NameFull=Ms. Charlene Champlain
