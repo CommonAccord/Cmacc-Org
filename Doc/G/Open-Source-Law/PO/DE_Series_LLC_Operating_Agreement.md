@@ -3,13 +3,15 @@
 
 // drafted in the context of housing an Airnode and accompanying licensing rights and proceeds under a data provider's Master LLC, but broadly adaptable
 
-Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] LLC,  [WITH ETHEREUM CONTRACT ADDRESS _________________________]
+Ti=LIMITED LIABILITY COMPANY AGREEMENT OF {Company.Series.Name.Full}, A SERIES OF {Company.Name.Full},
 
-0.1.sec=(the “Company”)
+0.1.sec=WITH ETHEREUM CONTRACT ADDRESS {Company.Series.EthereumContractAddress}
 
-0.2.sec=This limited liability company agreement is made as of [DATE] (the "Effective Date") by and among the Manager, the Member(s), and those persons who have or may become parties to this Agreement in the future (collectively the "Parties") of the Company. In consideration of the mutual covenants in this Agreement the Parties agree as follows:
+0.2.sec=(the “Company”)
 
-0.=[G/Z/paras/s2]
+0.3.sec=This limited liability company agreement is made as of {Series.EffectiveDate.YMD} (the "Effective Date") by and among the Manager, the Member(s), and those persons who have or may become parties to this Agreement in the future (collectively the "Parties") of the Company. In consideration of the mutual covenants in this Agreement the Parties agree as follows:
+
+0.=[G/Z/paras/s3]
 
 1.Ti=DEFINITIONS
 
@@ -51,7 +53,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 1.18.sec="Manager" means the holder of the Ethereum wallet address described in the signature page, who will be a "manager" of the Company within the meaning of Section 18-101(10) of the Act.
 
-1.19.sec="Master LLC" means [MASTER LLC NAME] LLC, a State of Delaware limited liability company.
+1.19.sec="Master LLC" means {Company.Name.Full}, a State of Delaware limited liability company.
 
 1.20.sec="Member" means any Person admitted as a Member of the Company that has not ceased to be a Member pursuant to this Agreement or the Act, having the interests and rights associated with membership in a limited liability company pursuant to this Agreement.
 
@@ -61,7 +63,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 1.23.sec="Person" means any individual or entity.
 
-1.24.sec="Registered Agent" if applicable, means [REGISTERED AGENT NAME], [REGISTERED AGENT ADDRESS].
+1.24.sec="Registered Agent" if applicable, means {Company.RegisteredAgent.N,E,A}.
 
 1.25.sec="Transfer" means, with respect to an Interest, the sale, assignment, transfer, other disposition, pledge, hypothecation or other encumbrance, whether direct or indirect, voluntary, involuntary or by operation of law, and whether or not for value, of that Interest.  Transfer includes any transfer by gift, devise, intestate succession, sale, operation of law, upon the termination of a trust, because of or in connection with any property settlement or judgment incident to a divorce, dissolution of marriage or separation, by decree of distribution or other court order or otherwise.
 
@@ -69,7 +71,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 1.=[G/Z/ol-none/s26]
 
-2.Ti=II.	ORGANIZATIONAL MATTERS
+2.Ti=ORGANIZATIONAL MATTERS
 
 2.1.Ti=Name
 
@@ -125,7 +127,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 2.=[G/Z/ol/13]
 
-3.Ti=III.	CAPITAL ACCOUNTS
+3.Ti=CAPITAL ACCOUNTS
 
 3.1.Ti=No Further Capital Contributions
 
@@ -153,7 +155,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 3.=[G/Z/ol/5]
 
-4.Ti=IV.	MEMBERS; MEMBERSHIP CAPITAL
+4.Ti=MEMBERS; MEMBERSHIP CAPITAL
 
 4.1.Ti=Admission of Members
 
@@ -183,7 +185,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 4.=[G/Z/ol/5]
 
-5.Ti=V.	MANAGEMENT AND CONTROL OF THE COMPANY
+5.Ti=MANAGEMENT AND CONTROL OF THE COMPANY
 
 5.1.Ti=Management
 
@@ -199,7 +201,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 5.2.Ti=Duties and Obligations of the Manager
 
-5.2.1.sec=a.	The Manager shall take all action that may be necessary or appropriate for the continuation of the Company's valid existence and authority to do business as a limited liability company under the laws of the State of Delaware and of each other jurisdiction in which authority to do business is, in the judgment of the Manager, necessary or advisable.
+5.2.1.sec=The Manager shall take all action that may be necessary or appropriate for the continuation of the Company's valid existence and authority to do business as a limited liability company under the laws of the State of Delaware and of each other jurisdiction in which authority to do business is, in the judgment of the Manager, necessary or advisable.
 
 5.2.2.sec=The Manager shall prepare or cause to be prepared and shall file on or before the due date (or any extension) any federal, state or local tax returns required to be filed by the Company.
 
@@ -213,7 +215,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 5.=[G/Z/ol/3]
 
-6.Ti=VI.	ALLOCATIONS OF NET INCOME AND NET LOSS 
+6.Ti=ALLOCATIONS OF NET INCOME AND NET LOSS 
 
 6.1.Ti=Allocation of Net Income and Net Loss
 
@@ -221,7 +223,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 6.=[G/Z/ol/1]
 
-7.Ti=VII.	DISTRIBUTIONS
+7.Ti=DISTRIBUTIONS
 
 7.1.Ti=Generally
 
@@ -237,7 +239,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 7.=[G/Z/ol/3]
 
-8.Ti=VIII.	TRANSFERS
+8.Ti=TRANSFERS
 
 8.1.Ti=Right of First Refusal
 
@@ -253,13 +255,13 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 8.=[G/Z/ol/3]
 
-9.Ti=IX.	RECORDS, REPORTS AND TAXES 
+9.Ti=RECORDS, REPORTS AND TAXES 
 
 9.1.Ti=Books and Records
 
 9.1.0.sec=The Manager will maintain all of the information required to be maintained by the Act at the Company's principal office, with copies available upon reasonable notice by any Member or its authorized representatives for any purpose reasonably related to that Member's status as a member, including as applicable:  
 
-9.1.1.sec=a.	true and full information regarding the status of the business and financial condition of the Company; 
+9.1.1.sec=true and full information regarding the status of the business and financial condition of the Company; 
 
 9.1.2.sec=promptly after becoming available, a copy of the Company's federal, state and local income tax returns, if any, for each Fiscal Year;
 
@@ -273,7 +275,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 9.2.Ti=Reports
 
-9.2.1.Ti=a.	Governmental Reports
+9.2.1.Ti=Governmental Reports
 
 9.2.1.sec=The Company will file all documents and reports required to be filed with any governmental agency in accordance with the Act, including any applicable tax returns.
 
@@ -289,13 +291,13 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 9.=[G/Z/ol/2]
 
-10.Ti=X.	DISSOLUTION AND LIQUIDATION
+10.Ti=DISSOLUTION AND LIQUIDATION
 
 10.1.Ti=Dissolution
 
 10.1.0.sec=The Company will be dissolved, its assets disposed of and its affairs wound up upon any of the following:
 
-10.1.1.sec=a.	the final Distribution of the net assets of the Company to the Members or a Liquidating Vehicle in accordance with this Article;
+10.1.1.sec=the final Distribution of the net assets of the Company to the Members or a Liquidating Vehicle in accordance with this Article;
 
 10.1.2.sec=the dissolution of the Master LLC, as per Article 6 of the Master LLC Operating Agreement; 
 
@@ -313,7 +315,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 10.3.0.sec=The Company's assets, or the proceeds from the liquidation of the Company's assets, will be paid or distributed in the following order:
 
-10.3.1.sec=a.	first, to creditors to the extent otherwise permitted by applicable law in satisfaction of all liabilities and obligations of the Company, including expenses of the liquidation (whether by payment or the making of reasonable provision for payment), other than liabilities for which reasonable provision for payment has been made and liabilities, if any, for Distributions to Members;
+10.3.1.sec=first, to creditors to the extent otherwise permitted by applicable law in satisfaction of all liabilities and obligations of the Company, including expenses of the liquidation (whether by payment or the making of reasonable provision for payment), other than liabilities for which reasonable provision for payment has been made and liabilities, if any, for Distributions to Members;
 
 10.3.2.sec=next, to the establishment of those reserves for contingent liabilities of the Company as are deemed necessary by the Liquidating Trustee (other than liabilities for which reasonable provision for payment has been made and liabilities, if any, for Distribution to Members and former Members under the Act);
 
@@ -337,7 +339,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 10.=[G/Z/ol/6]
 
-11.Ti=XI.	LIMITATION OF LIABILITY; STANDARD OF CARE; INDEMNIFICATION
+11.Ti=LIMITATION OF LIABILITY; STANDARD OF CARE; INDEMNIFICATION
 
 11.1.Ti=Limitation of Liability
 
@@ -353,13 +355,13 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 11.=[G/Z/ol/3]
 
-12.Ti=XII.	MISCELLANEOUS
+12.Ti=MISCELLANEOUS
 
 12.1.Ti=Amendments
 
 12.1.0.sec=This Agreement is subject to amendment only with the written Consent of the Manager and the Majority Members; provided, however, that no amendment to this Agreement may:
 
-12.1.1.sec=a.	Modify the limited liability of a Member or Manager; modify the indemnification and exculpation rights of the Covered Persons; or increase in any material respect the liabilities or responsibilities of, or diminish in any material respect the rights or protections of, any Member or Manager under this Agreement, in each case, without the Consent of each affected Member or Covered Person, as the case may be; 
+12.1.1.sec=Modify the limited liability of a Member or Manager; modify the indemnification and exculpation rights of the Covered Persons; or increase in any material respect the liabilities or responsibilities of, or diminish in any material respect the rights or protections of, any Member or Manager under this Agreement, in each case, without the Consent of each affected Member or Covered Person, as the case may be; 
 
 12.1.2.sec=Alter the interest of any Member in income, gains and losses or amend any portion of Article IV without the Consent of each Member adversely affected by that amendment; 
 
@@ -453,7 +455,7 @@ Ti=LIMITED LIABILITY COMPANY AGREEMENT OF [SERIES NAME], A SERIES OF [________] 
 
 00.=[G/Z/para/s6]
 
-=[G/Z/ol/12]
+=[G/Z/ol-II/12]
 
 Annex.Ti=Annex:
 
