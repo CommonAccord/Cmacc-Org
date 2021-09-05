@@ -2,7 +2,7 @@ Tokenholder.=[G/U/Who/acme_incorporated.md]
 
 Delegate.=[G/U/Who/andrea_ang.md]
 
-=[G/crypto-governance/PO/delegation_letter.md]
+=[G/crypto-governance/PO/Form/Delegation_Letter/2021-09-05.md]
 
 Doc.GUID=SomeHash-w9dE93mF0X
 
