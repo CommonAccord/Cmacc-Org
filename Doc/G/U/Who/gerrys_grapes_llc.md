@@ -1,10 +1,10 @@
 =[G/Agt-Form-CmA/00/ID/Entity/0.md]
 
-Sign.=[G/U/Who/geraldine_graber]
+Signer.=[G/U/Who/geraldine_graber.md]
 
-Sign.Title=Founder
+Signer.Title=Manager
 
-=[G/U/Place/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
+Adr.=[G/U/Place/US/MA/Middlesex/Cambridge/Broadway/1/Geo]
 
 Name.Full=Gerry's Grapes, LLC
 
