@@ -7,3 +7,8 @@ The original Word document for Cap-NoDiscount does not use even the most basic o
 
 LawyersNote=In the Cap-NoDiscount, "Post-Money Valuation Cap" is used, and in one place is "quoted", but not defined.  "Discount Rate" is "quoted" but not defined.  The meanings seem unambiguous, but the form seems slightly informal/inconsistent. 
 
+
+CodersNote=Is this an indended difference or an accidental variation between the Cap-NoDiscount and the NoCap-Discount?
+
+Def.Standard_Preferred.the/a=the/a
+
