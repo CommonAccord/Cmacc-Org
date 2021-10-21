@@ -1,2 +1,3 @@
-sec=Type: {Note.Title}<br>Investor: {Investor.US.N,E,A}<br>Purchase Amount: {PurchaseAmount.$}<br>Effective Date: {EffectiveDate.YMD}<br>Discount Rate (if applicable): {DiscountRate.%}<br>Post-Money Valuation Cap (if applicable): {Post-MoneyValueCap.$}<br>Applicable Law: {Law.State}
+sec=Type: <b>{Note.Title}</b><br>Investor: <b>{Investor.US.N,E,A}</b><br>Purchase Amount: <b>{PurchaseAmount.$}</b><br>Effective Date: <b>{EffectiveDate.YMD}</b><br>Discount Rate (if applicable): <b>{DiscountRate.%}</b><br>Post-Money Valuation Cap (if applicable): <b>{Post-MoneyValueCap.$}</b><br>Applicable Law: <b>{Law.State}</b><br>
 
+Ti={Investor.Name.Last} ({EffectiveDate.YMD}):

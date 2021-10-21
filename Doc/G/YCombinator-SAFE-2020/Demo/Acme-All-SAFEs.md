@@ -12,4 +12,4 @@ Ti=Acme Safes - (Not intended to make sense, just to demo.)
 
 3.=[G/YCombinator-SAFE-2020/Demo/Acme-Graber-MFN.md]
 
-=[G/Z/ol/s3]
+=[G/Z/ol/3]
