@@ -1,0 +1,11 @@
+=[G/U/class/Geo_USA]
+
+UK=CA
+
+Nation=Canada
+
+Nation/FR=Canada
+
+State={Province}
+
+			
