@@ -12,3 +12,7 @@ CodersNote=Is this an intended difference or an accidental variation between the
 
 Def.Standard_Preferred.the/a=the/a
 
+"constitutes valid and binding obligation" should probably read "constitutes a valid and binding obligation"
+
+Note=There are improvements to make in my organization of the various materials in order to make it easier for each community (Cap, Discount, Canadian, etc.) to work on its own, while keeping the common part very clear.  (Another example of Class and extending subclass.)  But the basics of a maintainable set of documents is here. 
+
