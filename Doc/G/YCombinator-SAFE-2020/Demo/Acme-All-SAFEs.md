@@ -1,19 +1,13 @@
-Ti=Acme Safes - (Not intended to make sense, just to demo.)
+Ti=Acme Safes - (Not intended to represent a real financing - there are four different types of Notes.)
 
-1.=[G/YCombinator-SAFE-2020/Form/Z-SummaryRow.md]
+Ang.=[G/YCombinator-SAFE-2020/Demo/Acme-Ang-Cap-NoDiscount.md]
 
-1.=[G/YCombinator-SAFE-2020/Demo/Acme-Ang-Cap-NoDiscount.md]
+OReilly.=[G/YCombinator-SAFE-2020/Demo/Acme-OReilly-Discount-NoCap.md]
 
-2.=[G/YCombinator-SAFE-2020/Form/Z-SummaryRow.md]
+Graber.=[G/YCombinator-SAFE-2020/Demo/Acme-Graber-MFN.md]
 
-2.=[G/YCombinator-SAFE-2020/Demo/Acme-OReilly-Discount-NoCap.md]
+Robinson.=[G/YCombinator-SAFE-2020/Demo/Acme-Robinson-Cap-NoDiscount-Canada.md]
 
-3.=[G/YCombinator-SAFE-2020/Form/Z-SummaryRow.md]
+sec=<ol><li>{Ang.DealPoints.Sec}</li><li>{OReilly.DealPoints.Sec}</li><li>{Graber.DealPoints.Sec}</li><li>{Robinson.DealPoints.Sec}</li></ol>
 
-3.=[G/YCombinator-SAFE-2020/Demo/Acme-Graber-MFN.md]
-
-4.=[G/YCombinator-SAFE-2020/Form/Z-SummaryRow.md]
-
-4.=[G/YCombinator-SAFE-2020/Demo/Acme-Robinson-Cap-NoDiscount-Canada.md]
-
-=[G/Z/ol/4]
+=[G/Z/Base]
