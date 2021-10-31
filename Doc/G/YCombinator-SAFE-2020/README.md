@@ -16,3 +16,9 @@ Def.Standard_Preferred.the/a=the/a
 
 Note=There are improvements to make in my organization of the various materials in order to make it easier for each community (Cap, Discount, Canadian, etc.) to work on its own, while keeping the common part very clear.  (Another example of Class and extending subclass.)  But the basics of a maintainable set of documents is here. 
 
+In the Investor Rep (a) this phrase seems to be missing an "a" - "this Safe constitutes valid and binding obligation"
+
+In the Singapore version, the Misc Law provision says "the laws of the Singapore." 
+
+There is some inconsistency in the use or non-use of the Oxford comma.
+
