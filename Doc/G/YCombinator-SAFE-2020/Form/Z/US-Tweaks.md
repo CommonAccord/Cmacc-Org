@@ -28,6 +28,10 @@ RSUs,SARs.cl=RSUs, SARs
 
 Internal_Revenue_Code_of_1986.cl=Internal Revenue Code of 1986
 
+state_securities_laws=state securities laws
+
+applicable_state_securities_laws=applicable state securities laws
+
 shares_of_existing_capital_stock.cl=shares of existing capital stock of the {_Company}
 
 Note=Tweaks for the difference between the US use of "Stock" and the Canadian/Singapore use of "Shares".

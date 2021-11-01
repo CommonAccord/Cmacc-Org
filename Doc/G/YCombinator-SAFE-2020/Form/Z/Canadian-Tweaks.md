@@ -7,7 +7,7 @@ RSUs,SARs.cl=restricted share units, share appreciation rights
 
 USSecuritiesAct.cl=United States of America Securities Act of 1933
 
-tax-free_reorganization_for_U.S._federal_income_tax_purposes=tax-free reorganization
+tax-free_reorganization_for_U.S._federal_income_tax_purposes=tax-free reorgani{s/z}ation
 
 national_securities_exchange.cl=national securities exchange in the United States
 
