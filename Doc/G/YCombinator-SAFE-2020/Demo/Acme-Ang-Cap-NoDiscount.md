@@ -4,9 +4,9 @@ Investor.=[G/U/Who/andrea_ang.md]
 
 Law.=[G/U/Place/US/CA/Santa_Clara/Geo]
 
-PurchaseAmount.$=$50,000
+PurchaseAmount.$=$65,000
 
-EffectiveDate.YMD=2021-10-17
+EffectiveDate.YMD=2021-11-03
 
 Post-MoneyValueCap.$=$15,000,000
 
