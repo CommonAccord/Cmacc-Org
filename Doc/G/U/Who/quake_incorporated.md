@@ -4,6 +4,8 @@ Adr.=[G/U/Place/US/CA/San_Mateo/Menlo_Park/Geo]
 
 Register.Adr.=[G/U/Place/US/DE/New_Castle/Wilmington/Geo]
 
+Contact.=[G/U/Who/solomon_shirley.md]
+
 Signer.=[G/U/Who/solomon_shirley.md]
 
 Name.Inc=Inc.
@@ -21,6 +23,8 @@ FR.Capital.All.#=Trois cents milles dollars US
 FR.Personality.type="corporation" à liabilité limitée de Delaware
 
 Personality.type=Delaware LLC
+
+Personality.type.a=a {Personality.type}
 
 Register.Account.#=LLC-564738291
 
