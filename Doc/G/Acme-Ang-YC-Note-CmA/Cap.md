@@ -1,5 +1,5 @@
 Note=We reference the term sheet and the form of the SAFE Note that we want.
 
-=[G/YCombinator-Note-SAFE-CmA/Form/Cap/0.md]
+=[G/YCombinator-SAFE-2020/Form/Cap-NoDiscount/v1-1.md]
 
 =[G/Acme-Ang-YC-Note-CmA/50k-TermSheet.md]

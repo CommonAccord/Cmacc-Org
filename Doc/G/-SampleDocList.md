@@ -41,7 +41,7 @@ TechStars:
 
 -=[G/Techstars-Equity-CmA/COI/Form/0.md]
 
--=[G/YCombinator-Note-SAFE-CmA/Form/Cap_Discount/0.md]
+-=[G/YCombinator-SAFE-2020//Form/Cap_Discount/0.md]
 
 
 

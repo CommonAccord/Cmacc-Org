@@ -1,12 +1,12 @@
 Note=These are the terms of the Note.  The Note is instantiated in all of the four forms of the SAFE - Cap, Discount, Cap_Discount and MFN. 
 
-Amount.$=$50,000
+PurchaseAmount.$=$50,000
 
-Funded.YMD=September 27, 2015
+EffectiveDate.YMD=September 27, 2015
 
-ValuationCap.$=$2,000,000
+Post-MoneyValueCap.$=$2,000,000
 
-Discount.%=8%
+DiscountRate.%=8%
 
 Company.=[G/U/Who/acme_incorporated.md]
 
