@@ -8,7 +8,7 @@ Note-KISS-500.=[G/500Startups-KISS-CmA/]
 
 Employee:=[S/Index/Employ/]
 
-Note-SAFE-YC:=[G/YCombinator-Note-SAFE-CmA/Form/]
+Note-SAFE-YC:=[G/YCombinator-SAFE-2020/]
 
 SeriesAA-YC.=[G/YCombinator-SeriesAA-CmA/Form/Binder_v01.md]
 
