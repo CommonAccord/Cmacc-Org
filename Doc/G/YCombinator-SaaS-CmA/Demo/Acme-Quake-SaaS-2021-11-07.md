@@ -19,6 +19,8 @@ ImplementationFee.$=$2,000
 
 PilotUse.Yes/No=Yes
 
+PilotPeriod.days=90 days
+
 PilotUse.Fee.$=$1,000
 
 TC.Service.TechicalSupport.Per.sec={TC.Service.TechicalSupport.Per.ExhibitC.cl}
