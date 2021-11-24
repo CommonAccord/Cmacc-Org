@@ -14,14 +14,14 @@ DAO-Contribution.=[G/LegalForms/PO/Demo/Acme-Ang_ContributorAgreement_2021-10-11
 
 Conventional=----------------
 
-Patent-CreativeCommons:=[G/CreativeCommonsOrg-Model_Patent_License/Form/0.md]
+Patent-CreativeCommons:=[G/CreativeCommons/Model_Patent_License/Form/0.md
 //old, but interesting
 
 Patent-Exclusive-NIH.=[G/NIH-License-Patent-Exclusive-CmA/Sec/0.md]
 
 INPI.Brevet.=[G/FR-INPI-ContratDeLicenceDExploitation/Demo/Acme_Quake_123456.md]
 
-Copyright-CreativeCommons:=[G/CreativeCommons-4.0-CmA/]
+Copyright-CreativeCommons:=[G/CreativeCommons/4.0/]
   
 Copyright-Docracy.=[Wx/com/docracy/8770/Form/0.md]
 
@@ -37,6 +37,6 @@ OpenGov-Policy.=[G/OpenGovFoundation-CmA/Copyright/0.md]
 
 SaaS-YCombinator.=[G/YCombinator-SaaS-CmA/Form/0.md]
 
-TechContractsAcademy.=[G/TechContractsAcademy-SoftwareLicense/Demo/Acme_Quake_2019-04-06.md]
+TechContractsAcademy.=[G/TechContracts/SoftwareLicense/Demo/Acme_Quake_2019-04-06.md]
 
 Trademark-Docracy.=[Wx/com/docracy/4790/Form/0.md]
