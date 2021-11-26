@@ -8,7 +8,7 @@ design/construction=design and construction
 
 Doc.GUID=AcQuSt-001
 
-EffectiveDate.YMD=2021-07-02
+EffectiveDate.YMD=2021-11-26
 
 BuildingContract.EffectiveDate.YMD=2021-05-30
 
