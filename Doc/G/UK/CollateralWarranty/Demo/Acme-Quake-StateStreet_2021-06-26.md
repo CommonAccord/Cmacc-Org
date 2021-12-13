@@ -16,6 +16,10 @@ Property.Description.cl=the little house at the edge of the Enchanted Forest
 
 ProfessionalIndemnityInsurance.=[G/UK/CollateralWarranty/Option/ProfessionalIndemnityInsurance-300k.md]
 
+Legislation.Unless_expressly_provided_otherwise=Unless expressly provided otherwise in this agreement, a
+
+Legislation.from_time_to_time=as at the date of this agreement
+
 design/construction=design and construction
 
 
@@ -57,6 +61,12 @@ Note=Liability.Tail.Start.cl - suggested "practical completion" OR "making good 
 
 Liability.Tail.Start.cl=making good of defects
 
+Liability.Joint.the_persons=the persons forming the parties
+
+Note=Deleterious.specification_or_use="specification" OR "specification or use"
+
+Deleterious.specification_or_use=specification or use
+
 Assign.AgtBenefit.Twice.To.cl - suggest "any person" or "any person with an interest in the Works"
 
 License.Grant/Assign.sec={License.Grant/Assign.GrantAndAssign.sec}
@@ -97,25 +107,19 @@ Note=Recommended: ten OR 15 OR 20
 
 Contractor.TerminationNoticePeriod.days=ten
 
-/1.12.sec=DELETED
-
-/1.13.sec=DELETED
-
-/1.15.sec=DELETED
-
-/2.1.2.sec=DELETED
-
-/8.2.sec=DELETED
-
-/9.Sec=DELETED
-
-Liability.Joint.the_persons="the persons forming the [PARTIES]"
-
-Note=Deleterious.specification_or_use="specification" OR "specification or use"
-
-Deleterious.specification_or_use=specification or use
-
-
-
-
 =[G/UK/CollateralWarranty/Form/0.md]
+
+Note=One can remove these optional sections by uncommenting (remove the "/"), replacing them with the word "DELETED".
+
+/Interpretation.12.sec=DELETED
+
+/Interpretation.13.sec=DELETED
+
+/Interpretation.15.sec=DELETED
+
+/CollateralWarranty.1.2.sec=DELETED
+
+/Copyright.2.sec=DELETED
+
+/ProfessionalIndemnityInsurance.Sec=DELETED
+
