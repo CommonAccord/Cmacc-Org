@@ -18,6 +18,15 @@ ProfessionalIndemnityInsurance.=[G/UK/CollateralWarranty/Option/ProfessionalInde
 
 design/construction=design and construction
 
+
+notice_or_communication.cl=notice or communication
+
+or email address or DX number or to the fax number=or email address
+
+the OR each=each
+
+exclusive_OR_non-exclusive_jurisdiction=exclusive jurisdiction
+
 Note=Regarding privity of Employer - in Recitals
 
 the_Employer_and=the {_Employer} and
@@ -32,7 +41,13 @@ Note=Optional in Definition of Permitted Uses
 
 Works.design.cl=design, 
 
-ContactorWarrants.SkillOfDesigner.sec={ContactorWarrants.SkillOfDesigner.Yes.cl}
+CollateralWarranty.ContactorWarrants.SkillOfDesigner.sec={CollateralWarranty.ContactorWarrants.SkillOfDesigner.Yes.cl}
+
+BeneficiaryNotInstructContractor.sec={BeneficiaryNotInstructContractor.Alt1.sec}
+
+Copyright.License.Grant/Assign.sec={Copyright.License.Grant/Assign.GrantOnly.sec}
+
+Assign.Contractor_and_the_Employer.sec={Assign.Contractor_and_the_Employer.Alt2.sec}
 
 Note=Liability.Tail.Length.cl - suggested [six OR 12] years
 
@@ -72,9 +87,9 @@ Law.Adverb.cl=English
 
 Writing.Medium.Includes.cl=email
 
-Construe.Legislation.sec={Construe.Legislation.UnlessException.sec}
+Interpretation.Construe.Legislation.sec={Construe.Legislation.UnlessException.sec}
 
-Construe.legislation_as.sec={Construe.legislation_as.Amended.sec}
+Interpretation.Construe.legislation_as.sec={Construe.legislation_as.Amended.sec}
 
 Beneficiary.Step-In.PaymentCurePeriod.days=five
 
