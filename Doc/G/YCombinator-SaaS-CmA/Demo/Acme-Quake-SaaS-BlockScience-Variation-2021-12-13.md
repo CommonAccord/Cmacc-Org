@@ -10,7 +10,7 @@ TC.Service.TechicalSupport.Per.sec={TC.Service.TechicalSupport.Per.ExhibitC.cl}
 
 TC.Restrict.License.Sec=On Premises License Section DELETED
 
-TC.Life.ForInitialPeriod.cl={_this_Agreement} is for the Initial Service Term as specified in Exhibit A
+TC.Life.ForInitialPeriod.cl={_this_Agreement} is for the {_Initial_Service_Term} as specified in Exhibit A
 
 TC.Comp.Fee.Dispute.Period.days=thirty (30) days
 
