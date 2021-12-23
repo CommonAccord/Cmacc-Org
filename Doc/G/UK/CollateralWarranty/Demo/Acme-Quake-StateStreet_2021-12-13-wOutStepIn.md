@@ -1,13 +1,8 @@
 
+Note=Filter that removes the StepIn provisions:
 
-sec=<ol><li>{Interpretation.Sec}</li><li>{CollateralWarranty.Sec}</li><li>{BeneficiaryNotInstructContractor.Sec}</li><li>{Copyright.Sec}</li><li>{ProfessionalIndemnityInsurance.Sec}</li><li>{LiabilityTimeLimit.Sec}</li><li>{Assign.Sec}</li><li>{Notice.Sec}</li><li>{ThirdPartyRight.Sec}</li><li>{Law.Sec}</li><li>{Jurisdiction.Sec}</li></ol>
+=[G/UK/CollateralWarranty/Form/Filter-WithOutStepIn/0.md]
 
-Copyright.Xnum=<a href='#Copyright.Sec'>4</a>
-
-Assign.Xnum=<a href='#Assign.Sec'>7</a>
-
-Notice.Xnum=<a href='#Notice.Sec'>8</a>
-
-BeneficiaryNotInstructContractor.sec={BeneficiaryNotInstructContractor.Alt2.sec}
+Note=A sample agreement with the StepIn provisions:
 
 =[G/UK/CollateralWarranty/Demo/Acme-Quake-StateStreet_2021-06-26.md]
