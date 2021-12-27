@@ -1,9 +1,9 @@
 MessageToUser=
 Note=Same parties, and part of the same chain of transaction, so we reference the NDA.
 
-P1.=[U/id/acme_incorporated]
+P1.=[G/U/Who/acme_incorporated.md]
 
-P2.=[U/id/solomon_shirley]
+P2.=[G/U/Who/solomon_shirley.md]
 
 EffectiveDate.YMD=October 2, 2015
 

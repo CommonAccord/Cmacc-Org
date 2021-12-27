@@ -8,8 +8,8 @@ MOU.TravelCostPaid=$1,000
 		
 MOU.RevenueShare=50%
 
-P1.=[U/id/acme_incorporated]
+P1.=[G/U/Who/acme_incorporated.md]
 
-P2.=[U/id/quake_incorporated]
+P2.=[G/U/Who/quake_incorporated.md]
 
 =[Wx/com/be-bound/MOU/Form/BB_MOU_Top.md]

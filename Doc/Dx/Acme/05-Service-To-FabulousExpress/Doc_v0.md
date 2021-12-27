@@ -48,13 +48,13 @@ Auto.Occur.$=<b>$1,000,000</b>
 
 Prof.Occur.$=<b>$1,000,000</b>
 
-Dispute.=[U/at/US/MA/Geo]
+Dispute.=[G/U/Place/US/MA/Geo]
 
-P1.=[U/id/fabulous_express_inc]
+P1.=[G/U/Who/fabulous_express_inc.md]
 
 P1.Handle={Company}
 
-P2.=[U/id/acme_incorporated]
+P2.=[G/U/Who/acme_incorporated.md]
 
 P2.Handle={Supplier}
 
