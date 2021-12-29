@@ -112,7 +112,7 @@ Venue.cl=the county in which {_Company}’s principal place of business is locat
 
 CodersNote=referencing the frame for an agreement, two parties described as P1. and P2. 
 
-=[G/Agt-Form-CmA/US/Frame/2Parties/0.md] 
+=[G/AgtForm/US/Frame/2Parties/0.md] 
 
 CodersNote=There are 19 sections in the agreement text.  They do not have titles so we us the /s19.  
 

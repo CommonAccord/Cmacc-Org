@@ -183,7 +183,7 @@ Misc.=[G/Z/ol-a/s5]
 
 sec=<ol><li>{Service.Sec}</li><li>{Term.Sec}</li><li>{Compensate.Sec}</li><li>{IndependentContractor.Sec}</li><li>{ConfInfo.Sec}</li><li>{License.Sec}</li><li>{Remedy.Sec}</li><li>{Assign.Sec}</li><li>{Notice.Sec}</li><li>{Amend.Sec}</li><li>{Law.Sec}</li><li>{Misc.Sec}</li></ol>
 
-=[G/Agt-Form-CmA/US/0.md]
+=[G/AgtForm/US/0.md]
 
 *****************************************************
 

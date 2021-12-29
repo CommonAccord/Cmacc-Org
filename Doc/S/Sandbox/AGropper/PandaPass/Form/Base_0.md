@@ -33,7 +33,7 @@ Role.P3.sec={P3.Handle} has the role of {UMA.Requesting_Party}
 
 Doc.Ti=Key Agreement
 
-=[G/Agt-Form-CmA/US/0.md]
+=[G/AgtForm/US/0.md]
 
 UMA.=[GH/KantaraInitiative/UMA-Text/0.md]
 

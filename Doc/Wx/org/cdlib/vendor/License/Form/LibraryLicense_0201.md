@@ -24,7 +24,7 @@ Dispute.=[Wx/org/cdlib/vendor/License/Sec/Dispute.md]
 
 Misc.=[Wx/org/cdlib/vendor/License/Sec/Misc.md]
 
-=[G/Agt-Form-CmA/US/0.md]
+=[G/AgtForm/US/0.md]
 
 =[Wx/org/cdlib/vendor/License/Sec/Defined_Terms.md]
 

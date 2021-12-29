@@ -5,7 +5,7 @@ Note=This is a collection of more recent work on materials in the "innovation" e
 
 are only the ones that specifically intended for startups.  Look in other categories for documents of general purpose that might also be useful for startups. 
 
-SaaS-YC:=[G/YCombinator-SaaS-CmA/]
+SaaS-YC:=[G/YCombinator-SaaS/]
 
 
 Employee:=[S/Index/Employ/]

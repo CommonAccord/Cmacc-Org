@@ -1,4 +1,4 @@
-=[G/Agt-Form-CmA/00/ID/Human/She/0.md]
+=[G/AgtForm/00/ID/Human/She/0.md]
 
 Adr.=[G/U/Place/US/MA/Suffolk/Boston/State_Street/75/Geo]
 

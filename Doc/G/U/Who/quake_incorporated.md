@@ -1,4 +1,4 @@
-=[OTF/ISO-ELF/Type/US/DE/XTIQ.md]
+=[G/U/ISO-ELF/Type/US/DE/XTIQ.md]
 
 Adr.=[G/U/Place/US/CA/San_Mateo/Menlo_Park/Geo]
 

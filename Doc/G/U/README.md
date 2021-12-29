@@ -11,7 +11,9 @@ DEPENDENCIES:
 
 Only the app -
 
-cmacc-app
+Cmacc-Vendor
 
-cmacc-host
+and /G/Z/
+
+Cmacc-Doc-G-Z
 

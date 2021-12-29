@@ -1,4 +1,4 @@
-=[G/Agt-Form-CmA/00/ID/Human/He/0.md]
+=[G/AgtForm/00/ID/Human/He/0.md]
 
 Adr.=[G/U/Place/US/MA/Middlesex/Waltham/Geo]  
 

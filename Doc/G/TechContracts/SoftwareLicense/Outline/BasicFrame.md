@@ -6,7 +6,7 @@ Note=A contract frame and a list of sections.
 
 Note=The contract frame - "Vendor" and "Customer":
 
-=[G/Agt-Form-CmA/US/Frame/Vendor-Customer/0.md]
+=[G/AgtForm/US/Frame/Vendor-Customer/0.md]
 
 Note=The sections:
 

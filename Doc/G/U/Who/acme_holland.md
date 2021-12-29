@@ -1,6 +1,6 @@
 Name.Full=Acme Holland BV
 
-=[OTF/ISO-ELF/Type/NL/M1IZ.md]
+=[G/U/ISO-ELF/Type/NL/M1IZ.md]
 
 Adr.=[G/U/Place/NL/Amsterdam/Geo]
 

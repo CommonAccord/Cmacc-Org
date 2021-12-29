@@ -33,4 +33,4 @@ Email=contact@weforum.org
 
 Twitter=@wef
 
-=[G/Agt-Form-CmA/00/ID/Entity/0.md]
+=[G/AgtForm/00/ID/Entity/0.md]

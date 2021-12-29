@@ -4,6 +4,6 @@ CodersNote=We reference the deal terms:
 
 CodersNote=We reference the form of agreement:
 
-=[OTF/WorldCC/NDA-Design/Form/0.md]  
+=[G/WorldCC/NDA-Design/Form/0.md]  
 
 CodersNote=See also the taxonomy of NDA provisions of the WorldCC at [OTF/WorldCC/NDA-Taxonomy/Form/AgreementFrameWithSomeSection.md].

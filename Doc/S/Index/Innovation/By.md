@@ -16,7 +16,7 @@ Techstars-Note-Equity:=[G/Techstars-Equity-CmA/]
 
 YC-Note-SAFE:=[G/YCombinator-SAFE-2020//Form/]
 
-YC-SeriesAA.=[G/YCombinator-SeriesAA-CmA/Form/Binder_v01.md]
+YC-SeriesAA.=[G/YCombinator-SeriesAA/Form/Binder_v01.md]
 
 =France:
 

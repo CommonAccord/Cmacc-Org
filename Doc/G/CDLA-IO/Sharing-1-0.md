@@ -22,9 +22,9 @@ sec={Intro.sec}<br><ol class="secs-and"><li>{Def.Sec}<li>{License.Sec}<li>{Subli
 
 =[G/Z/ol/Base]
 
-_=[G/Agt-Form-CmA/US/Def/Link/0.md]
+_=[G/AgtForm/US/Def/Link/0.md]
 
-Def.=[G/Agt-Form-CmA/US/Def/Target/0.md]
+Def.=[G/AgtForm/US/Def/Target/0.md]
 
 Note=Special Definitions:
 

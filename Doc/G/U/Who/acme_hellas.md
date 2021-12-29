@@ -1,6 +1,6 @@
 Name.Full=Acme Hellas
 
-=[G/Agt-Form-CmA/00/ID/Entity/0.md]
+=[G/AgtForm/00/ID/Entity/0.md]
 
 Adr.=[G/U/Place/GR/Athens/Geo]
 
