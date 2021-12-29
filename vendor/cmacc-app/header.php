@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<link rel='icon' href='image/CmA-Square.png'>
+<link rel='icon' href='vendor/png/CmA-Square.png'>
 
 <title><?php echo $dir ?></title>
 <link  href="Doc/G/Z/CSS/Visual.css" rel="stylesheet" />

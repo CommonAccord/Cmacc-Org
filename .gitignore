@@ -6,7 +6,7 @@ D
 
 *.docx
 *.pdf
-vendor
+# vendor
 
 Doc/G/Open-Source-Law/forms/
 Doc/G/Open-Source-Law/solidity/
