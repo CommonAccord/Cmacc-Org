@@ -71,6 +71,12 @@ span img {
   height: 40px;
   width: 40px;
 }
+
+.alt {
+	color: #AA00AA ;
+       
+}
+
 .secs-and {
 	color: olive ;
 	outline: 2px dotted olive;

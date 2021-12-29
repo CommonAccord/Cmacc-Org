@@ -1,6 +1,6 @@
 These "Z" docs are little widgets for building documents.  There are a variety of section types (1, 2, 3; I, II, III, bullet, etc.) and a few other building blocks. 
 
-This repo should be mounted as /Doc/Z/.  So clone it into /Doc/ as /Doc/CmaccDoc-Z/ and then change the name.   (Let's think about what the possibilities for our naming schemes.)
+This repo should be mounted as /Doc/Z/.  So clone it into /Doc/ as /Doc/Cmacc-Doc-G-Z/ and then change the name to "Z".   
 
 These widgets are used very, very often in building documents.  
 
@@ -9,12 +9,10 @@ Someday, most of these should be replaced with a programmed widget (smart folder
 
 MOUNT AS:
 
-/Doc/Z/
+/Doc/G/Z/
 
 
 DEPENDENCIES:
 
-cmacc-host
-
-cmacc-app
+Cmacc-Vendor
 
