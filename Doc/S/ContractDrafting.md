@@ -67,12 +67,15 @@ We propose a convention for defined terms.  All defined terms must be "parameter
 
 We also suggest a format for the definition.  A defined term should lead with the defined term in quotes, followed by "means".  For example:
 
-Def.Authorized_Representative.sec="{_Authorized_Representative}" means ....
+Def.Authorized_Representative.sec="{Def.Authorized_Representative.Target}" means ....
 
+With the Target rolling over to the parameter for the Defined Term:
 
-The third piece is the defined term parameter. It should be a link to the definition.  Hence:
+Def.Authorized_Representative.Target={_Authorized_Representative}
 
-_Authorized_Representative=< a  href="Def.Authorized_Representative.sec">Authorized Representative<a>
+The fourth piece is the defined term parameter. It should be a link to the definition.  Hence:
+
+_Authorized_Representative=< a  href="Def.Authorized_Representative.sec">Authorized Representative</a>
 
 Each defined term will appear as a link to the definition, wherever it is in the agreement.  Parameterizing is a help for the reader, who can click to go to the definition.  It can also be a help for the drafter because a "defined term" that isn't defined (yes, it happens) will stand out because there won't be a matching parameter. 
 
