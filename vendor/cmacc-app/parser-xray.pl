@@ -84,7 +84,7 @@ foreach( $$field =~ /\{([^}]+)\}/g ) {
        my $ox = $part ? $part . $ex : $ex;
 
        my $value = parse($orig, $ox);      
-       my $spanvalue = "<br>" . $ox . "=<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $value . "</span></li></ul>";
+       my $spanvalue = "<br>(" . $ox . "=<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $value . "</span>)";
        $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
      }
       }
