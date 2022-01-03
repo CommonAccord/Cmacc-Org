@@ -16,3 +16,31 @@ Ti=Definitions and interpretation
 ●	“Force Majeure Event” has the meaning given in clause 11.1.1
 
 =[G/Z/ol/s15]
+
+_Implementation_Service=Implementation Service
+_Proprietary_Information=Proprietary Information
+_Pilot_Period=Pilot Period
+_Supplier_Policy=Supplier Policy
+_Support_Hours=Support Hours
+_P1={_Customer}
+_Service_Capacity=Service Capacity
+_Fees=Fees
+_Implementation_Services=Implementation Services
+_Implementation_Fee=Implementation Fee
+_Implementation_Fee=Implementation Fee
+_Initial_Service_Term=Initial Service Term
+_Company=Company
+_Effective_Date=Effective Date
+_Customer=Customer
+_Services=Services
+_Supplier_Software=Supplier Software
+_Agreement=Agreement
+_Receiving_Party=Receiving Party
+_Disclosing_Party=Disclosing Party
+_Service=Service
+_Customer_Data=Customer Data
+_Customer_Equipment=Customer Equipment
+_Order_Form=Order Form
+_Party=Party
+_Parties=Parties
+

@@ -75,7 +75,7 @@ Def.Authorized_Representative.Target={_Authorized_Representative}
 
 The fourth piece is the defined term parameter. It should be a link to the definition.  Hence:
 
-_Authorized_Representative=< a  href="Def.Authorized_Representative.sec">Authorized Representative</a>
+_Authorized_Representative=&lt;a  href="Def.Authorized_Representative.sec"&gt;Authorized Representative&lt;/a&gt;
 
 Each defined term will appear as a link to the definition, wherever it is in the agreement.  Parameterizing is a help for the reader, who can click to go to the definition.  It can also be a help for the drafter because a "defined term" that isn't defined (yes, it happens) will stand out because there won't be a matching parameter. 
 
