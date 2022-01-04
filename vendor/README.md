@@ -5,7 +5,9 @@ To make a Cmacc (ProseObject) website:
 
 # Make a root folder in a web-enabled, PHP and Perl place.
 
-# Copy "include.php" into the root folder. (You'll find a copy loitering in the folder /png/ in this repo (useless there, but convenient for copying.)
+# Copy "include.php" into the root folder. (You'll find a copy loitering in this /vendor/ repo (index.php is useless here, but convenient for copying into the root.)
+
+# Do the same with the /png/ folder - copy it into the root.  It has some little images that are used in the app.  They can't be in /vendor/ because hosting systems prohibit this kind of access to the /vendor/ folder, which is protected.
 
 # Mount this repo as vendor/ 
 

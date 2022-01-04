@@ -1,0 +1,160 @@
+.includers {
+	padding: 20px;
+	border: 1px gray solid;
+	border-radius: 10px;
+	line-height: 2.0em;
+	margin-bottom: 20px;
+	margin-top: 30px;
+}
+
+
+div, p {
+	font-family: "Verdana, Geneva, sans-serif";
+}
+
+#textedit {
+	background-color: #eee; 
+	font-family: "Verdana, Geneva, sans-serif";
+	border-radius: 10px;
+}
+
+
+
+
+hr 
+{
+    width: 75%;
+
+}
+
+#pw { top: 10px; right: 25px; position: absolute; color:white; 
+    font-family: "Times New Roman", Georgia, Serif;
+        font-variant: small-caps; }
+
+#containerHome, .aboutBox {
+	border: 1px gray solid;
+	border-radius: 15px;
+	margin-bottom:20px;
+}
+
+.aboutBox {
+	text-align: justify; 
+	margin-bottom: 20px;
+	padding: 7px; margin: -10px; 
+}
+
+.title, .subtitle, .jtitle {
+	font-family: "Times New Roman", Georgia, Serif;
+	font-variant: small-caps;
+}
+.subtitle {
+	text-align: right;
+}
+.subtitle2 {
+	font-variant: small-caps;
+	text-align: left;
+}
+
+.sc {
+font-variant: small-caps;
+}
+
+h1, h2, h3 
+
+{
+	font-family: "Times New Roman", Georgia, Serif;
+	text-align: center;
+}
+
+
+h4 
+
+{
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+
+	.TFtable{
+	margin-bottom: 10px;
+	}
+
+	.TFtable td{ 
+		padding-top:7px; 
+	}
+	/* provide some minimal visual accomodation for IE8 and below */
+	.TFtable th{
+		padding-right: 18px;
+		border-right: 1px gray solid;
+	}
+
+	/*  Define the background color for all the ODD background rows  */
+	.TFtable tr:nth-child(odd){ 
+		border-bottom: 1px lightgray solid;
+	}
+	/*  Define the background color for all the EVEN background rows  */
+	.TFtable tr:nth-child(even){
+	}
+
+
+
+
+.listings {
+	border: solid 1px darkgrey;
+	border-radius: 15px;
+	padding-left: 15px;
+	margin-bottom: 20px;
+	padding-bottom:20px;
+}
+#content-list a {
+	padding: 15px;
+	width: 100%;
+}
+#content-list img {
+margin: 5px;
+}
+
+#updir {
+	font-family: "Times New Roman", Georgia, Serif;
+        font-variant: small-caps;
+	text-align: left;
+}
+#updir  h3 {
+	display: inline;	
+text-align: left;
+}
+#updir img { margin-left: -30px; padding-bottom: 5px; padding-right: 10px;}
+
+#info-more {  text-align: right; }
+
+/*#code {
+	float: left;
+	margin-left: 40%;
+}*/
+
+#containerContent {
+	padding:30px;
+}
+
+#header {
+	margin-top: 90px;
+}
+
+#footer, #footer a {
+
+	margin-top: 20px;
+	padding: 5px;
+	padding-top: 18px;
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+html, body { height: 100%; }
+#wrapper { padding:0; margin: 0;min-height: 100%;  background-color:white}
+#footer {
+	height: 80px;
+	bottom:0;
+}
+
+
+
+#missing { border: deeppink 1px solid; border-radius: 15px; padding-left: 20px;}

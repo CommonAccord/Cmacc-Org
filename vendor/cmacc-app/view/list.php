@@ -19,7 +19,7 @@ if(! ($dir == './')) {
                $docpath = "";
        }
 
-        echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php><img src='" . ASSETS_PATH . "/CmA-Square.png' height=25></a>";
+        echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php><img src='png/CmA-Square.png' height=25></a>";
         echo "<a href=index.php?action=list&file=>Docs</a>/";
         echo "<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $docpath."</a>/".$rootdir['filename']."</h3><br>";
 
@@ -52,12 +52,12 @@ foreach($files as $f) {
         if(is_dir($path.$dir.$f)) {
                 if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
 
-                        echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/ id='$f' title='$f'><img height=20 src='" . ASSETS_PATH . "/folder.png'> $f</a>";
+                        echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/ id='$f' title='$f'><img height=20 src='png/folder.png'> $f</a>";
                 }
         }
         else {
                 if( !( ($f == 'list.html') || ($f == 'listintro.html') || ($f == 'README.md') || preg_match('/^\./', $f) ) ) {
-                        echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f id='$f' title='$f'><img height=20 src='" . ASSETS_PATH . "/play.png'> $f</a>";
+                        echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f id='$f' title='$f'><img height=20 src='png/play.png'> $f</a>";
                 }
         }
 }
