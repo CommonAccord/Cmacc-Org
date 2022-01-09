@@ -22,141 +22,46 @@ if (isset($_REQUEST['file'])) {
         $rootdir = pathinfo($dir);
         $filenameX = basename($dir);
         $lib_path = LIB_PATH;
-
+        $viewName = $_REQUEST['action'] ;
+        $keyName = $_REQUEST['key'] ;
 
 switch ($_REQUEST['action']) {
 
-   case 'doc':
-
-        include('./vendor/cmacc-app/view/doc.php');
-        break;
-
-   case 'showme1':
-
-        include('./vendor/cmacc-app/view/showme1.php');
-        break;
-
-   case 'showme2':
-
-        include('./vendor/cmacc-app/view/showme2.php');
-        break;
-
-  case 'edit':
-
-        include('./vendor/cmacc-app/view/edit.php');
-        break;
-
-  case 'kvs':
-
-       include('./vendor/cmacc-app/view/print-kvs.php');
-       break;
-
-
-    case 'html':
-
-        include('./vendor/cmacc-app/view/html.php');
-        break;
-
-    case 'ipld':
-
-        if (isset($_REQUEST['submit'])) {
-
-            $file_name = $path . $dir;
-
-            if (file_exists($file_name)) {
-
-                if (is_writeable($file_name)) {
-                    $fp = fopen($file_name, "w");
-                    $data = $_REQUEST['newcontent'];
-                    $data = preg_replace('/\r\n/', "\n", $data);
-                    $data = trim($data);
-                    fwrite($fp, $data);
-                    fclose($fp);
-                } else {
-                    print '<span style="color: red">ERROR: File ' . $dir . ' is not write able.</style>';
-                }
-            } else {
-                print '<span style="color: red">ERROR: File ' . $dir . ' does not exists.</style>';
-            }
-        }
-
-        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
-        $contents = explode("\n", $content);
-        $rootdir = pathinfo($dir);
-        $filenameX = basename($dir);
-
-        //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/cmacc-app/view/json.php");
-
-        break;
-
-        case 'json':
-
-        if (isset($_REQUEST['submit'])) {
-
-            $file_name = $path . $dir;
-
-            if (file_exists($file_name)) {
-
-                if (is_writeable($file_name)) {
-                    $fp = fopen($file_name, "w");
-                    $data = $_REQUEST['newcontent'];
-                    $data = preg_replace('/\r\n/', "\n", $data);
-                    $data = trim($data);
-                    fwrite($fp, $data);
-                    fclose($fp);
-                } else {
-                    print '<span style="color: red">ERROR: File ' . $dir . ' is not write able.</style>';
-                }
-            } else {
-                print '<span style="color: red">ERROR: File ' . $dir . ' does not exists.</style>';
-            }
-        }
-
-        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
-        $contents = explode("\n", $content);
-        $rootdir = pathinfo($dir);
-        $filenameX = basename($dir);
-
-        //source.php includes the formatting for the table that displays the components of a document
-        include("./vendor/cmacc-app/view/json.php");
-
-        break;
-
     case 'list':
-
         include('./vendor/cmacc-app/view/list.php');
         break;
+    
+    case 'json':
 
+        if (isset($_REQUEST['submit'])) {
 
-    case 'openedit':
+            $file_name = $path . $dir;
 
-        include('./vendor/cmacc-app/view/openedit.php');
-        break;
+            if (file_exists($file_name)) {
 
-    case 'missing':
+                if (is_writeable($file_name)) {
+                    $fp = fopen($file_name, "w");
+                    $data = $_REQUEST['newcontent'];
+                    $data = preg_replace('/\r\n/', "\n", $data);
+                    $data = trim($data);
+                    fwrite($fp, $data);
+                    fclose($fp);
+                } else {
+                    print '<span style="color: red">ERROR: File ' . $dir . ' is not write able.</style>';
+                }
+            } else {
+                print '<span style="color: red">ERROR: File ' . $dir . ' does not exists.</style>';
+            }
+        }
 
-        include('./vendor/cmacc-app/view/missing.php');
-        break;
+        $content = file_get_contents($path . $dir, FILE_USE_INCLUDE_PATH);
+        $contents = explode("\n", $content);
+        $rootdir = pathinfo($dir);
+        $filenameX = basename($dir);
 
-    case 'print':
+        //source.php includes the formatting for the table that displays the components of a document
+        include("./vendor/cmacc-app/view/json.php");
 
-        include('./vendor/cmacc-app/view/print.php');
-        break;
-
-    case 'xray':
-
-        include('./vendor/cmacc-app/view/xray.php');
-        break;
-
-   case 'raw':
-
-        include('./vendor/cmacc-app/view/raw.php');
-        break;
-
-    case 'cicero':
-
-        include('./vendor/cmacc-app/view/cicero.php');
         break;
 
 
@@ -205,14 +110,42 @@ switch ($_REQUEST['action']) {
         }
         break;
 
-   case 'visual':
+    case 'missing':
+        include('./vendor/cmacc-app/view/missing.php');
+        break;
 
+    case 'doc':
+        include('./vendor/cmacc-app/view/doc.php');
+        break;
+
+    case 'xray':
+        include('./vendor/cmacc-app/view/xray.php');
+        break;
+
+    case 'visual':
         include('./vendor/cmacc-app/view/visual.php');
         break;
 
-
-    default:
+    case 'cicero':
+        include('./vendor/cmacc-app/view/cicero.php');
+        break;
+    
+    case 'print':
+        include('./vendor/cmacc-app/view/print.php');
+        break;
+    
+    case 'missing':
+        include('./vendor/cmacc-app/view/missing.php');
+        break;
+    
+    case 'landing':
         include($_REQUEST['action'] . '.php');
+        break;
+    
+    default:
+#        include('./vendor/cmacc-app/view/keyname.php');
+        echo $_REQUEST['action']. "is not a valid action. Try again.<br>"  ;
+       include('./vendor/cmacc-app/view/source.php');
         break;
 }
 

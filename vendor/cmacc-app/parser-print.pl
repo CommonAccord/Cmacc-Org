@@ -81,9 +81,10 @@ sub expand_fields  {
 	}
 } 
 
+# Now with key option as $ARGV[1]
 
+my $output  = parse($ARGV[0], $ARGV[1]);
 
-my $output  = parse($ARGV[0], "Model.Root");
 print $output;
 
 #clean up the temporary files (remote fetching)

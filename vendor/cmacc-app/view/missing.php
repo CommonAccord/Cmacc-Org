@@ -18,7 +18,14 @@ echo "<hr>";
 
 $lib_path = LIB_PATH;
 
-$document = `perl $lib_path/parser-missing.pl $path/$dir`;
+
+# Adding ability to pass a starting Key to the rendering
+
+if (strlen($keyName) < 2) { 
+  $keyName = "Model.Root";
+}
+
+$document = `perl $lib_path/parser-missing.pl $path/$dir $keyName `;
 
 $minDocLength = 1;
 

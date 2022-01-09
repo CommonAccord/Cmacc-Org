@@ -17,7 +17,14 @@ $lib_path = LIB_PATH;
 #testing python - so far, no good.
 # $document = `python3 vendor/cmacc-app/view/py_render/parser-print.py G/Agt-Form-CmA/US/0.md Doc Model.Root` ;
 
-$document = `perl $lib_path/parser-print.pl $path/$dir`;
+
+# Adding ability to pass a starting Key to the rendering
+
+if (strlen($keyName) < 2) { 
+  $keyName = "Model.Root";
+}
+
+$document = `perl $lib_path/parser.pl $path/$dir $keyName `;
 
 $minDocLength = 1;
 

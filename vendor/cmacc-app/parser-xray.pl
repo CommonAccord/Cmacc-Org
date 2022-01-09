@@ -89,8 +89,10 @@ foreach( $$field =~ /\{([^}]+)\}/g ) {
      }
       }
 
+# Now with key option as $ARGV[1]
 
-my $output  = parse($ARGV[0], "Model.Root");
+my $output  = parse($ARGV[0], $ARGV[1]);
+
 print $output;
 
 # print "\n\n" . $filelist;

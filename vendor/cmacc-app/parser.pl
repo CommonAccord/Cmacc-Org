@@ -86,8 +86,9 @@ sub expand_fields  {
 	}
       }
 
+# Now with key option as $ARGV[1]
 
-my $output  = parse($ARGV[0], "Model.Root");
+my $output  = parse($ARGV[0], $ARGV[1]);
 # "$filelist is list of files visited if line 65 is uncommented"
 
 print $output . "\n\n";
