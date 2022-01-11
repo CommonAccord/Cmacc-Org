@@ -138,13 +138,17 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/missing.php');
         break;
     
+    case 'openedit':
+            include('./vendor/cmacc-app/view/openedit.php');
+            break;
+        
     case 'landing':
         include($_REQUEST['action'] . '.php');
         break;
     
     default:
 #        include('./vendor/cmacc-app/view/keyname.php');
-        echo $_REQUEST['action']. "is not a valid action. Try again.<br>"  ;
+        echo $_REQUEST['action']. " is not a valid action. Try again.<br>"  ;
        include('./vendor/cmacc-app/view/source.php');
         break;
 }

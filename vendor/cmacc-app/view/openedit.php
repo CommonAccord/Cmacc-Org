@@ -18,7 +18,7 @@ include("$lib_path/view-tabs.php");
 
 <?php
 
--$document = `perl $lib_path/parser-openedit.pl $path/$dir`;
+$document = `perl $lib_path/parser-openedit.pl $path/$dir`;
 
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=120 rows=30 name='newcontent' style='font-size: 16px; padding:10px;'>";
