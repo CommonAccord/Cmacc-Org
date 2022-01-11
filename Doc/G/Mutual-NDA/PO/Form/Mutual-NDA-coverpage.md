@@ -78,9 +78,11 @@ Modification.=[G/Z/Base]
 
 By.0.sec=By signing this {_Cover_Page}, each party agrees to enter into this MNDA as of the {_Effective_Date}.
 
-Annex.=[G/Mutual-NDA/PO/Form/Mutual-NDA.md]
-
 =[G/AgtForm/US/0.md]
+
+Annex.sec={StandardTerms.Sec}
+
+StandardTerms.=[G/Mutual-NDA/PO/Form/Mutual-NDA.md]
 
 Note=Supporting widgets:
 
