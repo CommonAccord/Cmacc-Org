@@ -8,7 +8,7 @@ sec=<ol><li>{Prime.Sec}<li>{Def.Sec}<li>{General.Sec}<li>{Misc.Sec}</ol>
 
 CodersNote=We borrow TechContracts' notion of "Prime" clauses - the business terms.
 
-Prime.Sec=<b>{Prime.Ti}</b><br>{Intro.sec}<ol><li>{Use.Sec}</li><li>{IP.Sec}</li><li>{Flow.Sec}</li><li>{ConfInfo.Sec}</li></ol>
+Prime.Sec=<b>{Prime.Ti}</b><br>{Intro.sec}<ol><li>{ConfInfo.Sec}</li><li>{Use.Sec}</li><li>{IP.Sec}</li><li>{Flow.Sec}</li></ol>
 
 Use.Sec=<b>{Use.Ti}</b><br><ol><li>{Use.Purpose.Sec}</li><li>{Use.Analyze.Sec}</li></ol>
 
