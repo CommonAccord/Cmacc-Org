@@ -101,11 +101,11 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
-print "$_=<a href='#Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
+# print "$_=<a href='#Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 
 # to mark the place a defined term is defined inline - use the convention "{Def.My_Term.Target}".  This will make Def.My_Term.Target={_My_Term}.
 
-# print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
+print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
 
 # Make cross-references (that already have "".Xnum");
 
