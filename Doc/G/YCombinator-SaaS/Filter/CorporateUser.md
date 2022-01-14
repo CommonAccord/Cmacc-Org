@@ -1,0 +1,1 @@
+TC.Service.Base.CustomerWillRegister.sec=As part of the registration process, {_Customer} will identify an administrative user name and password for {_Customer}'s {_Company} account.  {_Customer}, as a corporate user, will also identify each individual who will have access to the {_Services}, providing a name and password for each user.
