@@ -35,7 +35,7 @@ echo "(<a href=index.php?action=" . $_REQUEST['action'] . "&file=" .$dir. "&key=
 
 echo "&emsp; On GitHub: ";
 
-echo "<a href=" . URLFORDOCSINREPO . $dir.">File</a> ";
+echo "<a href=" . URLFORDOCSINREPO . substr($dir, URLFORDOCSINREPOOFFSET) . ">File</a> ";
 
 echo "<a href=" . URLFORREPO . "/search?utf8=✓&q=" . $dir . ">~PageRank </a>  &emsp; ";
 

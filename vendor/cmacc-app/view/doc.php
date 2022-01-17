@@ -31,6 +31,8 @@ $minDocLength = 1;
 
 if (strlen($document) > $minDocLength){ 
 
+$document=str_replace("{Render.Metadata}", "(" . $dir . "#" . $keyName . " on " . date('Y-m-d') . ")" ,$document);
+
 $document=str_replace("{","<span class='missing'>{",$document);
 
 $document=str_replace("}","}</span>",$document);

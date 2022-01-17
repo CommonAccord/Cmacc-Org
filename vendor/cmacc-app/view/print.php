@@ -36,6 +36,8 @@ $document=str_replace("(Curly-)","{",$document);
 
 $document=str_replace("(-Curly)","}",$document);
 
+$document=str_replace("{Render.Metadata}", "(" . $dir . "#" . $keyName . " on " . date('Y-m-d') . ")" ,$document);
+
  
   echo $document;}
  else {

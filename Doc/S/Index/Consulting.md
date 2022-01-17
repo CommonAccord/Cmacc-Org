@@ -1,5 +1,8 @@
-Cooley.=[G/Agt-Consulting-CmA/]
+Ti=Consulting Agreements
 
-SoftwareDevelopment.=[G/WorldCC/-9520-SoftwareDevelopmentAgt-CmA/Demo/Acme-Quake.md]
+Cooley/=[G/Agt-Consulting-CmA/]
 
-SwissShort.=[G/Lykke-QuickSwissConsultAgt-CmA/Demo/Acme-Ang.md]
+SoftwareDevelopment:=[G/WorldCC/-9520-SoftwareDevelopmentAgt-CmA/Demo/Acme-Quake.md]
+
+SwissShort:=[G/Lykke-QuickSwissConsultAgt-CmA/Demo/Acme-Ang.md]
+

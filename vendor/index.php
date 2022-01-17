@@ -26,7 +26,13 @@ ini_set('include_path', ini_get('include_path') . PATH_SEPARATOR . LIB_PATH . DI
 
 DEFINE('ASSETS_PATH', 'vendor/png');  // Create global variable to our css and js assets
 
+// Note - Adjust for whether the repo is at the Site root /Doc/ or not.
+// URLFORREPO . "/blob/main/Doc/" 
+// URLFORDOCSINREPOOFFSET 0
+
 DEFINE('URLFORDOCSINREPO', URLFORREPO . "/blob/master/Doc/");	// Docs in the repo
+
+DEFINE('URLFORDOCSINREPOOFFSET' , 0);
 
 DEFINE('TEXT_EDIT_WINDOW_SIZE', 'cols=120 rows=30'); //Sets the size of the text edit window in both edit.php and openedit.php
 

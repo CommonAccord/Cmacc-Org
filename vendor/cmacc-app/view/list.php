@@ -23,8 +23,8 @@ if(! ($dir == './')) {
         echo "<a href=index.php?action=list&file=>Docs</a>/";
         echo "<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $docpath."</a>/".$rootdir['filename']."</h3><br>";
 
-echo "<center><a href=" . URLFORDOCSINREPO . $dir.">Github</a> &emsp;</div>";
-
+echo "<center><a href=" . URLFORDOCSINREPO . substr($dir, URLFORDOCSINREPOOFFSET) .">Github</a> &emsp;</div>";
+//substr($dir, URLFORDOCSINREPOOFFSET)
 } 
 
 $files = scandir($path.$dir);

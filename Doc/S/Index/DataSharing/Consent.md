@@ -1,11 +1,17 @@
-Kantara Initiative User-Managed-Access - object model for data sharing interactions: =[G/Kantara-UMA-Legal/ToS/]
+Kantara Initiative User-Managed-Access - object model for data sharing interactions: 
 
-Kantara-Consent-Parameters.=[G/Kantara/ConsentReceipt-GDPR/Demo/]
+UMA-Object/=[G/Kantara-UMA-Legal/ToS/]
 
-Kantara Initiative User-Managed-Access - terminology: =[G/Kantara/UMA-Text-CmA/0.md]
+Kantara-Consent-Parameters/=[G/Kantara/ConsentReceipt-GDPR/Demo/]
 
-GDPR form inviting correction =[G/GDPR-InfoCorrectionDialog-CmA/Form/Invitation/0.md]
+Kantara Initiative User-Managed-Access - terminology: =
 
-DataCorrection.GDPR.=[G/GDPR-InfoCorrectionDialog-CmA/Form/Invitation/0.md]
+UMA-Terms:=[G/Kantara/UMA-Text-CmA/0.md]
 
-NIH-AllOfUs.=[G/Gov-NIH-AllOfUs/OperationalProtocol/Demo/All_of_Us.md]
+GDPR form inviting correction 
+
+GDPR:=[G/GDPR-InfoCorrectionDialog-CmA/Form/Invitation/0.md]
+
+DataCorrection-GDPR:=[G/GDPR-InfoCorrectionDialog-CmA/Form/Invitation/0.md]
+
+NIH-AllOfUs:=[G/Gov-NIH-AllOfUs/OperationalProtocol/Demo/All_of_Us.md]
