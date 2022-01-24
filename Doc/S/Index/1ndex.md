@@ -6,13 +6,9 @@ Innovation-=[S/Index/Innovation/1ndex.md]
 
 Acquisition-=[S/Index/Acquisition.md]
 
-Bio_MaterialsTransferAgreement-=[S/Index/Bio_MaterialsTransferAgreement.md]
-
 Bylaws-=[S/Index/Bylaws.md]
 
 Climate-=[S/Index/Climate.md]
-
-CloudHostingAgreement-=[S/Index/CloudHostingAgreement.md]
 
 Community-=[S/Index/Community.md]
 
@@ -24,7 +20,7 @@ Dispute-=[S/Index/Dispute.md]
 
 Finance-=[S/Index/Finance.md]
 
-License-=[S/Index/License.md]
+License-=[S/Index/DataSharing/License.md]
 
 Litigation-=[S/Index/Litigation.md]
 

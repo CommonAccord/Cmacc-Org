@@ -7,25 +7,24 @@ DataSharing-GA4GH:=[G/GA4GH/DataSharing-Framework/EN/Form/0.md]
 
 TheFDP/=[G/TheFDP/DTUA/] /// Data Sharing in NIH Research.
 
-IntraGroup/=[G/Intra-Group-Data-Transfer-Agt/] /// DLA Piper contribution of form of intra-group data sharing agreement (extensive and efficient use of annexes).
+IntraGroup:=[G/Intra-Group-Data-Transfer-Agt/Form/0.md] /// DLA Piper contribution of form of intra-group data sharing agreement (extensive and efficient use of annexes).
 
-MS-DUA-AI-Development:=[G/Microsoft-DUA-OAI/Demo/Acme-Quake.md] /// Microsoft - Data Use Agreement for Open AI Model 
+MS-DUA-AI-Dev:=[G/Microsoft-DUA-OAI/Demo/Acme-Quake.md] /// Microsoft - Data Use Agreement for Open AI Model 
 
 MS-DUA:=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md] ///Microsoft - Open 
 
 MS-CDUA:=[G/Computational-Use-of-Data-Agreement/Cmacc/Form/0.md] /// 
 Microsoft - Computational 
 
+ChathamHouse:=[G/ChathamHouseOrg/DataSharing/Form/0.md] /// Chatham House - Framework for Data Sharing
+
+CustomerCommons:=[G/CustomerCommons_Org/p2b1/Form/beta1.md]
+
 TheClearingHouse:=[G/TheClearingHouse/DataAccessAgreement/Form/0.md]
 
 CanadianDigitalIdentityEcosystem:=[G/CA-DIACC-DigitalIdentityRequirements-CmA/0.md]
 
-DS-ChathamHouse:=[G/ChathamHouseOrg/DataSharing/] /// Chatham House - Framework for Data Sharing
-
-
 Collaboration-for-AIDS Vaccine-Discovery/=[G/Org-CAVD/DataMaterialsSharingAgreement/]
-
-CustomerCommons:=[G/CustomerCommons_Org/p2b1/Form/beta1.md]
 
 ContractForTheWeb/=[G/ContractForTheWeb/Form/]
 

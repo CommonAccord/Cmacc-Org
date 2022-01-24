@@ -14,4 +14,4 @@ DataSharing.=[S/Index/DataSharing/0.md]
 
 EmployeeInvention.=[S/Index/Employ/InventionAssignment.md]
 
-License.=[S/Index/License.md]
+License.=[S/Index/DataSharing/License.md]
