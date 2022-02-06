@@ -10,11 +10,11 @@ Purpose.Sen=Discussing and sharing information in relation to {Purpose.cl}.
 
 Purpose.cl=consulting services provided by Ang to Acme
 
-Duration.Period=Three years
+ConfidentialityPeriod.cl=Three years
 
 Law.Cl=California, USA, without application of its choice of law rules
 
-Forum.cl=San Mateo County, California
+Jurisdiction.cl=San Mateo County, California
 
 =[G/OneNDA-NDA/X/Original/2022-v7-2-Form.md]
 

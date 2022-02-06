@@ -1,28 +1,30 @@
 Ti=Variables
 
-sec=<ol><li>{Purpose.Sec}</li><li>{Duration.Sec}</li><li>{Law.Sec}</li><li>{Forum.Sec}</li></ol>
+sec=<ol><li>{Purpose.Sec}</li><li>{ConfidentialityPeriod.Sec}</li><li>{Law.Sec}</li><li>{Forum.Sec}</li></ol>
 
-Purpose.Ti=Purpose
+Purpose.Ti={Def.Purpose.Target}
 
 Purpose.sec={Purpose.Sen}
 
-Duration.Ti=Confidentiality period
+Note=Uppercasing "period" to conform to defined terms convention.
 
-Duration.sec={Duration.Period}
+ConfidentialityPeriod.Ti={Def.Confidentiality_Period.Target}
 
-Law.Ti=Governing Law
+ConfidentialityPeriod.sec={ConfidentialityPeriod.cl}
+
+Law.Ti={Def.Governing_Law.Target}
 
 Law.sec={Law.Cl}.
 
-Forum.Ti=Jurisdiction
+Forum.Ti={Def.Jurisdiction.Target}
 
-Forum.sec={Forum.cl}.
+Forum.sec={Jurisdiction.cl}.
 
 Variable.=[G/Z/Base]
 
 Purpose.=[G/Z/Base]
 
-Duration.=[G/Z/Base]
+ConfidentialityPeriod.=[G/Z/Base]
 
 Law.=[G/Z/Base]
 

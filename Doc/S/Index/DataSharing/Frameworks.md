@@ -30,6 +30,8 @@ ContractForTheWeb/=[G/ContractForTheWeb/Form/]
 
 FI-IT:= [G/FI-IT-EHDot/it2018-evt/Form/0.md] /// Finnish Model Form of Data Sharing
 
+FI-SITRA/=[G/FI-SITRA-RuleBookForFairData/]
+
 JLINC:=[G/Org-JLINC-SISA/Form/0.md]  
 
 LinuxFoundation/=[G/CDLA-IO/]
