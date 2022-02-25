@@ -60,6 +60,10 @@ Company.Type.Alt6.sec={Company.Type.Advertiser.sec}
 
 Company.Type.=[G/Z/Alt/6]
 
+Company.Type.AltPrompt=Select one (mouse over to get the semantic name)
+
+Company.Type.SecName=Company.Type
+
 18.sec=Who are your clients?  {Company.ClientList.sec}
 
 =[G/Z/ol/s18]
