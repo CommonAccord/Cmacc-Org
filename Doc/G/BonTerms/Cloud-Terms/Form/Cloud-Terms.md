@@ -64,45 +64,57 @@ ComplyLaw.=[G/Z/Base]
 
 Function.Ti=Support and SLA
 
-Function.1.Ti=Support
+Function.Support.Ti=Support
 
-Function.1.sec={_Provider} will provide {_Support} for the {_Cloud_Service} as described in the <b>{_Support_Policy}</b> on the Cover Page. If no {Def.Support_Policy.Target} is identified, {_Provider} will provide {_Support} for the {_Cloud_Service} consistent with industry-standards and its general business practices.
+Function.Support.sec={_Provider} will provide {_Support} for the {_Cloud_Service} as described in the <b>{_Support_Policy}</b> on the Cover Page. If no {Def.Support_Policy.Target} is identified, {_Provider} will provide {_Support} for the {_Cloud_Service} consistent with industry-standards and its general business practices.
 
-Function.2.Ti=SLA
+Function.Support.=[G/Z/ol/2]
 
-Function.2.sec={_Provider} will adhere to the <b>{_Service_Level_Agreement}</b> (<b>{_SLA}</b>) identified on the Cover Page. If no {_SLA} is identified, {_Provider} will use commercially reasonable efforts to make the {_Cloud_Service} available for Customer’s use 99.9% of the time in each month.
+Function.SLA.Ti=SLA
+
+Function.SLA.sec={_Provider} will adhere to the <b>{_Service_Level_Agreement}</b> (<b>{_SLA}</b>) identified on the Cover Page. If no {_SLA} is identified, {_Provider} will use commercially reasonable efforts to make the {_Cloud_Service} available for Customer’s use 99.9% of the time in each month.
+
+Function.SLA.=[G/Z/ol/2]
+
+Function.sec=<ol><li>{Function.Support.Sec}</li><li>{Function.SLA.Sec}</li></ol>
 
 Function.=[G/Z/ol/2]
 
 Warranty.Ti=Warranties
 
-Warranty.1.Ti=Mutual Warranties
+Warranty.sec=<ol><li>{Warranty.Mutual.Sec}</li><li>{Warranty.Provider.Sec}</li><li>{Warranty.Remedy.Sec}</li><li>{Warranty.Disclaimer.Sec}</li></ol>
 
-Warranty.1.0.sec=Each party represents and warrants that:
+Warranty.Mutual.Ti=Mutual Warranties
 
-Warranty.1.1.sec=it has the legal power and authority to enter into this Agreement, and
+Warranty.Mutual.0.sec=Each party represents and warrants that:
 
-Warranty.1.2.sec=it will use industry-standard measures to avoid introducing {_Virus}es into the {_Cloud_Service}.
+Warranty.Mutual.1.sec=it has the legal power and authority to enter into this Agreement, and
 
-Warranty.1.=[G/Z/ol-a/s2]
+Warranty.Mutual.2.sec=it will use industry-standard measures to avoid introducing {_Virus}es into the {_Cloud_Service}.
 
-Warranty.2.Ti=Additional Provider Warranties
+Warranty.Mutual.=[G/Z/ol-a/s2]
 
-Warranty.2.0.sec={_Provider} warrants that:
+Warranty.Provider.Ti=Additional Provider Warranties
 
-Warranty.2.1.sec=the {_Cloud_Service} will perform materially as described in the Documentation and {_Provider} will not materially decrease the overall functionality of the {_Cloud_Service} during a {_Subscription_Term} (the “<b>{Def.Performance_Warranty.Target}</b>”), and
+Warranty.Provider.0.sec={_Provider} warrants that:
 
-Warranty.2.2.sec=any Professional Services will be provided in a professional and workmanlike manner (the “<b>{Def.Professional_Services_Warranty.Target}</b>”).
+Warranty.Provider.1.sec=the {_Cloud_Service} will perform materially as described in the Documentation and {_Provider} will not materially decrease the overall functionality of the {_Cloud_Service} during a {_Subscription_Term} (the “<b>{Def.Performance_Warranty.Target}</b>”), and
 
-Warranty.2.=[G/Z/ol-a/s2]
+Warranty.Provider.2.sec=any Professional Services will be provided in a professional and workmanlike manner (the “<b>{Def.Professional_Services_Warranty.Target}</b>”).
 
-Warranty.3.Ti=Warranty Remedy
+Warranty.Provider.=[G/Z/ol-a/s2]
 
-Warranty.3.sec={_Provider} will use reasonable efforts to correct a verified breach of the Performance Warranty or Professional Services Warranty reported by Customer. If {_Provider} fails to do so within 30 days after Customer’s warranty report (“<b>{Def.Fix_Period.Target}</b>”), then either party may terminate the Order as relates to the non-conforming {_Cloud_Service} or Professional Services, in which case {_Provider} will refund to Customer any pre-paid, unused fees for the terminated portion of the {_Subscription_Term} (for the Performance Warranty) or for the non-conforming Professional Services (for the Professional Services Warranty). To receive these remedies, Customer must report a breach of warranty in reasonable detail within 30 days after discovering the issue in the {_Cloud_Service} or 30 days after delivery of the relevant Professional Services (“<b>{Def.Claim_Period.Target}</b>”). These procedures are Customer’s exclusive remedies and {_Provider}’s sole liability for breach of the Performance Warranty or Professional Services Warranty.
+Warranty.Remedy.Ti=Warranty Remedy
 
-Warranty.4.Ti=Disclaimers
+Warranty.Remedy.sec={_Provider} will use reasonable efforts to correct a verified breach of the Performance Warranty or Professional Services Warranty reported by Customer. If {_Provider} fails to do so within 30 days after Customer’s warranty report (“<b>{Def.Fix_Period.Target}</b>”), then either party may terminate the Order as relates to the non-conforming {_Cloud_Service} or Professional Services, in which case {_Provider} will refund to Customer any pre-paid, unused fees for the terminated portion of the {_Subscription_Term} (for the Performance Warranty) or for the non-conforming Professional Services (for the Professional Services Warranty). To receive these remedies, Customer must report a breach of warranty in reasonable detail within 30 days after discovering the issue in the {_Cloud_Service} or 30 days after delivery of the relevant Professional Services (“<b>{Def.Claim_Period.Target}</b>”). These procedures are Customer’s exclusive remedies and {_Provider}’s sole liability for breach of the Performance Warranty or Professional Services Warranty.
 
-Warranty.4.sec=<b>Except as expressly set out in this Agreement, each party disclaims all warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular purpose, title and noninfringement. {_Provider}’s warranties in this Section 8 do not apply to issues arising from Third Party Platforms or misuse or unauthorized modifications of the {_Cloud_Service}. These disclaimers apply to the full extent permitted by Law.</b>
+Warranty.Remedy.=[G/Z/ol/4]
+
+Warranty.Disclaimer.Ti=Disclaimers
+
+Warranty.Disclaimer.sec=<b>Except as expressly set out in this Agreement, each party disclaims all warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular purpose, title and noninfringement. {_Provider}’s warranties in this Section 8 do not apply to issues arising from Third Party Platforms or misuse or unauthorized modifications of the {_Cloud_Service}. These disclaimers apply to the full extent permitted by Law.</b>
+
+Warranty.Disclaimer.=[G/Z/Base]
 
 Warranty.=[G/Z/ol/4]
 
