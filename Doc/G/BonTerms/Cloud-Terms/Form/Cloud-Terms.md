@@ -1,6 +1,9 @@
+
+QQ.sec=<ol><li>{QQ.1.Sec}</li><li>{QQ.2.Sec}</li><li>{QQ.3.Sec}</li><li>{QQ.4.Sec}</li><li>{QQ.5.Sec}</li><li>{QQ.6.Sec}</li>
+
 Ti=Bonterms Cloud Terms (Version 1.0)
 
-sec=<ol><li>{TheAgreement.Sec}</li><li>{CloudService.Sec}</li><li>{User.Sec}</li><li>{AffiliateUse.Sec}</li><li>{Data.Sec}</li><li>{ComplyLaw.Sec}</li><li>{Function.Sec}</li><li>{Function.Sec}</li><li>{Warranty.Sec}</li><li>{Usage.Sec}</li><li>{ThirdPartyPlatform.Sec}</li><li>{ProfessionalService.Sec}</li><li>{Fee.Sec}</li><li>{SuspendUse.Sec}</li><li>{Life.Sec}</li><li>{IP.Sec}</li><li>{LiabilityLimit.Sec}</li><li>{Indemnify.Sec}</li><li>{Conf.Sec}</li><li>{Conf.Except.Mandatory.Sec}</li><li>{Publicity.Sec}</li><li>{Use.Trial.Sec}</li><li>{Misc.Sec}</li><li>{Def.Sec}</li></ol>
+sec=<ol><li>{TheAgreement.Sec}</li><li>{CloudService.Sec}</li><li>{User.Sec}</li><li>{AffiliateUse.Sec}</li><li>{Data.Sec}</li><li>{ComplyLaw.Sec}</li><li>{Function.Sec}</li><li>{Function.Sec}</li><li>{Warranty.Sec}</li><li>{Usage.Sec}</li><li>{ThirdPartyPlatform.Sec}</li><li>{ProfessionalService.Sec}</li><li>{Fee.Sec}</li><li>{SuspendUse.Sec}</li><li>{Life.Sec}</li><li>{IP.Sec}</li><li>{LiabilityLimit.Sec}</li><li>{Indemnify.Sec}</li><li>{Conf.Sec}</li><li>{Conf.MandatoryDisclosure.Sec}</li><li>{Publicity.Sec}</li><li>{Use.Trial.Sec}</li><li>{Misc.Sec}</li><li>{Def.Sec}</li></ol>
 
 TheAgreement.Ti=The Agreement
 
@@ -120,27 +123,33 @@ Warranty.=[G/Z/ol/4]
 
 Usage.Ti=Usage Rules
 
-Usage.1.Ti=Compliance
+Usage.Comply.Ti=Compliance
 
-Usage.1.sec=Customer (a) will comply with any <b>{_Acceptable_Use_Policy}</b> (<b>{_AUP}</b>) identified on the Cover Page and (b) represents and warrants that it has all rights necessary to use Customer Data with the {_Cloud_Service} and grant {_Provider} the rights to Customer Data specified in this Agreement, without violating third-party intellectual property, privacy or other rights. Between the parties, Customer is responsible for the content and accuracy of Customer Data.
+Usage.Comply.sec=Customer (a) will comply with any <b>{_Acceptable_Use_Policy}</b> (<b>{_AUP}</b>) identified on the Cover Page and (b) represents and warrants that it has all rights necessary to use Customer Data with the {_Cloud_Service} and grant {_Provider} the rights to Customer Data specified in this Agreement, without violating third-party intellectual property, privacy or other rights. Between the parties, Customer is responsible for the content and accuracy of Customer Data.
 
-Usage.2.Ti=High Risk Activities & Sensitive Data. 
+Usage.Comply.=[G/Z/ol/2]
 
-Usage.2.0.sec=Customer:
+Usage.HighRisk.Ti=High Risk Activities & Sensitive Data. 
 
-Usage.2.1.sec=will not use the {_Cloud_Service} for High Risk Activities,
+Usage.HighRisk.0.sec=Customer:
 
-Usage.2.2.sec=will not submit {_Sensitive_Data} to the {_Cloud_Service}, and
+Usage.HighRisk.1.sec=will not use the {_Cloud_Service} for High Risk Activities,
 
-Usage.2.00.sec=acknowledges that the {_Cloud_Service} is not designed for (and {_Provider} has no liability for) use prohibited in this Section 9.2.
+Usage.HighRisk.2.sec=will not submit {_Sensitive_Data} to the {_Cloud_Service}, and
 
-Usage.2.=[G/Z/ol-a/s2]
+Usage.HighRisk.00.sec=acknowledges that the {_Cloud_Service} is not designed for (and {_Provider} has no liability for) use prohibited in this Section 9.2.
 
-Usage.=[G/Z/ol/2]
+Usage.HighRisk.=[G/Z/ol-a/s2]
 
-Usage.3.Ti=Restrictions
+Usage.Restrict.Ti=Restrictions
 
-Usage.3.sec=Customer will not and will not permit anyone else to: (a) sell, sublicense, distribute or rent the {_Cloud_Service} (in whole or part), grant non-{_User}s access to the {_Cloud_Service} or use the {_Cloud_Service} to provide a hosted or managed service to others, (b) reverse engineer, decompile or seek to access the source code of the {_Cloud_Service}, except to the extent these restrictions are prohibited by Laws and then only upon advance notice to {_Provider}, (c) copy, modify, create derivative works of or remove proprietary notices from the {_Cloud_Service}, (d) conduct security or vulnerability tests of the {_Cloud_Service}, interfere with its operation or circumvent its access restrictions or (e) use the {_Cloud_Service} to develop a product that competes with the {_Cloud_Service}.
+Usage.Restrict.sec=Customer will not and will not permit anyone else to: (a) sell, sublicense, distribute or rent the {_Cloud_Service} (in whole or part), grant non-{_User}s access to the {_Cloud_Service} or use the {_Cloud_Service} to provide a hosted or managed service to others, (b) reverse engineer, decompile or seek to access the source code of the {_Cloud_Service}, except to the extent these restrictions are prohibited by Laws and then only upon advance notice to {_Provider}, (c) copy, modify, create derivative works of or remove proprietary notices from the {_Cloud_Service}, (d) conduct security or vulnerability tests of the {_Cloud_Service}, interfere with its operation or circumvent its access restrictions or (e) use the {_Cloud_Service} to develop a product that competes with the {_Cloud_Service}.
+
+Usage.Restrict.=[G/Z/Base]
+
+Usage.sec=<ol><li>{Usage.Comply.Sec}</li><li>{Usage.HighRisk.Sec}</li><li>{Usage.Restrict.Sec}</li></ol>
+
+Usage.=[G/Z/Base]
 
 ThirdPartyPlatform.Ti=Third-Party Platforms
 
@@ -156,19 +165,28 @@ ProfessionalService.=[G/Z/Base]
 
 Fee.Ti=Fees
 
-Fee.1.Ti=Payment
+Fee.Pay.Ti=Payment
 
-Fee.1.sec=Customer will pay the fees described in the Order. Unless the Order states otherwise, all amounts are due within 30 days after the invoice date (the “<b>{Def.Payment_Period.Target}</b>”). Late payments are subject to a charge of 1.5% per month or the maximum amount allowed by Law, whichever is less. All fees and expenses are non-refundable except as expressly set out in this Agreement.
+Fee.Pay.sec=Customer will pay the fees described in the Order. Unless the Order states otherwise, all amounts are due within 30 days after the invoice date (the “<b>{Def.Payment_Period.Target}</b>”). Late payments are subject to a charge of 1.5% per month or the maximum amount allowed by Law, whichever is less. All fees and expenses are non-refundable except as expressly set out in this Agreement.
 
-Fee.2.Ti=Taxes
+Fee.Pay.=[G/Z/ol/3]
 
-Fee.2.sec=Customer is responsible for any sales, use, GST, value-added, withholding or similar taxes or levies that apply to its Orders, whether domestic or foreign (“<b>{Def.Taxes.Target}</b>”), other than {_Provider}’s income tax. Fees and expenses are exclusive of Taxes.
 
-Fee.3.Ti=Payment Disputes
+Fee.Tax.Ti=Taxes
 
-Fee.3.sec=If Customer disputes an invoice in good faith, it will notify {_Provider} within the Payment Period and the parties will seek to resolve the dispute over a 15-day discussion period. Customer is not required to pay disputed amounts during the discussion period, but will timely pay all undisputed amounts. After the discussion period, either party may pursue any available remedies.
+Fee.Tax.sec=Customer is responsible for any sales, use, GST, value-added, withholding or similar taxes or levies that apply to its Orders, whether domestic or foreign (“<b>{Def.Taxes.Target}</b>”), other than {_Provider}’s income tax. Fees and expenses are exclusive of Taxes.
 
-Fee.=[G/Z/ol/3]
+Fee.Tax.=[G/Z/ol/3]
+
+Fee.Dispute.Ti=Payment Disputes
+
+Fee.Dispute.sec=If Customer disputes an invoice in good faith, it will notify {_Provider} within the Payment Period and the parties will seek to resolve the dispute over a 15-day discussion period. Customer is not required to pay disputed amounts during the discussion period, but will timely pay all undisputed amounts. After the discussion period, either party may pursue any available remedies.
+
+Fee.Dispute.=[G/Z/ol/3]
+
+Fee.sec=<ol><li>{Fee.Pay.Sec}</li><li>{Fee.Tax.Sec}</li><li>{Fee.Dispute.Sec}</li></ol>
+
+Fee.=[G/Z/Base]
 
 SuspendUse.Ti=Suspension
 
@@ -178,149 +196,198 @@ SuspendUse.=[G/Z/Base]
 
 Life.Ti=Term and Termination
 
-Life.1.Ti=Subscription Terms
+Life.Subscription.Ti=Subscription Terms
 
-Life.1.sec=Each <b>{_Subscription_Term}</b> will last for an initial 12-month period unless the Order states otherwise. Each {_Subscription_Term} will renew for successive periods unless (a) the parties agree on a different renewal Order or (b) either party notifies the other of non-renewal at least 30 days prior to the end of the current {_Subscription_Term}.
+Life.Subscription.sec=Each <b>{_Subscription_Term}</b> will last for an initial 12-month period unless the Order states otherwise. Each {_Subscription_Term} will renew for successive periods unless (a) the parties agree on a different renewal Order or (b) either party notifies the other of non-renewal at least 30 days prior to the end of the current {_Subscription_Term}.
 
-Life.2.Ti=Term of Agreement
+Life.Subscription.=[G/Z/Base]
 
-Life.2.sec=This Agreement starts on the <b>Effective Date</b> and continues until the end of all {_Subscription_Term}s, unless sooner terminated in accordance with its terms. If no {_Subscription_Term} is in effect, either party may terminate this Agreement for any or no reason with notice to the other party.
+Life.Agreement.Ti=Term of Agreement
 
-Life.3.Ti=Termination
+Life.Agreement.sec=This Agreement starts on the <b>Effective Date</b> and continues until the end of all {_Subscription_Term}s, unless sooner terminated in accordance with its terms. If no {_Subscription_Term} is in effect, either party may terminate this Agreement for any or no reason with notice to the other party.
 
-Life.3.sec=Either party may terminate this Agreement (including all {_Subscription_Term}s) if the other party (a) fails to cure a material breach of this Agreement within 30 days after notice, (b) ceases operation without a successor or (c) seeks protection under a bankruptcy, receivership, trust deed, creditors’ arrangement, composition or comparable proceeding, or if such a proceeding is instituted against that party and not dismissed within 60 days.
+Life.Agreement.=[G/Z/Base]
 
-Life.4.Ti=Data Export & Deletion
+Life.Terminate.Ti=Termination
 
-Life.4.1.sec=During a {_Subscription_Term}, Customer may export Customer Data from the {_Cloud_Service} (or {_Provider} will otherwise make the Customer Data available to Customer) as described in the Documentation.
+Life.Terminate.sec=Either party may terminate this Agreement (including all {_Subscription_Term}s) if the other party (a) fails to cure a material breach of this Agreement within 30 days after notice, (b) ceases operation without a successor or (c) seeks protection under a bankruptcy, receivership, trust deed, creditors’ arrangement, composition or comparable proceeding, or if such a proceeding is instituted against that party and not dismissed within 60 days.
 
-Life.4.2.sec=After termination or expiration of this Agreement, within 60 days of request, {_Provider} will delete Customer Data and each party will delete any Confidential Information of the other in its possession or control.
+Life.Terminate.=[G/Z/Base]
 
-Life.4.3.sec=Nonetheless, the recipient may retain Customer Data or Confidential Information in accordance with its standard backup or record retention policies or as required by Law, subject to Section 5.2 (Security), Section 18 (Confidentiality) and any DPA.
+Life.WithdrawData.Ti=Data Export & Deletion
 
-Life.4.=[G/Z/ol-a/s3]
+Life.WithdrawData.1.sec=During a {_Subscription_Term}, Customer may export Customer Data from the {_Cloud_Service} (or {_Provider} will otherwise make the Customer Data available to Customer) as described in the Documentation.
 
-Life.5.Ti=Effect of Termination
+Life.WithdrawData.2.sec=After termination or expiration of this Agreement, within 60 days of request, {_Provider} will delete Customer Data and each party will delete any Confidential Information of the other in its possession or control.
 
-Life.5.1.sec=Customer’s right to use the {_Cloud_Service}, {_Support} and Professional Services will cease upon any termination or expiration of this Agreement, subject to this Section 14.
+Life.WithdrawData.3.sec=Nonetheless, the recipient may retain Customer Data or Confidential Information in accordance with its standard backup or record retention policies or as required by Law, subject to Section 5.2 (Security), Section 18 (Confidentiality) and any DPA.
 
-Life.5.2.sec=The following Sections will survive expiration or termination of this Agreement: 5.4 (Usage Data), 8.4 (Disclaimers), 9 (Usage Rules), 12.1 (Payment) (for amounts then due), 12.2 (Taxes), 14.4 (Data Export & Deletion), 14.5 (Effect of Termination), 15 (Intellectual Property), 16 (Limitations of Liability), 17 (Indemnification), 18 (Confidentiality), 19 (Required Disclosures), 22 (General Terms) and 23 (Definitions).
+Life.WithdrawData.=[G/Z/ol-a/s3]
 
-Life.5.3.sec=Except where an exclusive remedy is provided, exercising a remedy under this Agreement, including termination, does not limit other remedies a party may have.
+Life.AfterTermination.Ti=Effect of Termination
 
-Life.5.=[G/Z/ol-a/s3]
+Life.AfterTermination.1.sec=Customer’s right to use the {_Cloud_Service}, {_Support} and Professional Services will cease upon any termination or expiration of this Agreement, subject to this Section 14.
+
+Life.AfterTermination.2.sec=The following Sections will survive expiration or termination of this Agreement: 5.4 (Usage Data), 8.4 (Disclaimers), 9 (Usage Rules), 12.1 (Payment) (for amounts then due), 12.2 (Taxes), 14.4 (Data Export & Deletion), 14.5 (Effect of Termination), 15 (Intellectual Property), 16 (Limitations of Liability), 17 (Indemnification), 18 (Confidentiality), 19 (Required Disclosures), 22 (General Terms) and 23 (Definitions).
+
+Life.AfterTermination.3.sec=Except where an exclusive remedy is provided, exercising a remedy under this Agreement, including termination, does not limit other remedies a party may have.
+
+Life.AfterTermination.=[G/Z/ol-a/s3]
+
+Life.sec=<ol><li>{Life.Subscription.Sec}</li><li>{Life.Agreement.Sec}</li><li>{Life.Terminate.Sec}</li><li>{Life.WithdrawData.Sec}</li><li>{Life.AfterTermination.Sec}</li></ol>
 
 Life.=[G/Z/ol/5]
 
 IP.Ti=Intellectual Property
 
-IP.1.Ti=Reserved Rights
+IP.ReserveRight.Ti=Reserved Rights
 
-IP.1.sec=Neither party grants the other any rights or licenses not expressly set out in this Agreement. Except for {_Provider}’s express rights in this Agreement, as between the parties, Customer retains all intellectual property and other rights in Customer Data and Customer Materials provided to {_Provider}. Except for Customer’s express rights in this Agreement, as between the parties, {_Provider} and its licensors retain all intellectual property and other rights in the {_Cloud_Service}, Professional Services deliverables and related {_Provider} technology.
+IP.ReserveRight.sec=Neither party grants the other any rights or licenses not expressly set out in this Agreement. Except for {_Provider}’s express rights in this Agreement, as between the parties, Customer retains all intellectual property and other rights in Customer Data and Customer Materials provided to {_Provider}. Except for Customer’s express rights in this Agreement, as between the parties, {_Provider} and its licensors retain all intellectual property and other rights in the {_Cloud_Service}, Professional Services deliverables and related {_Provider} technology.
 
-IP.2.Ti=Feedback
+IP.ReserveRight.=[G/Z/Base]
 
-IP.2.sec=If Customer gives {_Provider} feedback regarding improvement or operation of the {_Cloud_Service}, {_Support} or Professional Services, {_Provider} may use the feedback without restriction or obligation. All feedback is provided “AS IS” and {_Provider} will not publicly identify Customer as the source of feedback without Customer’s permission.
+IP.Feedback.Ti=Feedback
 
-IP.=[G/Z/ol/2]
+IP.Feedback.sec=If Customer gives {_Provider} feedback regarding improvement or operation of the {_Cloud_Service}, {_Support} or Professional Services, {_Provider} may use the feedback without restriction or obligation. All feedback is provided “AS IS” and {_Provider} will not publicly identify Customer as the source of feedback without Customer’s permission.
+
+IP.Feedback.=[G/Z/Base]
+
+IP.sec=<ol><li>{IP.ReserveRight.Sec}</li><li>{IP.Feedback.Sec}</li></ol>
+
+IP.=[G/Z/Base]
 
 LiabilityLimit.Ti=Limitations of Liability
 
-LiabilityLimit.1.Ti=General Cap
+LiabilityLimit.GeneralCap.Ti=General Cap
 
-LiabilityLimit.1.sec=<b>Each party’s entire liability arising out of or related to this Agreement will not exceed the General Cap.</b>
+LiabilityLimit.GeneralCap.sec=<b>Each party’s entire liability arising out of or related to this Agreement will not exceed the General Cap.</b>
 
-LiabilityLimit.2.Ti=Consequential Damages Waiver
+LiabilityLimit.GeneralCap.=[G/Z/Base]
 
-LiabilityLimit.2.sec=<b>Neither party will have any liability arising out of or related to this Agreement for indirect, special, incidental, reliance or consequential damages or damages for loss of use, lost profits or interruption of business, even if informed of their possibility in advance.</b>
+LiabilityLimit.ConsequentialDamage.Ti=Consequential Damages Waiver
 
-LiabilityLimit.3.Ti=Exceptions and Enhanced Cap
+LiabilityLimit.ConsequentialDamage.sec=<b>Neither party will have any liability arising out of or related to this Agreement for indirect, special, incidental, reliance or consequential damages or damages for loss of use, lost profits or interruption of business, even if informed of their possibility in advance.</b>
 
-LiabilityLimit.3.sec=<b>Sections 16.1 (General Cap) and 16.2 (Consequential Damages Waiver) will not apply to Enhanced Claims or Uncapped Claims. For all Enhanced Claims, each party’s entire liability will not exceed the Enhanced Cap.</b>
+LiabilityLimit.ConsequentialDamage.=[G/Z/Base]
 
-LiabilityLimit.4.Ti=Nature of Claims
+LiabilityLimit.IncludedClaim.Ti=Exceptions and Enhanced Cap
 
-LiabilityLimit.4.sec=The waivers and limitations in this Section 16 apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy in this Agreement fails of its essential purpose.
+LiabilityLimit.IncludedClaim.sec=<b>Sections 16.1 (General Cap) and 16.2 (Consequential Damages Waiver) will not apply to Enhanced Claims or Uncapped Claims. For all Enhanced Claims, each party’s entire liability will not exceed the Enhanced Cap.</b>
 
-LiabilityLimit.5.Ti=Liability Definitions
+LiabilityLimit.ExcludedClaim.=[G/Z/Base]
 
-LiabilityLimit.5.0.sec=The following definitions apply unless modified on the Cover Page.
+LiabilityLimit.IncludedClaim.Ti=Nature of Claims
 
-LiabilityLimit.5.1.sec=“<b>{Def.Enhanced_Cap.Target}</b>” means three times (3x) the General Cap.
+LiabilityLimit.IncludedClaim.sec=The waivers and limitations in this Section 16 apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy in this Agreement fails of its essential purpose.
 
-LiabilityLimit.5.2.sec=“<b>{Def.Enhanced_Claims.Target}</b>” means {_Provider}’s breach of Section 5.2 (Security) or either party’s breach of Section 5.3 (DPA).
+LiabilityLimit.IncludedClaim.=[G/Z/Base]
 
-LiabilityLimit.5.3.sec=“<b>{Def.General_Cap.Target}</b>” means amounts paid or payable by Customer to {_Provider} under this Agreement in the 12 months immediately preceding the first incident giving rise to liability.
+LiabilityLimit.Def.Ti=Liability Definitions
 
-LiabilityLimit.5.4.sec=“<b>{Def.Uncapped_Claims.Target}</b>” means (a) the indemnifying party’s obligations under Section 17 (Indemnification), (b) either party’s infringement or misappropriation of the other party’s intellectual property rights, (c) any breach of Section 18 (Confidentiality), excluding breaches related to Customer Data and (d) liabilities that cannot be limited by Law.
+LiabilityLimit.Def.0.sec=The following definitions apply unless modified on the Cover Page.
 
-LiabilityLimit.5.=[G/Z/ol-none/s4]
+LiabilityLimit.Def.1.sec=“<b>{Def.Enhanced_Cap.Target}</b>” means three times (3x) the General Cap.
+
+LiabilityLimit.Def.2.sec=“<b>{Def.Enhanced_Claims.Target}</b>” means {_Provider}’s breach of Section 5.2 (Security) or either party’s breach of Section 5.3 (DPA).
+
+LiabilityLimit.Def.3.sec=“<b>{Def.General_Cap.Target}</b>” means amounts paid or payable by Customer to {_Provider} under this Agreement in the 12 months immediately preceding the first incident giving rise to liability.
+
+LiabilityLimit.Def.4.sec=“<b>{Def.Uncapped_Claims.Target}</b>” means (a) the indemnifying party’s obligations under Section 17 (Indemnification), (b) either party’s infringement or misappropriation of the other party’s intellectual property rights, (c) any breach of Section 18 (Confidentiality), excluding breaches related to Customer Data and (d) liabilities that cannot be limited by Law.
+
+LiabilityLimit.Def.=[G/Z/ol-none/s4]
+
+LiabilityLimit.sec=<ol><li>{LiabilityLimit.GeneralCap.Sec}</li><li>{LiabilityLimit.ConsequentialDamage.Sec}</li><li>{LiabilityLimit.IncludedClaim.Sec}</li><li>{LiabilityLimit.IncludedClaim.Sec}</li><li>{LiabilityLimit.Def.Sec}</li></ol>
 
 LiabilityLimit.=[G/Z/ol/5]
 
 Indemnify.Ti=Indemnification
 
-Indemnify.1.Ti=Indemnification by Provider
+Indemnify.ByProvider.Ti=Indemnification by Provider
 
-Indemnify.1.sec={_Provider}, at its own cost, will defend Customer from and against any {_Provider}-Covered Claims and will indemnify and hold harmless Customer from and against any damages or costs awarded against Customer (including reasonable attorneys’ fees) or agreed in settlement by {_Provider} resulting from the {_Provider}-Covered Claims.
+Indemnify.ByProvider.sec={_Provider}, at its own cost, will defend Customer from and against any {_Provider}-Covered Claims and will indemnify and hold harmless Customer from and against any damages or costs awarded against Customer (including reasonable attorneys’ fees) or agreed in settlement by {_Provider} resulting from the {_Provider}-Covered Claims.
 
-Indemnify.2.Ti=Indemnification by Customer
+Indemnify.ByProvider.=[G/Z/Base]
 
-Indemnify.2.sec=Customer, at its own cost, will defend {_Provider} from and against any Customer-Covered Claims and will indemnify and hold harmless {_Provider} from and against any damages or costs awarded against {_Provider} (including reasonable attorneys’ fees) or agreed in settlement by Customer resulting from the Customer-Covered Claims.
+Indemnify.ByCustomer.Ti=Indemnification by Customer
 
-Indemnify.3.Ti=Indemnification Definitions
+Indemnify.ByCustomer.sec=Customer, at its own cost, will defend {_Provider} from and against any Customer-Covered Claims and will indemnify and hold harmless {_Provider} from and against any damages or costs awarded against {_Provider} (including reasonable attorneys’ fees) or agreed in settlement by Customer resulting from the Customer-Covered Claims.
 
-Indemnify.3.0.sec=The following definitions apply unless modified on the Cover Page.
+Indemnify.ByCustomer.=[G/Z/Base]
 
-Indemnify.3.1.sec=“<b>{Def.Customer-Covered_Claim.Target}</b>” means a third-party claim arising from Customer’s breach or alleged breach of Section 9.1 (Compliance) or 9.2 (High-Risk Activities & Sensitive Data).
+Indemnify.Def.Ti=Indemnification Definitions
 
-Indemnify.3.2.sec=“<b>{Def.Provider-Covered_Claim.Target}</b>” means a third-party claim that the {_Cloud_Service}, when used by Customer as authorized in this Agreement, infringes or misappropriates a third party’s intellectual property rights.
+Indemnify.Def.0.sec=The following definitions apply unless modified on the Cover Page.
 
-Indemnify.3.=[G/Z/ol-none/s2]
+Indemnify.Def.1.sec=“<b>{Def.Customer-Covered_Claim.Target}</b>” means a third-party claim arising from Customer’s breach or alleged breach of Section 9.1 (Compliance) or 9.2 (High-Risk Activities & Sensitive Data).
 
-Indemnify.4.Ti=Procedures
+Indemnify.Def.2.sec=“<b>{Def.Provider-Covered_Claim.Target}</b>” means a third-party claim that the {_Cloud_Service}, when used by Customer as authorized in this Agreement, infringes or misappropriates a third party’s intellectual property rights.
 
-Indemnify.4.sec=The indemnifying party’s obligations in this Section 17 are subject to receiving from the indemnified party: (a) prompt notice of the claim (but delayed notice will only reduce the indemnifying party’s obligations to the extent it is prejudiced by the delay), (b) the exclusive right to control the claim’s investigation, defense and settlement and (c) reasonable cooperation at the indemnifying party’s expense. The indemnifying party may not settle a claim without the indemnified party’s prior approval if settlement would require the indemnified party to admit fault or take or refrain from taking any action (except regarding use of the {_Cloud_Service} when {_Provider} is the indemnifying party). The indemnified party may participate in a claim with its own counsel at its own expense.
+Indemnify.Def.=[G/Z/ol-none/s2]
 
-Indemnify.5.Ti=Mitigation
+Indemnify.Procedure.Ti=Procedures
 
-Indemnify.5.sec=In response to an infringement or misappropriation claim, if required by settlement or injunction or as {_Provider} determines necessary to avoid material liability, {_Provider} may: (a) procure rights for Customer’s continued use of the {_Cloud_Service}, (b) replace or modify the allegedly infringing portion of the {_Cloud_Service} to avoid infringement, without reducing the {_Cloud_Service}’s overall functionality or (c) terminate the affected Order and refund to Customer any pre-paid, unused fees for the terminated portion of the {_Subscription_Term}.
+Indemnify.Procedure.sec=The indemnifying party’s obligations in this Section 17 are subject to receiving from the indemnified party: (a) prompt notice of the claim (but delayed notice will only reduce the indemnifying party’s obligations to the extent it is prejudiced by the delay), (b) the exclusive right to control the claim’s investigation, defense and settlement and (c) reasonable cooperation at the indemnifying party’s expense. The indemnifying party may not settle a claim without the indemnified party’s prior approval if settlement would require the indemnified party to admit fault or take or refrain from taking any action (except regarding use of the {_Cloud_Service} when {_Provider} is the indemnifying party). The indemnified party may participate in a claim with its own counsel at its own expense.
 
-Indemnify.6.Ti=Exceptions
+Indemnify.Procedure.=[G/Z/Base]
 
-Indemnify.6.sec={_Provider}’s obligations in this Section 17 do not apply to claims resulting from (a) modification or unauthorized use of the {_Cloud_Service}, (b) use of the {_Cloud_Service} in combination with items not provided by {_Provider}, including {_Third-Party_Platform}s or (c) {_Provider_Software} other than the most recent release, if {_Provider} made available (at no additional charge) a newer release that would avoid infringement.
+Indemnify.Mitigation.Ti=Mitigation
 
-Indemnify.7.Ti=Exclusive Remedy
+Indemnify.Mitigation.sec=In response to an infringement or misappropriation claim, if required by settlement or injunction or as {_Provider} determines necessary to avoid material liability, {_Provider} may: (a) procure rights for Customer’s continued use of the {_Cloud_Service}, (b) replace or modify the allegedly infringing portion of the {_Cloud_Service} to avoid infringement, without reducing the {_Cloud_Service}’s overall functionality or (c) terminate the affected Order and refund to Customer any pre-paid, unused fees for the terminated portion of the {_Subscription_Term}.
 
-Indemnify.7.sec=<b>This Section 17 sets out the indemnified party’s exclusive remedy and the indemnifying party’s sole liability regarding third-party claims of intellectual property infringement or misappropriation covered by this Section 17.</b>
+Indemnify.Mitigation.=[G/Z/Base]
 
-Indemnify.=[G/Z/ol/7]
+Indemnify.ExcludeClaim.Ti=Exceptions
+
+Indemnify.ExcludeClaim.sec={_Provider}’s obligations in this Section 17 do not apply to claims resulting from (a) modification or unauthorized use of the {_Cloud_Service}, (b) use of the {_Cloud_Service} in combination with items not provided by {_Provider}, including {_Third-Party_Platform}s or (c) {_Provider_Software} other than the most recent release, if {_Provider} made available (at no additional charge) a newer release that would avoid infringement.
+
+Indemnify.ExcludeClaim.=[G/Z/Base]
+
+Indemnify.ExclusiveRemedy.Ti=Exclusive Remedy
+
+Indemnify.ExclusiveRemedy.sec=<b>This Section 17 sets out the indemnified party’s exclusive remedy and the indemnifying party’s sole liability regarding third-party claims of intellectual property infringement or misappropriation covered by this Section 17.</b>
+
+Indemnify.ExclusiveRemedy.=[G/Z/Base]
+
+
+Indemnify.sec=<ol><li>{Indemnify.ByProvider.Sec}</li><li>{Indemnify.ByCustomer.Sec}</li><li>{Indemnify.Def.Sec}</li><li>{Indemnify.Procedure.Sec}</li><li>{Indemnify.Mitigation.Sec}</li><li>{Indemnify.ExcludeClaim.Sec}</li><li>{Indemnify.ExclusiveRemedy.Sec}</li></ol>
+
+Indemnify.=[G/Z/Base]
 
 Conf.Ti=Confidentiality
 
-Conf.1.Ti=Use and Protection
+Conf.Engage.Ti=Use and Protection
 
-Conf.1.sec=As recipient, each party will (a) use Confidential Information only to fulfill its obligations and exercise its rights under this Agreement, (b) not disclose Confidential Information to third parties without the discloser’s prior approval, except as permitted in this Agreement and (c) protect Confidential Information using at least the same precautions recipient uses for its own similar information and no less than a reasonable standard of care.
+Conf.Engage.sec=As recipient, each party will (a) use Confidential Information only to fulfill its obligations and exercise its rights under this Agreement, (b) not disclose Confidential Information to third parties without the discloser’s prior approval, except as permitted in this Agreement and (c) protect Confidential Information using at least the same precautions recipient uses for its own similar information and no less than a reasonable standard of care.
 
-Conf.2.Ti=Permitted Disclosures
+Conf.Engage.=[G/Z/Base]
 
-Conf.2.sec=The recipient may disclose Confidential Information to its employees, agents, contractors and other representatives having a legitimate need to know (including, for {_Provider}, the subcontractors referenced in Section 22.10), provided it remains responsible for their compliance with this Section 18 and they are bound to confidentiality obligations no less protective than this Section 18.
+Conf.CirculateInfo.Ti=Permitted Disclosures
 
-Conf.3.Ti=Exclusions
+Conf.CirculateInfo.sec=The recipient may disclose Confidential Information to its employees, agents, contractors and other representatives having a legitimate need to know (including, for {_Provider}, the subcontractors referenced in Section 22.10), provided it remains responsible for their compliance with this Section 18 and they are bound to confidentiality obligations no less protective than this Section 18.
 
-Conf.3.sec=These confidentiality obligations do not apply to information that the recipient can document (a) is or becomes public knowledge through no fault of the recipient, (b) it rightfully knew or possessed, without confidentiality restrictions, prior to receipt from the discloser, (c) it rightfully received from a third party without confidentiality restrictions or (d) it independently developed without using or referencing Confidential Information.
+Conf.CirculateInfo.=[G/Z/Base]
 
-Conf.4.Ti=Remedies
+Conf.ExcludeInfo.Ti=Exclusions
 
-Conf.4.sec=Breach of this Section 18 may cause substantial harm for which monetary damages are an insufficient remedy. Upon a breach of this Section, the discloser is entitled to seek appropriate equitable relief, including an injunction, in addition to other remedies.
+Conf.ExcludeInfo.sec=These confidentiality obligations do not apply to information that the recipient can document (a) is or becomes public knowledge through no fault of the recipient, (b) it rightfully knew or possessed, without confidentiality restrictions, prior to receipt from the discloser, (c) it rightfully received from a third party without confidentiality restrictions or (d) it independently developed without using or referencing Confidential Information.
 
-Conf.=[G/Z/ol/4]
+Conf.ExcludeInfo.=[G/Z/Base]
 
-Conf.Except.Mandatory.Ti=Required Disclosures
+Conf.Remedy.Ti=Remedies
 
-Conf.Except.Mandatory.sec=The recipient may disclose Confidential Information (including Customer Data) to the extent required by Laws. If permitted by Law, the recipient will give the discloser reasonable advance notice of the required disclosure and reasonably cooperate, at the discloser’s expense, to obtain confidential treatment for the Confidential Information.
+Conf.Remedy.sec=Breach of this Section 18 may cause substantial harm for which monetary damages are an insufficient remedy. Upon a breach of this Section, the discloser is entitled to seek appropriate equitable relief, including an injunction, in addition to other remedies.
 
-Conf.Except.Mandatory.=[G/Z/Base]
+Conf.Remedy.=[G/Z/Base]
+
+Conf.sec=<ol><li>{Conf.Engage.Sec}</li><li>{Conf.CirculateInfo.Sec}</li><li>{Conf.ExcludeInfo.Sec}</li><li>{Conf.Remedy.Sec}</li></ol>
+
+Conf.=[G/Z/Base]
+
+Conf.MandatoryDisclosure.Ti=Required Disclosures
+
+Conf.MandatoryDisclosure.sec=The recipient may disclose Confidential Information (including Customer Data) to the extent required by Laws. If permitted by Law, the recipient will give the discloser reasonable advance notice of the required disclosure and reasonably cooperate, at the discloser’s expense, to obtain confidential treatment for the Confidential Information.
+
+Conf.MandatoryDisclosure.=[G/Z/Base]
 
 Publicity.Ti=Publicity
 
