@@ -5,7 +5,7 @@ sec=<ol><li>{TheAgreement.Sec}</li><li>{CloudService.Sec}</li><li>{User.Sec}</li
 
 TheAgreement.Ti=The Agreement
 
-TheAgreement.sec=The {_Bonterms_Cloud_Terms} are standardized terms for use of cloud services. To use the {_Bonterms_Cloud_Terms}, Customer and {_Provider} complete and execute a {_Cover_Page} that specifies {_Key_Terms}, {_Attachments} (such as a {_Support_Policy} or {_Data_Protection_Addendum}) and any {_Additional_Terms}. Collectively, the {_Bonterms_Cloud_Terms}, {_Cover_Page} and any {_Orders} form the parties’ agreement (“<b>{Def.Agreement.Target}</b>”). Conflicts between parts of the {_Agreement} are governed by Section {Misc.Xnum}.5 (Order of Precedence). Capitalized terms are defined in context or in Section {Def.Xnum} (Definitions).
+TheAgreement.sec=The {_Bonterms_Cloud_Terms} are standardized terms for use of cloud services. To use the {_Bonterms_Cloud_Terms}, Customer and {_Provider} complete and execute a {_Cover_Page} that specifies {_Key_Terms}, {_Attachments} (such as a {_Support_Policy} or {_Data_Protection_Addendum}) and any {_Additional_Terms}. Collectively, the {_Bonterms_Cloud_Terms}, {_Cover_Page} and any {_Orders} form the parties’ agreement (“<b>{Def.Agreement.Target}</b>”). Conflicts between parts of the {_Agreement} are governed by Section {Misc.DocumentHierarchy.Xnum} (Order of Precedence). Capitalized terms are defined in context or in Section {Def.Xnum} (Definitions).
 
 TheAgreement.=[G/Z/Base]
 
@@ -135,7 +135,7 @@ Usage.HighRisk.1.sec=will not use the {_Cloud_Service} for High Risk Activities,
 
 Usage.HighRisk.2.sec=will not submit {_Sensitive_Data} to the {_Cloud_Service}, and
 
-Usage.HighRisk.00.sec=acknowledges that the {_Cloud_Service} is not designed for (and {_Provider} has no liability for) use prohibited in this Section {ComplyLaw.Xnum}.2.
+Usage.HighRisk.00.sec=acknowledges that the {_Cloud_Service} is not designed for (and {_Provider} has no liability for) use prohibited in this Section {Usage.HighRisk.Xnum}
 
 Usage.HighRisk.=[G/Z/ol-a/s2]
 
@@ -218,7 +218,7 @@ Life.WithdrawData.1.sec=During a {_Subscription_Term}, Customer may export Custo
 
 Life.WithdrawData.2.sec=After termination or expiration of this Agreement, within 60 days of request, {_Provider} will delete Customer Data and each party will delete any Confidential Information of the other in its possession or control.
 
-Life.WithdrawData.3.sec=Nonetheless, the recipient may retain Customer Data or Confidential Information in accordance with its standard backup or record retention policies or as required by Law, subject to Section {Data.Xnum}.2 (Security), Section {Conf.Xnum} (Confidentiality) and any DPA.
+Life.WithdrawData.3.sec=Nonetheless, the recipient may retain Customer Data or Confidential Information in accordance with its standard backup or record retention policies or as required by Law, subject to Section {Data.Security.Xnum} (Security), Section {Conf.Xnum} (Confidentiality) and any DPA.
 
 Life.WithdrawData.=[G/Z/ol-a/s3]
 
@@ -226,7 +226,7 @@ Life.AfterTermination.Ti=Effect of Termination
 
 Life.AfterTermination.1.sec=Customer’s right to use the {_Cloud_Service}, {_Support} and Professional Services will cease upon any termination or expiration of this Agreement, subject to this Section {Life.Xnum}.
 
-Life.AfterTermination.2.sec=The following Sections will survive expiration or termination of this Agreement: {Data.Xnum}.4 (Usage Data), {Warranty.Xnum}.4 (Disclaimers), {Usage.Xnum} (Usage Rules), {Fee.Xnum}.1 (Payment) (for amounts then due), {Fee.Xnum}.2 (Taxes), {Life.Xnum}.4 (Data Export & Deletion), {Life.Xnum}.5 (Effect of Termination), {IP.Xnum} (Intellectual Property), {LiabilityLimit.Xnum} (Limitations of Liability), {Indemnify.Xnum} (Indemnification), {Conf.Xnum} (Confidentiality), {MandatoryDisclosure.Xnum} (Required Disclosures), {Misc.Xnum} (General Terms) and {Def.Xnum} (Definitions).
+Life.AfterTermination.2.sec=The following Sections will survive expiration or termination of this Agreement: {Data.Usage.Xnum} (Usage Data), {Warranty.Disclaimer.Xnum} (Disclaimers), {Usage.Xnum} (Usage Rules), {Fee.Pay.Xnum} (Payment) (for amounts then due), {Fee.Tax.Xnum} (Taxes), {Life.WithdrawData.Xnum} (Data Export & Deletion), {Life.AfterTermination.Xnum} (Effect of Termination), {IP.Xnum} (Intellectual Property), {LiabilityLimit.Xnum} (Limitations of Liability), {Indemnify.Xnum} (Indemnification), {Conf.Xnum} (Confidentiality), {MandatoryDisclosure.Xnum} (Required Disclosures), {Misc.Xnum} (General Terms) and {Def.Xnum} (Definitions).
 
 Life.AfterTermination.3.sec=Except where an exclusive remedy is provided, exercising a remedy under this Agreement, including termination, does not limit other remedies a party may have.
 
@@ -270,7 +270,7 @@ LiabilityLimit.ConsequentialDamage.=[G/Z/Base]
 
 LiabilityLimit.IncludedClaim.Ti=Exceptions and Enhanced Cap
 
-LiabilityLimit.IncludedClaim.sec=<b>Sections 16.1 (General Cap) and 16.2 (Consequential Damages Waiver) will not apply to Enhanced Claims or Uncapped Claims. For all Enhanced Claims, each party’s entire liability will not exceed the Enhanced Cap.</b>
+LiabilityLimit.IncludedClaim.sec=<b>Sections {LiabilityLimit.GeneralCap.Xnum} (General Cap) and {LiabilityLimit.ConsequentialDamages.Xnum} (Consequential Damages Waiver) will not apply to Enhanced Claims or Uncapped Claims. For all Enhanced Claims, each party’s entire liability will not exceed the Enhanced Cap.</b>
 
 LiabilityLimit.ExcludedClaim.=[G/Z/Base]
 
@@ -286,7 +286,7 @@ LiabilityLimit.Def.0.sec=The following definitions apply unless modified on the 
 
 LiabilityLimit.Def.1.sec=“<b>{Def.Enhanced_Cap.Target}</b>” means three times (3x) the General Cap.
 
-LiabilityLimit.Def.2.sec=“<b>{Def.Enhanced_Claims.Target}</b>” means {_Provider}’s breach of Section {Data.Xnum}.2 (Security) or either party’s breach of Section {Data.Xnum}.3 (DPA).
+LiabilityLimit.Def.2.sec=“<b>{Def.Enhanced_Claims.Target}</b>” means {_Provider}’s breach of Section {Data.Security.Xnum} (Security) or either party’s breach of Section {Data.DPA.Xnum} (DPA).
 
 LiabilityLimit.Def.3.sec=“<b>{Def.General_Cap.Target}</b>” means amounts paid or payable by Customer to {_Provider} under this Agreement in the 12 months immediately preceding the first incident giving rise to liability.
 
@@ -294,7 +294,7 @@ LiabilityLimit.Def.4.sec=“<b>{Def.Uncapped_Claims.Target}</b>” means (a) the
 
 LiabilityLimit.Def.=[G/Z/ol-none/s4]
 
-LiabilityLimit.sec=<ol><li>{LiabilityLimit.GeneralCap.Sec}</li><li>{LiabilityLimit.ConsequentialDamage.Sec}</li><li>{LiabilityLimit.IncludedClaim.Sec}</li><li>{LiabilityLimit.IncludedClaim.Sec}</li><li>{LiabilityLimit.Def.Sec}</li></ol>
+LiabilityLimit.sec=<ol><li>{LiabilityLimit.GeneralCap.Sec}</li><li>{LiabilityLimit.ConsequentialDamage.Sec}</li><li>{LiabilityLimit.IncludedClaim.Sec}</li><li>{LiabilityLimit.Def.Sec}</li></ol>
 
 LiabilityLimit.=[G/Z/ol/5]
 
@@ -316,7 +316,7 @@ Indemnify.Def.Ti=Indemnification Definitions
 
 Indemnify.Def.0.sec=The following definitions apply unless modified on the Cover Page.
 
-Indemnify.Def.1.sec=“<b>{Def.Customer-Covered_Claim.Target}</b>” means a third-party claim arising from Customer’s breach or alleged breach of Section {Usage.Xnum}.1 (Compliance) or {Usage.Xnum}.2 (High-Risk Activities & Sensitive Data).
+Indemnify.Def.1.sec=“<b>{Def.Customer-Covered_Claim.Target}</b>” means a third-party claim arising from Customer’s breach or alleged breach of Section {Usage.Comply.Xnum} (Compliance) or {Usage.HighRisk.Xnum} (High-Risk Activities & Sensitive Data).
 
 Indemnify.Def.2.sec=“<b>{Def.Provider-Covered_Claim.Target}</b>” means a third-party claim that the {_Cloud_Service}, when used by Customer as authorized in this Agreement, infringes or misappropriates a third party’s intellectual property rights.
 
@@ -361,7 +361,7 @@ Conf.Engage.=[G/Z/Base]
 
 Conf.CirculateInfo.Ti=Permitted Disclosures
 
-Conf.CirculateInfo.sec=The recipient may disclose Confidential Information to its employees, agents, contractors and other representatives having a legitimate need to know (including, for {_Provider}, the subcontractors referenced in Section {Misc.Xnum}.10), provided it remains responsible for their compliance with this Section {Conf.Xnum} and they are bound to confidentiality obligations no less protective than this Section {Conf.Xnum}.
+Conf.CirculateInfo.sec=The recipient may disclose Confidential Information to its employees, agents, contractors and other representatives having a legitimate need to know (including, for {_Provider}, the subcontractors referenced in Section {Misc.Subcontractor.Xnum}), provided it remains responsible for their compliance with this Section {Conf.Xnum} and they are bound to confidentiality obligations no less protective than this Section {Conf.Xnum}.
 
 Conf.CirculateInfo.=[G/Z/Base]
 
@@ -503,7 +503,7 @@ Def.Ti=Definitions
 
 Def.sec=<ul type=none></li>{Def.Acceptable_Use_Policy.sec}</li><li>{Def.Additional_Terms.sec}</li><li>{Def.Affiliate.sec}</li><li>{Def.Agreement.sec}</li><li>{Def.Attachment.sec}</li><li>{Def.Bonterms_Cloud_Terms.sec}</li><li>{Def.Cloud_Service.sec}</li><li>{Def.Confidential_Information.sec}</li><li>{Def.Cover_Page.sec}</li><li>{Def.Customer.sec}</li><li>{Def.Customer_Data.sec}</li><li>{Def.Customer_Materials.sec}</li><li>{Def.Data_Protection_Addendum.sec}</li><li>{Def.Documentation.sec}</li><li>{Def.Force_Majeure.sec}</li><li>{Def.High_Risk_Activities.sec}</li><li>{Def.Key_Terms.sec}</li><li>{Def.Laws.sec}</li><li>{Def.Order.sec}</li><li>{Def.Personal_Data.sec}</li><li>{Def.Professional_Services.sec}</li><li>{Def.Provider.sec}</li><li>{Def.Provider_Software.sec}</li><li>{Def.Sensitive_Data.sec}</li><li>{Def.Service_Level_Agreement.sec}</li><li>{Def.Statement_of_Work.sec}</li><li>{Def.Subscription_Term.sec}</li><li>{Def.Support.sec}</li><li>{Def.Support_Policy.sec}</li><li>{Def.Third-Party_Platform.sec}</li><li>{Def.Trials_and_Betas.sec}</li><li>{Def.Usage_Data.sec}</li><li>{Def.User.sec}</li><li>{Def.Virus.sec}</li></ul>
 
-Def.Acceptable_Use_Policy.sec=“<b>{Def.Acceptable_Use_Policy.Target}</b>” or “<b>{Def.AUP.Target}</b>” is defined in Section {ComplyLaw.Xnum}.1 (Compliance).
+Def.Acceptable_Use_Policy.sec=“<b>{Def.Acceptable_Use_Policy.Target}</b>” or “<b>{Def.AUP.Target}</b>” is defined in Section {Usage.Comply.Xnum} (Compliance).
 
 Def.Additional_Terms.sec=“<b>{Def.Additional_Terms.Target}</b>” means any additions to or modifications of these {_Bonterms_Cloud_Terms} that the parties specify on the Cover Page.
 
@@ -527,7 +527,7 @@ Def.Customer_Data.sec=“<b>{Def.Customer_Data.Target}</b>” means any data, co
 
 Def.Customer_Materials.sec=“<b>{Def.Customer_Materials.Target}</b>” means materials and resources that Customer makes available to {_Provider} in connection with Professional Services.
 
-Def.Data_Protection_Addendum.sec=“<b>{Def.Data_Protection_Addendum.Target}</b>” or “<b>{Def.DPA.Target}</b>” is defined in Section {Data.Xnum}.3 (DPA).
+Def.Data_Protection_Addendum.sec=“<b>{Def.Data_Protection_Addendum.Target}</b>” or “<b>{Def.DPA.Target}</b>” is defined in Section {Data.DPA.Xnum} (DPA).
 
 Def.Documentation.sec=“<b>{Def.Documentation.Target}</b>” means {_Provider}’s standard usage documentation for the {_Cloud_Service}.
 
@@ -551,15 +551,15 @@ Def.Provider_Software.sec=“<b>{Def.Provider_Software.Target}</b>” means any 
 
 Def.Sensitive_Data.sec=“<b>{Def.Sensitive_Data.Target}</b>” means (a) patient, medical or other protected health information regulated by the Health Insurance Portability and Accountability Act (as amended and supplemented) (“<b>{Def.HIPAA.Target}</b>”), (b) credit, debit, bank account or other financial account numbers, (c) social security numbers, driver’s license numbers or other government ID numbers and (d) special categories of data enumerated in European Union Regulation 2016/679, Article 9(1) or any successor legislation.
 
-Def.Service_Level_Agreement.sec=“<b>{Def.Service_Level_Agreement.Target}</b>” or “<b>{Def.SLA.Target}</b>” is defined in Section {Function.Xnum}.2 (SLA).
+Def.Service_Level_Agreement.sec=“<b>{Def.Service_Level_Agreement.Target}</b>” or “<b>{Def.SLA.Target}</b>” is defined in Section {Function.SLA.Xnum} (SLA).
 
 Def.Statement_of_Work.sec=“<b>{Def.Statement_of_Work.Target}</b>” means a statement of work for Professional Services that is executed by the parties and references this {_Agreement}.
 
 Def.Subscription_Term.sec=“<b>{Def.Subscription_Term.Target}</b>” means the term for Customer’s use of the {_Cloud_Service} as identified in an Order.
 
-Def.Support.sec=“<b>{Def.Support.Target}</b>” means support for the {_Cloud_Service} as described in Section {Function.Xnum}.1 (Support).
+Def.Support.sec=“<b>{Def.Support.Target}</b>” means support for the {_Cloud_Service} as described in Section {Function.Support.Xnum} (Support).
 
-Def.Support_Policy.sec=“<b>{Def.Support_Policy.Target}</b>” is defined in Section {Function.Xnum}.1 (Support).
+Def.Support_Policy.sec=“<b>{Def.Support_Policy.Target}</b>” is defined in Section {Function.Support.Xnum} (Support).
 
 Def.Third-Party_Platform.sec=“<b>{Def.Third-Party_Platform.Target}</b>” means any product, add-on or platform not provided by {_Provider} that Customer uses with the {_Cloud_Service}.
 
@@ -843,4 +843,36 @@ Misc.Xnum=<a href='#Misc.Sec'>22</a>
 Def.Xnum=<a href='#Def.Sec'>23</a>
 
 
+
+Usage.Comply.Xnum={Usage.Xnum}.<a href='#Usage.Comply.Sec'>1</a>
+
+Data.Security.Xnum={Data.Xnum}.<a href='#Data.Security.Sec'>2</a>
+
+Data.Usage.Xnum={Data.Xnum}.<a href='#Data.Usage.Sec'>4</a>
+
+Warranty.Disclaimer.Xnum={Warranty.Xnum}.<a href='#Warranty.Disclaimer.Sec'>4</a>
+
+Fee.Pay.Xnum={Fee.Xnum}.<a href='#Fee.Pay.Sec'>1</a>
+
+Fee.Tax.Xnum={Fee.Xnum}.<a href='#Fee.Tax.Sec'>2</a>
+
+Life.WithdrawData.Xnum={Life.Xnum}.<a href='#Life.WithdrawData.Sec'>4</a>
+
+Life.AfterTermination.Xnum={Life.Xnum}.<a href='#Life.AfterTermination.Sec'>5</a>
+
+Data.DPA.Xnum={Data.Xnum}.<a href='#Data.DPA.Sec'>3</a>
+
+Usage.HighRisk.Xnum={Usage.Xnum}.<a href='#Usage.HighRisk.Sec'>2</a>
+
+Misc.Subcontractor.Xnum={Misc.Xnum}.<a href='#Misc.Subcontractor.Sec'>10</a>
+
+Function.SLA.Xnum={Function.Xnum}.<a href='#Function.SLA.Sec'>2</a>
+
+Function.Support.Xnum={Function.Xnum}.<a href='#Function.Support.Sec'>1</a>
+
+Misc.DocumentHierarchy.Xnum={Misc.Xnum}.<a href='#Misc.DocumentHierarchy.Sec'>5</a>
+
+LiabilityLimit.GeneralCap.Xnum={LiabilityLimit.Xnum}.<a href='#LiabilityLimit.GeneralCap.Sec'>1</a>
+
+LiabilityLimit.ConsequentialDamages.Xnum={LiabilityLimit.Xnum}.<a href='#LiabilityLimit.ConsequentialDamages.Sec'>2</a>
 
