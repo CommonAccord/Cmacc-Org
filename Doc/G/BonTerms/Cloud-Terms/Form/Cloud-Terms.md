@@ -73,7 +73,9 @@ Function.Support.=[G/Z/ol/2]
 
 Function.SLA.Ti=SLA
 
-Function.SLA.sec={_Provider} will adhere to the <b>{_Service_Level_Agreement}</b> (<b>{_SLA}</b>) identified on the Cover Page. If no {_SLA} is identified, {_Provider} will use commercially reasonable efforts to make the {_Cloud_Service} available for Customer’s use 99.9% of the time in each month.
+Function.SLA.sec={_Provider} will adhere to the <b>{_Service_Level_Agreement}</b> (<b>{_SLA}</b>) identified on the Cover Page. If no {_SLA} is identified, {_Provider} will use commercially reasonable efforts to make the {_Cloud_Service} available for Customer’s use {SLA.Uptime.%} of the time in each month.
+
+SLA.Uptime.%=99.9%
 
 Function.SLA.=[G/Z/ol/2]
 
@@ -625,6 +627,8 @@ _Data_Protection_Addendum=<a href='#Def.Data_Protection_Addendum.Target' class='
 _Documentation=<a href='#Def.Documentation.Target' class='definedterm'>Documentation</a>
 
 _DPA=<a href='#Def.DPA.Target' class='definedterm'>DPA</a>
+
+_Effective_Date=<a href='#Def.Effective_Date.Target' class='definedterm'>Effective Date</a>
 
 _Enhanced_Cap=<a href='#Def.Enhanced_Cap.Target' class='definedterm'>Enhanced Cap</a>
 
