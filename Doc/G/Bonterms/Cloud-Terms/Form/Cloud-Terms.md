@@ -905,3 +905,10 @@ LiabilityLimit.GeneralCap.Xnum={LiabilityLimit.Xnum}.<a href='#LiabilityLimit.Ge
 
 LiabilityLimit.ConsequentialDamages.Xnum={LiabilityLimit.Xnum}.<a href='#LiabilityLimit.ConsequentialDamages.Sec'>2</a>
 
+
+Note=Experimenting with SALI taxonomy:
+
+ContractualClause=http://lmss.sali.org/RDe0RKU39BlhcyACJW30ZLc
+
+
+ServiceAgreement=http://lmss.sali.org/RZ2ygZBRYA0HT25x0f50Du
