@@ -3,6 +3,8 @@ Ti=Bonterms Cloud Terms (Version 1.0)
 
 sec=<ol><li>{TheAgreement.Sec}</li><li>{CloudService.Sec}</li><li>{User.Sec}</li><li>{AffiliateUse.Sec}</li><li>{Data.Sec}</li><li>{ComplyLaw.Sec}</li><li>{Function.Sec}</li><li>{Warranty.Sec}</li><li>{Usage.Sec}</li><li>{ThirdPartyPlatform.Sec}</li><li>{ProfessionalService.Sec}</li><li>{Fee.Sec}</li><li>{SuspendUse.Sec}</li><li>{Life.Sec}</li><li>{IP.Sec}</li><li>{LiabilityLimit.Sec}</li><li>{Indemnify.Sec}</li><li>{Conf.Sec}</li><li>{Conf.MandatoryDisclosure.Sec}</li><li>{Publicity.Sec}</li><li>{Use.Trial.Sec}</li><li>{Misc.Sec}</li><li>{Def.Sec}</li></ol>
 
+Patch1.=[G/BonTerms/Cloud-Terms/Patch/1.md]
+
 TheAgreement.Ti=The Agreement
 
 TheAgreement.sec=The {_Bonterms_Cloud_Terms} are standardized terms for use of cloud services. To use the {_Bonterms_Cloud_Terms}, Customer and {_Provider} complete and execute a {_Cover_Page} that specifies {_Key_Terms}, {_Attachments} (such as a {_Support_Policy} or {_Data_Protection_Addendum}) and any {_Additional_Terms}. Collectively, the {_Bonterms_Cloud_Terms}, {_Cover_Page} and any {_Orders} form the parties’ agreement (“<b>{Def.Agreement.Target}</b>”). Conflicts between parts of the {_Agreement} are governed by Section {Misc.DocumentHierarchy.Xnum} (Order of Precedence). Capitalized terms are defined in context or in Section {Def.Xnum} (Definitions).
@@ -11,9 +13,11 @@ TheAgreement.=[G/Z/Base]
 
 CloudService.Ti=Cloud Service
 
-CloudService.sec=Subject to this Agreement, {_Customer} may use the {_Cloud_Service} for its own business purposes during each {_Subscription_Term} (“<b>{Def.Permitted_Use.Target}</b>”). This includes the right to copy and use the {_Provider_Software} (if any) and {_Documentation} as part of {_Customer}’s {_Permitted_Use}. {_Customer} will comply with the Documentation in using the {_Cloud_Service}.
+CloudService.1.sec=Subject to this Agreement, {_Customer} may use the {_Cloud_Service} for its own business purposes during each {_Subscription_Term} (“<b>{Def.Permitted_Use.Target}</b>”).
 
-CloudService.=[G/Z/Base]
+CloudService.2.sec=This includes the right to copy and use the {_Provider_Software} (if any) and {_Documentation} as part of {_Customer}’s {_Permitted_Use}. {_Customer} will comply with the Documentation in using the {_Cloud_Service}.
+
+CloudService.=[G/Z/para/s2]
 
 User.Ti=Users
 
@@ -101,11 +105,13 @@ Warranty.Provider.Ti=Additional Provider Warranties
 
 Warranty.Provider.0.sec={_Provider} warrants that:
 
-Warranty.Provider.1.sec=the {_Cloud_Service} will perform materially as described in the Documentation and {_Provider} will not materially decrease the overall functionality of the {_Cloud_Service} during a {_Subscription_Term} (the “<b>{Def.Performance_Warranty.Target}</b>”), and
+Warranty.Provider.Performance.sec=the {_Cloud_Service} will perform materially as described in the Documentation and {_Provider} will not materially decrease the overall functionality of the {_Cloud_Service} during a {_Subscription_Term} (the “<b>{Def.Performance_Warranty.Target}</b>”), and
 
-Warranty.Provider.2.sec=any Professional Services will be provided in a professional and workmanlike manner (the “<b>{Def.Professional_Services_Warranty.Target}</b>”).
+Warranty.Provider.Service.sec=any Professional Services will be provided in a professional and workmanlike manner (the “<b>{Def.Professional_Services_Warranty.Target}</b>”).
 
-Warranty.Provider.=[G/Z/ol-a/s2]
+Warranty.Provider.sec=<ol type="a"><li>{Warranty.Provider.Performance.sec}</li><li>{Warranty.Provider.Service.sec}</li></ol>
+
+Warranty.Provider.=[G/Z/Base]
 
 Warranty.Remedy.Ti=Warranty Remedy
 
@@ -131,15 +137,17 @@ Usage.Comply.=[G/Z/ol/2]
 
 Usage.HighRisk.Ti=High Risk Activities & Sensitive Data. 
 
-Usage.HighRisk.0.sec=Customer:
+Usage.HighRisk.Into.sec=Customer:
 
-Usage.HighRisk.1.sec=will not use the {_Cloud_Service} for High Risk Activities,
+Usage.HighRisk.HighRisk.sec=will not use the {_Cloud_Service} for High Risk Activities
 
-Usage.HighRisk.2.sec=will not submit {_Sensitive_Data} to the {_Cloud_Service}, and
+Usage.HighRisk.SensitiveInfo.sec=will not submit {_Sensitive_Data} to the {_Cloud_Service}
 
-Usage.HighRisk.00.sec=acknowledges that the {_Cloud_Service} is not designed for (and {_Provider} has no liability for) use prohibited in this Section {Usage.HighRisk.Xnum}
+Usage.HighRisk.Extro.sec=acknowledges that the {_Cloud_Service} is not designed for (and {_Provider} has no liability for) use prohibited in this Section {Usage.HighRisk.Xnum}
 
-Usage.HighRisk.=[G/Z/ol-a/s2]
+Usage.HighRisk.sec={Usage.HighRisk.Into.sec}<ol type="a"><li>{Usage.HighRisk.HighRisk.sec},</li><li>{Usage.HighRisk.SensitiveInfo.sec}, and</li></ol>{Usage.HighRisk.Extro.sec}
+
+Usage.HighRisk.=[G/Z/Base]
 
 Usage.Restrict.Ti=Restrictions
 
@@ -167,10 +175,11 @@ Fee.Ti=Fees
 
 Fee.Pay.Ti=Payment
 
-Fee.Pay.sec=Customer will pay the fees described in the Order. Unless the Order states otherwise, all amounts are due within 30 days after the invoice date (the “<b>{Def.Payment_Period.Target}</b>”). Late payments are subject to a charge of 1.5% per month or the maximum amount allowed by Law, whichever is less. All fees and expenses are non-refundable except as expressly set out in this Agreement.
+Fee.Pay.sec=Customer will pay the fees described in the Order. Unless the Order states otherwise, all amounts are due within {Fee.Pay.DueAfterInvoice.days} after the invoice date (the “<b>{Def.Payment_Period.Target}</b>”). Late payments are subject to a charge of 1.5% per month or the maximum amount allowed by Law, whichever is less. All fees and expenses are non-refundable except as expressly set out in this Agreement.
+
+Fee.Pay.DueAfterInvoice.days=30 days
 
 Fee.Pay.=[G/Z/ol/3]
-
 
 Fee.Tax.Ti=Taxes
 
@@ -204,9 +213,11 @@ Life.Subscription.=[G/Z/Base]
 
 Life.Agreement.Ti=Term of Agreement
 
-Life.Agreement.sec=This Agreement starts on the <b>Effective Date</b> and continues until the end of all {_Subscription_Term}s, unless sooner terminated in accordance with its terms. If no {_Subscription_Term} is in effect, either party may terminate this Agreement for any or no reason with notice to the other party.
+Life.Agreement.1.sec=This Agreement starts on the <b>Effective Date</b> and continues until the end of all {_Subscription_Term}s, unless sooner terminated in accordance with its terms. 
 
-Life.Agreement.=[G/Z/Base]
+Life.Agreement.2.sec=If no {_Subscription_Term} is in effect, either party may terminate this Agreement for any or no reason with notice to the other party.
+
+Life.Agreement.=[G/Z/para/s2]
 
 Life.Terminate.Ti=Termination
 
@@ -286,13 +297,21 @@ LiabilityLimit.Def.Ti=Liability Definitions
 
 LiabilityLimit.Def.0.sec=The following definitions apply unless modified on the Cover Page.
 
-LiabilityLimit.Def.1.sec=“<b>{Def.Enhanced_Cap.Target}</b>” means three times (3x) the General Cap.
+LiabilityLimit.Def.1.sec={Def.Enhanced_Cap.sec}
 
-LiabilityLimit.Def.2.sec=“<b>{Def.Enhanced_Claims.Target}</b>” means {_Provider}’s breach of Section {Data.Security.Xnum} (Security) or either party’s breach of Section {Data.DPA.Xnum} (DPA).
+Def.Enhanced_Cap.sec=“<b>{Def.Enhanced_Cap.Target}</b>” means three times (3x) the General Cap.
 
-LiabilityLimit.Def.3.sec=“<b>{Def.General_Cap.Target}</b>” means amounts paid or payable by Customer to {_Provider} under this Agreement in the 12 months immediately preceding the first incident giving rise to liability.
+LiabilityLimit.Def.2.sec={Def.Enhanced_Claims.sec}
 
-LiabilityLimit.Def.4.sec=“<b>{Def.Uncapped_Claims.Target}</b>” means (a) the indemnifying party’s obligations under Section {Indemnify.Xnum} (Indemnification), (b) either party’s infringement or misappropriation of the other party’s intellectual property rights, (c) any breach of Section {Conf.Xnum} (Confidentiality), excluding breaches related to Customer Data and (d) liabilities that cannot be limited by Law.
+Def.Enhanced_Claims.sec=“<b>{Def.Enhanced_Claims.Target}</b>” means {_Provider}’s breach of Section {Data.Security.Xnum} (Security) or either party’s breach of Section {Data.DPA.Xnum} (DPA).
+
+LiabilityLimit.Def.3.sec={Def.General_Cap.sec}
+
+Def.General_Cap.sec=“<b>{Def.General_Cap.Target}</b>” means amounts paid or payable by Customer to {_Provider} under this Agreement in the 12 months immediately preceding the first incident giving rise to liability.
+
+LiabilityLimit.Def.4.sec={Def.Uncapped_Claims.sec}
+
+Def.Uncapped_Claims.sec=“<b>{Def.Uncapped_Claims.Target}</b>” means (a) the indemnifying party’s obligations under Section {Indemnify.Xnum} (Indemnification), (b) either party’s infringement or misappropriation of the other party’s intellectual property rights, (c) any breach of Section {Conf.Xnum} (Confidentiality), excluding breaches related to Customer Data and (d) liabilities that cannot be limited by Law.
 
 LiabilityLimit.Def.=[G/Z/ol-none/s4]
 
@@ -338,9 +357,15 @@ Indemnify.Mitigation.=[G/Z/Base]
 
 Indemnify.ExcludeClaim.Ti=Exceptions
 
-Indemnify.ExcludeClaim.sec={_Provider}’s obligations in this Section {Indemnify.Xnum} do not apply to claims resulting from (a) modification or unauthorized use of the {_Cloud_Service}, (b) use of the {_Cloud_Service} in combination with items not provided by {_Provider}, including {_Third-Party_Platform}s or (c) {_Provider_Software} other than the most recent release, if {_Provider} made available (at no additional charge) a newer release that would avoid infringement.
+Indemnify.ExcludeClaim.0.sec={_Provider}’s obligations in this Section {Indemnify.Xnum} do not apply to claims resulting from
 
-Indemnify.ExcludeClaim.=[G/Z/Base]
+Indemnify.ExcludeClaim.1.sec=(a) modification or unauthorized use of the {_Cloud_Service},
+
+Indemnify.ExcludeClaim.2.sec=(b) use of the {_Cloud_Service} in combination with items not provided by {_Provider}, including {_Third-Party_Platform}s or 
+
+Indemnify.ExcludeClaim.3.sec=(c) {_Provider_Software} other than the most recent release, if {_Provider} made available (at no additional charge) a newer release that would avoid infringement.
+
+Indemnify.ExcludeClaim.=[G/Z/para/s3]
 
 Indemnify.ExclusiveRemedy.Ti=Exclusive Remedy
 
