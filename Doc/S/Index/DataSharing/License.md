@@ -40,3 +40,5 @@ SaaS-YCombinator:=[G/YCombinator-SaaS/Form/0.md]
 TechContractsAcademy:=[G/TechContracts/SoftwareLicense/Demo/Acme_Quake_2019-04-06.md]
 
 Trademark-Docracy:=[Wx/com/docracy/4790/Form/0.md]
+
+License=http://lmss.sali.org/RKKRGOkIme6pnG2BSePt1Z
