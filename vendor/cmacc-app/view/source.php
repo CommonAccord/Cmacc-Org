@@ -35,10 +35,9 @@ foreach($contents as $n) {
         else
         $v = str_replace('{', '<span class="missing">{', $v);
         $v = str_replace('}', '}</span>', $v);
-
-       	
         echo "<tr id=$k>";
-        if(isset($v)) { echo "<th height='10' width='300' style='text-align:right'>$k</th><td width='20'></td><td>$v</td>"; }
+       	$klink="<a href=$_SERVER[PHP_SELF]?action=doc&file=$dir&key=$k class='definedterm'>$k</a>" ;
+        if(isset($v)) { echo "<th height='10' width='300' style='text-align:right'>$klink</th><td width='20'></td><td>$v</td>"; }
         else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
 }
