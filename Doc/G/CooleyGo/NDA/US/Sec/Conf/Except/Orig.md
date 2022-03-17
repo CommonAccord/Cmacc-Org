@@ -19,7 +19,7 @@ Finds.sec=was rightfully communicated to the {_Receiving_Party} free of any obli
 
 UK.Finds.sec=was subsequently communicated to the {_Receiving_Party} from a third party without obligations of confidentiality
 
-Makes.sec=was developed by employees or agents of the {_Receiving_Party} who had no access to any {_Confidential_Information}.
+Makes.sec=was developed by employees or agents of the {_Receiving_Party} who had no access to any {_Confidential_Information}
 
 sec={Intro.sec}:<ol type="a"><li>{PublicWas.sec};</li><li>{PublicBecomes.sec};</li><li>{Had.sec};</li><li>{Finds.sec}; or</li><li>{Makes.sec}.</li></ol>
 

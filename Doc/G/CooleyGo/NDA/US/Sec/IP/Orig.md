@@ -1,4 +1,4 @@
-1.sec={_Confidential_Information} is and shall remain the sole property of the {_Disclosing_Party}.
+1.Target={_Confidential_Information} is and shall remain the sole property of the {_Disclosing_Party}.
 
 2.sec=The {_Receiving_Party} recogni{s/z}es and agrees that nothing contained in this {_Agreement} will be construed as granting any property rights, by license or otherwise, to any {_Confidential_Information} of the {_Disclosing_Party}, or to any invention or any patent, copyright, trademark, or other intellectual property right that has issued or that may issue, based on such {_Confidential_Information}.
 
