@@ -58,6 +58,8 @@ share_of/_=share of
 
 stock/share=stock
 
+stockholder.cl=stockholder
+
 lien_on_any_property=lien on any property
 
 
