@@ -1,16 +1,14 @@
 <?php
 
-$htmlHead = `perl $lib_path/parser-head.pl $path/$dir`;
+$cssdoc = 'Doc.css';
 
-if (strlen($htmlHead) > 5){ 
+$cssspecial = `perl $lib_path/parser-head.pl $path/$dir`;
 
-  echo $htmlHead;
-}
+if (strlen($cssspecial) > 5){ 
+  $cssdoc = $cssspecial ;
+  }
 
- else {
-   echo "<!DOCTYPE html><head><title>$dir</title><link  href='Doc/G/Z/CSS/Doc.css' rel='stylesheet' /> <link rel='icon' href='vendor/png/CmA-Square.png'></head><body>";
- }
-
+echo "<!DOCTYPE html><head><title>$dir</title><link  href='Doc/G/Z/CSS/$cssdoc' rel='stylesheet' /> <link rel='icon' href='vendor/png/CmA-Square.png'></head><body>";
 
 include("$lib_path/view-tabs.php");
  
