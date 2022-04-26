@@ -1,0 +1,1 @@
+A formal contract agreement document is formed by an agreement frame (see /G/AgtFrame/) and populated with an Outline, then with sections, subsections, etc.  Here we have Outline elements. -Software/ is an example of an outline populated with basic provisions and with some software-specific provisions.  0.md shows the basic frame with top-level outline.   
