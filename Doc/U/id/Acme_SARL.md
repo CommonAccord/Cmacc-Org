@@ -28,7 +28,7 @@ Phone=+33.1.23.45.67.89
 
 Fax=+33.1.23.45.67.90
 
-Dirigeant1.=[U/id/Jean_Valjean.md]
+Dirigeant1.=[G/U/Who/Jean_Valjean.md]
 
 Dirigeant1.Titre=Gérant
 

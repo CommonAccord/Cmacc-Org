@@ -12,9 +12,9 @@ Fax=617.777.1234
 
 Adr.Type=principal business
 
-Andrews.=[U/id/alison_andrews]
+Andrews.=[G/U/Who/alison_andrews.md]
 
-Applegate.=[U/id/alicia_applegate]
+Applegate.=[G/U/Who/alicia_applegate]
 
 =[U/class/ID_Entity]
 

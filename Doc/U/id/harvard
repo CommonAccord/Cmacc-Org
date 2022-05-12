@@ -20,7 +20,7 @@ TLO=Harvard Office of Technology Development
 
 Corp=Harvard Corporation
 
-Contact.=[U/id/harvard_otd]
+Contact.=[G/U/Who/harvard_otd]
 
-Notice.=[U/id/harvard_otd]
+Notice.=[G/U/Who/harvard_otd]
 Notice.Title=Director

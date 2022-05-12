@@ -1,8 +1,8 @@
-P1.=[U/id/acme_incorporated]
+P1.=[G/U/Who/acme_incorporated.md]
 
 P1.Handle=Licensor
 
-P2.=[U/id/roberta_robinson]
+P2.=[G/U/Who/roberta_robinson.md]
 
 P2.Handle=Licensee
 

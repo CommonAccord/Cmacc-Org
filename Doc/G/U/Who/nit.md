@@ -1,12 +1,14 @@
-=[U/class/ID_Entity]
+=[G/AgtForm/00/ID/Entity/0.md]
 
-=[U/at/US/MA/Middlesex/Watertown/Geo]
+Adr.=[G/U/Place/US/MA/Middlesex/Watertown/Geo]
 
 Name.Full=Notional Institute of Technology
 
 Adr.Type=official
 
-Adr.1=2 Once Crossing
+Adr.Street.#=2
+
+Adr.Street.Name=Once Crossing
 
 Adr.Zip=024444
 

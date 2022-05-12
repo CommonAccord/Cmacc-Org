@@ -8,7 +8,7 @@ Researcher.Sign.YMD=2016-08-26T12:00Z
 
 Researcher.Handle=Kendall
 
-Researcher.=[U/id/colleen_kendall]
+Researcher.=[G/U/Who/colleen_kendall.md]
 
 Request.=[GH/KantaraInitiative/DG-BSC/Consent/Form/Request.md]
 

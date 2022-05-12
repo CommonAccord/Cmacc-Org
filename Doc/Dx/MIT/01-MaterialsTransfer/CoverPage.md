@@ -18,7 +18,7 @@ P1.Coordinator.Title=Program Administrator
 
 P1.Coordinator.xSignature=xGERALDINE GRABER
 
-P1.Officer.=[U/id/alison_andrews]
+P1.Officer.=[G/U/Who/alison_andrews.md]
 
 P1.Officer.Sign.YMD=October 22, 2014
 

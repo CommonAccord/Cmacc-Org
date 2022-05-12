@@ -1,6 +1,6 @@
-Exporter.=[U/id/acme_hellas]
+Exporter.=[G/U/Who/acme_hellas]
 
-Exporter.Sign.=[U/id/andrea_ang]
+Exporter.Sign.=[G/U/Who/andrea_ang.md]
 
 Exporter.Sign.Title=Manager
 

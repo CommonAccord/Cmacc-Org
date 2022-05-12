@@ -10,8 +10,8 @@ Residence.End.YMDT=2015-12-25:12:00:00
 
 Room.#=345
 
-P1.=[U/id/Alice]
+P1.=[G/U/Who/Alice]
 
-P2.=[U/id/halltune_inc]
+P2.=[G/U/Who/halltune_inc.md]
 
 =[S/Sandbox/AGropper/PandaPass/Form/Guest-Hotel_0.md]

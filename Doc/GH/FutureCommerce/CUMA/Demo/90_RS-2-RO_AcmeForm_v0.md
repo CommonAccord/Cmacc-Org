@@ -1,4 +1,4 @@
-RS.=[U/id/acme_incorporated]
+RS.=[G/U/Who/acme_incorporated.md]
 
 RS.Handle=Acme
 

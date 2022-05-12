@@ -10,6 +10,6 @@ Escrow.Effective.YMD={Escrow.Sign.YMD}
 
 Purchaser.Dear=Dear Ms. Robinson
 
-Purchaser.=[U/id/roberta_robinson]
+Purchaser.=[G/U/Who/roberta_robinson.md]
 
 =[S/Demo/Escrow/Step_1_Parties.md]

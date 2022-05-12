@@ -2,6 +2,6 @@ Note=This French contract for temporary employment is from the Jurismatic collec
 
 P1.=[U/id/Acme_SARL.md]
 
-P2.=[U/id/Marie_Matignon.md]
+P2.=[G/U/Who/Marie_Matignon.md]
 
 =[GHx/jurismatic/jurismatic/10-CDD/Form/Doc_v0.md]

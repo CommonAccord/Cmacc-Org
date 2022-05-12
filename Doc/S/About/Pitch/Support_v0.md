@@ -20,7 +20,7 @@ Organization.=[S/About/Pitch/Support/Organization_v0.md]
 
 =[Law/Out/Form/Proposal/Funding/NFP/CmA_v0.md]
 
-Contact.=[U/id/hazardj]
+Contact.=[G/U/Who/hazardj]
 
 Note=Using defined terms, such as {Cmacc} and {DRY}
 

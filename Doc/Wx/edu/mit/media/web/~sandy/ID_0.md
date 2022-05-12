@@ -8,4 +8,4 @@ URL=<a href="http://web.media.mit.edu/~sandy/">http://web.media.mit.edu/~sandy/<
 
 =[U/class/ID_He]
 
-=[U/id/mit_media_lab]
+=\[G/U/Who/mit_media_lab.md]

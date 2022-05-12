@@ -2,11 +2,11 @@
 
 Co.Name.Full=Distributed Autonomous Collective Collection Society, LLC
 
-Co.=[U/id/acme_incorporated]
+Co.=[G/U/Who/acme_incorporated.md]
 
-Co.Regis.=[U/id/the_corporation_company]
+Co.Regis.=[G/U/Who/the_corporation_company]
 
-Certificate.Incorp.=[U/id/solomon_shirley]
+Certificate.Incorp.=[G/U/Who/solomon_shirley.md]
 
 Term.End.YMD=December 31, 2030
 
@@ -20,8 +20,8 @@ Co.Sign.Handle=Company
 
 Purpose.cl=operating a distributed autonomous organization
 
-TaxMM.=[U/id/roberta_robinson]
+TaxMM.=[G/U/Who/roberta_robinson.md]
 
-M1.=[U/id/abigail_altima]
+M1.=[G/U/Who/abigail_altima]
 
 M1.xSignature=xABIGAIL ALTIMA

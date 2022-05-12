@@ -1,8 +1,8 @@
 Note=Just playing around
 
-PII.=[U/id/roberta_robinson]
+PII.=[G/U/Who/roberta_robinson.md]
 
-DC.=[U/id/acme_incorporated]
+DC.=[G/U/Who/acme_incorporated.md]
 
 
 Note=Form:

@@ -1,8 +1,8 @@
 Note=Acme and Robinson decide to start a relationship.
 
-1.=[U/id/acme_incorporated]
+1.=[G/U/Who/acme_incorporated.md]
 
-2.=[U/id/roberta_robinson]
+2.=[G/U/Who/roberta_robinson.md]
 
 P1.Handle=Acme
 

@@ -1,4 +1,4 @@
-AS.=[U/id/quake_incorporated]
+AS.=[G/U/Who/quake_incorporated]
 
 Info.=[GH/FutureCommerce/CUMA/Demo/91_Info_Alice_v0.md]
 

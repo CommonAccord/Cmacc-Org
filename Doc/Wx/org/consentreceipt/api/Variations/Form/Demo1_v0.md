@@ -2,17 +2,17 @@ GUID=al8s2k20lrw0x9w
 
 EffectiveDate.YMD=2015-11-02
 
-Who.Principal.=[U/id/Alice]
+Who.Principal.=[G/U/Who/Alice]
 
-Who.DataController.=[U/id/acme_incorporated]
+Who.DataController.=[G/U/Who/acme_incorporated.md]
 
-Who.DataAccessor.1.=[U/id/quake_incorporated]
+Who.DataAccessor.1.=[G/U/Who/quake_incorporated]
 
-Who.DataAccessor.2.=[U/id/fabulous_express_inc]
+Who.DataAccessor.2.=[G/U/Who/fabulous_express_inc.md]
 
 Who.DataAccessor.sec={DataAccessor.sec.2}
 
-Who.Arbitrator.=[U/id/solomon_shirley]
+Who.Arbitrator.=[G/U/Who/solomon_shirley.md]
 
 Why.=[Wx/org/consentreceipt/api/Sec/PurposeSpecification_v0.md]
 

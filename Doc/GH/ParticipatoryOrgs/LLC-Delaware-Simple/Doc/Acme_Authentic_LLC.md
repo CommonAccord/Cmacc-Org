@@ -2,13 +2,13 @@ MessageToUser=Draft 1
 
 Co.Name.Full=Acme Authentic LLC
 
-P1.=[U/id/alicia_applegate]
+P1.=[G/U/Who/alicia_applegate]
 
-P2.=[U/id/roberta_robinson]
+P2.=[G/U/Who/roberta_robinson.md]
 
-P3.=[U/id/andrea_ang]
+P3.=[G/U/Who/andrea_ang.md]
 
-P4.=[U/id/solomon_shirley]
+P4.=[G/U/Who/solomon_shirley.md]
 
 P1.Handle=Applegate
 

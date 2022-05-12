@@ -8,7 +8,7 @@ Host={Who.Pentland.Name.Full}
 
 Organizers.and={Who.Hardjono.Name.Full} and {Who.Hazard.Name.Full}
 
-Location.=[U/id/mit_media_lab]
+Location.=\[G/U/Who/mit_media_lab.md]
 
 Contact.Email=commonaccord@gmail.com ('til better)
 

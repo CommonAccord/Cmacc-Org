@@ -4,9 +4,9 @@ arg2=2016-01-18:h12m00s00
 
 Record.YMD:HMS=2016-01-18:h08m13s34
 
-from.=[U/id/acme_incorporated]
+from.=[G/U/Who/acme_incorporated.md]
 
-to.=[U/id/roberta_robinson]
+to.=[G/U/Who/roberta_robinson.md]
 
 =[S/Sandbox/Blockchain/TransactionTypeQw3rty02.md]
 

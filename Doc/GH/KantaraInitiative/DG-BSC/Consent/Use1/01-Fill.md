@@ -1,6 +1,6 @@
-Alice.=[U/id/Alice]
+Alice.=[G/U/Who/Alice]
 
-ResearcherA.=[U/id/david_l_lakey_md]
+ResearcherA.=[G/U/Who/david_l_lakey_md]
 
 Date.YMDT=2016-08-25T08:35Z
 

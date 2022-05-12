@@ -1,14 +1,14 @@
-Contact.=[U/id/solomon_shirley]
+Contact.=[G/U/Who/solomon_shirley.md]
 
-Inv1.=[U/id/andrea_ang]
+Inv1.=[G/U/Who/andrea_ang.md]
 
-Ombuds.=[U/id/colleen_kendall]
+Ombuds.=[G/U/Who/colleen_kendall.md]
 
-PDO.=[U/id/geraldine_graber]
+PDO.=[G/U/Who/geraldine_graber.md]
 
-Org.=[U/id/nit]
+Org.=[G/U/Who/nit.md]
 
-Funder.=[U/id/nih]
+Funder.=[G/U/Who/nih.md]
 
 Funder.List.Name={Funder.N,A}
 

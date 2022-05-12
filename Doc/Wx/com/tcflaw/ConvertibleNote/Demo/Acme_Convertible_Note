@@ -4,7 +4,7 @@ Agt.=[Wx/com/tcflaw/ConvertibleNote/PurchaseAgreement/Form/0.md]
 
 Model.Root={Note.Doc}<hr>{Agt.Doc}
 
-Company.=[U/id/acme_incorporated]
+Company.=[G/U/Who/acme_incorporated.md]
 
 Company.Handle=Company
 

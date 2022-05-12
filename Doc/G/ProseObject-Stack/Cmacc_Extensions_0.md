@@ -16,7 +16,7 @@ Ti=Cmacc Extensions
 
 4.Ti=Reverse-Walking the Graph - and generally using graph queries
 
-4.sec=If I've referenced Alice as P1.=[U/id/Alice.md] and I now want to reference her mother, I might want to say something like (totally making this up) {P1.(>Child.; if He/She = She)Name.Full}.  This gets messy pretty quickly. The workaround is to add Alice's mother as P1.Mother.=[U/id/Mary.md].   Perhaps there is a way to encapsulate a standard graph query.
+4.sec=If I've referenced Alice as P1.=[G/U/Who/Alice.md] and I now want to reference her mother, I might want to say something like (totally making this up) {P1.(>Child.; if He/She = She)Name.Full}.  This gets messy pretty quickly. The workaround is to add Alice's mother as P1.Mother.=[G/U/Who/Mary.md].   Perhaps there is a way to encapsulate a standard graph query.
 
 5.Ti=Calculations
 
@@ -32,4 +32,4 @@ Ti=Cmacc Extensions
  
 =[G/Z/ol/7]
 
-ID.HazardJ.=[U/id/hazardj]
+ID.HazardJ.=[G/U/Who/hazardj]

@@ -29,9 +29,9 @@ BusinessDomain=information services consulting
 
 President.Title=President and Chairman 
 
-President.=[U/id/colleen_kendall]
+President.=[G/U/Who/colleen_kendall.md]
 
-Atty.=[U/id/quade_and_quinn]
+Atty.=[G/U/Who/quade_and_quinn]
 
 Notice.Name,Title={President.Name.Full}, {President.Title}
 

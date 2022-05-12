@@ -26,6 +26,6 @@ P2.=[U/id/Quake_SA.md]
 
 P1.Signer.=[U/id/Jean_Valjean.md]
 
-P2.Signer.=[U/id/Marie_Matignon.md]
+P2.Signer.=[G/U/Who/Marie_Matignon.md]
 
 =[GHx/jurismatic/jurismatic/03-Engagement_de_confidentialité/Form/0.md]

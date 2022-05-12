@@ -4,6 +4,6 @@ Description=blood sample
 
 Date=September 2, 2014
 
-Donor.=[U/id/abigail_altima]
+Donor.=[G/U/Who/abigail_altima]
 
-Clinician.=[U/id/quentin_quade]
+Clinician.=[G/U/Who/quentin_quade]

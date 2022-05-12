@@ -20,7 +20,7 @@ File.1.2.sec=HW=Hello World
 
 File.1.3.sec==[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]
 
-File.1.4.sec=Buyer.=[U/id/acme_incorporated]
+File.1.4.sec=Buyer.=[G/U/Who/acme_incorporated.md]
  
 File.1.=[G/Z/ol-none/s4]
 
