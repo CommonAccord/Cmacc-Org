@@ -8,4 +8,4 @@ It furthers the vision of Block Science Labs and legal codification. http://blog
 
 The ProseObject documents will also be available in rendering form at http://www.commonaccord.org/index.php?action=list&file=G/DataScience/
 
-There is a chat/spec document at [FEEDME.md] and (FEEDME.md)
+There is a chat/spec document at [G/DataScience/FEEDME.md](FEEDME.md)
