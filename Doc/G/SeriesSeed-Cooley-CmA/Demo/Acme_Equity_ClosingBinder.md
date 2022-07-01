@@ -1,3 +1,6 @@
+
+//=Select what document, documents or parts of a document (or Section of a document) you want to see. Term Sheet is the default. <a href="index.php?action=doc&file=G/SeriesSeed-Cooley-CmA/Demo/Acme_Equity_ClosingBinder.md&key=PurchaseAgreement.Sec">Purchase Agreement</a>; <a href="index.php?action=doc&file=G/SeriesSeed-Cooley-CmA/Demo/Acme_Equity_ClosingBinder.md&key=BoardConsent.Sec">Board Consent</a>; <a href="index.php?action=doc&file=G/SeriesSeed-Cooley-CmA/Demo/Acme_Equity_ClosingBinder.md&key=Seed.1.Questionnaire.Sec">Seed Questionnaire</a>; <a href="index.php?action=doc&file=G/SeriesSeed-Cooley-CmA/Demo/Acme_Equity_ClosingBinder.md&key=BoardMinutes.Sec">Board Minutes</a>;<a href="index.php?action=doc&file=G/SeriesSeed-Cooley-CmA/Demo/Acme_Equity_ClosingBinder.md&key=RestatedCertificate.Sec">Restated Certificate</a>; <a href="index.php?action=doc&file=G/SeriesSeed-Cooley-CmA/Demo/Acme_Equity_ClosingBinder.md&key=StockholderConsent.Sec">Stockholder Consent</a>.
+
 //=First the deal specifications:
  
 =[G/SeriesSeed-Cooley-CmA/Demo/Acme_DealPoints.md]
@@ -26,20 +29,7 @@ Def.=[G/SeriesSeed-Cooley-CmA/equity/Preferred_Stock_Investment_Agreement/Annex/
 
 Def.=[G/SeriesSeed-Cooley-CmA/Sec/DefinedTerm-Inline/0.md]  
 
-//=Then select what document or documents (or Section of a document) you want to see.  Remove the / in front of the "Model.Root" that you want (if there is more than one, the first clean "Model.Root" is the one that is taken, as always).  Click on "Edit" above, take out the / from in front of the Model.Root you want to see.  Don't worry about wrecking things, the site gets updated from Github. (Click on "GitHub" above to see the source.)  If you want all of the documents in as a single (long) page, then / out all but the last, which has the whole list.
 
 Model.Root={TermSheet.Sec}  
 
-Model.Root={PurchaseAgreement.Sec}
-
-/Model.Root={BoardConsent.Sec}
-  
-/Model.Root={Seed.1.Questionnaire.Sec}
-
-/Model.Root={BoardMinutes.Sec}  
-
-/Model.Root={RestatedCertificate.Sec}  
-
-/Model.Root={StockholderConsent.Sec}
-
-Model.Root=<ol><li>{TermSheet.Sec}<hr><hr><li>{PurchaseAgreement.Sec}<hr><hr><li>{BoardConsent.Sec}<hr><hr><li>{Seed.1.Questionnaire.Sec}<hr><hr><li>{BoardMinutes.Sec}<hr><hr><li>{RestatedCertificate.Sec}<hr><hr><li>{StockholderConsent.Sec}</ol>
+AllDocs=<ol><li>{TermSheet.Sec}<hr><hr><li>{PurchaseAgreement.Sec}<hr><hr><li>{BoardConsent.Sec}<hr><hr><li>{Seed.1.Questionnaire.Sec}<hr><hr><li>{BoardMinutes.Sec}<hr><hr><li>{RestatedCertificate.Sec}<hr><hr><li>{StockholderConsent.Sec}</ol>
