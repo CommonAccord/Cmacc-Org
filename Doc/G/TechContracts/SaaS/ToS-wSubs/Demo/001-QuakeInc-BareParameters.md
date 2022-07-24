@@ -14,7 +14,7 @@ Service.Name=Quake Qs and QQs
 
 SLA.Hyperlink=<a href="http://www.qqquakeinc.com/SLA.html">www.qqquakeinc.com/SLA.html</a>
 
-Use.Purpose.cl=analytical processing
+SaaS.Purpose.cl=analytical processing
 
 Fee.Late.InterestChargePerMonth.%=5%
 
@@ -48,5 +48,7 @@ Law.State.the=the State of California
 
 Dispute.Forum.cl=the federal and state courts of San Francisco County, California, USA
 
-=[?https://raw.githubusercontent.com/CommonAccord/TechContracts-SaaS-wSubs/main/Form/001.md]. 
+=[G/TechContracts/SaaS/ToS-wSubs/Form/002.md]
+
+/=[?https://raw.githubusercontent.com/CommonAccord/TechContracts-SaaS-wSubs/main/Form/001.md]. 
 
