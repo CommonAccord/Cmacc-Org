@@ -5,7 +5,7 @@ NW:=[G/NW-NDA/00/Form/Agt-Outline-Assets.md]
 
 CommonPaper:=[G/Mutual-NDA/PO/Demo/Acme-Ang-2022-01-10.md]
 
-OneNDA:=[G/OneNDA-NDA/X/Original/Demo-2021-06-01.md]
+OneNDA:=[G/OneNDA-NDA/X/Original/2022-v7-2-Demo-Acme-Ang.md]
 
 Bonterms.=[G/Bonterms/Mutual-NDA/Form/v1-0.md]
 
