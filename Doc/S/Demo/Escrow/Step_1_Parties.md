@@ -10,7 +10,7 @@ Seller.Dear=Dear Gerry
 
 =[S/Demo/Escrow/Form/Escrow.md]
 
-Seller.=[G/U/Who/gerrys_grapes_llc]
+Seller.=[G/U/Who/gerrys_grapes_llc.md]
 
 Escrow.=[G/U/Who/safe_hands_inc.md]
 

@@ -3,7 +3,7 @@ ProseObject version of https://www.claustack.com/category/oneDPA
 
 Note=Playing with SALI codes to make terms searchable.
 
-See, e.g.: [https://github.com/CommonAccord/Cmacc-Org/search?q=lmss]
+See, e.g.: [https://github.com/CommonAccord/Cmacc-Org/search?q=SALI] and [https://github.com/CommonAccord/OneNDA-DPA/search?q=SALI]
 
 [http://lmss.sali.org/R8hJCf4Ih6iuFXsxeK7e6zU] (lmss/Area/InfoSecurity/Privacy)
 
