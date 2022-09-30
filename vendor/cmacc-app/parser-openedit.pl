@@ -50,8 +50,9 @@ sub parse_root {
 			
 			$part = $oldpart . $part if $oldpart;
 			
-			if($what =~ s/^\?//) { 
-				if(! $remote{$path.$what}) {  $remote_cnt++;
+		if($what =~ s/^http//) { 
+				$what = 'http' . $what;
+					if(! $remote{$path.$what}) {  $remote_cnt++;
 					`curl '$what' > '$path/tmp$remote_cnt.cmacc'`;
 					$remote{$path.$what} = "$path/tmp$remote_cnt.cmacc";
 				}
@@ -97,19 +98,23 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # Key=Key;
 
-# print "$_=<span class='param'>$_</a>" foreach @arr;
+# print "$_=$_\n" foreach @arr;
+
+#Key=<param>Key</>
+
+# print "$_=<span class='param'>$_</span>\n" foreach @arr;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
 # print "$_=<a href='#Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 
-# to mark the place a defined term is defined inline - use the convention "{Def.My_Term.Target}".  This will make Def.My_Term.Target={_My_Term}.
+# {Def.qq.Target} to mark the place a defined term is defined inline - use the convention "{Def.My_Term.Target}".  This will make Def.My_Term.Target={_My_Term}.
 
-print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
+# print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
 
-# Make cross-references (that already have "".Xnum");
+# Make cross-references (from {*.*.Xnum);
 
-# print "$_=<a href='#" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;
+print "$_=<a href='#" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;
 
 # Make footnote, FtNt cross-references (that already have "".Xnum");
 

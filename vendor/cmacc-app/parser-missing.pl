@@ -49,14 +49,16 @@ sub parse_root {
 			if ( $part && ($field =~ /^\Q$part\E(.+?)$/) ){ $newfield = $1;}
 			
 			$part = $oldpart . $part if $oldpart;
-			
-			if($what =~ s/^\?//) { 
+			# Follow a URL
+			if($what =~ s/^http//) { 
+				$what = 'http' . $what;
 				if(! $remote{$path.$what}) {  $remote_cnt++;
 					`curl '$what' > '$path/tmp$remote_cnt.cmacc'`;
 					$remote{$path.$what} = "$path/tmp$remote_cnt.cmacc";
 				}
 				$root = parse($remote{$path.$what}, $newfield || $field, $part);
 			}
+			# Look locally for a file
 			else {
 				$root = parse($path.$what, $newfield || $field, $part);
 			}

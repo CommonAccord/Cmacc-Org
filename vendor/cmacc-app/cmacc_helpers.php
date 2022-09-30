@@ -118,6 +118,10 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/doc.php');
         break;
 
+    case 'trace':
+        include('./vendor/cmacc-app/view/trace.php');
+        break;
+    
     case 'xray':
         include('./vendor/cmacc-app/view/xray.php');
         break;

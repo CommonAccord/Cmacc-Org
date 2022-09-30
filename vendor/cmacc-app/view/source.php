@@ -12,11 +12,11 @@ foreach($contents as $n) {
         list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
        
 	//for remote files via http
-        if(preg_match('/\[\?(.+?)\]/', $v, $matches)) {
+        if(preg_match('/\[http(.+?)\]/', $v, $matches)) {
 	  // to allow comments in the target field.
 	 	  list($v1, $v2) = array_pad( explode ("///", $v, 2), 2, null);
-	  	  $v1=substr($v1, 2, -1);
-	  $v = "<a href=$matches[1]>$v1</a></td><td>$v2";
+	  //	to trim off the brackets  $v1=substr($v1, 1, -1);
+	  $v = "<a href=http$matches[1]>$v1</a></td><td>$v2";
         }
 	//for folders (navigation)
 

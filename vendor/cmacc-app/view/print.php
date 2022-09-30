@@ -24,7 +24,7 @@ if (strlen($keyName) < 2) {
   $keyName = "Model.Root";
 }
 
-$document = `perl $lib_path/parser.pl $path/$dir $keyName `;
+$document = `perl $lib_path/parser-print.pl $path/$dir $keyName `;
 
 $minDocLength = 1;
 
