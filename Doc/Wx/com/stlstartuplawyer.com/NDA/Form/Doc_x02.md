@@ -1,1 +1,1 @@
-=[?https://raw.githubusercontent.com/bryangw1/Repository/master/NDA/Source.md]
+=[https://raw.githubusercontent.com/bryangw1/Repository/master/NDA/Source.md]

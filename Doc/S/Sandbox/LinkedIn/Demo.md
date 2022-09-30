@@ -8,9 +8,9 @@ Discount.%=8%
 
 Law.=[U/at/US/CA/Geo]
 
-Company.=[?https://linkedin.com/in/acmeincorporated]
+Company.=[https://linkedin.com/in/acmeincorporated]
 
-Investor.=[?https://linkedin.com/in/mdangear]
+Investor.=[https://linkedin.com/in/mdangear]
 
 =[Wx/com/ycombinator/SAFE/Form/Cap_Discount_v01.md]
 
