@@ -1,1 +1,0 @@
-<b>Identities</b>: Like a twitter handle or account on github.
