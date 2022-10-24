@@ -26,10 +26,14 @@ Doc/G/LegalForms/DAO-Contributor-Agmt/
 Doc/G/responsible-data-use-policy/Diagrams/*
 Doc/G/responsible-data-use-policy/Sample Artifacts/*
 
-Doc/G/a16z-contracts/licenses/
-Doc/G/a16z-contracts/contracts/
-Doc/G/a16z-contracts/examples/
-Doc/G/a16z-contracts/scripts/
-Doc/G/a16z-contracts/test/
-Doc/G/a16z-contracts/*.json
-Doc/G/a16z-contracts/*.js
+Doc/G/a16z-contracts/*
+!Doc/G/a16z-contracts/README.md
+!Doc/G/a16z-contracts/LICENSE
+
+#Elaborate set of ignores and excepts to i) remove the old /PrOb/ files and add them back under the /licenses/pr0b/ folder. 
+!Doc/G/a16z-contracts/PrOb/*
+!Doc/G/a16z-contracts/licenses/
+Doc/G/a16z-contracts/licenses/*
+!Doc/G/a16z-contracts/licenses/pr0b/
+
+
