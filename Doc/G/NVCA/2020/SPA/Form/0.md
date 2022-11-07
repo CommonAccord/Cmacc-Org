@@ -74,7 +74,7 @@ Optional:
 
 1.5.3.sec=“Company Intellectual Property” means all patents, patent applications, registered and unregistered trademarks, trademark applications, registered and unregistered service marks, service mark applications, tradenames, copyrights, trade secrets, domain names, [mask works,] information and proprietary rights and processes, similar or other intellectual property rights, subject matter of any of the foregoing, tangible embodiments of any of the foregoing, licenses in, to and under any of the foregoing, and in any and all such cases {CompanyIP.InConduct.cl} the Company in the conduct of the Company’s business as now conducted and as presently proposed to be conducted.
 
-CompanyIP.InConduct=[that are owned or used by] [as are necessary to]
+CompanyIP.InConduct.cl=[that are owned or used by] [as are necessary to]
 
 1.5.4.sec=“Indemnification Agreement” means the agreement between the Company and the director [and Purchaser Affiliates] designated by any Purchaser entitled to designate a member of the Board of Directors pursuant to the Voting Agreement, dated as of the date of the Initial Closing, in the form of Exhibit {Annex.D.Xnum} attached to this Agreement.
 
