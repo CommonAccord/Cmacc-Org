@@ -74,7 +74,15 @@ Grant.Transfer.Ti=Transfer and Sublicensing
 
 Grant.Transfer.LicenseFollowsNFT.sec=The licenses granted in these {_Terms} are non-transferrable, except that if you lawfully transfer ownership of your {_Project_NFT}, the license to the {_NFT_Media} in Section {Grant.License.Xnum} to you shall terminate upon the effective date of such transfer, and such licenses will be assigned to the new owner of the {_Project_NFT} associated with such {_NFT_Media}. As a condition to sales, transfers or similar transactions of the {_Project_NFT}s, the transferee agrees upon the acquisition of the {_Project_NFT} that (a) the transferee is not a {_Restricted_Party} and (b) the transferee accepts these {_Terms}.
 
-Grant.Transfer.SublicenseeQualification.sec=Further, if you choose to sublicense any of your licensed rights set forth in Section {Grant.License.Xnum} above, you are only permitted to do so if any such sublicensees agree (i) that they are not {_Restricted_Parties}, (ii) to the same covenant not to assert as set forth in the second to last sentence of Section {Grant.Derivative.Xnum}, and (iii) that if your licensed rights in Section {Grant.License.Xnum} are transferred (such as because you sell your {_Project_NFT}), then any such sublicenses you have granted in such licensed rights will automatically terminate.
+Grant.Transfer.SublicenseeQualification.0.sec=Further, if you choose to sublicense any of your licensed rights set forth in Section {Grant.License.Xnum} above, you are only permitted to do so if any such sublicensees agree
+
+Grant.Transfer.SublicenseeQualification.1.sec=that they are not {_Restricted_Parties},
+
+Grant.Transfer.SublicenseeQualification.2.sec=to the same covenant not to assert as set forth in the second to last sentence of Section {Grant.Derivative.Xnum}, and
+
+Grant.Transfer.SublicenseeQualification.3.sec=that if your licensed rights in Section {Grant.License.Xnum} are transferred (such as because you sell your {_Project_NFT}), then any such sublicenses you have granted in such licensed rights will automatically terminate.
+
+Grant.Transfer.SublicenseeQualification.=[G/Z/ol-i/s3]
 
 Grant.Transfer.BlockchainFork.sec=Because virtually all public blockchains are licensed under open source licenses, it is possible that the blockchain may fork, merge, or duplicate the original blockchain that initially recorded ownership of your {_Project_NFT}.
 
@@ -94,7 +102,29 @@ Grant.Restrict.Ti=Restrictions
 
 Grant.Restrict.FractionalInterest.sec=If a {_Project_NFT} is fractionalized into smaller ownership interests (which may be represented by other tokens), the rights licensed hereunder do not transfer to each of the owners of such fractionalized interests in the {_Project_NFT}, but are only granted to those who own all fractionalized interests in a {_Project_NFT} or as may otherwise be agreed by the owners of such fractionalized interests if each of such owners agree that (a) the owner is not a {_Restricted_Party} and (b) the owner accepts these {_Terms}.
 
-Grant.Restrict.PurchaserQualification.sec=In order to purchase the {_Project_NFT} if you are an individual, you must be 18 years of age or older if the age of lawfully capacity of forming binding contracts is older in the relevant jurisdiction. If you are an entity, the individual agreeing to the {_Terms} must have the legal authority to bind the entity. If (a) you are an individual, you agree on your own behalf and (b) if you are an entity, you agree that neither the entity nor any of your owners or investors or any of their directors, officers, employees, agents or affiliates acting on your behalf: (i) is related in any way to, the governments of, or any persons within, any country or jurisdiction under a U.S. embargo enforced by the Office of Foreign Assets Control (“{_OFAC.Target}”), or any persons who are named on any list of sanctioned individuals or entities; (ii) is (or has ever been) prohibited from the transaction pursuant to U.S. anti-money laundering, anti-terrorist, economic sanctions and asset control laws; and (iii) is resident in a country or jurisdiction under a U.S. embargo enforced by {_OFAC} (“{_Restricted_Parties.Target}”).
+Grant.Restrict.PurchaserQualification.1.sec=In order to purchase the {_Project_NFT} if you are an individual, you must be 18 years of age or older if the age of lawfully capacity of forming binding contracts is older in the relevant jurisdiction.
+
+Grant.Restrict.PurchaserQualification.2.sec=If you are an entity, the individual agreeing to the {_Terms} must have the legal authority to bind the entity.
+
+Grant.Restrict.PurchaserQualification.3.0.sec=If
+
+Grant.Restrict.PurchaserQualification.3.1.sec=you are an individual, you agree on your own behalf and
+
+Grant.Restrict.PurchaserQualification.3.2.0.sec=if you are an entity, you agree that neither the entity nor any of your owners or investors or any of their directors, officers, employees, agents or affiliates acting on your behalf:
+
+Grant.Restrict.PurchaserQualification.3.2.1.sec=is related in any way to, the governments of, or any persons within, any country or jurisdiction under a U.S. embargo enforced by the Office of Foreign Assets Control (“{_OFAC.Target}”), or any persons who are named on any list of sanctioned individuals or entities
+
+Grant.Restrict.PurchaserQualification.3.2.2.sec=is (or has ever been) prohibited from the transaction pursuant to U.S. anti-money laundering, anti-terrorist, economic sanctions and asset control laws
+
+Grant.Restrict.PurchaserQualification.3.2.3.sec=is resident in a country or jurisdiction under a U.S. embargo enforced by {_OFAC} (“{_Restricted_Parties.Target}”)
+
+Grant.Restrict.PurchaserQualification.3.2.secs={Grant.Restrict.PurchaserQualification.3.2.secs;and}
+
+Grant.Restrict.PurchaserQualification.3.2.=[G/Z/ol-i/s3]
+
+Grant.Restrict.PurchaserQualification.3.=[G/Z/ol-a/s2]
+
+Grant.Restrict.PurchaserQualification.=[G/Z/paras/s3]
 
 Grant.Restrict.sec={Grant.Restrict.FractionalInterest.sec}<br>{Grant.Restrict.PurchaserQualification.sec}
 
@@ -142,7 +172,9 @@ Risk.TemplateProviderDisclaimer.3.sec=the availability of these terms shall not 
 
 Risk.TemplateProviderDisclaimer.4.sec=these terms might not reflect all current updates to the law or applicable interpretive guidance
 
-Risk.TemplateProviderDisclaimer.sec={Risk.TemplateProviderDisclaimer.0.sec} (i) {Risk.TemplateProviderDisclaimer.1.sec}, and (ii) {Risk.TemplateProviderDisclaimer.2.sec}, (iii) {Risk.TemplateProviderDisclaimer.3.sec}, and (iv) {Risk.TemplateProviderDisclaimer.4.sec}.
+Risk.TemplateProviderDisclaimer.=[G/Z/ol-i/s4]
+
+Risk.TemplateProviderDisclaimer.secs={Risk.TemplateProviderDisclaimer.secs;and}
 
 Risk.Indemnify.Ti=Indemnification
 
