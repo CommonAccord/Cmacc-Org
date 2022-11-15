@@ -41,7 +41,7 @@ foreach($contents as $n) {
 # This gives us the {parameter} {parameter}, two times, so we can build the href link.
 # $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}np3pn', $v);
 # We need to be able to evaluate the content of the PHP variables, which didn't work inside the str_replace.
- $href = '{<a href=' . $_SERVER[PHP_SELF] . '?action=doc&file=$dir&key=' ;
+ $href = '{<a href=' . $_SERVER[PHP_SELF] . '?action=doc&file=' . $dir . '&key=' ;
         $v = str_replace('q1q{', $href, $v);
         $v = str_replace('x2x{', ' class=missing >' , $v ) ;
         $v = str_replace('np3pn', '</a>' , $v ) ;
