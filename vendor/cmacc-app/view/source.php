@@ -33,13 +33,24 @@ foreach($contents as $n) {
 	  $v = "<a href=$_SERVER[PHP_SELF]?action=source&file=$matches[1]>$v1</a></td><td>$v2";
         }
         else
-        $v = str_replace('{', '<span class="missing">{', $v);
-        $v = str_replace('}', '}</span>', $v);
+
+#  From GitHub Copilot:  The regex {[^}]+} matches any text that starts with { and ends with }.  The + means one or more characters.  The [^}]+ means any character other than }.  The first capture group is the text between the curly braces.
+#  But the rest is HazardJ's duct tape.
+# This makes each {parameter} have a hyperlink to the parameter's content.
+
+# This gives us the {parameter} {parameter}, two times, so we can build the href link.
+$v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}np3pn', $v);
+# We need to be able to evaluate the content of the PHP variables, which didn't work inside the str_replace.
+$href = '{<a href=' . $_SERVER[PHP_SELF] . "?action=doc&file=$dir&key=" ;
+     $v = str_replace('q1q{', $href, $v);
+      $v = str_replace('x2x{', ' class=missing >' , $v ) ;
+        $v = str_replace('np3pn', '</a>' , $v ) ;
+ 
         echo "<tr id=$k>";
         # enabling hyperlinks from the key.  If "foo." then make it "foo.Model.Rool", else just use the key.
         # The key ends in a "." and therefore we render the default content of the target object (Model.Root)
         if((substr($k, -1)==".")){
-       	        $klink="<a href=$_SERVER[PHP_SELF]?action=doc&file=$dir&key=$k" . "Model.Root class='definedterm'>$k</a>" ;
+       	        $klink="<a href=$_SERVER[PHP_SELF]?action=doc&file=$dir&key=$k" . "Model.Root >$k</a>" ;
         }
         # The key does not end in "." so we render the key.
        else {        
