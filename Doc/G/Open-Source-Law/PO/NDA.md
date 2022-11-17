@@ -10,14 +10,14 @@ Law.State.the=the State of New York
 
 ArbitrationOrg.Name.Full=New York International Arbitration Center
 
-Def.DAO.target={_DAO}
+Def.DAO.Target={_DAO}
 
-_DAO=<a href="#Def.DAO.target" class="definedterm">DAO</a>
+_DAO=<a href="#Def.DAO.Target" class="definedterm">DAO</a>
 Doc.Ti=Non-Disclosure and Confidentiality Agreement
 
 P2.ID.cl=[DAO WRAPPER], an [ENTITY TYPE] (the “Entity”), represented and governed by the {DAO.Rep.Name} decentralized autonomous organization
 
-This.sec=This Non-Disclosure and Confidentiality Agreement (this “Agreement”) is entered into as of {EffectiveDate.YMD} (the “Effective Date”) by and between {P1.US.N,E,A} (“Party A”) and {P2.ID.cl} (“DAO”) (DAO and the Entity, together with any subsidiaries and affiliates, “{Def.DAO.target}”) (Party A and {_DAO} are each a “Party” and both, the “Parties”).
+This.sec=This Non-Disclosure and Confidentiality Agreement (this “Agreement”) is entered into as of {EffectiveDate.YMD} (the “Effective Date”) by and between {P1.US.N,E,A} (“Party A”) and {P2.ID.cl} (“DAO”) (DAO and the Entity, together with any subsidiaries and affiliates, “{Def.DAO.Target}”) (Party A and {_DAO} are each a “Party” and both, the “Parties”).
 
 Why.sec={_DAO} and Party A have indicated an interest in exploring a potential commercial relationship and/or contractor or employment relationship (the “Relationship”). In connection with its respective evaluation of the Relationship, each Party, their respective affiliates and their respective directors, officers, employers, employees, contractors, agents, members, or advisors (collectively, “Representatives”) may be alerted of, become privy to, provide or gain access to certain confidential and/or proprietary information. A Party or its Representative disclosing its Confidential Information (as such term is defined in Section 1 below) to the other Party is hereafter referred to as a “Disclosing Party.” A Party or its Representative receiving the Confidential Information of the Disclosing Party is hereafter referred to as a “Receiving Party.” In consideration for being furnished Confidential Information and for the Relationship, {_DAO} and Party A agree as follows:
 

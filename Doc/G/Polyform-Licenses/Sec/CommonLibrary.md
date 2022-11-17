@@ -78,27 +78,27 @@ Def.BaseAndProduct.sec=<ol><li>{Def.Licensor.sec}</li><li>{Def.Software.sec}</li
 
 Note=Defined Terms - as hyperlinks:
 
-_Affiliates=<a href='#Def.Affiliates.target' class='definedterm'>Affiliates</a>
+_Affiliates=<a href='#Def.Affiliates.Target' class='definedterm'>Affiliates</a>
 
-_Control=<a href='#Def.Control.target' class='definedterm'>Control</a>
+_Control=<a href='#Def.Control.Target' class='definedterm'>Control</a>
 
-_Licensor=<a href='#Def.Licensor.target' class='definedterm'>Licensor</a>
+_Licensor=<a href='#Def.Licensor.Target' class='definedterm'>Licensor</a>
 
-_Product=<a href='#Def.Product.target' class='definedterm'>Product</a>
+_Product=<a href='#Def.Product.Target' class='definedterm'>Product</a>
 
-_Software=<a href='#Def.Software.target' class='definedterm'>Software</a>
+_Software=<a href='#Def.Software.Target' class='definedterm'>Software</a>
 
-_Use=<a href='#Def.Use.target' class='definedterm'>Use</a>
+_Use=<a href='#Def.Use.Target' class='definedterm'>Use</a>
 
-_You=<a href='#Def.You.target' class='definedterm'>You</a>
+_You=<a href='#Def.You.Target' class='definedterm'>You</a>
 
-_Your_Company=<a href='#Def.Your_Company.target' class='definedterm'>Your Company</a>
+_Your_Company=<a href='#Def.Your_Company.Target' class='definedterm'>Your Company</a>
 
-_Your_License=<a href='#Def.Your_Licenses.target' class='definedterm'>Your License</a>
+_Your_License=<a href='#Def.Your_Licenses.Target' class='definedterm'>Your License</a>
 
-_Your_Licenses=<a href='#Def.Your_Licenses.target' class='definedterm'>Your Licenses</a>
+_Your_Licenses=<a href='#Def.Your_Licenses.Target' class='definedterm'>Your Licenses</a>
 
-_Your=<a href='#Def.You.target' class='definedterm'>Your</a>
+_Your=<a href='#Def.You.Target' class='definedterm'>Your</a>
 
 
 License.NewWork.Xref=<a href="#License.NewWork.Sec">Changes and New Works License</a>
@@ -107,23 +107,23 @@ License.Distribute.Xref=<a href="#License.Distribute.Sec">Distribution License</
 
 
 
-Def.Affiliates.target={_Affiliates}
+Def.Affiliates.Target={_Affiliates}
 
-Def.Control.target={_Control}
+Def.Control.Target={_Control}
 
-Def.Licensor.target={_Licensor}
+Def.Licensor.Target={_Licensor}
 
-Def.Product.target={_Product}
+Def.Product.Target={_Product}
 
-Def.Software.target={_Software}
+Def.Software.Target={_Software}
 
-Def.Use.target={_Use}
+Def.Use.Target={_Use}
 
-Def.You.target={_You}
+Def.You.Target={_You}
 
-Def.Your_Company.target={_Your_Company}
+Def.Your_Company.Target={_Your_Company}
 
-Def.Your_Licenses.target={_Your_Licenses}
+Def.Your_Licenses.Target={_Your_Licenses}
 
 Note=Some outlines that organize the sections by subject matter.
 
