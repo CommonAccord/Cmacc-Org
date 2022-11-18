@@ -39,13 +39,12 @@ foreach($contents as $n) {
 # This makes each {parameter} have a hyperlink to the parameter's content.
 
 # This gives us the {parameter} {parameter}, two times, so we can build the href link.
-$v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}np3pn', $v);
+$v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
 # We need to be able to evaluate the content of the PHP variables, which didn't work inside the str_replace.
  $href = "{<a href=?action=doc&file=$dir&key=" ;
         $v = str_replace('q1q{', $href, $v);
         $v = str_replace('x2x{', ' class=expand >' , $v ) ;
-        $v = str_replace('np3pn', '</a>' , $v ) ;
- 
+    
         echo "<tr id=$k>" ;
         # enabling hyperlinks from the key.  If "foo." then make it "foo.Model.Rool", else just use the key.
         # The key ends in a "." and therefore we render the default content of the target object (Model.Root)

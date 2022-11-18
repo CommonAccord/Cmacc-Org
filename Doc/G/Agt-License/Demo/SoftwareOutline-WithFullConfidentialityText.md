@@ -18,7 +18,7 @@ Conf.Engage.Access.sec={Conf.Engage.Access.Entity.sec}
 
 Conf.Engage.Access.Role.sec={Conf.Engage.Access.Role.EmpsOffDirLawAcct.cl}
 
-Conf.Engage.Access.Cond.sec={Conf.Engage.Access.Cond.NeedKnow;Sign;AsRestrictive;Form.cl}
+Conf.Engage.Access.Cond.sec={Conf.Engage.Access.Cond.NeedKnow-Sign-AsRestrictive-Form.cl}
 
 Conf.Life.End.YMD=31 December 2021
 
