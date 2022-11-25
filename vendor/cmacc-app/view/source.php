@@ -26,7 +26,7 @@ foreach($contents as $n) {
 
 	//for local file links "[G/...]"
 
-        else if(preg_match('/\[(.+?)\]/', $v, $matches)) {
+        else if(preg_match('/^\[(.+?)\]/', $v, $matches)) {
           // to allow comments in the target field.
 	  list($v1, $v2) = array_pad( explode ("///", $v, 2), 2, null);
 
