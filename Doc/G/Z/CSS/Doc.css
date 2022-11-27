@@ -27,6 +27,16 @@ span :hover {
 }  
 
 
+.select {
+	color: #AA0055;
+            font-weight: bold;
+
+}  
+
+.expand {
+        color: #5c060a;
+
+}
 .warning {
 	color: #8F0000;
         text-transform : uppercase;

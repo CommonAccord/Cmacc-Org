@@ -49,7 +49,7 @@ $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
         # enabling hyperlinks from the key.  If "foo." then make it "foo.Model.Rool", else just use the key.
         # The key ends in a "." and therefore we render the default content of the target object (Model.Root)
         if((substr($k, -1)==".")){
-       	        $klink="<a href=?action=doc&file=$dir&key=$k" . "Model.Root >$k</a>" ;
+       	        $klink="<a class='expand' href=?action=doc&file=$dir&key=$k" . "Model.Root >$k</a>" ;
         }
         # The key does not end in "." so we render the key.
        else {        

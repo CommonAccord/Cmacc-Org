@@ -1,0 +1,9 @@
+??=<span class='select '>//{AltPrompt} Select </span>{SecName}<span class='select '>Alt1-"</span>{Alt1}"<span class='select '>-//-Alt2-"</span>{Alt2}<span class='select '>"-//</span>
+
+???=<span class='select'>//{AltPrompt} Select {SecName} Alt1-"{Alt1}"-//-Alt2-"{Alt2}"-//- Alt3-"{Alt3}"-//</span>
+
+????=<span class='select'>//{AltPrompt} Select {SecName} Alt1-"{Alt1}"-//-Alt2-"{Alt2}"-//-Alt3-"{Alt3}"-//-Alt4-"{Alt4}"-//</span>
+
+Model.Root={??}
+
+AltPrompt=</>

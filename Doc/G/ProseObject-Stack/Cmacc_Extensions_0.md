@@ -4,7 +4,7 @@ Ti=Cmacc Extensions
  
 1.Ti=File-Level Overrides
 
-1.sec=The current model is based on overriding keys.  There are use-cases where it would be very helpful to be able to override files.  That is to say, when rendering looks for a file named [Z/ol/s3] it can be directed to look for a file named [P/my/Z/ol/s3] before looking for [Z/ol/s3].  This can be done by including a Key/Value such as [[]]=[[P/my/]] in the file (or by referencing a file that contains such a Key/Value).   This solves a bunch of forking and use-case problems while retaining the basic intellectual model of overrides. Perhaps it makes sense to be able to declare in a folder that all files in the folder (and in subfolders) are deemed to have such a Key/Value.   Details to be worked out. 
+1.sec=The current model is based on overriding keys.  There are use-cases where it would be very helpful to be able to override files.  That is to say, when rendering looks for a file named [Z/ol/s3] it can be directed to look for a file named [P/my/Z/ol/s3] before looking for [Z/ol/s3].  This can be done by including a Key/Value such as []=[P/my/] in the file (or by referencing a file that contains such a Key/Value).   This solves a bunch of forking and use-case problems while retaining the basic intellectual model of overrides. Perhaps it makes sense to be able to declare in a folder that all files in the folder (and in subfolders) are deemed to have such a Key/Value.   Details to be worked out. 
 
 2.Ti=Accessing overridden Key/Values.
 
