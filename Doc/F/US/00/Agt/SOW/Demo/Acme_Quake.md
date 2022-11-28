@@ -4,9 +4,9 @@ Doc.Version=Draft 1
 
 Project.Title=Develop Model SOW
 
-Client.ProjectManager.=[U/id/andrea_ang.md] - The Managers for this Project. 
+Client.ProjectManager.=[G/U/Who/andrea_ang.md] - The Managers for this Project. 
 
-Vendor.ProjectManager.=[U/id/quentin_quade.md]
+Vendor.ProjectManager.=[G/U/Who/quentin_quade.md]
 
 Objective.=[F/US/00/Agt/SOW/Demo/Objective/0.md] - The {Objective.*} parameters.
 

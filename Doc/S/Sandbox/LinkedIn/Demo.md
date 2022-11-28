@@ -6,7 +6,7 @@ ValuationCap.$=$2,000,000
 
 Discount.%=8%
 
-Law.=[U/at/US/CA/Geo]
+Law.=[G/U/Place/US/CA/Geo]
 
 Company.=[https://linkedin.com/in/acmeincorporated]
 

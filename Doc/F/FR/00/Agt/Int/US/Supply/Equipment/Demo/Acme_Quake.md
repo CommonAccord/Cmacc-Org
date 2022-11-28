@@ -1,6 +1,6 @@
-Manufacturer.=[U/id/quake_incorporated.md]
+Manufacturer.=[G/U/Who/quake_incorporated.md]
 
-Customer.=[U/id/acme_sarl.md]
+Customer.=[G/U/Who/acme_sarl.md]
 
 =[F/FR/00/Agt/Int/US/Supply/Equipment/Sec/0.md]
 
