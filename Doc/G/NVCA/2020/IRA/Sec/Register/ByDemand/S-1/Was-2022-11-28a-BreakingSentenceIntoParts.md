@@ -1,87 +1,34 @@
 Ti=Form S-1 Demand
 
-CodersNote1=Parsing the sentence for the essence.  Details follow, below.
-
-1.sec=If at any time after {Window.Opens.??}
+1.sec=If at any time after [the earlier of (i) [[insert date that is]{FtNt.14.Xnum} three (3) - five (5) years] after the date of this Agreement or (ii)] [one hundred eighty (180)] days{FtNt.15.Xnum} after the effective date of the registration statement for the IPO, 
 
 2.sec=the Company receives a request from 
 
-3.sec=Holders of {Holders.Percent(%)}{FtNt.16.Xnum} of the Registrable Securities then outstanding 
+3.sec=Holders of [_______ percent (___%)]{FtNt.16.Xnum} of the Registrable Securities then outstanding 
 
-4.0.sec=that the Company file a Form S-1 registration statement with respect to
+4.sec=that the Company file a Form S-1 registration statement with respect to [at least forty percent (40%)]{FtNt.17.Xnum} of the Registrable Securities then outstanding [(or a lesser percent if the anticipated aggregate offering price, net of Selling Expenses, would exceed $[five (5)- fifteen (15)] million)], 
 
 5.0.sec=then the Company shall: 
-
-5.2.2.sec=file a Form S-1 registration statement under the Securities Act covering
-
-5.2.3.sec=all Registrable Securities that the Initiating Holders requested to be registered and 
-
-5.2.4.1.sec=any additional Registrable Securities requested to be included in such registration by any other Holders, 
-
-
-CodersNote=Details
-
-Window.Opens.Alt1=the earlier of (i) {1.1.sec} or (ii) {1.2.sec},
-
-Window.Opens.Alt2={1.2.sec},
-
-Window.Opens.=[G/Z/AltLine/2]
-
-Window.Opens.SecName=Window.Opens.
-
-1.1.sec={3-5-YearPeriod} after the date of this Agreement 
-
-3-5-YearPeriod.Prompt=[[insert date that is]{FtNt.14.Xnum} three (3) - five (5) years]
-
-1.2.sec={180DayPeriod.#} days{FtNt.15.Xnum} after the effective date of the registration statement for the IPO
-
-180DayPeriod.#.Prompt=[one hundred eighty (180)]
-
-1.=[G/Z/para/s2]
-
-Holders.Percent(%).Prompt=[_______ percent (___%)]
-
-4.1.sec={Securities.Percent(%)}
-
-Securities.Percent(%).Prompt= [at least forty percent (40%)]{FtNt.17.Xnum}
-
-4.2.sec=of the Registrable Securities then outstanding 
-
-4.3.sec={Securities.LesserFraction.Percent(%)}
-
-Securities.LesserFraction.Percent(%).?}=[(or a lesser percent if the anticipated aggregate offering price, net of Selling Expenses, would exceed $[five (5)- fifteen (15)] million)], 
-
-4.=[G/Z/para/s3]
 
 5.1.sec=(x) within ten (10) days after the date such request is given, give notice thereof (the “Demand Notice”) to all Holders other than the Initiating Holders; and 
 
 5.2.1.sec=(y) as soon as practicable, and in any event within sixty (60) days after the date such request is given by the Initiating Holders, 
 
+5.2.2.sec=file a Form S-1 registration statement under the Securities Act covering 
 
+5.2.3.sec=all Registrable Securities that the Initiating Holders requested to be registered and 
 
-5.2.4.2.sec=as specified by notice given by each such Holder to the Company within {HolderAnswerNotice.Period.Days(#)} days of the date the Demand Notice is given, and
-
-HolderAnswerNotice.Period.Days(#).Prompt= [twenty (20)]
-
-5.2.4.=[G/Z/para/s2]
+5.2.4.sec=any additional Registrable Securities requested to be included in such registration by any other Holders, as specified by notice given by each such Holder to the Company within [twenty (20)] days of the date the Demand Notice is given, and
 
 5.2.=[G/Z/para/s4]
 
 5.=[G/Z/para/s2]
 
-6.sec=in each case, subject to the limitations of Sections 2.1(c) and 2.3{ProvidedNotForeign.??}
+6.sec=in each case, subject to the limitations of Sections 2.1(c) and 2.3[; 
 
-ProvidedNotForeign.Alt1=.
+7.sec=provided, however, that this right to request the filing of a Form S-1 registration statement shall in no event be made available to any Holder that is a Foreign Person]{FtNt.18.Xnum}.
 
-ProvidedNotForeign.Alt2=; {7.sec}.
-
-ProvidedNotForeign.=[G/Z/AltLine/2]
-
-ProvidedNotForeign.SecName=ProvidedNotForeign.
-
-7.sec=provided, however, that this right to request the filing of a Form S-1 registration statement shall in no event be made available to any Holder that is a Foreign Person{FtNt.18.Xnum}
-
-=[G/Z/para/s6]
+=[G/Z/para/s7]
 
 LawyersNote=An incremental step. Let's use formatting to make the text more readable.
 
