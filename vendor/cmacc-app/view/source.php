@@ -64,7 +64,8 @@ $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
 
 
         if(isset($v)) { 
-                echo "<td height='10' width='300' style='text-align:right'>$klink</td><td width='20'></td><td>$v</td>"; }
+                echo "
+                <td height='10' width='300'  valign='top' style='text-align:right'>$klink</td><td width='40'></td><td>$v</td>"; }
         else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
 
