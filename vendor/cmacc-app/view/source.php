@@ -48,15 +48,23 @@ $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
         echo "<tr id=$k>" ;
         # enabling hyperlinks from the key.  If "foo." then make it "foo.Model.Rool", else just use the key.
         # The key ends in a "." and therefore we render the default content of the target object (Model.Root)
-        if((substr($k, -1)==".")){
+        if((substr($k, -1)==".") && (!preg_match('/\s/', $k))){
        	        $klink="<a class='expand' href=?action=doc&file=$dir&key=$k" . "Model.Root >$k</a>" ;
         }
         # The key does not end in "." so we render the key.
-       else {        
-        $klink="<a href=?action=doc&file=$dir&key=$k class='definedterm'>$k</a>" ;
-       }
+        # We will make each key into a hyperlink to the key's content. But if the key has a space in it, then we don't want to make it a hyperlink.
+        else if(preg_match('/\s/', $k)){
+       	        $klink= $k  ;
+        }
+        
+        # The key does not have a space in it, so we render the key with a hyperlink to the key's content.
+        else {
+       	 $klink="<a href=?action=doc&file=$dir&key=$k class='definedterm'>$k</a>" ;
+        }
+
+
         if(isset($v)) { 
-                echo "<th height='10' width='300' style='text-align:right'>$klink</th><td width='20'></td><td>$v</td>"; }
+                echo "<td height='10' width='300' style='text-align:right'>$klink</td><td width='20'></td><td>$v</td>"; }
         else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
 
