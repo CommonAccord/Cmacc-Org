@@ -106,7 +106,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
-# print "$_=<a href='#Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
+print "$_=<a href='#Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 
 # {Def.qq.Target} to mark the place a defined term is defined inline - use the convention "{Def.My_Term.Target}".  This will make Def.My_Term.Target={_My_Term}.
 
@@ -114,7 +114,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # Make cross-references (from {*.*.Xnum);
 
-print "$_=<a href='#" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;
+# print "$_=<a class='xref' href='#" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;
 
 # Make footnote, FtNt cross-references (that already have "".Xnum");
 
