@@ -31,7 +31,7 @@ echo "<a href=index.php?action=missing&file=$dir>". "OpenParameters" ."</a> ";
 
 # echo "<a href=index.php?action=kvs&file=$dir> KVs</a> ";
 
-echo "(<a href=index.php?action=" . $_REQUEST['action'] . "&file=" .$dir. "&key=YourKeyHere" . ">focus on a Key</a>) ";
+echo "(<a href=index.php?&key=????&file=" .$dir . "&action=doc>focus on a Key</a>) ";
 
 echo "&emsp; On GitHub: ";
 
