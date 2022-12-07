@@ -8,6 +8,6 @@ SeriesSeed:=[G/SeriesSeed-Cooley-CmA/]
 
 Techstars:=[G/Techstars-Equity-CmA/]
 
-TCF-=[Wx/com/tcflaw/ConvertibleNote/Demo/]
+TCF-=Wx/com/tcflaw/ConvertibleNote/Demo/]
 
-NotePurchase_TCF:=[Wx/com/tcflaw/ConvertibleNote/PurchaseAgreement/Form/0.md]
+NotePurchase_TCF:=Wx/com/tcflaw/ConvertibleNote/PurchaseAgreement/Form/0.md]

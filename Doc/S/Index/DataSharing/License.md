@@ -25,9 +25,9 @@ FR.INPI.=[G/FR-INPI-ContratDeLicenceDExploitation/Demo/Acme_Quake_123456.md]
 
 Copyright-CreativeCommons/=[G/CreativeCommons/4.0/]
   
-Copyright-Docracy:=[Wx/com/docracy/8770/Form/0.md]
+Copyright-Docracy:=Wx/com/docracy/8770/Form/0.md]
 
-Copyright-Library:=[Wx/edu/crl/liblicense/Model/Form/Form_v14_r15-05_v0.md]
+Copyright-Library:=Wx/edu/crl/liblicense/Model/Form/Form_v14_r15-05_v0.md]
 
 Copyright-ContributorAgreements/=[G/Org-ContributorAgreements-CmA/]
 
@@ -39,6 +39,6 @@ SaaS-YCombinator:=[G/YCombinator-SaaS/Form/0.md]
 
 TechContractsAcademy:=[G/TechContracts/SoftwareLicense/Demo/Acme_Quake_2019-04-06.md]
 
-Trademark-Docracy:=[Wx/com/docracy/4790/Form/0.md]
+Trademark-Docracy:=Wx/com/docracy/4790/Form/0.md]
 
 License=http://lmss.sali.org/RKKRGOkIme6pnG2BSePt1Z

@@ -12,6 +12,6 @@ Company.=[https://linkedin.com/in/acmeincorporated]
 
 Investor.=[https://linkedin.com/in/mdangear]
 
-=[Wx/com/ycombinator/SAFE/Form/Cap_Discount_v01.md]
+=Wx/com/ycombinator/SAFE/Form/Cap_Discount_v01.md]
 
 Note=http://www.bloomberg.com/news/articles/2016-06-13/how-microsoft-thinks-office-can-help-linkedin-and-vice-versa

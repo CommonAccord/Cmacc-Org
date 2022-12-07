@@ -19,9 +19,9 @@ French:=[G/CabinetBondard/FR-NDA-CmA/Demo/AcmeSARL.md]
 
 MIT-TLO:=[G/Edu-MIT-TLO-CmA/Demo/Acme_Ang_NDA.md]
 
-NIH-CDA:=[Wx/gov/nih/ott/CDA/Form/0.md]
+NIH-CDA:=Wx/gov/nih/ott/CDA/Form/0.md]
 
-StLouis:=[Wx/com/stlstartuplawyer.com/NDA/Demo/01-Acme-Quake-NDA_v0.md]
+StLouis:=Wx/com/stlstartuplawyer.com/NDA/Demo/01-Acme-Quake-NDA_v0.md]
 
 Swiss-SuperShort:=[G/CH-NDA-CmA/Demo/1.md]
 

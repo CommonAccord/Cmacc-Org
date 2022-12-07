@@ -1,6 +1,6 @@
 Assignment.=[G/Agt-Consulting-CmA/Annex/PatentAssignment/0.md]
 
-DefensiveLicense.=[Wx/org/defensivepatentlicense/1-1/Form_0.md]
+DefensiveLicense.=Wx/org/defensivepatentlicense/1-1/Form_0.md]
 
 ExclusiveLicenseNIH.=[G/NIH-License-Patent-Exclusive-CmA/Sec/0.md]
 

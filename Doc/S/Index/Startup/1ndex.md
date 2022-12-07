@@ -4,7 +4,7 @@ Note=This is a collection of more recent work on startup company documents. Thes
 
 Other Indexes:=<table><tr><td> 
 
-SaaS-=[S/Index/S/Index/DataSharing/SaaS.md]
+SaaS-=[S/Index/DataSharing/SaaS.md]
 
 Employee-=[S/Index/Employ/1ndex.md]
 
@@ -18,10 +18,10 @@ Privacy-=[S/Index/Privacy.md]
 
 SeriesAA-YC:=[G/YCombinator-SeriesAA/Form/Binder_v01.md]
 
-NVCA/=[G/NVCA/2018/] - just beginning - 
+NVCA/=[G/NVCA/2020/] - just beginning - 
 
 SeriesA-Lipshaw/=[G/Lipshaw_EVCL_CmA/Demo/]
 
 France-TermSheet-Galion/=[G/GalionProject-TermSheet-CmA/]
 
-France-SharePurchase-Bondard/=[G/CabinetBondard/CessionPartsSAS-CmA/]
+France-SharePurchase-Bondard-=[G/CabinetBondard/CessionPartsSAS-CmA/Sec/0.md]

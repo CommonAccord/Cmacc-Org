@@ -8,4 +8,4 @@ ParisPledgeForAction:=[G/org/parispledgeforaction/0.md]
 
 NuclearSafety:=[G/org/iaea/GSR3/0.md]
 
-PowerPurchaseAgreement:=[Wx/gov/bpa/power/wind/PPA/Form/0.md]
+PowerPurchaseAgreement:=Wx/gov/bpa/power/wind/PPA/Form/0.md]
