@@ -6,7 +6,7 @@ include("$lib_path/view-tabs.php");
 ?>
 
 
-<h4>JSON source view - <a href="https://github.com/adonalsium/common_accord/blob/dev/README.md">see technical description from Brown DISP ReadMe</a>:</h4>
+<h4>JSON source view - <a href="https://github.com/CommonAccord/common_accord/tree/dev/README.md">see technical description from Brown DISP ReadMe</a>:</h4>
 
 <?php 
 

@@ -14,11 +14,13 @@ SPA.=[G/NVCA/2020/SPA/Form/0.md]
 Voting.=[G/NVCA/2020/Voting/Form/0.md]
 
 
-Model.Root={COI.Resolution.4.sec}
+Model.Root={TermSheet.Model.Root}
 
 EffectiveDate.YMD=2022-12-05
 
-ClosingDate.YMD=2022-12-26
+ClosingDate.YMD=2022-12-29
+
+OfferExpires.YMD=2022-12-24
 
 Company.=[G/U/Who/acme_incorporated.md]
 
@@ -64,8 +66,6 @@ Registration.OnDemand.AtLeastShareholdersOf.%=60%
 
 Board.Size.Number=five
 
-WhenOfferDiesIfNotAcceptedByCompany.YMD=2022-12-24
-
 SPA.Misc.DisputeResolution.sec={SPA.Misc.DisputeResolution.Alt1.sec}
 
 Def.Code.Target={_Code}
@@ -75,6 +75,8 @@ Def.Company_Intellectual_Property.Target={_Company_Intellectual_Property}
 Def.Indemnification_Agreement.Target={_Indemnification_Agreement}
 
 Def.Investors’_Rights_Agreement.Target={_Investors’_Rights_Agreement}
+
+Def.Company.Target={_Company}
 
 Def.Key_Employee.Target={_Key_Employee}
 
@@ -91,3 +93,27 @@ Def.Securities_Act.Target={_Securities_Act}
 Def.Transaction_Agreements.Target={_Transaction_Agreements}
 
 Def.Voting_Agreement.Target={_Voting_Agreement}
+
+Def.Series_A_Preferred.Target={_Series_A_Preferred}
+
+
+_Series_A_Preferred=<a href='#Def.Series_A_Preferred.Target' class='definedterm'>Series A Preferred</a>
+
+_Company=<a href='#Def.Company.Target' class='definedterm'>Company</a>
+
+
+COI.Stock.Preferred.2.1.Xnum=<a class='xref' href='#COI.Stock.Preferred.2.1.Sec'>2.1</a>
+
+COI.Stock.Preferred.2.2.Xnum=<a class='xref' href='#COI.Stock.Preferred.2.2.Sec'>2.2</a>
+
+COI.Stock.Preferred.3.1.1.1.Xnum=<a class='xref' href='#COI.Stock.Preferred.3.1.1.1.sec'>3.1(a)(i)</a>
+
+COI.Stock.Preferred.3.1.1.2.Xnum=<a class='xref' href='#COI.Stock.Preferred.3.1.1.2.sec'>3.1(a)(ii)</a>
+
+COI.Stock.Preferred.3.2.2.Xnum=<a class='xref' href='#COI.Stock.Preferred.3.2.2.sec'>3.2(b)</a>
+
+COI.Stock.Preferred.3.2.1.Xnum=<a class='xref' href='#COI.Stock.Preferred.3.2.1.sec'>3.2(a)(i)</a>
+
+COI.Stock.Preferred.3.4.Xnum=<a class='xref' href='#COI.Stock.Preferred.3.4.sec'>3.4</a>
+
+COI.Stock.Preferred.3.Xnum=<a class='xref' href='#COI.Stock.Preferred.3.sec'>3</a>
