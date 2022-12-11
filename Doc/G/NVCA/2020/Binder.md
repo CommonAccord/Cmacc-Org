@@ -89,16 +89,22 @@ Company.IncorporationDate.YMD=2019-02-03
 
 Company.Prior.Name.Full=Acameade, Incorporated
 
+TermSheet.Charter.Dividend.sec={TermSheet.Charter.Dividend.CumulativeSpecified.sec}
+
+TermSheet.Charter.Liquidation.PayPreferred.sec={TermSheet.Charter.Liquidation.PayPreferred.CapParticipating.sec}
+
+COI.Stock.Preferred.Dividend.sec={COI.Stock.Preferred.Dividend.CumulativeSpecified.sec}
+
 COI.SecName=COI.
 
-COI.!!#=#COI.
+COI.#!!=#COI.
 
-Indemn.!!#=#Indemn.
+Indemn.#!!=#Indemn.
 
-SPA.!!#=#SPA.
+SPA.#!!=#SPA.
 
-Voting.!!#=#Voting.
+Voting.#!!=#Voting.
 
-TermSheet.!!#=#TermSheet.
+TermSheet.#!!=#TermSheet.
 
 Model.Root={TermSheet.Model.Root}
