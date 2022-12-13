@@ -150,3 +150,15 @@ Business_Plan.Target={_Business_Plan}
 
 SAFE.Target={_SAFE}
 
+Investors.Target={_Investors}
+
+Key_Holders.Target={_Key_Holders}
+
+Stockholders.Target={_Stockholders}
+
+Stock_Sale.Target={_Stock_Sale}
+
+Purchase_Agreement.Target={_Purchase_Agreement}
+
+
+
