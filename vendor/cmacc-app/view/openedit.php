@@ -18,7 +18,17 @@ include("$lib_path/view-tabs.php");
 
 <?php
 
-$document = `perl $lib_path/parser-openedit.pl $path/$dir`;
+# Adding ability to pass a starting Key to the rendering
+
+if (strlen($keyName) < 2) { 
+        $keyName = "Model.Root";
+      }
+      
+      if (strlen($openForm) < 1) { 
+        $openForm = "a";
+      }
+
+$document = `perl $lib_path/parser-openedit.pl $path/$dir $keyName $openForm`;
 
 echo "<form action=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=120 rows=30 name='newcontent' style='font-size: 16px; padding:10px;'>";

@@ -24,6 +24,7 @@ if (isset($_REQUEST['file'])) {
         $lib_path = LIB_PATH;
         $viewName = $_REQUEST['action'] ;
         $keyName = $_REQUEST['key'] ;
+        $openForm = $_REQUEST['open'] ;
 
 switch ($_REQUEST['action']) {
 

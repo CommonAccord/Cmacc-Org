@@ -82,7 +82,9 @@ sub expand_fields  {
 
 
 
-my $output  = parse($ARGV[0], "Model.Root");
+# Now with key option as $ARGV[1]
+
+my $output  = parse($ARGV[0], $ARGV[1]);
 
 # print $output;
 
@@ -91,6 +93,25 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 @arr = grep { ! $seen{$_}++ } @arr;
 
 # select one:
+if($ARGV[2] eq "a") {
+	print "$_=" foreach @arr;
+} 
+elsif($ARGV[2] eq "b") {
+	print "$_=$_\n" foreach @arr;
+	}
+elsif($ARGV[2] eq "d") {
+	print "$_=<a href='{#!!}Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
+	}
+elsif($ARGV[2] eq "t") {
+	print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
+	}
+elsif($ARGV[2] eq "x") {
+	print "$_=<a class='xref' href='{#!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;	
+		}
+
+else {
+	print "$_=" foreach @arr;
+}
 
 # Key=
 
@@ -106,7 +127,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 
 # To make a new DefinedTerm, with a hyperlink to the definition:
 
-print "$_=<a href='#Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
+# print "$_=<a href='#Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 
 # {Def.qq.Target} to mark the place a defined term is defined inline - use the convention "{Def.My_Term.Target}".  This will make Def.My_Term.Target={_My_Term}.
 
