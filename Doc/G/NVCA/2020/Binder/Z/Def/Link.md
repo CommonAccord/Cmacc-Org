@@ -95,6 +95,8 @@ IPO=<a href='{#!!}Def.IPO.Target' class='definedterm'>IPO</a>
 
 Key_Employee=<a href='{#!!}Def.Key_Employee.Target' class='definedterm'>Key Employee</a>
 
+Key_Holders=<a href='{#!!}Def.Key_Holders.Target' class='definedterm'>Key Holders</a>
+
 Key_Holder_Registrable_Securities=<a href='{#!!}Def.Key_Holder_Registrable_Securities.Target' class='definedterm'>Key Holder Registrable Securities</a>
 
 Knowledge=<a href='{#!!}Def.Knowledge.Target' class='definedterm'>Knowledge</a>
@@ -118,6 +120,8 @@ Preferred_Director=<a href='{#!!}Def.Preferred_Director.Target' class='definedte
 Preferred_Stock=<a href='{#!!}Def.Preferred_Stock.Target' class='definedterm'>Preferred Stock</a>
 
 Proceeding=<a href='{#!!}Def.Proceeding.Target' class='definedterm'>Proceeding</a>
+
+Purchase_Agreement=<a href='{#!!}Def.Purchase_Agreement.Target' class='definedterm'>Purchase Agreement</a>
 
 Registrable_Securities_then_outstanding=<a href='{#!!}Def.Registrable_Securities_then_outstanding.Target' class='definedterm'>Registrable Securities then outstanding</a>
 
@@ -155,12 +159,8 @@ Stock_Plan=<a href='{#!!}Def.Stock_Plan.Target' class='definedterm'>Stock_Plan</
 
 Stock_Sale=<a href='{#!!}Def.Stock_Sale.Target' class='definedterm'>Stock Sale</a>
 
+Stockholders=<a href='{#!!}Def.Stockholders.Target' class='definedterm'>Stockholders</a>
+
 Transaction_Agreements=<a href='{#!!}Def.Transaction_Agreements.Target' class='definedterm'>Transaction Agreements</a>
 
 Voting_Agreement=<a href='{#!!}Def.Voting_Agreement.Target' class='definedterm'>Voting Agreement</a>
-
-Key_Holders=<a href='{#!!}Def.Key_Holders.Target' class='definedterm'>Key Holders</a>
-
-Stockholders=<a href='{#!!}Def.Stockholders.Target' class='definedterm'>Stockholders</a>
-
-Purchase_Agreement=<a href='{#!!}Def.Purchase_Agreement.Target' class='definedterm'>Purchase Agreement</a>
