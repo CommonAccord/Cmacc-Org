@@ -164,3 +164,16 @@ Stockholders=<a href='{#!!}Def.Stockholders.Target' class='definedterm'>Stockhol
 Transaction_Agreements=<a href='{#!!}Def.Transaction_Agreements.Target' class='definedterm'>Transaction Agreements</a>
 
 Voting_Agreement=<a href='{#!!}Def.Voting_Agreement.Target' class='definedterm'>Voting Agreement</a>
+
+Original_Purchase_Price=<a href='{#!!}Def.Original_Purchase_Price.Target' class='definedterm'>Original Purchase Price</a>
+
+Deemed_Liquidation_Event=<a href='{#!!}Def.Deemed_Liquidation_Event.Target' class='definedterm'>Deemed Liquidation Event</a>
+
+Requisite_Holders=<a href='{#!!}Def.Requisite_Holders.Target' class='definedterm'>Requisite Holders</a>
+
+QPO=<a href='{#!!}Def.QPO.Target' class='definedterm'>QPO</a>
+
+CFIUS=<a href='{#!!}Def.CFIUS.Target' class='definedterm'>CFIUS</a>
+
+Electing_Holders=<a href='{#!!}Def.Electing_Holders.Target' class='definedterm'>Electing Holders</a>
+

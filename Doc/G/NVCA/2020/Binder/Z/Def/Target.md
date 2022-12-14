@@ -165,3 +165,18 @@ DPA.Target={_DPA}
 Company.Target={_Company}
 
 Series_A_Preferred.Target={_Series_A_Preferred}
+
+Closing.Target={_Closing}
+
+Original_Purchase_Price.Target={_Original_Purchase_Price}
+
+Deemed_Liquidation_Event.Target={_Deemed_Liquidation_Event}
+
+Requisite_Holders.Target={_Requisite_Holders}
+
+QPO.Target={_QPO}
+
+CFIUS.Target={_CFIUS}
+
+Electing_Holders.Target={_Electing_Holders}
+
