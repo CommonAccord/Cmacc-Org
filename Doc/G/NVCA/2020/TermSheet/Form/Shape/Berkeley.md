@@ -16,8 +16,12 @@ Charter.SeriesAApprovalRequired.AmendCharter.sec={Charter.SeriesAApprovalRequire
 
 Charter.SeriesAApprovalRequired.Crypto.sec={Charter.SeriesAApprovalRequired.Crypto.IncludingInvestorDirectors.sec}
 
+
+Charter.Redemption.After5Years.Price.cl={Charter.Redemption.After5Years.Price.OPPwithDividends.cl}
+
 IRA.Manage-Info.Investor.Reports.FinancialStatement.sec={IRA.Manage-Info.Investor.Reports.FinancialStatement.Monthly.sec}
 
+Lock-Up.AgreedBy.cl=provided all directors and officers of the Company and 5% stockholders agree to the same lock-up
 
 IRA.Manage-Info.sec={IRA.Manage-Info.Investor.sec}
 

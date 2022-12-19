@@ -146,6 +146,8 @@ Initial_Consideration=<a href='{#!!}Def.Initial_Consideration.Target' class='def
 
 Initiating_Holders=<a href='{#!!}Def.Initiating_Holders.Target' class='definedterm'>Initiating Holders</a>
 
+Investor=<a href='{#!!}Def.Investor.Target' class='definedterm'>Investor</a>
+
 Investor_Beneficial_Owners=<a href='{#!!}Def.Investor_Beneficial_Owners.Target' class='definedterm'>Investor Beneficial Owners</a>
 
 Investor_Counsel=<a href='{#!!}Def.Investor_Counsel.Target' class='definedterm'>Investor Counsel</a>

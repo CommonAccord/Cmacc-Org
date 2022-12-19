@@ -8,7 +8,7 @@ EffectiveDate.YMD=2022-12-05
 
 Why.sec=To enable confidential discussions regarding a possible investment in Acme.
 
-Conf.Life.TimePeriod=3 years
+Conf.Life.TimePeriod.Duration=3 years
 
 Financial.Quarter.Current.EndDate.YMD=December 31, 2022
 

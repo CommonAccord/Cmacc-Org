@@ -260,6 +260,8 @@ Selling_Investors.Target={_Selling_Investors}
 
 Series_A_Preferred.Target={_Series_A_Preferred}
 
+Series_A_Preferred_Stock.Target={_Series_A_Preferred_Stock}
+
 Series_A_Preferred_Director.Target={_Series_A_Preferred_Director}
 
 Series_B_Preferred_Director.Target={_Series_B_Preferred_Director}
