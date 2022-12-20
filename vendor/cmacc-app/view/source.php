@@ -21,7 +21,7 @@ foreach($contents as $n) {
 	//for folders (navigation)
 
 	else if(preg_match('/\[(.+?)\\/]/', $v, $matches)) {
-                $v = "<a href=?action=list&file=$matches[1]/>$v</a>";
+                $v = "<a href=?" . VIEW . "=list&" . FILENAME . "=$matches[1]/>$v</a>";
               	}
 
 	//for local file links "[G/...]"
@@ -30,7 +30,7 @@ foreach($contents as $n) {
           // to allow comments in the target field.
 	  list($v1, $v2) = array_pad( explode ("///", $v, 2), 2, null);
 
-	  $v = "<a href=?action=source&file=$matches[1]>$v1</a></td><td>$v2";
+	  $v = "<a href=?" . VIEW . "=source&" . FILENAME . "=$matches[1]>$v1</a></td><td>$v2";
         }
         else
 
@@ -41,7 +41,7 @@ foreach($contents as $n) {
 # This gives us the {parameter} {parameter}, two times, so we can build the href link.
 $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
 # We need to be able to evaluate the content of the PHP variables, which didn't work inside the str_replace.
- $href = "{<a href=?action=doc&file=$dir&key=" ;
+ $href = "{<a href=?" . VIEW . "=doc&" . FILENAME . "=$dir&" . KEYNAME . "=" ;
         $v = str_replace('q1q{', $href, $v);
         $v = str_replace('x2x{', ' class=expand >' , $v ) ;
     
@@ -49,7 +49,7 @@ $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
         # enabling hyperlinks from the key.  If "foo." then make it "foo.Model.Rool", else just use the key.
         # The key ends in a "." and therefore we render the default content of the target object (Model.Root)
         if((substr($k, -1)==".") && (!preg_match('/\s/', $k))){
-       	        $klink="<a class='expand' href=?action=doc&file=$dir&key=$k" . "Model.Root >$k</a>" ;
+       	        $klink="<a class='expand' href=?" . VIEW . "=doc&" . FILENAME . "=$dir&" . KEYNAME . "=$k" . "Model.Root >$k</a>" ;
         }
         # The key does not end in "." so we render the key.
         # We will make each key into a hyperlink to the key's content. But if the key has a space in it, then we don't want to make it a hyperlink.
@@ -59,7 +59,7 @@ $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
         
         # The key does not have a space in it, so we render the key with a hyperlink to the key's content.
         else {
-       	 $klink="<a href=?action=doc&file=$dir&key=$k class='definedterm'>$k</a>" ;
+       	 $klink="<a href=?" . VIEW . "=doc&" . FILENAME . "=$dir&" . KEYNAME . "=$k class='definedterm'>$k</a>" ;
         }
 
 

@@ -1,5 +1,8 @@
 <?php 
 
+DEFINE('INDEXNAME' , 'index.php') ; // Pass variable to cmacc_helpers.php
+
+
 DEFINE('VIEW' , 'action') ; // Pass variable to cmacc_helpers.php
 
 DEFINE('FILENAME' , 'file') ; // Pass variable to cmacc_helpers.php

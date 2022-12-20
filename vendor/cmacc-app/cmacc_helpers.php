@@ -148,7 +148,6 @@ switch ($_REQUEST[VIEW]) {
         break;
     
     default:
-#        include('./vendor/cmacc-app/view/keyname.php');
         echo $_REQUEST[VIEW]. " is not a valid action. Try again.<br>"  ;
        include('./vendor/cmacc-app/view/source.php');
         break;
