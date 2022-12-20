@@ -14,6 +14,6 @@ Note=Deal Data:
 
 Sign.YMD={ClosingDate.YMD}
 
-Model.Root=<table><tr><th>CDA: {Investor.1.Name.Full}</th><th>Management Rights Letter: {Investor.2.Name.Full}</th></tr><tr></tr><tr><td>{Investor.1.Model.Root}</td><td>{Investor.2.Model.Root}</td></tr></table>
+Model.Root=<table><tr><th>CDA: {Investor.1.Name.Full}</th><th> / </th><th> / </th><th> / </th><th> / </th><th>CDA: {Investor.2.Name.Full}</th></tr><tr><td>{Investor.1.Model.Root}</td><td> / </td><td> / </td><td> / </td><td> / </td><td>{Investor.2.Model.Root}</td></tr></table>
 
 P2.Handle={_Recipient}
