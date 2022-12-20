@@ -5,12 +5,12 @@ ini_set("allow_url_include", true);
 
 $Text_Edit_Window_Size = 'cols=120 rows=30' ;
 
-if (!isset($_REQUEST['action'])) {
-    $_REQUEST['action'] = "landing";
+if (!isset($_REQUEST[VIEW])) {
+    $_REQUEST[VIEW] = "landing";
 }
 
-if (isset($_REQUEST['file'])) {
-    $dir = $_REQUEST['file'];
+if (isset($_REQUEST[FILENAME])) {
+    $dir = $_REQUEST[FILENAME];
     $dir = preg_replace('~[^\w/.,_-]~u', '_', $dir);
     $dir = str_replace('..', '', $dir);
 } else {
@@ -22,11 +22,11 @@ if (isset($_REQUEST['file'])) {
         $rootdir = pathinfo($dir);
         $filenameX = basename($dir);
         $lib_path = LIB_PATH;
-        $viewName = $_REQUEST['action'] ;
-        $keyName = $_REQUEST['key'] ;
+        $viewName = $_REQUEST[VIEW] ;
+        $keyName = $_REQUEST[KEYNAME] ;
         $openForm = $_REQUEST['open'] ;
 
-switch ($_REQUEST['action']) {
+switch ($_REQUEST[VIEW]) {
 
     case 'list':
         include('./vendor/cmacc-app/view/list.php');
@@ -106,7 +106,7 @@ switch ($_REQUEST['action']) {
             echo "not rending ... <br>";
         }
 
-        if (isset($_REQUEST['file'])) {
+        if (isset($_REQUEST[FILENAME])) {
             echo "</div></div>";
         }
         break;
@@ -139,21 +139,17 @@ switch ($_REQUEST['action']) {
         include('./vendor/cmacc-app/view/print.php');
         break;
     
-    case 'missing':
-        include('./vendor/cmacc-app/view/missing.php');
-        break;
-    
     case 'openedit':
             include('./vendor/cmacc-app/view/openedit.php');
             break;
         
     case 'landing':
-        include($_REQUEST['action'] . '.php');
+        include($_REQUEST[VIEW] . '.php');
         break;
     
     default:
 #        include('./vendor/cmacc-app/view/keyname.php');
-        echo $_REQUEST['action']. " is not a valid action. Try again.<br>"  ;
+        echo $_REQUEST[VIEW]. " is not a valid action. Try again.<br>"  ;
        include('./vendor/cmacc-app/view/source.php');
         break;
 }
