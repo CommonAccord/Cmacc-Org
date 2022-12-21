@@ -62,11 +62,15 @@ $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
        	 $klink="<a href=?" . VIEW . "=doc&" . FILENAME . "=$dir&" . KEYNAME . "=$k class='definedterm'>$k</a>" ;
         }
 
+        
+# sketch       if((strlen($k)>0)) { echo "<th height='10' style='text-align:right'>$klink</th><td width='20'> = </td><td>$v</td>"; }
 
-        if(isset($v)) { 
+       if(((strlen($k)>0) || (strlen($v)>0))) { 
+#                if(isset($v)) { 
+
                 echo "
-                <td height='10' width='300'  valign='top' style='text-align:right'>$klink</td><td width='40'></td><td>$v</td>"; }
-        else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
+                <td height='10' width='300'  valign='top' style='text-align:right'>$klink</td><td valign='top' width='20'> = </td><td valign='top'>$v</td>"; }
+#        else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
 
 }
