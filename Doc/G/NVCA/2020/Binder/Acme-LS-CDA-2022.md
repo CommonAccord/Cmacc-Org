@@ -33,4 +33,6 @@ Investor.1.SecName={SecName}Investor.1.
 
 Investor.2.SecName={SecName}Investor.2.
 
+Board.Director.3.SecName={SecName}Board.Director.3.
+
 SecName=</>

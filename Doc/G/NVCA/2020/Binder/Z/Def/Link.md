@@ -222,7 +222,7 @@ Registrable_Securities=<a href='{#!!}Def.Registrable_Securities.Target' class='d
 
 Requisite_Holders=<a href='{#!!}Def.Requisite_Holders.Target' class='definedterm'>Requisite Holders</a>
 
-Restated_Certificate=<a href='{#!!}Def.Restated_Certificate.Target' class='definedterm'>Restated_Certificate</a>
+Restated_Certificate=<a href='{#!!}Def.Restated_Certificate.Target' class='definedterm'>Restated Certificate</a>
 
 Restricted_Securities=<a href='{#!!}Def.Restricted_Securities.Target' class='definedterm'>Restricted Securities</a>
 
