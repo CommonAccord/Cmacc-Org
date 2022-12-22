@@ -28,6 +28,7 @@ if (isset($_REQUEST[FILENAME])) {
 
 switch ($_REQUEST[VIEW]) {
 
+    case 'l':
     case 'list':
         include('./vendor/cmacc-app/view/list.php');
         break;
@@ -65,7 +66,7 @@ switch ($_REQUEST[VIEW]) {
 
         break;
 
-
+    case 's':
     case 'source':
 
         if (isset($_REQUEST['submit'])) {
@@ -97,32 +98,20 @@ switch ($_REQUEST[VIEW]) {
 
         break;
 
-
-    case 'render':
-
-        if (isset($_REQUEST['submit'])) {
-            echo "RENDERING...........<br>";
-        } else {
-            echo "not rending ... <br>";
-        }
-
-        if (isset($_REQUEST[FILENAME])) {
-            echo "</div></div>";
-        }
-        break;
-
     case 'missing':
         include('./vendor/cmacc-app/view/missing.php');
         break;
 
+    case 'd':
     case 'doc':
         include('./vendor/cmacc-app/view/doc.php');
         break;
-
+    
     case 'trace':
         include('./vendor/cmacc-app/view/trace.php');
         break;
-    
+
+    case 'x':
     case 'xray':
         include('./vendor/cmacc-app/view/xray.php');
         break;
@@ -134,15 +123,17 @@ switch ($_REQUEST[VIEW]) {
     case 'cicero':
         include('./vendor/cmacc-app/view/cicero.php');
         break;
-    
+
+    case 'p':
     case 'print':
         include('./vendor/cmacc-app/view/print.php');
         break;
     
+    case 'o':
     case 'openedit':
             include('./vendor/cmacc-app/view/openedit.php');
             break;
-        
+    
     case 'landing':
         include($_REQUEST[VIEW] . '.php');
         break;

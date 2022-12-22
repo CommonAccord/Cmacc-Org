@@ -12,6 +12,8 @@ Additional_Shares.Target={_Additional_Shares}
 
 Additional_Shares_of_Common_Stock.Target={_Additional_Shares_of_Common_Stock}
 
+Affiliate.Target={_Affiliate}
+
 Appointing_Stockholder.Target={_Appointing_Stockholder}
 
 Available_Proceeds.Target={_Available_Proceeds}
@@ -132,6 +134,8 @@ Form_S-3.Target={_Form_S-3}
 
 Fund_Indemnitors.Target={_Fund_Indemnitors}
 
+GAAP.Target={_GAAP}
+
 Hazardous_Substance.Target={_Hazardous_Substance}
 
 Immediate_Family_Member.Target={_Immediate_Family_Member}
@@ -143,6 +147,8 @@ Indemnitee.Target={_Indemnitee}
 Independent_Counsel.Target={_Independent_Counsel}
 
 Initial_Consideration.Target={_Initial_Consideration}
+
+Initial_Closing.Target={_Initial_Closing}
 
 Initiating_Holders.Target={_Initiating_Holders}
 
@@ -196,6 +202,8 @@ Original_Purchase_Price.Target={_Original_Purchase_Price}
 
 PCBs.Target={_PCBs}
 
+Person.Target={_Person}
+
 Personal_Information.Target={_Personal_Information}
 
 Preferred_Director.Target={_Preferred_Director}
@@ -211,6 +219,8 @@ Proposed_Sale.Target={_Proposed_Sale}
 Protected_Data.Target={_Protected_Data}
 
 Purchase_Agreement.Target={_Purchase_Agreement}
+
+Purchaser.Target={_Purchaser}
 
 Purchasers.Target={_Purchasers}
 

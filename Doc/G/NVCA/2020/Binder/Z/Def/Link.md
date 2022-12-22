@@ -10,6 +10,8 @@ Additional_Shares_of_Common_Stock=<a href='{#!!}Def.Additional_Shares_of_Common_
 
 Additional_Shares=<a href='{#!!}Def.Additional_Shares.Target' class='definedterm'>Additional Shares</a>
 
+Affiliate=<a href='{#!!}Def.Affiliate.Target' class='definedterm'>Affiliate</a>
+
 Appointing_Stockholder=<a href='{#!!}Def.Appointing_Stockholder.Target' class='definedterm'>Appointing Stockholder</a>
 
 Available_Proceeds=<a href='{#!!}Def.Available_Proceeds.Target' class='definedterm'>Available Proceeds</a>
@@ -130,6 +132,8 @@ Form_S-3=<a href='{#!!}Def.Form_S-3.Target' class='definedterm'>Form S-3</a>
 
 Fund_Indemnitors=<a href='{#!!}Def.Fund_Indemnitors.Target' class='definedterm'>Fund Indemnitors</a>
 
+GAAP=<a href='{#!!}Def.GAAP.Target' class='definedterm'>GAAP</a>
+
 Hazardous_Substance=<a href='{#!!}Def.Hazardous_Substance.Target' class='definedterm'>Hazardous_Substance</a>
 
 Immediate_Family_Member=<a href='{#!!}Def.Immediate_Family_Member.Target' class='definedterm'>Immediate Family Member</a>
@@ -194,6 +198,8 @@ Original_Purchase_Price=<a href='{#!!}Def.Original_Purchase_Price.Target' class=
 
 PCBs=<a href='{#!!}Def.PCBs.Target' class='definedterm'>PCBs</a>
 
+Person=<a href='{#!!}Def.Person.Target' class='definedterm'>Person</a>
+
 Personal_Information=<a href='{#!!}Def.Personal_Information.Target' class='definedterm'>Personal_Information</a>
 
 Preferred_Director=<a href='{#!!}Def.Preferred_Director.Target' class='definedterm'>Preferred Director</a>
@@ -205,6 +211,8 @@ Proceeding=<a href='{#!!}Def.Proceeding.Target' class='definedterm'>Proceeding</
 Proposed_Sale=<a href='{#!!}Def.Proposed_Sale.Target' class='definedterm'>Proposed Sale</a>
 
 Protected_Data=<a href='{#!!}Def.Protected_Data.Target' class='definedterm'>Protected Data</a>
+
+Purchaser=<a href='{#!!}Def.Purchaser.Target' class='definedterm'>Purchaser</a>
 
 Purchase_Agreement=<a href='{#!!}Def.Purchase_Agreement.Target' class='definedterm'>Purchase Agreement</a>
 
