@@ -214,6 +214,8 @@ Protected_Data=<a href='{#!!}Def.Protected_Data.Target' class='definedterm'>Prot
 
 Purchaser=<a href='{#!!}Def.Purchaser.Target' class='definedterm'>Purchaser</a>
 
+Purchaser's=<a href='{#!!}Def.Purchaser.Target' class='definedterm'>Purchaser's</a>
+
 Purchase_Agreement=<a href='{#!!}Def.Purchase_Agreement.Target' class='definedterm'>Purchase Agreement</a>
 
 QPO=<a href='{#!!}Def.QPO.Target' class='definedterm'>QPO</a>
