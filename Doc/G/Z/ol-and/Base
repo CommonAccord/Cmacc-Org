@@ -16,7 +16,7 @@ Head.sec={Doc.Ti}
 
 Sec=<b>{Ti}</b><br>{sec}
 
-sec={0.sec} {xlist} {00.sec}
+sec={0.sec}{xlist}{00.sec}
 
 0.sec=</i>
 

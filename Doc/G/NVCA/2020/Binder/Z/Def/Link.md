@@ -12,6 +12,8 @@ Additional_Shares=<a href='{#!!}Def.Additional_Shares.Target' class='definedterm
 
 Affiliate=<a href='{#!!}Def.Affiliate.Target' class='definedterm'>Affiliate</a>
 
+Agreement=<a href='{#!!}Def.Agreement.Target' class='definedterm'>Agreement</a>
+
 Appointing_Stockholder=<a href='{#!!}Def.Appointing_Stockholder.Target' class='definedterm'>Appointing Stockholder</a>
 
 Available_Proceeds=<a href='{#!!}Def.Available_Proceeds.Target' class='definedterm'>Available Proceeds</a>
@@ -86,17 +88,17 @@ Disqualification_Event=<a href='{#!!}Def.Disqualification_Event.Target' class='d
 
 Disqualified_Designee=<a href='{#!!}Def.Disqualified_Designee.Target' class='definedterm'>Disqualified Designee</a>
 
-DPA_Triggering_Rights=<a href='{#!!}Def.DPA_Triggering_Rights.Target' class='definedterm'>DPA_Triggering Rights</a>
+DPA_Triggering_Rights=<a href='{#!!}Def.DPA_Triggering_Rights.Target' class='definedterm'>DPA Triggering Rights</a>
 
 DPA=<a href='{#!!}Def.DPA.Target' class='definedterm'>DPA</a>
 
 Electing_Holders=<a href='{#!!}Def.Electing_Holders.Target' class='definedterm'>Electing Holders</a>
 
-Enforcement_Action=<a href='{#!!}Def.Enforcement_Action.Target' class='definedterm'>Enforcement_Action</a>
+Enforcement_Action=<a href='{#!!}Def.Enforcement_Action.Target' class='definedterm'>Enforcement Action</a>
 
 Enterprise=<a href='{#!!}Def.Enterprise.Target' class='definedterm'>Enterprise</a>
 
-Environmental_Laws=<a href='{#!!}Def.Environmental_Laws.Target' class='definedterm'>Environmental_Laws</a>
+Environmental_Laws=<a href='{#!!}Def.Environmental_Laws.Target' class='definedterm'>Environmental Laws</a>
 
 ERISA=<a href='{#!!}Def.ERISA.Target' class='definedterm'>ERISA</a>
 
@@ -110,13 +112,15 @@ Excluded_Shares=<a href='{#!!}Def.Excluded_Shares.Target' class='definedterm'>Ex
 
 Exempted_Securities=<a href='{#!!}Def.Exempted_Securities.Target' class='definedterm'>Exempted Securities</a>
 
+Existing_Investors=<a href='{#!!}Def.Existing_Investors.Target' class='definedterm'>Existing Investors</a>
+
 FCPA=<a href='{#!!}Def.FCPA.Target' class='definedterm'>FCPA</a>
 
 FDA_Application_Integrity_Policy=<a href='{#!!}Def.FDA_Application_Integrity_Policy.Target' class='definedterm'>FDA_Application_Integrity_Policy</a>
 
 FDA=<a href='{#!!}Def.FDA.Target' class='definedterm'>FDA</a>
 
-Financial_Statements=<a href='{#!!}Def.Financial_Statements.Target' class='definedterm'>Financial_Statements</a>
+Financial_Statements=<a href='{#!!}Def.Financial_Statements.Target' class='definedterm'>Financial Statements</a>
 
 First_Preferred_Series_A_Investor_Designee=<a href='{#!!}Def.First_Preferred_Series_A_Investor_Designee.Target' class='definedterm'>First Preferred Series A Investor Designee</a>
 
@@ -134,7 +138,7 @@ Fund_Indemnitors=<a href='{#!!}Def.Fund_Indemnitors.Target' class='definedterm'>
 
 GAAP=<a href='{#!!}Def.GAAP.Target' class='definedterm'>GAAP</a>
 
-Hazardous_Substance=<a href='{#!!}Def.Hazardous_Substance.Target' class='definedterm'>Hazardous_Substance</a>
+Hazardous_Substance=<a href='{#!!}Def.Hazardous_Substance.Target' class='definedterm'>Hazardous Substance</a>
 
 Immediate_Family_Member=<a href='{#!!}Def.Immediate_Family_Member.Target' class='definedterm'>Immediate Family Member</a>
 
@@ -152,6 +156,10 @@ Initiating_Holders=<a href='{#!!}Def.Initiating_Holders.Target' class='definedte
 
 Investor=<a href='{#!!}Def.Investor.Target' class='definedterm'>Investor</a>
 
+Investors=<a href='{#!!}Def.Investors.Target' class='definedterm'>Investors</a>
+
+Investor's=<a href='{#!!}Def.Investor.Target' class='definedterm'>Investor's</a>
+
 Investor_Beneficial_Owners=<a href='{#!!}Def.Investor_Beneficial_Owners.Target' class='definedterm'>Investor Beneficial Owners</a>
 
 Investor_Counsel=<a href='{#!!}Def.Investor_Counsel.Target' class='definedterm'>Investor Counsel</a>
@@ -165,6 +173,8 @@ IPO=<a href='{#!!}Def.IPO.Target' class='definedterm'>IPO</a>
 Key_Employee=<a href='{#!!}Def.Key_Employee.Target' class='definedterm'>Key Employee</a>
 
 Key_Holder_Registrable_Securities=<a href='{#!!}Def.Key_Holder_Registrable_Securities.Target' class='definedterm'>Key Holder Registrable Securities</a>
+
+Key_Holder=<a href='{#!!}Def.Key_Holder.Target' class='definedterm'>Key Holder</a>
 
 Key_Holders=<a href='{#!!}Def.Key_Holders.Target' class='definedterm'>Key Holders</a>
 
@@ -200,11 +210,13 @@ PCBs=<a href='{#!!}Def.PCBs.Target' class='definedterm'>PCBs</a>
 
 Person=<a href='{#!!}Def.Person.Target' class='definedterm'>Person</a>
 
-Personal_Information=<a href='{#!!}Def.Personal_Information.Target' class='definedterm'>Personal_Information</a>
+Personal_Information=<a href='{#!!}Def.Personal_Information.Target' class='definedterm'>Personal Information</a>
 
 Preferred_Director=<a href='{#!!}Def.Preferred_Director.Target' class='definedterm'>Preferred Director</a>
 
 Preferred_Stock=<a href='{#!!}Def.Preferred_Stock.Target' class='definedterm'>Preferred Stock</a>
+
+Prior_Agreement=<a href='{#!!}Def.Prior_Agreement.Target' class='definedterm'>Prior Agreement</a>
 
 Proceeding=<a href='{#!!}Def.Proceeding.Target' class='definedterm'>Proceeding</a>
 
@@ -216,9 +228,15 @@ Purchaser=<a href='{#!!}Def.Purchaser.Target' class='definedterm'>Purchaser</a>
 
 Purchaser's=<a href='{#!!}Def.Purchaser.Target' class='definedterm'>Purchaser's</a>
 
+Purchasers=<a href='{#!!}Def.Purchasers.Target' class='definedterm'>Purchasers</a>
+
 Purchase_Agreement=<a href='{#!!}Def.Purchase_Agreement.Target' class='definedterm'>Purchase Agreement</a>
 
 QPO=<a href='{#!!}Def.QPO.Target' class='definedterm'>QPO</a>
+
+QSBS=<a href='{#!!}Def.QSBS.Target' class='definedterm'>QSBS</a>
+
+QSBS-Checklist=<a href='{#!!}Def.QSBS-Checklist.Target' class='definedterm'>QSBS Checklist</a>
 
 Redemption_Date=<a href='{#!!}Def.Redemption_Date.Target' class='definedterm'>Redemption Date</a>
 

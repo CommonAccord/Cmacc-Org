@@ -14,6 +14,8 @@ Additional_Shares_of_Common_Stock.Target={_Additional_Shares_of_Common_Stock}
 
 Affiliate.Target={_Affiliate}
 
+Agreement.Target={_Agreement}
+
 Appointing_Stockholder.Target={_Appointing_Stockholder}
 
 Available_Proceeds.Target={_Available_Proceeds}
@@ -112,6 +114,8 @@ Excluded_Shares.Target={_Excluded_Shares}
 
 Exempted_Securities.Target={_Exempted_Securities}
 
+Existing_Investors.Target={_Existing_Investors}
+
 FCPA.Target={_FCPA}
 
 FDA.Target={_FDA}
@@ -154,6 +158,8 @@ Initiating_Holders.Target={_Initiating_Holders}
 
 Investor.Target={_Investor}
 
+Investor's.Target={_Investor's}
+
 Investor_Beneficial_Owners.Target={_Investor_Beneficial_Owners}
 
 Investor_Counsel.Target={_Investor_Counsel}
@@ -169,6 +175,8 @@ IPO.Target={_IPO}
 Key_Employee.Target={_Key_Employee}
 
 Key_Holder_Registrable_Securities.Target={_Key_Holder_Registrable_Securities}
+
+Key_Holder.Target={_Key_Holder}
 
 Key_Holders.Target={_Key_Holders}
 
@@ -212,6 +220,8 @@ Preferred_Stock.Target={_Preferred_Stock}
 
 Preferred_Stock.Target={_Preferred_Stock}
 
+Prior_Agreement.Target={_Prior_Agreement}
+
 Proceeding.Target={_Proceeding}
 
 Proposed_Sale.Target={_Proposed_Sale}
@@ -227,6 +237,10 @@ Purchasers.Target={_Purchasers}
 Purchaser's.Target={_Purchaser's}
 
 QPO.Target={_QPO}
+
+QSBS.Target={_QSBS}
+
+QSBS-Checklist.Target={_QSBS-Checklist}
 
 Redemption_Date.Target={_Redemption_Date}
 
