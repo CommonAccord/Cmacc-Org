@@ -260,6 +260,8 @@ Rule_506(d)_Related_Party=<a href='{#!!}Def.Rule_506(d)_Related_Party.Target' cl
 
 SAFE=<a href='{#!!}Def.SAFE.Target' class='definedterm'>SAFE</a>
 
+Sale_of_the_Company=<a href='{#!!}Def.Sale_of_the_Company.Target' class='definedterm'>Sale of the Company</a>
+
 Sarbanes-Oxley_Act=<a href='{#!!}Def.Sarbanes-Oxley_Act.Target' class='definedterm'>Sarbanes-Oxley Act</a>
 
 SBIC_Purchaser=<a href='{#!!}Def.SBIC_Purchaser.Target' class='definedterm'>SBIC Purchaser</a>
@@ -304,3 +306,7 @@ Transaction_Agreements=<a href='{#!!}Def.Transaction_Agreements.Target' class='d
 
 Voting_Agreement=<a href='{#!!}Def.Voting_Agreement.Target' class='definedterm'>Voting Agreement</a>
 
+
+CoderSuggested=
+
+Series_Prior_Preferred_Stock=<a href='{#!!}Def.Series_Prior_Preferred_Stock.Target' class='definedterm'>Series PRIOR Preferred Stock</a>

@@ -264,6 +264,8 @@ Rule_506(d)_Related_Party.Target={_Rule_506(d)_Related_Party}
 
 SAFE.Target={_SAFE}
 
+Sale_of_the_Company.Target={_Sale_of_the_Company}
+
 Sarbanes-Oxley_Act.Target={_Sarbanes-Oxley_Act}
 
 SBIC_Purchaser.Target={_SBIC_Purchaser}
@@ -307,4 +309,8 @@ Tokens.Target={_Tokens}
 Transaction_Agreements.Target={_Transaction_Agreements}
 
 Voting_Agreement.Target={_Voting_Agreement}
+
+CoderSuggested=
+
+Series_Prior_Preferred_Stock.Target={_Series_Prior_Preferred_Stock}
 
