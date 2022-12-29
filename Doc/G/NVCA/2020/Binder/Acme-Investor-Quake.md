@@ -1,19 +1,30 @@
+Party.=[G/U/Who/quake_incorporated.md]
 
-P2.=[G/U/Who/quake_incorporated.md]
+Investor.#=2
 
-Investor.=[G/U/Who/quake_incorporated.md]
+Shares.#=200,000
 
-Indemn.= 
+Shares.%=20%
 
-SPA.=
+Shares.$=$200,000
 
-CDA.=
+TermSheet.=
+
+COI.=		
+
+Indemn.=
 
 IRA.=
 
+MRL.=
+
+SPA.=
+
 Voting.=
 
-MRL.=
+ROFR.=
+
+CDA.=
 
 CodersNote=The CDA for Quake is done as if it were a company. This is an example of a tweak that affects one Investor's documents, but not the others. The tweak is done in this form file.  Click to see the content of the tweak.
 

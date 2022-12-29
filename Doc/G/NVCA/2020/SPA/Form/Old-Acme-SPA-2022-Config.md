@@ -64,7 +64,7 @@ Note=Library for the various options (in the form SPA.yes/no={SPA.yes/no}} and s
 
 Sign.YMD={ClosingDate.YMD}
 
-Model.Root=<table width='100%'><tr><th width='20%'>{Investor.1.Name.Full}</th><th> </th><th width='20%'>{Investor.2.Name.Full}</th></tr><tr><td valign='top' width='20%'>{Investor.1.Model.Root}</td><td>  </td><td valign='top' width='20%'>{Investor.2.Model.Root}</td></tr></table>
+Model.Root=<table width='100%'><tr><th width='20%'>{Investor.1.Party.Name.Full}</th><th> </th><th width='20%'>{Investor.2.Name.Full}</th></tr><tr><td valign='top' width='20%'>{Investor.1.Model.Root}</td><td>  </td><td valign='top' width='20%'>{Investor.2.Model.Root}</td></tr></table>
 
 P2.Handle={_Recipient}
 

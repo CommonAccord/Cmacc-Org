@@ -1,9 +1,14 @@
+Party.=[G/U/Who/state_street_corporation.md]
 
-P2.=[G/U/Who/state_street_corporation.md]
+Investor.#=1
 
-Investor.=[G/U/Who/state_street_corporation.md]
+Shares.#=100,000
 
-CDA.=
+Shares.%=10%
+
+Shares.$=$100,000
+
+TermSheet.=
 
 COI.=		
 
@@ -15,13 +20,19 @@ MRL.=
 
 SPA.=
 
-TermSheet.=
-
 Voting.=
+
+ROFR.=
+
+CDA.=
 
 
 CodersNote=The CDA for State Street Bank is done as if it were a VC. This is an example of a tweak that affects one Investor's documents, but not the others. The tweak is done in this form file.
 
 CDA.Conf.Engage.sec=<span class='select'>{CDA.Conf.Engage.VC.sec}</span>
+
+#!!=#Investor.1.
+
+SecName=Investor.1.
 
 =[G/NVCA/2020/Binder/Acme-2022.md]

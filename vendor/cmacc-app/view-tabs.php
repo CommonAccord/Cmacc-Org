@@ -2,8 +2,8 @@
 
 echo "<b><a href=" . INDEXNAME . "><img src='" . ASSETS_PATH . "/CmA-Square.png' height=20>/</a></a></b>";
 
-echo "<a href=" . INDEXNAME . "?" . VIEW . "=list&" . FILENAME . "=>Docs</a>/<a href=$_SERVER[PHP_SELF]?" . VIEW . "=list&" . FILENAME . "=$rootdir[dirname]/>$rootdir[dirname]</a>/<b>$filenameX</b><br></h4>";
-
+echo "<a href=" . INDEXNAME . "?" . VIEW . "=list&" . FILENAME . "=>Docs</a>/<a href=$_SERVER[PHP_SELF]?" . VIEW . "=list&" . FILENAME . "=$rootdir[dirname]/>$rootdir[dirname]</a>/<b>$filenameX</b> &nbsp; &nbsp; &nbsp; &nbsp; Key: $keyName
+<br></h4>";
 
 echo " &emsp; Source views: ";
 
