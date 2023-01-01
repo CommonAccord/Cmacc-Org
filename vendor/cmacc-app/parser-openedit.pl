@@ -105,6 +105,10 @@ elsif($ARGV[2] eq "d") {
 elsif($ARGV[2] eq "t") {
 	print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
 	}
+elsif($ARGV[2] eq "tli") {
+	print "<li>\{Def." . substr($_, 4, -7) .".sec\}</li>" foreach @arr;
+	}
+
 elsif($ARGV[2] eq "x") {
 	print "$_=<a class='xref' href='{#!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;	
 		}

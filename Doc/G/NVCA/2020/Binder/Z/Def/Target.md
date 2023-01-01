@@ -314,3 +314,25 @@ CoderSuggested=
 
 Series_Prior_Preferred_Stock.Target={_Series_Prior_Preferred_Stock}
 
+
+From CFIUS Insert:=
+
+CFIUS.Target={_CFIUS}
+
+Covered_Transaction.Target={_Covered_Transaction}
+
+DPA.Target={_DPA}
+
+Foreign_Person.Target={_Foreign_Person}
+
+Foreign_Person_LP.Target={_Foreign_Person_LP}
+
+LP_Affiliate.Target={_LP_Affiliate}
+
+Material_Nonpublic_Technical_Information.Target={_Material_Nonpublic_Technical_Information}
+
+Non-Foreign_Person_LP.Target={_Non-Foreign_Person_LP}
+
+Portfolio_Investment.Target={_Portfolio_Investment}
+
+Substantial_Interest.Target={_Substantial_Interest}

@@ -306,7 +306,28 @@ Transaction_Agreements=<a href='{#!!}Def.Transaction_Agreements.Target' class='d
 
 Voting_Agreement=<a href='{#!!}Def.Voting_Agreement.Target' class='definedterm'>Voting Agreement</a>
 
-
 CoderSuggested=
 
 Series_Prior_Preferred_Stock=<a href='{#!!}Def.Series_Prior_Preferred_Stock.Target' class='definedterm'>Series PRIOR Preferred Stock</a>
+
+From CFIUS Insert:=
+
+CFIUS=<a href='{#!!}Def.CFIUS.Target' class='definedterm'>CFIUS</a>
+
+Covered_Transaction=<a href='{#!!}Def.Covered_Transaction.Target' class='definedterm'>Covered Transaction</a>
+
+DPA=<a href='{#!!}Def.DPA.Target' class='definedterm'>DPA</a>
+
+Foreign_Person=<a href='{#!!}Def.Foreign_Person.Target' class='definedterm'>Foreign Person</a>
+
+Foreign_Person_LP=<a href='{#!!}Def.Foreign_Person_LP.Target' class='definedterm'>Foreign Person LP</a>
+
+LP_Affiliate=<a href='{#!!}Def.LP_Affiliate.Target' class='definedterm'>LP Affiliate</a>
+
+Material_Nonpublic_Technical_Information=<a href='{#!!}Def.Material_Nonpublic_Technical_Information.Target' class='definedterm'>Material Nonpublic Technical Information</a>
+
+Non-Foreign_Person_LP=<a href='{#!!}Def.Non-Foreign_Person_LP.Target' class='definedterm'>Non-Foreign Person LP</a>
+
+Portfolio_Investment=<a href='{#!!}Def.Portfolio_Investment.Target' class='definedterm'>Portfolio Investment</a>
+
+Substantial_Interest=<a href='{#!!}Def.Substantial_Interest.Target' class='definedterm'>Substantial Interest</a>
