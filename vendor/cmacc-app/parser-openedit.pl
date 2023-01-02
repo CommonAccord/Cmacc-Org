@@ -99,18 +99,23 @@ if($ARGV[2] eq "a") {
 elsif($ARGV[2] eq "b") {
 	print "$_=$_\n" foreach @arr;
 	}
-elsif($ARGV[2] eq "d") {
-	print "$_=<a href='{#!!}Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
+elsif(($ARGV[2] eq "d") and (substr($_,1) = "__" )) {
+	print "$_=<a href='{!!!}Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 	}
+
 elsif($ARGV[2] eq "t") {
 	print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
 	}
 elsif($ARGV[2] eq "tli") {
-	print "<li>\{Def." . substr($_, 4, -7) .".sec\}</li>" foreach @arr;
+	print "<li>\{Def." . substr($_, 0, -7) .".sec\}</li>" foreach @arr;
+	}
+
+elsif($ARGV[2] eq "tbase") {
+	print  substr($_, 0, -7) .".=[G/Z/Base]" foreach @arr;
 	}
 
 elsif($ARGV[2] eq "x") {
-	print "$_=<a class='xref' href='{#!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;	
+	print "$_=<a class='xref' href='{!!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;	
 		}
 
 else {

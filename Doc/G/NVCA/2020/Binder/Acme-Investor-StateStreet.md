@@ -31,8 +31,8 @@ CodersNote=The CDA for State Street Bank is done as if it were a VC. This is an 
 
 CDA.Conf.Engage.sec=<span class='select'>{CDA.Conf.Engage.VC.sec}</span>
 
-#!!=#Investor.1.
+!!!=#
 
-SecName=Investor.1.
+SecName=<\>
 
 =[G/NVCA/2020/Binder/Acme-2022.md]
