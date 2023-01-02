@@ -1,26 +1,26 @@
 Def.Ti=CFIUS Definitions
 
-Def.CFIUS.sec=“{Def.CFIUS.Target}” shall mean the Committee on Foreign Investment in the United States or any member agency thereof acting in its capacity as a member agency.
+Def.CFIUS.sec=“{DefT.CFIUS.Target}” shall mean the Committee on Foreign Investment in the United States or any member agency thereof acting in its capacity as a member agency.
 
-Def.Covered_Transaction.sec=“{Def.Covered_Transaction.Target}” shall have the meaning set forth in the DPA.
+Def.Covered_Transaction.sec=“{DefT.Covered_Transaction.Target}” shall have the meaning set forth in the DPA.
 
-Def.DPA.sec=“{Def.DPA.Target}” shall mean Section 721 of the Defense Production Act of 1950, as amended, including all implementing regulations thereof.
+Def.DPA.sec=“{DefT.DPA.Target}” shall mean Section 721 of the Defense Production Act of 1950, as amended, including all implementing regulations thereof.
 
-Def.Foreign_Person.sec=“{Def.Foreign_Person.Target}” shall have the meaning set forth in the DPA.
+Def.Foreign_Person.sec=“{DefT.Foreign_Person.Target}” shall have the meaning set forth in the DPA.
 
-Def.Foreign_Person_LP.sec=“{Def.Foreign_Person_LP.Target}” shall mean any Limited Partner that is a Foreign Person.
+Def.Foreign_Person_LP.sec=“{DefT.Foreign_Person_LP.Target}” shall mean any Limited Partner that is a Foreign Person.
 
-Def.LP_Affiliate.sec=“{Def.LP_Affiliate.Target}” shall mean, with respect to any Limited Partner, any director, officer, manager, partner, member, or similar Person, or 5% or greater equity holder of such Limited Partner, and any Person controlling or under common control with such Limited Partner.
+Def.LP_Affiliate.sec=“{DefT.LP_Affiliate.Target}” shall mean, with respect to any Limited Partner, any director, officer, manager, partner, member, or similar Person, or 5% or greater equity holder of such Limited Partner, and any Person controlling or under common control with such Limited Partner.
 
-Def.Material_Nonpublic_Technical_Information.sec=“{Def.Material_Nonpublic_Technical_Information.Target}” shall have the meaning set forth in the DPA.
+Def.Material_Nonpublic_Technical_Information.sec=“{DefT.Material_Nonpublic_Technical_Information.Target}” shall have the meaning set forth in the DPA.
 
-Def.Non-Foreign_Person_LP.sec=“{Def.Non-Foreign_Person_LP.Target}” shall mean any Limited Partner that is not a Foreign Person.
+Def.Non-Foreign_Person_LP.sec=“{DefT.Non-Foreign_Person_LP.Target}” shall mean any Limited Partner that is not a Foreign Person.
 
-Def.Portfolio_Investment.sec=“{Def.Portfolio_Investment.Target}” shall mean any investments made by the Partnership, including investments in Portfolio Companies or Portfolio Securities or any Idle Funds Investments, and shall include both the Partnership investment itself and the entity that is the target of that investment.
+Def.Portfolio_Investment.sec=“{DefT.Portfolio_Investment.Target}” shall mean any investments made by the Partnership, including investments in Portfolio Companies or Portfolio Securities or any Idle Funds Investments, and shall include both the Partnership investment itself and the entity that is the target of that investment.
 
-Def.Substantial_Interest.sec=“{Def.Substantial_Interest.Target}” shall have the meaning set forth in the DPA.
+Def.Substantial_Interest.sec=“{DefT.Substantial_Interest.Target}” shall have the meaning set forth in the DPA.
 
-Def.sec=<ol><li>{Def.CFIUS.sec}</li><li>{Def.Covered_Transaction.sec}</li><li>{Def.DPA.sec}</li><li>{Def.Foreign_Person.sec}</li><li>{Def.Foreign_Person_LP.sec}</li><li>{Def.LP_Affiliate.sec}</li><li>{Def.Material_Nonpublic_Technical_Information.sec}</li><li>{Def.Non-Foreign_Person_LP.sec}</li><li>{Def.Portfolio_Investment.sec}</li><li>{Def.Substantial_Interest.sec}</li></ol>
+Def.sec=<ol><li>{DefT.CFIUS.sec}</li><li>{Def.Covered_Transaction.sec}</li><li>{Def.DPA.sec}</li><li>{Def.Foreign_Person.sec}</li><li>{Def.Foreign_Person_LP.sec}</li><li>{Def.LP_Affiliate.sec}</li><li>{Def.Material_Nonpublic_Technical_Information.sec}</li><li>{Def.Non-Foreign_Person_LP.sec}</li><li>{Def.Portfolio_Investment.sec}</li><li>{Def.Substantial_Interest.sec}</li></ol>
 
 Def.=[G/Z/Base]
 

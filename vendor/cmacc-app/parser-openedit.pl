@@ -102,8 +102,8 @@ elsif($ARGV[2] eq "b") {
 elsif(($ARGV[2] eq "d") and (substr($_,1) = "__" )) {
 	print "$_=<a href='{!!!}Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 	}
-
-elsif($ARGV[2] eq "t") {
+#ToDo: test this ????
+elsif($ARGV[2] eq "t") and (substr($_,0, 4) = "Def." ){
 	print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
 	}
 elsif($ARGV[2] eq "tli") {
