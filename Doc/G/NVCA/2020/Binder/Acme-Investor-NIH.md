@@ -8,7 +8,7 @@ Shares.%=5%
 
 Shares.$=$50,000
 
-TermSheet.=
+TermSheet.=Standard
 
 COI.=		
 
@@ -16,7 +16,7 @@ Indemn.=
 
 IRA.=
 
-MRL.=
+MRL.=[None]
 
 SPA.=
 

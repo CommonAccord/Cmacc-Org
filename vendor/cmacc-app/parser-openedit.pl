@@ -99,15 +99,15 @@ if($ARGV[2] eq "a") {
 elsif($ARGV[2] eq "b") {
 	print "$_=$_\n" foreach @arr;
 	}
-elsif(($ARGV[2] eq "d") and (substr($_,1) = "__" )) {
-	print "$_=<a href='{!!!}Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
+elsif($ARGV[2] eq "d") {
+	print "$_=<a href='{!!!}DefT." . substr($_, 1)."' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 	}
 #ToDo: test this ????
-elsif($ARGV[2] eq "t") and (substr($_,0, 4) = "Def." ){
-	print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
+elsif($ARGV[2] eq "t") {
+	print "$_=\{_" . substr($_, 5) ."\}\n" foreach @arr;
 	}
 elsif($ARGV[2] eq "tli") {
-	print "<li>\{Def." . substr($_, 0, -7) .".sec\}</li>" foreach @arr;
+	print "<li>\{Def." . substr($_, 5) .".sec\}</li>" foreach @arr;
 	}
 
 elsif($ARGV[2] eq "tbase") {

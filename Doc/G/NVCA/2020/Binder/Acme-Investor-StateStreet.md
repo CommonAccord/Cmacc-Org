@@ -33,6 +33,6 @@ CDA.Conf.Engage.sec=<span class='select'>{CDA.Conf.Engage.VC.sec}</span>
 
 !!!=#
 
-SecName=<\>
+SecName=</>
 
 =[G/NVCA/2020/Binder/Acme-2022.md]

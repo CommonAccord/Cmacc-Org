@@ -1,390 +1,405 @@
 Note=So far, there are 140 Defined Terms in this document set.
 
-409A_Plan.Target={_409A_Plan}
+409A_Plan={_409A_Plan}
 
-Accruing_Dividends.Target={_Accruing_Dividends}
+Accruing_Dividends={_Accruing_Dividends}
 
-Additional_Consideration.Target={_Additional_Consideration}
+Additional_Consideration={_Additional_Consideration}
 
-Additional_Purchasers.Target={_Additional_Purchasers}
+Additional_Purchasers={_Additional_Purchasers}
 
-Additional_Shares.Target={_Additional_Shares}
+Additional_Shares={_Additional_Shares}
 
-Additional_Shares_of_Common_Stock.Target={_Additional_Shares_of_Common_Stock}
+Additional_Shares_of_Common_Stock={_Additional_Shares_of_Common_Stock}
 
-Affiliate.Target={_Affiliate}
+Affiliate={_Affiliate}
 
-Agreement.Target={_Agreement}
+Agreement={_Agreement}
 
-Appointing_Stockholder.Target={_Appointing_Stockholder}
+Appointing_Stockholder={_Appointing_Stockholder}
 
-Available_Proceeds.Target={_Available_Proceeds}
+Available_Proceeds={_Available_Proceeds}
 
-Beneficial_Owner.Target={_Beneficial_Owner}
+Beneficial_Owner={_Beneficial_Owner}
 
-Board.Target={_Board}
+Board={_Board}
 
-Board_of_Directors.Target={_Board_of_Directors}
+Board_of_Directors={_Board_of_Directors}
 
-Business_Plan.Target={_Business_Plan}
+Business_Plan={_Business_Plan}
 
-CEO_Director.Target={_CEO_Director}
+CEO_Director={_CEO_Director}
 
-Certificate_of_Incorporation.Target={_Certificate_of_Incorporation}
+Certificate_of_Incorporation={_Certificate_of_Incorporation}
 
-CFIUS.Target={_CFIUS}
+CFIUS={_CFIUS}
 
-CFR.Target={_CFR}
+CFR={_CFR}
 
-Closing.Target={_Closing}
+Closing={_Closing}
 
-Code.Target={_Code}
+Code={_Code}
 
-Common_Director.Target={_Common_Director}
+Common_Director={_Common_Director}
 
-Common_Stock.Target={_Common_Stock}
+Common_Stock={_Common_Stock}
 
-Company.Target={_Company}
+Company={_Company}
 
-Company_Covered_Person.Target={_Company_Covered_Person}
+Company_Covered_Person={_Company_Covered_Person}
 
-Company_Intellectual_Property.Target={_Company_Intellectual_Property}
+Company_Intellectual_Property={_Company_Intellectual_Property}
 
-Competitor.Target={_Competitor}
+Competitor={_Competitor}
 
-Confidential_Information_Agreements.Target={_Confidential_Information_Agreements}
+Confidential_Information_Agreements={_Confidential_Information_Agreements}
 
-Conversion_Price.Target={_Conversion_Price}
+Conversion_Price={_Conversion_Price}
 
-Conversion_Rights.Target={_Conversion_Rights}
+Conversion_Rights={_Conversion_Rights}
 
-Conversion_Time.Target={_Conversion_Time}
+Conversion_Time={_Conversion_Time}
 
-Convertible_Securities.Target={_Convertible_Securities}
+Convertible_Securities={_Convertible_Securities}
 
-Corporate_Status.Target={_Corporate_Status}
+Corporate_Status={_Corporate_Status}
 
-Corporation.Target={_Corporation}
+Corporation={_Corporation}
 
-Covered_Persons.Target={_Covered_Persons}
+Covered_Persons={_Covered_Persons}
 
-CP1.Target={_CP1}
+CP1={_CP1}
 
-CP2.Target={_CP2}
+CP2={_CP2}
 
-Cybersecurity_Solutions.Target={_Cybersecurity_Solutions}
+Cybersecurity_Solutions={_Cybersecurity_Solutions}
 
-Damages.Target={_Damages}
+Damages={_Damages}
 
-Deemed_Liquidation_Event.Target={_Deemed_Liquidation_Event}
+Deemed_Liquidation_Event={_Deemed_Liquidation_Event}
 
-Demand_Notice.Target={_Demand_Notice}
+Demand_Notice={_Demand_Notice}
 
-Derivative_Securities.Target={_Derivative_Securities}
+Derivative_Securities={_Derivative_Securities}
 
-DGCL.Target={_DGCL}
+DGCL={_DGCL}
 
-Disinterested_Director.Target={_Disinterested_Director}
+Disinterested_Director={_Disinterested_Director}
 
-Disqualification_Event.Target={_Disqualification_Event}
+Disqualification_Event={_Disqualification_Event}
 
-Disqualified_Designee.Target={_Disqualified_Designee}
+Disqualified_Designee={_Disqualified_Designee}
 
-DPA.Target={_DPA}
+DPA={_DPA}
 
-DPA_Triggering_Rights.Target={_DPA_Triggering_Rights}
+DPA_Triggering_Rights={_DPA_Triggering_Rights}
 
-Electing_Holders.Target={_Electing_Holders}
+Effective_Date={_Effective_Date}
 
-Enforcement_Action.Target={_Enforcement_Action}
+Electing_Holders={_Electing_Holders}
 
-Enterprise.Target={_Enterprise}
+Enforcement_Action={_Enforcement_Action}
 
-Environmental_Laws.Target={_Environmental_Laws}
+Enterprise={_Enterprise}
 
-ERISA.Target={_ERISA}
+Environmental_Laws={_Environmental_Laws}
 
-Exchange_Act.Target={_Exchange_Act}
+ERISA={_ERISA}
 
-Excluded_Opportunity.Target={_Excluded_Opportunity}
+Exchange_Act={_Exchange_Act}
 
-Excluded_Registration.Target={_Excluded_Registration}
+Excluded_Opportunity={_Excluded_Opportunity}
 
-Excluded_Shares.Target={_Excluded_Shares}
+Excluded_Registration={_Excluded_Registration}
 
-Exempted_Securities.Target={_Exempted_Securities}
+Excluded_Shares={_Excluded_Shares}
 
-Existing_Investors.Target={_Existing_Investors}
+Exempted_Securities={_Exempted_Securities}
 
-FCPA.Target={_FCPA}
+Existing_Investors={_Existing_Investors}
 
-FDA.Target={_FDA}
+FCPA={_FCPA}
 
-FDA_Application_Integrity_Policy.Target={_FDA_Application_Integrity_Policy}
+FDA={_FDA}
 
-Financial_Statements.Target={_Financial_Statements}
+FDA_Application_Integrity_Policy={_FDA_Application_Integrity_Policy}
 
-First_Preferred_Series_A_Investor_Designee.Target={_First_Preferred_Series_A_Investor_Designee}
+Financial_Statements={_Financial_Statements}
 
-FOIA.Target={_FOIA}
+First_Preferred_Series_A_Investor_Designee={_First_Preferred_Series_A_Investor_Designee}
 
-FOIA_Party.Target={_FOIA_Party}
+FOIA={_FOIA}
 
-Foreign_Person.Target={_Foreign_Person}
+FOIA_Party={_FOIA_Party}
 
-Form_S-1.Target={_Form_S-1}
+Foreign_Person={_Foreign_Person}
 
-Form_S-3.Target={_Form_S-3}
+Form_S-1={_Form_S-1}
 
-Fund_Indemnitors.Target={_Fund_Indemnitors}
+Form_S-3={_Form_S-3}
 
-GAAP.Target={_GAAP}
+Fund_Indemnitors={_Fund_Indemnitors}
 
-Hazardous_Substance.Target={_Hazardous_Substance}
+GAAP={_GAAP}
 
-Immediate_Family_Member.Target={_Immediate_Family_Member}
+Hazardous_Substance={_Hazardous_Substance}
 
-Indemnification_Agreement.Target={_Indemnification_Agreement}
+Holder={_Holder}
 
-Indemnitee.Target={_Indemnitee}
+Immediate_Family_Member={_Immediate_Family_Member}
 
-Independent_Counsel.Target={_Independent_Counsel}
+Indemnification_Agreement={_Indemnification_Agreement}
 
-Initial_Consideration.Target={_Initial_Consideration}
+Indemnitee={_Indemnitee}
 
-Initial_Closing.Target={_Initial_Closing}
+Independent_Counsel={_Independent_Counsel}
 
-Initiating_Holders.Target={_Initiating_Holders}
+Initial_Consideration={_Initial_Consideration}
 
-Investor.Target={_Investor}
+Initial_Closing={_Initial_Closing}
 
-Investor's.Target={_Investor's}
+Initiating_Holders={_Initiating_Holders}
 
-Investor_Beneficial_Owners.Target={_Investor_Beneficial_Owners}
+Investor={_Investor}
 
-Investor_Counsel.Target={_Investor_Counsel}
+Investor's={_Investor's}
 
-Investor_Indemnitors.Target={_Investor_Indemnitors}
+Investor_Beneficial_Owners={_Investor_Beneficial_Owners}
 
-Investors.Target={_Investors}
+Investor_Counsel={_Investor_Counsel}
 
-Investors’_Rights_Agreement.Target={_Investors’_Rights_Agreement}
+Investor_Indemnitors={_Investor_Indemnitors}
 
-IPO.Target={_IPO}
+Investors={_Investors}
 
-Key_Employee.Target={_Key_Employee}
+Investors’_Rights_Agreement={_Investors’_Rights_Agreement}
 
-Key_Holder_Registrable_Securities.Target={_Key_Holder_Registrable_Securities}
+IPO={_IPO}
 
-Key_Holder.Target={_Key_Holder}
+Key_Employee={_Key_Employee}
 
-Key_Holders.Target={_Key_Holders}
+Key_Holder_Registrable_Securities={_Key_Holder_Registrable_Securities}
 
-Knowledge.Target={_Knowledge}
+Key_Holder={_Key_Holder}
 
-Liquidation_Amount.Target={_Liquidation_Amount}
+Key_Holders={_Key_Holders}
 
-Major_Investor.Target={_Major_Investor}
+Knowledge={_Knowledge}
 
-Management_Rights_Letter.Target={_Management_Rights_Letter}
+Liquidation_Amount={_Liquidation_Amount}
 
-Mandatory_Conversion_Time.Target={_Mandatory_Conversion_Time}
+Major_Investor={_Major_Investor}
 
-Material_Adverse_Effect.Target={_Material_Adverse_Effect}
+Management_Rights_Letter={_Management_Rights_Letter}
 
-Maximum_Permitted_Rate.Target={_Maximum_Permitted_Rate}
+Mandatory_Conversion_Time={_Mandatory_Conversion_Time}
 
-Merger_Agreement.Target={_Merger_Agreement}
+Material_Adverse_Effect={_Material_Adverse_Effect}
 
-New_Securities.Target={_New_Securities}
+Maximum_Permitted_Rate={_Maximum_Permitted_Rate}
 
-Open_Source_Software.Target={_Open_Source_Software}
+Merger_Agreement={_Merger_Agreement}
 
-Option.Target={_Option}
+New_Securities={_New_Securities}
 
-Original_Issue_Date.Target={_Original_Issue_Date}
+Open_Source_Software={_Open_Source_Software}
 
-Original_Issue_Price.Target={_Original_Issue_Price}
+Option={_Option}
 
-Original_Purchase_Price.Target={_Original_Purchase_Price}
+Original_Issue_Date={_Original_Issue_Date}
 
-PCBs.Target={_PCBs}
+Original_Issue_Price={_Original_Issue_Price}
 
-Person.Target={_Person}
+Original_Purchase_Price={_Original_Purchase_Price}
 
-Personal_Information.Target={_Personal_Information}
+PCBs={_PCBs}
 
-Preferred_Director.Target={_Preferred_Director}
+Person={_Person}
 
-Preferred_Stock.Target={_Preferred_Stock}
+Personal_Information={_Personal_Information}
 
-Preferred_Stock.Target={_Preferred_Stock}
+Preferred_Director={_Preferred_Director}
 
-Prior_Agreement.Target={_Prior_Agreement}
+Preferred_Stock={_Preferred_Stock}
 
-Proceeding.Target={_Proceeding}
+Preferred_Stock={_Preferred_Stock}
 
-Proposed_Sale.Target={_Proposed_Sale}
+Prior_Agreement={_Prior_Agreement}
 
-Protected_Data.Target={_Protected_Data}
+Proceeding={_Proceeding}
 
-Purchase_Agreement.Target={_Purchase_Agreement}
+Proposed_Sale={_Proposed_Sale}
 
-Purchaser.Target={_Purchaser}
+Protected_Data={_Protected_Data}
 
-Purchasers.Target={_Purchasers}
+Purchase_Agreement={_Purchase_Agreement}
 
-Purchaser's.Target={_Purchaser's}
+Purchaser={_Purchaser}
 
-QPO.Target={_QPO}
+Purchasers={_Purchasers}
 
-QSBS.Target={_QSBS}
+Purchaser's={_Purchaser's}
 
-QSBS-Checklist.Target={_QSBS-Checklist}
+QPO={_QPO}
 
-Redemption_Date.Target={_Redemption_Date}
+QSBS={_QSBS}
 
-Redemption_Notice.Target={_Redemption_Notice}
+QSBS-Checklist={_QSBS-Checklist}
 
-Redemption_Price.Target={_Redemption_Price}
+Redemption_Date={_Redemption_Date}
 
-Registrable_Securities.Target={_Registrable_Securities}
+Redemption_Notice={_Redemption_Notice}
 
-Registrable_Securities_then_outstanding.Target={_Registrable_Securities_then_outstanding}
+Redemption_Price={_Redemption_Price}
 
-Requisite_Holders.Target={_Requisite_Holders}
+Registrable_Securities={_Registrable_Securities}
 
-Restated_Certificate.Target={_Restated_Certificate}
+Registrable_Securities_then_outstanding={_Registrable_Securities_then_outstanding}
 
-Restricted_Securities.Target={_Restricted_Securities}
+Requisite_Holders={_Requisite_Holders}
 
-Right_of_First_Refusal_and_Co-Sale_Agreement.Target={_Right_of_First_Refusal_and_Co-Sale_Agreement}
+Restated_Certificate={_Restated_Certificate}
 
-Rule_506(d)_Related_Party.Target={_Rule_506(d)_Related_Party}
+Restricted_Securities={_Restricted_Securities}
 
-SAFE.Target={_SAFE}
+Right_of_First_Refusal_and_Co-Sale_Agreement={_Right_of_First_Refusal_and_Co-Sale_Agreement}
 
-Sale_of_the_Company.Target={_Sale_of_the_Company}
+Rule_506(d)_Related_Party={_Rule_506(d)_Related_Party}
 
-Sarbanes-Oxley_Act.Target={_Sarbanes-Oxley_Act}
+SAFE={_SAFE}
 
-SBIC_Purchaser.Target={_SBIC_Purchaser}
+Sale_of_the_Company={_Sale_of_the_Company}
 
-SEC.Target={_SEC}
+Sarbanes-Oxley_Act={_Sarbanes-Oxley_Act}
 
-SEC_Rule_144.Target={_SEC_Rule_144}
+SBIC_Purchaser={_SBIC_Purchaser}
 
-SEC_Rule_145.Target={_SEC_Rule_145}
+SEC={_SEC}
 
-Second_Preferred_Series_A_Investor_Designee.Target={_Second_Preferred_Series_A_Investor_Designee}
+SEC_Rule_144={_SEC_Rule_144}
 
-Securities_Act.Target={_Securities_Act}
+SEC_Rule_145={_SEC_Rule_145}
 
-Selling_Expenses.Target={_Selling_Expenses}
+Second_Preferred_Series_A_Investor_Designee={_Second_Preferred_Series_A_Investor_Designee}
 
-Selling_Holder_Counsel.Target={_Selling_Holder_Counsel}
+Securities_Act={_Securities_Act}
 
-Selling_Investors.Target={_Selling_Investors}
+Selling_Expenses={_Selling_Expenses}
 
-Series_A_Preferred.Target={_Series_A_Preferred}
+Selling_Holder_Counsel={_Selling_Holder_Counsel}
 
-Series_A_Preferred_Stock.Target={_Series_A_Preferred_Stock}
+Selling_Investors={_Selling_Investors}
 
-Series_A_Preferred_Director.Target={_Series_A_Preferred_Director}
+Series_A_Preferred={_Series_A_Preferred}
 
-Series_B_Preferred_Director.Target={_Series_B_Preferred_Director}
+Series_A_Preferred_Stock={_Series_A_Preferred_Stock}
 
-Shares.Target={_Shares}
+Series_A_Preferred_Director={_Series_A_Preferred_Director}
 
-Stock_Plan.Target={_Stock_Plan}
+Series_B_Preferred_Director={_Series_B_Preferred_Director}
 
-Stock_Sale.Target={_Stock_Sale}
+Shares={_Shares}
 
-Stockholder_Representative.Target={_Stockholder_Representative}
+Stock_Plan={_Stock_Plan}
 
-Stockholders.Target={_Stockholders}
+Stock_Sale={_Stock_Sale}
 
-Tokens.Target={_Tokens}
+Stockholder_Representative={_Stockholder_Representative}
 
-Transaction_Agreements.Target={_Transaction_Agreements}
+Stockholders={_Stockholders}
 
-Voting_Agreement.Target={_Voting_Agreement}
+Tokens={_Tokens}
+
+Transaction_Agreements={_Transaction_Agreements}
+
+Voting_Agreement={_Voting_Agreement}
 
 CoderSuggested=
 
-Series_Prior_Preferred_Stock.Target={_Series_Prior_Preferred_Stock}
+Series_Prior_Preferred_Stock={_Series_Prior_Preferred_Stock}
 
 
 From CFIUS Insert:=
 
-CFIUS.Target={_CFIUS}
+CFIUS={_CFIUS}
 
-Covered_Transaction.Target={_Covered_Transaction}
+Covered_Transaction={_Covered_Transaction}
 
-DPA.Target={_DPA}
+DPA={_DPA}
 
-Foreign_Person.Target={_Foreign_Person}
+Foreign_Person={_Foreign_Person}
 
-Foreign_Person_LP.Target={_Foreign_Person_LP}
+Foreign_Person_LP={_Foreign_Person_LP}
 
-LP_Affiliate.Target={_LP_Affiliate}
+LP_Affiliate={_LP_Affiliate}
 
-Material_Nonpublic_Technical_Information.Target={_Material_Nonpublic_Technical_Information}
+Material_Nonpublic_Technical_Information={_Material_Nonpublic_Technical_Information}
 
-Non-Foreign_Person_LP.Target={_Non-Foreign_Person_LP}
+Non-Foreign_Person_LP={_Non-Foreign_Person_LP}
 
-Portfolio_Investment.Target={_Portfolio_Investment}
+Portfolio_Investment={_Portfolio_Investment}
 
-Substantial_Interest.Target={_Substantial_Interest}
+Substantial_Interest={_Substantial_Interest}
 
 From ROFR:
 
 FROM ROFR:
 
-Board_of_Directors.Target={_Board_of_Directors}
+Board_of_Directors={_Board_of_Directors}
 
-Capital_Stock.Target={_Capital_Stock}
+Capital_Stock={_Capital_Stock}
 
-Change_of_Control.Target={_Change_of_Control}
+Change_of_Control={_Change_of_Control}
 
-Common_Stock.Target={_Common_Stock}
+Common_Stock={_Common_Stock}
 
 Common.Par.sec={_Common.}
 
-Company_Notice.Target={_Company_Notice}
+Company_Notice={_Company_Notice}
 
-DPA.Target={_DPA}
+Delaware_Court={_Delaware_Court}
 
-DPA_Triggering_Rights.Target={_DPA_Triggering_Rights}
+DPA={_DPA}
 
-Foreign_Person.Target={_Foreign_Person}
+DPA_Triggering_Rights={_DPA_Triggering_Rights}
 
-Investor_Notice.Target={_Investor_Notice}
+Expenses={_Expenses}
 
-Investors.Target={_Investors}
+Foreign_Person={_Foreign_Person}
 
-Key_Holders.Target={_Key_Holders}
+Investor_Notice={_Investor_Notice}
 
-Preferred_Stock.Target={_Preferred_Stock}
+Investors={_Investors}
 
-Proposed_Key_Holder_Transfer.Target={_Proposed_Key_Holder_Transfer}
+Key_Holders={_Key_Holders}
 
-Proposed_Transfer_Notice.Target={_Proposed_Transfer_Notice}
+Preferred_Stock={_Preferred_Stock}
 
-Prospective_Transferee.Target={_Prospective_Transferee}
+Proposed_Key_Holder_Transfer={_Proposed_Key_Holder_Transfer}
 
-Restated_Certificate.Target={_Restated_Certificate}
+Proposed_Transfer_Notice={_Proposed_Transfer_Notice}
 
-Right_of_Co-Sale.Target={_Right_of_Co-Sale}
+Prospective_Transferee={_Prospective_Transferee}
 
-Right_of_First_Refusal.Target={_Right_of_First_Refusal}
+Restated_Certificate={_Restated_Certificate}
 
-Secondary_Notice.Target={_Secondary_Notice}
+Right_of_Co-Sale={_Right_of_Co-Sale}
 
-Secondary_Refusal_Right.Target={_Secondary_Refusal_Right}
+Right_of_First_Refusal={_Right_of_First_Refusal}
 
-Transfer_Stock.Target={_Transfer_Stock}
+Secondary_Notice={_Secondary_Notice}
 
-Undersubscription_Notice.Target={_Undersubscription_Notice}
+Secondary_Refusal_Right={_Secondary_Refusal_Right}
 
-DGCL.Target={_DGCL}
+Transfer_Stock={_Transfer_Stock}
+
+Undersubscription_Notice={_Undersubscription_Notice}
+
+DGCL={_DGCL}
+
+Recipient={_Recipient}
+
+Parties={_Parties}
+
+Confidential_Information={_Confidential_Information}
+

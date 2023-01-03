@@ -1,91 +1,91 @@
 Support:=
 
-Affiliate.Target={_Affiliate}
+Affiliate={_Affiliate}
 
-Control.Target={_Control}
+Control={_Control}
 
-Active_Ingredient.Target={_Active_Ingredient}
+Active_Ingredient={_Active_Ingredient}
 
-Change_of_Control.Target={_Change_of_Control}
+Change_of_Control={_Change_of_Control}
 
-Combination_Product.Target={_Combination_Product}
+Combination_Product={_Combination_Product}
 
-Commercially_Reasonable_Efforts.Target={_Commercially_Reasonable_Efforts}
+Commercially_Reasonable_Efforts={_Commercially_Reasonable_Efforts}
 
-Cover.Target={_Cover}
+Cover={_Cover}
 
-Covered_by.Target={_Covered_by}
+Covered_by={_Covered_by}
 
-CY.Target={_CY}
+CY={_CY}
 
-Distributor.Target={_Distributor}
+Distributor={_Distributor}
 
-Effective_Date.Target={_Effective_Date}
+Effective_Date={_Effective_Date}
 
-First_Commercial_Sale.Target={_First_Commercial_Sale}
+First_Commercial_Sale={_First_Commercial_Sale}
 
-Know-How_Product.Target={_Know-How_Product}
+Know-How_Product={_Know-How_Product}
 
-Licensed_Compound.Target={_Licensed_Compound}
+Licensed_Compound={_Licensed_Compound}
 
-Licensed_Know-How.Target={_Licensed_Know-How}
+Licensed_Know-How={_Licensed_Know-How}
 
-Licensed_Products.Target={_Licensed_Products}
+Licensed_Products={_Licensed_Products}
 
-Licensed_Technology.Target={_Licensed_Technology}
+Licensed_Technology={_Licensed_Technology}
 
-Other_Components.Target={_Other_Components}
+Other_Components={_Other_Components}
 
-Patent_Challenge.Target={_Patent_Challenge}
+Patent_Challenge={_Patent_Challenge}
 
-Licensee_Patents.Target={_Licensee_Patents}
+Licensee_Patents={_Licensee_Patents}
 
-Patent_Products.Target={_Patent_Products}
+Patent_Products={_Patent_Products}
 
-Regulatory_Exclusivity.Target={_Regulatory_Exclusivity}
+Regulatory_Exclusivity={_Regulatory_Exclusivity}
 
-Selling_Party.Target={_Selling_Party}
+Selling_Party={_Selling_Party}
 
-Sublicense.Target={_Sublicense}
+Sublicense={_Sublicense}
 
-Sublicensee.Target={_Sublicensee}
+Sublicensee={_Sublicensee}
 
-Sublicensing_Income.Target={_Sublicensing_Income}
+Sublicensing_Income={_Sublicensing_Income}
 
-Valid_Claim.Target={_Valid_Claim}
+Valid_Claim={_Valid_Claim}
 
-License_Agreement.Target={_License_Agreement}
+License_Agreement={_License_Agreement}
 
-Licensor.Target={_Licensor}
+Licensor={_Licensor}
 
-Licensee.Target={_Licensee}
+Licensee={_Licensee}
 
-Territory.Target={_Territory}
+Territory={_Territory}
 
-Patent_Rights.Target={_Patent_Rights}
+Patent_Rights={_Patent_Rights}
 
-Improvement.Target={_Improvement}
+Improvement={_Improvement}
 
-Fully-Diluted_Basis.Target={_Fully-Diluted_Basis}
+Fully-Diluted_Basis={_Fully-Diluted_Basis}
 
-Dilution_Cap.Target={_Dilution_Cap}
+Dilution_Cap={_Dilution_Cap}
 
-Assignee.Target={_Assignee}
+Assignee={_Assignee}
 
-Development_Milestone_Payment.Target={_Development_Milestone_Payment}
+Development_Milestone_Payment={_Development_Milestone_Payment}
 
-Development_Milestone.Target={_Development_Milestone}
+Development_Milestone={_Development_Milestone}
 
-Royalty_Term.Target={_Royalty_Term}
+Royalty_Term={_Royalty_Term}
 
-Diligence_Milestone.Target={_Diligence_Milestone}
+Diligence_Milestone={_Diligence_Milestone}
 
-Achievement_Date.Target={_Achievement_Date}
+Achievement_Date={_Achievement_Date}
 
-Extension_Fee.Target={_Extension_Fee}
+Extension_Fee={_Extension_Fee}
 
-Patent_Costs.Target={_Patent_Costs}
+Patent_Costs={_Patent_Costs}
 
-Bayh_Dole_Act.Target={_Bayh_Dole_Act}
+Bayh_Dole_Act={_Bayh_Dole_Act}
 
-Standard_Dispute_Resolution.Target={_Standard_Dispute_Resolution}
+Standard_Dispute_Resolution={_Standard_Dispute_Resolution}
