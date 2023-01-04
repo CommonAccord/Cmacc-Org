@@ -25,9 +25,9 @@ Def.sec=<ol><li>{DefT.CFIUS.sec}</li><li>{Def.Covered_Transaction.sec}</li><li>{
 Def.=[G/Z/Base]
 
 
-Def.=[G/NVCA/2020/Binder/Z/Def/Target.md]
+Def.=[G/NVCA/2020/Share/Z/Def/Target.md]
 
-_=[G/NVCA/2020/Binder/Z/Def/Link.md]
+_=[G/NVCA/2020/Share/Z/Def/Link.md]
 
 _!!!=#
 
