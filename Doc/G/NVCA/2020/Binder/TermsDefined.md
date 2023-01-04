@@ -6,7 +6,7 @@ Code.sec=“{DefT.Code}” means the Internal Revenue Code of 1986, as amended.
 
 Company_Intellectual_Property.0.sec=“{DefT.Company_Intellectual_Property}” means all
 
-Company_Intellectual_Property.1.sec=patents, patent applications, registered and unregistered trademarks, trademark applications, registered and unregistered service marks, service mark applications, tradenames, copyrights, trade secrets, domain names, {DefT.Company_Intellectual_Property.Includes.mask_works.Yes/No} information and proprietary rights and processes, similar or other intellectual property rights,
+Company_Intellectual_Property.1.sec=patents, patent applications, registered and unregistered trademarks, trademark applications, registered and unregistered service marks, service mark applications, tradenames, copyrights, trade secrets, domain names, {Company_Intellectual_Property.Includes.mask_works.Yes/No} information and proprietary rights and processes, similar or other intellectual property rights,
 
 Company_Intellectual_Property.Includes.mask_works.Yes=mask works,
 
