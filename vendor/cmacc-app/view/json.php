@@ -20,11 +20,11 @@ foreach($contents as $n) {
 if(preg_match('/\[(.+?)\]/', $v, $matches)) {
  
    if(strlen($k) > 0){
-     $vlink = "\"<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$matches[1]</a>\"" ;
+     $vlink = "\"<a href=$_SERVER[PHP_SELF]?v=j&f=$matches[1]>$matches[1]</a>\"" ;
      $text = $text . "[ \"$k\" : $vlink ] , "; 
    }
    else{ 
-     $vlink = "\"\" : \"<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$matches[1]</a>\""; 
+     $vlink = "\"\" : \"<a href=$_SERVER[PHP_SELF]?v=j&f=$matches[1]>$matches[1]</a>\""; 
      $text = $text . "[ $vlink ] , "; 
    }
 }

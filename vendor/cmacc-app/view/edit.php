@@ -18,7 +18,7 @@ include("$lib_path/view-tabs.php");
 <div id="tab-edit">
 
 <?php
-echo "<form action=$_SERVER[PHP_SELF] method='post'>
+echo "<form v=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=120 rows=23 name='newcontent' style='font-size: 16px; padding:10px;'>";
 
 echo file_get_contents($path.$dir, FILE_USE_INCLUDE_PATH);
