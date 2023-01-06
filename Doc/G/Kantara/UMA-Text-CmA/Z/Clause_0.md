@@ -1,4 +1,4 @@
-Model.Root={Page}
+r00t={Page}
 
 Page=<b>Title:</b> {Title}<br><br><b>Text:</b> {Text}<br><br><b>Comments:</b> {Comments} {Issues}
 

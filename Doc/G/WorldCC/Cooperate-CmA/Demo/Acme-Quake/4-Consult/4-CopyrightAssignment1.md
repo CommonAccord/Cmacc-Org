@@ -22,7 +22,7 @@ P2.Sign.YMD=2017-05-26
 
 Copyright.=[G/WorldCC/Cooperate-CmA/Form/Annex/CopyrightAssignment/0.md]
 
-Model.Root={Copyright.Sec}
+r00t={Copyright.Sec}
 
 //=Master contract:
 

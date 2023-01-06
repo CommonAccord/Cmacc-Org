@@ -46,10 +46,10 @@ $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
         $v = str_replace('x2x{', ' class=expand >' , $v ) ;
     
         echo "<tr id=$k>" ;
-        # enabling hyperlinks from the key.  If "foo." then make it "foo.Model.Root", else just use the key.
-        # The key ends in a "." and therefore we render the default content of the target object (Model.Root)
+        # enabling hyperlinks from the key.  If "foo." then make it "foo.r00t", else just use the key.
+        # The key ends in a "." and therefore we render the default content of the target object (r00t)
         if((substr($k, -1)==".") && (!preg_match('/\s/', $k))){
-       	        $klink="<a class='expand' href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=$k" . "Model.Root >$k</a>" ;
+       	        $klink="<a class='expand' href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=$k" . "r00t >$k</a>" ;
         }
         # The key does not end in "." so we render the key.
         # We will make each key into a hyperlink to the key's content. But if the key has a space in it, then we don't want to make it a hyperlink.

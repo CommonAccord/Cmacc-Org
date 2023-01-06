@@ -18,16 +18,16 @@ _=[G/SeriesSeed-Cooley-CmA/Sec/DefinedTerm/0.md]
 
 Def.=[G/SeriesSeed-Cooley-CmA/Sec/DefinedTerm-Inline/0.md]
 
-//=Then select what document or documents (or Section of a document) you want to see.  Remove the / in front of the "Model.Root" that you want (if there is more than one, the first clean "Model.Root" is the one that is taken, as always).  Click on "Edit" above, take out the / from in front of the Model.Root you want to see.  Don't worry about wrecking things, the site gets updated from Github. (Click on "GitHub" above to see the source.
+//=Then select what document or documents (or Section of a document) you want to see.  Remove the / in front of the "r00t" that you want (if there is more than one, the first clean "r00t" is the one that is taken, as always).  Click on "Edit" above, take out the / from in front of the r00t you want to see.  Don't worry about wrecking things, the site gets updated from Github. (Click on "GitHub" above to see the source.
 
-/Model.Root={TermSheet.Sec}  
+/r00t={TermSheet.Sec}  
 
-/Model.Root={TermsOfPreferred.Sec}  
+/r00t={TermsOfPreferred.Sec}  
 
-/Model.Root={BoardConsent.Sec}
+/r00t={BoardConsent.Sec}
   
-/Model.Root={Seed.1.Questionnaire.Sec}
+/r00t={Seed.1.Questionnaire.Sec}
 
-Model.Root={PromissoryNote.Sec}
+r00t={PromissoryNote.Sec}
   
-Model.Root=<ol><li>{TermSheet.Sec}<hr><hr><li>{PromissoryNote.Sec}<hr><hr><li>{BoardConsent.Sec}<hr><hr><li>{Seed.1.Questionnaire.Sec}</ol>
+r00t=<ol><li>{TermSheet.Sec}<hr><hr><li>{PromissoryNote.Sec}<hr><hr><li>{BoardConsent.Sec}<hr><hr><li>{Seed.1.Questionnaire.Sec}</ol>

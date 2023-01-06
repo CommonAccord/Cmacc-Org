@@ -32,7 +32,7 @@ ES.=[F/ES/00/Agt/Base/Frame/2Parties/0.md]
 
 Note=This is a table that is completed with the four.
 
-Model.Root=<table border=1><tr><td valign="top">{PL.Model.Root}</td><td valign="top">{FR.Model.Root}</td></tr><tr><td valign="top">{US.Model.Root}</td><td valign="top">{NL.Model.Root}</td></tr><tr><td valign="top">{ES.Model.Root}</td></tr></table> 
+r00t=<table border=1><tr><td valign="top">{PL.r00t}</td><td valign="top">{FR.r00t}</td></tr><tr><td valign="top">{US.r00t}</td><td valign="top">{NL.r00t}</td></tr><tr><td valign="top">{ES.r00t}</td></tr></table> 
 
 xSignature=_____________  
 

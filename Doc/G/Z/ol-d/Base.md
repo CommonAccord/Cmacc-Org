@@ -1,4 +1,4 @@
-Model.Root={Sec}
+r00t={Sec}
 
 LI=<li>{Sec}</li>
 

@@ -30,6 +30,6 @@ Def.=[G/SeriesSeed-Cooley-CmA/equity/Preferred_Stock_Investment_Agreement/Annex/
 Def.=[G/SeriesSeed-Cooley-CmA/Sec/DefinedTerm-Inline/0.md]  
 
 
-Model.Root={TermSheet.Sec}  
+r00t={TermSheet.Sec}  
 
 AllDocs=<ol><li>{TermSheet.Sec}<hr><hr><li>{PurchaseAgreement.Sec}<hr><hr><li>{BoardConsent.Sec}<hr><hr><li>{Seed.1.Questionnaire.Sec}<hr><hr><li>{BoardMinutes.Sec}<hr><hr><li>{RestatedCertificate.Sec}<hr><hr><li>{StockholderConsent.Sec}</ol>

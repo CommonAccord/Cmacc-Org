@@ -2,7 +2,7 @@ Ti=Definitions and interpretation
 
 =[G/AgtForm/]
 0.sec=As used in this Agreement, the capitalised expressions will have the following meanings unless the context requires otherwise:
-Model.Root={!!wfwre!!}
+r00t={!!wfwre!!}
 !!wfwre!!=Here is a test of the wfwre macro.
 
 1.sec=“Agreement” means this collaboration agreement, containing the Clauses and Schedules

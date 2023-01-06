@@ -42,7 +42,7 @@ ASO-RSO.RSO-Satisfies-ASO-Credentials-Requirements.Condition=When the {Resource_
 ASO-RSO.RSO-Satisfies-ASO-Credentials-Requirements.=[G/Kantara/UMA-Text-CmA/Z/Clause_0.md]
 
 
-Model.Root=<ol><li>{RSO-ASO.Role-Establishment.Sec}<li>{RSO-AuthzP.Role-Establishment.Sec}<li>{ASO-AuthzP.Role-Establishment.Sec}<li>{RO-RSO.RSO-Accepts-RO-Choice-Of-ASO.Sec}<li>{RO-RS.No-Default-AS.Sec}<li>{ASO-RSO.RSO-Satisfies-ASO-Credentials-Requirements.Sec}</ol>
+r00t=<ol><li>{RSO-ASO.Role-Establishment.Sec}<li>{RSO-AuthzP.Role-Establishment.Sec}<li>{ASO-AuthzP.Role-Establishment.Sec}<li>{RO-RSO.RSO-Accepts-RO-Choice-Of-ASO.Sec}<li>{RO-RS.No-Default-AS.Sec}<li>{ASO-RSO.RSO-Satisfies-ASO-Credentials-Requirements.Sec}</ol>
 
 =[G/Kantara/UMA-Text-CmA/Terminology/ParameterizedTerms_0.md]
 

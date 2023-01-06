@@ -18,7 +18,7 @@ P2.Sign.YMD=2017-05-28
 
 Patent.=[G/WorldCC/Cooperate-CmA/Form/Annex/PatentAssignment/0.md]
 
-Model.Root={Patent.Sec}
+r00t={Patent.Sec}
 
 //=Master contract:
 

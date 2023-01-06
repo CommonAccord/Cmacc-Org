@@ -1,4 +1,4 @@
 DE_EN.=[G/GA4GH/WiP/Consent/In/Compare/Compare_DE_EN]
 FR_EN.=[G/GA4GH/WiP/Consent/In/Compare/Compare_FR_EN]
 
-Model.Root=<b>German:</b>{DE_EN.Model.Root}<hr><hr><br>French:</b>{FR_EN.Model.Root}
+r00t=<b>German:</b>{DE_EN.r00t}<hr><hr><br>French:</b>{FR_EN.r00t}

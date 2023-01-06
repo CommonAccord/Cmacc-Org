@@ -25,7 +25,7 @@ jname={Data \& Policy}
 %\doi{2190-8567}
 \raggedbottom
 
-Model.Root={document}
+r00t={document}
 
 document={Frontmatter}{Section}
 

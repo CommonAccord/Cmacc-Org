@@ -20,6 +20,6 @@ Company.RegisteredAgent.=[G/U/Who/the_corporation_company.md]
 
 Series.=[G/Open-Source-Law/PO/DE_Series_LLC_Operating_Agreement.md]
 
-Model.Root=<ol><li><b>Master:</b><br> {Master.Model.Root}</li><li><b>Series:</b><br> {Series.Model.Root}
+r00t=<ol><li><b>Master:</b><br> {Master.r00t}</li><li><b>Series:</b><br> {Series.r00t}
 
 

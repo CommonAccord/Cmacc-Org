@@ -26,4 +26,4 @@ Description=longitudinal study of latitudinal aphasia
 
 Duration.Expected=3 years
 
-Model.Root=<ol><li><b>Contact</b><br>{Contact.N/1/2}</li><li><b>Principal Investigator</b><br>{Inv1.N/1/2}</li><li><b>Ombudsman</b><br>{Ombuds.N/1/2}</li><li><b>Personal Data Officer</b><br>{PDO.N/1/2}</li><li><b>Organization</b><br>{Org.N/1/2}</li><li><b>Funder</b><br>{Funder.N/1/2}</li></ol>
+r00t=<ol><li><b>Contact</b><br>{Contact.N/1/2}</li><li><b>Principal Investigator</b><br>{Inv1.N/1/2}</li><li><b>Ombudsman</b><br>{Ombuds.N/1/2}</li><li><b>Personal Data Officer</b><br>{PDO.N/1/2}</li><li><b>Organization</b><br>{Org.N/1/2}</li><li><b>Funder</b><br>{Funder.N/1/2}</li></ol>

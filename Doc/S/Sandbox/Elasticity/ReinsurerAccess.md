@@ -8,7 +8,7 @@ When=at all reasonable times for the purpose of obtaining information
 
 Purpose=concerning this {_Contract} or the subject matter hereof
 
-Model.Root={Who} shall have {What} {Scope} {When} {Purpose}.
+r00t={Who} shall have {What} {Scope} {When} {Purpose}.
 
 _Company=Company
 

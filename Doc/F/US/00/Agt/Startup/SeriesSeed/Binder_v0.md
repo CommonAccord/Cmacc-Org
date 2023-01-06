@@ -13,4 +13,4 @@ Investor.3.=[F/US/00/Agt/Startup/SeriesSeed/TermSheet/TableRow_v0.md]
 
 Investor.4.=[F/US/00/Agt/Startup/SeriesSeed/TermSheet/TableRow_v0.md]
   
-Model.Root=<ol><li>{TermSheet.Doc}<li>{Invest.Doc}<li>{Incorp.Doc}</ol>
+r00t=<ol><li>{TermSheet.Doc}<li>{Invest.Doc}<li>{Incorp.Doc}</ol>

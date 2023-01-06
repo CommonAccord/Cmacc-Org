@@ -2,4 +2,4 @@
 2.=[G/GA4GH/Demo/Roberta_Robinson_US]
 3.=[G/GA4GH/Demo/Geraldine_Graber_DE]
 
-Model.Root=<ol><li>{1.Doc.Sign}</li><li>{2.Doc.Sign}</li><li>{3.Doc.Sign}</li></ol>
+r00t=<ol><li>{1.Doc.Sign}</li><li>{2.Doc.Sign}</li><li>{3.Doc.Sign}</li></ol>

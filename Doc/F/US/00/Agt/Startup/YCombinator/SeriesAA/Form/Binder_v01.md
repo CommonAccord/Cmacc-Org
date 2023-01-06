@@ -1,4 +1,4 @@
-Model.Root=<ul><li><hr>{BC.Model.Root}<li><hr>{COI.Model.Root}<li><hr>{IRA.Model.Root}<li><hr>{SPA.Model.Root}<li><hr>{SC.Model.Root}</ul>
+r00t=<ul><li><hr>{BC.r00t}<li><hr>{COI.r00t}<li><hr>{IRA.r00t}<li><hr>{SPA.r00t}<li><hr>{SC.r00t}</ul>
 
 
 BC.=[F/US/00/Agt/Startup/YCombinator/SeriesAA/Form/BoardConsent_v01.md]

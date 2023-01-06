@@ -6,7 +6,7 @@ Note=Section text (sec) can be a simple text provided by the user, or it can be 
 
 sec={0.sec}{xlist}{00.sec}
 
-Model.Root={Sec}
+r00t={Sec}
 
 LI=<li>{Sec}</li>
 

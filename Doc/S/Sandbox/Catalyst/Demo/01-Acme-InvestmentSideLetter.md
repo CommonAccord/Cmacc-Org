@@ -28,4 +28,4 @@ T&C.=[S/Sandbox/Catalyst/InvestmentTermsAndConditions/Form/0.md]
 
 Attach.1.Title=Annex 1
 
-Model.Root={Letter.Sec}<hr><hr><h2>{Attach.1.Title}</h2>{T&C.Sec}
+r00t={Letter.Sec}<hr><hr><h2>{Attach.1.Title}</h2>{T&C.Sec}
