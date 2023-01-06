@@ -188,7 +188,7 @@ FOIA.Party.Board.Determination.Alt2=determination
 
 FOIA.Party.Board.Determination.AltPrompt=</>
 
-FOIA.Party.Board.Determination.SecName=FOIA.Party.Board.Determination.
+FOIA.Party.Board.Determination.SecName={SecName}FOIA.Party.Board.Determination.
 
 FOIA.Party.Board.Determination.=[G/Z/AltLine/2]
 

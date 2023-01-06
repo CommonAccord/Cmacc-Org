@@ -38,7 +38,7 @@ Closing=<a href='{!!!}DefT.Closing' class='definedterm'>Closing</a>
 
 Code=<a href='{!!!}DefT.Code' class='definedterm'>Code</a>
 
-Common_Director=<a href='{!!!}DefT.Common_Director' class='definedterm'>Common_Director</a>
+Common_Director=<a href='{!!!}DefT.Common_Director' class='definedterm'>Common Director</a>
 
 Common_Stock=<a href='{!!!}DefT.Common_Stock' class='definedterm'>Common Stock</a>
 
@@ -385,3 +385,20 @@ Undersubscription_Notice=<a href='{!!!}DefT.Undersubscription_Notice' class='def
 Recipient=<a href='{!!!}DefT.Recipient' class='definedterm'>Recipient</a>
 
 Parties=<a href='{!!!}DefT.Parties' class='definedterm'>Parties</a>
+
+Balance_Sheet_Date=<a href='{!!!}DefT.Balance_Sheet_Date' class='definedterm'>Balance Sheet Date</a>
+
+Small_Business_Act=<a href='{!!!}DefT.Small_Business_Act' class='definedterm'>Small Business Act</a>
+
+
+From Voting Sample Rights:=
+
+Sale_Process=<a href='{!!!}DefT.Sale_Process' class='definedterm'>Sale Process</a>
+
+Holder_Representative=<a href='{!!!}DefT.Holder_Representative' class='definedterm'>Holder Representative</a>
+
+Financial_Advisor=<a href='{!!!}DefT.Financial_Advisor' class='definedterm'>Financial Advisor</a>
+
+Deal_Counsel=<a href='{!!!}DefT.Deal_Counsel' class='definedterm'>Deal Counsel</a>
+
+Preferred_Redemption=<a href='{!!!}DefT.Preferred_Redemption' class='definedterm'>Preferred Redemption</a>
