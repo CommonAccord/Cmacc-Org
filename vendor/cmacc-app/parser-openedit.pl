@@ -100,11 +100,11 @@ elsif($ARGV[2] eq "b") {
 	print "$_=$_\n" foreach @arr;
 	}
 elsif($ARGV[2] eq "d") {
-	print "$_=<a href='{!!!}DefT." . substr($_, 1)."' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
+	print substr($_, 1) . "=<a href='{!!!}DefT." . substr($_, 1)."' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 	}
 #ToDo: test this ????
 elsif($ARGV[2] eq "t") {
-	print "$_=\{_" . substr($_, 5) ."\}\n" foreach @arr;
+	print substr($_, 5). "=\{_" . substr($_, 5) ."\}\n" foreach @arr;
 	}
 elsif($ARGV[2] eq "tli") {
 	print "<li>\{Def." . substr($_, 5) .".sec\}</li>" foreach @arr;
