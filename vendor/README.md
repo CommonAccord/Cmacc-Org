@@ -17,6 +17,7 @@ To make a Cmacc (ProseObject) website:
 
 Helpful coding notes:
 
-To replace defined terms with {DefT.*}:  replace: “([\w \s]*)” with: “{DefT.$1}”.  But still need to replace spaces with underscores
+To replace defined terms with {DefT.*}:  use VSCode's search and replace with regex option (include the special quotes if that is how definitions are marked in the text): “([\w \s]*)” with: “{DefT.$1}”.  But still need to replace spaces with underscores.  Afterwards, \{DefT.[\w ]*( )[\w]*\} will find all the new defined terms that have spaces in them.  Haven't figured out yet how to replace the spaces with underscores. 
+
 
 

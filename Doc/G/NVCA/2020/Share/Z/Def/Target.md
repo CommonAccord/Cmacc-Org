@@ -12,6 +12,8 @@ Additional_Shares={_Additional_Shares}
 
 Additional_Shares_of_Common_Stock={_Additional_Shares_of_Common_Stock}
 
+Adoption_Agreement={_Adoption_Agreement}
+
 Affiliate={_Affiliate}
 
 Agreement={_Agreement}
@@ -418,3 +420,7 @@ Financial_Advisor={_Financial_Advisor}
 Deal_Counsel={_Deal_Counsel}
 
 Preferred_Redemption={_Preferred_Redemption}
+
+Requisite_Preferred_Director_Vote={_Requisite_Preferred_Director_Vote}
+
+Budget={_Budget}
