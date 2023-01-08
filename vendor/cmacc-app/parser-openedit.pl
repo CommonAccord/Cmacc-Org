@@ -92,6 +92,10 @@ my $output  = parse($ARGV[0], $ARGV[1]);
 my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 @arr = grep { ! $seen{$_}++ } @arr;
 
+$d_term =  $ARGV[2];
+
+$d_term =~ tr/a/z/;
+
 # select one:
 if($ARGV[2] eq "a") {
 	print "$_=" foreach @arr;
