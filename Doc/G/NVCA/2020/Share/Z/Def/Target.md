@@ -424,3 +424,20 @@ Preferred_Redemption={_Preferred_Redemption}
 Requisite_Preferred_Director_Vote={_Requisite_Preferred_Director_Vote}
 
 Budget={_Budget}
+
+Dispute={_Dispute}
+
+DRAA={_DRAA}
+
+Arbitration={_Arbitration}
+
+Arbitrator={_Arbitrator}
+
+Replacement_Arbitrator={_Replacement_Arbitrator}
+
+Award={_Award}
+
+Stock={_Stock}
+
+Options={_Options}
+

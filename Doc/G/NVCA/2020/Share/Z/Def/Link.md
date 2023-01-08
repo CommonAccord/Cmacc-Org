@@ -422,3 +422,7 @@ Undersubscription_Notice=<a href='{!!!}DefT.Undersubscription_Notice' class='def
 
 Voting_Agreement=<a href='{!!!}DefT.Voting_Agreement' class='definedterm'>Voting Agreement</a>
 
+Replacement_Arbitrator=<a class='definedterm' href='{!!!}DefT.Replacement_Arbitrator'>Replacement Arbitrator</a>
+
+Holder=<a class='definedterm' href='{!!!}DefT.Holder'>Holder</a>
+
