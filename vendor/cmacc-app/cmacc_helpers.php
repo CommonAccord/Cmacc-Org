@@ -10,7 +10,7 @@ if (!isset($_REQUEST[VIEW])) {
 }
 
 if (!isset($_REQUEST[KEYNAME])) {
-    $_REQUEST[KEYNAME] = "Model.Root";
+    $_REQUEST[KEYNAME] = "r00t";
 }
 
 if (isset($_REQUEST[FILENAME])) {

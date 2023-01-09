@@ -92,9 +92,6 @@ my $output  = parse($ARGV[0], $ARGV[1]);
 my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 @arr = grep { ! $seen{$_}++ } @arr;
 
-$d_term =  $ARGV[2];
-
-$d_term =~ tr/a/z/;
 
 # select one:
 if($ARGV[2] eq "a") {
@@ -104,7 +101,7 @@ elsif($ARGV[2] eq "b") {
 	print "$_=$_\n" foreach @arr;
 	}
 elsif($ARGV[2] eq "d") {
-	print substr($_, 1) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 1) . "'>". substr($_, 1) . "</a>\n" foreach @arr;
+	print substr($_, 1) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 1) . "'>". substr($_ , 1) . "</a>\n" foreach @arr;
 	}
 #ToDo: test this ????
 elsif($ARGV[2] eq "t") {
