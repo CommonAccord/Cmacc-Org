@@ -441,3 +441,6 @@ Stock={_Stock}
 
 Options={_Options}
 
+First_Preferred_Investor_Designee={_First_Preferred_Investor_Designee}
+
+Second_Preferred_Investor_Designee={_Second_Preferred_Investor_Designee}

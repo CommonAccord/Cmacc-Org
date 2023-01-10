@@ -12,7 +12,9 @@ IRA.InvestorAccess.=[G/NVCA/2020/IRA/Sec/InformationAccess/Overrides-ToRemoveObs
 
 IRA.=[G/NVCA/2020/IRA/Form/0.md]
 
-Voting.=[G/NVCA/2020/Voting/Form/0.md]
+Note=The Voting Agreement is referenced with a particular configuration of the Board. It demonstrates one way to create (and maintain) a series of use-cases shaping the form.
+
+Voting.=[G/NVCA/2020/Voting/Form/VariantWithBoardChoices.md]
 
 CDA.=[G/NVCA/2020/LifeScience/LS-CDA/Form/0.md]
 
@@ -194,6 +196,27 @@ Investors.Counsel.Fee.Max.$=$30,000
 
 Noncompete.KeyEmployee.Duration.year=one year
 
+
+Investor.1.Designee.Name.Full=Frances Frank
+
+Investor.1.DirectorAppointment.SharesAtLeast.#=2%
+
+Investor.1.Director.Name.Full=Daniel Dill
+
+Investor.2.Designee.Name.Full=Fiona Fidelis
+
+Investor.2.DirectorAppointment.SharesAtLeast.#={Investor.1.DirectorAppointment.SharesAtLeast.#}
+
+Investor.2.Director.Name.Full=Diana Deliberante
+
+KeyHolder.Director.Name.Full=Klaus Koenig
+
+Company.CEO.Name.Full=Charlene E. O’Connor
+
+Contract.Life.EndDate.YMD=2025-12-31
+
+Adoption.EffectiveDate.YMD={ClosingDate.YMD}
+
 Financial.Quarter.FirstAfterClosing.EndDate.YMD=2023-03-31
 
 Conf.Life.TimePeriod.Duration=three years
@@ -270,7 +293,7 @@ TermSheet.Offer.Raise.Convert.sec={TermSheet.Offer.Raise.Convert.SAFEs.sec}
 
 TermSheet.Voting.Board.1.sec={TermSheet.Voting.Board.1.DesignatedByLeadInvestor.sec}
 
-TermSheet.Voting.DragAlong.CommonRequiredToSignIfHoldingAtLeast.%=1%
+TermSheet.Voting.DragAlong.CommonRequiredToSignIfHoldingAtLeast.%=5%
 
 COI.Stock.Preferred.Dividend.sec={COI.Stock.Preferred.Dividend.CumulativeSpecified.sec}
 

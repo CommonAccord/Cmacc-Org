@@ -426,3 +426,6 @@ Replacement_Arbitrator=<a class='definedterm' href='{!!!}DefT.Replacement_Arbitr
 
 Holder=<a class='definedterm' href='{!!!}DefT.Holder'>Holder</a>
 
+First_Preferred_Investor_Designee=<a class='definedterm' href='{!!!}DefT.First_Preferred_Investor_Designee'>First Preferred Investor Designee</a>
+
+Second_Preferred_Investor_Designee=<a class='definedterm' href='{!!!}DefT.Second_Preferred_Investor_Designee'>Second Preferred Investor Designee</a>
