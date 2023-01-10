@@ -12,9 +12,10 @@ IRA.InvestorAccess.=[G/NVCA/2020/IRA/Sec/InformationAccess/Overrides-ToRemoveObs
 
 IRA.=[G/NVCA/2020/IRA/Form/0.md]
 
-Note=The Voting Agreement is referenced with a particular configuration of the Board. It demonstrates one way to create (and maintain) a series of use-cases shaping the form.
 
-Voting.=[G/NVCA/2020/Voting/Form/VariantWithBoardChoices.md]
+Note=The Voting Agreement is referenced with a particular configuration of the Board and the optional "Sale Rights" section 4 (renumbering the following sections). This demonstrates a way to create (maintain and communicate) a series of use-cases for the form.
+
+Voting.=[G/NVCA/2020/Voting/Form/Variant-BoardTwoPref-KH-CEO-Mut.md]
 
 CDA.=[G/NVCA/2020/LifeScience/LS-CDA/Form/0.md]
 
@@ -540,7 +541,6 @@ SPA.PurchaserCond.Closing.Initial/orSubsequent={SPA.PurchaserCond.Closing.Initia
 
 SPA.PurchaserRep.ShareLegends.sec={PurchaserRep.ShareLegends.NotRegistered.sec}<br>{SPA.PurchaserRep.ShareLegends.RequiredByTransactionAgreements.sec}
 
-
 Voting.Ti.??={Voting.Ti.Alt1}
 
 Voting.Intro.SeriesB.sec={Voting.Intro.SeriesB.No.sec}
@@ -667,6 +667,8 @@ Voting.!!!={!!!}Voting.
 Voting.SecName=Voting.
 
 Voting.Link=<a href='{SourceRoot!!}Voting.r00t'>Voting Agreement Link</a>
+
+VotingDrag.!!!={!!!}VotingDrag.
 
 Investor.1.!!!={!!!}Investor.1.
 
