@@ -17,9 +17,11 @@ echo "<a href=" . URLFORDOCSINREPO . substr($dir, URLFORDOCSINREPOOFFSET) . ">Gi
 
 # echo "<a href=" . URLFORREPO . "/search?utf8=✓&q=" . $dir . ">~PageRank </a>  &emsp; ";
 
-echo " &emsp; Doc views ($keyName): ";
+echo " &emsp; Doc views: ";
 
 echo "<b><a href=" . INDEXNAME . "?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=$keyName>". DOC_TAB_MESSAGE ."</a></b> ";
+
+echo "(&k=$keyName): ";
 
 echo "<a href=" . INDEXNAME . "?" . VIEW . "=v&" . FILENAME . "=$dir&" . KEYNAME . "=$keyName>Visual</a> ";
 

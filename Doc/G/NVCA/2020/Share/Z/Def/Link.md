@@ -183,12 +183,11 @@ Form_S-1=<a href='{!!!}DefT.Form_S-1' class='definedterm'>Form S-1</a>
 
 Form_S-3=<a href='{!!!}DefT.Form_S-3' class='definedterm'>Form S-3</a>
 
-From CFIUS Insert:=
-From ROFR:=
-From Voting Sample Rights:=
 Fund_Indemnitors=<a href='{!!!}DefT.Fund_Indemnitors' class='definedterm'>Fund Indemnitors</a>
 
 GAAP=<a href='{!!!}DefT.GAAP' class='definedterm'>GAAP</a>
+
+General_Corporation_Law=<a href='{!!!}DefT.General_Corporation_Law' class='definedterm'>General Corporation Law</a>
 
 Hazardous_Substance=<a href='{!!!}DefT.Hazardous_Substance' class='definedterm'>Hazardous Substance</a>
 

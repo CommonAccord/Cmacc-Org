@@ -12,10 +12,17 @@ IRA.InvestorAccess.=[G/NVCA/2020/IRA/Sec/InformationAccess/Overrides-ToRemoveObs
 
 IRA.=[G/NVCA/2020/IRA/Form/0.md]
 
+Note=The Voting Agreement is referenced in four different forms. V1, which makes some basic choices, V2 with a particular configuration of the Board, V3 with the optional "Sale Rights" and V4 with both Board and Sale Rights. This demonstrates a way to create and maintain a series of use-cases for the form.  Each of them can be rendered for Investor.1., .2. or .3. by prefixing the key.  E.g., add "&k=Investor.1.Voting.V2.r00t" to the URL in your browser.  
 
-Note=The Voting Agreement is referenced with a particular configuration of the Board and the optional "Sale Rights" section 4 (renumbering the following sections). This demonstrates a way to create (maintain and communicate) a series of use-cases for the form.
+Voting.V1.=[G/NVCA/2020/Voting/Form/Variant-Simple.md]
 
-Voting.=[G/NVCA/2020/Voting/Form/Variant-BoardTwoPref-KH-CEO-Mut.md]
+Voting.V2.=[G/NVCA/2020/Voting/Form/Variant-BoardTwoPref-KH-CEO-Mut.md]
+
+Voting.V3.=[G/NVCA/2020/Voting/Form/Variant-SaleRights.md]
+
+Voting.V4.=[G/NVCA/2020/Voting/Form/Variant-SaleRights-BoardTwoPref-KH-CEO-Mut.md]
+
+Voting.=[G/NVCA/2020/Voting/Form/0.md] / the NVCA original 
 
 CDA.=[G/NVCA/2020/LifeScience/LS-CDA/Form/0.md]
 
@@ -384,8 +391,6 @@ IRA.InvestorAccess.Termination.sec={IRA.InvestorAccess.Termination.sec.WithProvi
 
 IRA.InvestorAccess.ObserverRight.SameAsDirectors.cl?={IRA.InvestorAccess.ObserverRight.SameAsDirectors.cl}
 
-Voting.Misc.ConsentToAmend.4.KeyHolders.All/ProvidingServices/HoldingShares?={Voting.Misc.ConsentToAmend.4.KeyHolders.All.ProvidingServices}
-
 Misc.ConsentToAmend.By.KeyHolder.%=60%
 
 
@@ -454,8 +459,6 @@ IRA.Misc.DisputeResolution.Sec={IRA.Misc.DisputeResolution.DelawareRapidArbAct.W
 SPA.Misc.DisputeResolution.Sec={SPA.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
 
 ROFR.Misc.DisputeResolution.Sec={ROFR.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
-
-Voting.Misc.DisputeResolution.Sec={Voting.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
 
 Binder.Misc.DisputeResolution.SecName={SecName}Misc.DisputeResolution.
 
@@ -540,14 +543,6 @@ SPA.PurchaserCond.InvestorRightsAgt.sec={SPA.PurchaserCond.InvestorRightsAgt.Sig
 SPA.PurchaserCond.Closing.Initial/orSubsequent={SPA.PurchaserCond.Closing.Initial}
 
 SPA.PurchaserRep.ShareLegends.sec={PurchaserRep.ShareLegends.NotRegistered.sec}<br>{SPA.PurchaserRep.ShareLegends.RequiredByTransactionAgreements.sec}
-
-Voting.Ti.??={Voting.Ti.Alt1}
-
-Voting.Intro.SeriesB.sec={Voting.Intro.SeriesB.No.sec}
-
-Voting.Why.1.sec={Voting.Why.1.SeriesAOnly.sec}
-
-Voting.Why.2.1.sec={Voting.Why.2.1.SeriesAOnly.sec}
 
 CodersNote=Investor/MajorInvestor is used in three places, relating to three different things.  Please review to be sure that each wants to be the same. This can be nuanced with for instance, TermSheet.Investor/Major_Investor=one thing ... and IRA.Investor/Major_Investor=another thing.
 
@@ -663,6 +658,12 @@ TermSheet.SecName={SecName}TermSheet.
 TermSheet.Link=<a href='{SourceRoot!!}TermSheet.r00t'>Term Sheet Link</a>
 
 Voting.!!!={!!!}Voting.
+
+Voting.V1.!!!={!!!}Voting.V1.
+
+Voting.V2.!!!={!!!}Voting.V2.
+
+Voting.V3.!!!={!!!}Voting.V3.
 
 Voting.SecName=Voting.
 
