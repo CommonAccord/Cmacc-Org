@@ -12,7 +12,7 @@ IRA.InvestorAccess.=[G/NVCA/2020/IRA/Sec/InformationAccess/Overrides-ToRemoveObs
 
 IRA.=[G/NVCA/2020/IRA/Form/0.md]
 
-Note=The Voting Agreement is referenced in four different forms. V1, which makes some basic choices, V2 with a particular configuration of the Board, V3 with the optional "Sale Rights" and V4 with both Board and Sale Rights. This demonstrates a way to create and maintain a series of use-cases for the form.  Each of them can be rendered for Investor.1., .2. or .3. by prefixing the key.  E.g., add "&k=Investor.1.Voting.V2.r00t" to the URL in your browser.  
+Note=The Voting Agreement is referenced in four different forms. V1, which makes some basic choices, V2 with a particular configuration of the Board, V3 with the optional "Sale Rights" and V4 with both Board and Sale Rights. This demonstrates a way to create and  maintain a series of use-cases for the form.  Each of them can be rendered for Investor.1., .2. or .3. by prefixing the key.  E.g., {Investor.1.Voting.V2.r00t} or {Investor.2.Voting.V4.r00t}.
 
 Voting.V1.=[G/NVCA/2020/Voting/Form/Variant-Simple.md]
 
