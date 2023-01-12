@@ -665,6 +665,8 @@ Voting.V2.!!!={!!!}Voting.V2.
 
 Voting.V3.!!!={!!!}Voting.V3.
 
+Voting.V4.!!!={!!!}Voting.V4.
+
 Voting.SecName=Voting.
 
 Voting.Link=<a href='{SourceRoot!!}Voting.r00t'>Voting Agreement Link</a>
