@@ -93,63 +93,22 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 @arr = grep { ! $seen{$_}++ } @arr;
 
 
-# select one:
-if($ARGV[2] eq "a") {
-	print "$_=" foreach @arr;
-} 
-elsif($ARGV[2] eq "b") {
-	print "$_=$_\n" foreach @arr;
-	}
-elsif($ARGV[2] eq "d") {
-	print substr($_, 1) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 1) . "'>". substr($_ , 1) . "</a>\n" foreach @arr;
-	}
-#ToDo: test this ????
-elsif($ARGV[2] eq "t") {
-	print substr($_, 5). "=\{_" . substr($_, 5) ."\}\n" foreach @arr;
-	}
-elsif($ARGV[2] eq "tli") {
-	print "<li>\{Def." . substr($_, 5) .".sec\}</li>" foreach @arr;
-	}
+foreach ( @arr ) {
 
-elsif($ARGV[2] eq "tbase") {
-	print  substr($_, 0, -7) .".=[G/Z/Base]" foreach @arr;
-	}
-
-elsif($ARGV[2] eq "x") {
-	print "$_=<a class='xref' href='{!!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;	
-		}
-
-else {
-	print "$_=" foreach @arr;
+if (substr($_, 0, 5) eq "DefT.") {	
+	print substr($_, 5) . "=<a class='definedterm' href='{!!!}" . substr($_, 0) . "'>". substr($_ , 5) . "</a>\n";	
 }
 
-# Key=
+elsif (substr($_, 0, 1) eq "_") {	
+		print substr($_, 1) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 1) . "'>". substr($_ , 1) . "</a>\n";
+}
 
-# print "$_=" foreach @arr;
+elsif(substr($_, -5 ) eq ".Xnum") {
+	print "$_=<a class='xref' href='{!!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n";	
+		}
 
-# Key=Key;
-
-# print "$_=$_\n" foreach @arr;
-
-#Key=<param>Key</>
-
-# print "$_=<span class='param'>$_</span>\n" foreach @arr;
-
-# To make a new DefinedTerm, with a hyperlink to the definition:
-
-# print "$_=<a href='#Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
-
-# {Def.qq.Target} to mark the place a defined term is defined inline - use the convention "{Def.My_Term.Target}".  This will make Def.My_Term.Target={_My_Term}.
-
-# print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
-
-# Make cross-references (from {*.*.Xnum);
-
-# print "$_=<a class='xref' href='#" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;
-
-# Make footnote, FtNt cross-references (that already have "".Xnum");
-
-# print "$_=<sup><a href='#" . substr($_, 0, -5) . ".sec'>" . substr($_, 5, -5)."</a></sup>\n" foreach @arr;
+else { print $_ . "=\n"; }
+} 
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;
