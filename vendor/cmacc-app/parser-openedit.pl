@@ -96,7 +96,7 @@ my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 foreach ( @arr ) {
 
 if (substr($_, 0, 5) eq "DefT.") {	
-	print substr($_, 5) . "=<a class='definedterm' href='{!!!}" . substr($_, 0) . "'>". substr($_ , 5) . "</a>\n";	
+	print substr($_, 5) . "={_". substr($_ , 5) . "}\n";	
 }
 
 elsif (substr($_, 0, 1) eq "_") {	

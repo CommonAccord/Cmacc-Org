@@ -447,3 +447,18 @@ Second_Preferred_Investor_Designee={_Second_Preferred_Investor_Designee}
 
 General_Corporation_Law={_General_Corporation_Law}
  
+Redemption_Request={Redemption_Request}
+
+Investor_Notice_Period={_Investor_Notice_Period}
+
+Company_Undersubscription_Notice={_Company_Undersubscription_Notice}
+
+Exercising_Investors={_Exercising_Investors}
+
+Participating_Investor={_Participating_Investor}
+
+Purchase_and_Sale_Agreement={_Purchase_and_Sale_Agreement}
+
+Prohibited_Transfer={_Prohibited_Transfer}
+
+Public_Offering={_Public_Offering}

@@ -294,17 +294,13 @@ Registrable_Securities.KeyHolder.sec=the Key Holder Registrable Securities, prov
 
 Cap.KeyHolder.NotRegistrableUnderSections.?=<span class='select'>{Register.ByDemand.Xnum}, {Register.SubsequentRegistration.Xnum}, [{InvestorAccess.FinancialStatements.Xnum}, {InvestorAccess.Inspection.Xnum}, {FutureStock.FirstOffer.Xnum} and {Misc.Amend-Waive.Xnum}]</span>
 
-Registrable_Securities.CommonFromDividend.sec=any Common Stock issued as (or issuable upon the conversion or exercise of any warrant, right, or other security that is issued as) a dividend or other distribution with respect to, or in exchange for or in replacement of, the shares referenced {NotRegistrable.IfIssuedUnderAbove.???}
+Registrable_Securities.CommonFromDividend.sec=any Common Stock issued as (or issuable upon the conversion or exercise of any warrant, right, or other security that is issued as) a dividend or other distribution with respect to, or in exchange for or in replacement of, the shares referenced {NotRegistrable.IfIssuedUnderClause.0/1/1and2}
 
-NotRegistrable.IfIssuedUnderAbove.Alt1=above
+NotRegistrable.IfIssuedUnderClause.0=above
 
-NotRegistrable.IfIssuedUnderAbove.Alt2=in clause (i) above
+NotRegistrable.IfIssuedUnderClause.1=in clause (i) above
 
-NotRegistrable.IfIssuedUnderAbove.Alt3=in clauses (i) and (ii) above
-
-NotRegistrable.IfIssuedUnderAbove.=[G/Z/AltLine/2]
-
-NotRegistrable.IfIssuedUnderAbove.SecName={SecName}NotRegistrable.IfIssuedUnderAbove.
+NotRegistrable.IfIssuedUnderClause.1and2=in clauses (i) and (ii) above
 
 Registrable_Securities.00.sec=excluding in all cases, however, any Registrable Securities sold by a Person in a transaction in which the applicable rights under this Agreement are not assigned pursuant to Section {Misc.Assign.Xnum}, and excluding for purposes of Section {Register.Xnum} any shares for which registration rights have terminated pursuant to Section {Register.Termination.Xnum} of this Agreement
 

@@ -12,7 +12,7 @@ IRA.InvestorAccess.=[G/NVCA/2020/IRA/Sec/InformationAccess/Overrides-ToRemoveObs
 
 IRA.=[G/NVCA/2020/IRA/Form/0.md]
 
-Note=The Voting Agreement is referenced in four different forms. V1, which makes some basic choices, V2 with a particular configuration of the Board, V3 with the optional "Sale Rights" and V4 with both Board and Sale Rights. This demonstrates a way to create and  maintain a series of use-cases for the form.  Each of them can be rendered for Investor.1., .2. or .3. by prefixing the key.  E.g., {Investor.1.Voting.V2.r00t} or {Investor.2.Voting.V4.r00t}.
+Note=The Voting Agreement is referenced in four different forms. V1, which makes some basic choices, V2 with a particular configuration of the Board, V3 with the optional "Sale Rights" and the default  with both Board and Sale Rights. This demonstrates a way to create and  maintain a series of use-cases for the form.  Each of them can be rendered for Investor.1., .2. or .3. by prefixing the key.  E.g., {Investor.1.Voting.V2.r00t} or {Investor.2.Voting.r00t}.  Choose among these by renaming the one you choose as Voting.= (removing the .V*). 
 
 Voting.V1.=[G/NVCA/2020/Voting/Form/Variant-Simple.md]
 
@@ -20,9 +20,7 @@ Voting.V2.=[G/NVCA/2020/Voting/Form/Variant-BoardTwoPref-KH-CEO-Mut.md]
 
 Voting.V3.=[G/NVCA/2020/Voting/Form/Variant-SaleRights.md]
 
-Voting.V4.=[G/NVCA/2020/Voting/Form/Variant-SaleRights-BoardTwoPref-KH-CEO-Mut.md]
-
-Voting.=[G/NVCA/2020/Voting/Form/0.md] / the NVCA original 
+Voting.=[G/NVCA/2020/Voting/Form/Variant-SaleRights-BoardTwoPref-KH-CEO-Mut.md]
 
 CDA.=[G/NVCA/2020/LifeScience/LS-CDA/Form/0.md]
 
@@ -41,10 +39,6 @@ Investor.1.=[G/NVCA/2020/Binder/Acme-SeriesA/Investor-StateStreet.md]
 Investor.2.=[G/NVCA/2020/Binder/Acme-SeriesA/Investor-Quake.md]
 
 Investor.3.=[G/NVCA/2020/Binder/Acme-SeriesA/Investor-NIH.md]
-
-For Instance:=
-
-Investor.1.CDA.=
 
 Other Parties:=
 
@@ -82,69 +76,13 @@ OfferExpires.YMD=2022-12-24
 
 Law.=[G/U/Place/US/DE/Geo]
 
+Cap.=[G/NVCA/2020/Binder/Acme-SeriesA/Company-Cap.md]
+
 DisputeForum.US.StateCourt.=[G/U/Place/US/DE/New_Castle/Wilmington/Geo]
 
 DisputeForum.US.DistrictCourt.JudicialDistrict.Name=Delaware
 
-ScheduleOfInvestors.sec=<table border=1>{HoldingRow.sec}</table>
-
-HoldingRow.1.sec={Investor.1.Holding.tr}
-
-HoldingRow.2.sec={Investor.2.Holding.tr}
-
-HoldingRow.3.sec={Investor.3.Holding.tr}
-
-HoldingRow.=[G/Z/para/s3]
-
-ScheduleOfKeyHolders.sec=<table border=1>{KeyHolderRow.sec}</table>
-
-KeyHolderRow.1.sec={Investor.1.Holding.tr}
-
-KeyHolderRow.2.sec={Investor.3.Holding.tr}
-
-KeyHolderRow.=[G/Z/para/s2]
-
 MRL.Investors.Names.cl=the {_Investors} {Investor.1.Party.Name.Full} and {Investor.2.Party.Name.Full}
-
-Cap.Common.ParValue.$=$0.001
-
-Cap.Common.Authorized.#=5,000,000
-
-Cap.Common.Authorized.Number=Five Million
-
-Cap.SeriesA.ParValue.$=$0.001
-
-Cap.SeriesA.PricePerShare.$=~$1.00
-
-Cap.Preferred.Authorized.#=1,000,000
-
-Cap.Preferred.Authorized.Number=One Million
-
-Cap.SeriesA.LiquidationPreference.OPP-Multiple.#=three
-
-Cap.SeriesA.DeemedLiquidation.RequisitHolders.ToWaive.%=60%
-
-Cap.SeriesA.Dividend.%=10%
-
-Cap.SeriesA.AdditionalShares.Quantity.#=1,000,000
-
-Cap.Common.Authorized.PreClosing.#=10,000,000
-
-Cap.Common.Outstanding.PreClosing.#=500,000
-
-Cap.Preferred.Authorized.PreClosing.#=5,000,000
-
-Cap.Preferred.DesignatedSeriesA.PreClosing.#=5,000,000
-
-Cap.Common.StockOption.Pool.Total.#=5,000,000
-
-Cap.Common.StockOption.Plan.Title=Acme Stock Option Plan
-
-Cap.Common.StockOption.Pool.Issued.#=1,000,000
-
-Cap.Common.StockOption.Pool.SubjectToOption.#=1,000,000
-
-Cap.Common.StockOption.Pool.Available.#=3,000,000
 
 AmountRaised.$=$500,000
 
@@ -155,8 +93,6 @@ AmountRaised.ForClosingAtLeast.NumberOfShares.#=300,000
 Valuation.PreMoney-Diluted.$=$3,000,000
 
 Valuation.PostMoney-Diluted.$=$3,300,000
-
-Cap.EmployeeOptionPool.%=10%
 
 Director.Additional.Number=one
 
@@ -170,27 +106,17 @@ Director.VotedBySeriesA.IfAtLeastOutstanding.#/%=50%
 
 Director.VotedBySeriesA.Number.each_a_=</>
 
-/Director.VotedBySeriesB.Number(#)=one (1)
-
 Director.VotedByCommon.Directors.number(#)=two (2) directors
 
 Director.VotedBySeriesA.Directors.number(#)=one (1) director
 
-/Director.VotedBySeriesB.Directors.number(#)=one (1) director
-
 Board.Size.Number=five
-
-Company.IncorporationDate.YMD=2019-02-03
-
-Company.Prior.Name.Full=Acamade, Incorporated
 
 SeriesAApprovalRequired.IfAtLeastOutstanding.#/%=50%
 
 SeriesAApprovalRequired.ForTotalDebtMoreThan.$=$1,000,000
 
 PreferredDirectorApproval.ForDebt.TotalMoreThan.$=$50,000
-
-Cap.SeriesA.ConversionMandatory.QPO.Proceeds.AtLeast.$=$10,000,000
 
 MajorInvestor.PurchaseAtLeast.$=$50,000
 
@@ -204,22 +130,9 @@ Investors.Counsel.Fee.Max.$=$30,000
 
 Noncompete.KeyEmployee.Duration.year=one year
 
-
-Investor.1.Designee.Name.Full=Frances Frank
-
-Investor.1.DirectorAppointment.SharesAtLeast.#=2%
-
-Investor.1.Director.Name.Full=Daniel Dill
-
-Investor.2.Designee.Name.Full=Fiona Fidelis
-
-Investor.2.DirectorAppointment.SharesAtLeast.#={Investor.1.DirectorAppointment.SharesAtLeast.#}
-
-Investor.2.Director.Name.Full=Diana Deliberante
+DirectorAppointment.SharesAtLeast.#=2%
 
 KeyHolder.Director.Name.Full=Klaus Koenig
-
-Company.CEO.Name.Full=Charlene E. O’Connor
 
 Contract.Life.EndDate.YMD=2025-12-31
 
@@ -249,8 +162,6 @@ Pay2Play.Round/DownRound.cl=down round
 
 Registration.Termination.AfterIPO.Nth-anniversary=fourth anniversary
 
-Company.PriorPublicOffering.WithdrawalDate.YMD=2020-10-20
-
 Registration.Form-S-3.AtLeastShareholdersOf.10-30%=20%
 
 Registration.Form-S-3.IfAtLeastAggregateOfferingPriceOf.3-5-million.$=$4,000,000
@@ -263,15 +174,10 @@ PreferredDirectorApproval.ForCorporateRelationship.AssetTotalMoreThan.$=$500,000
 
 Competitor.DescriptionOfBusiness.cl=crispr-based genomics
 
-Cap.Common.KeyHolder.Quantity.Number=50,000
-
 Sign.YMD={ClosingDate.YMD}
 
-TermSheet.Cap.EmployeeOptionPool.Allocated.sec={TermSheet.Cap.EmployeeOptionPool.Allocated.No.sec}
+Voting.DragAlong.CommonRequiredToSignIfHoldingAtLeast.%=5%
 
-TermSheet.Cap.SeriesA.Dividend.Pay.OnLiquidation.sec={TermSheet.Cap.SeriesA.Dividend.Pay.OnLiquidation.Yes.sec}
-
-TermSheet.Cap.SeriesA.LiquidationPreference.Plus.sec={TermSheet.Cap.SeriesA.LiquidationPreference.Plus.DeclaredDividends.sec}
 
 TermSheet.Charter.ConversionMandatory.OPPMultiple.sec={TermSheet.Charter.ConversionMandatory.OPPMultiple.NotRequired.sec}
 
@@ -301,7 +207,11 @@ TermSheet.Offer.Raise.Convert.sec={TermSheet.Offer.Raise.Convert.SAFEs.sec}
 
 TermSheet.Voting.Board.1.sec={TermSheet.Voting.Board.1.DesignatedByLeadInvestor.sec}
 
-TermSheet.Voting.DragAlong.CommonRequiredToSignIfHoldingAtLeast.%=5%
+TermSheet.Cap.EmployeeOptionPool.Allocated.sec={TermSheet.Cap.EmployeeOptionPool.Allocated.No.sec}
+
+TermSheet.Cap.SeriesA.Dividend.Pay.OnLiquidation.sec={TermSheet.Cap.SeriesA.Dividend.Pay.OnLiquidation.Yes.sec}
+
+TermSheet.Cap.SeriesA.LiquidationPreference.Plus.sec={TermSheet.Cap.SeriesA.LiquidationPreference.Plus.DeclaredDividends.sec}
 
 COI.Stock.Preferred.Dividend.sec={COI.Stock.Preferred.Dividend.CumulativeSpecified.sec}
 
@@ -314,8 +224,6 @@ COI.Stock.Preferred.OptionalConversion.4.4.sec={COI.Stock.Preferred.OptionalConv
 COI.Stock.Preferred.MandatoryConversion.sec={COI.Stock.Preferred.MandatoryConversion.Alt1.sec}
 
 COI.Resolution.10.sec={COI.Resolution.10.Alt1.sec}
-
-PriorAgreement.Amend-Restate.Alt1
 
 Indemnity.ProvidedBy.Bylaws/Bylaws_and_COI?=Bylaws and Certificate of Incorporation
 
@@ -347,7 +255,11 @@ Def.Registrable_Securities.CommonFromPreferred.sec={Def.Registrable_Securities.C
 
 IRA.S-1.TimeWindow.Start.sec={IRA.S-1.TimeWindow.Start.AfterAgreementOrRegistration.sec}
 
-Register.ByDemand.S-1.2.lesser.Yes/No={Register.ByDemand.S-1.2.lesser.Yes}
+IRA.Register.ByDemand.S-1.2.lesser.Yes/No={IRA.Register.ByDemand.S-1.2.lesser.Yes}
+
+CodersNote=Suggested range is 5 to 15 million. I picked 5 million.
+
+IRA.Register.ByDemand.S-1.IfOfferingPrice.Exceeds.$=five (5) million
 
 IRA.managing_underwriter/underwriter=underwriter
 
@@ -393,20 +305,21 @@ IRA.InvestorAccess.ObserverRight.SameAsDirectors.cl?={IRA.InvestorAccess.Observe
 
 Misc.ConsentToAmend.By.KeyHolder.%=60%
 
-
 Misc.ConsentToAmend.By.KeyHolder.ProvidingServices.OfCapTotal.%=10%
 
 Misc.ConsentToAmend.By.Common.%=60%
 
 Successor.Transferee.BecomesBigHolder.Shares.Number=100,000
 
-Def.NotRegistrable.IfIssuedUnderAbove.???={Def.NotRegistrable.IfIssuedUnderAbove.Alt1}
+Def.NotRegistrable.IfIssuedUnderClause.0/1/1and2={Def.NotRegistrable.IfIssuedUnderClause.1and2}
 
 IRA.Misc.EntireAgreement.sec={IRA.Misc.EntireAgreement.Base.sec}
 
 CodersNote=Used in both the MRL. 
 
 DefT.Series_?_Preferred_Stock={_Series_A_Preferred_Stock}
+
+CompanyIP.InConduct.Used/Necessary={CompanyIP.InConduct.Used}
 
 CompanyKnows.Actual/afterInvestigation={CompanyKnows.afterInvestigation}
 
@@ -432,11 +345,7 @@ PriorROFR.Ti.a=a Acme First Right of First Refusal Agreement
 
 PriorROFR.EffectiveDate.YMD=2021-01-03
 
-Cap.SeriesPriorPreferredStock.ParValue.$=0.001
-
 Investor.FallsBelowMinROFR.Shares.#=5,000
-
-SPA.CompanyRep.FDA-Approvals.conduct-its-business/-as-now-conducted=conduct its business as now conducted
 
 Note=The ROFR Dispute Resolution section follows the SPA. Changing here to AAA-Arbitration. or DelawareRapidArbAct. will change both.  
 
@@ -448,6 +357,12 @@ CodersNote=In the alternative iii), there are some cross-references to "this Sec
 
 Def.FOIA.Party.Board.Determination.??={Def.FOIA.Party.Board.Determination.Alt1}
 
+Def.Company_Intellectual_Property.Includes.mask_works.Yes/No={Def.Company_Intellectual_Property.Includes.mask_works.Yes}
+
+Def.IndemnificationAgt.Indemnitee.director/andPurchaserAffiliates={Def.IndemnificationAgt.Indemnitee.andPurchaserAffiliates}
+
+Def.IRA.Parties.Purchasers/andOtherStockholders={Def.IRA.Parties.Purchasers}
+
 DelawareRapidArbAct.Arbitrator.Who.cl=Grace Justinian
 
 DelawareRapidArbAct.ReplacementArbitrator.Who.cl=drawn from the NVCA's membership
@@ -456,15 +371,18 @@ DelawareRapidArbAct.AppellateArbitrators.Who.cl=drawn from the NVCA's membership
 
 IRA.Misc.DisputeResolution.Sec={IRA.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
 
-SPA.Misc.DisputeResolution.Sec={SPA.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
-
 ROFR.Misc.DisputeResolution.Sec={ROFR.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
 
-Binder.Misc.DisputeResolution.SecName={SecName}Misc.DisputeResolution.
+SPA.Misc.DisputeResolution.Sec={SPA.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
+
+/Binder.Misc.DisputeResolution.SecName={SecName}Misc.DisputeResolution. ??? Used?
+
 
 SPA.Company.SBC/SB={SPA.Company.SBC}
 
 SPA.Closing/ApplicableClosing.cl={_Closing}
+
+SPA.CompanyRep.FDA-Approvals.conduct-its-business/-as-now-conducted=conduct its business as now conducted
 
 SPA.PayBySecurities.Interest.Yes/No={SPA.PayBySecurities.Interest.Yes}
 
@@ -473,14 +391,6 @@ SPA.AdditionalPurchasersMustBeApproved.Yes/No={SPA.AdditionalPurchasersMustBeApp
 SPA.AdditionalPurchasersMustBeApproved.ByPercentOfPurchasers.%=51%
 
 AmendAgreement.Approval.ShareHolder.%=51%
-
-Def.Company_Intellectual_Property.Includes.mask_works.Yes/No={Def.Company_Intellectual_Property.Includes.mask_works.Yes}
-
-CompanyIP.InConduct.Used/Necessary={CompanyIP.InConduct.Used}
-
-Def.IndemnificationAgt.Indemnitee.director/andPurchaserAffiliates={Def.IndemnificationAgt.Indemnitee.andPurchaserAffiliates}
-
-Def.IRA.Parties.Purchasers/andOtherStockholders={Def.IRA.Parties.Purchasers}
 
 SPA.CompanyRep.Comply-Instruments.Law.to_its_knowledge.Yes/No={SPA.CompanyRep.Comply-Instruments.Law.to_its_knowledge.Yes} 
 
@@ -509,10 +419,6 @@ CompanyRep.Agreements.DebtNotinExcessOf.Aggregate.$=$500,000
 SPA.CompanyRep.NoDiscussionOfSale.WithinLast.months=three months
 
 SPA.CompanyRep.unaudited/audited={SPA.CompanyRep.audited}
-
-SPA.CompanyRep.FinancialStatement.MostRecent.YMD=2022-11-12
-
-SPA.CompanyRep.FinancialStatement.FiscalYearEnd.YMD=2022-09-30
 
 SPA.CompanyRep.FinancialStatement.Unaudited.MostRecent.YMD=2022-11-30
 
@@ -583,16 +489,11 @@ KeyHolder.Rep.Handle=Key Holder Representative
 
 Investor.Rep.Handle=Investor Representative
 
-Holding.tr=<tr><td valign='top'>Investor: {Investor.#}</td><td valign='top'> {Party.US.N/E/A}</td><td valign='top'>Shares: <br><b>{Shares.#}</b></td><td valign='top'>Percent:<br> <b>{Shares.%}</b></td><td valign='top'>Investment: <br><b>{Shares.$}</b></td></tr>
-
 Mechanics:=
 
 r00t={TermSheet.r00t}
 
 Common Defined Terms:=
-
-!!!=#
-
 
 
 _=[G/NVCA/2020/Share/Z/Def/Link.md]
@@ -600,6 +501,8 @@ _=[G/NVCA/2020/Share/Z/Def/Link.md]
 DefT.=[G/NVCA/2020/Share/Z/Def/Target.md]
 
 Def.=[G/NVCA/2020/Share/TermsDefined.md]
+
+!!!=#
 
 Def.!!!={!!!}Def.
 
@@ -675,19 +578,13 @@ VotingDrag.!!!={!!!}VotingDrag.
 
 Investor.1.!!!={!!!}Investor.1.
 
-Investor.1.kParty!!!=k=Investor.1.
-
 Investor.1.SecName={SecName}Investor.1.
 
 Investor.2.!!!={!!!}Investor.2.
 
-Investor.2.kParty!!!=k=Investor.2.
-
 Investor.2.SecName=Investor.2.
 
 Investor.3.!!!={!!!}Investor.3.
-
-Investor.3.kParty!!!=k=Investor.3.
 
 Investor.3.SecName=Investor.3.
 
@@ -708,3 +605,23 @@ SecName=</>
 
 r00t=
 {TermSheet.r00t} {COI.r00t} {Indemn.r00t} {IRA.r00t} {Voting.r00t} {CDA.r00t} {MRL.r00t} {SPA.r00t} {ROFR.r00t} {LicenseTermSheet.r00t}
+
+ScheduleOfInvestors.sec=<table border=1>{HoldingRow.sec}</table>
+
+HoldingRow.1.sec={Investor.1.Holding.tr}
+
+HoldingRow.2.sec={Investor.2.Holding.tr}
+
+HoldingRow.3.sec={Investor.3.Holding.tr}
+
+HoldingRow.=[G/Z/para/s3]
+
+ScheduleOfKeyHolders.sec=<table border=1>{KeyHolderRow.sec}</table>
+
+KeyHolderRow.1.sec={Investor.1.Holding.tr}
+
+KeyHolderRow.2.sec={Investor.3.Holding.tr}
+
+KeyHolderRow.=[G/Z/para/s2]
+
+Holding.tr=<tr><td valign='top'>Investor: {Investor.#}</td><td valign='top'> {Party.US.N/E/A}</td><td valign='top'>Shares: <br><b>{Shares.#}</b></td><td valign='top'>Percent:<br> <b>{Shares.%}</b></td><td valign='top'>Investment: <br><b>{Shares.$}</b></td></tr>

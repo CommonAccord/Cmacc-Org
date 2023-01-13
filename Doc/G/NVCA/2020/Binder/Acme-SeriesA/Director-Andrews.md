@@ -1,24 +1,17 @@
-=[G/U/Who/alison_andrews.md]
+Party.=[G/U/Who/alison_andrews.md]
 
 Director.#=1
 
 TermSheet.=
 
-COI.=		
-
 Indemn.=
 
-IRA.=
-
-MRL.=
-
-SPA.=
-
-Voting.=
-
-ROFR.=
+CDA.Conf.Engage.sec={CDA.Conf.Engage.Human.sec}
 
 CDA.=
+
+r00t=<table><tr><td valign='top'>{Indemn.r00t}</td><td valign='top'>{CDA.r00t}</td></tr></table>
+
 
 OtherIndemnitor.=[G/U/Who/safe_hands_inc.md]
 

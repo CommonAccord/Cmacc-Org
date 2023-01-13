@@ -33,6 +33,14 @@ Voting.Adoption.EffectiveDate.YMD=2023-01-12
 
 CDA.Conf.Engage.sec=<span class='select'>{CDA.Conf.Engage.VC.sec}</span>
 
+!!!={!!!}Investor.1.
+
+Designee.Name.Full=Frances Frank
+
+Director.Name.Full=Daniel Dill
+
+SecName={SecName}Investor.1.
+
 !!!=#
 
 SecName=</>
