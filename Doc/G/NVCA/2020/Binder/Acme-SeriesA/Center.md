@@ -112,6 +112,10 @@ Director.VotedBySeriesA.Directors.number(#)=one (1) director
 
 Board.Size.Number=five
 
+PreferredDirectorApproval.AtLeast.NumberOf=one
+
+PreferredDirectorApproval.,cl=, including the approval of {PreferredDirectorApproval.AtLeast.NumberOf} Preferred Director
+
 SeriesAApprovalRequired.IfAtLeastOutstanding.#/%=50%
 
 SeriesAApprovalRequired.ForTotalDebtMoreThan.$=$1,000,000

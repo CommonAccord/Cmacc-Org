@@ -33,8 +33,25 @@ span :hover {
 
 }  
 
+.table-key-source {
+        height : 10 ;
+        max-width: 300px;
+        overflow-x : auto;
+        text-align : right ;
+        vertical-align: top; 
+
+}
+
+.table-value-source {
+        vertical-align: ; 
+        text-align : left ;
+        max-width: 85%;
+        margin: 0%;
+
+}
+
 .expand {
-        color: #5c060a;
+        color: #2f922cdc;
 
 }
 .warning {

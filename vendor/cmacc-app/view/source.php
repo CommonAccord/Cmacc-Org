@@ -29,24 +29,32 @@ foreach($contents as $n) {
         else if(preg_match('/^\[(.+?)\]/', $v, $matches)) {
           // to allow comments in the target field.
 	  list($v1, $v2) = array_pad( explode ("///", $v, 2), 2, null);
+# formatting the value side of the table cell. Pick one of the following:
+    #conventional:
+        $v = "<a href=?" . VIEW . "=s&" . FILENAME . "=$matches[1]>$v1</a></td><td>$v2";
+    # in a frame:
+	# $v = "<iframe src=?v=sourceonly&f=$matches[1] style='height:300px;width:1000px' title='Iframe Example'></iframe>";
 
-	  $v = "<a href=?" . VIEW . "=s&" . FILENAME . "=$matches[1]>$v1</a></td><td>$v2";
         }
         else
 
-#  From GitHub Copilot:  The regex {[^}]+} matches any text that starts with { and ends with }.  The + means one or more characters.  The [^}]+ means any character other than }.  The first capture group is the text between the curly braces.
-#  But the rest is HazardJ's duct tape.
-# This makes each {parameter} have a hyperlink to the parameter's content.
+# In the VALUE, each {parameter} is a hyperlink to the parameter's content:
+        #  From GitHub Copilot:  The regex {[^}]+} matches any text that starts with { and ends with }.  The + means one or more characters.  The [^}]+ means any character other than }.  The first capture group is the text between the curly braces.
+        #  But the rest is HazardJ's duct tape.
 
-# This gives us the {parameter} {parameter}, two times, so we can build the href link.
-$v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
-# We need to be able to evaluate the content of the PHP variables, which didn't work inside the str_replace.
- $href = "{<a href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=" ;
+        # This gives us the {parameter} {parameter}, two times, so can build the href link.
+        $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
+        # We need to be able to evaluate the content of the PHP variables, which didn't work inside the str_replace.
+        $href = "{<a href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=" ;
         $v = str_replace('q1q{', $href, $v);
-        $v = str_replace('x2x{', ' class=expand >' , $v ) ;
-    
+        $v = str_replace('x2x{', ' class=missing >' , $v ) ;
+        # This is the end of HazardJ's duct tape.
+ 
+#Now the KEY:
         echo "<tr id=$k>" ;
-        # enabling hyperlinks from the key.  If "foo." then make it "foo.r00t", else just use the key.
+        # enabling hyperlinks from the key.  
+                # If ends in a period "." then assume it is a prefix *=(e.g. key=[node]) make it "key.r00t" to render the default content of [node]. 
+                # Else just use the key.
         # The key ends in a "." and therefore we render the default content of the target object (r00t)
         if((substr($k, -1)==".") && (!preg_match('/\s/', $k))){
        	        $klink="<a class='expand' href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=$k" . "r00t >$k</a>" ;
@@ -57,7 +65,7 @@ $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
        	        $klink= $k  ;
         }
         
-        # The key does not have a space in it, so we render the key with a hyperlink to the key's content.
+        # The key does not have a space in it (a browser URL mishandles spaces), so we render the key with a hyperlink to the key's content.
         else {
        	 $klink="<a href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=$k class='definedterm'>$k</a>" ;
         }
@@ -66,7 +74,7 @@ $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
 #                if(isset($v)) { 
 
                 echo "
-                <td height='10' width='300'  valign='top' style='text-align:right'>$klink</td><td valign='top' width='20'> = </td><td valign='top'>$v</td>"; }
+                <td class='table-key-source' >$klink</td><td width='1px' ></td><td class='table-value-source'>$v</td>"; }
 #        else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
 
