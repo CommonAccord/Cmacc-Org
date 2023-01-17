@@ -628,4 +628,6 @@ KeyHolderRow.2.sec={Investor.3.Holding.tr}
 
 KeyHolderRow.=[G/Z/para/s2]
 
-Holding.tr=<tr><td valign='top'>Investor: {Investor.#}</td><td valign='top'> {Party.US.N/E/A}</td><td valign='top'>Shares: <br><b>{Shares.#}</b></td><td valign='top'>Percent:<br> <b>{Shares.%}</b></td><td valign='top'>Investment: <br><b>{Shares.$}</b></td></tr>
+Holding.tr=<tr!!><td valign='top'>Investor: {Investor.#}</td><td valign='top'> {Party.US.N/E/A}</td><td valign='top'>Shares: <br><b>{Shares.#}</b></td><td valign='top'>Percent:<br> <b>{Shares.%}</b></td><td valign='top'>Investment: <br><b>{Shares.$}</b></td></tr>
+
+tr!!=tr

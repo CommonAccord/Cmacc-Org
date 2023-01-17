@@ -7,7 +7,7 @@ include("header.php");
 
 include("$lib_path/view-tabs.php");
 
-echo "<div class='container'><table class='TFtable'>";
+echo "<div><table class='TFtable'>";
 foreach($contents as $n) {
         list($k, $v) = array_pad( explode ("=", $n, 2), 2, null);
        
@@ -31,9 +31,9 @@ foreach($contents as $n) {
 	  list($v1, $v2) = array_pad( explode ("///", $v, 2), 2, null);
 # formatting the value side of the table cell. Pick one of the following:
     #conventional:
-        $v = "<a href=?" . VIEW . "=s&" . FILENAME . "=$matches[1]>$v1</a></td><td>$v2";
+       $v = "<a href=?" . VIEW . "=s&" . FILENAME . "=$matches[1]>$v1</a></td><td>$v2";
     # in a frame:
-	# $v = "<iframe src=?v=sourceonly&f=$matches[1] style='height:300px;width:1000px' title='Iframe Example'></iframe>";
+	# $v = "<iframe src=?v=s&f=$matches[1] style='height:300px;width:1000px' title='Iframe Example'></iframe>";
 
         }
         else
@@ -73,8 +73,7 @@ foreach($contents as $n) {
        if(((strlen($k)>0) || (strlen($v)>0))) { 
 #                if(isset($v)) { 
 
-                echo "
-                <td class='table-key-source' >$klink</td><td width='1px' ></td><td class='table-value-source'>$v</td>"; }
+                echo "<td class='table-key-source' >$klink</td><td width='20px' align='center' valign='top'>=</td><td class='table-value-source'>$v</td>"; }
 #        else { echo "<th height='10' style='text-align:right'></th><td width='20'></td><td>$k</td>"; }
         echo "</tr>";
 

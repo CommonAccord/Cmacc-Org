@@ -35,6 +35,7 @@ span :hover {
 
 .table-key-source {
         height : 10 ;
+        width: 300px;
         max-width: 300px;
         overflow-x : auto;
         text-align : right ;
@@ -43,12 +44,17 @@ span :hover {
 }
 
 .table-value-source {
-        vertical-align: ; 
+        vertical-align: top; 
         text-align : left ;
-        max-width: 85%;
+        max-width: 80%;
         margin: 0%;
 
 }
+
+.TFtable{
+        margin: 0px 0px 0px 50px;
+        margin-bottom: 10px;
+	}
 
 .expand {
         color: #2f922cdc;
