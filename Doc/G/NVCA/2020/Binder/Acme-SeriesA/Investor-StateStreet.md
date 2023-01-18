@@ -1,5 +1,7 @@
 Party.=[G/U/Who/state_street_corporation.md]
 
+OtherIndemnitor.=[G/U/Who/safe_hands_inc.md]
+
 Investor.#=1
 
 Shares.#=100,000

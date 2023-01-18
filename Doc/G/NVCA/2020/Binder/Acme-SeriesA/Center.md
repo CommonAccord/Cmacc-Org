@@ -607,8 +607,7 @@ Doc.GUID=AcmeSeriesA:{SecName}
 
 SecName=</>
 
-r00t=
-{TermSheet.r00t} {COI.r00t} {Indemn.r00t} {IRA.r00t} {Voting.r00t} {CDA.r00t} {MRL.r00t} {SPA.r00t} {ROFR.r00t} {LicenseTermSheet.r00t}
+All.r00t={TermSheet.r00t} {COI.r00t} {Indemn.r00t} {IRA.r00t} {Voting.r00t} {CDA.r00t} {MRL.r00t} {SPA.r00t} {ROFR.r00t} {LicenseTermSheet.r00t}
 
 ScheduleOfInvestors.sec=<table border=1>{HoldingRow.sec}</table>
 
