@@ -1,6 +1,6 @@
 Licensor.=[G/U/Who/mit_edu.md]
 
-PrincipalInvestigator.=[G/U/Who/Solomon_Shirley.md]
+PrincipalInvestigator.=[G/U/Who/solomon_shirley.md]
 
 EffectiveDate.YMD=2020-01-01
 

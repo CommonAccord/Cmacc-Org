@@ -1,3 +1,8 @@
+
+SeriesA.PricePerShare.$=~$1.00
+
+SeriesA.DividendsPerYear.%=8%
+
 Common.Authorized.#=5,000,000
 
 Common.Authorized.Number=Five Million
@@ -41,7 +46,5 @@ SeriesA.Dividend.%=10%
 SeriesA.LiquidationPreference.OPP-Multiple.#=three
 
 SeriesA.ParValue.$=$0.001
-
-SeriesA.PricePerShare.$=~$1.00
 
 SeriesPriorPreferredStock.ParValue.$=0.001
