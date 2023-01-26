@@ -22,7 +22,7 @@ Voting.V3.=[G/NVCA/2020/Voting/Form/Variant-SaleRights.md]
 
 Voting.=[G/NVCA/2020/Voting/Form/Variant-SaleRights-BoardTwoPref-KH-CEO-Mut.md]
 
-CDA.=[G/NVCA/2020/LifeScience/LS-CDA/Form/0.md]
+CDA.=[G/NVCA/2020/Binder/Acme-SeriesA/Form-CDA.md]
 
 MRL.=[G/NVCA/2020/MRL/Form/0.md]
 
@@ -46,9 +46,9 @@ Company.=[G/NVCA/2020/Binder/Acme-SeriesA/Company.md]
 
 Director.1.=[G/NVCA/2020/Binder/Acme-SeriesA/Director-Andrews.md]
 
-Director.2.=[G/U/Who/andrea_ang.md]
+Director.2.=[G/NVCA/2020/Binder/Acme-SeriesA/Director-Ang.md]
 
-Director.3.=[G/U/Who/abigail_altima.md]
+Director.3.=[G/NVCA/2020/Binder/Acme-SeriesA/Director-Altima.md]
 
 Investors.Counsel.=[G/U/Who/samuel_hardy.md]
 
@@ -148,7 +148,7 @@ Conf.Life.TimePeriod.Duration=three years
 
 FutureRound.RightIsFor.Investor/MajorInvestor=Major Investor
 
-CompanyKnows.ListOfOfficers={Company.President.Name.Full} and {Director.2.Name.Full}
+CompanyKnows.ListOfOfficers={Company.President.Name.Full} and {Director.2.Party.Name.Full}
 
 Registration.OnDemand.Offering.AggregatePrice.AtLeast.$=$5,000,000
 
@@ -355,7 +355,7 @@ Note=The ROFR Dispute Resolution section follows the SPA. Changing here to AAA-A
 
 LawyersNote=The original section 6.16 of the SPA on Dispute Resolution (and similar provisions in other agreements) seems to be composed of three alternatives: i) litigation, ii) AAA arbitration or iii) Delaware independent arbitration.  The sections in the original are presented in a somewhat confusing way, as if one chose i) litigation and then either ii) or iii).  But that doesn't make sense. So they are presented here as three alternatives.
 
-LawyersNote=The Indemnification Agmt has a completely different law ad dispute resoluton section.  That seems odd.
+LawyersNote=The Indemnification Agmt has a completely different law and dispute resoluton section.  That seems odd.
 
 CodersNote=In the alternative iii), there are some cross-references to "this Section 6.15", which are obviously erronious.  This section is 6.16.  FIXED!!!
 
@@ -591,6 +591,19 @@ Investor.2.SecName=Investor.2.
 Investor.3.!!!={!!!}Investor.3.
 
 Investor.3.SecName=Investor.3.
+
+Director.1.!!!={!!!}Director.1.
+
+Director.1.SecName={SecName}Director.1.
+
+Director.2.!!!={!!!}Director.2.
+
+Director.2.SecName=Director.2.
+
+Director.3.!!!={!!!}Director.3.
+
+Director.3.SecName=Director.3.
+
 
 LicenseTermSheet.!!!={!!!}LicenseTermSheet.
 

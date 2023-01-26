@@ -1,26 +1,26 @@
-Party.=[G/U/Who/alison_andrews.md]
+Party.=[G/U/Who/abigail_altima.md]
 
-Director.#=1
+Director.#=3
 
 Note=Contracts to which this person is a party.
 
 Indemn.=
 
-Indemn.Party.=[G/U/Who/alison_andrews.md]
+Indemn.Party.=[G/U/Who/abigail_altima.md]
 
-Indemn.Party.Sign.YMD=2023-01-26
+Indemn.Party.Sign.YMD=2023-01-23
 
 CDA.=
 
-CDA.Party.=[G/U/Who/alison_andrews.md]
+CDA.Party.=[G/U/Who/abigail_altima.md]
 
 CDA.Conf.Engage.sec={CDA.Conf.Engage.Human.sec}
 
-CDA.EffectiveDate.YMD=2023-01-12
+CDA.EffectiveDate.YMD=2023-01-21
 
-CDA.Party.Sign.YMD=2023-01-13
+CDA.Party.Sign.YMD=2023-01-22
 
-CDA.Company.Sign.YMD=2023-01-14
+CDA.Company.Sign.YMD=2023-01-23
 
 r00t=<table><tr><td valign='top'>{Indemn.r00t}</td><td valign='top'>{CDA.r00t}</td></tr></table>
 

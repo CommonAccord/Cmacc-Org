@@ -2,6 +2,10 @@
 
 Adr.=[G/U/Place/US/MD/Montgomery/Bethesda/Geo]			
 
+Signer.=[G/U/Who/colleen_kendall.md]
+
+Signer.Title=Director
+
 Notice.=[G/U/Who/quimbey_quinn.md]
 
 Notice.Title=Administrator
@@ -19,5 +23,5 @@ Adr.Type=official
 Personality.type=public agency
 
 Twitter.Followers=469K
-		
-	    
+
+US.Contract.Among.ID.sec={Personality.type.a}
