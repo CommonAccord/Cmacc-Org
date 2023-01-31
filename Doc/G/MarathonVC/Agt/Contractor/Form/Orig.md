@@ -2,7 +2,7 @@ Doc.Ti=Independent Contractor Agreement
 
 CodersNote=Because some sections of this Contractor Agreement are the same as sections of the Employment Agreement, we will reference those Employment Agreement sections and delete the corresponding text here.  This assures uniformity and focuses improvements.  Many other sections have only minor variations, and could be harmonized and then "refactored."  
 
-/UseAgtFrame=This.sec=This Independent Contractor Agreement (the “{Def.Agreement.sec}”) is made as of {EffectiveDate.YMD} by and between the following contracting parties (each a “{_Party}” and together the “{_Parties}”):
+/UseAgtFrame=This.sec=This Independent Contractor Agreement (the “{DefT.Agreement}”) is made as of {EffectiveDate.YMD} by and between the following contracting parties (each a “{_Party}” and together the “{_Parties}”):
 
 /UseAgtFrame=A)[], a [] company incorporated and operating under the laws of Greece, with General Commercial Register nr. [], registered offices at [], Greece, and Tax Identification Number [], being herein duly represented by Mr. [], [] (hereinafter referred to as the “Company”) and
 
@@ -40,7 +40,7 @@ Def.Invention.sec=“{_Inventions}” means discoveries, inventions, works of au
 
 2.Ti=Scope; Services; Independent Contractor Status; Duties
 
-2.1.sec=During the term of this {_Agreement} in consideration of the fees described in clause 3 hereof, {_Contractor} will provide services (the “{Def.Services.sec}”) to {_the_Company} as set forth in Schedule 1 hereof.
+2.1.sec=During the term of this {_Agreement} in consideration of the fees described in clause 3 hereof, {_Contractor} will provide services (the “{DefT.Services}”) to {_the_Company} as set forth in Schedule 1 hereof.
 
 2.2.sec=It is the {_Parties}’ intent that {_Contractor} at all times, and with respect to all {_Services} covered by this {_Agreement} function as and remain an independent contractor, and not an employee or officer of {_the_Company} and neither {_Party} shall represent to third parties that {_Contractor} is an employee or officer of {_the_Company}. Nothing contained in this {_Agreement} shall be construed to create the relationship of employer and employee, principal and agent, partnership or joint venture.
 
@@ -81,7 +81,7 @@ Invoice.Pay.Within.cl={__} days from receipt
 
 4.Ti=Term
 
-4.sec=The term of this {_Agreement} (the “{Def.Term.sec}”) shall commence on the date set forth above and shall be of an indefinite duration until its termination according to the provisions of clause 9.1 hereof.
+4.sec=The term of this {_Agreement} (the “{DefT.Term}”) shall commence on the date set forth above and shall be of an indefinite duration until its termination according to the provisions of clause 9.1 hereof.
 
 5.Ti=Representations and Warranties
 

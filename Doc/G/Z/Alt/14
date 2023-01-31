@@ -6,7 +6,7 @@ Alt0.Sec=Select one - {SecName}.Sec={{SecName}.AltX.Sec}where X is 1-14
 
 sec=<font color="darkred">{Alt0.sec}:<font color="magenta">{Altolist}</font>
 
-Alt0.sec=<font color="darkred">{AltPrompt}:</font>  <b> (copy)-</b> "{SecName}.sec={{SecName}.AltX.sec}" where X is</font> 1-14
+Alt0.sec=<font color="darkred">{AltPrompt}:</font>  <b> (copy)-</b> "{SecName}.sec={{SecName}.AltX}" where X is</font> 1-14
 
 r00t={Sec}
 

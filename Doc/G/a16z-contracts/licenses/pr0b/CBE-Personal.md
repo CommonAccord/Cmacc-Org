@@ -6,7 +6,7 @@ Grant.License.Display.sec=This license includes the right to display {_NFT_Media
 
 Grant.Derivative.Sec=Reserved
 
-Grant.Trademark.sec=Nothing in these {_Terms} is meant to grant you any rights to any logos, trademarks, service marks, and trade dress associated with {_Creator} or the {_Project_NFT}s (“{_Project_Trademarks.Target}”).   Unless  you  have  our  prior  written  approval,  you  may  not  use  any  {_Project_Trademarks}  for  any  use  that  would  require  a  license  from  us,  including  to  register  any  domain names or social media accounts using any {_Project_Trademarks} or to advertise or promote any other products or services. 
+Grant.Trademark.sec=Nothing in these {_Terms} is meant to grant you any rights to any logos, trademarks, service marks, and trade dress associated with {_Creator} or the {_Project_NFT}s (“{_Project_Trademarks}”).   Unless  you  have  our  prior  written  approval,  you  may  not  use  any  {_Project_Trademarks}  for  any  use  that  would  require  a  license  from  us,  including  to  register  any  domain names or social media accounts using any {_Project_Trademarks} or to advertise or promote any other products or services. 
 
 Note=Compared to CBE-Exclusive, eliminates item (ii) and renumbers (iii) as (ii).
 

@@ -9,7 +9,7 @@ Why.=[G/Z/Base]
   
 Preliminary.Ti=Preliminary obligations:
 
-Preliminary.sec=The parties agree that the information provided by the {_Supplier} before the start date of the agreement concerning measures of the impact on climate change by the {_Supplier} and the products and services will form the baseline environmental credentials of the {_Supplier} for the purpose of this agreement (“{Def.Green_Baseline.sec}”). The {_Green_Baseline} may be amended by written agreement or otherwise in accordance with this agreement. The {_Supplier} will provide at the {_Customer}’s request reasonable evidence of its compliance with the {_Green_Baseline}.
+Preliminary.sec=The parties agree that the information provided by the {_Supplier} before the start date of the agreement concerning measures of the impact on climate change by the {_Supplier} and the products and services will form the baseline environmental credentials of the {_Supplier} for the purpose of this agreement (“{DefT.Green_Baseline}”). The {_Green_Baseline} may be amended by written agreement or otherwise in accordance with this agreement. The {_Supplier} will provide at the {_Customer}’s request reasonable evidence of its compliance with the {_Green_Baseline}.
  
 Preliminary.=[G/Z/Base]
   
@@ -58,7 +58,7 @@ TFG.0.sec=Without affecting any other right or remedy available to it, the {_Cus
 
 CodersNote="Green {_Supplier}" -> "Greener {_Supplier}"
 
-TFG.1.0.sec=serve written notice (“{Def.Notice_of_Greener_Supplier}”) to the {_Supplier} that the {_Customer} has identified a third party supplier (the “{Def.Greener_Supplier}”) that is able to provide {goods/services} at least equivalent to the {Goods/Services}, except that the {_Greener_Supplier}’s equivalent {Goods/Services} achieve:
+TFG.1.0.sec=serve written notice (“{DefT.Notice_of_Greener_Supplier}”) to the {_Supplier} that the {_Customer} has identified a third party supplier (the “{DefT.Greener_Supplier}”) that is able to provide {goods/services} at least equivalent to the {Goods/Services}, except that the {_Greener_Supplier}’s equivalent {Goods/Services} achieve:
 
 TFG.1.1.sec=lower greenhouse gas emissions relating to the production or delivery of the goods and services, as measured in accordance with {GHGStandard.sec}
 

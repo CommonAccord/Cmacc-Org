@@ -1,4 +1,4 @@
-0.sec=As used herein, the “{Def.Confidential_Information.Target}” of a {_Party} will mean any and all technical and non-technical information provided by such {_Party} (the “{Def.Disclosing_Party.Target}”) to the other {_Party} (the “{Def.Receiving_Party.Target}”), which may include without limitation:
+0.sec=As used herein, the “{DefT.Confidential_Information}” of a {_Party} will mean any and all technical and non-technical information provided by such {_Party} (the “{DefT.Disclosing_Party}”) to the other {_Party} (the “{DefT.Receiving_Party}”), which may include without limitation:
 
 1.sec=patent and patent applications
 

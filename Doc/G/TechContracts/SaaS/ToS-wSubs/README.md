@@ -24,7 +24,7 @@ Ti=TERMS OF SERVICE
 
 0.0.sec=<span style="text-transform:uppercase">Please read these terms of service carefully. By clicking “accepted and agreed to,” {_Customer} agrees to these terms and conditions.</span>
 
-0.1.sec=These Terms of Service constitute an agreement (this “{Def.Agreement.Target}”) by and between {Provider.Name.Full}, {Provider.Personality.type.a} whose principal place of business is {Provider.US.Adr.1,2,3} (“{Def.Provider.Target}”) and the corporation, LLC, partnership, sole proprietorship, or other business entity executing this {_Agreement} (“{Def.Customer.Target}”). This {_Agreement} is effective as of the date {_Customer} clicks “Accepted and Agreed To” (the “{Def.Effective_Date.Target}”). {_Customer}’s use of and {_Provider}’s provision of {_Provider}’s {_SaaS} (as defined below in Section {1.8.Xnum}) are governed by this {_Agreement}, as are {_Customer}’s authorizations to grant its own customers use of the {_SaaS}.
+0.1.sec=These Terms of Service constitute an agreement (this “{DefT.Agreement}”) by and between {Provider.Name.Full}, {Provider.Personality.type.a} whose principal place of business is {Provider.US.Adr.1,2,3} (“{DefT.Provider}”) and the corporation, LLC, partnership, sole proprietorship, or other business entity executing this {_Agreement} (“{DefT.Customer}”). This {_Agreement} is effective as of the date {_Customer} clicks “Accepted and Agreed To” (the “{DefT.Effective_Date}”). {_Customer}’s use of and {_Provider}’s provision of {_Provider}’s {_SaaS} (as defined below in Section {1.8.Xnum}) are governed by this {_Agreement}, as are {_Customer}’s authorizations to grant its own customers use of the {_SaaS}.
 
 0.00.sec=<span style="text-transform:uppercase">Each party acknowledges that it has read this {_Agreement}, understands it, and agrees to be bound by its terms, and that the person signing on its behalf has been authorized to do so. The person executing this {_Agreement} on {_Customer}’s behalf represents that he or she has the authority to bind {_Customer} to these terms and conditions.</span>
 
@@ -34,27 +34,27 @@ Ti=TERMS OF SERVICE
 
 1.0.sec=The following capitalized terms will have the following meanings whenever used in this {_Agreement}.
 
-1.1.sec=“{Def.AUP.Target}” means {_Provider}’s acceptable use policy currently posted at {AUP.Hyperlink}.
+1.1.sec=“{DefT.AUP}” means {_Provider}’s acceptable use policy currently posted at {AUP.Hyperlink}.
 
-1.2.sec=“{Def.Client_ToS.Target}” means such terms of service as {_Provider} may require for users of the {_SaaS} who are not {_Provider}’s {_Customers} or their employees.
+1.2.sec=“{DefT.Client_ToS}” means such terms of service as {_Provider} may require for users of the {_SaaS} who are not {_Provider}’s {_Customers} or their employees.
 
-1.3.sec=“{Def.Customer’s_Clients.Target}” means any of {_Customer}’s clients or customers or other third parties {_Customer} gives access to the {_SaaS}, including without limitation such companies’ agents and employees.
+1.3.sec=“{DefT.Customer’s_Clients}” means any of {_Customer}’s clients or customers or other third parties {_Customer} gives access to the {_SaaS}, including without limitation such companies’ agents and employees.
 
-1.4.sec=“{Def.Customer_Data.Target}” means all information processed or stored through the {_SaaS} by {_Customer} or on {_Customer}’s behalf. {_Customer} data does not include payment records, credit cards or other information {_Customer} uses to pay {_Provider}, or other information and records related to {_Customer}’s account, including without limitation identifying information related to {_Customer} staff involved in payment or other management of such account.
+1.4.sec=“{DefT.Customer_Data}” means all information processed or stored through the {_SaaS} by {_Customer} or on {_Customer}’s behalf. {_Customer} data does not include payment records, credit cards or other information {_Customer} uses to pay {_Provider}, or other information and records related to {_Customer}’s account, including without limitation identifying information related to {_Customer} staff involved in payment or other management of such account.
 
-1.5.sec=“{Def.Documentation.Target}” means {_Provider}'s standard manual related to use of the {_SaaS}, as well as {Provider.Documentation.Hyperlink}.
+1.5.sec=“{DefT.Documentation}” means {_Provider}'s standard manual related to use of the {_SaaS}, as well as {Provider.Documentation.Hyperlink}.
 
-1.6.sec=“{Def.Order.Target}” means an order for access to the {_SaaS}, executed as follows: {Order.Execute.Method}.
+1.6.sec=“{DefT.Order}” means an order for access to the {_SaaS}, executed as follows: {Order.Execute.Method}.
 
-1.7.sec=“{Def.Privacy/Security_Law.Target}” means privacy and security laws governing {_Provider}’s handling of {_Customer_Data} (if any).
+1.7.sec=“{DefT.Privacy/Security_Law}” means privacy and security laws governing {_Provider}’s handling of {_Customer_Data} (if any).
 
-1.8.sec=“{Def.SaaS.Target}” means {_Provider}’s {Service.Name}.
+1.8.sec=“{DefT.SaaS}” means {_Provider}’s {Service.Name}.
 
-1.9.sec=“{Def.SLA.Target}” means {_Provider}’s standard service level agreement, currently posted at {SLA.Hyperlink}.
+1.9.sec=“{DefT.SLA}” means {_Provider}’s standard service level agreement, currently posted at {SLA.Hyperlink}.
 
-1.10.sec=“{Def.Term.Target}” is defined in Section {11.1.Xnum} below.
+1.10.sec=“{DefT.Term}” is defined in Section {11.1.Xnum} below.
 
-1.11.sec=“{Def.User.Target}” means any company or individual who uses the {_SaaS} on {_Customer}’s behalf or through {_Customer}’s account or passwords, whether authorized or not, including without limitation {_Customer’s_Clients}.
+1.11.sec=“{DefT.User}” means any company or individual who uses the {_SaaS} on {_Customer}’s behalf or through {_Customer}’s account or passwords, whether authorized or not, including without limitation {_Customer’s_Clients}.
 
 1.=[G/Z/ol/s11]
 
@@ -94,7 +94,7 @@ NoteLawyer=Should there be a "Purpose" definition for use by the {_Customer}?  (
 
 3.2.Ti=Taxes
 
-3.2.sec=Amounts due under this {_Agreement} are payable to {_Provider} without deduction for any tax, tariff, duty, or assessment imposed by any government authority (national, state, provincial, or local), including without limitation any sales, use, excise, ad valorem, property, withholding, or value-added tax, whether or not withheld at the source (collectively, “{Def.Sales_Tax.Target}”). Except as forbidden by applicable law, {_Provider} may require that {_Customer} submit applicable {_Sales_Taxes} to {_Provider}. However, the preceding sentence does not apply to the extent that {_Customer} is tax exempt, provided it gives {_Provider} a valid tax exemption certificate within 30 days of the {_Effective_Date}. {_Provider}’s failure to include any applicable tax in an invoice will not waive or dismiss its rights or obligations pursuant to this Section {3.2.Xnum}. If applicable law requires withholding or deduction of {_Sales_Taxes} or any other tax or duty, {_Customer} shall separately pay {_Provider} the withheld or deducted amount, over and above fees due. For the avoidance of doubt, this Section {3.2.Xnum} does not govern taxes based on {_Provider}’s net income.
+3.2.sec=Amounts due under this {_Agreement} are payable to {_Provider} without deduction for any tax, tariff, duty, or assessment imposed by any government authority (national, state, provincial, or local), including without limitation any sales, use, excise, ad valorem, property, withholding, or value-added tax, whether or not withheld at the source (collectively, “{DefT.Sales_Tax}”). Except as forbidden by applicable law, {_Provider} may require that {_Customer} submit applicable {_Sales_Taxes} to {_Provider}. However, the preceding sentence does not apply to the extent that {_Customer} is tax exempt, provided it gives {_Provider} a valid tax exemption certificate within 30 days of the {_Effective_Date}. {_Provider}’s failure to include any applicable tax in an invoice will not waive or dismiss its rights or obligations pursuant to this Section {3.2.Xnum}. If applicable law requires withholding or deduction of {_Sales_Taxes} or any other tax or duty, {_Customer} shall separately pay {_Provider} the withheld or deducted amount, over and above fees due. For the avoidance of doubt, this Section {3.2.Xnum} does not govern taxes based on {_Provider}’s net income.
 
 3.=[G/Z/ol/2]
 
@@ -118,7 +118,7 @@ NoteLawyer=Should there be a "Purpose" definition for use by the {_Customer}?  (
 
 4.5.Ti={_De-Identified_Data}
 
-4.5.sec=Notwithstanding the provisions above of this Article {4.Xnum}, {_Provider} may use, reproduce, sell, publicize, or otherwise exploit {_De-Identified_Data} (as defined below) in any way, in its sole discretion, including without limitation aggregated with data from other {_Customers}. (“{Def.De-Identified_Data.Target}” refers to {_Customer_Data} with the following removed: information that identifies or could reasonably be used to identify an individual person, a household, a {_Customer’s_Client}, or {_Customer}.)
+4.5.sec=Notwithstanding the provisions above of this Article {4.Xnum}, {_Provider} may use, reproduce, sell, publicize, or otherwise exploit {_De-Identified_Data} (as defined below) in any way, in its sole discretion, including without limitation aggregated with data from other {_Customers}. (“{DefT.De-Identified_Data}” refers to {_Customer_Data} with the following removed: information that identifies or could reasonably be used to identify an individual person, a household, a {_Customer’s_Client}, or {_Customer}.)
 
 4.6.Ti=Erasure
 
@@ -138,7 +138,7 @@ NoteLawyer=Should there be a "Purpose" definition for use by the {_Customer}?  (
 
 4.10.Ti={_Excluded_Data}
 
-4.10.sec={_Customer} warrants that (a) it has not and will not transmit {_Excluded_Data} (as defined below), or permit transmission of {_Excluded_Data}, to {_Provider} or its computers or other media and, (b) to the best of its knowledge, {_Customer_Data} does not and will not include {_Excluded_Data}. {_Customer} shall inform {_Provider} of any {_Excluded_Data} within {_Customer_Data} promptly after discovery (without limiting {_Provider}’s rights or remedies). {_Customer} recognizes and agrees that: (i) the provisions of this {_Agreement} related to {_Customer_Data} do not apply to {_Excluded_Data}; (ii) {_Provider} has no liability for any failure to provide protections in the {_Excluded_Data_Laws} (as defined below) or otherwise to protect {_Excluded_Data}; and (iii) {_Provider}’s systems are not intended for management or protection of {_Excluded_Data} and may not provide adequate or legally required security for {_Excluded_Data}. {_Provider} is not responsible or liable for any data exposure or disclosure or related loss to the extent that it involves {_Excluded_Data}. (“{Def.Excluded_Data.Target}” means {ExcludedData.Def.cl}. “{Def.Excluded_Data_Laws.Target}” means any law or regulation governing {_Excluded_Data}, including without limitation any law or regulation protecting privacy or security rights of {_Excluded_Data} subjects, as well as the following statutes and regulations: {ExcludedData.Laws.cl}.)
+4.10.sec={_Customer} warrants that (a) it has not and will not transmit {_Excluded_Data} (as defined below), or permit transmission of {_Excluded_Data}, to {_Provider} or its computers or other media and, (b) to the best of its knowledge, {_Customer_Data} does not and will not include {_Excluded_Data}. {_Customer} shall inform {_Provider} of any {_Excluded_Data} within {_Customer_Data} promptly after discovery (without limiting {_Provider}’s rights or remedies). {_Customer} recognizes and agrees that: (i) the provisions of this {_Agreement} related to {_Customer_Data} do not apply to {_Excluded_Data}; (ii) {_Provider} has no liability for any failure to provide protections in the {_Excluded_Data_Laws} (as defined below) or otherwise to protect {_Excluded_Data}; and (iii) {_Provider}’s systems are not intended for management or protection of {_Excluded_Data} and may not provide adequate or legally required security for {_Excluded_Data}. {_Provider} is not responsible or liable for any data exposure or disclosure or related loss to the extent that it involves {_Excluded_Data}. (“{DefT.Excluded_Data}” means {ExcludedData.Def.cl}. “{DefT.Excluded_Data_Laws}” means any law or regulation governing {_Excluded_Data}, including without limitation any law or regulation protecting privacy or security rights of {_Excluded_Data} subjects, as well as the following statutes and regulations: {ExcludedData.Laws.cl}.)
 
 4.=[G/Z/ol/10]
 
@@ -170,19 +170,19 @@ NoteLawyer=Should there be a "Purpose" definition for use by the {_Customer}?  (
 
 6.2.Ti={_Feedback}
 
-6.2.sec={_Provider} has not agreed to and does not agree to treat as confidential any {_Feedback} (as defined below) that {_Customer}, {_Customer’s_Clients}, or other {_Users} give {_Provider}, and nothing in this {_Agreement} or in the parties’ dealings arising out of or related to this {_Agreement} will restrict {_Provider}’s right to use, profit from, disclose, publish, keep secret, or otherwise exploit {_Feedback}, without compensating or crediting {_Customer}. {_Feedback} will not be considered {_Customer}’s trade secret. (“{Def.Feedback.Target}” refers to any suggestion or idea for improving or otherwise modifying any of {_Provider}’s products or services.)
+6.2.sec={_Provider} has not agreed to and does not agree to treat as confidential any {_Feedback} (as defined below) that {_Customer}, {_Customer’s_Clients}, or other {_Users} give {_Provider}, and nothing in this {_Agreement} or in the parties’ dealings arising out of or related to this {_Agreement} will restrict {_Provider}’s right to use, profit from, disclose, publish, keep secret, or otherwise exploit {_Feedback}, without compensating or crediting {_Customer}. {_Feedback} will not be considered {_Customer}’s trade secret. (“{DefT.Feedback}” refers to any suggestion or idea for improving or otherwise modifying any of {_Provider}’s products or services.)
 
 6.=[G/Z/ol/2]
 
 7.Ti=CONFIDENTIAL INFORMATION
 
-7.0.sec=“{Def.Confidential_Information.Target}” refers to the following items {_Provider} discloses to {_Customer}: (a) any document {_Provider} marks “Confidential”; (b) any information {_Provider} orally designates as “Confidential” at the time of disclosure, provided {_Provider} confirms such designation in writing within {ConfInfo.Provider.Confirmation.Days.cl}; (c) the {_Documentation} and {ConfInfo.Provider.Include.cl}, whether or not marked or designated confidential; and (d) any other nonpublic, sensitive information {_Customer} should reasonably consider a trade secret or otherwise confidential. Notwithstanding the foregoing, {_Confidential_Information} does not include information that: (i) is in {_Customer}’s possession at the time of disclosure; (ii) is independently developed by {_Customer} without use of or reference to {_Confidential_Information}; (iii) becomes known publicly, before or after disclosure, other than as a result of {_Customer}’s improper action or inaction; or (iv) is approved for release in writing by {_Provider}.
+7.0.sec=“{DefT.Confidential_Information}” refers to the following items {_Provider} discloses to {_Customer}: (a) any document {_Provider} marks “Confidential”; (b) any information {_Provider} orally designates as “Confidential” at the time of disclosure, provided {_Provider} confirms such designation in writing within {ConfInfo.Provider.Confirmation.Days.cl}; (c) the {_Documentation} and {ConfInfo.Provider.Include.cl}, whether or not marked or designated confidential; and (d) any other nonpublic, sensitive information {_Customer} should reasonably consider a trade secret or otherwise confidential. Notwithstanding the foregoing, {_Confidential_Information} does not include information that: (i) is in {_Customer}’s possession at the time of disclosure; (ii) is independently developed by {_Customer} without use of or reference to {_Confidential_Information}; (iii) becomes known publicly, before or after disclosure, other than as a result of {_Customer}’s improper action or inaction; or (iv) is approved for release in writing by {_Provider}.
 
 7.1.Ti=Nondisclosure
 
 NoteLawyer=Should this be the same as a "Purpose" definition for use by the {_Customer}?  (Note that the only definition of "Purpose" so far is use by {_Customer}'s Clients.) 
 
-7.1.sec={_Customer} shall not use {_Confidential_Information} for any purpose other than {SaaS.Purpose.cl} (the “{Def.Purpose.Target}”). {_Customer}: (a) shall not disclose {_Confidential_Information} to any employee or contractor of {_Customer} unless such person needs access in order to facilitate the {_Purpose} and executes a nondisclosure agreement with {_Customer} with terms no less restrictive than those of this Article {6.2.Xnum}; and (b) shall not disclose {_Confidential_Information} to any other third party without {_Provider}’s prior written consent. Without limiting the generality of the foregoing, {_Customer} shall protect {_Confidential_Information} with the same degree of care it uses to protect its own confidential information of similar nature and importance, but with no less than reasonable care. {_Customer} shall promptly notify {_Provider} of any misuse or misappropriation of {_Confidential_Information} that comes to {_Customer}’s attention. Notwithstanding the foregoing, {_Customer} may disclose {_Confidential_Information} as required by applicable law or by proper legal or governmental authority. {_Customer} shall give {_Provider} prompt notice of any such legal or governmental demand and reasonably cooperate with {_Provider} in any effort to seek a protective order or otherwise to contest such required disclosure, at {_Provider}’s expense.
+7.1.sec={_Customer} shall not use {_Confidential_Information} for any purpose other than {SaaS.Purpose.cl} (the “{DefT.Purpose}”). {_Customer}: (a) shall not disclose {_Confidential_Information} to any employee or contractor of {_Customer} unless such person needs access in order to facilitate the {_Purpose} and executes a nondisclosure agreement with {_Customer} with terms no less restrictive than those of this Article {6.2.Xnum}; and (b) shall not disclose {_Confidential_Information} to any other third party without {_Provider}’s prior written consent. Without limiting the generality of the foregoing, {_Customer} shall protect {_Confidential_Information} with the same degree of care it uses to protect its own confidential information of similar nature and importance, but with no less than reasonable care. {_Customer} shall promptly notify {_Provider} of any misuse or misappropriation of {_Confidential_Information} that comes to {_Customer}’s attention. Notwithstanding the foregoing, {_Customer} may disclose {_Confidential_Information} as required by applicable law or by proper legal or governmental authority. {_Customer} shall give {_Provider} prompt notice of any such legal or governmental demand and reasonably cooperate with {_Provider} in any effort to seek a protective order or otherwise to contest such required disclosure, at {_Provider}’s expense.
 
 7.2.Ti=Termination & Return
 
@@ -248,7 +248,7 @@ NoteLawyer=Should this be the same as a "Purpose" definition for use by the {_Cu
 
 9.Ti=INDEMNIFICATION
 
-9.sec={_Customer} shall defend, indemnify, and hold harmless {_Provider} and the {_Provider_Associate}s (as defined below) against any “{Def.Indemnified_Claim.Target},” meaning any third party claim, suit, or proceeding arising out of or related to {_Customer}'s alleged or actual use of, misuse of, or failure to use the {_SaaS}, including without limitation: (a) claims by {_Customer’s_Clients} or other {_Users} or by {_Customer}'s or {_Customer’s_Clients}’ employees; (b) claims related {_Data_Incidents} (as defined below); (c) claims related to infringement or violation of a copyright, trademark, trade secret, or privacy or confidentiality right by written material, images, logos or other content uploaded to the {_SaaS} through {_Customer}’s account, including without limitation by {_Customer_Data}; and (d) claims that use of the {_SaaS} through {_Customer}’s account, including by {_Customer’s_Clients} or other {_Users}, harasses, defames, or defrauds a third party or violates the CAN-Spam Act of 2003 or any other law or restriction on electronic advertising. <span style="text-transform:uppercase">{_Indemnified_Claims} include, without limitation, claims arising out of or related to {_Provider}’s negligence.</span> {_Customer}’s obligations set forth in this Article {9.Xnum} include, without limitation: (i) settlement at {_Customer}’s expense and payment of judgments finally awarded by a court of competent jurisdiction, as well as payment of court costs and other reasonable expenses; and (ii) reimbursement of reasonable attorneys’ fees incurred before {_Customers}’ assumption of the defense (but not attorneys’ fees incurred thereafter). If {_Customer} fails to assume the defense on time to avoid prejudicing the defense, {_Provider} may defend the {_Indemnified_Claim}, without loss of rights pursuant to this Article {9.Xnum}. {_Provider} will have the right, not to be exercised unreasonably, to reject any settlement or compromise that requires that it or a {_Provider_Associate} admit wrongdoing or liability or subjects either of them to any ongoing affirmative obligation. (“{Def.Provider_Associates.Target}” are {_Provider}’s officers, directors, shareholders, parents, subsidiaries, agents, successors, and assigns. A “{Def.Data_Incident.Target}” is any (1) unauthorized disclosure of, access to, or use of {_Customer_Data}, including without limitation {_Excluded_Data}, or (2) violation of {_Privacy/Security_Law} through {_Customer}’s account. {_Data_Incidents} include, without limitation, such events caused by {_Customer}, by {_Provider}, by {_Customer}’s {_Customers} or other users, by hackers, and by any other third party.)
+9.sec={_Customer} shall defend, indemnify, and hold harmless {_Provider} and the {_Provider_Associate}s (as defined below) against any “{DefT.Indemnified_Claim},” meaning any third party claim, suit, or proceeding arising out of or related to {_Customer}'s alleged or actual use of, misuse of, or failure to use the {_SaaS}, including without limitation: (a) claims by {_Customer’s_Clients} or other {_Users} or by {_Customer}'s or {_Customer’s_Clients}’ employees; (b) claims related {_Data_Incidents} (as defined below); (c) claims related to infringement or violation of a copyright, trademark, trade secret, or privacy or confidentiality right by written material, images, logos or other content uploaded to the {_SaaS} through {_Customer}’s account, including without limitation by {_Customer_Data}; and (d) claims that use of the {_SaaS} through {_Customer}’s account, including by {_Customer’s_Clients} or other {_Users}, harasses, defames, or defrauds a third party or violates the CAN-Spam Act of 2003 or any other law or restriction on electronic advertising. <span style="text-transform:uppercase">{_Indemnified_Claims} include, without limitation, claims arising out of or related to {_Provider}’s negligence.</span> {_Customer}’s obligations set forth in this Article {9.Xnum} include, without limitation: (i) settlement at {_Customer}’s expense and payment of judgments finally awarded by a court of competent jurisdiction, as well as payment of court costs and other reasonable expenses; and (ii) reimbursement of reasonable attorneys’ fees incurred before {_Customers}’ assumption of the defense (but not attorneys’ fees incurred thereafter). If {_Customer} fails to assume the defense on time to avoid prejudicing the defense, {_Provider} may defend the {_Indemnified_Claim}, without loss of rights pursuant to this Article {9.Xnum}. {_Provider} will have the right, not to be exercised unreasonably, to reject any settlement or compromise that requires that it or a {_Provider_Associate} admit wrongdoing or liability or subjects either of them to any ongoing affirmative obligation. (“{DefT.Provider_Associates}” are {_Provider}’s officers, directors, shareholders, parents, subsidiaries, agents, successors, and assigns. A “{DefT.Data_Incident}” is any (1) unauthorized disclosure of, access to, or use of {_Customer_Data}, including without limitation {_Excluded_Data}, or (2) violation of {_Privacy/Security_Law} through {_Customer}’s account. {_Data_Incidents} include, without limitation, such events caused by {_Customer}, by {_Provider}, by {_Customer}’s {_Customers} or other users, by hackers, and by any other third party.)
 
 10.Ti=LIMITATION OF LIABILITY
 
@@ -270,7 +270,7 @@ NoteLawyer=Should this be the same as a "Purpose" definition for use by the {_Cu
 
 11.1.Ti={_Term}
 
-11.1.sec=The term of this {_Agreement} (the “{Def.Term.Target}”) shall commence on the {_Effective_Date} and continue for the period set forth in the {_Order} or, if none, for {Contract.Life.Period}. Thereafter, the {_Term} will renew for successive {Contract.Life.Renewal.Period} periods, unless either party refuses such renewal by written notice 30 or more days before the renewal date.
+11.1.sec=The term of this {_Agreement} (the “{DefT.Term}”) shall commence on the {_Effective_Date} and continue for the period set forth in the {_Order} or, if none, for {Contract.Life.Period}. Thereafter, the {_Term} will renew for successive {Contract.Life.Renewal.Period} periods, unless either party refuses such renewal by written notice 30 or more days before the renewal date.
 
 11.2.Ti=Termination for Cause
 
@@ -334,7 +334,7 @@ Note=". . " ??
 
 12.12.Ti=Amendment
 
-12.12.sec={_Provider} may amend this {_Agreement} from time to time by posting an amended version at its Website and sending {_Customer} written notice thereof. Such amendment will be deemed accepted and become effective 30 days after such notice (the “{Def.Proposed_Amendment_Date.Target}”) unless {_Customer} first gives {_Provider} written notice of rejection of the amendment. In the event of such rejection, this {_Agreement} will continue under its original provisions, and the amendment will become effective at the start of {_Customer}’s next {_Term} following the {_Proposed_Amendment_Date} (unless {_Customer} first terminates this {_Agreement} pursuant to Article {11.Xnum}, {11.Ti}). {_Customer}’s continued use of the {_SaaS} following the effective date of an amendment will confirm {_Customer}’s consent thereto. This {_Agreement} may not be amended in any other way except through a written agreement by authorized representatives of each party. Notwithstanding the foregoing provisions of this Section {12.12.Xnum}, {_Provider} may revise the {_AUP} at any time by posting a new version of either at the Website, and such new version will become effective on the date it is posted; provided if such amendment materially reduces {_Customer}’s rights or protections, notice and consent will be subject to the requirements above in this Section {12.12.Xnum}.
+12.12.sec={_Provider} may amend this {_Agreement} from time to time by posting an amended version at its Website and sending {_Customer} written notice thereof. Such amendment will be deemed accepted and become effective 30 days after such notice (the “{DefT.Proposed_Amendment_Date}”) unless {_Customer} first gives {_Provider} written notice of rejection of the amendment. In the event of such rejection, this {_Agreement} will continue under its original provisions, and the amendment will become effective at the start of {_Customer}’s next {_Term} following the {_Proposed_Amendment_Date} (unless {_Customer} first terminates this {_Agreement} pursuant to Article {11.Xnum}, {11.Ti}). {_Customer}’s continued use of the {_SaaS} following the effective date of an amendment will confirm {_Customer}’s consent thereto. This {_Agreement} may not be amended in any other way except through a written agreement by authorized representatives of each party. Notwithstanding the foregoing provisions of this Section {12.12.Xnum}, {_Provider} may revise the {_AUP} at any time by posting a new version of either at the Website, and such new version will become effective on the date it is posted; provided if such amendment materially reduces {_Customer}’s rights or protections, notice and consent will be subject to the requirements above in this Section {12.12.Xnum}.
 
 12.=[G/Z/ol/12]
 
@@ -401,124 +401,124 @@ NoteCoder=Cross-reference widgets:
 
 NoteCoder=Defined Terms hyperlinks.
 
-_Agreement=<a href='#Def.Agreement.Target' class='definedterm'>Agreement</a>
+_Agreement=<a href='#Def.Agreement' class='definedterm'>Agreement</a>
 
-_AUP=<a href='#Def.AUP.Target' class='definedterm'>AUP</a>
+_AUP=<a href='#Def.AUP' class='definedterm'>AUP</a>
 
-_Client_ToS=<a href='#Def.Client_ToS.Target' class='definedterm'>Client ToS</a>
+_Client_ToS=<a href='#Def.Client_ToS' class='definedterm'>Client ToS</a>
 
-_Confidential_Information=<a href='#Def.Confidential_Information.Target' class='definedterm'>Confidential Information</a>
+_Confidential_Information=<a href='#Def.Confidential_Information' class='definedterm'>Confidential Information</a>
 
-_Customer_Data=<a href='#Def.Customer_Data.Target' class='definedterm'>Customer Data</a>
+_Customer_Data=<a href='#Def.Customer_Data' class='definedterm'>Customer Data</a>
 
-_Customer’s_Client=<a href='#Def.Customer’s_Clients.Target' class='definedterm'>Customer’s Client</a>
+_Customer’s_Client=<a href='#Def.Customer’s_Clients' class='definedterm'>Customer’s Client</a>
 
-_Customer’s_Clients=<a href='#Def.Customer’s_Clients.Target' class='definedterm'>Customer’s Clients</a>
+_Customer’s_Clients=<a href='#Def.Customer’s_Clients' class='definedterm'>Customer’s Clients</a>
 
-_Customer=<a href='#Def.Customer.Target' class='definedterm'>Customer</a>
+_Customer=<a href='#Def.Customer' class='definedterm'>Customer</a>
 
-_Customers=<a href='#Def.Customer.Target' class='definedterm'>Customers</a>
+_Customers=<a href='#Def.Customer' class='definedterm'>Customers</a>
 
-_Data_Incident=<a href='#Def.Data_Incident.Target' class='definedterm'>Data Incident</a>
+_Data_Incident=<a href='#Def.Data_Incident' class='definedterm'>Data Incident</a>
 
-_Data_Incidents=<a href='#Def.Data_Incident.Target' class='definedterm'>Data Incidents</a>
+_Data_Incidents=<a href='#Def.Data_Incident' class='definedterm'>Data Incidents</a>
 
-_De-Identified_Data=<a href='#Def.De-Identified_Data.Target' class='definedterm'>De-Identified Data</a>
+_De-Identified_Data=<a href='#Def.De-Identified_Data' class='definedterm'>De-Identified Data</a>
 
-_Documentation=<a href='#Def.Documentation.Target' class='definedterm'>Documentation</a>
+_Documentation=<a href='#Def.Documentation' class='definedterm'>Documentation</a>
 
-_Effective_Date=<a href='#Def.Effective_Date.Target' class='definedterm'>Effective Date</a>
+_Effective_Date=<a href='#Def.Effective_Date' class='definedterm'>Effective Date</a>
 
-_Excluded_Data_Laws=<a href='#Def.Excluded_Data_Laws.Target' class='definedterm'>Excluded Data Laws</a>
+_Excluded_Data_Laws=<a href='#Def.Excluded_Data_Laws' class='definedterm'>Excluded Data Laws</a>
 
-_Excluded_Data=<a href='#Def.Excluded_Data.Target' class='definedterm'>Excluded Data</a>
+_Excluded_Data=<a href='#Def.Excluded_Data' class='definedterm'>Excluded Data</a>
 
-_Feedback=<a href='#Def.Feedback.Target' class='definedterm'>Feedback</a>
+_Feedback=<a href='#Def.Feedback' class='definedterm'>Feedback</a>
 
-_Indemnified_Claim=<a href='#Def.Indemnified_Claim.Target' class='definedterm'>Indemnified Claim</a>
+_Indemnified_Claim=<a href='#Def.Indemnified_Claim' class='definedterm'>Indemnified Claim</a>
 
-_Indemnified_Claims=<a href='#Def.Indemnified_Claim.Target' class='definedterm'>Indemnified Claims</a>
+_Indemnified_Claims=<a href='#Def.Indemnified_Claim' class='definedterm'>Indemnified Claims</a>
 
-_Order=<a href='#Def.Order.Target' class='definedterm'>Order</a>
+_Order=<a href='#Def.Order' class='definedterm'>Order</a>
 
-_Privacy/Security_Law=<a href='#Def.Privacy/Security_Law.Target' class='definedterm'>Privacy/Security Law</a>
+_Privacy/Security_Law=<a href='#Def.Privacy/Security_Law' class='definedterm'>Privacy/Security Law</a>
 
-_Privacy/Security_Laws=<a href='#Def.Privacy/Security_Law.Target' class='definedterm'>Privacy/Security Laws</a>
+_Privacy/Security_Laws=<a href='#Def.Privacy/Security_Law' class='definedterm'>Privacy/Security Laws</a>
 
-_Proposed_Amendment_Date=<a href='#Def.Proposed_Amendment_Date.Target' class='definedterm'>Proposed Amendment Date</a>
+_Proposed_Amendment_Date=<a href='#Def.Proposed_Amendment_Date' class='definedterm'>Proposed Amendment Date</a>
 
-_Provider_Associate=<a href='#Def.Provider_Associates.Target' class='definedterm'>Provider Associate</a>
+_Provider_Associate=<a href='#Def.Provider_Associates' class='definedterm'>Provider Associate</a>
 
-_Provider_Associates=<a href='#Def.Provider_Associates.Target' class='definedterm'>Provider Associates</a>
+_Provider_Associates=<a href='#Def.Provider_Associates' class='definedterm'>Provider Associates</a>
 
-_Provider=<a href='#Def.Provider.Target' class='definedterm'>Provider</a>
+_Provider=<a href='#Def.Provider' class='definedterm'>Provider</a>
 
-_Purpose=<a href='#Def.Purpose.Target' class='definedterm'>Purpose</a>
+_Purpose=<a href='#Def.Purpose' class='definedterm'>Purpose</a>
 
-_SaaS=<a href='#Def.SaaS.Target' class='definedterm'>SaaS</a>
+_SaaS=<a href='#Def.SaaS' class='definedterm'>SaaS</a>
 
-_Sales_Tax=<a href='#Def.Sales_Tax.Target' class='definedterm'>Sales Tax</a>
+_Sales_Tax=<a href='#Def.Sales_Tax' class='definedterm'>Sales Tax</a>
 
-_Sales_Taxes=<a href='#Def.Sales_Tax.Target' class='definedterm'>Sales Taxes</a>
+_Sales_Taxes=<a href='#Def.Sales_Tax' class='definedterm'>Sales Taxes</a>
 
-_SLA=<a href='#Def.SLA.Target' class='definedterm'>SLA</a>
+_SLA=<a href='#Def.SLA' class='definedterm'>SLA</a>
 
-_Term=<a href='#Def.Term.Target' class='definedterm'>Term</a>
+_Term=<a href='#Def.Term' class='definedterm'>Term</a>
 
-_User=<a href='#Def.User.Target' class='definedterm'>User</a>
+_User=<a href='#Def.User' class='definedterm'>User</a>
 
-_Users=<a href='#Def.User.Target' class='definedterm'>Users</a>
+_Users=<a href='#Def.User' class='definedterm'>Users</a>
 
 NoteCoder=The place a Defined Term is defined is the "Target". 
 
-Def.Agreement.Target={_Agreement}
+Def.Agreement={_Agreement}
 
-Def.AUP.Target={_AUP}
+Def.AUP={_AUP}
 
-Def.Client_ToS.Target={_Client_ToS}
+Def.Client_ToS={_Client_ToS}
 
-Def.Confidential_Information.Target={_Confidential_Information}
+Def.Confidential_Information={_Confidential_Information}
 
-Def.Customer_Data.Target={_Customer_Data}
+Def.Customer_Data={_Customer_Data}
 
-Def.Customer.Target={_Customer}
+Def.Customer={_Customer}
 
-Def.Customer’s_Clients.Target={_Customer’s_Clients}
+Def.Customer’s_Clients={_Customer’s_Clients}
 
-Def.Data_Incident.Target={_Data_Incident}
+Def.Data_Incident={_Data_Incident}
 
-Def.De-Identified_Data.Target={_De-Identified_Data}
+Def.De-Identified_Data={_De-Identified_Data}
 
-Def.Documentation.Target={_Documentation}
+Def.Documentation={_Documentation}
 
-Def.Effective_Date.Target={_Effective_Date}
+Def.Effective_Date={_Effective_Date}
 
-Def.Excluded_Data_Laws.Target={_Excluded_Data_Laws}
+Def.Excluded_Data_Laws={_Excluded_Data_Laws}
 
-Def.Excluded_Data.Target={_Excluded_Data}
+Def.Excluded_Data={_Excluded_Data}
 
-Def.Feedback.Target={_Feedback}
+Def.Feedback={_Feedback}
 
-Def.Indemnified_Claim.Target={_Indemnified_Claim}
+Def.Indemnified_Claim={_Indemnified_Claim}
 
-Def.Order.Target={_Order}
+Def.Order={_Order}
 
-Def.Privacy/Security_Law.Target={_Privacy/Security_Law}
+Def.Privacy/Security_Law={_Privacy/Security_Law}
 
-Def.Proposed_Amendment_Date.Target={_Proposed_Amendment_Date}
+Def.Proposed_Amendment_Date={_Proposed_Amendment_Date}
 
-Def.Provider_Associates.Target={_Provider_Associates}
+Def.Provider_Associates={_Provider_Associates}
 
-Def.Provider.Target={_Provider}
+Def.Provider={_Provider}
 
-Def.Purpose.Target={_Purpose}
+Def.Purpose={_Purpose}
 
-Def.SaaS.Target={_SaaS}
+Def.SaaS={_SaaS}
 
-Def.Sales_Tax.Target={_Sales_Tax}
+Def.Sales_Tax={_Sales_Tax}
 
-Def.SLA.Target={_SLA}
+Def.SLA={_SLA}
 
-Def.Term.Target={_Term}
+Def.Term={_Term}
 
-Def.User.Target={_User}
+Def.User={_User}

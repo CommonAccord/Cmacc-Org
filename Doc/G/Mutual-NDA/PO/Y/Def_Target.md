@@ -1,21 +1,21 @@
-Confidential_Information.Target={_Confidential_Information}
+Confidential_Information={_Confidential_Information}
 
-Cover_Page.Target={_Cover_Page}
+Cover_Page={_Cover_Page}
 
-Disclosing_Party.Target={_Disclosing_Party}
+Disclosing_Party={_Disclosing_Party}
 
-MNDA.Target={_MNDA}
+MNDA={_MNDA}
 
-Receiving_Party.Target={_Receiving_Party}
+Receiving_Party={_Receiving_Party}
 
 Standard_Terms={_Standard_Terms}
 
-MNDA_Term.Target={_MNDA_Term}
+MNDA_Term={_MNDA_Term}
 
-Term_of_Confidentiality.Target={_Term_of_Confidentiality}
+Term_of_Confidentiality={_Term_of_Confidentiality}
 
-Governing_Law.Target={_Governing_Law}
+Governing_Law={_Governing_Law}
 
-Jurisdiction.Target={_Jurisdiction}
+Jurisdiction={_Jurisdiction}
 
-Standard_Terms.Target={_Standard_Terms}
+Standard_Terms={_Standard_Terms}

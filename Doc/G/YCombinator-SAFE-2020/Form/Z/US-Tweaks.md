@@ -63,22 +63,22 @@ stockholder.cl=stockholder
 lien_on_any_property=lien on any property
 
 
-Def.Capital_Stock.Target={_Capital_Stock}
+Def.Capital_Stock={_Capital_Stock}
 
-Def.Common_Stock.Target={_Common_Stock}
+Def.Common_Stock={_Common_Stock}
 
-Def.Preferred_Stock.Target={_Preferred_Stock}
+Def.Preferred_Stock={_Preferred_Stock}
 
-Def.Safe_Preferred_Stock.Target={_Safe_Preferred_Stock}
+Def.Safe_Preferred_Stock={_Safe_Preferred_Stock}
 
-Def.Standard_Preferred_Stock.Target={_Standard_Preferred_Stock}
+Def.Standard_Preferred_Stock={_Standard_Preferred_Stock}
 
-_Capital_Stock=<a href='#Def.Capital_Stock.Target' class='definedterm'>Capital Stock</a>
+_Capital_Stock=<a href='#Def.Capital_Stock' class='definedterm'>Capital Stock</a>
 
-_Common_Stock=<a href='#Def.Common_Stock.Target' class='definedterm'>Common Stock</a>
+_Common_Stock=<a href='#Def.Common_Stock' class='definedterm'>Common Stock</a>
 
-_Preferred_Stock=<a href='#Def.Preferred_Stock.Target' class='definedterm'>Preferred Stock</a>
+_Preferred_Stock=<a href='#Def.Preferred_Stock' class='definedterm'>Preferred Stock</a>
 
-_Safe_Preferred_Stock=<a href='#Def.Safe_Preferred_Stock.Target' class='definedterm'>Safe Preferred Stock</a>
+_Safe_Preferred_Stock=<a href='#Def.Safe_Preferred_Stock' class='definedterm'>Safe Preferred Stock</a>
 
-_Standard_Preferred_Stock=<a href='#Def.Standard_Preferred_Stock.Target' class='definedterm'>Standard Preferred Stock</a>
+_Standard_Preferred_Stock=<a href='#Def.Standard_Preferred_Stock' class='definedterm'>Standard Preferred Stock</a>

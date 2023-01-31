@@ -24,7 +24,7 @@ sec={Intro.sec}<br><ol class="secs-and"><li>{Def.Sec}<li>{License.Sec}<li>{Subli
 
 _=[G/AgtForm/US/Def/Link/0.md]
 
-Def.=[G/AgtForm/US/Def/Target/0.md]
+DefT.=[G/AgtForm/US/Def/Target/0.md]
 
 Note=Special Definitions:
 

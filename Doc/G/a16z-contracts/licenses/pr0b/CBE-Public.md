@@ -4,13 +4,13 @@ CodersNotes=The CC0 Agreement is referenced with a link in Section 1.1 and somew
 
 CodersNote=The organization of this CBE-Public is in 2 Sections, while the other licenses are organized in 3 Sections. The difference is that in this CBE-Public license, the "Disclaimers" Section (# 2 in the other licenses) is included in the "Grant" Section (# 1) as Section 1.3.  It could be renumbered as Section 2, which would make it parallel the other licenses.  
 
-Intro.sec=By acquiring lawful ownership to a non-fungible token (“{_NFT.Target}”) associated with the {_NFT} project made available under this {_NFT} License (“{_Project_NFT.Target}”) created by the owner or entity that has created this {_Project_NFT} (“{_Creator.Target}” or “we” or “our”) or by using, distributing, reproducing, displaying, performing, modifying, or creating derivative works of any associated artwork, images, video, content or other works of authorship linked to a specific {_Project_NFT} which was developed by {_Creator} (the “{_NFT_Media.Target}”), you agree to these {_NFT} License Terms and Conditions (the “{_Terms.Target}”). When you lawfully own a {_Project_NFT}, you own all personal property rights to the {_NFT} underlying the {_Project_NFT} (e.g., the right to freely sell, transfer, or otherwise dispose of that {_Project_NFT}). However, your rights to the {_NFT_Media} are only as outlined below.
+Intro.sec=By acquiring lawful ownership to a non-fungible token (“{_NFT}”) associated with the {_NFT} project made available under this {_NFT} License (“{_Project_NFT}”) created by the owner or entity that has created this {_Project_NFT} (“{_Creator}” or “we” or “our”) or by using, distributing, reproducing, displaying, performing, modifying, or creating derivative works of any associated artwork, images, video, content or other works of authorship linked to a specific {_Project_NFT} which was developed by {_Creator} (the “{_NFT_Media}”), you agree to these {_NFT} License Terms and Conditions (the “{_Terms}”). When you lawfully own a {_Project_NFT}, you own all personal property rights to the {_NFT} underlying the {_Project_NFT} (e.g., the right to freely sell, transfer, or otherwise dispose of that {_Project_NFT}). However, your rights to the {_NFT_Media} are only as outlined below.
 
 Grant.Ti=APPLICATION OF CC0 
 
 Grant.CC0License.Ti=Applying CC0 to {_NFT_Media}
 
-Grant.CC0License.sec={_Creator} hereby makes all {_NFT_Media} linked to a {_Project_NFT} freely available for use by the public under the terms of the Creative Commons CC0 1.0 Universal, a copy of which is available here – <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">https://creativecommons.org/publicdomain/zero/1.0/legalcode</a> (“{_CC0_Agreement.Target}”). 
+Grant.CC0License.sec={_Creator} hereby makes all {_NFT_Media} linked to a {_Project_NFT} freely available for use by the public under the terms of the Creative Commons CC0 1.0 Universal, a copy of which is available here – <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">https://creativecommons.org/publicdomain/zero/1.0/legalcode</a> (“{_CC0_Agreement}”). 
 
 Grant.Restrict.Ti=Restrictions
 
@@ -57,10 +57,10 @@ sec={Intro.sec}<ol><li>{Grant.Sec}</li><li>{Other.Sec}</li></ol>
 
 Note=Kludgey - to make cross-references work.  (Let's explore whether there is a more systematic solution)
 
-CBE-Exclusive._OFAC=<a href='#CBE-Exclusive._OFAC.Target' class='definedterm'>OFAC</a>
+CBE-Exclusive._OFAC=<a href='#CBE-Exclusive._OFAC' class='definedterm'>OFAC</a>
 
-CBE-Exclusive._Restricted_Parties=<a href='#CBE-Exclusive._Restricted_Parties.Target' class='definedterm'>Restricted Parties</a>
+CBE-Exclusive._Restricted_Parties=<a href='#CBE-Exclusive._Restricted_Parties' class='definedterm'>Restricted Parties</a>
 
-CBE-Exclusive._Template_Provider_Entities=<a href='#CBE-Exclusive._Template_Provider_Entities.Target' class='definedterm'>Template Provider Entities</a>
+CBE-Exclusive._Template_Provider_Entities=<a href='#CBE-Exclusive._Template_Provider_Entities' class='definedterm'>Template Provider Entities</a>
 
-CBE-Exclusive._Additional_Features=<a href='#CBE-Exclusive._Additional_Features.Target' class='definedterm'>Additional Features</a>
+CBE-Exclusive._Additional_Features=<a href='#CBE-Exclusive._Additional_Features' class='definedterm'>Additional Features</a>

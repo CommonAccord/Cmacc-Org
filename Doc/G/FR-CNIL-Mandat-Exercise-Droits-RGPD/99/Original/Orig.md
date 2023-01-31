@@ -16,11 +16,11 @@ Attention : ce document est un exemple de mandat relatif à l’exercice des dro
 
 0.2.4.sec=immatriculation : {P2.FR.Contract.Among.Register.cl} 
 
-0.2.5.sec=ci-après « le {Def.mandataire.Target} », 
+0.2.5.sec=ci-après « le {Def.mandataire} », 
 
 0.2.=[G/Z/ol-none/s5]
 
-0.3.sec=à réaliser, en mon nom et pour mon compte l’exercice du (des) droit(s) qui me sont conférés par le règlement (UE) n° 2016/679 (« {Def.RGPD.Target} »), dans les conditions décrites dans le présent mandat.
+0.3.sec=à réaliser, en mon nom et pour mon compte l’exercice du (des) droit(s) qui me sont conférés par le règlement (UE) n° 2016/679 (« {Def.RGPD} »), dans les conditions décrites dans le présent mandat.
 
 0.=[G/Z/paras/s3]
 
@@ -195,18 +195,18 @@ LawyersNote="web scrapping" is i) defined but not used and ii) misspelled - shou
 
 
 
-_RGPD=<a href='#Def.RGPD.Target' class='definedterm'>RGPD</a>
+_RGPD=<a href='#Def.RGPD' class='definedterm'>RGPD</a>
 
-_mandataire=<a href='#Def.mandataire.Target' class='definedterm'>mandataire</a>
+_mandataire=<a href='#Def.mandataire' class='definedterm'>mandataire</a>
 
-_responsable_de_traitement=<a href='#Def.responsable_de_traitement.Target' class='definedterm'>responsable de traitement</a>
-
-
-Def.mandataire.Target={_mandataire}
-
-Def.RGPD.Target={_RGPD}
-
-Def.responsable_de_traitement.Target={_responsable_de_traitement}
+_responsable_de_traitement=<a href='#Def.responsable_de_traitement' class='definedterm'>responsable de traitement</a>
 
 
-F1.FR.Contract.Among.Handle={Def.responsable_de_traitement.Target}
+Def.mandataire={_mandataire}
+
+Def.RGPD={_RGPD}
+
+Def.responsable_de_traitement={_responsable_de_traitement}
+
+
+F1.FR.Contract.Among.Handle={Def.responsable_de_traitement}

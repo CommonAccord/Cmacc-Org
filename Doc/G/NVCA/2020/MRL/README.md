@@ -1,0 +1,1 @@
+# NVCA-2020-Management-Rights-Letter

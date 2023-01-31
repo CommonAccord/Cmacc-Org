@@ -280,7 +280,7 @@ Registrable_Securities.CommonFromPreferred.Base.sec=the Common Stock issuable or
 
 Registrable_Securities.CommonFromPreferred.Alt1.sec={Registrable_Securities.CommonFromPreferred.Base.sec}
 
-Registrable_Securities.CommonFromPreferred.Alt2.sec={DefT.Registrable_Securities.CommonFromPreferred.ExcludingSpecialMandatoryConversion.sec}
+Registrable_Securities.CommonFromPreferred.Alt2.sec={Registrable_Securities.CommonFromPreferred.ExcludingSpecialMandatoryConversion.sec}
 
 Registrable_Securities.CommonFromPreferred.=[G/Z/Alt/2]
 
@@ -374,3 +374,4 @@ Transfer_Stock.sec=“{DefT.Transfer_Stock}” means shares of Capital Stock own
 
 Undersubscription_Notice.sec=“{DefT.Undersubscription_Notice}” means written notice from an Investor notifying the Company and the selling Key Holder that such Investor intends to exercise its option to purchase all or any portion of the Transfer Stock not purchased pursuant to the Right of First Refusal or the Secondary Refusal Right.
 
+=[G/Z/Base]

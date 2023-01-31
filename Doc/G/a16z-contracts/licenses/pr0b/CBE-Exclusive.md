@@ -14,7 +14,7 @@ Affiliates.cl=past, present and future parents, affiliates or licensees (or any 
 
 Note=The text of CBE-Exclusive:
 
-Intro.sec=By acquiring lawful ownership to a non-fungible token (“{_NFT.Target}”) associated with the NFT project made available under this NFT License (“{_Project_NFT.Target}”) created by the owner or entity that has created this {_Project_NFT} (“{_Creator.Target}” or “we” or “our”), you agree to these NFT License Terms and Conditions (the “{_Terms.Target}”). When you lawfully own a {_Project_NFT}, you own all personal property rights to the NFT underlying the {_Project_NFT} (e.g., the right to freely sell, transfer, or otherwise dispose of that {_Project_NFT}). However, your rights to the associated artwork, images, video, content or other works of authorship linked to your specific {_Project_NFT} which was developed by {_Creator} (“{_NFT_Media.Target}”) are only as outlined below.
+Intro.sec=By acquiring lawful ownership to a non-fungible token (“{_NFT}”) associated with the NFT project made available under this NFT License (“{_Project_NFT}”) created by the owner or entity that has created this {_Project_NFT} (“{_Creator}” or “we” or “our”), you agree to these NFT License Terms and Conditions (the “{_Terms}”). When you lawfully own a {_Project_NFT}, you own all personal property rights to the NFT underlying the {_Project_NFT} (e.g., the right to freely sell, transfer, or otherwise dispose of that {_Project_NFT}). However, your rights to the associated artwork, images, video, content or other works of authorship linked to your specific {_Project_NFT} which was developed by {_Creator} (“{_NFT_Media}”) are only as outlined below.
 
 Grant.Ti=NFT LICENSE GRANT
 
@@ -34,11 +34,11 @@ Grant.License.sec={Grant.License.NFT.sec} {Grant.License.Display.sec} {Grant.Lic
 
 Grant.Derivative.Ti=Modifications and Derivative Works
 
-Grant.Derivative.YourLimit.Intro.sec=We understand that you may want to create derivative works of the {_NFT_Media} (“{_Your_NFT_Media_Derivatives.Target}”) and we allow you to do so under the scope of the license granted above. However, you acknowledge and agree that 
+Grant.Derivative.YourLimit.Intro.sec=We understand that you may want to create derivative works of the {_NFT_Media} (“{_Your_NFT_Media_Derivatives}”) and we allow you to do so under the scope of the license granted above. However, you acknowledge and agree that 
 
 Grant.Derivative.YourLimit.SubsequentOwnerDerivatives.sec=the subsequent lawful owner of the {_Project_NFT} may create its own derivatives of the {_NFT_Media}
 
-Grant.Derivative.YourLimit.OtherOwnerDerivatives.sec=other owners of their own {_Project_NFT}s and the associated artwork, images, video, content or other works of authorship linked to such {_Project_NFT} (“{_Other_Project_NFT_Media.Target}”) may also create their own derivatives of the {_Other_Project_NFT_Media} (each of them “{_Other_NFT_Media_Derivatives.Target}”)
+Grant.Derivative.YourLimit.OtherOwnerDerivatives.sec=other owners of their own {_Project_NFT}s and the associated artwork, images, video, content or other works of authorship linked to such {_Project_NFT} (“{_Other_Project_NFT_Media}”) may also create their own derivatives of the {_Other_Project_NFT_Media} (each of them “{_Other_NFT_Media_Derivatives}”)
 
 Grant.Derivative.YourLimit.sec={Grant.Derivative.YourLimit.Intro.sec} (a) {Grant.Derivative.YourLimit.SubsequentOwnerDerivatives.sec} and (b) {Grant.Derivative.YourLimit.OtherOwnerDerivatives.sec}.
 
@@ -66,7 +66,7 @@ Grant.Derivative.=[G/Z/Base]
 
 Grant.Trademark.Ti=No Rights to Trademarks
 
-Grant.Trademark.sec=Nothing in these {_Terms} is meant to grant you any rights to any logos, trademarks, service marks, and trade dress associated with {_Creator} or the {_Project_NFT}s (“{_Project_Trademarks.Target}”). Unless you have our prior written approval, you may not use any {_Project_Trademarks} for any use that would require a license from us, including to register any domain names or social media accounts using any {_Project_Trademarks}, in any {_NFT_Media_Derivatives}, or to advertise or promote any other products or services.
+Grant.Trademark.sec=Nothing in these {_Terms} is meant to grant you any rights to any logos, trademarks, service marks, and trade dress associated with {_Creator} or the {_Project_NFT}s (“{_Project_Trademarks}”). Unless you have our prior written approval, you may not use any {_Project_Trademarks} for any use that would require a license from us, including to register any domain names or social media accounts using any {_Project_Trademarks}, in any {_NFT_Media_Derivatives}, or to advertise or promote any other products or services.
 
 Grant.Trademark.=[G/Z/Base]
 
@@ -94,7 +94,7 @@ Grant.Transfer.=[G/Z/para/s4]
 
 Grant.3PartyContent.Ti={_Third_Party_Content}
 
-Grant.3PartyContent.sec=The {_Creator} hereby represents and warrants to you that all of the copyrights in the {_NFT_Media} are owned by the {_Creator}, and does not contain (a) any artwork, images, video, content or other works of authorship, (b) logos, trademarks, service marks, or trade dress or rights of personality in which the relevant intellectual property rights are not owned by the {_Creator} (“{_Third_Party_Content.Target}”), provided that the foregoing shall not apply if the {_Creator} has obtained a license to such {_Third_Party_Content} consistent with the licenses under this Agreement or the {_Creator} has supplemented this NFT License with an additional license that governs your right to use such {_Third_Party_Content}.
+Grant.3PartyContent.sec=The {_Creator} hereby represents and warrants to you that all of the copyrights in the {_NFT_Media} are owned by the {_Creator}, and does not contain (a) any artwork, images, video, content or other works of authorship, (b) logos, trademarks, service marks, or trade dress or rights of personality in which the relevant intellectual property rights are not owned by the {_Creator} (“{_Third_Party_Content}”), provided that the foregoing shall not apply if the {_Creator} has obtained a license to such {_Third_Party_Content} consistent with the licenses under this Agreement or the {_Creator} has supplemented this NFT License with an additional license that governs your right to use such {_Third_Party_Content}.
 
 Grant.3PartyContent.=[G/Z/Base]
 
@@ -112,11 +112,11 @@ Grant.Restrict.PurchaserQualification.3.1.sec=you are an individual, you agree o
 
 Grant.Restrict.PurchaserQualification.3.2.0.sec=if you are an entity, you agree that neither the entity nor any of your owners or investors or any of their directors, officers, employees, agents or affiliates acting on your behalf:
 
-Grant.Restrict.PurchaserQualification.3.2.1.sec=is related in any way to, the governments of, or any persons within, any country or jurisdiction under a U.S. embargo enforced by the Office of Foreign Assets Control (“{_OFAC.Target}”), or any persons who are named on any list of sanctioned individuals or entities
+Grant.Restrict.PurchaserQualification.3.2.1.sec=is related in any way to, the governments of, or any persons within, any country or jurisdiction under a U.S. embargo enforced by the Office of Foreign Assets Control (“{_OFAC}”), or any persons who are named on any list of sanctioned individuals or entities
 
 Grant.Restrict.PurchaserQualification.3.2.2.sec=is (or has ever been) prohibited from the transaction pursuant to U.S. anti-money laundering, anti-terrorist, economic sanctions and asset control laws
 
-Grant.Restrict.PurchaserQualification.3.2.3.sec=is resident in a country or jurisdiction under a U.S. embargo enforced by {_OFAC} (“{_Restricted_Parties.Target}”)
+Grant.Restrict.PurchaserQualification.3.2.3.sec=is resident in a country or jurisdiction under a U.S. embargo enforced by {_OFAC} (“{_Restricted_Parties}”)
 
 Grant.Restrict.PurchaserQualification.3.2.secs={Grant.Restrict.PurchaserQualification.3.2.secs;and}
 
@@ -140,7 +140,7 @@ Risk.Disclaim.Ti=Disclaimers
 
 Risk.Disclaim.sec=<span style="text-transform:uppercase">{Risk.Disclaim.sec.lc}</span>
 
-Risk.Disclaim.sec.lc=Your access to and use of the {_Project_NFT} and {_NFT_Media} is at your own risk. Except as expressly set forth herein, to the maximum extent permitted under applicable law, {_Creator}, its parents, affiliates, partners, employees, officers, directors, contractors, agents, licensors and equityholders (the “{_Creator_Entities.Target}”) disclaim all warranties and conditions, whether express or implied, including, without limitation, warranties of merchantability, fitness for a particular purpose, title and non-infringement in the {_Project_NFT}s and {_NFT_Media}. The {_Creator_Entities}  make no warranty or representation and disclaim all responsibility and liability for: (a) the completeness, accuracy, availability, timeliness, originality, security or reliability of the {_Project_NFT}s and {_NFT_Media}; (b) the operation or compatibility with any other application or any particular system, device, blockchain, digital wallet, hardware or marketplace; and (c) whether the {_Project_NFT}s and {_NFT_Media} will meet your requirements or be available on an uninterrupted, secure or error-free basis; and (d) the deletion of, or the failure to store or transmit the {_Project_NFT}s and {_NFT_Media}. The {_Project_NFT}s and {_NFT_Media} are intended for consumer enjoyment, use and consumption only.
+Risk.Disclaim.sec.lc=Your access to and use of the {_Project_NFT} and {_NFT_Media} is at your own risk. Except as expressly set forth herein, to the maximum extent permitted under applicable law, {_Creator}, its parents, affiliates, partners, employees, officers, directors, contractors, agents, licensors and equityholders (the “{_Creator_Entities}”) disclaim all warranties and conditions, whether express or implied, including, without limitation, warranties of merchantability, fitness for a particular purpose, title and non-infringement in the {_Project_NFT}s and {_NFT_Media}. The {_Creator_Entities}  make no warranty or representation and disclaim all responsibility and liability for: (a) the completeness, accuracy, availability, timeliness, originality, security or reliability of the {_Project_NFT}s and {_NFT_Media}; (b) the operation or compatibility with any other application or any particular system, device, blockchain, digital wallet, hardware or marketplace; and (c) whether the {_Project_NFT}s and {_NFT_Media} will meet your requirements or be available on an uninterrupted, secure or error-free basis; and (d) the deletion of, or the failure to store or transmit the {_Project_NFT}s and {_NFT_Media}. The {_Project_NFT}s and {_NFT_Media} are intended for consumer enjoyment, use and consumption only.
 
 Risk.LimitLiability.Ti=Limitations of Liability
 
@@ -166,7 +166,7 @@ Risk.TemplateProviderDisclaimer.0.sec=You and {_Creator} each agree and acknowle
 
 Risk.TemplateProviderDisclaimer.1.sec=these terms are based on a template that has been provided for public use
 
-Risk.TemplateProviderDisclaimer.2.sec=each party and its heirs, successors and assigns, irrevocably covenants and agrees not to assert or bring any suit, claim, demand or challenge against the providers of such template, their parents, affiliates, related companies, officers, directors, employees, agents, representatives, partners, service providers and licensors (the “{_Template_Provider_Entities.Target}”) in connection with these terms
+Risk.TemplateProviderDisclaimer.2.sec=each party and its heirs, successors and assigns, irrevocably covenants and agrees not to assert or bring any suit, claim, demand or challenge against the providers of such template, their parents, affiliates, related companies, officers, directors, employees, agents, representatives, partners, service providers and licensors (the “{_Template_Provider_Entities}”) in connection with these terms
 
 Risk.TemplateProviderDisclaimer.3.sec=the availability of these terms shall not be construed as legal advice for any particular facts or circumstances and are not meant to replace consulting competent counsel who is aware of your specific facts and circumstances and those of {_Creator}
 
@@ -186,7 +186,7 @@ Other.Ti=ADDITIONAL PROVISIONS
 
 AdditionalFeatures.Ti=Additional Features
 
-AdditionalFeatures.sec={_Creator} may choose to make additional features, access, content, items or other benefits available to owners of {_Project_NFT}s (“{_Additional_Features.Target}”). {_Creator} has no duty or obligation to provide you with any {_Additional_Features}, and you should not expect any {_Additional_Features} when acquiring a {_Project_NFT}. {_Additional_Features} may be subject to additional terms and conditions, which may be presented to you at the time they are made available.
+AdditionalFeatures.sec={_Creator} may choose to make additional features, access, content, items or other benefits available to owners of {_Project_NFT}s (“{_Additional_Features}”). {_Creator} has no duty or obligation to provide you with any {_Additional_Features}, and you should not expect any {_Additional_Features} when acquiring a {_Project_NFT}. {_Additional_Features} may be subject to additional terms and conditions, which may be presented to you at the time they are made available.
 
 TerminateLicense.Ti=Termination of License
 

@@ -2,7 +2,7 @@ Ti=P2B1 INFORMATION SHARING AGREEMENT
 
 Last Modified: 12 May, 2018
 
-0.sec=The P2B1 Information Sharing Agreement (the “{Def.Agreement.sec}”) constitutes a legal agreement between the individual transmitting the {_Agreement} (“I,” “me,” “my,” or “mine”) and the owners and operators of the service, website, or application receiving the {_Agreement} (“you,” “your,” or “yours”), collectively referred to as the {Def.Parties.sec} (“we” or “our”).
+0.sec=The P2B1 Information Sharing Agreement (the “{DefT.Agreement}”) constitutes a legal agreement between the individual transmitting the {_Agreement} (“I,” “me,” “my,” or “mine”) and the owners and operators of the service, website, or application receiving the {_Agreement} (“you,” “your,” or “yours”), collectively referred to as the {Def.Parties.sec} (“we” or “our”).
 
 Def.=[G/CustomerCommons_Org/p2b1/Sec/Def/0.md]
 Acceptance.=[G/CustomerCommons_Org/p2b1/Sec/Acceptance/0.md]

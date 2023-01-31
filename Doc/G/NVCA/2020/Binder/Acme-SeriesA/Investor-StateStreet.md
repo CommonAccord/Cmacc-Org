@@ -8,6 +8,8 @@ Shares.%=10%
 
 Shares.$=$100,000
 
+Party.Sign.YMD=2023-01-24
+
 CodersNote=The CDA for State Street Bank is done as if it were a VC. This is an example of a tweak that affects one Investor's documents, but not the others. The tweak is done in this form file.
 
 CDA.Conf.Engage.sec=<span class='select'>{CDA.Conf.Engage.VC.sec}</span>

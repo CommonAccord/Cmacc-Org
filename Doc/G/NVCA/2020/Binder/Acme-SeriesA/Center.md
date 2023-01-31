@@ -1,28 +1,20 @@
 Doc Forms:=(Click on the left side to see the rendered doc. Right side to navigate to the doc source. To see the doc rendered with info for each Investor, go to the Investor item, below.
 
+Note=This lays out all the document resources for an NVCA transaction and has sample deal points. Each of the documents can be rendered in its base form and in its form for particular Investors and Directors.  All this is done by "prefixing".  E.g., {Investor.1.Voting.r00t} or {Investor.2.IRA.r00t}. You can also get parts of documents, for instance {Investor.3.SPA.Purchase.Sec}.
+
 TermSheet.=[G/NVCA/2020/TermSheet/Form/0.md]
 
 COI.=[G/NVCA/2020/COI/Form/0.md]
 
 Indemn.=[G/NVCA/2020/Indemn/Form/0.md]
 
-Note=This eliminates the "Observer Rights" that are in the NVCA IRA.  And shows one way to use overrides to create multiple variations of the same doc.
+IRA.=[G/NVCA/2020/Binder/Acme-SeriesA/Form-IRA.md]
 
-IRA.InvestorAccess.=[G/NVCA/2020/IRA/Sec/InformationAccess/Overrides-ToRemoveObserverRights.md]
-
-IRA.=[G/NVCA/2020/IRA/Form/0.md]
-
-Note=The Voting Agreement is referenced in four different forms. V1, which makes some basic choices, V2 with a particular configuration of the Board, V3 with the optional "Sale Rights" and the default  with both Board and Sale Rights. This demonstrates a way to create and  maintain a series of use-cases for the form.  Each of them can be rendered for Investor.1., .2. or .3. by prefixing the key.  E.g., {Investor.1.Voting.V2.r00t} or {Investor.2.Voting.r00t}.  Choose among these by renaming the one you choose as Voting.= (removing the .V*). 
-
-Voting.V1.=[G/NVCA/2020/Voting/Form/Variant-Simple.md]
-
-Voting.V2.=[G/NVCA/2020/Voting/Form/Variant-BoardTwoPref-KH-CEO-Mut.md]
-
-Voting.V3.=[G/NVCA/2020/Voting/Form/Variant-SaleRights.md]
+Note=This is a variant of the Voting Agreement that has "Sale Rights" and a Board of Two Preferred Directors.  Three other versions are available, follow the link to figure out how.
 
 Voting.=[G/NVCA/2020/Voting/Form/Variant-SaleRights-BoardTwoPref-KH-CEO-Mut.md]
 
-CDA.=[G/NVCA/2020/Binder/Acme-SeriesA/Form-CDA.md]
+CDA.=[G/NVCA/2020/LifeScience-CDA/Form/0.md]
 
 MRL.=[G/NVCA/2020/MRL/Form/0.md]
 
@@ -32,7 +24,7 @@ ROFR.=[G/NVCA/2020/ROFR/Form/0.md]
 
 LicenseTermSheet.=[G/NVCA/2020/Binder/Acme-SeriesA/LicenseFrom-MIT.md]
 
-Docs Customized for each Investor:=Click on right side to go there.
+Docs Customized for each Investor:=Click on left side to see the Term Sheet, then make substitions in the browser bar, e.g. "&k={Investor.1.SPA.r00t}" (without the brackets). Click on the right side to see the details of the Investor, including their purchase amount, when they signed, their Indemnitor, etc.
 
 Investor.1.=[G/NVCA/2020/Binder/Acme-SeriesA/Investor-StateStreet.md]
 
@@ -231,25 +223,11 @@ COI.Resolution.10.sec={COI.Resolution.10.Alt1.sec}
 
 Indemnity.ProvidedBy.Bylaws/Bylaws_and_COI?=Bylaws and Certificate of Incorporation
 
-IRA.Ti={IRA.Ti.Simple}
-
-IRA.This.OtherParties.sec={This.OtherParties.InvestorsAndKeyHolders.sec}
-
-IRA.Why.sec={IRA.Why.InvestorsAndExistingHolders.sec}
-
-IRA.That.sec={IRA.That.InvestorsAndExistingHolders.sec}
-
-IRA.PriorAgreement.Amend-Restate.??={IRA.PriorAgreement.Amend-Restate.Alt1}
-
-IRA.PriorAgreement.Amended-Restated.??={IRA.PriorAgreement.Amended-Restated.Alt1}
-
 IRA.ExistingInvestors.HoldShares.AtLeast.percent(%)=five percent (5%)
 
 IRA._Series_?_Preferred_Stock={_Series_A_Preferred_Stock}
 
 ExistingInvestors.HoldShares.AtLeast.percent(%)=twenty percent (20%)
-
-IRA.FOIA.Party.Board.Determination.??={IRA.FOIA.Party.Board.Determination.Alt1}
 
 Note=Used in both IRA and ROFR:
 
@@ -257,13 +235,7 @@ Def.Preferred_Stock.sec={Def.Preferred_Stock.SeriesAOnly.sec}
 
 Def.Registrable_Securities.CommonFromPreferred.sec={Def.Registrable_Securities.CommonFromPreferred.Base.sec}
 
-IRA.S-1.TimeWindow.Start.sec={IRA.S-1.TimeWindow.Start.AfterAgreementOrRegistration.sec}
 
-IRA.Register.ByDemand.S-1.2.lesser.Yes/No={IRA.Register.ByDemand.S-1.2.lesser.Yes}
-
-CodersNote=Suggested range is 5 to 15 million. I picked 5 million.
-
-IRA.Register.ByDemand.S-1.IfOfferingPrice.Exceeds.$=five (5) million
 
 IRA.managing_underwriter/underwriter=underwriter
 
@@ -275,37 +247,26 @@ IRA.Register.ByCompany.Common_Stock/securities={_Common_Stock}
 
 IRA.Company/Board_of_Directors={_Company}
 
-IRA.Register.UnderwriterApproval.SubjectToBoard.Yes/No={IRA.Register.UnderwriterApproval.SubjectToBoard.Yes}
 
 SellingHolderCounsel.Fee.Max.$=$35,000
 
-IRA.SellingHolderCounsel.selected_by_Holders.Yes/No={IRA.SellingHolderCounsel.selected_by_Holders.Yes}
-
-IRA.Amend.AffectingMajorInvestor.AtLeastMajority.Yes/No={IRA.Amend.AffectingMajorInvestor.AtLeastMajority.Yes}
 
 Series_?_Preferred_Stock={_Series_A_Preferred_Stock}
 
-IRA.InvestorAccess.FinancialStatements.UnlessCompetitor.Yes/No?={IRA.InvestorAccess.FinancialStatements.UnlessCompetitor.Yes}
 
-IRA.Successor.Transferee.BecomesBigHolder.sec={IRA.Successor.Transferee.BecomesBigHolder.Alt1.sec}
+CodersNote=Suggested range is 5 to 15 million. I picked 7 million.
 
 IRA.Register.ByDemand.S-1.IfOfferingPrice.Exceeds.$=seven (7) million dollars
 
 IRA.Register.ByDemand.S-3.IfOfferingPrice.Exceeds.$=four (4) million dollars
 
-IRA.Register.ByDemand.Delay.ByCompany.days=sixty (60) days
+Register.ByDemand.S-3.Holders.of-at-least-percent=ten percent (10%)
 
-IRA.Register.CompanyDuty.1.2.1.sec={IRA.Register.CompanyDuty.1.2.1.Base-ExtendForContinuous.sec}
+IRA.Register.ByDemand.Delay.ByCompany.days=sixty (60) days
 
 IRA.Register.CompanyDuty.ExtendForContinuous.days=60 days
 
-IRA.Register.Underwriting.1.3.2..sec={IRA.Register.Underwriting.1.3.2.Base.sec}
 
-IRA.Register.Underwriting.1.3.2.sec={IRA.Register.Underwriting.1.3.2.LimitOnScopeOfHolderReps.sec}
-
-IRA.InvestorAccess.Termination.sec={IRA.InvestorAccess.Termination.sec.WithProviso}
-
-IRA.InvestorAccess.ObserverRight.SameAsDirectors.cl?={IRA.InvestorAccess.ObserverRight.SameAsDirectors.cl}
 
 Misc.ConsentToAmend.By.KeyHolder.%=60%
 
@@ -316,8 +277,6 @@ Misc.ConsentToAmend.By.Common.%=60%
 Successor.Transferee.BecomesBigHolder.Shares.Number=100,000
 
 Def.NotRegistrable.IfIssuedUnderClause.0/1/1and2={Def.NotRegistrable.IfIssuedUnderClause.1and2}
-
-IRA.Misc.EntireAgreement.sec={IRA.Misc.EntireAgreement.Base.sec}
 
 CodersNote=Used in both the MRL. 
 
@@ -499,16 +458,9 @@ r00t={TermSheet.r00t}
 
 Common Defined Terms:=
 
-
-_=[G/NVCA/2020/Share/Z/Def/Link.md]
-
-DefT.=[G/NVCA/2020/Share/Z/Def/Target.md]
-
-Def.=[G/NVCA/2020/Share/TermsDefined.md]
-
 !!!=#
 
-Def.!!!={!!!}Def.
+Def.!!!={!!!}DefT.
 
 Def.SecName={SecName}Def.
 

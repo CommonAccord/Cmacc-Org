@@ -106,7 +106,7 @@ print "$_=<br><br>" foreach @arr;
 
 # print "$_=<a href='#Def." . substr($_, 1).".sec' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 
-# to mark the place a defined term is defined inline - use the convention "{Def.My_Term.sec}".  This will make Def.My_Term.sec={_My_Term}.
+# to mark the place a defined term is defined inline - use the convention "{DefT.My_Term}".  This will make Def.My_Term.sec={_My_Term}.
 
 # print "$_=\{_" . substr($_, 4, -4) ."\}\n" foreach @arr;
 
