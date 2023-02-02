@@ -51,3 +51,26 @@ InvestorAccess.Termination.sec={InvestorAccess.Termination.sec.WithProviso}
 InvestorAccess.ObserverRight.SameAsDirectors.cl?={InvestorAccess.ObserverRight.SameAsDirectors.cl}
 
 Misc.EntireAgreement.sec={Misc.EntireAgreement.Base.sec}
+
+
+Company.Q.QualifiedSmallBusiness.C-Corp.Y/N/A=Yes
+
+Company.Q.QualifiedSmallBusiness.50Million.Y/N/A=Yes
+
+Company.Q.QualifiedSmallBusiness.Sec1202Reporting.Y/N/A=Yes
+
+Company.Q.QualifiedTradeOrBusiness.Y/N/A=Yes
+
+Company.Q.EligibleCorporation.Y/N/A=Yes
+
+Company.Q.ActiveBusiness.80%ofAssetsUsedInQualifiedBusiness.Y/N/A=Yes
+
+Company.Q.ActiveBusiness.10%MaxArePortfolio.Y/N/A=Yes
+
+Company.Q.ActiveBusiness.10%MaxAreRealEstate.Y/N/A=Yes
+
+Company.Q.ActiveBusiness.SpecializedSmallBusinessInvestmentCompany.Y/N/A=Not Applicable
+
+Company.Q.Redemption.NoneForThisStockholderInLast4Years.Y/N/A=Yes
+
+Company.Q.Redemption.NoneFor5%InLast2Years.Y/N/A=Yes

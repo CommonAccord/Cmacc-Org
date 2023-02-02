@@ -29,3 +29,5 @@ OtherIndemnitor.=[G/U/Who/safe_hands_inc.md]
 CDA.Party.=[G/U/Who/state_street_corporation.md]
 
 =[G/NVCA/2020/Binder/Acme-SeriesA/Center.md]
+
+IRA.Company.Q.Redemption.NoneFor5%InLast2Years.Y/N/A=???
