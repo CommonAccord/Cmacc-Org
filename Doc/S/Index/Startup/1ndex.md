@@ -25,3 +25,5 @@ SeriesA-Lipshaw/=[G/Lipshaw_EVCL_CmA/Demo/]
 France-TermSheet-Galion/=[G/GalionProject-TermSheet-CmA/]
 
 France-SharePurchase-Bondard-=[G/CabinetBondard/CessionPartsSAS-CmA/Sec/0.md]
+
+KISS-[G/500Startups-KISS-CmA/] ///incomplete
