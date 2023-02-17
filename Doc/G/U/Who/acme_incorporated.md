@@ -26,6 +26,8 @@ FR.Personality.type="corporation de Delaware, Etats-Unis"
 
 Register.Account.#=12345654321
 
+Notice.=[G/U/Who/abigail_altima.md]
+
 Signer.=[G/U/Who/abigail_altima.md]
 
 Signer.Title=President
@@ -35,8 +37,6 @@ Contact.Name.Full=Andreas Andros
 Contact.Email=andreas.andros@acme.com
 
 Secretary.Title=Corporate Secretary
-
-Notice.Name.Full={Contact.Name.Full}
 
 Notice.Title=Corporate Secretary
 

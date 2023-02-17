@@ -35,3 +35,6 @@ Sign.Title=Manager
 Signer.=[G/U/Who/andrea_ang.md]
 
 Signer.Title=Manager
+
+Notice.=[G/U/Who/andrea_ang.md]
+
