@@ -102,7 +102,23 @@ LP.ConsentToChangeOfControl.Interest.%=85%
 
 LPConsent.AmendKeyObjectives.Interest.%=90%
 
-Reserves.%=3%
+Reserves.Cap.%=3%
+
+AdjustmentsBetweenVehicles.CompletedWithin.days=forty-five (45) days
+
+ReturnUnusedCapitalDrawdowns.Within.days=sixty (60) days
+
+NotReturnCapitalDrawdowns.IfNewCallExpected.Within.days=thirty (30) days
+
+Notice.GPtoLP.DefaultByAnyLP.days=10%
+
+CommitmentPeriod.TimeAfterToComplete.days=one hundred twenty (120) days
+
+CommitmentPeriod.Suspension.KeyPerson.TimeToCure.days=ninety (90) days
+
+Notice.GPtoLP.MeetingMinutes.days=thirty (30) days
+
+ProceedsDistributed.CompleteAfterReceiptWithin.days=forty-five (45) days
 
 GP.GoverningStatute.Title=Chapter 17 of the Delaware Uniform Commercial Code 
 
