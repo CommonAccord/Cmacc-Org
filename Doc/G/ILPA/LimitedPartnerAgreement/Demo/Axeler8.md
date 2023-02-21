@@ -43,6 +43,8 @@ CommitmentPeriod.End.FundAnniversary.nth=fifth
 
 CommitmentPeriod.End.Invested.%=100%
 
+Fund.End.TermAnniversary.nth=tenth
+
 OrganizationalExpensesCap.%=1.0%
 
 OrganizationalExpensesCap.$=$100,000
