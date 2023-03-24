@@ -16,6 +16,10 @@ Converting_Securities={_Converting_Securities}
 
 Direct_Listing={_Direct_Listing}
 
+Discount_Price={_Discount_Price}
+
+Discount_Rate={_Discount_Rate}
+
 Dissolution_Event={_Dissolution_Event}
 
 Dividend_Amount={_Dividend_Amount}
@@ -51,5 +55,13 @@ Unissued_Option_Pool={_Unissued_Option_Pool}
 Investor’s_Safe={_Investor’s_Safe}
 
 Pro_Rata_Right={_Pro_Rata_Right}
+
+Capital_Shares={_Capital_Shares}
+
+Group_Companies={_Group_Companies}
+
+Ordinary_Shares={_Ordinary_Shares}
+
+Preference_Shares={_Preference_Shares}
 
 =[G/AgtForm/US/Def/Target/0.md]
