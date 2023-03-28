@@ -24,6 +24,8 @@ ROFR.=[G/NVCA/2020/ROFR/Form/0.md]
 
 LicenseTermSheet.=[G/NVCA/2020/Binder/Acme-SeriesA/LicenseFrom-MIT.md]
 
+Def.=[G/NVCA/2020/Share/TermsDefined.md]
+
 Docs Customized for each Investor:=Click on left side to see the Term Sheet, then make substitions in the browser bar, e.g. "&k={Investor.1.SPA.r00t}" (without the brackets). Click on the right side to see the details of the Investor, including their purchase amount, when they signed, their Indemnitor, etc.
 
 Investor.1.=[G/NVCA/2020/Binder/Acme-SeriesA/Investor-StateStreet.md]
