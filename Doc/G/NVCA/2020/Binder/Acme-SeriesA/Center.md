@@ -88,6 +88,8 @@ Valuation.PreMoney-Diluted.$=$3,000,000
 
 Valuation.PostMoney-Diluted.$=$3,300,000
 
+_Series_?_Preferred_Stock={_Series_A_Preferred_Stock}
+
 Director.Additional.Number=one
 
 Director.VotedByCommon.Number(#)=two (2)
