@@ -336,14 +336,9 @@ DelawareRapidArbAct.ReplacementArbitrator.Who.cl=drawn from the NVCA's membershi
 
 DelawareRapidArbAct.AppellateArbitrators.Who.cl=drawn from the NVCA's membership
 
-IRA.Misc.DisputeResolution.Sec={IRA.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
-
 ROFR.Misc.DisputeResolution.Sec={ROFR.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
 
 SPA.Misc.DisputeResolution.Sec={SPA.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
-
-/Binder.Misc.DisputeResolution.SecName={SecName}Misc.DisputeResolution. ??? Used?
-
 
 SPA.Company.SBC/SB={SPA.Company.SBC}
 
@@ -416,6 +411,10 @@ SPA.PurchaserCond.InvestorRightsAgt.sec={SPA.PurchaserCond.InvestorRightsAgt.Sig
 SPA.PurchaserCond.Closing.Initial/orSubsequent={SPA.PurchaserCond.Closing.Initial}
 
 SPA.PurchaserRep.ShareLegends.sec={PurchaserRep.ShareLegends.NotRegistered.sec}<br>{SPA.PurchaserRep.ShareLegends.RequiredByTransactionAgreements.sec}
+
+Voting.DragAlong.DifferentAllocation.Notice.days=10 days
+
+PowerOfAttorney.To.President/Other.the=the President
 
 CodersNote=Investor/MajorInvestor is used in three places, relating to three different things.  Please review to be sure that each wants to be the same. This can be nuanced with for instance, TermSheet.Investor/Major_Investor=one thing ... and IRA.Investor/Major_Investor=another thing.
 
@@ -597,5 +596,9 @@ KeyHolderRow.2.sec={Investor.3.Holding.tr}
 KeyHolderRow.=[G/Z/para/s2]
 
 Holding.tr=<tr!!><td valign='top'>Investor: {Investor.#}</td><td valign='top'> {Party.US.N/E/A}</td><td valign='top'>Shares: <br><b>{Shares.#}</b></td><td valign='top'>Percent:<br> <b>{Shares.%}</b></td><td valign='top'>Investment: <br><b>{Shares.$}</b></td></tr>
+
+_=[G/NVCA/2020/Share/Z/Def/Link.md]
+
+DefT.=[G/NVCA/2020/Share/Z/Def/Target.md]
 
 tr!!=tr

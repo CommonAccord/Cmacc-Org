@@ -1,10 +1,19 @@
 
 Note=This eliminates the "Observer Rights" that are in the NVCA IRA.  And shows one way to use overrides to create multiple variations of the same doc.
 
-Investor.Access.=[G/NVCA/2020/IRA/Sec/InformationAccess/Overrides-ToRemoveObserverRights.md]
+
+Note=Removing the obligation to provide monthly financial statements to investors.
+
+InvestorAccess.FinancialStatements.=[G/NVCA/2020/IRA/Sec/InvestorAccess/FinancialStatements/WithoutMonthlyStatements.md]
+
+InvestorAccess.=[G/NVCA/2020/IRA/Sec/InvestorAccess/Overrides-ToRemoveObserverRights.md]
 
 =[G/NVCA/2020/IRA/Form/0.md]
 
+
+Register.Termination.3.2.Anniversary.Nth(N)=third (3rd)
+
+Misc.DisputeResolution.Sec={Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
 
 Ti={Ti.Simple}
 
@@ -49,6 +58,7 @@ Register.Underwriting.1.3.2.sec={Register.Underwriting.1.3.2.LimitOnScopeOfHolde
 InvestorAccess.Termination.sec={InvestorAccess.Termination.sec.WithProviso}
 
 InvestorAccess.ObserverRight.SameAsDirectors.cl?={InvestorAccess.ObserverRight.SameAsDirectors.cl}
+
 
 Misc.EntireAgreement.sec={Misc.EntireAgreement.Base.sec}
 
