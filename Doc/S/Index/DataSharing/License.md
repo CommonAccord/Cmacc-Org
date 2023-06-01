@@ -2,6 +2,10 @@ Ti=License
 
 Universal License Outline Project=[G/Agt-License/]
  
+AI-related=----------------
+
+Microsoft-DataUse-OpenAI=[G/Microsoft-DUA-OAI/]
+
 Blockchain/Ricardian Models=-----------
 
 AccordProject-Copyright.=[G/Cicero-Template-CmA/Copyright-License/Demo/Acme-Quake-Copyright.md]
