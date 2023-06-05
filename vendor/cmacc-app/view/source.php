@@ -47,7 +47,7 @@ foreach($contents as $n) {
         # We need to be able to evaluate the content of the PHP variables, which didn't work inside the str_replace.
         $href = "{<a href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=" ;
         $v = str_replace('q1q{', $href, $v);
-        $v = str_replace('x2x{', ' class=missing >' , $v ) ;
+        $v = str_replace('x2x{', ' class=variable >' , $v ) ;
         # This is the end of HazardJ's duct tape.
  
 #Now the KEY:
