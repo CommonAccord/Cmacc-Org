@@ -1,14 +1,10 @@
-Conf.=[G/Agt-NDA-CmA/Sec/Relate/Conf/0.md]
-
-=[G/Agt-License/Outline/-Software/0.md]
-
 P1.=[G/U/Who/quake_ie.md]
 
 P2.=[G/U/Who/acme_incorporated.md]
 
-Note=Cross-References
+Conf.=[G/Agt-NDA-CmA/Sec/Relate/Conf/0.md]
 
-Conf.SecName=Conf
+=[G/Agt-License/Outline/-Software/0.md]
 
 Note=Choices:
 
@@ -22,7 +18,11 @@ Conf.Engage.Access.Cond.sec={Conf.Engage.Access.Cond.NeedKnow-Sign-AsRestrictive
 
 Conf.Life.End.YMD=31 December 2021
 
-Conf.Life.sec={TimeLimit-FixedDate.sec}
+Conf.Life.sec={Conf.Life.TimeLimit-FixedDate.sec}
+
+Note=Cross-References
+
+Conf.SecName=Conf
 
 Conf.Xnum={Relate.Xnum}.<a href="#Conf.sec">1</a>
 
