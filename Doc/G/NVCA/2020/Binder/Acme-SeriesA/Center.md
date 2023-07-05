@@ -126,6 +126,10 @@ FounderStockVesting.Monthly.NumberOfMonths.#=32
 
 No-Shop.Duration.days=30 days
 
+IRA.PreferredDirectorApproval.NumberOfDirectors.1/All={PreferredDirectorApproval.NumberOfDirectors.All}
+
+TermSheet.Voting.DragAlong.TransferOfControl.2.sec={TermSheet.Voting.DragAlong.TransferOfControl.2.Alt1.sec}
+
 Investors.Counsel.Fee.Max.$=$30,000
 
 Noncompete.KeyEmployee.Duration.year=one year
