@@ -10,4 +10,4 @@ EU_DataProtectionModelClauses/=Wx/eu/europa/eur-lex/Privacy/ModelClauses/Demo/]
 
 Constitution_US:=Wx/gov/archives/Constitution/0.md]
 
-Bill_ConsumerPrivacyBillOfRights/=Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/]
+Bill_ConsumerPrivacyBillOfRights/=G/Gov/Whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/]
