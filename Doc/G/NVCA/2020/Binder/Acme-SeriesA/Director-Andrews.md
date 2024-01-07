@@ -4,13 +4,9 @@ Director.#=1
 
 Note=Contracts to which this person is a party.
 
-Indemn.=
-
 Indemn.Party.=[G/U/Who/alison_andrews.md]
 
 Indemn.Party.Sign.YMD=2023-01-26
-
-CDA.=
 
 CDA.Party.=[G/U/Who/alison_andrews.md]
 

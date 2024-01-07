@@ -4,13 +4,9 @@ Director.#=3
 
 Note=Contracts to which this person is a party.
 
-Indemn.=
-
 Indemn.Party.=[G/U/Who/abigail_altima.md]
 
 Indemn.Party.Sign.YMD=2023-01-23
-
-CDA.=
 
 CDA.Party.=[G/U/Who/abigail_altima.md]
 

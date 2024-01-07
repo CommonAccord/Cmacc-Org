@@ -30,4 +30,6 @@ CDA.Party.=[G/U/Who/state_street_corporation.md]
 
 =[G/NVCA/2020/Binder/Acme-SeriesA/Center.md]
 
+AgmtList=<ol><li><h2>CDA</h2><br> {CDA.r00t}<br> </li><li><b>Voting</b><br>{Voting.r00t}</li></ol>
+
 IRA.Company.Q.Redemption.NoneFor5%InLast2Years.Y/N/A=???

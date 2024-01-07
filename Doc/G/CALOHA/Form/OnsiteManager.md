@@ -6,7 +6,7 @@ Ti=WORK CAMPER EMPLOYMENT AGREEMENT
 
 1.1.Ti=Performance and Duties
 
-1.1.sec=The employee shall carry out, complete and perform all work identified in Section 1.2 or as otherwise agreed upon with Employer, in good substantial and workman like manner based on practices which are at least as good as those customarily provided by {Job.Type.cl} of mobilehome or RV parks, apartment complexes and other rental unit properties  Additional duties may be added as necessary.
+1.1.sec=The start date for employment is {StartDate.YMD}.  The employee shall carry out, complete and perform all work identified in Section {1.2.Xnum} or as otherwise agreed upon with Employer, in good substantial and workman like manner based on practices which are at least as good as those customarily provided by {Job.Type.cl} of mobilehome or RV parks, apartment complexes and other rental unit properties  Additional duties may be added as necessary.
 
 1.2.Ti=List duties, or include as an Exhibit
 
@@ -39,15 +39,15 @@ Employee agrees that if conditions change so that this Agreement no longer accur
 
 2.3.Ti=Hourly Compensation
 
-2.3.sec=Employee’s full compensation shall be {Comp.PerHour.$} per hour, plus overtime as required by law, for time spent carrying out assigned duties. If hours required to carry out assigned duties should exceed {WorkHours.PerDay.hours} in any work day or {WorkHours.PerWeek.hours} in any work week, Employee shall notify Employer prior to performing such services and obtain consent therefore, except in an emergency, when Employee shall notify Employer of additional hours worked within 48 hours. Employee acknowledges and agrees that compensation shall only be afforded for the actual time spent carrying out official assigned duties.
+2.3.sec=Employee’s full compensation shall be {Comp.PerHour.$} per hour, plus overtime as required by law, for time spent carrying out assigned duties. Employee's cash compensation shall be the total of the hourly rate times the hours worked, minus the Rental Credit. If hours required to carry out assigned duties should exceed {WorkHours.PerDay.hours} in any work day or {WorkHours.PerWeek.hours} in any work week, Employee shall notify Employer prior to performing such services and obtain consent therefore, except in an emergency, when Employee shall notify Employer of additional hours worked within 48 hours. Employee acknowledges and agrees that compensation shall only be afforded for the actual time spent carrying out official assigned duties.
 
 2.4.Ti=Excess Hours
 
-2.4.sec=Employee further acknowledges and agrees that if, during any particular work week and after obtaining advance approval from Employer pursuant to Paragraph 2.3, he or she works more hours than stated in this Agreement, Employee shall record such excess hours on his or her time sheet. Employee agrees that if conditions change so that this Agreement no longer accurately reflects a reasonable estimate of hours worked, he or she will immediately provide notice to Employer, in writing, thereby allowing this Agreement to be revised, if necessary.
+2.4.sec=Employee further acknowledges and agrees that if, during any particular work week and after obtaining advance approval from Employer pursuant to Paragraph {2.3.Xnum}, he or she works more hours than stated in this Agreement, Employee shall record such excess hours on his or her time sheet. Employee agrees that if conditions change so that this Agreement no longer accurately reflects a reasonable estimate of hours worked, he or she will immediately provide notice to Employer, in writing, thereby allowing this Agreement to be revised, if necessary.
 
 2.5.Ti=Rent Credit
 
-2.5.sec=In addition to the compensation identified in Section 2.3 of this Article, Employee’s compensation, in part, shall include possession of the rental unit also known as {RentalUnit.Name} (“Rental Unit”). Employee shall be entitled to a monthly rental credit of {RentalCredit.Monthly.$} for this Rental Unit. If Employee works less hours than contemplated in this Agreement, Employee shall still receive the monthly rental credit of {RentalCredit.Monthly.$}.
+2.5.sec=As part of the compensation identified in Section {2.3.Xnum} of this Article, Employee shall have the use of the rental unit known as {RentalUnit.Name} (“Rental Unit”). Employee shall be entitled to a monthly rental credit of {RentalCredit.Monthly.$} for this Rental Unit. If Employee works fewer hours than contemplated in this Agreement, Employee shall still receive the full monthly rental credit of {RentalCredit.Monthly.$}.
 
 2.6.Ti=Utilities
 
@@ -71,25 +71,20 @@ Employee agrees that if conditions change so that this Agreement no longer accur
 
 5.1.0.sec=Employee acknowledges that the Rental Unit and rent credit provided by Employer is provided as a condition of employment as Employee. Only Employee’s immediate family member(s) are permitted to occupy the Rental Unit and such occupants must be approved by Employer. The number of total occupants in the Rental Unit may not exceed {RentalUnit.MaxOccupancy.#}.
 
-5.1.1.0.sec=(a) List all names and ages of familial occupants that will reside in the Rental Unit: 
-5.1.1.1.sec=______________________________________________________________ 
-5.1.1.2.sec=______________________________________________________________
-5.1.1.3.sec=______________________________________________________________
+5.1.1.0.sec=Names and ages of all familial occupants that will reside in the Rental Unit:
+5.1.1.1.sec=______________________________________________________________ ( __ ) 
+5.1.1.2.sec=______________________________________________________________ ( __ )
+5.1.1.3.sec=______________________________________________________________ ( __ )
 
 5.1.1.=[G/Z/ol/s3]
 
-5.1.2.0.sec=(b) By initialing below, Employee and all familial occupants acknowledge that those familial occupants listed in Section 5.1(a) of this Article 5 do not possess any rights of tenancy at the Park, whatsoever. Furthermore, Employee and all familial occupants acknowledge that the Rental Unit is being provided to Employee as a condition of employment as an Employee of the Park. Upon termination of this Agreement by either Employee or Employer, all occupants shall vacate the Rental Unit within {RentalUnit.VacateAfterTermination.days} upon termination of employment. The Names and initials of each occupant are as follows:
-______________ ______________ ______________ _______________
+5.1.2.sec=By initialing above, Employee and all familial occupants acknowledge that any such occupants do not possess any rights of tenancy at the Park, whatsoever. Furthermore, Employee and all familial occupants acknowledge that the Rental Unit is being provided to Employee as a condition of employment as an Employee of the Park. Upon termination of this Agreement by either Employee or Employer, {RentalUnit.VacateAfterTermination.RemoveRV.cl} all occupants shall vacate the Rental Unit within {RentalUnit.VacateAfterTermination.days} of the notice of termination. The Names and initials of each person that will reside in the Rental Unit are as follows:
 
-5.1.2.=[G/Z/ol/s3]
-
-ToDo=
-
-5.1.3.sec=(c) Upon the termination date of this Agreement by either party, Employee agrees to turn over to Employer all keys, books of account or records of any kind pertaining to the Park, unless otherwise demanded by Employer.
+5.1.3.sec=Upon the termination of this Agreement by either party, Employee agrees to turn over to Employer all keys, books of account or records of any kind pertaining to the Park, unless otherwise demanded by Employer.
 
 5.1.=[G/Z/ol-a/s3]
 
-5.2.sec=Illegal possession of the Rental Unit by the Employee and any familial occupants after the time permitted in Section 5.1(b) of this Article 5 shall be considered a holdover tenant and may be terminated in accordance with the provisions of the law. Nothing in this Agreement shall be construed as consent by Employer to any holdover of the Rental Unit by Employee and any familial occupants.
+5.2.sec=Illegal possession of the Rental Unit by the Employee and any familial occupants after the time permitted in Section {5.1.2.Xnum} of this Article {5.Xnum} shall be considered a holdover tenant and may be terminated in accordance with the provisions of the law. Nothing in this Agreement shall be construed as consent by Employer to any holdover of the Rental Unit by Employee or any occupants.
 
 5.=[G/Z/ol/s2]
 
@@ -107,22 +102,25 @@ ToDo=
 
 7.Ti=SUBLET AND ASSIGNMENT
 
-7.sec=No portion of the Rental Unit shall be sublet, nor this Agreement assigned. Any attempted subletting or assignment by Employee shall, at the election of the Employer, be an immediate breach of this Agreement and cause for immediate termination as provided herein and by law.
+7.sec=No portion of the Rental Unit shall be sublet, nor may Employee assign any part of this Agreement. Any attempted subletting or assignment by Employee shall, at the election of the Employer, be an immediate breach of this Agreement and cause for immediate termination as provided herein and by law.
 
 8.Ti=ARBITRATION AND FEES
 
-8.sec=Any dispute, controversy or question of interpretation arising under, out of, in connection with or in relation to this Agreement, or any amendments hereof, or any breach or default hereunder or in connection with the operation of the Park shall be submitted to, determined, and settled by arbitration in accordance with the applicable rules of JAMS arbitration in Los Angeles County, California, then in effect. Any award rendered therein shall be final and binding on both the Employer and Employee, and judgment may be entered thereon in any court having jurisdiction thereof. The prevailing party shall recover, in addition to all other relief, reasonable costs and attorneys’ fees, whether or not the action proceeds to judgment.
+8.sec=Any dispute, controversy or question of interpretation arising under, out of, in connection with or in relation to this Agreement, or any amendments hereof, or any breach or default hereunder or in connection with the operation of the Park shall be submitted to, determined, and settled by arbitration in accordance with the applicable rules of JAMS arbitration in {Arbitration.Seat.County}, California, then in effect. Any award rendered therein shall be final and binding on both the Employer and Employee, and judgment may be entered thereon in any court having jurisdiction thereof. The prevailing party shall recover, in addition to all other relief, reasonable costs and attorneys’ fees, whether or not the action proceeds to judgment.
 
-9.Ti=CONSTRUCTION
+9.Ti=GOVERNING LAW
 
-9.sec=This Agreement shall be construed and enforced in accordance with the laws and decisions of the State of California.
+9.sec=This Agreement shall be construed and enforced in accordance with the laws of the State of California.
 
 10.Ti=SUPERINTENDENT CONTROL
 
 10.sec=Employee acknowledges that Employee is subject to Employer’s superintending control over the management of the Park, and that Employer may restrict Employee’s authority to act in any manner otherwise permitted hereunder or required hereby, and Employee shall promptly submit to and abide by any such restriction.
-Employee attests that he or she has entered into this Agreement voluntarily.
 
-00.0.sec=IN WITNESS WHEREOF, the parties hereto have hereunto set their hands effective as of the day and year first above written.
+11.Ti=VOLUNTARY AGREEMENT
+
+11.sec=Employee attests that he or she has entered into this Agreement voluntarily and has been given the opportunity to seek the advice of counsel prior to signing this Agreement.
+
+00.0.sec=IN WITNESS WHEREOF, the parties hereto have set their hands effective as of {EffectiveDate.YMD}.
 
 00.1.sec={Employee.Sign.Block}
 
@@ -130,4 +128,21 @@ Employee attests that he or she has entered into this Agreement voluntarily.
 
 00.=[G/Z/ol/s2]
 
-=[G/Z/ol/10]
+=[G/Z/ol/11]
+
+
+1.Xnum=<a class='xref' href='#1.Sec'>1</a>
+
+1.2.Xnum={1.Xnum}.<a class='xref' href='#1.2.sec'>2</a>
+
+2.Xnum=<a class='xref' href='#2.Sec'>2</a>
+
+2.3.Xnum={2.Xnum}.<a class='xref' href='#2.3.sec'>3</a>
+
+5.Xnum=<a class='xref' href='#5.Sec'>5</a>
+
+5.1.Xnum={5.Xnum}.<a class='xref' href='#5.1.sec'>1</a>
+
+5.1.2.Xnum={5.1.Xnum}<a class='xref' href='#5.1.2.sec'>(b)</a>
+
+
