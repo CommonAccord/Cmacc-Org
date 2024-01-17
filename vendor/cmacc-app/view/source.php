@@ -14,9 +14,9 @@ foreach($contents as $n) {
 	//for remote files via http
         if(preg_match('/\[http(.+?)\]/', $v, $matches)) {
 	  // to allow comments in the target field.
-	 	  list($v1, $v2) = array_pad( explode ("///", $v, 2), 2, null);
+	 	  list($v1, $v2) = array_pad( explode ("//", $v, 2), 2, null);
 	  //	to trim off the brackets  $v1=substr($v1, 1, -1);
-	  $v = "<a href=http$matches[1]>$v1</a></td><td>$v2";
+	  $v = "<a href=http$matches[1]>$v1</a> $v2";
         }
 	//for folders (navigation)
 
@@ -28,10 +28,10 @@ foreach($contents as $n) {
 
         else if(preg_match('/^\[(.+?)\]/', $v, $matches)) {
           // to allow comments in the target field.
-	  list($v1, $v2) = array_pad( explode ("///", $v, 2), 2, null);
+	  list($v1, $v2) = array_pad( explode ("//", $v, 2), 2, null);
 # formatting the value side of the table cell. Pick one of the following:
     #conventional:
-       $v = "<a href=?" . VIEW . "=s&" . FILENAME . "=$matches[1]>$v1</a></td><td>$v2";
+       $v = "<a href=?" . VIEW . "=s&" . FILENAME . "=$matches[1]>$v1</a> $v2";
     # in a frame:
 	# $v = "<iframe src=?v=s&f=$matches[1] style='height:300px;width:1000px' title='Iframe Example'></iframe>";
 
