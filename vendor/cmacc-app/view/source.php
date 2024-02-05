@@ -50,12 +50,12 @@ foreach($contents as $n) {
         $klink=$k ;}
 
         # The key ends in a "." and therefore we render the default content of the target object (r00t)
-        else if((substr($k, -1)==".") && (!preg_match('/\s/', $k))){
+        else if((substr($k, -1)==".")){
        	        $klink="<a class='expand' href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=$k" . "r00t >$k</a>" ;
         }
         # The key ends in ":" so we render the key.
         # We will make each key into a hyperlink to the key's content. But if the key has a space in it, then we don't want to make it a hyperlink.
-        else if((substr($k, -1)==":") && (!preg_match('/\s/', $k))){
+        else if((substr($k, -1)==":")){
        	        $klink= $k  ;
         }
         
