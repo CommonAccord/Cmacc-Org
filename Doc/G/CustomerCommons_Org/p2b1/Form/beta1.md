@@ -2,7 +2,7 @@ Ti=P2B1 INFORMATION SHARING AGREEMENT
 
 Last Modified: 12 May, 2018
 
-0.sec=The P2B1 Information Sharing Agreement (the “{DefT.Agreement}”) constitutes a legal agreement between the individual transmitting the {_Agreement} (“I,” “me,” “my,” or “mine”) and the owners and operators of the service, website, or application receiving the {_Agreement} (“you,” “your,” or “yours”), collectively referred to as the {Def.Parties.sec} (“we” or “our”).
+0.sec=The P2B1 Information Sharing Agreement (the “{DefT.Agreement}”) constitutes a legal agreement between the individual transmitting the {_Agreement} (“I,” “me,” “my,” or “mine”) and the owners and operators of the service, website, or application receiving the {_Agreement} (“you,” “your,” or “yours”), collectively referred to as the {DefT.Parties} (“we” or “our”).
 
 Def.=[G/CustomerCommons_Org/p2b1/Sec/Def/0.md]
 Acceptance.=[G/CustomerCommons_Org/p2b1/Sec/Acceptance/0.md]
@@ -24,9 +24,11 @@ xlist=<ol class="secs-and"><li>{Def.Sec}<li>{Acceptance.Sec}<li>{Scope.Sec}<li>{
 
 _=[G/CustomerCommons_Org/p2b1/Sec/Def/_/0.md]
 
-Def.Agreement.sec={_Agreement}
+DefT.=[G/CustomerCommons_Org/p2b1/Sec/Def/_/0.md]
 
-Def.Parties.sec={_Parties}
+/Def.Agreement.sec={_Agreement}
+
+/Def.Parties.sec={_Parties}
 
 Acceptance.Xnum=<a href="#Acceptance.sec">2</a>
 
