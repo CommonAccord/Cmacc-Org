@@ -16,16 +16,17 @@ DLA-Piper EU:=[G/Intra-Group-Data-Transfer-Agt/]  // Very modular EU compliant, 
 
 Mistral_AI.=[G/Mistral_AI/Data_Processing_Agreement/Form/Agmt-Exhibits-Appendix.md]
 
-NVCA =[G/NVCA/2020/LifeScience-License-TermSheet/Form/0.md] // very flat outline, vibrant community
+NVCA.=[G/NVCA/2020/LifeScience-License-TermSheet/Form/0.md] // very flat outline, vibrant community
 
 Old Open Source Project:=[G/Org-ContributorAgreements-CmA/]
 
 a16z:=[G/a16z-contracts/licenses/pr0b/] // Andreesen Horowitz had some superb lawyers draft licenses for NFTs near the height of the bubble.  One of those lawyers, Mark Radcliffe, DLA Piper (Silicon Valley), is a legend in open source.  Mark tried to get a conversation with a16z about CommonAccord, but we didn't get there.  The project stalled, at least partly for lawyer/coder coordination reasons that CommonAccord could solve.
 
-
 Generally:=[S/Index/DataSharing/License.md]
 
+16={17 17}
 
+17 17=seventeen
 
 IP Pooling is adjacent to data use agreements, a subject of a great deal of interest in the privacy and distributed data communities that I came to know via MIT Connection Science. 
 
