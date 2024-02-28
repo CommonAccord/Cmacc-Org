@@ -4,12 +4,16 @@ body {
 
 }
 
+ul li {                
+        padding: 2px 0px 2px 0px;
+        }
+        
 .paras {
-padding: 10px 0px 0px 0px;
+padding: 2px 0px 2px 0px;
 }
 
 .paras li {
-padding: 0px 0px 0px 0px;
+padding: 2px 0px 2px 0px;
 }
 
 span { 
