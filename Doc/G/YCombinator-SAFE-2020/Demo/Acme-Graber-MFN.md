@@ -1,6 +1,6 @@
 Company.=[G/U/Who/acme_incorporated.md]
 
-Investor.=[G/U/Who//geraldine_graber.md]
+Investor.=[G/U/Who/geraldine_graber.md]
 
 Law.=[G/U/Place/US/NY/Geo]
 
