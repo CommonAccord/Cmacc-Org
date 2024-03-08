@@ -20,14 +20,14 @@ foreach($contents as $n) {
         }
 	//for local folders (navigation) [G/.../]
 	else if(preg_match('/\[(.+?)\\/]/', $v, $matches)) {
-                $vlink = "<a href=?" . VIEW . "=list&" . FILENAME . "=$matches[1]/>$v</a>";
+                $vlink = "<a href=?v=list&f=$matches[1]/>$v</a>";
               	}
 
 	//for local file links "[G/...]"
         else if(preg_match('/^\[(.+?)\]/', $v, $matches)) {
 # formatting the value side of the table cell. Pick one of the following:
     #conventional:
-       $vlink = "<a href=?" . VIEW . "=s&" . FILENAME . "=$matches[1]>$v</a>";
+       $vlink = "<a href=?v=s&f=$matches[1]>$v</a>";
   
         }
         else{
@@ -35,7 +35,7 @@ foreach($contents as $n) {
         # This gives us the {parameter} {parameter}, two times, so can build the href link.
         $v = preg_replace('{{[^}]+}', 'q1q${0}x2x${0}</a>', $v);
         # We need to be able to evaluate the content of the PHP variables, which didn't work inside the str_replace.
-        $href = "{<a href=?v=d&" . FILENAME . "=$dir&" . KEYNAME . "=" ;
+        $href = "{<a href=?v=d&f=$dir&k=" ;
         $v = str_replace('q1q{', $href, $v);
         $vlink = str_replace('x2x{', ' class=variable >' , $v ) ;
         # This is the end of HazardJ's duct tape.
@@ -51,7 +51,7 @@ foreach($contents as $n) {
 
         # The key ends in a "." and therefore we render the default content of the target object (r00t)
         else if((substr($k, -1)==".")){
-       	        $klink="<a class='expand' href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=$k" . "r00t >$k</a>" ;
+       	        $klink="<a class='expand' href=?v=d&f=$dir&k=$k" . "r00t >$k</a>" ;
         }
         # The key ends in ":" so we render the key.
         # We will make each key into a hyperlink to the key's content. But if the key has a space in it, then we don't want to make it a hyperlink.
@@ -61,7 +61,7 @@ foreach($contents as $n) {
         
         # The key does not have a space in it (a browser URL mishandles spaces), so we render the key with a hyperlink to the key's content.
         else {
-     	 $klink="<a href=?" . VIEW . "=d&" . FILENAME . "=$dir&" . KEYNAME . "=$k class='definedterm'>$k</a>" ;
+     	 $klink="<a href=?v=d&f=$dir&k=$k class='definedterm'>$k</a>" ;
         }
 
        if(((strlen($k)>0) || (strlen($v)>0))) { 
