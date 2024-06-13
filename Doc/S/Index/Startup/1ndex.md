@@ -18,7 +18,7 @@ Privacy-=[S/Index/Privacy.md]
 
 SeriesAA-YC:=[G/YCombinator-SeriesAA/Form/Binder_v01.md]
 
-NVCA/=[G/NVCA/2020/Binder/] - Deepest work on objects - 
+NVCA/=[G/NVCA/2020/Binder/Acme-SeriesA/] - Deepest work on objects - 
 
 SeriesA-Lipshaw/=[G/Lipshaw_EVCL_CmA/Demo/]
 
