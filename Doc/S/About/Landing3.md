@@ -10,7 +10,7 @@ Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td> </td><td valign="top
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec={CmAQuick.sec}<br><br>Overview:</b><ul><li>{SSRN.sec}<li>Prose Objects (our most recent work) <a href="index.php?action=list&file=G/">Prose Objects in /G/</a><li> {Blog.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec={CmAQuick.sec}<br><br>Overview:</b><ul><li>{SSRN.sec}<li>Prose Objects (our most recent work) <a href="i.php?v=l&f=G/">Prose Objects in /G/</a><li> {Blog.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  <br><br>{CDL.Link} 
 
@@ -42,7 +42,7 @@ InfoLinks.sec={ParserByPrimavera.sec} {Peer2Peer.sec} {XrayView.sec} {Slashdot.s
 
 ParserByPrimavera.sec=This website uses a parser done by <a href="https://cyber.law.harvard.edu/people/pdefilippi">Primavera De Filippi</a> of Harvard's Berkman Center.
 
-Peer2Peer.sec=It supports a <a href="index.php?action=doc&file=S/About/Pitch/Support/DRY_Transacting_v0.md">"DRY," peer-to-peer transaction model</a>, including with <a href="http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf">blockchain and UMA (pdf)</a>.  There can be  <a href="http://financialcryptography.com/mt/archives/001556.html">close coupling of "smart contracts" and contract text</a>, enabling <a href="http://iang.org/ricardian/">"Ricardian" contracts</a>.
+Peer2Peer.sec=It supports a <a href="i.php?v=d&f=S/About/Pitch/Support/DRY_Transacting_v0.md">"DRY," peer-to-peer transaction model</a>, including with <a href="http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf">blockchain and UMA (pdf)</a>.  There can be  <a href="http://financialcryptography.com/mt/archives/001556.html">close coupling of "smart contracts" and contract text</a>, enabling <a href="http://iang.org/ricardian/">"Ricardian" contracts</a>.
 
 XrayView.sec=A taste of the "experience" can be seen  in this <a href="https://www.youtube.com/watch?v=4ZfsyTPYFIA">YouTube video</a>.
 
@@ -50,27 +50,27 @@ Slashdot.sec=The vision was articulated in an <a href="http://news.slashdot.org/
 
 CDL.sec=We are working toward a "{CDL.Link}," a trustee for global legal code.  The project is open source. You can contribute: as a lawyer to legal documents, as a coder to our software, as a platform by interfacing with our materials, as a business by using the system, as a benefactor by supporting the effort.  <a href="http://github.com/commonaccord/cmacc-org">Contribute on GitHub</a> or <a href="mailto:commonaccord@gmail.com?Subject=Contact" target="_top">email commonaccord@gmail.com.</a>
 
-Technical.sec=The files can also be expressed as <a href="http://www.commonaccord.org/index.php?action=ipld&file=Dx/Acme_FR/04-NDA-From-Quake-FR/Doc_v0.md">JSON/IPLD</a>.
+Technical.sec=The files can also be expressed as <a href="http://www.commonaccord.org/i.php?v=json&f=Dx/Acme_FR/04-NDA-From-Quake-FR/Doc_v0.md">JSON/IPLD</a>.
 
 SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{Views.List.sec}<li>{PageSource.sec}<li>{MITConference.sec}</ul>
 
-Views.List.sec=Each file on the site has six "views": <a href="index.php?action=source&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">Source</a>.  E.g., click on <a href="index.php?action=doc&file=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">"Document"</a>.
+Views.List.sec=Each file on the site has six "views": <a href="i.php?v=s&f=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">Source</a>.  E.g., click on <a href="i.php?v=d&f=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">"Document"</a>.
 
-PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance): <a href="index.php?action=source&file=S/About/Landing3.md">Landing Page Source</a>.
+PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance): <a href="i.php?v=s&f=S/About/Landing3.md">Landing Page Source</a>.
 
-MITConference.sec=<a href="index.php?action=doc&file=S/About/Conference/Flyer/0.md">Conference</a>
+MITConference.sec=<a href="i.php?v=d&f=S/About/Conference/Flyer/0.md">Conference</a>
 
 CDL.Link=Call for <a href="https://docs.google.com/document/d/1X8NEAGpXAFf72rZxL8EKAAE5Idz_qVLbkcbIqfEW12c">Global Codification of Legal Documents</a>
 
-Bqc.Link=<a href="http://www.commonaccord.org/index.php?action=list&file=/bqc/fr/bnpp/a5we/">Universal bank account</a>
+Bqc.Link=<a href="http://www.commonaccord.org/i.php?v=l&f=/bqc/fr/bnpp/a5we/">Universal bank account</a>
 
 BfmPodcast.Link=<a href="http://bfmbusiness.bfmtv.com/mediaplayer/audio/bfm-1106-atelier-numerique-16h-17h-340233.html">Interview BFM</a>
 
 DemoDocName=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md
 
-DocumentsFolder.sec=<a href="index.php?action=list&file=">Top level</a> folder of files.
+DocumentsFolder.sec=<a href="i.php?v=l&f=">Top level</a> folder of files.
 
-SubjectIndex.Sec=<a href="index.php?action=list&file=/S/Index/">Subject Index</a> of (some) materials.
+SubjectIndex.Sec=<a href="i.php?v=l&f=/S/Index/">Subject Index</a> of (some) materials.
 
 RecentWork.=[S/About/RecentWork/0.md]
 

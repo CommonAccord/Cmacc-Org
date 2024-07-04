@@ -1,13 +1,12 @@
 <?php 
 
-DEFINE('INDEXNAME' , 'index.php') ; // Pass variable to cmacc_helpers.php
+DEFINE('INDEXNAME' , 'i.php') ; // Pass variable to cmacc_helpers.php
 
+DEFINE('VIEW' , 'v') ; // Pass variable to cmacc_helpers.php
 
-DEFINE('VIEW' , 'action') ; // Pass variable to cmacc_helpers.php
+DEFINE('FILENAME' , 'f') ; // Pass variable to cmacc_helpers.php
 
-DEFINE('FILENAME' , 'file') ; // Pass variable to cmacc_helpers.php
-
-DEFINE('KEYNAME' , 'key') ; // Pass variable to cmacc_helpers.php
+DEFINE('KEYNAME' , 'k') ; // Pass variable to cmacc_helpers.php
 
 DEFINE('ROOT' ,dirname(__FILE__) ); // Root directory of site
 
