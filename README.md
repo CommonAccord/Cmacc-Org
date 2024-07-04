@@ -2,25 +2,13 @@
 
 This is the repo used as the source for commonaccord.org (and www.commonaccord.org) website.  This repo includes many of the other repos - notably the /G/ "prose object" repos.  Web presentation is deployed via Heroku.  The presentation get hits by bots, and sometimes it gets knocked out.  Let us know by a message to CommonAccord@gmail.com
 
-## Parser
-
-This Perl script (https://github.com/CommonAccord/Cmacc-Org/blob/master/vendor/cmacc-app/parser.pl) parses and expands fields in documents stored locally and remotely. It is part of the CommonAccord project, which aims to bring the world to agreement through codified legal documents.
-
 ## License
 
 Written in 2014 by Primavera De Filippi. This software is dedicated to the public domain worldwide under the CC0 Public Domain Dedication. This software is distributed without any warranty.
 
-## Prerequisites
+## Parser
 
-Ensure you have Perl installed on your system. The script also relies on `curl` for fetching remote documents.
-
-## Usage
-
-To run the script, use the following command:
-
-```bash
-perl parser.pl <input_file> <root_field>
-
+This Perl script (https://github.com/CommonAccord/Cmacc-Org/blob/master/vendor/cmacc-app/parser.pl) parses and expands fields in documents stored locally and remotely. It is part of the CommonAccord project, which aims to bring the world to agreement through codified legal documents.
 
 # Build Instructions
 
@@ -48,4 +36,17 @@ MOUNT AS:
 DEPENDENCIES:
 
 cmacc-host
+
+
+## Prerequisites
+
+Ensure you have Perl installed on your system. The script also relies on `curl` for fetching remote documents.
+
+## Usage
+
+To run the script, use the following command:
+
+```bash
+perl parser.pl <input_file> <root_field>
+
 
