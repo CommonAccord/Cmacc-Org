@@ -1,6 +1,6 @@
 # CommonAccord Library and Parser 
 
-This is the repo used as the source for commonaccord.org (and www.commonaccord.org) website.  This repo includes many of the other repos - notably the /G/ "prose object" repos.  Web presentation is deployed via Heroku.  The presentation get hits by bots, and sometimes it gets knocked out.  Let us know by a message to CommonAccord@gmail.com
+This is the repo used as the source for commonaccord.org (and www.commonaccord.org) website. Web presentation is deployed via Heroku.  The presentation get hits by bots, and sometimes it gets knocked out.  Let us know by a message to CommonAccord@gmail.com
 
 ## License
 
