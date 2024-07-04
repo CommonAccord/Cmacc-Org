@@ -6,6 +6,10 @@ This is the repo used as the source for commonaccord.org (and www.commonaccord.o
 
 Written in 2014 by Primavera De Filippi. This software is dedicated to the public domain worldwide under the CC0 Public Domain Dedication. This software is distributed without any warranty.
 
+## Function
+
+PHP front end which uses the doc.php file (https://github.com/CommonAccord/Cmacc-Org/blob/master/vendor/cmacc-app/view/doc.php) file to run a perl script which runs on legal source documents stored on the file server and stored in this github repo (https://github.com/fractastical/Cmacc-Org/tree/patch-1/Doc/G)
+
 ## Parser
 
 This Perl script (https://github.com/CommonAccord/Cmacc-Org/blob/master/vendor/cmacc-app/parser.pl) parses and expands fields in documents stored locally and remotely. It is part of the CommonAccord project, which aims to bring the world to agreement through codified legal documents.
@@ -41,6 +45,7 @@ cmacc-host
 ## Prerequisites
 
 Ensure you have Perl installed on your system. The script also relies on `curl` for fetching remote documents.
+
 
 ## Usage
 
