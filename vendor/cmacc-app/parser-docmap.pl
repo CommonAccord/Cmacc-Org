@@ -88,7 +88,7 @@ foreach( $$field =~ /\{([^}]+)\}/g ) {
       }
 
 
-my $output  = parse($ARGV[0], "Model.Root");
+my $output  = parse($ARGV[0], "r00t");
 print $output . "\n\n" . $filelist;
 
 #clean up the temporary files (remote fetching)

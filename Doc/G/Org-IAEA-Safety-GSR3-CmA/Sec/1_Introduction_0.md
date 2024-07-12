@@ -244,7 +244,7 @@ Table1=<b>TABLE 1. ORGANIZATION OF THE REQUIREMENTS OF THESE STANDARDS</b><br><t
 
 H.4.sec=<ol start=47><li>{1.47.sec}<li>{1.48.sec}<li>{1.49.sec}<li>{1.50.sec}<li>{1.51.sec}<li>{1.52.sec}<li>{1.53.sec}<li>{1.54.sec}<li>{1.55.sec}</ol>
 
-Model.Root={H.Sec}
+r00t={H.Sec}
 
 H.=[G/Z/paras/4]
 

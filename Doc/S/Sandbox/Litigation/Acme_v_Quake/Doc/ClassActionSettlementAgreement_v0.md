@@ -50,4 +50,4 @@ PostClass.4=The Post-Class Terminees are listed on Exhibit B, attached hereto. E
 
 Case.=[S/Sandbox/Litigation/Acme_v_Quake/Case/FactSheet_v0.md]
 
-=[Wx/com/pa/Settlement/Class_Action_With-WARN-Act-Inserts_v0.md]
+=Wx/com/pa/Settlement/Class_Action_With-WARN-Act-Inserts_v0.md]

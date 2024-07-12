@@ -37,7 +37,7 @@ Doc.Ti=Key Agreement
 
 UMA.=[GH/KantaraInitiative/UMA-Text/0.md]
 
-Misc.=[Wx/com/cooleygo/US/Consult/Sec/Misc_v01.md]
+Misc.=Wx/com/cooleygo/US/Consult/Sec/Misc_v01.md]
 
 Misc.The_Consultant=A party
 

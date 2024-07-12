@@ -49,7 +49,8 @@ sub parse_root {
 			
 			$part = $oldpart . $part if $oldpart;
 			
-			if($what =~ s/^\?//) { 
+			if($what =~ s/^http//) { 
+				$what = 'http' . $what;
 				if(! $remote{$path.$what}) {  $remote_cnt++;
 					`curl '$what' > '$path/tmp$remote_cnt.cmacc'`;
 					$remote{$path.$what} = "$path/tmp$remote_cnt.cmacc";

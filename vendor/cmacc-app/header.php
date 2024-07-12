@@ -3,7 +3,7 @@
 <link rel='icon' href='vendor/png/CmA-Square.png'>
 
 <title><?php echo $dir ?></title>
-<link  href="Doc/G/Z/CSS/Visual.css" rel="stylesheet" />
+<link  href="Doc/G/Z/CSS/Doc.css" rel="stylesheet" />
 <link  href="png/custom.css" rel="stylesheet" />
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" />

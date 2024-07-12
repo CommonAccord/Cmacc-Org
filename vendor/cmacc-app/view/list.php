@@ -20,8 +20,8 @@ if(! ($dir == './')) {
        }
 
         echo "<div id='updir'><h3 class='sc subtitle'><a href=index.php><img src='png/CmA-Square.png' height=25></a>";
-        echo "<a href=index.php?action=list&file=>Docs</a>/";
-        echo "<a href=$_SERVER[PHP_SELF]?action=list&file=".$rootdir['dirname']."/>" . $docpath."</a>/".$rootdir['filename']."</h3><br>";
+        echo "<a href=" . INDEXNAME . "?" . VIEW . "=l&" . FILENAME . "=>Docs</a>/";
+        echo "<a href=$_SERVER[PHP_SELF]?" . VIEW ."=l&" . FILENAME ."=".$rootdir['dirname']."/>" . $docpath."</a>/".$rootdir['filename']."</h3><br>";
 
 echo "<center><a href=" . URLFORDOCSINREPO . substr($dir, URLFORDOCSINREPOOFFSET) .">Github</a> &emsp;</div>";
 //substr($dir, URLFORDOCSINREPOOFFSET)
@@ -41,7 +41,7 @@ if(file_exists($path.$dir . 'list.html')) {
   echo "<div>"; 
    include $path.$dir . 'list.html';
 # removing the edit button, because a bot is hitting /G/list.html
-# echo "<br><a href='index.php?action=edit&file=$dir" ;
+# echo "<br><a href='index.php?v=e&f=$dir" ;
 # echo "list.html'>(Edit)</a></div>";
     }
  }
@@ -52,12 +52,12 @@ foreach($files as $f) {
         if(is_dir($path.$dir.$f)) {
                 if( !( ($f == '.') || ($f == '..') || ($f == '.git')) ) {
 
-                        echo "<br><a href=$_SERVER[PHP_SELF]?action=list&file=$dir$f/ id='$f' title='$f'><img height=20 src='png/folder.png'> $f</a>";
+                        echo "<br><a href=$_SERVER[PHP_SELF]?" . VIEW ."=l&" . FILENAME ."=$dir$f/ id='$f' title='$f'><img height=20 src='png/folder.png'> $f</a>";
                 }
         }
         else {
-                if( !( ($f == 'list.html') || ($f == 'listintro.html') || ($f == 'README.md') || preg_match('/^\./', $f) ) ) {
-                        echo "<br><a href=$_SERVER[PHP_SELF]?action=source&file=$dir$f id='$f' title='$f'><img height=20 src='png/play.png'> $f</a>";
+                if( !( ($f == 'list.html') || ($f == 'listintro.html') || preg_match('/^\./', $f) ) ) {
+                        echo "<br><a href=$_SERVER[PHP_SELF]?" . VIEW . "=s&" . FILENAME . "=$dir$f id='$f' title='$f'><img height=20 src='png/play.png'> $f</a>";
                 }
         }
 }

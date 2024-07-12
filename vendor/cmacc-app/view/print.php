@@ -15,16 +15,16 @@ if (strlen($htmlHead) > 5){
 $lib_path = LIB_PATH;
 
 #testing python - so far, no good.
-# $document = `python3 vendor/cmacc-app/view/py_render/parser-print.py G/Agt-Form-CmA/US/0.md Doc Model.Root` ;
+# $document = `python3 vendor/cmacc-app/view/py_render/parser-print.py G/Agt-Form-CmA/US/0.md Doc r00t` ;
 
 
 # Adding ability to pass a starting Key to the rendering
 
 if (strlen($keyName) < 2) { 
-  $keyName = "Model.Root";
+  $keyName = "r00t";
 }
 
-$document = `perl $lib_path/parser.pl $path/$dir $keyName `;
+$document = `perl $lib_path/parser-print.pl $path/$dir $keyName `;
 
 $minDocLength = 1;
 

@@ -4,4 +4,4 @@ HereFunctions.TD=<table><tr><td>{HereFunctions.Ti} {HereNewFolder.Link}</td><td>
 
 FolderContents.TD=<table><tr><td><b>{FolderContents.Ti}</b><ul><li>{FolderContents.List}</li></ul></td></tr></table>
 
-Model.Root=<table border=1><tr><td>{UpFunctions.TD}</td></tr><tr><td>{HereFunctions.TD}</td></tr><tr><td>{FolderContents.TD}</td></tr></table>
+r00t=<table border=1><tr><td>{UpFunctions.TD}</td></tr><tr><td>{HereFunctions.TD}</td></tr><tr><td>{FolderContents.TD}</td></tr></table>

@@ -14,4 +14,6 @@ Adr.Street.Name=Alamo Way
 
 Adr.Zip=75123
 
-PageName=U/id/fabulous_express_inc
+Signer.=[G/U/Who/geraldine_graber.md]
+
+Signer.Title=Manager

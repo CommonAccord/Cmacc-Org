@@ -8,11 +8,11 @@ sec=<ol><li>{Conf.Sec}</li><li>{Engage.Sec}</li><li>{Except.Sec}</li><li>{Except
 
 Conf.Ti=Introduction
 
-Conf.Scope.0.sec=This Mutual Non-Disclosure Agreement (which incorporates these {_Standard_Terms} and the {_Cover_Page} (defined below)) (“{Def.MNDA.Target}”) allows each party (“{Def.Disclosing_Party.Target}”) to disclose or make available information in connection with the {_Purpose} which
+Conf.Scope.0.sec=This Mutual Non-Disclosure Agreement (which incorporates these {_Standard_Terms} and the {_Cover_Page} (defined below)) (“{DefT.MNDA}”) allows each party (“{DefT.Disclosing_Party}”) to disclose or make available information in connection with the {_Purpose} which
 
-Conf.Scope.1.sec=the {_Disclosing_Party} identifies to the receiving party (“{Def.Receiving_Party.Target}”) as “confidential”, “proprietary”, or the like or 
+Conf.Scope.1.sec=the {_Disclosing_Party} identifies to the receiving party (“{DefT.Receiving_Party}”) as “confidential”, “proprietary”, or the like or 
 
-Conf.Scope.2.sec=should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure (“{Def.Confidential_Information.Target}”).
+Conf.Scope.2.sec=should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure (“{DefT.Confidential_Information}”).
 
 Conf.Scope.=[G/Z/ol/s2]
 
@@ -20,7 +20,7 @@ Conf.IncludeDiscussions.sec=Each party’s {_Confidential_Information} also incl
 
 Conf.Include.sec={_Confidential_Information} includes technical or business information, product designs or roadmaps, requirements, pricing, security and compliance documentation, technology, inventions and know-how.
 
-Conf.CoverPage.sec=To use this {_MNDA}, the parties must complete and sign a cover page incorporating these {_Standard_Terms} (“{Def.Cover_Page.Target}”). Each party is identified on the {_Cover_Page} and capitalized terms have the meanings given herein or on the {_Cover_Page}.
+Conf.CoverPage.sec=To use this {_MNDA}, the parties must complete and sign a cover page incorporating these {_Standard_Terms} (“{DefT.Cover_Page}”). Each party is identified on the {_Cover_Page} and capitalized terms have the meanings given herein or on the {_Cover_Page}.
 
 Conf.sec=<ol type="a"><li>{Conf.Scope.sec}</li><li>{Conf.IncludeDiscussions.sec}</li><li>{Conf.Include.sec}</li><li>{Conf.CoverPage.sec}</li></ol>
 Engage.Ti=Use and Protection of {_Confidential_Information}

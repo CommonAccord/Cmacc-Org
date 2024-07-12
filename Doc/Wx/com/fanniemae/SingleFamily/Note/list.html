@@ -1,1 +1,0 @@
-Mortgage documents can be expressed in source format.  That makes their meaning computable.  It also allows experts and peers to comment - improving social knowledge.  <br>Add automation and non-falsifiability of the blockchain and you get a pretty compelling value prop.

@@ -4,12 +4,16 @@ body {
 
 }
 
+ul li {                
+        padding: 2px 0px 2px 0px;
+        }
+        
 .paras {
-padding: 10px 0px 0px 0px;
+padding: 2px 0px 2px 0px;
 }
 
 .paras li {
-padding: 0px 0px 0px 0px;
+padding: 2px 0px 2px 0px;
 }
 
 span { 
@@ -27,6 +31,39 @@ span :hover {
 }  
 
 
+.select {
+	color: #AA0055;
+            font-weight: bold;
+
+}  
+
+.table-key-source {
+        height : 10 ;
+        width: 300px;
+        max-width: 300px;
+        overflow-x : auto;
+        text-align : right ;
+        vertical-align: top; 
+
+}
+
+.table-value-source {
+        vertical-align: top; 
+        text-align : left ;
+        max-width: 80%;
+        margin: 0%;
+
+}
+
+.TFtable{
+        margin: 0px 0px 0px 50px;
+        margin-bottom: 10px;
+	}
+
+.expand {
+        color: #2f922cdc;
+
+}
 .warning {
 	color: #8F0000;
         text-transform : uppercase;
@@ -46,12 +83,12 @@ span :hover {
 }  
 
 .definedterm {
-	color: #004400 ;
+	color: #004444 ;
         text-decoration: none;
 }  
 
 .definedinitalic {
-	color: #004400 ;
+	color: #004444 ;
         text-decoration: none;
 	font-weight: 550 ;
         font-style: italic;
@@ -85,5 +122,10 @@ span :hover {
 
 .missing {
 	color: red ;
+       
+}
+
+.variable {
+        color: #aa00a7 ;
        
 }

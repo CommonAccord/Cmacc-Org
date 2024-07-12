@@ -14,8 +14,8 @@ my $remote_cnt = 0;
 my $path = "./Doc/";
 my $orig;
 
-# my $filelist = "";
-
+# You can do a trace of all files consulted by using the parser-trace.pl file.
+# my $filelist = ""; 
 
 sub parse {
 	
@@ -51,18 +51,20 @@ sub parse_root {
 			if ( $part && ($field =~ /^\Q$part\E(.+?)$/) ){ $newfield = $1;}
 			
 			$part = $oldpart . $part if $oldpart;
-			
-			if($what =~ s/^\?//) { 
+			# Follow a URL
+			if($what =~ s/^http//) { 
+				$what = 'http' . $what;
 				if(! $remote{$path.$what}) {  $remote_cnt++;
 					`curl '$what' > '$path/tmp$remote_cnt'`;
 					$remote{$path.$what} = "$path/tmp$remote_cnt";
 				}
 				$root = parse($remote{$path.$what}, $newfield || $field, $part);
 			}
+			# Look locally for a file
 			else {
 				$root = parse($path.$what, $newfield || $field, $part);
 			}
-#   $filelist = $filelist . "<br><br>[" . $what. "] - - -  " . $field ; # to make a list of each file visited.
+ # $filelist =  "<tr><td>" . $part . "</td><td>" . $field. "</td><td>" . $what. "</td></tr>" . $filelist  ; # to make a list of each file visited.
 
 			return $root if $root;
 		}
@@ -81,8 +83,10 @@ sub expand_fields  {
 	  my $ex = $_;
 	  my $ox = $part ? $part . $ex : $ex;
 	  my $value = parse($orig, $ox); 
-	  my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $value . "</span>";
-	  $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
+	  my $spanvalue = "<span title='" . $ox . "' id='" . $ox . "'>". $value . "</span>";
+	  if($ox =~ /!!$/) { $spanvalue = $value; }
+ 	    
+		  $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
 	}
       }
 
@@ -93,7 +97,7 @@ my $output  = parse($ARGV[0], $ARGV[1]);
 
 print $output . "\n\n";
 
-# print $output . "\n\n" . $filelist;
+#  print  "<table style='width:100%'><tr><th style='width:10%'>Prefix</th><th style='width:10%'>Key</th><th style='width:80%'>File</th></tr>" . $filelist . "</table>";
 
 
 #clean up the temporary files (remote fetching)

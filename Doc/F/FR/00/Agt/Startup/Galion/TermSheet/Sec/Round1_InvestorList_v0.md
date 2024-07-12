@@ -6,4 +6,4 @@ secs={Investor.All.N,E,A,Investment}
 
 Sec=<b>{Ti}</b><br><ul type="none"><li>{secs}</ul>{Def.sec}
 
-Model.Root={Sec}
+r00t={Sec}

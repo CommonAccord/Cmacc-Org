@@ -2,7 +2,7 @@
 
 Title=Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
  
-Model.Root={DocBody}
+r00t={DocBody}
 
 DocBody=<center><b>{Title}</b></center><br>{s0}<ol><li>{s1}</li><li>{s2}</li><li>{s3}</li><li>{s4}</li><li>{s5}</li><li>{s6}</li><li>{s7}</li><li>{s8}</li></ol>
 

@@ -24,83 +24,85 @@ sec={Intro.sec}<br><ol class="secs-and"><li>{Def.Sec}<li>{License.Sec}<li>{Subli
 
 _=[G/AgtForm/US/Def/Link/0.md]
 
-Def.=[G/AgtForm/US/Def/Target/0.md]
+DefT.=[G/AgtForm/US/Def/Target/0.md]
 
 Note=Special Definitions:
 
-Def.Add.sec={_Add}
+DefT.Add={_Add}
 
-Def.Addition.sec={_Addition}
+DefT.Addition={_Addition}
 
-Def.Computational_Use.sec={_Computational_Use}
+DefT.Computational_Use={_Computational_Use}
 
-Def.Data.sec={_Data}
+DefT.Data={_Data}
 
-Def.Data_Provider.sec={_Data_Provider}
+DefT.Data_Provider={_Data_Provider}
 
-Def.Enhanced_Data.sec={_Enhanced_Data}
+DefT.Enhanced_Data={_Enhanced_Data}
 
-Def.Ledger.sec={_Ledger}
+DefT.Ledger={_Ledger}
 
-Def.Modify.sec={_Modify}
+DefT.Modify={_Modify}
 
-Def.Modification.sec={_Modification}
+DefT.Modification={_Modification}
 
-Def.Publish.sec={_Publish}
+DefT.Publish={_Publish}
 
-Def.Publication.sec={_Publication}
+DefT.Publication={_Publication}
 
-Def.Receive.sec={_Receive}
+DefT.Receive={_Receive}
 
-Def.Result.sec={_Result}
+DefT.Result={_Result}
 
-Def.Sui_Generis_Database_Right.sec={_Sui_Generis_Database_Right}
+DefT.Sui_Generis_Database_Right={_Sui_Generis_Database_Right}
 
-Def.Steward.sec={_Steward}
+DefT.Steward={_Steward}
 
-Def.Use.sec={_Use}
+DefT.Use={_Use}
 
-Def.You.sec={_You}
+DefT.You={_You}
 
 
 Note=Special Defined Terms:
 
-_Data=<a href='#Def.Data.sec' class='definedterm'>Data</a>
+_Data=<a href='#DefT.Data' class='definedterm'>Data</a>
 
-_You=<a href='#Def.You.sec' class='definedterm'>You</a>
+_You=<a href='#DefT.You' class='definedterm'>You</a>
 
-_Data_Provider=<a href='#Def.Data_Provider.sec' class='definedterm'>Data Provider</a>
+_Data_Provider=<a href='#DefT.Data_Provider' class='definedterm'>Data Provider</a>
 
-_Your=<a href='#Def.Your.sec' class='definedterm'>Your</a>
+_Your=<a href='#DefT.Your' class='definedterm'>Your</a>
 
-_Addition=<a href='#Def.Addition.sec' class='definedterm'>Addition</a>
+_Addition=<a href='#DefT.Addition' class='definedterm'>Addition</a>
 
-_Result=<a href='#Def.Result.sec' class='definedterm'>Result</a>
+_Result=<a href='#DefT.Result' class='definedterm'>Result</a>
 
-_Computational_Use=<a href='#Def.Computational_Use.sec' class='definedterm'>Computational Use</a>
+_Computational_Use=<a href='#DefT.Computational_Use' class='definedterm'>Computational Use</a>
 
-_Publish=<a href='#Def.Publish.sec' class='definedterm'>Publish</a>
+_Publish=<a href='#DefT.Publish' class='definedterm'>Publish</a>
 
-_Receiving=<a href='#Def.Receiving.sec' class='definedterm'>Receiving</a>
+_Receiving=<a href='#DefT.Receiving' class='definedterm'>Receiving</a>
 
-_Modification=<a href='#Def.Modification.sec' class='definedterm'>Modification</a>
+_Modification=<a href='#DefT.Modification' class='definedterm'>Modification</a>
 
-_Enhanced_Data=<a href='#Def.Enhanced_Data.sec' class='definedterm'>Enhanced Data</a>
+_Enhanced_Data=<a href='#DefT.Enhanced_Data' class='definedterm'>Enhanced Data</a>
 
-_Use=<a href='#Def.Use.sec' class='definedterm'>Use</a>
+_Use=<a href='#DefT.Use' class='definedterm'>Use</a>
 
-_Receive=<a href='#Def.Receive.sec' class='definedterm'>Receive</a>
+_Receive=<a href='#DefT.Receive' class='definedterm'>Receive</a>
 
-_Sui_Generis_Database_Right=<a href='#Def.Sui_Generis_Database_Right.sec' class='definedterm'>Sui Generis Database Right</a>
+_Sui_Generis_Database_Right=<a href='#DefT.Sui_Generis_Database_Right' class='definedterm'>Sui Generis Database Right</a>
 
-_Publication=<a href='#Def.Publication.sec' class='definedterm'>Publication</a>
+_Publication=<a href='#DefT.Publication' class='definedterm'>Publication</a>
 
-_Receipt=<a href='#Def.Receipt.sec' class='definedterm'>Receipt</a>
+_Receipt=<a href='#DefT.Receipt' class='definedterm'>Receipt</a>
 
-_Add=<a href='#Def.Add.sec' class='definedterm'>Add</a>
+_Add=<a href='#DefT.Add' class='definedterm'>Add</a>
 
-_Ledger=<a href='#Def.Ledger.sec' class='definedterm'>Ledger</a>
+_Ledger=<a href='#DefT.Ledger' class='definedterm'>Ledger</a>
 
-_Modify=<a href='#Def.Modify.sec' class='definedterm'>Modify</a> 
+_Modify=<a href='#DefT.Modify' class='definedterm'>Modify</a> 
 
-_Steward=<a href='#Def.Steward.sec' class='definedterm'>Steward</a>
+_Steward=<a href='#DefT.Steward' class='definedterm'>Steward</a>
+
+!!!=# 

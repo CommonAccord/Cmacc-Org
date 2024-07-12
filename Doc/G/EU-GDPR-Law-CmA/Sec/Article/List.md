@@ -202,7 +202,7 @@ Def.=[G/EU-GDPR-Law-CmA/Sec/Article/4.md]
 
 99.=[G/EU-GDPR-Law-CmA/Sec/Article/99.md]
 
-Model.Root={Sec}
+r00t={Sec}
 
 Sec=<b>{Ti}</b><br>{Secs}
 

@@ -1,3 +1,3 @@
 =[bqc/fr/bnpp/a5we/0.md]
 
-Model.Root={Corp.Cap.SeriesA.TermSheet.Doc}
+r00t={Corp.Cap.SeriesA.TermSheet.Doc}

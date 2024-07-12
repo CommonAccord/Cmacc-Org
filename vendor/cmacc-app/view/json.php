@@ -6,7 +6,7 @@ include("$lib_path/view-tabs.php");
 ?>
 
 
-<h4>JSON source view - <a href="https://github.com/adonalsium/common_accord/blob/dev/README.md">see technical description from Brown DISP ReadMe</a>:</h4>
+<h4>JSON source view - <a href="https://github.com/CommonAccord/common_accord/tree/dev/README.md">see technical description from Brown DISP ReadMe</a>:</h4>
 
 <?php 
 
@@ -20,11 +20,11 @@ foreach($contents as $n) {
 if(preg_match('/\[(.+?)\]/', $v, $matches)) {
  
    if(strlen($k) > 0){
-     $vlink = "\"<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$matches[1]</a>\"" ;
+     $vlink = "\"<a href=$_SERVER[PHP_SELF]?v=j&f=$matches[1]>$matches[1]</a>\"" ;
      $text = $text . "[ \"$k\" : $vlink ] , "; 
    }
    else{ 
-     $vlink = "\"\" : \"<a href=$_SERVER[PHP_SELF]?action=json&file=$matches[1]>$matches[1]</a>\""; 
+     $vlink = "\"\" : \"<a href=$_SERVER[PHP_SELF]?v=j&f=$matches[1]>$matches[1]</a>\""; 
      $text = $text . "[ $vlink ] , "; 
    }
 }

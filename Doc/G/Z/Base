@@ -4,9 +4,14 @@ Sec=<span class="sec-ti">{Ti}</span><br>{sec}
 
 Note=Section text (sec) can be a simple text provided by the user, or it can be more structured.  It can be a list of subsections and may have an introductory clause (0.sec) and may have an exit clause (00.sec).  The list of sections may use any of the HTML numbering formats - 1, I, i, A, a, bullet, etc.  
 
-sec={0.sec} {xlist} {00.sec}
+sec={0.sec}{xlist}{00.sec}
 
-Model.Root={Sec}
+r00t={Sec}
+
+Note=for backwards compatibility. 
+
+Model.Root={r00t}
+
 
 LI=<li>{Sec}</li>
 

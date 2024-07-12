@@ -36,4 +36,4 @@ PrimaryLaw-=[S/Index/PrimaryLaw.md]
 
 Privacy-=[S/Index/Privacy.md]
 
-StartUp-=[S/Index/StartUp/1ndex.md]
+StartUp-=[S/Index/Startup/1ndex.md]

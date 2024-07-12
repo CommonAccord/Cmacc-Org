@@ -1,4 +1,4 @@
-Model.Root={Ti}<br><br>{sec}
+r00t={Ti}<br><br>{sec}
 
 Ti=<center>{Head.sec}</center>
 

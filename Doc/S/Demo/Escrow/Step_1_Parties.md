@@ -10,12 +10,12 @@ Seller.Dear=Dear Gerry
 
 =[S/Demo/Escrow/Form/Escrow.md]
 
-Seller.=[U/id/gerrys_grapes_llc]
+Seller.=[G/U/Who/gerrys_grapes_llc.md]
 
-Escrow.=[U/id/safe_hands_inc]
+Escrow.=[G/U/Who/safe_hands_inc.md]
 
-Shipper.=[U/id/fabulous_express_inc]
+Shipper.=[G/U/Who/fabulous_express_inc.md]
 
-Arbitrator.=[U/id/solomon_shirley]
+Arbitrator.=[G/U/Who/solomon_shirley.md]
 
 ARB.=[S/Demo/Escrow/Form/JAMS_Arbitration_Chicago.md]

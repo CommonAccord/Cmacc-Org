@@ -4,7 +4,7 @@ Seller.Sign.YMD={Response.YMD}
 
 Accept/Reject={Response.Accept}
 
-Model.Root={Response.Model.Root}
+r00t={Response.r00t}
 
 Response.=[S/Demo/Escrow/Form/Response.md]
 

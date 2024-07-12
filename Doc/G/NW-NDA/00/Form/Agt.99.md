@@ -7,7 +7,7 @@ We need a name for the whole document.  Agt is ugly but short and expressive and
 ".Body" imitates HTML's labelling.
 
 
-Model.Root={Agt.Body}
+r00t={Agt.Body}
 
 We then declare the Divisions of the agreement.  "Div" imitates HTML vocabulary.  An agreement has a heading, identifies who the agreement is among, often has a prologue of why and a bit of other housekeeping, then the body of its text, then signature blocks, then sometime attachments, exhibits, schedules, annexes.  
 

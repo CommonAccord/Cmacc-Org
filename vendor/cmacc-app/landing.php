@@ -12,7 +12,7 @@ $dir=LANDING_MD;
 # Adding ability to pass a starting Key to the rendering
 
 if (strlen($keyName) < 2) { 
-  $keyName = "Model.Root";
+  $keyName = "r00t";
 }
 
 $document = `perl $lib_path/parser.pl $path/$dir $keyName `;

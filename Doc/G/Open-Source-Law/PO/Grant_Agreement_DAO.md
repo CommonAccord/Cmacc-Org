@@ -17,21 +17,21 @@ Law.State.the=the State of Delaware
 
 Doc.Ti=Grant Agreement
 
-This.sec=This Grant Agreement (this “{Def.Agreement.Target}”) is entered into as of {EffectiveDate.YMD} (the “Effective Date”) by and between {P1.US.N,E,A} (“{Def.Service_Provider.Target}”) and {P2.US.N,E,A} (the “{Def.DAO_Legal_Entity.Target}”), represented and governed by the {DAO.Name.Full} Decentralized Autonomous Organization associated with address {DAO.BlockchainAddress} (“{Def.DAO.Target}”) ({_DAO} and the {_DAO_Legal_Entity}, together with any and all subsidiaries and affiliates, “{Def.DAO_Party.Target}”) ({_Service_Provider} and {_DAO_Party} are each a “{Def.Party.Target}” and both, the “{_Parties}”).
+This.sec=This Grant Agreement (this “{DefT.Agreement}”) is entered into as of {EffectiveDate.YMD} (the “Effective Date”) by and between {P1.US.N,E,A} (“{DefT.Service_Provider}”) and {P2.US.N,E,A} (the “{DefT.DAO_Legal_Entity}”), represented and governed by the {DAO.Name.Full} Decentralized Autonomous Organization associated with address {DAO.BlockchainAddress} (“{DefT.DAO}”) ({_DAO} and the {_DAO_Legal_Entity}, together with any and all subsidiaries and affiliates, “{DefT.DAO_Party}”) ({_Service_Provider} and {_DAO_Party} are each a “{DefT.Party}” and both, the “{_Parties}”).
 
-Why.sec={_DAO_Party} has deemed that {_Service_Provider} has the necessary qualifications, experience, and abilities to provide {_Services} (as such term is defined in Section {Service.Xnum} below) to and for the benefit of {_DAO_Party}, and {_Service_Provider} has agreed to provide such {_Services} to and for the benefit of {_DAO_Party} pursuant to the terms and conditions set forth in this {_Agreement}, with {_Service_Provider} to be deemed an independent contractor for {_DAO_Party} (as more particularly set forth in Section {IndependentContractor.Xnum} below, the “{Def.Relationship.Target}”). 
+Why.sec={_DAO_Party} has deemed that {_Service_Provider} has the necessary qualifications, experience, and abilities to provide {_Services} (as such term is defined in Section {Service.Xnum} below) to and for the benefit of {_DAO_Party}, and {_Service_Provider} has agreed to provide such {_Services} to and for the benefit of {_DAO_Party} pursuant to the terms and conditions set forth in this {_Agreement}, with {_Service_Provider} to be deemed an independent contractor for {_DAO_Party} (as more particularly set forth in Section {IndependentContractor.Xnum} below, the “{DefT.Relationship}”). 
 
 Then.sec=In consideration of the mutual benefits and obligations set forth in this {_Agreement}, the receipt and sufficiency of which is hereby acknowledged, {_Service_Provider} and {_DAO_Party} agree as follows:
 
 Service.Ti=Services
 
-Service.sec={_DAO_Party} hereby engages {_Service_Provider} to provide {_DAO_Party} or its written designee with the following services: {Services.Description.cl} (including any other services reasonably related thereto and/or as mutually agreed in writing between the {_Parties}, the “{Def.Services.Target}”).
+Service.sec={_DAO_Party} hereby engages {_Service_Provider} to provide {_DAO_Party} or its written designee with the following services: {Services.Description.cl} (including any other services reasonably related thereto and/or as mutually agreed in writing between the {_Parties}, the “{DefT.Services}”).
 
 Service.=[G/Z/Base]
 
 Term.Ti=Term
 
-Term.1.sec=The term of this {_Agreement} (the "{Def.Term.Target}") commences on the Effective Date and remains in full force and effect (except for the terms of this {_Agreement} which expressly survive the expiry or termination of this {_Agreement}) until {Term.End.sec} or until terminated pursuant to the terms of this {_Agreement}.
+Term.1.sec=The term of this {_Agreement} (the "{DefT.Term}") commences on the Effective Date and remains in full force and effect (except for the terms of this {_Agreement} which expressly survive the expiry or termination of this {_Agreement}) until {Term.End.sec} or until terminated pursuant to the terms of this {_Agreement}.
 
 Term.End.=[G/Z/Alt/2]
 
@@ -68,9 +68,9 @@ IndependentContractor.=[G/Open-Source-Law/PO/Sec/IndependentContractorRelationsh
 
 ConfInfo.Ti=Confidential Information
 
-ConfInfo.General.sec=Each {_Party}, their respective affiliates and their respective directors, officers, employers, employees, agents, members, or advisors (collectively, “{Def.Representatives.Target}”) may be alerted of, become privy to, or gain access to certain confidential and/or proprietary information of the other {_Party}. A {_Party} or its {_Representative} disclosing its {_Confidential_Information} (as such term is defined in Section {ConfInfo.Except.Xnum} below) to the other {_Party} is hereafter referred to as a “{Def.Disclosing_Party.Target}.” A {_Party} or its {_Representative} receiving the {_Confidential_Information} of the {_Disclosing_Party} is hereafter referred to as a “{Def.Receiving_Party.Target}.”
+ConfInfo.General.sec=Each {_Party}, their respective affiliates and their respective directors, officers, employers, employees, agents, members, or advisors (collectively, “{DefT.Representatives}”) may be alerted of, become privy to, or gain access to certain confidential and/or proprietary information of the other {_Party}. A {_Party} or its {_Representative} disclosing its {_Confidential_Information} (as such term is defined in Section {ConfInfo.Except.Xnum} below) to the other {_Party} is hereafter referred to as a “{DefT.Disclosing_Party}.” A {_Party} or its {_Representative} receiving the {_Confidential_Information} of the {_Disclosing_Party} is hereafter referred to as a “{DefT.Receiving_Party}.”
 
-ConfInfo.Def.1.sec=The term “{Def.Confidential_Information.Target}” as used in this {_Agreement} shall mean any data or information that is reasonably sensitive material and not generally known to the public or any third parties, including, but not limited to, information relating to any of the following: the {_Relationship}, product development and plans, proprietary concepts, documentation, operations, systems, computer software, source code, trade secrets, customer lists, customer relationships, negotiations, present or future business activities, design, verbal conversations or representations, writings, technical information and details which the {_Disclosing_Party} reasonably considers confidential, and anything {_DAO_Party} sets forth in writing as being confidential or sensitive material.
+ConfInfo.Def.1.sec=The term “{DefT.Confidential_Information}” as used in this {_Agreement} shall mean any data or information that is reasonably sensitive material and not generally known to the public or any third parties, including, but not limited to, information relating to any of the following: the {_Relationship}, product development and plans, proprietary concepts, documentation, operations, systems, computer software, source code, trade secrets, customer lists, customer relationships, negotiations, present or future business activities, design, verbal conversations or representations, writings, technical information and details which the {_Disclosing_Party} reasonably considers confidential, and anything {_DAO_Party} sets forth in writing as being confidential or sensitive material.
 
 CodersNote=Optional:
 
@@ -106,7 +106,7 @@ License.OpenSource.=[G/Z/Base]
 
 License.WorkForHire.Ti=Ownership of Intellectual Property
 
-License.WorkForHire.sec=All intellectual property, work product, and related material including any trade secrets, moral rights, goodwill, relevant registrations or applications for registration, and rights in any patent, copyright, trademark, trade dress, industrial design, non-open source software, method, trade name and communications (the “{Def.Intellectual_Property.Target}”) that is developed, progressed, or produced under this {_Agreement} is a “work made for hire” and will be the sole property of {_DAO_Party}. {_Service_Provider} may not use the {_Intellectual_Property} for any purpose other than as agreed herein except with the prior written consent of {_DAO_Party}. The use of the {_Intellectual_Property} by {_DAO_Party} will not be restricted in any manner. {_Service_Provider} will be responsible for any and all damages resulting from {_Service_Provider}’s or its {_Representatives}’ or a third party’s (to the extent such third party received or became aware of {_Intellectual_Property} from {_Service_Provider}) unauthorized use of the {_Intellectual_Property}.
+License.WorkForHire.sec=All intellectual property, work product, and related material including any trade secrets, moral rights, goodwill, relevant registrations or applications for registration, and rights in any patent, copyright, trademark, trade dress, industrial design, non-open source software, method, trade name and communications (the “{DefT.Intellectual_Property}”) that is developed, progressed, or produced under this {_Agreement} is a “work made for hire” and will be the sole property of {_DAO_Party}. {_Service_Provider} may not use the {_Intellectual_Property} for any purpose other than as agreed herein except with the prior written consent of {_DAO_Party}. The use of the {_Intellectual_Property} by {_DAO_Party} will not be restricted in any manner. {_Service_Provider} will be responsible for any and all damages resulting from {_Service_Provider}’s or its {_Representatives}’ or a third party’s (to the extent such third party received or became aware of {_Intellectual_Property} from {_Service_Provider}) unauthorized use of the {_Intellectual_Property}.
 
 License.WorkForHire.=[G/Z/Base]
 
@@ -206,51 +206,51 @@ By:
 
 CodersNote=Defined Terms and other parameters:
 
-_DAO=<a href='#Def.DAO.Target' class='definedterm'>DAO</a>
+_DAO=<a href='#Def.DAO' class='definedterm'>DAO</a>
 
-_DAO_Legal_Entity=<a href='#Def.DAO_Legal_Entity.Target' class='definedterm'>DAO Legal Entity</a>
+_DAO_Legal_Entity=<a href='#Def.DAO_Legal_Entity' class='definedterm'>DAO Legal Entity</a>
 
-_Service_Provider=<a href='#Def.Service_Provider.Target' class='definedterm'>Service Provider</a>
+_Service_Provider=<a href='#Def.Service_Provider' class='definedterm'>Service Provider</a>
 
-_DAO_Party=<a href='#Def.DAO_Party.Target' class='definedterm'>DAO Party</a>
+_DAO_Party=<a href='#Def.DAO_Party' class='definedterm'>DAO Party</a>
 
-_Representative=<a href='#Def.Representatives.Target' class='definedterm'>Representative</a>
+_Representative=<a href='#Def.Representatives' class='definedterm'>Representative</a>
 
-_Relationship=<a href='#Def.Relationship.Target' class='definedterm'>Relationship</a>
+_Relationship=<a href='#Def.Relationship' class='definedterm'>Relationship</a>
 
-_Representatives=<a href='#Def.Representatives.Target' class='definedterm'>Representatives</a>
+_Representatives=<a href='#Def.Representatives' class='definedterm'>Representatives</a>
 
-_Term=<a href='#Def.Term.Target' class='definedterm'>Term</a>
+_Term=<a href='#Def.Term' class='definedterm'>Term</a>
 
-_Intellectual_Property=<a href='#Def.Intellectual_Property.Target' class='definedterm'>Intellectual Property</a>
+_Intellectual_Property=<a href='#Def.Intellectual_Property' class='definedterm'>Intellectual Property</a>
 
-Def.Agreement.Target={_Agreement}
+Def.Agreement={_Agreement}
 
-Def.Service_Provider.Target={_Service_Provider}
+Def.Service_Provider={_Service_Provider}
 
-Def.DAO_Legal_Entity.Target={_DAO_Legal_Entity}
+Def.DAO_Legal_Entity={_DAO_Legal_Entity}
 
-Def.DAO.Target={_DAO}
+Def.DAO={_DAO}
 
-Def.DAO_Party.Target={_DAO_Party}
+Def.DAO_Party={_DAO_Party}
 
-Def.Party.Target={_Party}
+Def.Party={_Party}
 
-Def.Relationship.Target={_Relationship}
+Def.Relationship={_Relationship}
 
-Def.Services.Target={_Services}
+Def.Services={_Services}
 
-Def.Term.Target={_Term}
+Def.Term={_Term}
 
-Def.Representatives.Target={_Representatives}
+Def.Representatives={_Representatives}
 
-Def.Disclosing_Party.Target={_Disclosing_Party}
+Def.Disclosing_Party={_Disclosing_Party}
 
-Def.Receiving_Party.Target={_Receiving_Party}
+Def.Receiving_Party={_Receiving_Party}
 
-Def.Confidential_Information.Target={_Confidential_Information}
+Def.Confidential_Information={_Confidential_Information}
 
-Def.Intellectual_Property.Target={_Intellectual_Property}
+Def.Intellectual_Property={_Intellectual_Property}
 
 CodersNote=Parameterized Section Cross-references.
 

@@ -20,7 +20,7 @@ Conf.Life.End.YMD=2019-12-31
 
 Relate.Law.=[G/U/Place/US/MA/Geo]
 
-Relate.Cov.Conf.Engage.Access.sec={Relate.Cov.Conf.Engage.Access.Entity;EODLA;Know;Sign;Form.sec}
+Relate.Cov.Conf.Engage.Access.sec={Relate.Cov.Conf.Engage.Access.Entity-EODLA-Know-Sign-Form.sec}
 
 Relate.Cov.Conf.Life.Sec={Relate.Cov.Conf.Life.Alt2.Sec}
 

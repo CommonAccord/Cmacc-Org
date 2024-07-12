@@ -1,6 +1,6 @@
 Doc.Ti=Software License, Customization, and Maintenance Agreement
 
-This.sec=This {Doc.Ti} (this “{Def.Agreement.sec}”) is entered into as of {EffectiveDate.YMD} (the “Effective Date”) by and between {Vendor.US.N,E,A} (“{Def.Vendor.sec}”), and {Customer.US.N,E,A} (“{Def.Customer.sec}”).
+This.sec=This {Doc.Ti} (this “{DefT.Agreement}”) is entered into as of {EffectiveDate.YMD} (the “Effective Date”) by and between {Vendor.US.N,E,A} (“{DefT.Vendor}”), and {Customer.US.N,E,A} (“{DefT.Customer}”).
 
 That.sec=Therefore, in consideration of the mutual covenants, terms, and conditions set forth below, including those outlined on Attachments A and B (which are incorporated into this <a class='definedterm' href='#Def.Agreement.sec'>Agreement</a> by this reference), the adequacy of which consideration is hereby accepted and acknowledged, the parties agree as set forth below.<br><br><center>TERMS AND CONDITIONS</center>
 

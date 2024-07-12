@@ -1,5 +1,5 @@
 Handle=Shirley
 
-Attorney.=[U/id/quade_and_quinn]
+Attorney.=[G/U/Who/quade_and_quinn.md]
 
-=[U/id/solomon_shirley]
+=[G/U/Who/solomon_shirley.md]

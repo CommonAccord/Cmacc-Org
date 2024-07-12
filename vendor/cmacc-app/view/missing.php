@@ -22,7 +22,7 @@ $lib_path = LIB_PATH;
 # Adding ability to pass a starting Key to the rendering
 
 if (strlen($keyName) < 2) { 
-  $keyName = "Model.Root";
+  $keyName = "r00t";
 }
 
 $document = `perl $lib_path/parser-missing.pl $path/$dir $keyName `;

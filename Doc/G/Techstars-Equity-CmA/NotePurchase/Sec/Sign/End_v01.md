@@ -8,6 +8,6 @@ Sec={1.Sec}<br>{2.Sec}<br>{3.Sec}<br>{4.Sec}<br>{5.Sec}
 
 4.Sec={InvN.Sign.Block}
 
-5.Sec=<hr><hr><h3>{Exhibit_A}<br>FORM OF CONVERTIBLE PROMISSORY NOTE</h3><hr>{ExhA.Model.Root}
+5.Sec=<hr><hr><h3>{Exhibit_A}<br>FORM OF CONVERTIBLE PROMISSORY NOTE</h3><hr>{ExhA.r00t}
 
-Model.Root={Sec}
+r00t={Sec}

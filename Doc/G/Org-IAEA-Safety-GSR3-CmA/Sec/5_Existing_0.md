@@ -298,7 +298,7 @@ Req.52.3.Ti=Exposure of aircrew and space crew due to cosmic radiation
 
 33.sec=The regulatory body or other relevant authority shall establish, where appropriate, a framework for radiation protection that applies to individuals in space based activities that is appropriate for the exceptional conditions of space. While the requirements of these Standards in respect of dose limits do not apply to individuals in space based activities, all reasonable efforts shall be made to optimize protection for individuals in space based activities by restricting the doses received by such individuals while not unduly limiting the extent of such activities.
 
-Model.Root={H.Sec}
+r00t={H.Sec}
 
 H.=[G/Z/paras/4]
 

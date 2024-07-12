@@ -27,7 +27,7 @@ At bottom a few links to other lists.
 <tr><td>http://www.grants.gov/web/grants/forms.html</td><td>Jumping off place for forms relating to government research grants</td></tr>
 <tr><td>http://otl.stanford.edu/industry/resources/industry_res.html</td><td>See the letter, above.</td>
 <tr><td>http://kauffman.org/what-we-do/research/2012/07/facilitating-the-commercialization-of-university-innovation    </td><td>Kauffman Foundation -- sponsored a university to start-up standard tech transfer agreement.  </td></tr>
-<tr><td>http://www.ott.nih.gov/forms-model-agreements</td><td>NIH Models -- see [[Ott.nih.gov/License_Patent_Exclusive_Agt_Library]]</td></tr>
+<tr><td>http://www.ott.nih.gov/forms-model-agreements</td><td>NIH Models -- see [Ott.nih.gov/License_Patent_Exclusive_Agt_Library]</td></tr>
 <tr><td>http://spo.berkeley.edu/forms/ucforms.html</td></tr>
 <td>http://research.ucdavis.edu/resources/forms/</td><td></td></table>
 
@@ -67,7 +67,7 @@ At bottom a few links to other lists.
 <tr><td>https://lawpal.com</td><td>Connects startups with lawyers and provides collab infrastructure.</td></tr>
 <tr><td>http://naega.org/contracts/index.shtml</td><td>  North American Grain -A few agreements</td></tr>
 <tr><td>http://www.nolo.com/</td><td>One of the first democratizers of law.  Paid forms for small business and personal use.</td></tr>
-<tr><td>[http://www.nvca.org/index.php?option=com_content&view=article&id=108&Itemid=136 NVCA Model Documents]</td><td>National Venture Capital - see also [[Model_EarlyStage_SPA_Discussion]]</td></tr>
+<tr><td>[http://www.nvca.org/index.php?option=com_content&view=article&id=108&Itemid=136 NVCA Model Documents]</td><td>National Venture Capital - see also [Model_EarlyStage_SPA_Discussion]</td></tr>
 <tr><td>http://opensource.org/licenses</td><td>A paradigm of codified contract text is open source and the grandaddy GPL.</td></tr>
 
 

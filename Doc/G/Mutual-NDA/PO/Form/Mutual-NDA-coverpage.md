@@ -2,11 +2,11 @@ Doc.Ti=Mutual Non-Disclosure Agreement
 
 Why.Ti=USING THIS MUTUAL NON-DISCLOSURE AGREEMENT
 
-Why.sec=This Mutual Non-Disclosure Agreement (the “{Def.MNDA.Target}”) consists of: (1) this {_Cover_Page} (“{Def.Cover_Page.Target}”) and (2) the Common Paper Mutual NDA Standard Terms Version 1.0 (“{Def.Standard_Terms.Target}”) identical to those posted at [commonpaper.com/standards/mutual-nda/1.0](https://commonpaper.com/standards/mutual-nda/1.0). Any modifications of the {_Standard_Terms} should be made on the {_Cover_Page}, which will control over conflicts with the {_Standard_Terms}.
+Why.sec=This Mutual Non-Disclosure Agreement (the “{DefT.MNDA}”) consists of: (1) this {_Cover_Page} (“{DefT.Cover_Page}”) and (2) the Common Paper Mutual NDA Standard Terms Version 1.0 (“{DefT.Standard_Terms}”) identical to those posted at [commonpaper.com/standards/mutual-nda/1.0](https://commonpaper.com/standards/mutual-nda/1.0). Any modifications of the {_Standard_Terms} should be made on the {_Cover_Page}, which will control over conflicts with the {_Standard_Terms}.
 
 sec=<ol><li>{Purpose.Sec}</li><li>{EffectiveDate.Sec}</li><li>{AgtTerm.Sec}</li><li>{ConfTerm.Sec}</li><li>{LawJurisdiction.Sec}</li><li>{Modification.Sec}</li></ol>
 
-Purpose.Ti={Def.Purpose.Target}
+Purpose.Ti={Def.Purpose}
 
 Purpose.sec=How {_Confidential_Information} may be used: {Purpose.Description.cl}.
 
@@ -14,13 +14,13 @@ Purpose.Description.cl=Evaluating whether to enter into a business relationship 
 
 Purpose.=[G/Z/Base]
 
-EffectiveDate.Ti={Def.Effective_Date.Target}
+EffectiveDate.Ti={Def.Effective_Date}
 
 EffectiveDate.sec={EffectiveDate.YMD}
 
 EffectiveDate.=[G/Z/Base]
 
-AgtTerm.Ti={Def.MNDA_Term.Target}
+AgtTerm.Ti={Def.MNDA_Term}
 
 AgtTerm.sec=The length of this {_MNDA}: {MNDA-Term.sec}
 
@@ -40,7 +40,7 @@ MNDA-Term.AltPrompt=</i>
 
 MNDA-Term.SecName=MNDA-Term
 
-ConfTerm.Ti={Def.Term_of_Confidentiality.Target}
+ConfTerm.Ti={Def.Term_of_Confidentiality}
 
 ConfTerm.sec=How long {_Confidential_Information} is protected  {Term_of_Confidentiality.sec}
 
@@ -62,9 +62,9 @@ Term_of_Confidentiality.SecName=Term_of_Confidentiality
 
 LawJurisdiction.Ti=Governing Law & Jurisdiction
 
-LawJurisdiction.1.sec={Def.Governing_Law.Target}: {Law.State}
+LawJurisdiction.1.sec={Def.Governing_Law}: {Law.State}
 
-LawJurisdiction.2.sec={Def.Jurisdiction.Target}: {Jurisdiction.State}
+LawJurisdiction.2.sec={Def.Jurisdiction}: {Jurisdiction.State}
     
 Note=Fill in city or county and state, i.e. “courts located in New Castle, DE”]
 

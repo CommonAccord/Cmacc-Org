@@ -12,4 +12,4 @@ All Four Steps as a Binder:
 
 5.=[S/Demo/Escrow/Step_5_Response.md]
 
-Model.Root=<b>from {3.Purchaser.Name.Full}'s purchase of {3.Product.Description} from {3.Seller.Name.Full}, the Claim, the Complete Escrow Agreement and each of the drafts</b>:<br><ol><li>{1.Model.Root}<li>{2.Model.Root}<li>{3.Model.Root}<li>{4.Model.Root}<li>{4.Model.Root}</ol>
+r00t=<b>from {3.Purchaser.Name.Full}'s purchase of {3.Product.Description} from {3.Seller.Name.Full}, the Claim, the Complete Escrow Agreement and each of the drafts</b>:<br><ol><li>{1.r00t}<li>{2.r00t}<li>{3.r00t}<li>{4.r00t}<li>{4.r00t}</ol>

@@ -67,11 +67,11 @@ We propose a convention for defined terms.  All defined terms must be "parameter
 
 We also suggest a format for the definition.  A defined term should lead with the defined term in quotes, followed by "means".  For example:
 
-Def.Authorized_Representative.sec="{Def.Authorized_Representative.Target}" means ....
+Def.Authorized_Representative.sec="{DefT.Authorized_Representative}" means ....
 
 With the Target rolling over to the parameter for the Defined Term:
 
-Def.Authorized_Representative.Target={_Authorized_Representative}
+Def.Authorized_Representative={_Authorized_Representative}
 
 The fourth piece is the defined term parameter. It should be a link to the definition.  Hence:
 

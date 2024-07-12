@@ -49,14 +49,16 @@ sub parse_root {
 			if ( $part && ($field =~ /^\Q$part\E(.+?)$/) ){ $newfield = $1;}
 			
 			$part = $oldpart . $part if $oldpart;
-			
-			if($what =~ s/^\?//) { 
+			# Follow a URL
+			if($what =~ s/^http//) { 
+				$what = 'http' . $what;
 				if(! $remote{$path.$what}) {  $remote_cnt++;
 					`curl '$what' > '$path/tmp$remote_cnt.cmacc'`;
 					$remote{$path.$what} = "$path/tmp$remote_cnt.cmacc";
 				}
 				$root = parse($remote{$path.$what}, $newfield || $field, $part);
 			}
+			# Look locally for a file
 			else {
 				$root = parse($path.$what, $newfield || $field, $part);
 			}
@@ -104,7 +106,7 @@ print "$_=<br><br>" foreach @arr;
 
 # print "$_=<a href='#Def." . substr($_, 1).".sec' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
 
-# to mark the place a defined term is defined inline - use the convention "{Def.My_Term.sec}".  This will make Def.My_Term.sec={_My_Term}.
+# to mark the place a defined term is defined inline - use the convention "{DefT.My_Term}".  This will make Def.My_Term.sec={_My_Term}.
 
 # print "$_=\{_" . substr($_, 4, -4) ."\}\n" foreach @arr;
 

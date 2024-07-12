@@ -4,7 +4,7 @@ Note2=List of some example deals, with fake deal points <a href="index.php?actio
 
 Note3=Our style guide [S/OurLegal/Sec/StyleSheet_v0.md]
 
-Model.Root={Intro.sec}<ol><li><b>A Taxonomy of Documents (incomplete)</b><br>{Docs}<li><b>A Taxonomy of Sections (incomplete)</b><br>{sec}</ol>
+r00t={Intro.sec}<ol><li><b>A Taxonomy of Documents (incomplete)</b><br>{Docs}<li><b>A Taxonomy of Sections (incomplete)</b><br>{sec}</ol>
 
 Docs=<ol><li>{NDA.List}<li>{Consult.List}<li>{Employ.List}<li>{License.List}<li>{Policy.List}<li>{Loan.List}<li>{Sale.List}<li>{Invest.List}</ol>
 

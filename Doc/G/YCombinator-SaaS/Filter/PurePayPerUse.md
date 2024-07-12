@@ -18,7 +18,7 @@ TC.Restrict.ProperUse.PoliciesAndApplicableLaw.sec={_Customer} represents, coven
 
 TC.Restrict.License.sec=N/A - no {_Supplier_Software} will be distributed or made available.
 
-TC.Conf.Scope.sec=This {_Agreement} covers an experimental phase of the {_Services} during which {_Company} will offer prices and performance standards that are experimental.  {_Customer} (for purposes of this section, the "{Def.Receiving_Party.Target}") agrees that such information is "{Def.Proprietary_Information.Target}" of {_Company} (for purposes of this section, the "{_Disclosing_Party}").
+TC.Conf.Scope.sec=This {_Agreement} covers an experimental phase of the {_Services} during which {_Company} will offer prices and performance standards that are experimental.  {_Customer} (for purposes of this section, the "{DefT.Receiving_Party}") agrees that such information is "{DefT.Proprietary_Information}" of {_Company} (for purposes of this section, the "{_Disclosing_Party}").
 
 TC.Conf.PerformanceInformation.sec=N/A
 
@@ -26,7 +26,7 @@ TC.Comp.Pay.Fees.sec=There are no base, monthly or access {_Fees} for the {_Serv
 
 TC.Comp.Pay.AdditionalFees.sec=</i>
 
-TC.Life.1.sec=Subject to earlier termination as provided below, {_this_Agreement} is for the {_Initial_Service_Term} as specified in the Order Form (the "{Def.Agreement_Term.Target}").
+TC.Life.1.sec=Subject to earlier termination as provided below, {_this_Agreement} is for the {_Initial_Service_Term} as specified in the Order Form (the "{DefT.Agreement_Term}").
 
 Note=This provides for bare emailing - and for really formal registered mail.  Added "invoices".
 

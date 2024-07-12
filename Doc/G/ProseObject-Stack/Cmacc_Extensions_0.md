@@ -4,7 +4,7 @@ Ti=Cmacc Extensions
  
 1.Ti=File-Level Overrides
 
-1.sec=The current model is based on overriding keys.  There are use-cases where it would be very helpful to be able to override files.  That is to say, when rendering looks for a file named [Z/ol/s3] it can be directed to look for a file named [P/my/Z/ol/s3] before looking for [Z/ol/s3].  This can be done by including a Key/Value such as [[]]=[[P/my/]] in the file (or by referencing a file that contains such a Key/Value).   This solves a bunch of forking and use-case problems while retaining the basic intellectual model of overrides. Perhaps it makes sense to be able to declare in a folder that all files in the folder (and in subfolders) are deemed to have such a Key/Value.   Details to be worked out. 
+1.sec=The current model is based on overriding keys.  There are use-cases where it would be very helpful to be able to override files.  That is to say, when rendering looks for a file named [Z/ol/s3] it can be directed to look for a file named [P/my/Z/ol/s3] before looking for [Z/ol/s3].  This can be done by including a Key/Value such as []=[P/my/] in the file (or by referencing a file that contains such a Key/Value).   This solves a bunch of forking and use-case problems while retaining the basic intellectual model of overrides. Perhaps it makes sense to be able to declare in a folder that all files in the folder (and in subfolders) are deemed to have such a Key/Value.   Details to be worked out. 
 
 2.Ti=Accessing overridden Key/Values.
 
@@ -16,7 +16,7 @@ Ti=Cmacc Extensions
 
 4.Ti=Reverse-Walking the Graph - and generally using graph queries
 
-4.sec=If I've referenced Alice as P1.=[U/id/Alice.md] and I now want to reference her mother, I might want to say something like (totally making this up) {P1.(>Child.; if He/She = She)Name.Full}.  This gets messy pretty quickly. The workaround is to add Alice's mother as P1.Mother.=[U/id/Mary.md].   Perhaps there is a way to encapsulate a standard graph query.
+4.sec=If I've referenced Alice as P1.=[G/U/Who/Alice.md] and I now want to reference her mother, I might want to say something like (totally making this up) {P1.(>Child.; if He/She = She)Name.Full}.  This gets messy pretty quickly. The workaround is to add Alice's mother as P1.Mother.=[G/U/Who/Mary.md].   Perhaps there is a way to encapsulate a standard graph query.
 
 5.Ti=Calculations
 
@@ -32,4 +32,4 @@ Ti=Cmacc Extensions
  
 =[G/Z/ol/7]
 
-ID.HazardJ.=[U/id/hazardj]
+ID.HazardJ.=[G/U/Who/hazardj]

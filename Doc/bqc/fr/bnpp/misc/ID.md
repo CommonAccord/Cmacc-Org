@@ -10,4 +10,4 @@ Adr.City=Paris
 
 ID.Number.#=01201230
 
-=[U/class/ID_Entity]
+=[G/AgtForm/FR/ID/Entity/0.md]

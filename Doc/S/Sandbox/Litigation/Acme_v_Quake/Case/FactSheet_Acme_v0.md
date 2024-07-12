@@ -1,12 +1,12 @@
 Handle=Acme
 
-Firm.=[U/id/andrews_and_applegate_pllc]
+Firm.=[G/U/Who/andrews_and_applegate_pllc]
 
-Atty.Chair1.=[U/id/alison_andrews]
+Atty.Chair1.=[G/U/Who/alison_andrews.md]
 
-Atty.Chair2.=[U/id/alicia_applegate]
+Atty.Chair2.=[G/U/Who/alicia_applegate]
 
-Party.=[U/id/acme_incorporated]
+Party.=[G/U/Who/acme_incorporated.md]
 
 Note=Formatting or "Class"
 

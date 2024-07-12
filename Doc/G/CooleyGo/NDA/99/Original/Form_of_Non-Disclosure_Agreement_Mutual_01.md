@@ -4,15 +4,15 @@ CodersNote=We change this intro paragraph from the generic 0.sec to the {_Agreem
 
 This.=[G/Z/para/s2]
 
-This.1.sec={Doc.Ti} (this “{Def.Agreement.Target}”) is entered into between {P1.US.N,E,A} (“{Def.Company.Target}”) and {OtherParty.cl} (“{Def.Other_Signatory.Target}”) as of {EffectiveDate.YMD} (the “{Def.Effective_Date.Target}”), to protect the confidentiality of certain confidential information of {This.WhoseInfo.cl} solely for use in evaluating or pursuing a business relationship between the parties (the “{Def.Permitted_Use.Target}”). 
+This.1.sec={Doc.Ti} (this “{DefT.Agreement}”) is entered into between {P1.US.N,E,A} (“{DefT.Company}”) and {OtherParty.cl} (“{DefT.Other_Signatory}”) as of {EffectiveDate.YMD} (the “{DefT.Effective_Date}”), to protect the confidentiality of certain confidential information of {This.WhoseInfo.cl} solely for use in evaluating or pursuing a business relationship between the parties (the “{DefT.Permitted_Use}”). 
 
-This.2.Target={_Company} and {_Other_Signatory} may be referred to herein individually as a “{Def.Party.Target}” and collectively as the “{Def.Parties.sec}.”
+This.2={_Company} and {_Other_Signatory} may be referred to herein individually as a “{DefT.Party}” and collectively as the “{DefT.Parties.sec}.”
 
 This.WhoseInfo.cl={_Company} or of {_Other_Signatory} to be disclosed under this {_Agreement} 
 
 OtherParty.cl=the other party named on the signature page hereto
 
-1.0.sec=As used herein, the “{Def.Confidential_Information.Target}” of a {_Party} will mean any and all technical and non-technical information disclosed by such {_Party} (the “{Def.Disclosing_Party.Target}”) to the other {_Party} (the “{Def.Receiving_Party.Target}”), which may include without limitation:
+1.0.sec=As used herein, the “{DefT.Confidential_Information}” of a {_Party} will mean any and all technical and non-technical information disclosed by such {_Party} (the “{DefT.Disclosing_Party}”) to the other {_Party} (the “{DefT.Receiving_Party}”), which may include without limitation:
 
 1.1.sec=patent and patent applications
 
@@ -68,7 +68,7 @@ Conf.Except.sec={Conf.Except.Intro.sec}:<ol type="a"><li>{Conf.Except.PublicWas.
 
 6.sec=Upon termination or expiration of this {_Agreement}, or upon written request of either {_Party}, each {_Party} will promptly return to the {_Disclosing_Party} or destroy all documents and other tangible materials representing the {_Disclosing_Party}’s {_Confidential_Information} and all copies thereof.
 
-7.Target={_Confidential_Information} is and shall remain the sole property of the {_Disclosing_Party}. The {_Receiving_Party} recognizes and agrees that nothing contained in this {_Agreement} will be construed as granting any property rights, by license or otherwise, to any {_Confidential_Information} of the {_Disclosing_Party}, or to any invention or any patent, copyright, trademark, or other intellectual property right that has issued or that may issue, based on such {_Confidential_Information}. Neither {_Receiving_Party} will make, have made, use or sell for any purpose any product or other item using, incorporating or derived from any {_Confidential_Information} of the {_Disclosing_Party}. Neither this {_Agreement} nor the disclosure of any {_Confidential_Information} hereunder shall result in any obligation on the part of either {_Party} to enter into any further agreement with the other, license any products or services to the other, or to require either {_Party} to disclose any particular {_Confidential_Information}. Nothing in this {_Agreement} creates or shall be deemed to create any employment, joint venture, or agency between the {_Parties}.
+7={_Confidential_Information} is and shall remain the sole property of the {_Disclosing_Party}. The {_Receiving_Party} recognizes and agrees that nothing contained in this {_Agreement} will be construed as granting any property rights, by license or otherwise, to any {_Confidential_Information} of the {_Disclosing_Party}, or to any invention or any patent, copyright, trademark, or other intellectual property right that has issued or that may issue, based on such {_Confidential_Information}. Neither {_Receiving_Party} will make, have made, use or sell for any purpose any product or other item using, incorporating or derived from any {_Confidential_Information} of the {_Disclosing_Party}. Neither this {_Agreement} nor the disclosure of any {_Confidential_Information} hereunder shall result in any obligation on the part of either {_Party} to enter into any further agreement with the other, license any products or services to the other, or to require either {_Party} to disclose any particular {_Confidential_Information}. Nothing in this {_Agreement} creates or shall be deemed to create any employment, joint venture, or agency between the {_Parties}.
 
 8.sec=The {_Receiving_Party} will not reproduce the {_Confidential_Information} of the {_Disclosing_Party} in any form except as required to accomplish the intent of this {_Agreement}. Any reproduction by a {_Receiving_Party} of any {_Confidential_Information} of the {_Disclosing_Party} will remain the property of the {_Disclosing_Party} and will contain any and all confidential or proprietary notices or legends that appear on the original, unless otherwise authorized in writing by the {_Disclosing_Party}.
 
@@ -147,13 +147,13 @@ CodersNote=There are 19 sections in the agreement text.  They do not have titles
 	Address:	
 		
 		
-_Other_Signatory=<a href='#Def.Other_Signatory.Target' class='definedterm'>Other Signatory</a>
+_Other_Signatory=<a href='#Def.Other_Signatory' class='definedterm'>Other Signatory</a>
 
-_Permitted_Use=<a href='#Def.Permitted_Use.Target' class='definedterm'>Permitted Use</a>
+_Permitted_Use=<a href='#Def.Permitted_Use' class='definedterm'>Permitted Use</a>
 
-Def.Other_Signatory.Target={_Other_Signatory}
+Def.Other_Signatory={_Other_Signatory}
 
-Def.Permitted_Use.Target={_Permitted_Use}
+Def.Permitted_Use={_Permitted_Use}
 
 3.Xnum=<a href='#3.sec' class="xref">3</a>
 

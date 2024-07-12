@@ -1,7 +1,0 @@
-=[U/class/Geo_USA]
-
-Adr.UK=UK
-
-Adr.Nation=United Kingdom
-
-Adr.2={Adr.City} {Adr.Zip}

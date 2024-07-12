@@ -43,47 +43,47 @@ stock/share=share
 
 stockholder.cl=shareholder
 
-Def.Common_Shares.target={_Common_Shares}
+Def.Common_Shares={_Common_Shares}
 
-Def.Preferred_Shares.target={_Preferred_Shares}
+Def.Preferred_Shares={_Preferred_Shares}
 
-Def.Group_Companies.target={_Group_Companies}
+Def.Group_Companies={_Group_Companies}
 
-Def.Capital_Stock.target={Def.Capital_Shares.target}
+Def.Capital_Stock={Def.Capital_Shares}
 
-Def.Capital_Shares.target={_Capital_Shares}
+Def.Capital_Shares={_Capital_Shares}
 
-Def.Safe_Preferred_Stock.target={Def.Safe_Preferred_Shares.target}
+Def.Safe_Preferred_Stock={Def.Safe_Preferred_Shares}
 
-Def.Safe_Preferred_Shares.target={_Safe_Preferred_Shares}
+Def.Safe_Preferred_Shares={_Safe_Preferred_Shares}
 
-Def.Standard_Preferred_Stock.target={Def.Standard_Preferred_Shares.target}
+Def.Standard_Preferred_Stock={Def.Standard_Preferred_Shares}
 
-Def.Standard_Preferred_Shares.target={_Standard_Preferred_Shares}
+Def.Standard_Preferred_Shares={_Standard_Preferred_Shares}
 
 _Common_Stock={_Common_Shares}
 
-_Preferred_Shares=<a href='#Def.Preferred_Shares.target' class='definedterm'>Preferred Shares</a>
+_Preferred_Shares=<a href='#Def.Preferred_Shares' class='definedterm'>Preferred Shares</a>
 
 _Preferred_Stock={_Preferred_Shares}
 
 _Standard_Preferred_Stock={_Standard_Preferred_Shares}
 
-_Capital_Shares=<a href='#Def.Capital_Shares.target' class='definedterm'>Capital Shares</a>
+_Capital_Shares=<a href='#Def.Capital_Shares' class='definedterm'>Capital Shares</a>
 
-_Common_Share=<a href='#Def.Common_Shares.target' class='definedterm'>Common Share</a>
+_Common_Share=<a href='#Def.Common_Shares' class='definedterm'>Common Share</a>
 
-_Common_Shares=<a href='#Def.Common_Shares.target' class='definedterm'>Common Shares</a>
+_Common_Shares=<a href='#Def.Common_Shares' class='definedterm'>Common Shares</a>
 
-_Group_Companies=<a href='#Def.Group_Companies.target' class='definedterm'>Group Companies</a>
+_Group_Companies=<a href='#Def.Group_Companies' class='definedterm'>Group Companies</a>
 
-_Preferred_Shares=<a href='#Def.Preferred_Shares.target' class='definedterm'>Preferred Shares</a>
+_Preferred_Shares=<a href='#Def.Preferred_Shares' class='definedterm'>Preferred Shares</a>
 
-_Standard_Preferred_Shares=<a href='#Def.Standard_Preferred_Stock.target' class='definedterm'>Standard Preferred Shares</a>
+_Standard_Preferred_Shares=<a href='#Def.Standard_Preferred_Stock' class='definedterm'>Standard Preferred Shares</a>
 
 _Safe_Preferred_Stock={_Safe_Preferred_Shares}
 
-_Safe_Preferred_Shares=<a href='#Def.Safe_Preferred_Stock.target' class='definedterm'>Safe Preferred Shares</a>
+_Safe_Preferred_Shares=<a href='#Def.Safe_Preferred_Stock' class='definedterm'>Safe Preferred Shares</a>
 
 _Capital_Stock={_Capital_Shares}
 

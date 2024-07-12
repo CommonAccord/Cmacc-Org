@@ -621,4 +621,4 @@ From the STRATUM templates, available online: http://stratumbiobanking.org/mater
 
 03-11-086=If you choose to withdraw your consent we will destroy all tissue and other samples we hold that have not been distributed or used. We will also destroy all information we have collected about you apart from a small amount of data we must hold for archival/audit purposes. We will not access health records and will not contact you again. However, if some time has passed your samples and information may have already been transferred to or used in research projects. We cannot get these samples back or remove the results from studies that have already started. In order to conduct research accountably, researchers must keep records of the data and samples they have used but we will contact the researchers to request disposal of any of your samples that remain.
 
-Model.Root={Default_Field}
+r00t={Default_Field}

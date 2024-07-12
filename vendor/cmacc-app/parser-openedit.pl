@@ -50,8 +50,9 @@ sub parse_root {
 			
 			$part = $oldpart . $part if $oldpart;
 			
-			if($what =~ s/^\?//) { 
-				if(! $remote{$path.$what}) {  $remote_cnt++;
+		if($what =~ s/^http//) { 
+				$what = 'http' . $what;
+					if(! $remote{$path.$what}) {  $remote_cnt++;
 					`curl '$what' > '$path/tmp$remote_cnt.cmacc'`;
 					$remote{$path.$what} = "$path/tmp$remote_cnt.cmacc";
 				}
@@ -81,7 +82,9 @@ sub expand_fields  {
 
 
 
-my $output  = parse($ARGV[0], "Model.Root");
+# Now with key option as $ARGV[1]
+
+my $output  = parse($ARGV[0], $ARGV[1]);
 
 # print $output;
 
@@ -89,31 +92,24 @@ my $output  = parse($ARGV[0], "Model.Root");
 my %seen; my @arr = $output=~/\{([^}]+)\}/g;
 @arr = grep { ! $seen{$_}++ } @arr;
 
-# select one:
 
-# Key=
+foreach ( @arr ) {
 
-# print "$_=" foreach @arr;
+#Change print substr($_, 0) to print substr($_, 0, 5) to remove the "DefT." prefix.
+if (substr($_, 0, 5) eq "DefT.") {	
+	print substr($_, 0) . "={_". substr($_ , 5) . "}\n";	
+}
 
-# Key=Key;
+elsif (substr($_, 0, 1) eq "_") {	
+		print substr($_, 1) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 1) . "'>". substr($_ , 1) . "</a>\n";
+}
 
-# print "$_=<span class='param'>$_</a>" foreach @arr;
+elsif(substr($_, -5 ) eq ".Xnum") {
+	print "$_=<a class='xref' href='{!!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n";	
+		}
 
-# To make a new DefinedTerm, with a hyperlink to the definition:
-
-# print "$_=<a href='#Def." . substr($_, 1).".Target' class='definedterm'>". substr($_, 1)."</a>\n" foreach @arr;
-
-# to mark the place a defined term is defined inline - use the convention "{Def.My_Term.Target}".  This will make Def.My_Term.Target={_My_Term}.
-
-print "$_=\{_" . substr($_, 4, -7) ."\}\n" foreach @arr;
-
-# Make cross-references (that already have "".Xnum");
-
-# print "$_=<a href='#" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n" foreach @arr;
-
-# Make footnote, FtNt cross-references (that already have "".Xnum");
-
-# print "$_=<sup><a href='#" . substr($_, 0, -5) . ".sec'>" . substr($_, 5, -5)."</a></sup>\n" foreach @arr;
+else { print $_ . "=\n"; }
+} 
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;

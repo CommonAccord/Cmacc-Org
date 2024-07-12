@@ -83,7 +83,7 @@ sub expand_fields  {
 
 
 
-my $output  = parse($ARGV[0], "Html.Head");
+my $output  = parse($ARGV[0], "CSS.Special");
 print $output;
 
 #clean up the temporary files (remote fetching)

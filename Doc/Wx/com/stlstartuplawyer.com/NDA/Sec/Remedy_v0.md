@@ -1,3 +1,0 @@
-Ti=Remedies
-
-sec=Each party’s obligations set forth in this {Agreement} are necessary and reasonable in order to protect {Discloser} and its business.  Due to the unique nature of {Discloser}’s {Confidential_Information}, monetary damages may be inadequate to compensate {Discloser} for any breach by {Recipient} of its covenants and agreements set forth in this {Agreement}.  Accordingly, the parties each agree and acknowledge that any violation or threatened violation may cause irreparable injury to {Discloser}.  In addition to any other remedies that may be available, in law, in equity or otherwise, {Discloser} will be entitled to obtain injunctive relief against the threatened breach of this {Agreement} or the continuation of any breach by {Recipient}. 

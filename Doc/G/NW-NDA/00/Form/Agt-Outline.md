@@ -48,9 +48,9 @@ Among.secs/2=<ul type="none" style="padding-left: 0"><li>{P1.US.Contract.Among.S
 
 Among.Ti/2=By and Between:
 
-Among.Def.sec=Each a "{Def.Party.sec}" and collectively the "{_Parties}."
+Among.Def.sec=Each a "{DefT.Party}" and collectively the "{_Parties}."
 
-This.sec/2=This {Doc.Ti} (this "{Def.Agreement.sec}") is made as of {EffectiveDate.YMD} ("{Def.Effective_Date.sec}"), by and between the {_Parties}.
+This.sec/2=This {Doc.Ti} (this "{DefT.Agreement}") is made as of {EffectiveDate.YMD} ("{DefT.Effective_Date}"), by and between the {_Parties}.
 
 Why.Ti=Recitals
 

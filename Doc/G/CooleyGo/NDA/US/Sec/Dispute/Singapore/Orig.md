@@ -1,6 +1,6 @@
 1.sec=This {_Agreement} and any action related thereto will be governed, controlled, interpreted, and defined by and under the laws of Singapore, without giving effect to any conflicts of laws principles that require the application of the law of a different jurisdiction.
 
-2.sec=All disputes, differences or claims arising out of or in connection with this {_Agreement} including, any question regarding its existence, validity, construction, performance, termination or alleged violation shall be referred to and finally resolved by arbitration in {ArbitrationSeat.cl} in accordance with the {ArbitrationRules.cl} (“{Def.Arbitration_Rules.Target}”), which rules are deemed to be incorporated by reference in this Section.
+2.sec=All disputes, differences or claims arising out of or in connection with this {_Agreement} including, any question regarding its existence, validity, construction, performance, termination or alleged violation shall be referred to and finally resolved by arbitration in {ArbitrationSeat.cl} in accordance with the {ArbitrationRules.cl} (“{DefT.Arbitration_Rules}”), which rules are deemed to be incorporated by reference in this Section.
 
 3.sec=The seat of such arbitration shall be {ArbitrationSeat.cl} and all proceedings shall be conducted in the English language.
 

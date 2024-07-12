@@ -15,8 +15,8 @@ Ti=My Query
 =[G/Z/ol/3]
 
 
-Consent.=[Wx/org/genomicsandhealth/REWG/Demo/Geraldine_Graber_DE]
+Consent.=Wx/org/genomicsandhealth/REWG/Demo/Geraldine_Graber_DE]
 
-NDA.=[Dx/Acme/02-NDA-With-Quake/01-NDA_v0.md]  
+NDA.=Dx/Acme/02-NDA-With-Quake/01-NDA_v0.md]  
 
-RP.=[U/id/TW/findthomas.md]
+RP.=[G/U/Who/TW/findthomas.md]

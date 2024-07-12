@@ -272,13 +272,13 @@ This.sec=This agreement governs the parties’ collaboration in relation to that
 
 OR
 
-4.2.Alt2.sec=[Each Party grants to each of the other Parties a royalty-free, non-exclusive licence to use its Background for the purpose of carrying out the Project and[, in return for the payments to be made to it under the Payment Plan,] each Party grants to the Lead Exploitation Party a non-exclusive[, fully paid-up, royalty free] licence (with the right to sub-license) to use the Intellectual Property Rights in its Background to the extent necessary to allow the Lead Exploitation Party to comply with its obligations under clause 4.11. The licence granted in this clause 4.2 will automatically terminate on the [withdrawal or deemed withdrawal of the Lead Exploitation Party from the Project] OR [termination of the licence granted in clause 4.3.]]
+4.2.Alt2.sec=[Each Party grants to each of the other Parties a royalty-free, non-exclusive licence to use its Background for the purpose of carrying out the Project and[, in return for the payments to be made to it under the Payment Plan,] each Party grants to the Lead Exploitation Party a non-exclusive[, fully paid-up, royalty free] licence (with the right to sub-license) to use the Intellectual Property Rights in its Background to the extent necessary to allow the Lead Exploitation Party to comply with its obligations under clause 4.11. The licence granted in this clause 4.2 will automatically terminate on the [withdrawal or deemed withdrawal of the Lead Exploitation Party from the Project] OR [termination of the licence granted in clause 4.3.]
 
 4.2.=[G/Z/Alt/2]
 
 4.2.SecName=4.2
 
-4.3.sec=The Lead Exploitation Party will [own the Intellectual Property Rights in the Results] OR [have a worldwide exclusive licence to commercialise the Intellectual Property Rights in the Results] [for the Exclusive Period]], and [will take such steps, after consultation with the Steering Committee, as  may be necessary] OR [may take such steps as it may decide] from time to time, at the Lead Exploitation Party’s expense, to register and maintain any protection for those Intellectual Property Rights, including filing and prosecuting patent applications for any of the Results, and taking any reasonable action in respect of any alleged or actual infringement of those Intellectual Property Rights] so as to allow it to comply with its obligations to commercialise the Results under clause 4.11. 
+4.3.sec=The Lead Exploitation Party will [own the Intellectual Property Rights in the Results] OR [have a worldwide exclusive licence to commercialise the Intellectual Property Rights in the Results] [for the Exclusive Period], and [will take such steps, after consultation with the Steering Committee, as  may be necessary] OR [may take such steps as it may decide] from time to time, at the Lead Exploitation Party’s expense, to register and maintain any protection for those Intellectual Property Rights, including filing and prosecuting patent applications for any of the Results, and taking any reasonable action in respect of any alleged or actual infringement of those Intellectual Property Rights] so as to allow it to comply with its obligations to commercialise the Results under clause 4.11. 
 
 4.4.sec=Without prejudice to its obligations under clause 4.3, if the Lead Exploitation Party does not think it necessary to register or to maintain any protection for the Intellectual Property Rights in the Results or to take any action against any infringer of the Intellectual Property Rights in the Results, it will notify the Project Manager accordingly and in good time before abandoning any application or before failing to meet any deadline and, without prejudice to any other right which any Party may have against the Lead Exploitation Party, the Party which created those Intellectual Property Rights may take such steps as it sees fit to register and maintain any protection for those Intellectual Property Rights, including filing and prosecuting patent applications for any Result, and taking any action in respect of any alleged or actual infringement of that Intellectual Property Rights. 
 
@@ -729,7 +729,7 @@ Data Protection
 
 Where one or more Parties Processes any Personal Data for the purpose of the Project on behalf of any other Party, the provisions of Part 1 this Schedule will apply to them.
 
-1.	[AAA][BBB[[XXX][and][ZZZ] will determine the purpose(s) of the Processing of the Personal Data Processed for the purposes of the Project (the Project Personal Data) and [each of them] will be the Controller, and  [each of] [AAA][BBB[[XXX][and][ZZZ] will be the Processor.
+1.	[AAA][BBB[XXX][and][ZZZ] will determine the purpose(s) of the Processing of the Personal Data Processed for the purposes of the Project (the Project Personal Data) and [each of them] will be the Controller, and  [each of] [AAA][BBB[XXX][and][ZZZ] will be the Processor.
 
 2.	The Appendix to this Schedule lists the subject matter of the Processing, the duration of the Processing, the nature and purpose of the Processing, the types of Personal Data Processed and the categories of Data Subjects to whom the Project Personal Data relate.
 
@@ -883,7 +883,7 @@ Part 2
 
 Where more than one of the Parties determine the purpose of the Processing in respect of any Personal Data which is Processed for the purpose of the Project, the provisions of Part 2 of this Schedule will apply to them.
 
-1.	[AAA][BBB[[XXX][and][ZZZ] (the Controllers) will be a Controller in relation to  Personal Data Processed for the purposes of the Project (the Project Personal Data).
+1.	[AAA][BBB[XXX][and][ZZZ] (the Controllers) will be a Controller in relation to  Personal Data Processed for the purposes of the Project (the Project Personal Data).
 
 2.	The Appendix to this Schedule lists the subject matter of the Processing, the duration of the Processing, the nature and purpose of the Processing, the types of Personal Data Processed, the categories of Data Subjects to whom the Project Personal Data relate, and the retention periods for the Project Personal Data.
 
@@ -1003,7 +1003,7 @@ Where more than one of the Parties determine the purpose of the Processing in re
 
 23.	Each Controller will indemnify the other Controller(s) and keep them fully and effectively indemnified on demand against any and all costs, claims, demands, damages, expenses and liabilities of any nature and against any and all fines and penalties arising out of or in connection with any breach by it or any of its Processors of this Schedule. This paragraph will survive the termination of this Agreement, the completion of all Processing of the Project Personal Data and the completion of the Project, and will continue in force without limit in time.
 
-24.	[AAA][BBB[[XXX][and][ZZZ] will [securely destroy and permanently delete from its and its Processors’ systems (including back-up and archive systems)]OR[deliver to [AAA][BBB[[XXX][and][ZZZ] in [XXX] format] all copies of any of the Project Personal Data held by it or any of its Processors at the end of the relevant retention period in the Annex to this Schedule and in any case on the termination or expiry of this Agreement (except any of the Project Personal Data which any law to which [AAA][BBB[[XXX][or][ZZZ] is subject requires it to continue to store the Project Personal Data).
+24.	[AAA][BBB[XXX][and][ZZZ] will [securely destroy and permanently delete from its and its Processors’ systems (including back-up and archive systems)]OR[deliver to [AAA][BBB[XXX][and][ZZZ] in [XXX] format] all copies of any of the Project Personal Data held by it or any of its Processors at the end of the relevant retention period in the Annex to this Schedule and in any case on the termination or expiry of this Agreement (except any of the Project Personal Data which any law to which [AAA][BBB[XXX][or][ZZZ] is subject requires it to continue to store the Project Personal Data).
 
 The Appendix
 
@@ -1086,7 +1086,7 @@ Each Party will, in connection with the Project:
 
 Each Party will comply with the following:
  
-[Insert details]]
+[Insert details]
 
  
 SCHEDULE 8

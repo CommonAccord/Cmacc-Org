@@ -2,6 +2,8 @@ Ti=Dispute Resolution
 
 AAA:=[G/ADR-Org-CmA/]
 
+a16z=[G/a16z-contracts/PrOb/licenses/Sec/Misc/LawAndForum/0.md] || AAA arbitration.
+
 ABA-MSPA.=[G/ABA-MSPA-SPA-CmA/Sec/Misc/Tribunal/0.md]
 
 ALI-UNIDROIT:=[G/ALI-Unidroit-TransnationalRules-CmA/]
@@ -12,10 +14,10 @@ JAMS.=[G/Com_JAMS/Form/0.md]
 
 DisputeDeEscalation.=[G/Groton-De-Escalation/Sec/0.md]
 
-MC.NY.=[Wx/com/melwanichan/Sec/Dispute_NY_v01.md]
+MC.NY.=Wx/com/melwanichan/Sec/Dispute_NY_v01.md]
 
-MSA.Dispute.=[Wx/com/gepower/MasterServiceAgreement/Sec/Dispute_v01.md]
+MSA.Dispute.=Wx/com/gepower/MasterServiceAgreement/Sec/Dispute_v01.md]
 
-Model.Root=<b>{Ti}</b><ol><li><b>ABA Model Stock Purchase Agreement</b><br>{ABA-MSPA.Sec}<li><b>ICC</b><br>{ICC.ARB.DE.List}<li><b>Melwani Chan NY Dispute</b><br>{MC.NY.Sec}<li><b>Excerpt from Master Services Agreement</b><br>{MSA.Dispute.Sec}</ol>
+r00t=<b>{Ti}</b><ol><li><b>ABA Model Stock Purchase Agreement</b><br>{ABA-MSPA.Sec}<li><b>ICC</b><br>{ICC.ARB.DE.List}<li><b>Melwani Chan NY Dispute</b><br>{MC.NY.Sec}<li><b>Excerpt from Master Services Agreement</b><br>{MSA.Dispute.Sec}</ol>
 
 MC.NY.Law.SecName=MC.NY.Law

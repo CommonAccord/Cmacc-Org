@@ -1,4 +1,4 @@
-Model.Root=<b>{Ti}</b><br>{Intro.sec}<ol><li>{Repo.Sec}<li>{File.Sec}<li>{Doc.Sec}<li>{EG.Sec}<li>{Plus.Sec}</ol>{Extro.sec}
+r00t=<b>{Ti}</b><br>{Intro.sec}<ol><li>{Repo.Sec}<li>{File.Sec}<li>{Doc.Sec}<li>{EG.Sec}<li>{Plus.Sec}</ol>{Extro.sec}
 
 Ti=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/Cmacc_0.md">Cmacc</a>
 
@@ -14,13 +14,13 @@ File.Ti=Files
 
 File.1.0.sec=The Files are plain text, and each consists of a list of key/values ("Key/Value"), where the Value can be either a string or the name of another File.  For instance:
 
-File.1.1.sec=Model.Root={HW}
+File.1.1.sec=r00t={HW}
 
 File.1.2.sec=HW=Hello World
 
 File.1.3.sec==[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]
 
-File.1.4.sec=Buyer.=[U/id/acme_incorporated]
+File.1.4.sec=Buyer.=[G/U/Who/acme_incorporated.md]
  
 File.1.=[G/Z/ol-none/s4]
 
@@ -34,7 +34,7 @@ Doc.Ti=Rendering Documents
 
 Doc.0.sec=A File can be rendered into a text (the "Doc" view of the File).
 
-Doc.1.sec=Rendering starts with a specific Key (currently "Model.Root") and expands its Value.  Expansion is done by replacing any strings wrapped in {braces} (Variable). 
+Doc.1.sec=Rendering starts with a specific Key (currently "r00t") and expands its Value.  Expansion is done by replacing any strings wrapped in {braces} (Variable). 
 
 Doc.2.sec=The replacement is based on matching the Variable name with the <i>first</i> matching Key name.
 

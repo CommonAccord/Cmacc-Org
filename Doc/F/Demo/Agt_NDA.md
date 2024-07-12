@@ -22,11 +22,11 @@ Relate.Conf.Intro.sec={Relate.Conf.Intro.Mutual.sec}
 
 Relate.Conf.Life.End.YMD=2016-12-31
 
-Law.=[U/at/US/CA/San_Francisco/Geo]
+Law.=[G/U/Place/US/CA/San_Francisco/Geo]
 
 Forum.cl=the State and Federal courts for the county of San Francisco, {Law.State}
 
-Relate.Conf.Engage.Access.sec={Relate.Conf.Engage.Access.Entity;EODLA;Know;Sign;Form.sec}
+Relate.Conf.Engage.Access.sec={Relate.Conf.Engage.Access.Entity-EODLA-Know-Sign-Form.sec}
 
 Relate.Conf.Life.sec={Relate.Conf.Life.Alt2.sec}
 

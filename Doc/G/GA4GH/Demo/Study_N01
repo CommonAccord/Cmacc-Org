@@ -1,14 +1,14 @@
-Contact.=[U/id/solomon_shirley]
+Contact.=[G/U/Who/solomon_shirley.md]
 
-Inv1.=[U/id/andrea_ang]
+Inv1.=[G/U/Who/andrea_ang.md]
 
-Ombuds.=[U/id/colleen_kendall]
+Ombuds.=[G/U/Who/colleen_kendall.md]
 
-PDO.=[U/id/geraldine_graber]
+PDO.=[G/U/Who/geraldine_graber.md]
 
-Org.=[U/id/nit]
+Org.=[G/U/Who/nit.md]
 
-Funder.=[U/id/nih]
+Funder.=[G/U/Who/nih.md]
 
 Funder.List.Name={Funder.N,A}
 
@@ -26,4 +26,4 @@ Description=longitudinal study of latitudinal aphasia
 
 Duration.Expected=3 years
 
-Model.Root=<ol><li><b>Contact</b><br>{Contact.N/1/2}</li><li><b>Principal Investigator</b><br>{Inv1.N/1/2}</li><li><b>Ombudsman</b><br>{Ombuds.N/1/2}</li><li><b>Personal Data Officer</b><br>{PDO.N/1/2}</li><li><b>Organization</b><br>{Org.N/1/2}</li><li><b>Funder</b><br>{Funder.N/1/2}</li></ol>
+r00t=<ol><li><b>Contact</b><br>{Contact.N/1/2}</li><li><b>Principal Investigator</b><br>{Inv1.N/1/2}</li><li><b>Ombudsman</b><br>{Ombuds.N/1/2}</li><li><b>Personal Data Officer</b><br>{PDO.N/1/2}</li><li><b>Organization</b><br>{Org.N/1/2}</li><li><b>Funder</b><br>{Funder.N/1/2}</li></ol>

@@ -10,7 +10,7 @@ Adr.Street.#=200
 
 Adr.Street.Name=Independence Avenue, S.W.
 
-Adr.=[U/at/US/DC/Washington/Geo]
+Adr.=[G/U/Place/US/DC/Washington/Geo]
 
 Adr.Zip=20201
 

@@ -25,7 +25,7 @@ Note=Discuss:
 
 Def.PDS={PDS} means a collection of information, organized as files or a database, which contain information about a person (natural, legal or role).  
 
-Def.Cmacc={Cmacc} is lists of key/values, where the content of the values is either i) a string of html text, ii) the identifier of another list, or iii) other content (thereby associated with the "object" that the list represents).  A {Cmacc} document is the result of rendering a list, where one starts with a single key (by default "Model.Root") and expands any {expression}s in the value.  The exansion is based on the "first" matching key, where the key is found by scanning the list (from top to bottom) and then any other lists referenced in the list, recursively, depth-first.  (Details for "prefixing" and "deprefixing.")
+Def.Cmacc={Cmacc} is lists of key/values, where the content of the values is either i) a string of html text, ii) the identifier of another list, or iii) other content (thereby associated with the "object" that the list represents).  A {Cmacc} document is the result of rendering a list, where one starts with a single key (by default "r00t") and expands any {expression}s in the value.  The exansion is based on the "first" matching key, where the key is found by scanning the list (from top to bottom) and then any other lists referenced in the list, recursively, depth-first.  (Details for "prefixing" and "deprefixing.")
 
 Def.DRY={DRY} means <a href="https://en.wikipedia.org/wiki/Don%27t_repeat_yourself">don't repeat yourself</a>.  It is a method for improving consistency and reliability in a system.  In a data environment, it is a way to reduce vulnerability from promiscuous creation of needless versions of information. 
 

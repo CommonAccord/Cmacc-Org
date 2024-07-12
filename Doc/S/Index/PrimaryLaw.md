@@ -6,8 +6,8 @@ Directive_EU_GDPR/=[G/EU-GDPR-Law-CmA/]
 
 Declaration_ParisClimateControl:=[G/int/unfccc/2015/cop21/eng/l09r01_With-SemanticArticles_v0.md]
 
-EU_DataProtectionModelClauses/=[Wx/eu/europa/eur-lex/Privacy/ModelClauses/Demo/]
+EU_DataProtectionModelClauses/=Wx/eu/europa/eur-lex/Privacy/ModelClauses/Demo/]
 
-Constitution_US:=[Wx/gov/archives/Constitution/0.md]
+Constitution_US:=Wx/gov/archives/Constitution/0.md]
 
-Bill_ConsumerPrivacyBillOfRights/=[Wx/gov/whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/]
+Bill_ConsumerPrivacyBillOfRights/=G/Gov/Whitehouse/OMB/Legislative/Letters/cpbr-act-of-2015/]

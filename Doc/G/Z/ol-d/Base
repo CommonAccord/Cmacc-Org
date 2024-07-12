@@ -1,4 +1,4 @@
-Model.Root={Sec}
+r00t={Sec}
 
 LI=<li>{Sec}</li>
 
@@ -16,7 +16,7 @@ Head.sec={Doc.Ti}
 
 Sec=<span class="sec-ti">{Ti}</span><br>{sec}
 
-sec={0.sec} {xlist} {00.sec}
+sec={0.sec}{xlist}{00.sec}
 
 0.sec=</i>
 

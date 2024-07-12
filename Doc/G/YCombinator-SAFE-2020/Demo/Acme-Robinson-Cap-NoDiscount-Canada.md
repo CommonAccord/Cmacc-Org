@@ -24,4 +24,4 @@ Investor.Sign.YMD=2021-10-19
 
 ProRata.=[G/YCombinator-SAFE-2020/Sideletter/Canada/v1-0.md]
 
-Model.Root=<table><tr><td valign="top">{Sec}</td><td valign="top">{ProRata.Sec}</td></tr></table>
+r00t=<table><tr><td valign="top">{Sec}</td><td valign="top">{ProRata.Sec}</td></tr></table>
