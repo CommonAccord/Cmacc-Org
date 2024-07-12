@@ -3,7 +3,7 @@ Designer.=[G/U/Who/andrea_ang.md]
 
 Client.=[G/U/Who/acme_incorporated.md]
 
-IP.=[G/AIGA_org/StandardAgreement/Schedule/IP/LicenseLimited/0.md]
+IP.=[G/AIGA_Org/StandardAgreement/Schedule/IP/LicenseLimited/0.md]
 
 =[G/AIGA_Org/StandardAgreement/Demo/FullAgreements.md]
 

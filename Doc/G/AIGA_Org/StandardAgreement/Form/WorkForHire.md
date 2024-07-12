@@ -1,5 +1,5 @@
 
 
-IP.=[G/AIGA_org/StandardAgreement/Schedule/IP/WorkForHire/0.md]
+IP.=[G/AIGA_Org/StandardAgreement/Schedule/IP/WorkForHire/0.md]
 
-=[G/AIGA_org/StandardAgreement/Form/BasicTermAndSupplement.md]
+=[G/AIGA_Org/StandardAgreement/Form/BasicTermAndSupplement.md]
