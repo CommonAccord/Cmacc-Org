@@ -12,6 +12,10 @@ purchasing_practices//purchasing_practices_in accordance_with_Schedule_Q=purchas
 
 applicable_law//applicable_law_and_International_Labour_Organisation_norms=applicable law
 
+Avoiding//Cancelling=Cancelling
+
+LiquidatedDamagesFormula.cl=Supplier will pay Buyer liquidated damages in the amount of Five Hundred US Dollars for each day that the Supplier fails to comply with the requirements of this Agreement, up to a maximum of Twenty-Thousand US Dollars
+
 OLGM::monthly//quarterly//semi-annual=quarterly
 
 Supplier.Notice.NameTitleEmail.cl=Sam Slick, Product Manager, sslick@chartruese-supplies.com
@@ -24,7 +28,7 @@ business_conduct//BusinessConductIncludingMinimumWage.cl={BusinessConductIncludi
 
 amending_the_modification//amending_the_modification_consistent_with Schedule_Q=amending the modification consistent with Schedule Schedule_Q
 
-RemediatingAdverseImpacts.NoticeOfViolation.1.days=fifteen (15) days
+RemediatingAdverseImpacts.NoticeOfViolation.SchedulePBreach.days=fifteen (15) days
 
 Mediation.RespondToInvitationWithin.days=ten (10) days
 
