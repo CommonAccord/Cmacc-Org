@@ -304,20 +304,20 @@ H.=[G/Z/paras/4]
 
 S.=[G/Z/ol/s33]
 
-Footnote_49=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/49.md">49</a></sup>
+Footnote_49=<sup><a href="i.php?v=d&f=OTF/org/iaea/GSR3/Footnote/49.md">49</a></sup>
 
-Footnote_50=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/50.md">50</a></sup>
+Footnote_50=<sup><a href="i.php?v=d&f=OTF/org/iaea/GSR3/Footnote/50.md">50</a></sup>
 
-Footnote_51=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/51.md">51</a></sup>
+Footnote_51=<sup><a href="i.php?v=d&f=OTF/org/iaea/GSR3/Footnote/51.md">51</a></sup>
 
-Footnote_52=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/52.md">52</a></sup>
+Footnote_52=<sup><a href="i.php?v=d&f=OTF/org/iaea/GSR3/Footnote/52.md">52</a></sup>
 
-Footnote_53=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/53.md">53</a></sup>
+Footnote_53=<sup><a href="i.php?v=d&f=OTF/org/iaea/GSR3/Footnote/53.md">53</a></sup>
 
-Footnote_54=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/54.md">54</a></sup>
+Footnote_54=<sup><a href="i.php?v=d&f=OTF/org/iaea/GSR3/Footnote/54.md">54</a></sup>
 
-Footnote_55=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/55.md">55</a></sup>
+Footnote_55=<sup><a href="i.php?v=d&f=OTF/org/iaea/GSR3/Footnote/55.md">55</a></sup>
 
-Footnote_56=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/56.md">56</a></sup>
+Footnote_56=<sup><a href="i.php?v=d&f=OTF/org/iaea/GSR3/Footnote/56.md">56</a></sup>
 
-Footnote_57=<sup><a href="index.php?action=doc&file=OTF/org/iaea/GSR3/Footnote/57.md">57</a></sup>
+Footnote_57=<sup><a href="i.php?v=d&f=OTF/org/iaea/GSR3/Footnote/57.md">57</a></sup>

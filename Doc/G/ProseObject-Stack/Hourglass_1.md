@@ -10,9 +10,9 @@ Ti=Hourglass of Transacting:
 
 4.sec=                                                       Browser, App, Editor, IDE, Transaction System, MS Word
 
-5.sec=                                                           <a href="index.php?action=source&file=OTF/ProseObject-Stack/CRUD_1.md">Create Read Update Delete Render</a>   Share 
+5.sec=                                                           <a href="i.php?v=s&f=OTF/ProseObject-Stack/CRUD_1.md">Create Read Update Delete Render</a>   Share 
 
-6.sec=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/Cmacc_1.md">Object Model</a>
+6.sec=<a href="i.php?v=d&f=OTF/ProseObject-Stack/Cmacc_1.md">Object Model</a>
 
 7.sec=                                                                   <b>files</b>, JSON, graph,  XML
 

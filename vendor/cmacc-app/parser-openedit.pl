@@ -97,7 +97,10 @@ foreach ( @arr ) {
 
 #Change print substr($_, 0) to print substr($_, 0, 5) to remove the "DefT." prefix.
 if (substr($_, 0, 5) eq "DefT.") {	
-	print substr($_, 0) . "={_". substr($_ , 5) . "}\n";	
+#   Make DefT. into the same as _, since we now refer to the hyperlink directly.
+	print substr($_, 5) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 5) . "'>". substr($_ , 5) . "</a>\n";
+
+#	print substr($_, 0) . "={_". substr($_ , 5) . "}\n";	
 }
 
 elsif (substr($_, 0, 1) eq "_") {	

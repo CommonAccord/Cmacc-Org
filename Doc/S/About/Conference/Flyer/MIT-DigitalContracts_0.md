@@ -18,4 +18,4 @@ Slack.Link=commonaccord.slack.com - join us <a href="https://cmacc-slack-add.her
 
 EmailList.Link=commonaccord@mit.edu
 
-Link=<a href="/index.php?action=doc&file=S/About/Conference/Flyer/0.md">Flyer</a>
+Link=<a href="/i.php?v=d&f=S/About/Conference/Flyer/0.md">Flyer</a>

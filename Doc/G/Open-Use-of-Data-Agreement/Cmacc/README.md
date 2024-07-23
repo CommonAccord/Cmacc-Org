@@ -4,5 +4,5 @@ It has exactly the same text as the original (except that Section 2.2.2 is now c
 
 It has been put into Prose Object format, and modularized as each of its five sections.  The defined terms are now semantically defined links, as are the cross-references to sections.
 
-It can be viewed "in action" at http://www.commonaccord.org/index.php?action=source&file=G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md
+It can be viewed "in action" at http://www.commonaccord.org/i.php?v=s&f=G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md
 

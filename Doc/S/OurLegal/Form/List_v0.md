@@ -1,6 +1,6 @@
 Intro.sec=Companies like us want to do business with you honestly, with a focus on our business and relationship.  We also want to avoid legal mistakes.  The legal part must be thorough, clear, and current.  To speed the legal side, we list documents that we are usually comfortable with.  We know them, our lawyers know them, we can act quickly on them.  If you want to make it easy on both of us, please use one of these forms and make new documents as patches on existing ones.  You will see lots of examples of patches on this site.  If none of these documents is a good starting point, please make your document using this format and the style guide.  This will help us understand and react, and let us easily reuse the materials in the future.  If it is worth learning, it is worth remembering.  This may be unfamiliar the first time around, but will make our lives easier and let us focus on what is important - one another.
 
-Note2=List of some example deals, with fake deal points <a href="index.php?action=list&file=Dx/Acme/">Dx/Acme/</a>
+Note2=List of some example deals, with fake deal points <a href="i.php?v=l&f=Dx/Acme/">Dx/Acme/</a>
 
 Note3=Our style guide [S/OurLegal/Sec/StyleSheet_v0.md]
 

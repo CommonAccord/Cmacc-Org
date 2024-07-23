@@ -2,7 +2,7 @@ Ti=Contract
 
 1.Ti=General
 
-1.0.sec=A contract (in the legal sense) extends the notion of a <a href="index.php?action=doc&file=OTF/ProseObject-Stack/Legal/Record_0.md">Record</a>.
+1.0.sec=A contract (in the legal sense) extends the notion of a <a href="i.php?v=d&f=OTF/ProseObject-Stack/Legal/Record_0.md">Record</a>.
 
 1.1.sec=The statements are often of the nature of price, quantities, dates, specific arrangements, etc.
 
@@ -34,7 +34,7 @@ Ti=Contract
 
 3.1.sec=A root consisting of a Header, a Frame, a Footer and (optionally) attachments.
 
-3.2.sec=The <a href="index.php?action=source&file=Z/Agt/Agt_v01.md">Frame</a> consists of a Heading, Sections and Signature.
+3.2.sec=The <a href="i.php?v=s&f=Z/Agt/Agt_v01.md">Frame</a> consists of a Heading, Sections and Signature.
 
 3.3.sec=The Heading is a title and some summary information, a description of the parties, a statement that the document is an agreement, background, and an introductory sentence for the sections.
 

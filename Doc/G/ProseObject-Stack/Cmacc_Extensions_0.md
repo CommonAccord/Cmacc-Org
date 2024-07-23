@@ -20,7 +20,7 @@ Ti=Cmacc Extensions
 
 5.Ti=Calculations
 
-5.sec=Cmacc is text, not calculation.  We don't want to create a new programming language.  Cmacc can be interfaced to programming environments by having unmatched variables be processed and Values returned by the environment, included expressly or implicitly as a default File.  E.g., {Math.3 * 5} might return 15 if there is no Key/Value like "Math.3 * 5=TBD by negotiation".     See <a href="index.php?action=list&file=S/Sandbox/Blockchain/">Blockchain interface.</a>
+5.sec=Cmacc is text, not calculation.  We don't want to create a new programming language.  Cmacc can be interfaced to programming environments by having unmatched variables be processed and Values returned by the environment, included expressly or implicitly as a default File.  E.g., {Math.3 * 5} might return 15 if there is no Key/Value like "Math.3 * 5=TBD by negotiation".     See <a href="i.php?v=l&f=S/Sandbox/Blockchain/">Blockchain interface.</a>
 
 6.Ti=Non-recursive Includes
 

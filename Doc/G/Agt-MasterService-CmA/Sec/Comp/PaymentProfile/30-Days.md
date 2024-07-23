@@ -1,4 +1,4 @@
-PaymentProfile.Name=<a href="index.php?action=source&file=G/Agt-MasterService-CmA/Sec/Comp/PaymentProfile/30-Days.md">30-Days, 3%</a>
+PaymentProfile.Name=<a href="i.php?v=s&f=G/Agt-MasterService-CmA/Sec/Comp/PaymentProfile/30-Days.md">30-Days, 3%</a>
 
 Note=One model of pre-payment terms.
 

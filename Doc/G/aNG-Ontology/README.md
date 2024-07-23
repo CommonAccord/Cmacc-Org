@@ -8,5 +8,5 @@ https://docs.google.com/presentation/d/1Baa4f52jMFu2_Qsv8epKM7yMou2fOR2E/edit#sl
 
 Note: Now has content.  
 
-See these components assembled into an outline at:  http://www.commonaccord.org/index.php?action=doc&file=G/aNG-Ontology/0.md
+See these components assembled into an outline at:  http://www.commonaccord.org/i.php?v=d&f=G/aNG-Ontology/0.md
 

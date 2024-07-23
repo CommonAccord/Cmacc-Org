@@ -22,7 +22,7 @@ Ti=Technical
 
 4.1.sec=Instead of using a hierarchical file tree with natural language names, it is possible to save each edit as a file whose name is created by hashing the file.  If the reference to the file which provides the previous state is included as a link at the end of the file, this provides a reliable way to have rapid increments on the texts without conflict.  If one further saves a key=value which has a notional folder/s/and/file/name, then there can be two views of the code, one of which looks like a folder view and the other like hashes.
 
-4.2.sec=See, e.g. <a href="index.php?action=list&file=S/Sandbox/HashFileNames/">S/Sandbox/HashFileNames/</a>
+4.2.sec=See, e.g. <a href="i.php?v=l&f=S/Sandbox/HashFileNames/">S/Sandbox/HashFileNames/</a>
 
 4.=[G/Z/ol/s2]
 

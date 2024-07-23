@@ -1,6 +1,6 @@
 r00t=<b>{Ti}</b><br>{Intro.sec}<ol><li>{Repo.Sec}<li>{File.Sec}<li>{Doc.Sec}<li>{EG.Sec}<li>{Plus.Sec}</ol>{Extro.sec}
 
-Ti=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/Cmacc_0.md">Cmacc</a>
+Ti=<a href="i.php?v=d&f=OTF/ProseObject-Stack/Cmacc_0.md">Cmacc</a>
 
 Intro.sec=Cmacc is pronounced "Smack."   It is the informal name for the CommonAccord data model.  The following is a semi-formal description of Cmacc.  The description is based on a file format for a Cmacc "Record".  A Record may be in any format, but for a variety of reasons to be expanded, the File format seems canonical.  (The functional part of a Record is only slightly more complex than a "Dictionary" as used in Python. The difference is that one can "prefix" another dictionary.) With that as prologue:
 
@@ -18,7 +18,7 @@ File.1.1.sec=r00t={HW}
 
 File.1.2.sec=HW=Hello World
 
-File.1.3.sec==[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]
+File.1.3.sec=[Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md]
 
 File.1.4.sec=Buyer.=[G/U/Who/acme_incorporated.md]
  
@@ -26,7 +26,7 @@ File.1.=[G/Z/ol-none/s4]
 
 File.2.sec=The Key/Values are delimited by a start-of-line, the first equals sign ("=")(the Value may contain an equals sign) and an end-of-line.  (There is reason to want to change this to a double end-of-line.)
 
-File.3.sec=The file format is the canonical form, but the data model can also be done in a database, including a blockchain or a graph database.  It may be convenient to use <a href="index.php?action=json&file=OTF/ProseObject-Stack/Cmacc_0.md">JSON</a>.  
+File.3.sec=The file format is the canonical form, but the data model can also be done in a database, including a blockchain or a graph database.  It may be convenient to use <a href="i.php?v=json&f=OTF/ProseObject-Stack/Cmacc_0.md">JSON</a>.  
 
 File.=[G/Z/ol/s3]
 
@@ -48,12 +48,12 @@ Doc.=[G/Z/ol/s5]
   
 EG.Ti=For Example
 
-EG.1.sec=A File of deal points references parties and a form of document:  <a href="index.php?action=source&file=Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md">Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md</a>
+EG.1.sec=A File of deal points references parties and a form of document:  <a href="i.php?v=s&f=Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md">Dx/Acme/01-AngelRound/01-SAFE-Robinson_v0.md</a>
 
-EG.2.sec=File names may be "hashes", guaranteeing uniqueness and allowing certain kinds of proof even when maintaining the confidentiality of information in a "DRY" system: <a href="index.php?action=list&file=S/Sandbox/Blockchain/">S/Sandbox/Blockchain/</a>
+EG.2.sec=File names may be "hashes", guaranteeing uniqueness and allowing certain kinds of proof even when maintaining the confidentiality of information in a "DRY" system: <a href="i.php?v=l&f=S/Sandbox/Blockchain/">S/Sandbox/Blockchain/</a>
 
 EG.=[G/Z/ol/s2] 
 
 Plus.=[G/ProseObject-Stack/Cmacc_Extensions_0.md]
 
-Extro.sec=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/Folder_0.md">Folders</a>.
+Extro.sec=<a href="i.php?v=d&f=OTF/ProseObject-Stack/Folder_0.md">Folders</a>.

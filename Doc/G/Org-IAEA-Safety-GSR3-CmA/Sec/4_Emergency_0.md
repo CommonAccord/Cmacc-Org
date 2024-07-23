@@ -147,6 +147,6 @@ r00t={H.Sec}
 
 H.=[G/Z/ol/5]
   
-Footnote_47=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/47.md">47</a></sup>
+Footnote_47=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/47.md">47</a></sup>
 
-Footnote_48=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/48.md">48</a></sup>
+Footnote_48=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/48.md">48</a></sup>

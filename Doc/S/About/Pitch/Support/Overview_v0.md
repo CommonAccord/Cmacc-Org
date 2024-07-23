@@ -16,7 +16,7 @@ Ti=Overview
 
 2.=[G/Z/ol/s5]
 
-3.sec=The CommonAccord document model is compatible with new peer-based transacting platforms such as blockchain, and perhaps necessary for their extension to the full range of relationships.  When combined with access systems such as <a href="index.php?action=source&file=GH/KantaraInitiative/UMA-Text/0.md">UMA</a> (user-managed-access), it provides a complete, simple, open source system of automation.  Because these systems are built with strong encryption and open source scrutiny they can be more secure than legacy infrastructure.
+3.sec=The CommonAccord document model is compatible with new peer-based transacting platforms such as blockchain, and perhaps necessary for their extension to the full range of relationships.  When combined with access systems such as <a href="i.php?v=s&f=GH/KantaraInitiative/UMA-Text/0.md">UMA</a> (user-managed-access), it provides a complete, simple, open source system of automation.  Because these systems are built with strong encryption and open source scrutiny they can be more secure than legacy infrastructure.
 
 =[G/Z/ol/s3]
 

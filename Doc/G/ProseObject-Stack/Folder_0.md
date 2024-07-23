@@ -4,7 +4,7 @@ Ti=Folders
 
 1.Ti=Folder Organization
 
-1.sec=<a href="index.php?action=list&file=">Top level folders</a>
+1.sec=<a href="i.php?v=l&f=">Top level folders</a>
 
 2.Ti=Kinds of Content
 
@@ -56,5 +56,5 @@ Ti=Folders
 
 2.=[G/Z/ol/5]  
 
-00.sec=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/CRUD_0.md">CRUD - Operations on Files</a>
+00.sec=<a href="i.php?v=d&f=OTF/ProseObject-Stack/CRUD_0.md">CRUD - Operations on Files</a>
 =[G/Z/ol/2]

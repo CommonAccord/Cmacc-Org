@@ -9,7 +9,7 @@ To avoid issues about variations to the underlying repo (Cmacc-Source), the sign
 
 DEMO:
 
-http://commonaccord.org/index.php?action=list&file=D/Acme/Ang-YC-Note/
+http://commonaccord.org/i.php?v=l&f=D/Acme/Ang-YC-Note/
 
 DEPENDENCIES:
 

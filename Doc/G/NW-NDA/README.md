@@ -21,7 +21,7 @@ This repo is developed for an online course of mixed computer science and law st
 
 The repo is at <a href="https://github.com/CommonAccord/NW-NDA">https://github.com/CommonAccord/NW-NDA</a>
 
-It is presented at <a href="http://www.commonaccord.org/index.php?action=list&file=G/NW-NDA/">http://www.commonaccord.org/index.php?action=list&file=G/NW-NDA/</a>
+It is presented at <a href="http://www.commonaccord.org/i.php?v=l&f=G/NW-NDA/">http://www.commonaccord.org/i.php?v=l&f=G/NW-NDA/</a>
 
 
 Materials about the process and the course are at /99/.
@@ -30,4 +30,4 @@ To get up to speed, it is highly recommended to get the application Visual Studi
 
 We will link to some featured work here. 
 
-A place to start is the current set of demos: <a href="http://www.commonaccord.org/index.php?action=list&file=G/NW-NDA/99/Demo/">http://www.commonaccord.org/index.php?action=list&file=G/NW-NDA/99/Demo/</a>
+A place to start is the current set of demos: <a href="http://www.commonaccord.org/i.php?v=l&f=G/NW-NDA/99/Demo/">http://www.commonaccord.org/i.php?v=l&f=G/NW-NDA/99/Demo/</a>

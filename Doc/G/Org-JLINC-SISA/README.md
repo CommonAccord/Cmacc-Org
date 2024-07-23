@@ -4,4 +4,4 @@ The form of agreement is in the folder "Form".  Some of the sections have been b
 
 Some issues have been noted as "Note=" in the Form or in the relevant Sec.
 
-The whole agreement is <a href="index.php?action=doc&file=G/Org-JLINC-SISA/Form/0.md">a Doc - Form/0.md</a>.  
+The whole agreement is <a href="i.php?v=d&f=G/Org-JLINC-SISA/Form/0.md">a Doc - Form/0.md</a>.  

@@ -6,6 +6,6 @@ This repo sketches a general solution to legal documents for data science.  It i
 
 It furthers the vision of Block Science Labs and legal codification. http://blog.blocksciencelabs.com/blockscience-labs-launches-partnership-with-commonaccord/
 
-The ProseObject documents will also be available in rendering form at http://www.commonaccord.org/index.php?action=list&file=G/DataScience/
+The ProseObject documents will also be available in rendering form at http://www.commonaccord.org/i.php?v=l&f=G/DataScience/
 
 There is a chat/spec document at =[G/DataScience/FEEDME.md](FEEDME.md)

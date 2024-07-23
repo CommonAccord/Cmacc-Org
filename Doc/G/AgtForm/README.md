@@ -12,5 +12,5 @@ This is experimental, and let’s see if it feels good.
 
 Note=Uses of this can be seen across the website - for instance at:
   
-* <a href="http://www.commonaccord.org/index.php?action=source&file=G/Agt-NDA-CmA/Demo/Acme-Ang/0.md">http://www.commonaccord.org/index.php?action=source&file=G/Agt-NDA-CmA/Demo/Acme-Ang/0.md</a>
+* <a href="http://www.commonaccord.org/i.php?v=s&f=G/Agt-NDA-CmA/Demo/Acme-Ang/0.md">http://www.commonaccord.org/i.php?v=s&f=G/Agt-NDA-CmA/Demo/Acme-Ang/0.md</a>
     

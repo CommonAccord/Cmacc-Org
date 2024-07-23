@@ -1,4 +1,4 @@
-Note=The source code for this is available at https://github.com/CommonAccord/NW-NDA.  A running version is at http://commonaccord.org/index.php?action=list&file=G/NW-NDA/.
+Note=The source code for this is available at https://github.com/CommonAccord/NW-NDA.  A running version is at http://commonaccord.org/i.php?v=l&f=G/NW-NDA/.
 
 Ti=Root for Jurisdictions
 

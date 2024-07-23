@@ -1651,60 +1651,60 @@ H.=[G/Z/paras/5]
 
 SecList=<ol><li>{1.sec}<li>{2.sec}<li>{3.sec}<li>{4.sec}<li>{5.sec}<li>{6.sec}<li>{7.sec}<li>{8.sec}<li>{9.sec}<li>{10.sec}<li>{11.sec}<li>{12.sec}<li>{13.sec}<li>{14.sec}<li>{15.sec}<li>{16.sec}<li>{17.sec}<li>{18.sec}<li>{19.sec}<li>{20.sec}<li>{21.sec}<li>{22.sec}<li>{23.sec}<li>{24.sec}<li>{25.sec}<li>{26.sec}<li>{27.sec}<li>{28.sec}<li>{29.sec}<li>{30.sec}<li>{31.sec}<li>{32.sec}<li>{33.sec}<li>{34.sec}<li>{35.sec}<li>{36.sec}<li>{37.sec}<li>{38.sec}<li>{39.sec}<li>{40.sec}<li>{41.sec}<li>{42.sec}<li>{43.sec}<li>{44.sec}<li>{45.sec}<li>{46.sec}<li>{47.sec}<li>{48.sec}<li>{49.sec}<li>{50.sec}<li>{51.sec}<li>{52.sec}<li>{53.sec}<li>{54.sec}<li>{55.sec}<li>{56.sec}<li>{57.sec}<li>{58.sec}<li>{59.sec}<li>{60.sec}<li>{61.sec}<li>{62.sec}<li>{63.sec}<li>{64.sec}<li>{65.sec}<li>{66.sec}<li>{67.sec}<li>{68.sec}<li>{69.sec}<li>{70.sec}<li>{71.sec}<li>{72.sec}<li>{73.sec}<li>{74.sec}<li>{75.sec}<li>{76.sec}<li>{77.sec}<li>{78.sec}<li>{79.sec}<li>{80.sec}<li>{81.sec}<li>{82.sec}<li>{83.sec}<li>{84.sec}<li>{85.sec}<li>{86.sec}<li>{87.sec}<li>{88.sec}<li>{89.sec}<li>{90.sec}<li>{91.sec}<li>{92.sec}<li>{93.sec}<li>{94.sec}<li>{95.sec}<li>{96.sec}<li>{97.sec}<li>{98.sec}<li>{99.sec}<li>{100.sec}<li>{101.sec}<li>{102.sec}<li>{103.sec}<li>{104.sec}<li>{105.sec}<li>{106.sec}<li>{107.sec}<li>{108.sec}<li>{109.sec}<li>{110.sec}<li>{111.sec}<li>{112.sec}<li>{113.sec}<li>{114.sec}<li>{115.sec}<li>{116.sec}<li>{117.sec}<li>{118.sec}<li>{119.sec}<li>{120.sec}<li>{121.sec}<li>{122.sec}<li>{123.sec}<li>{124.sec}<li>{125.sec}<li>{126.sec}<li>{127.sec}<li>{128.sec}<li>{129.sec}<li>{130.sec}<li>{131.sec}<li>{132.sec}<li>{133.sec}<li>{134.sec}<li>{135.sec}<li>{136.sec}<li>{137.sec}<li>{138.sec}<li>{139.sec}<li>{140.sec}<li>{141.sec}<li>{142.sec}<li>{143.sec}<li>{144.sec}<li>{145.sec}<li>{146.sec}<li>{147.sec}<li>{148.sec}<li>{149.sec}<li>{150.sec}<li>{151.sec}<li>{152.sec}<li>{153.sec}<li>{154.sec}<li>{155.sec}<li>{156.sec}<li>{157.sec}<li>{158.sec}<li>{159.sec}<li>{160.sec}<li>{161.sec}<li>{162.sec}<li>{163.sec}<li>{164.sec}<li>{165.sec}<li>{166.sec}<li>{167.sec}<li>{168.sec}<li>{169.sec}<li>{170.sec}<li>{171.sec}<li>{172.sec}<li>{173.sec}<li>{174.sec}<li>{175.sec}<li>{176.sec}<li>{177.sec}<li>{178.sec}<li>{179.sec}<li>{180.sec}<li>{181.sec}<li>{182.sec}<li>{183.sec}<li>{184.sec}<li>{185.sec}</ol>
 
-Footnote_18=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/18.md">18</a></sup>
+Footnote_18=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/18.md">18</a></sup>
 
-Footnote_19=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/19.md">19</a></sup>
+Footnote_19=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/19.md">19</a></sup>
 
-Footnote_20=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/20.md">20</a></sup>
+Footnote_20=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/20.md">20</a></sup>
 
-Footnote_21=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/21.md">21</a></sup>
+Footnote_21=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/21.md">21</a></sup>
 
-Footnote_22=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/22.md">22</a></sup>
+Footnote_22=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/22.md">22</a></sup>
 
-Footnote_23=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/23.md">23</a></sup>
+Footnote_23=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/23.md">23</a></sup>
 
-Footnote_24=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/24.md">24</a></sup>
+Footnote_24=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/24.md">24</a></sup>
 
-Footnote_25=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/25.md">25</a></sup>
+Footnote_25=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/25.md">25</a></sup>
 
-Footnote_26=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/26.md">26</a></sup>
+Footnote_26=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/26.md">26</a></sup>
 
-Footnote_27=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/27.md">27</a></sup>
+Footnote_27=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/27.md">27</a></sup>
 
-Footnote_28=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/28.md">28</a></sup>
+Footnote_28=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/28.md">28</a></sup>
 
-Footnote_29=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/29.md">29</a></sup>
+Footnote_29=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/29.md">29</a></sup>
 
-Footnote_30=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/30.md">30</a></sup>
+Footnote_30=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/30.md">30</a></sup>
 
-Footnote_31=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/31.md">31</a></sup>
+Footnote_31=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/31.md">31</a></sup>
 
-Footnote_32=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/32.md">32</a></sup>
+Footnote_32=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/32.md">32</a></sup>
 
-Footnote_33=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/33.md">33</a></sup>
+Footnote_33=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/33.md">33</a></sup>
 
-Footnote_34=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/34.md">34</a></sup>
+Footnote_34=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/34.md">34</a></sup>
 
-Footnote_35=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/35.md">35</a></sup>
+Footnote_35=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/35.md">35</a></sup>
 
-Footnote_36=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/36.md">36</a></sup>
+Footnote_36=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/36.md">36</a></sup>
 
-Footnote_37=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/37.md">37</a></sup>
+Footnote_37=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/37.md">37</a></sup>
 
-Footnote_38=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/38.md">38</a></sup>
+Footnote_38=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/38.md">38</a></sup>
 
-Footnote_39=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/39.md">39</a></sup>
+Footnote_39=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/39.md">39</a></sup>
 
-Footnote_40=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/40.md">40</a></sup>
+Footnote_40=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/40.md">40</a></sup>
 
-Footnote_41=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/41.md">41</a></sup>
+Footnote_41=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/41.md">41</a></sup>
 
-Footnote_42=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/42.md">42</a></sup>
+Footnote_42=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/42.md">42</a></sup>
 
-Footnote_43=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/43.md">43</a></sup>
+Footnote_43=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/43.md">43</a></sup>
 
-Footnote_44=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/44.md">44</a></sup>
+Footnote_44=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/44.md">44</a></sup>
 
-Footnote_45=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/45.md">45</a></sup>
+Footnote_45=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/45.md">45</a></sup>
 
-Footnote_46=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/46.md">46</a></sup>
+Footnote_46=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/46.md">46</a></sup>

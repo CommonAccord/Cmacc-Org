@@ -4,4 +4,4 @@ Currently, we have only examples for /DE/Stock/ and /DE/NonStock/.
 
 The repository for this is at github.com/CommonAccord/US-Incorp.
 
-It can be viewed at www.CommonAccord.Org/index.php?action=list&file=G/US-Incorporate/ 
+It can be viewed at www.CommonAccord.Org/i.php?v=l&f=G/US-Incorporate/ 

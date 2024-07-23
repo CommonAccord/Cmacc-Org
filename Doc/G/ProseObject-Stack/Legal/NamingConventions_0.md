@@ -5,7 +5,7 @@ Ti=Naming Conventions
 
 1.Ti=Folders
 
-1.sec=Folders have a pattern best described at <a href="index.php?action=list&file=">the top level of the file system</a>. 
+1.sec=Folders have a pattern best described at <a href="i.php?v=l&f=">the top level of the file system</a>. 
 
 
 2.Ti=Files

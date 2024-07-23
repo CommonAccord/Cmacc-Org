@@ -5,7 +5,7 @@ xlist=<ol><li>{ObligationToCombatAbuse.Sec}</li><li>{RemediatingAdverseImpacts.S
 
 Official Note=The text proposed assumes that buyers are located in the United States and that the applicable law is either (a) U.S. state law that implements the Uniform Commercial Code without material nonuniform amendment or (b) the United Nations Convention on Contracts for the International Sale of Goods (the CISG, a treaty to which the United States is a party and which applies to many international sales of goods under CISG article 1(1)(a)).
 
-Official Note=For the most part, substantive human rights standards and ethical purchasing practices are not contained in these clauses and are instead assumed to be specified in Schedule P and Schedule Q, respectively. For companies that do not already have substantive human rights requirements for their suppliers, “Building Blocks for Schedule P” is included separately to provide guidance. A pro forma Schedule Q is also provided separately. In the clauses below, please refer to the footnotes for explanations of risks, statutory and case law, and human rights guidance from the UN Guiding Principles on Business and Human Rights (the Guiding Principles or UNGPs) and the 2011 OECD Guidelines for Multinational Enterprises (the OECD Guidelines) as well as the 2018 OECD Due Diligence Guidance for Responsible Business Conduct (the OECD Due Diligence Guidance)).
+Official Note=For the most part, substantive human rights standards and ethical purchasing practices are not contained in these clauses and are instead assumed to be specified in Schedule P and Schedule Q, respectively. For companies that do not already have substantive human rights requirements for their suppliers, “Building Blocks for Schedule P” is included separately to provide guidance. A pro forma Schedule Q is also provided separately. In the clauses below, please refer to the footnotes for explanations of risks, statutory and case law, and human rights guidance from the UN Guiding Principles on Business and Human Rights (the Guiding Principles or UNGPs) and the 2011 OECD Guidelines for Multinational Enterprises (the OECD Guidelines) as well as the 2018 OECD Due Diligence Guidance for Responsible Business Conduct (the OECD Due Diligence Guidance).
 
 ObligationToCombatAbuse.Ti=Mutual Obligations with Respect to Combatting Abusive Practices in Supply Chains
 
@@ -13,7 +13,9 @@ ObligationToCombatAbuse.0.sec=As of the Effective Date  of this Agreement, Buyer
 
 ObligationToCombatAbuse.1.Ti=Human Rights Due Diligence
 
-ObligationToCombatAbuse.1.1.sec=Buyer and Supplier each covenants to establish and maintain a human rights due diligence process appropriate to its size and circumstances to identify, prevent, mitigate and account for how each of Buyer and Supplier addresses the impacts of its activities on the human rights of individuals directly or indirectly affected by their supply chains, consistent with the 2011 United Nations Guiding Principles on Business and Human Rights.  Such human rights due diligence shall be consistent with guidance from the Organisation for Economic Co-operation and Development for the applicable party’s sector (or, if no such sector-specific guidance exists, shall be consistent with the 2018 OECD Due Diligence Guidance for Responsible Business Conduct (the “OECD Due Diligence Guidance”). 
+ProofersNote=There seems to be an unclosed "(or" in the following clause.  Please check the text and correct as necessary.
+
+ObligationToCombatAbuse.1.1.sec=Buyer and Supplier each covenants to establish and maintain a human rights due diligence process appropriate to its size and circumstances to identify, prevent, mitigate and account for how each of Buyer and Supplier addresses the impacts of its activities on the human rights of individuals directly or indirectly affected by their supply chains, consistent with the 2011 United Nations Guiding Principles on Business and Human Rights.  Such human rights due diligence shall be consistent with guidance from the Organisation for Economic Co-operation and Development for the applicable party’s sector (or, if no such sector-specific guidance exists, shall be consistent with the 2018 OECD Due Diligence Guidance for Responsible Business Conduct (the “{DefT.OECD_Due_Diligence_Guidance}”). 
 
 ObligationToCombatAbuse.1.2.sec={Buyer_and_Supplier_each//Supplier} shall and shall cause each of its {shareholders/partners, officers, directors, employees, agents//agents} and all subcontractors, consultants and any other person providing staffing for Goods or services required by this Agreement (collectively, such party’s “{DefT.Representatives}”) to disclose information on all matters relevant to the human rights due diligence process in a timely and accurate fashion to {the_other_party//Buyer}. 
 
@@ -25,7 +27,7 @@ ObligationToCombatAbuse.1.=[G/Z/ol-a/s4]
 
 ObligationToCombatAbuse.2.Ti=Schedule P Compliance Throughout the Supply Chain
 
-ObligationToCombatAbuse.2.sec=Supplier shall ensure that each of its Representatives acting in connection with this Agreement shall engage with Supplier and any other Representative in due diligence in accordance with Section {ObligationToCombatAbuse.1.Xnum} to ensure compliance with Schedule P.  Such relationships shall be formalized in written contracts that secure from the parties terms {in_compliance_with//equivalent_to_those_imposed_by//at least as protective as those imposed by} Schedule P.  Supplier shall keep records of such written contracts to demonstrate compliance with its obligations under this Agreement and shall deliver such records to Buyer as reasonably requested. 
+ObligationToCombatAbuse.2.sec=Supplier shall ensure that each of its {_Representatives} acting in connection with this Agreement shall engage with Supplier and any other Representative in due diligence in accordance with Section {ObligationToCombatAbuse.1.Xnum} to ensure compliance with Schedule P.  Such relationships shall be formalized in written contracts that secure from the parties terms {in_compliance_with//equivalent_to_those_imposed_by//at least as protective as those imposed by} Schedule P.  Supplier shall keep records of such written contracts to demonstrate compliance with its obligations under this Agreement and shall deliver such records to Buyer as reasonably requested. 
 
 ObligationToCombatAbuse.2.=[G/Z/Base]
 
@@ -69,17 +71,9 @@ ObligationToCombatAbuse.=[G/Z/ol/4]
 
 RemediatingAdverseImpacts.Ti=Remediating Adverse Human Rights Impacts Linked to Contractual Activity
 
-RemediatingAdverseImpacts.NoticeOfViolation.Ti=Notice of Potential or Actual Violations 
+RemediatingAdverseImpacts.NoticeOfViolation.=[G/ABA-HR-Business-MCC/Sec/RemediatingAdverseImpacts/NoticeOfViolation.md]
 
-RemediatingAdverseImpacts.NoticeOfViolation.1.sec=Within {RemediatingAdverseImpacts.NoticeOfViolation.1.days} of (i) Supplier having reason to believe there is any potential or actual violation of Schedule P (a “{DefT.Schedule_P_Breach}”), or (ii) receipt of any oral or written notice of any potential or actual Schedule P Breach, Supplier shall provide to Buyer a detailed summary of (1) the factual circumstances surrounding such violation; (2) the specific provisions of Schedule P implicated; (3) the investigation and remediation that has been conducted and/or that is planned as informed by implementation of the OLGM process set forth in Section {RemediatingAdverseImpacts.RightToCure.Xnum}; and (4) support for Supplier’s determination that the investigation and remediation has been or will be effective, adequate, and proportionate to the violation.  
-
-RemediatingAdverseImpacts.NoticeOfViolation.2.sec=If Supplier reasonably believes that Buyer’s breach of Buyer’s obligations under Section {ObligationToCombatAbuse.3.Xnum} caused or contributed to the Schedule P Breach and that remediation of the Schedule P Breach requires Buyer’s participation under Section {RejectionOfGoods.3.5.Xnum}, Supplier shall notify Buyer and provide details supporting its claim.  If Buyer rejects Supplier’s allegation, Buyer shall provide Supplier with its written explanation rejecting Supplier’s position.  In such case, the Dispute shall be resolved under Article {DisputeResolution.Xnum}.
-   
-RemediatingAdverseImpacts.NoticeOfViolation.3.sec=Supplier hereby designates {Supplier.Notice.NameTitleEmail.cl} and Buyer designates {Buyer.Notice.NameTitleEmail.cl} to send/receive all notices provided under this Section {RejectionOfGoods.1.Xnum}{.//AndAsSpecifiedForGeneral.cl}
-
-AndAsSpecifiedForGeneral.cl=and in addition notices shall be given as specified in Section ____ for general notices under this Agreement. 
-
-RemediatingAdverseImpacts.NoticeOfViolation.=[G/Z/ol-a/s3]
+RemediatingAdverseImpacts.NoticeOfViolation.=[G/Z/Base]
 
 RemediatingAdverseImpacts.Investigation.Ti=Investigation
 
@@ -91,17 +85,17 @@ RemediatingAdverseImpacts.Investigation.=[G/Z/ol-a/s2]
 
 RemediatingAdverseImpacts.RemediationPlan.Ti=Remediation Plan
 
-RemediatingAdverseImpacts.RemediationPlan.1.sec=If Buyer becomes aware of a Schedule P Breach  that has not been effectively remediated, Buyer shall, in collaboration with Supplier’s other buyers where legally appropriate,  require Supplier to prepare a remediation plan (a “Remediation Plan”).
+RemediatingAdverseImpacts.RemediationPlan.1.sec=If Buyer becomes aware of a Schedule P Breach  that has not been effectively remediated, Buyer shall, in collaboration with Supplier’s other buyers where legally appropriate,  require Supplier to prepare a remediation plan (a “{DefT.Remediation_Plan}”).
 
-RemediatingAdverseImpacts.RemediationPlan.2.sec=The purpose of the Remediation Plan shall be to restore, to the extent commercially practical, the affected persons to the situation they would have been in had the adverse human rights impacts not occurred. [The Remediation Plan shall enable remediation that is proportionate to the adverse impact and may include apologies, restitution, rehabilitation, financial and non-financial compensation, as well as prevention of additional adverse impacts resulting from future Schedule P violations.] 
+RemediatingAdverseImpacts.RemediationPlan.2.sec=The purpose of the {_Remediation_Plan} shall be to restore, to the extent commercially practical, the affected persons to the situation they would have been in had the adverse human rights impacts not occurred. [The {_Remediation_Plan} shall enable remediation that is proportionate to the adverse impact and may include apologies, restitution, rehabilitation, financial and non-financial compensation, as well as prevention of additional adverse impacts resulting from future Schedule P violations.] 
 
-RemediatingAdverseImpacts.RemediationPlan.3.sec=The Remediation Plan shall include a timeline and objective milestones for remediation, including objective standards for determining when such remediation is completed and the breach cured.  Supplier shall demonstrate to Buyer that affected stakeholders and/or their representatives [and/or a third party acting on behalf of such stakeholders]  have participated in the development of the Remediation Plan.  [The Remediation Plan may contemplate recourse to the dispute resolution mechanisms set forth in Article {DisputeResolution.Xnum}, as appropriate.]
+RemediatingAdverseImpacts.RemediationPlan.3.sec=The {_Remediation_Plan} shall include a timeline and objective milestones for remediation, including objective standards for determining when such remediation is completed and the breach cured.  Supplier shall demonstrate to Buyer that affected stakeholders and/or their representatives [and/or a third party acting on behalf of such stakeholders]  have participated in the development of the {_Remediation_Plan}.  [The {_Remediation_Plan} may contemplate recourse to the dispute resolution mechanisms set forth in Article {DisputeResolution.Xnum}, as appropriate.]
 
-RemediatingAdverseImpacts.RemediationPlan.4.sec=Supplier shall provide [reasonably satisfactory] evidence to Buyer of the implementation of the Remediation Plan and shall demonstrate that participating affected stakeholders and/or their representatives are being regularly consulted. Before the Remediation Plan can be deemed fully implemented, evidence shall be provided to show that affected stakeholders and/or their representatives have participated in determining that the Remediation Plan has met the standards developed under this Section.
+RemediatingAdverseImpacts.RemediationPlan.4.sec=Supplier shall provide [reasonably satisfactory] evidence to Buyer of the implementation of the {_Remediation_Plan} and shall demonstrate that participating affected stakeholders and/or their representatives are being regularly consulted. Before the {_Remediation_Plan} can be deemed fully implemented, evidence shall be provided to show that affected stakeholders and/or their representatives have participated in determining that the {_Remediation_Plan} has met the standards developed under this Section.
 
-RemediatingAdverseImpacts.RemediationPlan.5.sec=If Buyer’s breach of Section {RemediatingAdverseImpacts.RemediationPlan.Xnum} has caused or contributed  to the Schedule P Breach or the resulting adverse human rights impact, Buyer shall participate in the preparation and implementation of the Remediation Plan, including by providing assistance [which may include in-kind contributions, capacity-building  and technical or financial assistance] that is proportionate to Buyer’s contribution to the Schedule P Breach and the resulting adverse impact.  
+RemediatingAdverseImpacts.RemediationPlan.5.sec=If Buyer’s breach of Section {RemediatingAdverseImpacts.RemediationPlan.Xnum} has caused or contributed  to the Schedule P Breach or the resulting adverse human rights impact, Buyer shall participate in the preparation and implementation of the {_Remediation_Plan}, including by providing assistance [which may include in-kind contributions, capacity-building  and technical or financial assistance] that is proportionate to Buyer’s contribution to the Schedule P Breach and the resulting adverse impact.  
 
-RemediatingAdverseImpacts.RemediationPlan.6.sec=A Remediation Plan under this Article {RemediatingAdverseImpacts.Xnum} or under Section {RemediatingAdverseImpacts.NoticeOfViolation.4.Xnum} shall be a fully binding part of this Agreement.
+RemediatingAdverseImpacts.RemediationPlan.6.sec=A {_Remediation_Plan} under this Article {RemediatingAdverseImpacts.Xnum} or under Section {RemediatingAdverseImpacts.NoticeOfViolation.4.Xnum} shall be a fully binding part of this Agreement.
 
 RemediatingAdverseImpacts.RemediationPlan.=[G/Z/ol-a/s6]
 
@@ -115,7 +109,7 @@ RemediatingAdverseImpacts.RightToCure.=[G/Z/ol-a/s2]
 
 RemediatingAdverseImpacts.RightToTerminate.Ti=Right to Immediate Termination
 
-RemediatingAdverseImpacts.RightToTerminate.sec=Notwithstanding any other provision of this Agreement, this Agreement may be immediately [cancelled] [avoided] by Buyer under {BuyerRemedy.2.5.Xnum}, without providing a cure period, if Supplier has engaged in a Zero Tolerance Activity. A “Zero Tolerance Activity” shall be any of the following activities if they were not disclosed promptly by Supplier to Buyer during due diligence under Section {RemediatingAdverseImpacts.NoticeOfViolation.Xnum}: (a) activities that would cause Buyer to be the subject of prosecution or sanction under civil or commercial laws whether national, regional or international; (b) activities that would expose Buyer to criminal liability; (c) activities prohibited by the Foreign Corrupt Practices Act of 1977 (as amended); (d) instances where it becomes apparent that Supplier cannot, in the absence of assistance from Buyer under Section {RemediatingAdverseImpacts.RemediationPlan.2.Xnum}, perform this Agreement without material or repeated violation of Schedule P; and (e) others specified in Schedule P.   Such termination shall be effectuated in compliance with Section {RemediatingAdverseImpacts.RemediationPlan.6.Xnum} on responsible exit.
+RemediatingAdverseImpacts.RightToTerminate.sec=Notwithstanding any other provision of this Agreement, this Agreement may be immediately [cancelled] [avoided] by Buyer under {BuyerRemedy.2.5.Xnum}, without providing a cure period, if Supplier has engaged in a {_Zero_Tolerance_Activity}. A “{DefT.Zero_Tolerance_Activity}” shall be any of the following activities if they were not disclosed promptly by Supplier to Buyer during due diligence under Section {RemediatingAdverseImpacts.NoticeOfViolation.Xnum}: (a) activities that would cause Buyer to be the subject of prosecution or sanction under civil or commercial laws whether national, regional or international; (b) activities that would expose Buyer to criminal liability; (c) activities prohibited by the Foreign Corrupt Practices Act of 1977 (as amended); (d) instances where it becomes apparent that Supplier cannot, in the absence of assistance from Buyer under Section {RemediatingAdverseImpacts.RemediationPlan.2.Xnum}, perform this Agreement without material or repeated violation of Schedule P; and (e) others specified in Schedule P.   Such termination shall be effectuated in compliance with Section {RemediatingAdverseImpacts.RemediationPlan.6.Xnum} on responsible exit.
 
 RemediatingAdverseImpacts.RightToTerminate.=[G/Z/Base]
 
@@ -129,15 +123,15 @@ Note=3.1 is Optional
 
 RejectionOfGoods.1.Ti=Strict Compliance
 
-RejectionOfGoods.1.sec=It is a material term of this Agreement that Buyer, Supplier, and Representatives shall engage in due diligence in accordance with Sections {ObligationToCombatAbuse.1.Xnum} and {ObligationToCombatAbuse.2.Xnum} so as to ensure compliance with Schedule P.]
+RejectionOfGoods.1.sec=It is a material term of this Agreement that Buyer, Supplier, and {_Representatives} shall engage in due diligence in accordance with Sections {ObligationToCombatAbuse.1.Xnum} and {ObligationToCombatAbuse.2.Xnum} so as to ensure compliance with Schedule P.]
 
 RejectionOfGoods.2.Ti=Rejection of Nonconforming Goods
 
-RejectionOfGoods.2.sec=In the event of a Schedule P Breach by Supplier that renders the Goods Nonconforming Goods, Buyer shall have the right to reject them  unless Buyer’s breach of its obligations under Section {RemediatingAdverseImpacts.RemediationPlan.Xnum} [and/or Schedule Q] materially caused or contributed to the Schedule P Breach.  Goods are Nonconforming Goods if the Buyer cannot resell them in the ordinary course of business or if the goods cannot pass without objection in trade or if the Goods are associated with a Zero Tolerance Activity. 
+RejectionOfGoods.2.sec=In the event of a Schedule P Breach by Supplier that renders the Goods Nonconforming Goods, Buyer shall have the right to reject them  unless Buyer’s breach of its obligations under Section {RemediatingAdverseImpacts.RemediationPlan.Xnum} [and/or Schedule Q] materially caused or contributed to the Schedule P Breach.  Goods are Nonconforming Goods if the Buyer cannot resell them in the ordinary course of business or if the goods cannot pass without objection in trade or if the Goods are associated with a {_Zero_Tolerance_Activity}. 
 
 RejectionOfGoods.3.Ti=[Cancellation.] [Avoidance.]
 
-RejectionOfGoods.3.sec=The following shall be deemed to [substantially impair the value of this Agreement to Buyer]  [constitute a fundamental breach of the entire Agreement]  and Buyer may [cancel] [avoid]  this entire Agreement with immediate effect and without penalty and/or may exercise its right to indemnification and all other remedies: (a) a breach by Supplier of Schedule P that relates to a Zero Tolerance Activity, or (b) Supplier’s failure to timely complete its obligations under a Remediation Plan. Buyer shall have no liability to Supplier for such [cancellation] [avoidance] but shall employ commercially reasonable efforts to comply with Section {RemediatingAdverseImpacts.RemediationPlan.6.Xnum}.
+RejectionOfGoods.3.sec=The following shall be deemed to [substantially impair the value of this Agreement to Buyer]  [constitute a fundamental breach of the entire Agreement]  and Buyer may [cancel] [avoid]  this entire Agreement with immediate effect and without penalty and/or may exercise its right to indemnification and all other remedies: (a) a breach by Supplier of Schedule P that relates to a {_Zero_Tolerance_Activity}, or (b) Supplier’s failure to timely complete its obligations under a {_Remediation_Plan}. Buyer shall have no liability to Supplier for such [cancellation] [avoidance] but shall employ commercially reasonable efforts to comply with Section {RemediatingAdverseImpacts.RemediationPlan.6.Xnum}.
 
 RejectionOfGoods.4.Ti=Timely Notice
 
@@ -193,11 +187,11 @@ BuyerRemedy.2.1.sec=Demanding adequate assurances from Supplier of due performan
 
 BuyerRemedy.2.2.sec=Obtaining an injunction with respect to Supplier’s noncompliance with Schedule P (in which case, the parties represent to each other and agree that noncompliance with Schedule P causes Buyer great and irreparable harm for which Buyer has no adequate remedy at law and that the public interest would be served by injunctive and other equitable relief).
 
-BuyerRemedy.2.3.sec=Requiring Supplier to terminate an agreement or affiliation with a specific factory, terminate a subcontract or remove an employee or employees and/or other Representatives.  
+BuyerRemedy.2.3.sec=Requiring Supplier to terminate an agreement or affiliation with a specific factory, terminate a subcontract or remove an employee or employees and/or other {_Representatives}.  
 
 BuyerRemedy.2.4.sec=Suspending payments, whether under this Agreement or other agreements, until Buyer determines, in Buyer’s reasonable discretion, that Supplier has taken appropriate remedial action following the expiration of the cure period indicated in Section {RejectionOfGoods.4.1.Xnum}. 
 
-BuyerRemedy.2.5.sec=[Avoiding] [Cancelling] this Agreement if permitted by Sections {RemediatingAdverseImpacts.RightToCure.2.Xnum}, {RemediatingAdverseImpacts.RightToTerminate.Xnum}, or {RejectionOfGoods.3.Xnum}.
+BuyerRemedy.2.5.sec={Avoiding//Cancelling} this Agreement if permitted by Sections {RemediatingAdverseImpacts.RightToCure.2.Xnum}, {RemediatingAdverseImpacts.RightToTerminate.Xnum}, or {RejectionOfGoods.3.Xnum}.
 
 BuyerRemedy.2.6.sec=Obtaining damages, including all direct and consequential damages caused by the breach; provided, however, that damages shall be reduced proportionately to the degree that Buyer’s breach of Section {RemediatingAdverseImpacts.RemediationPlan.Xnum} [and/or Schedule Q] caused or contributed to Supplier’s breach of Schedule P.
 
@@ -209,9 +203,11 @@ BuyerRemedy.3.0.sec=Buyer and Supplier acknowledge:
 
 BuyerRemedy.3.1.sec=Neither Buyer nor Supplier should benefit from a Schedule P violation or any human rights violation occurring in relation to this Agreement.  If damages are owed that would result in a benefit to Buyer or Supplier, such amounts should go toward supporting the remediation processes set out in Section {RemediatingAdverseImpacts.RightToCure.Xnum} and Article {RemediatingAdverseImpacts.Xnum}.  A “benefit” is here understood to mean being put in a better position than if this Agreement had been performed without a Schedule P Breach.  Nothing herein limits the right of a party to be put in the position it would have been in had this Agreement been performed without a Schedule P Breach.
 
-BuyerRemedy.3.2.sec=[If there are insufficient funds to pay damages and complete the remediation processes set out in Section {RemediatingAdverseImpacts.RightToCure.Xnum} and Article {RemediatingAdverseImpacts.Xnum}, remediation shall take priority.]
+Note=3.2 and 3.3 are optional.
 
-BuyerRemedy.3.3.sec=[It may be difficult for the parties to fix damages for injury to business, prospects, and reputation with respect to Nonconforming Goods produced in violation of Schedule P, and in such case, liquidated damages must be paid by Supplier to Buyer as follows:  [insert amount or formula for calculation.]]  
+BuyerRemedy.3.2.sec=If there are insufficient funds to pay damages and complete the remediation processes set out in Section {RemediatingAdverseImpacts.RightToCure.Xnum} and Article {RemediatingAdverseImpacts.Xnum}, remediation shall take priority.
+
+BuyerRemedy.3.3.sec=It may be difficult for the parties to fix damages for injury to business, prospects, and reputation with respect to Nonconforming Goods produced in violation of Schedule P, and in such case, liquidated damages must be paid by Supplier to Buyer as follows: {LiquidatedDamagesFormula.cl}.
 
 BuyerRemedy.3.=[G/Z/ol-a/s3]
 
@@ -225,7 +221,7 @@ BuyerRemedy.4.=[G/Z/ol-a/s2]
 
 BuyerRemedy.5.Ti=Indemnification; comparative fault calculation
 
-BuyerRemedy.5.1.sec=Supplier shall indemnify, defend and hold harmless Buyer and its officers, directors, employees, agents, affiliates, successors and assigns (collectively, “Indemnified Party”) against any and all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, penalties, fines, costs or expenses of whatever kind, including, without limitation, the cost of storage, return, export or destruction of Goods, the difference in cost between Buyer’s purchase of Supplier’s Goods and replacement Goods, reasonable attorneys’ fees, audit fees that would not have been incurred but for Supplier’s Schedule P Breach, and the costs of enforcing any right under this Agreement or applicable law, in each case, that arise out of the violation of Schedule P by Supplier or any of its Representatives. This Section shall apply, without limitation, regardless of whether claimants are contractual counterparties, investors, or any other person, entity, or governmental unit whatsoever.
+BuyerRemedy.5.1.sec=Supplier shall indemnify, defend and hold harmless Buyer and its officers, directors, employees, agents, affiliates, successors and assigns (collectively, “{DefT.Indemnified_Party}”) against any and all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, penalties, fines, costs or expenses of whatever kind, including, without limitation, the cost of storage, return, export or destruction of Goods, the difference in cost between Buyer’s purchase of Supplier’s Goods and replacement Goods, reasonable attorneys’ fees, audit fees that would not have been incurred but for Supplier’s Schedule P Breach, and the costs of enforcing any right under this Agreement or applicable law, in each case, that arise out of the violation of Schedule P by Supplier or any of its {_Representatives}. This Section shall apply, without limitation, regardless of whether claimants are contractual counterparties, investors, or any other person, entity, or governmental unit whatsoever.
 
 BuyerRemedy.5.2.sec=Notwithstanding Section {BuyerRemedy.5.1.Xnum}, Supplier’s obligation to indemnify Buyer shall be reduced proportionately to the degree that Buyer’s breach of Section {RemediatingAdverseImpacts.RemediationPlan.Xnum} [and/or Schedule Q] caused or contributed to Supplier’s breach of Schedule P; in other words, for the avoidance of doubt, damages shall be borne by Buyer directly to the extent Buyer has materially caused or contributed to the breach of Schedule P.
 
@@ -239,11 +235,11 @@ Disclaim.1.Ti=Negation of Buyer’s Contractual Duties Except as Stated
 
 Disclaim.1.0.sec=Notwithstanding any other provision of this Agreement:
 
-Disclaim.1.1.sec=Buyer does not assume a duty under this Agreement to monitor Supplier or its Representatives, including, without limitation, for compliance with laws or standards regarding working conditions, pay, hours, discrimination, forced labor, child labor, or the like, except as stated in Articles 1 and 2. 
+Disclaim.1.1.sec=Buyer does not assume a duty under this Agreement to monitor Supplier or its {_Representatives}, including, without limitation, for compliance with laws or standards regarding working conditions, pay, hours, discrimination, forced labor, child labor, or the like, except as stated in Articles 1 and 2. 
 
-Disclaim.1.2.sec=Buyer does not assume a duty under this Agreement to monitor or inspect the safety of any workplace of Supplier or its Representatives nor to monitor any labor practices of Supplier or its Representatives, except as stated in Articles 1 and 2. 
+Disclaim.1.2.sec=Buyer does not assume a duty under this Agreement to monitor or inspect the safety of any workplace of Supplier or its {_Representatives} nor to monitor any labor practices of Supplier or its {_Representatives}, except as stated in Articles 1 and 2. 
 
-Disclaim.1.3.sec=Buyer does not have the authority and disclaims any obligation to control (i) the manner and method of work done by Supplier or its Representatives, (ii) implementation of safety measures by Supplier or its Representatives, or (iii) employment or engagement of employees and contractors or subcontractors by Supplier or its Representatives.  The efforts contemplated by this Agreement do not constitute any authority or obligation of control.  They are efforts at cooperation that leave Buyer and Supplier each responsible for its own policies, decisions, and operations.  Buyer and Supplier and Representatives remain independent and are independent contractors.  Nor are they joint employers, and they should not be considered as such. 
+Disclaim.1.3.sec=Buyer does not have the authority and disclaims any obligation to control (i) the manner and method of work done by Supplier or its {_Representatives}, (ii) implementation of safety measures by Supplier or its {_Representatives}, or (iii) employment or engagement of employees and contractors or subcontractors by Supplier or its {_Representatives}.  The efforts contemplated by this Agreement do not constitute any authority or obligation of control.  They are efforts at cooperation that leave Buyer and Supplier each responsible for its own policies, decisions, and operations.  Buyer and Supplier and {_Representatives} remain independent and are independent contractors.  Nor are they joint employers, and they should not be considered as such. 
 
 Disclaim.1.4.sec=Buyer assumes no duty to disclose the results of any audit, questionnaire, or information gained pursuant to this Agreement other than as required by applicable law, except to the extent Buyer must disclose information to Supplier as expressly provided in this Agreement. 
 
@@ -251,7 +247,8 @@ Disclaim.1.=[G/Z/ol-a/s4]
 
 Disclaim.2.Ti=Third Party Beneficiaries
 
-Disclaim.2.sec=[All buyers and suppliers in the supply chain have the right to enforce the relevant provisions relating to the human rights protections set forth herein and in Schedule P [and Schedule Q] and privity of contract is hereby waived as a defense by Buyer and Supplier provided, however, that there are otherwise no third-party beneficiaries to this Agreement. Individuals or entities, including but not limited to associations, workers, land owners, property owners, those residing, working and/or recreating in proximity to supply chain activities and any individual who is injured or suffers damages due to a violation of human rights have no rights, claims, causes of action or entitlements against Buyer or Supplier arising out of or relating to this Agreement, Schedule P, [Schedule Q] or any provision hereunder.] [There are no third-party beneficiaries to this Agreement].  
+Note=Disclaim.2 is optional.
+Disclaim.2.sec=All buyers and suppliers in the supply chain have the right to enforce the relevant provisions relating to the human rights protections set forth herein and in Schedule P [and Schedule Q] and privity of contract is hereby waived as a defense by Buyer and Supplier provided, however, that there are otherwise no third-party beneficiaries to this Agreement. Individuals or entities, including but not limited to associations, workers, land owners, property owners, those residing, working and/or recreating in proximity to supply chain activities and any individual who is injured or suffers damages due to a violation of human rights have no rights, claims, causes of action or entitlements against Buyer or Supplier arising out of or relating to this Agreement, Schedule P, [Schedule Q] or any provision hereunder. [There are no third-party beneficiaries to this Agreement].  
 
 Disclaim.=[G/Z/ol/2]
 
@@ -259,7 +256,7 @@ DisputeResolution.Ti=Dispute Resolution
 
 DisputeResolution.1.Ti=Dispute Resolution Procedures
 
-DisputeResolution.1.sec=The parties agree that the procedures set forth in this Article shall be the sole and exclusive remedy in connection with any dispute arising in whole or in part from or relating to Articles 1 through 7 or Schedule P [or Schedule Q], whether such dispute involves Buyer, Supplier, or a Representative  (a “Dispute”).  Buyer and Supplier irrevocably waive any right to commence any action in or before any court or governmental authority, except as expressly provided in this Article {DisputeResolution.Xnum}. Notwithstanding anything contained herein to the contrary, however, at any point in the proceedings under this Article {DisputeResolution.Xnum}, the parties may agree to engage the services of a neutral facilitator to assist in resolving any Dispute.  
+DisputeResolution.1.sec=The parties agree that the procedures set forth in this Article shall be the sole and exclusive remedy in connection with any dispute arising in whole or in part from or relating to Articles 1 through 7 or Schedule P [or Schedule Q], whether such dispute involves Buyer, Supplier, or a Representative  (a “{DefT.Dispute}”).  Buyer and Supplier irrevocably waive any right to commence any action in or before any court or governmental authority, except as expressly provided in this Article {DisputeResolution.Xnum}. Notwithstanding anything contained herein to the contrary, however, at any point in the proceedings under this Article {DisputeResolution.Xnum}, the parties may agree to engage the services of a neutral facilitator to assist in resolving any Dispute.  
 
 Note=8.2 is optional.
 
@@ -273,13 +270,13 @@ DisputeResolution.3.sec=If one or more other disputes arise between or among par
 
 DisputeResolution.4.Ti=Informal Good Faith Negotiations Up the Line
 
-DisputeResolution.4.sec=The parties shall try to settle their Dispute amicably between themselves by good faith negotiations, initially in the normal course of business at the operational level.  If a Dispute is not resolved at the operational level, the parties shall attempt in good faith to resolve the Dispute by negotiation between executives who hold, at a minimum, the office(s) of [TITLE(S)].  Either party may initiate the executive negotiation process at any time and from time to time by providing notice [in accordance with Section {RejectionOfGoods.1.3.Xnum}] (the “Dispute Notice”).  Within no more than five (5) days  after the Dispute Notice has been given, the receiving party shall submit to the other a written response (the “Response”).  The Dispute Notice and the Response shall include (a) a statement of the Dispute, together with a recital of the alleged underlying facts, and of the respective parties’ positions and (b) the name and title of the executive who will represent that party and of any other person who will accompany the executive.  The parties agree that such executives shall have full and complete authority to resolve the Dispute.  All reasonable requests for information made by one party to the other will be honored.  If such executives do not resolve such dispute within [twenty (20)] days of receipt of the Dispute Notice for any reason, the parties shall have an additional [ten (10)] days thereafter to reach agreement as to whether to seek to resolve the Dispute through mediation under Section {DisputeResolution.5.Xnum}.  
+DisputeResolution.4.sec=The parties shall try to settle their Dispute amicably between themselves by good faith negotiations, initially in the normal course of business at the operational level.  If a Dispute is not resolved at the operational level, the parties shall attempt in good faith to resolve the Dispute by negotiation between executives who hold, at a minimum, the office(s) of [TITLE(S)].  Either party may initiate the executive negotiation process at any time and from time to time by providing notice [in accordance with Section {RejectionOfGoods.1.3.Xnum}] (the “{DefT.Dispute_Notice}”).  Within no more than five (5) days  after the Dispute Notice has been given, the receiving party shall submit to the other a written response (the “{DefT.Response}”).  The Dispute Notice and the Response shall include (a) a statement of the Dispute, together with a recital of the alleged underlying facts, and of the respective parties’ positions and (b) the name and title of the executive who will represent that party and of any other person who will accompany the executive.  The parties agree that such executives shall have full and complete authority to resolve the Dispute.  All reasonable requests for information made by one party to the other will be honored.  If such executives do not resolve such dispute within [twenty (20)] days of receipt of the Dispute Notice for any reason, the parties shall have an additional [ten (10)] days thereafter to reach agreement as to whether to seek to resolve the Dispute through mediation under Section {DisputeResolution.5.Xnum}.  
 
 DisputeResolution.5.Ti=Mediation
 
 Note=There appears to be an extraneous "]" in "through [arbitration][litigation] under Section {DisputeResolution.6.Xnum}]" in the following section. Presumably, this indicates the end of an optional span, but it is unclear where it begins. The "]" is also missing in the PDF mccs-full-report.pdf.  Perhaps it is merely extraneous. 
 
-DisputeResolution.5.sec=If the parties do not resolve any Dispute within the periods specified in Section {DisputeResolution.4.Xnum}, either party may, by notice given in accordance with Section {RejectionOfGoods.1.3.Xnum} (the “Mediation Notice”), invite the other to resolve the Dispute under the [insert name of rules] as in effect on the date of this Agreement (the “{DefT.Mediation_Rules}”).  The language to be used in the mediation shall be [language].  If such invitation is accepted, a single mediator shall be chosen by the Parties. If, within {Mediation.RespondToInvitationWithin.days} following the delivery of the Mediation Notice, the invitation to mediate is not accepted, the parties shall resolve the Dispute through {arbitration//litigation} under Section {DisputeResolution.6.Xnum}]  [If the parties are unable to agree upon the appointment of a mediator, then one shall be appointed by the {Arbitration.Institution.Name}.
+DisputeResolution.5.sec=If the parties do not resolve any Dispute within the periods specified in Section {DisputeResolution.4.Xnum}, either party may, by notice given in accordance with Section {RejectionOfGoods.1.3.Xnum} (the “{DefT.Mediation_Notice}”), invite the other to resolve the Dispute under the [insert name of rules] as in effect on the date of this Agreement (the “{DefT.Mediation_Rules}”).  The language to be used in the mediation shall be [language].  If such invitation is accepted, a single mediator shall be chosen by the Parties. If, within {Mediation.RespondToInvitationWithin.days} following the delivery of the Mediation Notice, the invitation to mediate is not accepted, the parties shall resolve the Dispute through {arbitration//litigation} under Section {DisputeResolution.6.Xnum}]  [If the parties are unable to agree upon the appointment of a mediator, then one shall be appointed by the {Arbitration.Institution.Name}.
 
 Official Note=[In this clause companies choose between arbitration (Alternative A) and litigation (Alternative B):] 
 
@@ -289,7 +286,7 @@ DisputeResolution.6.1.sec=If and only if the parties (a) have chosen not to make
 
 Official Note=[Alternative A for arbitration:] 
 
-DisputeResolution.6.2.Alt1.sec=[by arbitration in accordance with the [name of rules of the arbitration institution] (the “Arbitration Rules”) in effect on the date of this Agreement.   The number of arbitrators shall be [one] [three].  The seat of arbitration shall be [seat] and the place shall be [place].  The language of the proceedings shall be [language]. [The provisions for expedited procedures contained in [section or article] of the Arbitration Rules shall apply irrespective of the amount in dispute.  The parties further agree that following the commencement of arbitration, they will continue to attempt in good faith to reach a negotiated resolution of the Dispute.
+DisputeResolution.6.2.Alt1.sec=by arbitration in accordance with the [name of rules of the arbitration institution] (the “{DefT.Arbitration_Rules}”) in effect on the date of this Agreement.   The number of arbitrators shall be [one] [three].  The seat of arbitration shall be [seat] and the place shall be [place].  The language of the proceedings shall be [language]. [The provisions for expedited procedures contained in [section or article] of the Arbitration Rules shall apply irrespective of the amount in dispute.  The parties further agree that following the commencement of arbitration, they will continue to attempt in good faith to reach a negotiated resolution of the Dispute.
 
 
 Official Note=[Alternative B for litigation:] 
@@ -306,13 +303,13 @@ Official Note=[Only for use with Alternative A for arbitration:]
 
 DisputeResolution.7.Ti=Emergency Measures
 
-DisputeResolution.7.sec=Notwithstanding any provision of this Agreement or any applicable institutional rules, any party may obtain emergency measures at any time to address a Zero Tolerance Activity or any other imminent threat to health, safety, or physical liberty (including without limitation the holding of workers in locked barracks or the unavailability of accessible and unlocked emergency exits).  In addition, a party may make an application for emergency relief to the [name of institution] (the “Arbitration Institution”] for emergency measures under the arbitration rules of the Arbitration Institution as in effect on the date of this Agreement.   If and only if the arbitral tribunal does not have the power to grant effective emergency measures or other specific relief may a party apply for relief to a court of competent jurisdiction that possesses the power to grant effective emergency measures.]
+DisputeResolution.7.sec=Notwithstanding any provision of this Agreement or any applicable institutional rules, any party may obtain emergency measures at any time to address a {_Zero_Tolerance_Activity} or any other imminent threat to health, safety, or physical liberty (including without limitation the holding of workers in locked barracks or the unavailability of accessible and unlocked emergency exits).  In addition, a party may make an application for emergency relief to the [name of institution] (the “{DefT.Arbitration_Institution}”) for emergency measures under the arbitration rules of the Arbitration Institution as in effect on the date of this Agreement.   If and only if the arbitral tribunal does not have the power to grant effective emergency measures or other specific relief may a party apply for relief to a court of competent jurisdiction that possesses the power to grant effective emergency measures.
 
 Official Note=[Only for use with Alternative A for arbitration:]
 
 DisputeResolution.8.Ti=Arbitration Award
 
-DisputeResolution.8.sec=The arbitrator(s) may grant any remedy or relief set forth in Article {BuyerRemedy.Xnum} or elsewhere in this Agreement and that a court of competent jurisdiction could grant, except that the arbitrators may not grant any relief or remedy greater than that sought by the parties, nor any punitive damages.  The award shall include compliance with a Remediation Plan as contemplated by Article {RemediatingAdverseImpacts.Xnum} above. [The arbitration tribunal shall send a copy of each final order, decision and award to [title of official and name of institution] so that the public may have access to such documents, provided that, prior to sending any such document to such repository, such arbitration tribunal, in consultation with each of the parties, shall redact any information from such document that would (a) would reveal the identity of any party that wishes to remain anonymous; or (b) disclose any other information (including without limitation the amount of any award, any proprietary information or any trade secrets) that a party wishes to remain confidential.]
+DisputeResolution.8.sec=The arbitrator(s) may grant any remedy or relief set forth in Article {BuyerRemedy.Xnum} or elsewhere in this Agreement and that a court of competent jurisdiction could grant, except that the arbitrators may not grant any relief or remedy greater than that sought by the parties, nor any punitive damages.  The award shall include compliance with a {_Remediation_Plan} as contemplated by Article {RemediatingAdverseImpacts.Xnum} above. [The arbitration tribunal shall send a copy of each final order, decision and award to [title of official and name of institution] so that the public may have access to such documents, provided that, prior to sending any such document to such repository, such arbitration tribunal, in consultation with each of the parties, shall redact any information from such document that would (a) would reveal the identity of any party that wishes to remain anonymous; or (b) disclose any other information (including without limitation the amount of any award, any proprietary information or any trade secrets) that a party wishes to remain confidential.]
 
 DisputeResolution.=[G/Z/ol/8]
 
@@ -326,49 +323,54 @@ DefT.OLGM={_OLGM}
 
 _OLGM=<a class='definedterm' href='{!!!}DefT.OLGM'>OLGM</a>
 
-=[G/Z/ol/8]
+DefT.OECD_Due_Diligence_Guidance={_OECD_Due_Diligence_Guidance}
 
+_OECD_Due_Diligence_Guidance=<a class='definedterm' href='{!!!}DefT.OECD_Due_Diligence_Guidance'>OECD Due Diligence Guidance</a>
 
-xlist=<ol><li>{ObligationToCombatAbuse.Sec}</li><li>{RemediatingAdverseImpacts.Sec}</li><li>{RejectionOfGoods.Sec}</li><li>{RevocationOfAcceptance.Sec}</li><li>{Nonvariation.Sec}</li><li>{BuyerRemedy.Sec}</li><li>{Disclaim.Sec}</li><li>{DisputeResolution.Sec}</li></ol>
+DefT.Zero_Tolerance_Activity=<a class='definedterm' href='{!!!}DefT.Zero_Tolerance_Activity'>Zero_Tolerance_Activity</a>
+
+_Zero_Tolerance_Activity=<a class='definedterm' href='{!!!}DefT.Zero_Tolerance_Activity'>Zero Tolerance Activity</a>
+
+=[G/Z/Base]
+
 
 
 ObligationToCombatAbuse.Xnum=<a class='xref' href='{!!!}ObligationToCombatAbuse.Sec'>1</a>
 
-ObligationToCombatAbuse.1.Xnum=<a class='xref' href='{!!!}ObligationToCombatAbuse.1.Sec'>1.1</a>
-ObligationToCombatAbuse.2.Xnum=<a class='xref' href='{!!!}ObligationToCombatAbuse.2.Sec'>1.2</a>
-ObligationToCombatAbuse.3.Xnum=<a class='xref' href='{!!!}ObligationToCombatAbuse.3.Sec'>1.3</a>
-ObligationToCombatAbuse.4.Xnum=<a class='xref' href='{!!!}ObligationToCombatAbuse.4.Sec'>1.4</a>
+ObligationToCombatAbuse.1.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.1.Sec'>1</a>
+ObligationToCombatAbuse.2.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.2.Sec'>2</a>
+ObligationToCombatAbuse.3.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.3.Sec'>3</a>
+ObligationToCombatAbuse.4.Xnum={ObligationToCombatAbuse.Xnum}.<a class='xref' href='{!!!}ObligationToCombatAbuse.4.Sec'>4</a>
 
-RemediatingAdverseImpacts.Sec'>2</a>
-RemediatingAdverseImpacts.NoticeOfViolation.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.NoticeOfViolation.Sec'>2.1</a>
-RemediatingAdverseImpacts.NoticeOfViolation.4.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.NoticeOfViolation.4.sec'>2.1.(d)</a>
-RemediatingAdverseImpacts.RemediationPlan.2.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.2.sec'>2.3(b)</a>
-RemediatingAdverseImpacts.RemediationPlan.6.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.6.sec'>2.3(f)</a>
-RemediatingAdverseImpacts.RemediationPlan.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.sec'>2.3</a>
-RemediatingAdverseImpacts.RightToCure.2.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToCure.2.sec'>2.4(b)</a>
-RemediatingAdverseImpacts.RightToCure.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToCure.Sec'>2.4</a>
-RemediatingAdverseImpacts.RightToTerminate.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToTerminate.Sec'>2.5</a>
-RemediatingAdverseImpacts.Xnum=<a class='xref' href='{!!!}
+RemediatingAdverseImpacts.Xnum=<a class='xref' href='{!!!}RemediatingAdverseImpacts.Sec'>2</a>
+RemediatingAdverseImpacts.NoticeOfViolation.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.NoticeOfViolation.Sec'>1</a>
+RemediatingAdverseImpacts.NoticeOfViolation.4.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.NoticeOfViolation.4.sec'>1.(d)</a>
+RemediatingAdverseImpacts.RemediationPlan.2.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.2.sec'>3(b)</a>
+RemediatingAdverseImpacts.RemediationPlan.6.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.6.sec'>3(f)</a>
+RemediatingAdverseImpacts.RemediationPlan.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RemediationPlan.sec'>3</a>
+RemediatingAdverseImpacts.RightToCure.2.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToCure.2.sec'>4(b)</a>
+RemediatingAdverseImpacts.RightToCure.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToCure.Sec'>4</a>
+RemediatingAdverseImpacts.RightToTerminate.Xnum={RemediatingAdverseImpacts.Xnum}.<a class='xref' href='{!!!}RemediatingAdverseImpacts.RightToTerminate.Sec'>5</a>
 
 
 RejectionOfGoods.Xnum=<a class='xref' href='{!!!}RejectionOfGoods.Sec'>3</a>
-RejectionOfGoods.1.1.Xnum=<a class='xref' href='{!!!}RejectionOfGoods.1.1.sec'>3.1(a)</a>
-RejectionOfGoods.1.3.Xnum=<a class='xref' href='{!!!}RejectionOfGoods.1.3.sec'>3.1(c)</a>
-RejectionOfGoods.1.Xnum=<a class='xref' href='{!!!}RejectionOfGoods.1.Sec'>3.1</a>
-RejectionOfGoods.3.5.Xnum=<a class='xref' href='{!!!}RejectionOfGoods.3.5.sec'>3.3(e)</a>
-RejectionOfGoods.3.Xnum=<a class='xref' href='{!!!}RejectionOfGoods.3.Sec'>3.3</a>
-RejectionOfGoods.4.1.Xnum=<a class='xref' href='{!!!}RejectionOfGoods.4.1.sec'>3.4(a)</a>
+RejectionOfGoods.1.Xnum={RejectionOfGoods.Xnum}.<a class='xref' href='{!!!}RejectionOfGoods.1.Sec'>1</a>
+RejectionOfGoods.1.1.Xnum={RejectionOfGoods.Xnum}.<a class='xref' href='{!!!}RejectionOfGoods.1.1.sec'>1(a)</a>
+RejectionOfGoods.1.3.Xnum={RejectionOfGoods.Xnum}.<a class='xref' href='{!!!}RejectionOfGoods.1.3.sec'>1(c)</a>
+RejectionOfGoods.3.Xnum={RejectionOfGoods.Xnum}.<a class='xref' href='{!!!}RejectionOfGoods.3.Sec'>3</a>
+RejectionOfGoods.3.5.Xnum={RejectionOfGoods.Xnum}.<a class='xref' href='{!!!}RejectionOfGoods.3.5.sec'>3(e)</a>
+RejectionOfGoods.4.1.Xnum={RejectionOfGoods.Xnum}.<a class='xref' href='{!!!}RejectionOfGoods.4.1.sec'>4(a)</a>
 
 RevocationOfAcceptance.Xnum=<a class='xref' href='{!!!}RevocationOfAcceptance.Sec'>4</a>
 
 BuyerRemedy.Xnum=<a class='xref' href='{!!!}BuyerRemedy.Sec'>6</a>
-BuyerRemedy.2.Xnum=<a class='xref' href='{!!!}BuyerRemedy.2.Sec'>6.2</a>
-BuyerRemedy.2.5.Xnum=<a class='xref' href='{!!!}BuyerRemedy.2.5.sec'>6.2(e)</a>
-BuyerRemedy.5.1.Xnum=<a class='xref' href='{!!!}BuyerRemedy.5.1.sec'>6.5(a)</a>
+BuyerRemedy.2.Xnum={BuyerRemedy.Xnum}.<a class='xref' href='{!!!}BuyerRemedy.2.Sec'>2</a>
+BuyerRemedy.2.5.Xnum={BuyerRemedy.Xnum}.<a class='xref' href='{!!!}BuyerRemedy.2.5.sec'>2(e)</a>
+BuyerRemedy.5.1.Xnum={BuyerRemedy.Xnum}.<a class='xref' href='{!!!}BuyerRemedy.5.1.sec'>5(a)</a>
 
 DisputeResolution.Xnum=<a class='xref' href='{!!!}DisputeResolution.Sec'>8</a>
-DisputeResolution.4.Xnum=<a class='xref' href='{!!!}DisputeResolution.4.Sec'>8.4</a>
-DisputeResolution.5.Xnum=<a class='xref' href='{!!!}DisputeResolution.5.Sec'>8.5</a>
-DisputeResolution.6.Xnum=<a class='xref' href='{!!!}DisputeResolution.6.Sec'>8.6</a>
+DisputeResolution.4.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.4.Sec'>4</a>
+DisputeResolution.5.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.5.Sec'>5</a>
+DisputeResolution.6.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.6.Sec'>6</a>
 
 !!!=#

@@ -330,16 +330,16 @@ r00t={H.Sec}
 List.=[G/Z/ol/s52]
 
 
-Footnote_9=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/9.md">9</a></sup>
+Footnote_9=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/9.md">9</a></sup>
 
-Footnote_10=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/10.md">10</a></sup>
+Footnote_10=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/10.md">10</a></sup>
 
-Footnote_11=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/11.md">11</a></sup>
+Footnote_11=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/11.md">11</a></sup>
 
-Footnote_12=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/12.md">12</a></sup>
+Footnote_12=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/12.md">12</a></sup>
 
-Footnote_13=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/13.md">13</a></sup>
+Footnote_13=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/13.md">13</a></sup>
 
-Footnote_14=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/14.md">14</a></sup>
+Footnote_14=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/14.md">14</a></sup>
 
-Footnote_15=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/15.md">15</a></sup>
+Footnote_15=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/15.md">15</a></sup>

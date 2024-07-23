@@ -1,4 +1,4 @@
-Note=This is a set of terms for a Master Supply Agreement.  The terms can be viewed in <a href="index.php?action=doc&file=G/Agt-MasterService-CmA/Demo/Acme-Quake/TermSheet.md">a Term Sheet</a> or in <a href="index.php?action=doc&file=G/Agt-MasterService-CmA/Demo/Acme-Quake/Agreement.md">the full document</a>
+Note=This is a set of terms for a Master Supply Agreement.  The terms can be viewed in <a href="i.php?v=d&f=G/Agt-MasterService-CmA/Demo/Acme-Quake/TermSheet.md">a Term Sheet</a> or in <a href="i.php?v=d&f=G/Agt-MasterService-CmA/Demo/Acme-Quake/Agreement.md">the full document</a>
 
 Note=<b>Parties</b>
 

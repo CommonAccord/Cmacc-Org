@@ -8,14 +8,14 @@ Ti=Tech Stack:
 
 3.sec=Implementations: browser, app, graph, applications
 
-4.sec=<a href="index.php?action=doc&file=GH/KantaraInitiative/UMA-Text/0.md">Access Management</a>
+4.sec=<a href="i.php?v=d&f=GH/KantaraInitiative/UMA-Text/0.md">Access Management</a>
 
 5.sec=Run:  smart contracts, queries, scripts
    
 6.sec=CRUD, Share
 
-7.sec=<a href="index.php?action=doc&file=OTF/ProseObject-Stack/Cmacc_0.md">Cmacc</a>
+7.sec=<a href="i.php?v=d&f=OTF/ProseObject-Stack/Cmacc_0.md">Cmacc</a>
 
-00.sec=</center><br><a href="index.php?action=doc&file=OTF/ProseObject-Stack/Legal/Documents_0.md">Legal Documents</a>
+00.sec=</center><br><a href="i.php?v=d&f=OTF/ProseObject-Stack/Legal/Documents_0.md">Legal Documents</a>
 
 =[G/Z/paras/s7]

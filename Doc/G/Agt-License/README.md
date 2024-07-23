@@ -2,4 +2,4 @@ This is an effort to suggest/define/iterate/converge-on a common ontology for "l
 
 
 
-A good place to start:  <a href="index.php?action=source&file=G/Agt-License/Outline/0.md"</a>[G/Agt-License/Outline/0.md]
+A good place to start:  <a href="i.php?v=s&f=G/Agt-License/Outline/0.md"</a>[G/Agt-License/Outline/0.md]

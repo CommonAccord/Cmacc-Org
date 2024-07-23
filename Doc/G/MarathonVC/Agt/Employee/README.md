@@ -1,1 +1,1 @@
-Separate repo for /G/MarathonVC/Agt/Employee/.  See http://CommonAccord.Org/index.php?action=source&file=G/MarathonVC/Demo/Acme_Barbara-OReilly_Employment.md
+Separate repo for /G/MarathonVC/Agt/Employee/.  See http://CommonAccord.Org/i.php?v=s&f=G/MarathonVC/Demo/Acme_Barbara-OReilly_Employment.md

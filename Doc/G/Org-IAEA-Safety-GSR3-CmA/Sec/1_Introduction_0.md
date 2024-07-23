@@ -250,18 +250,18 @@ H.=[G/Z/paras/4]
 
 1.=[G/Z/ol/s55]
   
-Foot1=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/1.md">1</a></sup>
+Foot1=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/1.md">1</a></sup>
 
-Foot2=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/2.md">2</a></sup>
+Foot2=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/2.md">2</a></sup>
 
-Foot3=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/3.md">3</a></sup>
+Foot3=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/3.md">3</a></sup>
 
-Foot4=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/4.md">4</a></sup>  
+Foot4=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/4.md">4</a></sup>  
 
-Foot5=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/5.md">5</a></sup>
+Foot5=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/5.md">5</a></sup>
 
-Foot6=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/6.md">6</a></sup>
+Foot6=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/6.md">6</a></sup>
 
-Foot7=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/7.md">7</a></sup>
+Foot7=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/7.md">7</a></sup>
 
-Foot8=<sup><a href="index.php?action=doc&file=G/Org-IAEA-Safety-GSR3-CmA/Footnote/8.md">8</a></sup>
+Foot8=<sup><a href="i.php?v=d&f=G/Org-IAEA-Safety-GSR3-CmA/Footnote/8.md">8</a></sup>

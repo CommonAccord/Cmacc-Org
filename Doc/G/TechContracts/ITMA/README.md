@@ -5,5 +5,5 @@ The original is at github.com/TechContractsAcademy.
 
 A fork is at github.com/CommonAccord
 
-The document can be viewed at http://www.commonaccord.org/index.php?action=doc&file=G/TechContracts/ITMA/Demo/Acme-Quake.md
+The document can be viewed at http://www.commonaccord.org/i.php?v=d&f=G/TechContracts/ITMA/Demo/Acme-Quake.md
 
