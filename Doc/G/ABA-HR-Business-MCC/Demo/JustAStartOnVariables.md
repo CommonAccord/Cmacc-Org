@@ -1,18 +1,30 @@
-Buyer_and_Supplier_each//Supplier=Supplier 
+Buyer and Supplier each//Supplier=Supplier 
 
 shareholders/partners, officers, directors, employees, agents//agents=agents
 
-the_other_party//Buyer=Buyer
+the other party//Buyer=Buyer
 
-.//AndAsSpecifiedForGeneral.cl={AndAsSpecifiedForGeneral.cl}
+NULL//AndAsSpecifiedForGeneral.cl={AndAsSpecifiedForGeneral.cl}
 
-in_compliance_with//equivalent_to_those_imposed_by//at least as protective as those imposed by=in compliance with
+in compliance with//equivalent to those imposed by//at least as protective as those imposed by=in compliance with
 
-purchasing_practices//purchasing_practices_in accordance_with_Schedule_Q=purchasing practices
+purchasing practices//purchasing practices in accordance with Schedule Q=purchasing practices
 
-applicable_law//applicable_law_and_International_Labour_Organisation_norms=applicable law
+applicable law//applicable law and International Labour Organisation norms=applicable law
+
+RemediatingAdverseImpacts.RightToCure.NULL//commercially reasonable=</i>
+
+RemediatingAdverseImpacts.RightToCure.CurePeriod.sec={RemediatingAdverseImpacts.RightToCure.CurePeriod.Alt2.sec}
 
 Avoiding//Cancelling=Cancelling
+
+cancelled//avoided=cancelled
+
+cancel//avoid=cancel
+
+cancellation//avoidance=cancellation
+
+Cancellation//Avoidance=Cancellation
 
 LiquidatedDamagesFormula.cl=Supplier will pay Buyer liquidated damages in the amount of Five Hundred US Dollars for each day that the Supplier fails to comply with the requirements of this Agreement, up to a maximum of Twenty-Thousand US Dollars
 
@@ -22,13 +34,13 @@ Supplier.Notice.NameTitleEmail.cl=Sam Slick, Product Manager, sslick@chartruese-
 
 Buyer.Notice.NameTitleEmail.cl=Bert Best, Procurement Manager, bertie@megacorp.com
 
-.//which_may_include_Supplier_training,_upgrading_facilities,_and_strengthening_management_systems.=which may include Supplier training, upgrading facilities, and strengthening management systems.
+NULL//which may include Supplier training, upgrading facilities, and strengthening management systems=which may include Supplier training, upgrading facilities, and strengthening management systems
 
-business_conduct//BusinessConductIncludingMinimumWage.cl={BusinessConductIncludingMinimumWage.cl}
+business conduct//BusinessConductIncludingMinimumWage.cl={BusinessConductIncludingMinimumWage.cl}
 
-amending_the_modification//amending_the_modification_consistent_with Schedule_Q=amending the modification consistent with Schedule Schedule_Q
+amending the modification//amending the modification consistent with Schedule Q=amending the modification consistent with Schedule Schedule Q
 
-RemediatingAdverseImpacts.NoticeOfViolation.SchedulePBreach.days=fifteen (15) days
+RemediatingAdverseImpacts.NoticeOfViolation.SchedulePBreach.SupplierResponse.MaxTime.days=fifteen (15) days
 
 Mediation.RespondToInvitationWithin.days=ten (10) days
 
