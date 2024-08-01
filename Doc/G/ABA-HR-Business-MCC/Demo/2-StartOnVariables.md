@@ -10,6 +10,12 @@ in compliance with//equivalent to those imposed by//at least as protective as th
 
 purchasing practices//purchasing practices in accordance with Schedule Q=purchasing practices
 
+Schedule::P//PandScheduleQ=Schedule P
+
+Schedule::P//P,ScheduleQ=Schedule P
+
+Schedule::P//PorScheduleQ=Schedule P
+
 NULL//which may include Supplier training, upgrading facilities, and strengthening management systems=</a>
 
 ObligationToCombatAbuse.BuyerSupportOfSupplier.BusinessConduct.sec={ObligationToCombatAbuse.BuyerSupportOfSupplier.BusinessConduct.Alt1.sec}
@@ -60,11 +66,15 @@ DisputeResolution.Amiable.MaxTimeToResolve.days=twenty (20) days
 
 DisputeResolution.Amiable.MaxTimeAfterFailureToDecideToMediate.days=ten (10) days
 
-Arbitration.Institution.Rules.Name=International Chamber of Commerce Mediation Rules
+Arbitration.Institution.MediationRules.Name=ICC Mediation Rules
+
+Arbitration.Institution.ArbitrationRules.Name=ICC Arbitration Rules
 
 DisputeResolution.language=English
 
 Mediation.RespondToInvitationWithin.days=ten (10) business days
+
+Arbitration//Litigation=Arbitration
 
 arbitration//litigation=arbitration
 
@@ -73,6 +83,8 @@ Arbitration.Institution.Name=International Chamber of Commerce
 DisputeResolution.Mediate.MaxTime.days=thirty (30) days
 
 DisputeResolution.Formal.2.sec={DisputeResolution.Formal.2.Alt1.sec}
+
+Arbitration.Institution.Secretary.Title=Secretary General
 
 Arbitration.Arbitrators.number=one (1)
 
