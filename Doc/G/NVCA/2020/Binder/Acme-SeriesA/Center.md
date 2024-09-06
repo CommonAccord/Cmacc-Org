@@ -477,7 +477,7 @@ COI.SecName=COI.
 
 COI.Link=<a href='{SourceRoot!!}COI.r00t'>Certificate of Incorporation Link</a>
 
-SourceRoot!!=i.php?v=d&f=G/NVCA/2020/Binder/Acme-SeriesA/Acme-2022.md&{kParty!!!}
+SourceRoot!!=i.php?v=d&f=G/NVCA/2020/Binder/Acme-SeriesA/Center.md&{kParty!!!}
 
 kParty!!!=k=
 
