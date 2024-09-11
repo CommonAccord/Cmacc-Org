@@ -37,6 +37,10 @@ Critical_harm=<a class='definedterm' href='{!!!}DefT.Critical_harm'>Critical har
 
 critical_harms=<a class='definedterm' href='{!!!}DefT.Critical_harm'>critical harms</a>
 
+critical_infrastructure=<a class='definedterm' href='{!!!}DefT.Critical_infrastructure'>critical infrastructure</a>
+
+Critical_infrastructure=<a class='definedterm' href='{!!!}DefT.Critical_infrastructure'>Critical infrastructure</a>
+
 developer=<a class='definedterm' href='{!!!}DefT.Developer'>developer</a>
 
 Developer=<a class='definedterm' href='{!!!}DefT.Developer'>Developer</a>
