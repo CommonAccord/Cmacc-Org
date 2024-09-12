@@ -2,7 +2,7 @@
 
 1.0.sec=Prevent an {_employee} from disclosing information to the Attorney General or the Labor Commissioner, including through terms and conditions of employment or seeking to enforce terms and conditions of employment if the {_employee} has reasonable cause to believe the information indicates either of the following:
 
-1.1.sec=The {_developer} is out of compliance with the requirements of Section 22603.
+1.1.sec=The {_developer} is out of compliance with the requirements of Section {22603.Xnum}.
 
 1.2.sec=An {_artificial_intelligence} model, including a model that is not a {_covered_model} or a {_covered_model_derivative}, poses an unreasonable risk of causing or materially enabling {_critical_harm}, even if the employer is not out of compliance with any law.
 

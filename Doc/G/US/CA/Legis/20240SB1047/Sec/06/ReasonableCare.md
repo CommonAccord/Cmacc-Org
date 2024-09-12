@@ -1,4 +1,4 @@
-0.sec=In determining whether the {_developer} exercised reasonable care as required in Section 22603, all of the following considerations are relevant but not conclusive:
+0.sec=In determining whether the {_developer} exercised reasonable care as required in Section {22603.Xnum}, all of the following considerations are relevant but not conclusive:
 
 1.sec=The quality of a {_developer}’s {_safety_and_security_protocol}.
 
