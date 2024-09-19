@@ -14,7 +14,7 @@ Ti=Critical Harm
 
 1.3.=[G/Z/ol-i/s2]
 
-1.4.sec=Other grave harms to public safety and security that are of comparable severity to the harms described in subparagraphs (A) to (C), inclusive.
+1.4.sec=Other grave harms to public safety and security that are of comparable severity to the harms described in subparagraphs {1.1.Xnum} to {1.3.Xnum}, inclusive.
 
 1.=[G/Z/ol-AA/s4]
 
@@ -31,3 +31,7 @@ Ti=Critical Harm
 3.sec=On and after January 1, 2026, the dollar amounts in this subdivision shall be adjusted annually for inflation to the nearest one hundred dollars ($100) based on the change in the annual California Consumer Price Index for All Urban Consumers published by the Department of Industrial Relations for the most recent annual period ending on December 31 preceding the adjustment.
 
 =[G/Z/ol/s3]
+
+=[G/US/CA/Legis/20240SB1047/Sec/Xref.md]
+
+!!!=#

@@ -3,7 +3,7 @@ advanced_persistent_threat=<a class='definedterm' href='{!!!}DefT.Advanced_persi
 
 Advanced_persistent_threat=<a class='definedterm' href='{!!!}DefT.Advanced_persistent_threat'>Advanced persistent threat</a>
 
-advanced_persistent_threats=<a class='definedterm' href='{!!!}DefT.Advanced_persistent_threat'>advanced_persistent_threats</a>
+advanced_persistent_threats=<a class='definedterm' href='{!!!}DefT.Advanced_persistent_threat'>advanced persistent threats</a>
 
 artificial_intelligence_safety_incident=<a class='definedterm' href='{!!!}DefT.Artificial_intelligence_safety_incident'>artificial intelligence safety incident</a>
 

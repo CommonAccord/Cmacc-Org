@@ -12,7 +12,7 @@ Ti=Covered Model Derivative
 
 3.1.=[G/Z/ol-i/s2]
 
-3.2.sec=If the Government Operations Agency does not adopt a regulation governing clause (ii) of subparagraph (A) by January 1, 2027, the quantity of computing power specified in clause (i) of subparagraph (A) shall continue to apply until the regulation is adopted.
+3.2.sec=If the Government Operations Agency does not adopt a regulation governing clause {3.1.2.Xnum} of subparagraph {3.1.Xnum} by January 1, 2027, the quantity of computing power specified in clause {3.1.1.Xnum} of subparagraph {3.1.Xnum} shall continue to apply until the regulation is adopted.
 
 3.=[G/Z/ol-AA/s2]
 
@@ -20,3 +20,6 @@ Ti=Covered Model Derivative
 
 =[G/Z/ol/s4]
 
+=[G/US/CA/Legis/20240SB1047/Sec/Xref.md]
+
+!!!=#
