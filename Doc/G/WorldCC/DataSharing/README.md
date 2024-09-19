@@ -6,7 +6,7 @@ In this repo, we suggest section names for the major headings of data sharing ag
 
 This repository is organized as a variety of lists of outlines in  "/Outline/".  Each outine has a set of suggested headings.  The headings are largely self-explanatory.  They will also be controversial - different people will have different views about the best order, different industries will have different needs and customs.  Nothing here is set in stone.  The purpose is to focus discussion on a specific set and get feedback, pushback, alternatives.  The modular format of "prose objects" and the platform of git and Github are designed precisely to enable broad collaboration and difference of opinion. <br>
 
-To see this document in action, please go to <a href="http://www.commonaccord.org/i.php?v=l&f=OTF/WorldCC/DataSharing/">http://www.commonaccord.org/i.php?v=l&f=OTF/WorldCC/DataSharing/</a><br>
+To see this document in action, please go to <a href="http://www.commonaccord.org/i.php?v=l&f=G/WorldCC/DataSharing/">http://www.commonaccord.org/i.php?v=l&f=G/WorldCC/DataSharing/</a><br>
 
 To make suggestions, please do a "pull request" here at GitHub.com/WorldCC/WorldCC/DataSharing, or send a message to your WorldCC contact, or wlawson@WorldCC.com.</a>
 

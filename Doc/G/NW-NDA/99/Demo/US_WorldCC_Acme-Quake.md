@@ -6,4 +6,4 @@ CodersNote=We reference the form of agreement:
 
 =[G/WorldCC/NDA-Design/Form/0.md]  
 
-CodersNote=See also the taxonomy of NDA provisions of the WorldCC at [OTF/WorldCC/NDA-Taxonomy/Form/AgreementFrameWithSomeSection.md].
+CodersNote=See also the taxonomy of NDA provisions of the WorldCC at [G/WorldCC/NDA-Taxonomy/Form/AgreementFrameWithSomeSection.md].
