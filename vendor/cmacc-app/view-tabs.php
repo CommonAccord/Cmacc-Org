@@ -37,7 +37,7 @@ echo "<a href=i.php?v=p&f=$dir&k=$keyName>Print</a> ";
 
 echo "Technical: " ;
 
-echo "<a href=i.php?v=m&f=$dir&k=$keyName>". "OpenParameters" ."</a> ";
+echo "<a href=i.php?v=o&f=$dir&k=$keyName>". "OpenParameters" ."</a> ";
 
 echo "<a href=i.php?v=x&f=$dir&k=$keyName>Xray</a> ";
 
