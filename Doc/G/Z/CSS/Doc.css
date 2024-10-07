@@ -129,3 +129,13 @@ span :hover {
         color: #aa00a7 ;
        
 }
+
+.ftnt {
+	color: darkblue ;
+        text-decoration: none;
+	font-weight: 550 ;
+        vertical-align: super;
+        font-size:smaller;
+
+
+}  
