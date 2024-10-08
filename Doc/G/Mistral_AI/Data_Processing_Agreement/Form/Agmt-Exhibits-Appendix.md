@@ -14,13 +14,15 @@ _=[G/Mistral_AI/Data_Processing_Agreement/Sec/_.md]
 
 DefT.=[G/Mistral_AI/Data_Processing_Agreement/Sec/_.md]
 
-Exh.DescriptionOfProcessing.Xnum=<a href="#Exh.DescriptionOfProcessing.Ti">1</a>
+Exh.DescriptionOfProcessing.Xnum=<a href="{!!!}Exh.DescriptionOfProcessing.Ti">1</a>
 
-Exh.StandardContractClauses.Xnum=<a href="#Exh.StandardContractClauses.Ti">2</a>
+Exh.StandardContractClauses.Xnum=<a href="{!!!}Exh.StandardContractClauses.Ti">2</a>
 
-Annex.I.Xnum=<a href="#Annex.I.Sec">I</a>
+Annex.I.Xnum=<a href="{!!!}Annex.I.Sec">I</a>
 
-Annex.PartyList.Xnum={Annex.I.Xnum}.<a href="#Annex.I.PartyList.Sec">A</a>
+Annex.PartyList.Xnum={Annex.I.Xnum}.<a href="{!!!}Annex.I.PartyList.Sec">A</a>
 
-Annex.TransferDescription.Xnum={Annex.I.Xnum}.<a href="#Annex.I.TransferDescription.Sec">B</a>
+Annex.TransferDescription.Xnum={Annex.I.Xnum}.<a href="{!!!}Annex.I.TransferDescription.Sec">B</a>
 
+
+!!!=#
