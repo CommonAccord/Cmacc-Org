@@ -12,7 +12,7 @@ foreach($contents as $n) {
 
 # split the line into key, value, and comment.
         list($k, $vc) = array_pad( explode ("=", $n, 2), 2, null);
-        list($v, $c) = array_pad( explode ("//", $vc, 2), 2, null);
+        list($v, $c) = array_pad( explode ("///", $vc, 2), 2, null);
        
 	//for remote files via http
         if(preg_match('/\[http(.+?)\]/', $v, $matches)) {
