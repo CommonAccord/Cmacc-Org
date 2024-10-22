@@ -10,7 +10,9 @@ MS-DUA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md] ///Microsoft - Open Use o
 
 EU_AI_Act:=[G/EU/Artificial_Intelligence_Act/0.md] /// Only partially implemented, it is very long.
 
-DefinitionsLibrary.sec=<ol><li><b>Open Source AI Definition</b><br>{OpenSource_AI_Definition.Def.Sec}</li><li><b>California SB 1047</b><br>{Calif_SB1047.Def.Sec}</li><li><b>Mistral Data Processing Agreement</b><br>{MistralDataProcessing.Agmt.Def.Sec}</li><li><b>Microsoft Data Use Agreement for Open AI Model</b><br>{MS-DUA-AI-Dev.Def.Sec}</li><li><b>Microsoft Open Use of Data Agreement</b><br>{MS-DUA.Def.Sec}</li><li><b>EU Artificial Intelligence Act</b><br>{EU_AI_Act:Def.Sec}</li></ol>
+Open-Weights.=[G/Open-Weights/Pr0b/Def-License.md]
+
+DefinitionsLibrary.sec=<ol><li><b>Open Source AI Definition</b><br>{OpenSource_AI_Definition.Def.Sec}</li><li><b>California SB 1047</b><br>{Calif_SB1047.Def.Sec}</li><li><b>Mistral Data Processing Agreement</b><br>{MistralDataProcessing.Agmt.Def.Sec}</li><li><b>Microsoft Data Use Agreement for Open AI Model</b><br>{MS-DUA-AI-Dev.Def.Sec}</li><li><b>Microsoft Open Use of Data Agreement</b><br>{MS-DUA.Def.Sec}</li><li><b>EU Artificial Intelligence Act</b><br>{EU_AI_Act:Def.Sec}</li><li><b>Open-Weights</b><br>{Open-Weights.Def.Sec}</li></ol>
 
 Note=These fiddly things are needed to make the cross-references and defined term links in the texts correctly refer to the text targets when rendered via prefixing, i.e., by clicking on one of the prefixes on the left above.  This is a recursive system.    
 
@@ -26,5 +28,6 @@ MS-DUA.!!!={!!!}MS-DUA.
 
 EU_AI_Act:!!!={!!!}EU_AI_Act:
 
+Open-Weights.!!!={!!!}Open-Weights.
 
 !!!=#
