@@ -2426,7 +2426,7 @@ Article 78
 
 78.1.0.sec=The Commission, market surveillance authorities and {_notified_bodies} and any other natural or legal person involved in the application of this Regulation shall, in accordance with Union or national law, respect the confidentiality of information and data obtained in carrying out their tasks and activities in such a manner as to protect, in particular:
 
-78.1.1.sec=the intellectual property rights and confidential business information or trade secrets of a natural or legal person, including source code, except in the cases referred to in Article 5 of Directive (EU) 2016/943 of the European Parliament and of the Council (57);
+78.1.1.sec=the intellectual property rights and confidential business information or trade secrets of a natural or legal person, including source code, except in the cases referred to in Article 5 of Directive (EU) 2016/943 of the European Parliament and of the Council {FtNt.57.Xnum};
 
 78.1.2.sec=the effective implementation of this Regulation, in particular for the purposes of inspections, investigations or audits;
 
@@ -3041,7 +3041,7 @@ Article 108
 
 108.0.sec=Regulation (EU) 2018/1139 is amended as follows:
 
-108.1.0.sec=(1) in Article 17, the following paragraph is added:
+108.1.0.sec=in Article 17, the following paragraph is added:
 
 108.1.1.sec=‘3.   Without prejudice to paragraph 2, when adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*7), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
 
@@ -3049,38 +3049,38 @@ Article 108
 
 108.1.=[G/Z/ol-none/s2]
 
-108.2.0.sec=(2)  in Article 19, the following paragraph is added:
+108.2.0.sec=in Article 19, the following paragraph is added:
 
 108.2.1.sec=‘4.   When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’ ;
 
 108.2.=[G/Z/ol-none/s1]
 
-108.3.0.sec=(3) in Article 43, the following paragraph is added:
+108.3.0.sec=in Article 43, the following paragraph is added:
 
 108.3.1.sec=‘4.  When adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’;
 
 108.3.=[G/Z/ol-none/s1]
 
 
-108.4.0.sec=(4) in Article 47, the following paragraph is added:
+108.4.0.sec=in Article 47, the following paragraph is added:
 
 108.4.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’;
 
 108.4.=[G/Z/ol-none/s1]
 
-108.5.0.sec=(5) in Article 57, the following subparagraph is added:
+108.5.0.sec=in Article 57, the following subparagraph is added:
 
 108.5.1.sec=‘When adopting those implementing acts concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’;
 
 108.5.=[G/Z/ol-none/s1]
 
-108.6.0.sec=(6) in Article 58, the following paragraph is added:
+108.6.0.sec=in Article 58, the following paragraph is added:
 
 108.6.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.’.
 
 108.6.=[G/Z/ol-none/s1]
 
-108.=[G/Z/ol-none/s6]
+108.=[G/Z/ol/s6]
 
 Article 109
 
@@ -3096,7 +3096,7 @@ Article 110
 
 110.Ti=Amendment to Directive (EU) 2020/1828
 
-110.0.sec=In Annex I to Directive (EU) 2020/1828 of the European Parliament and of the Council (58), the following point is added:
+110.0.sec=In Annex I to Directive (EU) 2020/1828 of the European Parliament and of the Council {FtNt.58.Xnum}, the following point is added:
 
 110.1.sec=‘(68) Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).’.
 
