@@ -108,7 +108,9 @@ elsif (substr($_, 0, 1) eq "_") {
 }
 
 elsif(substr($_, -5 ) eq ".Xnum") {
-	print "$_=<a class='xref' href='{!!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n";	
+ 	print "$_=<a class='xref' href='{!!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n";	
+# to make FtNt. into a hyperlink	
+#	print substr($_ , 5) . "=<a class='xref' href='{!!!}" . substr($_, 5, -5) . ".sec'>" . substr($_, 5, -5)."</a>\n";	
 		}
 
 else { print $_ . "=\n"; }

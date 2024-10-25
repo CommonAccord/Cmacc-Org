@@ -1,8 +1,8 @@
 ANNEX XIII
 
-Ti=Criteria for the designation of {_general-purpose_AI_models} with {_systemic_risk} referred to in Article 51
+Ti=Criteria for the designation of {_general-purpose_AI_models} with {_systemic_risk} referred to in Article {Article.51.Xnum}
 
-0.sec=For the purpose of determining that a {_general-purpose_AI_model} has capabilities or an impact equivalent to those set out in Article 51(1), point (a), the Commission shall take into account the following criteria:
+0.sec=For the purpose of determining that a {_general-purpose_AI_model} has capabilities or an impact equivalent to those set out in Article {Article.51.Xnum}(1), point (a), the Commission shall take into account the following criteria:
 
 1.sec=the number of parameters of the model;
 

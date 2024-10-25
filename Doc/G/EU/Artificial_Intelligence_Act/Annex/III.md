@@ -1,8 +1,8 @@
 ANNEX III
 
-Ti=High-{_risk} {_AI_systems} referred to in Article 6(2)
+Ti=High-{_risk} {_AI_systems} referred to in Article {Article.6.Xnum}(2)
 
-High-{_risk} {_AI_systems} pursuant to Article 6(2) are the {_AI_systems} listed in any of the following areas:
+High-{_risk} {_AI_systems} pursuant to Article {Article.6.Xnum}(2) are the {_AI_systems} listed in any of the following areas:
 
 1.0.sec=Biometrics, in so far as their use is permitted under relevant Union or national law:
 

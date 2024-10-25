@@ -8,7 +8,7 @@ Ti=Conformity based on an assessment of the quality management system and an ass
 
 2.Ti=Overview
 
-2.sec=The approved quality management system for the design, development and testing of {_AI_systems} pursuant to Article 17 shall be examined in accordance with point 3 and shall be subject to surveillance as specified in point 5. The technical documentation of the {_AI_system} shall be examined in accordance with point 4.
+2.sec=The approved quality management system for the design, development and testing of {_AI_systems} pursuant to Article {Article.17.Xnum} shall be examined in accordance with point 3 and shall be subject to surveillance as specified in point 5. The technical documentation of the {_AI_system} shall be examined in accordance with point 4.
 
 3.Ti=Quality management system
 
@@ -20,7 +20,7 @@ Ti=Conformity based on an assessment of the quality management system and an ass
 
 3.1.3.sec=the technical documentation for each {_AI_system} covered under the same quality management system;
 
-3.1.4.sec=the documentation concerning the quality management system which shall cover all the aspects listed under Article 17;
+3.1.4.sec=the documentation concerning the quality management system which shall cover all the aspects listed under Article {Article.17.Xnum};
 
 3.1.5.sec=a description of the procedures in place to ensure that the quality management system remains adequate and effective;
 
@@ -30,7 +30,7 @@ Ti=Conformity based on an assessment of the quality management system and an ass
 
 3.2.
 
-3.2.1.sec=The quality management system shall be assessed by the {_notified_body}, which shall determine whether it satisfies the requirements referred to in Article 17.
+3.2.1.sec=The quality management system shall be assessed by the {_notified_body}, which shall determine whether it satisfies the requirements referred to in Article {Article.17.Xnum}.
 The decision shall be notified to the {_provider} or its {_authorised_representative}.
 
 3.2.2.sec=The notification shall contain the conclusions of the assessment of the quality management system and the reasoned assessment decision.
@@ -85,7 +85,7 @@ The decision shall be notified to the {_provider} or its {_authorised_representa
 
 4.6.=[G/Z/paras/s5]
 
-4.7.sec=Any change to the {_AI_system} that could affect the compliance of the {_AI_system} with the requirements or its {_intended_purpose} shall be assessed by the {_notified_body} which issued the Union technical documentation assessment certificate. The {_provider} shall inform such {_notified_body} of its intention to introduce any of the abovementioned changes, or if it otherwise becomes aware of the occurrence of such changes. The intended changes shall be assessed by the {_notified_body}, which shall decide whether those changes require a new {_conformity_assessment} in accordance with Article 43(4) or whether they could be addressed by means of a supplement to the Union technical documentation assessment certificate. In the latter case, the {_notified_body} shall assess the changes, notify the {_provider} of its decision and, where the changes are approved, issue to the {_provider} a supplement to the Union technical documentation assessment certificate.
+4.7.sec=Any change to the {_AI_system} that could affect the compliance of the {_AI_system} with the requirements or its {_intended_purpose} shall be assessed by the {_notified_body} which issued the Union technical documentation assessment certificate. The {_provider} shall inform such {_notified_body} of its intention to introduce any of the abovementioned changes, or if it otherwise becomes aware of the occurrence of such changes. The intended changes shall be assessed by the {_notified_body}, which shall decide whether those changes require a new {_conformity_assessment} in accordance with Article {Article.43.Xnum}(4) or whether they could be addressed by means of a supplement to the Union technical documentation assessment certificate. In the latter case, the {_notified_body} shall assess the changes, notify the {_provider} of its decision and, where the changes are approved, issue to the {_provider} a supplement to the Union technical documentation assessment certificate.
 
 4.=[G/Z/ol/s7]
 

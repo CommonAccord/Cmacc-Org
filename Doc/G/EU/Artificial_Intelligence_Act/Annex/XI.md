@@ -1,10 +1,10 @@
 ANNEX XI
 
-Ti=Technical documentation referred to in Article 53(1), point (a) — technical documentation for {_providers} of {_general-purpose_AI_models}
+Ti=Technical documentation referred to in Article {Article.53.Xnum}(1), point (a) — technical documentation for {_providers} of {_general-purpose_AI_models}
 
 1.Ti=Section 1 - Information to be provided by all {_providers} of {_general-purpose_AI_models}
 
-1.0.sec=The technical documentation referred to in Article 53(1), point (a) shall contain at least the following information as appropriate to the size and {_risk} profile of the model:
+1.0.sec=The technical documentation referred to in Article {Article.53.Xnum}(1), point (a) shall contain at least the following information as appropriate to the size and {_risk} profile of the model:
 
 1.1.0.sec=A general description of the {_general-purpose_AI_model} including:
 

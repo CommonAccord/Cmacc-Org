@@ -1,8 +1,8 @@
 ANNEX IX
 
-Ti=Information to be submitted upon the registration of high-{_risk} {_AI_systems} listed in Annex III in relation to testing in real world conditions in accordance with Article 60
+Ti=Information to be submitted upon the registration of high-{_risk} {_AI_systems} listed in Annex III in relation to testing in real world conditions in accordance with Article {Article.60.Xnum}
 
-0.sec=The following information shall be provided and thereafter kept up to date with regard to testing in real world conditions to be registered in accordance with Article 60:
+0.sec=The following information shall be provided and thereafter kept up to date with regard to testing in real world conditions to be registered in accordance with Article {Article.60.Xnum}:
 
 1.sec=A Union-wide unique single identification number of the testing in real world conditions;
 

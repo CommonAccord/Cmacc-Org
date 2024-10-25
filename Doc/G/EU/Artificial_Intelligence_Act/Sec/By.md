@@ -1,16 +1,25 @@
-1.sec=Done at Brussels, 13 June 2024.
 
-2.sec=For the European Parliament
+1.sec=This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
-3.sec=The President
+2.0.sec=Done at Brussels, 13 June 2024.
 
-4.sec=R. METSOLA
+2.1.0.sec=For the European Parliament
 
-5.sec=For the Council
+2.1.1.sec=The President
 
-6.sec=The President
+2.1.2.sec=R. METSOLA
 
-7.sec=M. MICHEL
+2.1.=[G/Z/ol-none/s2]
 
-=[G/Z/paras/s7]
+2.2.0.sec=For the Council
+
+2.2.1.sec=The President
+
+2.2.2.sec=M. MICHEL
+
+2.2.=[G/Z/ol-none/s2]
+
+2.=[G/Z/ol-none/s2]
+
+=[G/Z/paras/s2]
 

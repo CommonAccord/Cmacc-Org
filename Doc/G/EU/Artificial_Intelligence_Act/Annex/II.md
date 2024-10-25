@@ -1,8 +1,8 @@
 ANNEX II
 
-Ti=List of criminal offences referred to in Article 5(1), first subparagraph, point (h)(iii) 
+Ti=List of criminal offences referred to in Article {Article.5.Xnum}(1), first subparagraph, point (h)(iii) 
 
-0.sec=Criminal offences referred to in Article 5(1), first subparagraph, point (h)(iii):
+0.sec=Criminal offences referred to in Article {Article.5.Xnum}(1), first subparagraph, point (h)(iii):
 
 1.sec=terrorism,
 

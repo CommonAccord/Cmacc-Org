@@ -1,8 +1,8 @@
 ANNEX IV
 
-Ti=Technical documentation referred to in Article 11(1)
+Ti=Technical documentation referred to in Article {Article.11.Xnum}(1)
 
-0.sec=The technical documentation referred to in Article 11(1) shall contain at least the following information, as applicable to the relevant {_AI_system}:
+0.sec=The technical documentation referred to in Article {Article.11.Xnum}(1) shall contain at least the following information, as applicable to the relevant {_AI_system}:
 
 1.0.sec=A general description of the {_AI_system} including:
 
@@ -34,7 +34,7 @@ Ti=Technical documentation referred to in Article 11(1)
 
 2.4.sec=where relevant, the data requirements in terms of datasheets describing the training methodologies and techniques and the {_training_data} sets used, including a general description of these data sets, information about their provenance, scope and main characteristics; how the data was obtained and selected; labelling procedures (e.g. for supervised learning), data cleaning methodologies (e.g. outliers detection);
 
-2.5.sec=assessment of the human oversight measures needed in accordance with Article 14, including an assessment of the technical measures needed to facilitate the interpretation of the outputs of {_AI_systems} by the {_deployers}, in accordance with Article 13(3), point (d);
+2.5.sec=assessment of the human oversight measures needed in accordance with Article {Article.14.Xnum}, including an assessment of the technical measures needed to facilitate the interpretation of the outputs of {_AI_systems} by the {_deployers}, in accordance with Article {Article.13.Xnum}(3), point (d);
 
 2.6.sec=where applicable, a detailed description of pre-determined changes to the {_AI_system} and its performance, together with all the relevant information related to the technical solutions adopted to ensure continuous compliance of the {_AI_system} with the relevant requirements set out in Chapter III, Section 2;
 
@@ -44,19 +44,19 @@ Ti=Technical documentation referred to in Article 11(1)
 
 2.=[G/Z/ol-a/s8]
 
-3.sec=Detailed information about the monitoring, functioning and control of the {_AI_system}, in particular with regard to: its capabilities and limitations in performance, including the degrees of accuracy for specific persons or groups of persons on which the system is intended to be used and the overall expected level of accuracy in relation to its {_intended_purpose}; the foreseeable unintended outcomes and sources of {_risks} to health and safety, fundamental rights and discrimination in view of the {_intended_purpose} of the {_AI_system}; the human oversight measures needed in accordance with Article 14, including the technical measures put in place to facilitate the interpretation of the outputs of {_AI_systems} by the {_deployers}; specifications on {_input_data}, as appropriate;
+3.sec=Detailed information about the monitoring, functioning and control of the {_AI_system}, in particular with regard to: its capabilities and limitations in performance, including the degrees of accuracy for specific persons or groups of persons on which the system is intended to be used and the overall expected level of accuracy in relation to its {_intended_purpose}; the foreseeable unintended outcomes and sources of {_risks} to health and safety, fundamental rights and discrimination in view of the {_intended_purpose} of the {_AI_system}; the human oversight measures needed in accordance with Article {Article.14.Xnum}, including the technical measures put in place to facilitate the interpretation of the outputs of {_AI_systems} by the {_deployers}; specifications on {_input_data}, as appropriate;
 
 4.sec=A description of the appropriateness of the performance metrics for the specific {_AI_system};
 
-5.sec=A detailed description of the {_risk} management system in accordance with Article 9;
+5.sec=A detailed description of the {_risk} management system in accordance with Article {Article.9.Xnum};
 
 6.sec=A description of relevant changes made by the {_provider} to the system through its lifecycle;
 
 7.sec=A list of the {_harmonised_standards} applied in full or in part the references of which have been published in the Official Journal of the European Union; where no such {_harmonised_standards} have been applied, a detailed description of the solutions adopted to meet the requirements set out in Chapter III, Section 2, including a list of other relevant standards and technical specifications applied;
 
-8.sec=A copy of the EU declaration of conformity referred to in Article 47;
+8.sec=A copy of the EU declaration of conformity referred to in Article {Article.47.Xnum};
 
-9.sec=A detailed description of the system in place to evaluate the {_AI_system} performance in the post-market phase in accordance with Article 72, including the post-market monitoring plan referred to in Article 72(3).
+9.sec=A detailed description of the system in place to evaluate the {_AI_system} performance in the post-market phase in accordance with Article {Article.72.Xnum}, including the post-market monitoring plan referred to in Article {Article.72.Xnum}(3).
 
 =[G/Z/ol/s9]
 

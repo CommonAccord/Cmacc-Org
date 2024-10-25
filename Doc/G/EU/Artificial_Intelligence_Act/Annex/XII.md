@@ -1,8 +1,8 @@
 ANNEX XII
 
-Ti=Transparency information referred to in Article 53(1), point (b) — technical documentation for {_providers} of {_general-purpose_AI_models} to {_downstream_providers} that integrate the model into their {_AI_system}
+Ti=Transparency information referred to in Article {Article.53.Xnum}(1), point (b) — technical documentation for {_providers} of {_general-purpose_AI_models} to {_downstream_providers} that integrate the model into their {_AI_system}
 
-0.sec=The information referred to in Article 53(1), point (b) shall contain at least the following:
+0.sec=The information referred to in Article {Article.53.Xnum}(1), point (b) shall contain at least the following:
 
 1.0.sec=A general description of the {_general-purpose_AI_model} including:
 

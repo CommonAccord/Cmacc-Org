@@ -136,6 +136,15 @@ span :hover {
 	font-weight: 550 ;
         vertical-align: super;
         font-size:smaller;
-
-
 }  
+
+.sectionprefix {
+
+            ol li::before {
+                content: "Section" ": "; /* Prepend "Section" followed by the counter */
+                font-weight: bold; /* Optional: makes "Section" bold */
+            }            
+            ol ol li::before {
+                content: ""; /* No prefix for nested list items */
+            }
+}
