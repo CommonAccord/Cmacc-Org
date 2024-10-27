@@ -52,7 +52,7 @@ Article 2
 
 2.1.=[G/Z/ol-a/s7]
 
-2.2.sec=For {_AI_systems} classified as high-{_risk} {_AI_systems} in accordance with Article {Article.6.Xnum}(1) related to products covered by the Union harmonisation legislation listed in Section B of Annex I, only Article {Article.6.Xnum}(1), Articles 102 to 109 and Article {Article.112.Xnum} apply. Article {Article.57.Xnum} applies only in so far as the requirements for high-{_risk} {_AI_systems} under this Regulation have been integrated in that Union harmonisation legislation.
+2.2.sec=For {_AI_systems} classified as high-{_risk} {_AI_systems} in accordance with Article {Article.6.Xnum}(1) related to products covered by the Union harmonisation legislation listed in Section B of Annex {Annex.I.Xnum}, only Article {Article.6.Xnum}(1), Articles 102 to 109 and Article {Article.112.Xnum} apply. Article {Article.57.Xnum} applies only in so far as the requirements for high-{_risk} {_AI_systems} under this Regulation have been integrated in that Union harmonisation legislation.
 
 2.3.1.sec=This Regulation does not apply to areas outside the scope of Union law, and shall not, in any event, affect the competences of the Member States concerning national security, regardless of the type of entity entrusted by the Member States with carrying out tasks in relation to those competences.
 
@@ -126,15 +126,15 @@ Def.performance_of_an_AI_system.sec=‘{DefT.performance_of_an_AI_system}’ mea
 
 Def.notifying_authority.sec=‘{DefT.notifying_authority}’ means the national authority responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of {_conformity_assessment} bodies and for their monitoring;
 
-Def.conformity_assessment.sec=‘{DefT.conformity_assessment}’ means the process of demonstrating whether the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum} relating to a high-{_risk} {_AI_system} have been fulfilled;
+Def.conformity_assessment.sec=‘{DefT.conformity_assessment}’ means the process of demonstrating whether the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} relating to a high-{_risk} {_AI_system} have been fulfilled;
 
 Def.conformity_assessment_body.sec=‘{DefT.conformity_assessment_body}’ means a body that performs third-party {_conformity_assessment} activities, including testing, certification and inspection;
 
 Def.notified_body.sec=‘{DefT.notified_body}’ means a {_conformity_assessment_body} notified in accordance with this Regulation and other relevant Union harmonisation legislation;
 
-Def.substantial_modification.sec=‘{DefT.substantial_modification}’ means a change to an {_AI_system} after its {_placing_on_the_market} or {_putting_into_service} which is not foreseen or planned in the initial {_conformity_assessment} carried out by the {_provider} and as a result of which the compliance of the {_AI_system} with the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum} is affected or results in a modification to the {_intended_purpose} for which the {_AI_system} has been assessed;
+Def.substantial_modification.sec=‘{DefT.substantial_modification}’ means a change to an {_AI_system} after its {_placing_on_the_market} or {_putting_into_service} which is not foreseen or planned in the initial {_conformity_assessment} carried out by the {_provider} and as a result of which the compliance of the {_AI_system} with the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} is affected or results in a modification to the {_intended_purpose} for which the {_AI_system} has been assessed;
 
-Def.CE_marking.sec=‘{DefT.CE_marking}’ means a marking by which a {_provider} indicates that an {_AI_system} is in conformity with the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum} and other applicable Union harmonisation legislation providing for its affixing;
+Def.CE_marking.sec=‘{DefT.CE_marking}’ means a marking by which a {_provider} indicates that an {_AI_system} is in conformity with the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} and other applicable Union harmonisation legislation providing for its affixing;
 
 Def.post-market_monitoring_system.sec=‘{DefT.post-market_monitoring_system}’ means all activities carried out by {_providers} of {_AI_systems} to collect and review experience gained from the use of {_AI_systems} they place on the market or put into service for the purpose of identifying any need to immediately apply any necessary corrective or preventive actions;
 
@@ -303,7 +303,7 @@ Article 5
 5.1.1.8.2.sec=the prevention of a specific, substantial and imminent threat to the life or physical safety of natural persons or a genuine and present or genuine and foreseeable threat of a terrorist attack;
 
 
-5.1.1.8.3.sec=the localisation or identification of a person suspected of having committed a criminal offence, for the purpose of conducting a criminal investigation or prosecution or executing a criminal penalty for offences referred to in Annex II and punishable in the Member State concerned by a custodial sentence or a detention order for a maximum period of at least four years.
+5.1.1.8.3.sec=the localisation or identification of a person suspected of having committed a criminal offence, for the purpose of conducting a criminal investigation or prosecution or executing a criminal penalty for offences referred to in Annex {Annex.II.Xnum} and punishable in the Member State concerned by a custodial sentence or a detention order for a maximum period of at least four years.
 
 5.1.1.8.=[G/Z/ol-i/s3]
 
@@ -355,15 +355,15 @@ Article 6
 
 6.1.0.sec=Irrespective of whether an {_AI_system} is placed on the market or put into service independently of the products referred to in points (a) and (b), that {_AI_system} shall be considered to be high-{_risk} where both of the following conditions are fulfilled:
 
-6.1.1.sec=the {_AI_system} is intended to be used as a {_safety_component} of a product, or the {_AI_system} is itself a product, covered by the Union harmonisation legislation listed in Annex I;
+6.1.1.sec=the {_AI_system} is intended to be used as a {_safety_component} of a product, or the {_AI_system} is itself a product, covered by the Union harmonisation legislation listed in Annex {Annex.I.Xnum};
 
-6.1.2.sec=the product whose {_safety_component} pursuant to point (a) is the {_AI_system}, or the {_AI_system} itself as a product, is required to undergo a third-party {_conformity_assessment}, with a view to the {_placing_on_the_market} or the {_putting_into_service} of that product pursuant to the Union harmonisation legislation listed in Annex I.
+6.1.2.sec=the product whose {_safety_component} pursuant to point (a) is the {_AI_system}, or the {_AI_system} itself as a product, is required to undergo a third-party {_conformity_assessment}, with a view to the {_placing_on_the_market} or the {_putting_into_service} of that product pursuant to the Union harmonisation legislation listed in Annex {Annex.I.Xnum}.
 
 6.1.=[G/Z/ol-a/s2]
 
-6.2.sec=In addition to the high-{_risk} {_AI_systems} referred to in paragraph 1, {_AI_systems} referred to in Annex III shall be considered to be high-{_risk}.
+6.2.sec=In addition to the high-{_risk} {_AI_systems} referred to in paragraph 1, {_AI_systems} referred to in Annex {Annex.III.Xnum} shall be considered to be high-{_risk}.
 
-6.3.1.sec=By derogation from paragraph 2, an {_AI_system} referred to in Annex III shall not be considered to be high-{_risk} where it does not pose a significant {_risk} of harm to the health, safety or fundamental rights of natural persons, including by not materially influencing the outcome of decision making.
+6.3.1.sec=By derogation from paragraph 2, an {_AI_system} referred to in Annex {Annex.III.Xnum} shall not be considered to be high-{_risk} where it does not pose a significant {_risk} of harm to the health, safety or fundamental rights of natural persons, including by not materially influencing the outcome of decision making.
 
 6.3.2.0.sec=The first subparagraph shall apply where any of the following conditions is fulfilled:
 
@@ -373,19 +373,19 @@ Article 6
 
 6.3.2.3.sec=the {_AI_system} is intended to detect decision-making patterns or deviations from prior decision-making patterns and is not meant to replace or influence the previously completed human assessment, without proper human review; or
 
-6.3.2.4.sec=the {_AI_system} is intended to perform a preparatory task to an assessment relevant for the purposes of the use cases listed in Annex III.
+6.3.2.4.sec=the {_AI_system} is intended to perform a preparatory task to an assessment relevant for the purposes of the use cases listed in Annex {Annex.III.Xnum}.
 
 6.3.2.=[G/Z/ol-a/s4]
 
-6.3.00.sec=Notwithstanding the first subparagraph, an {_AI_system} referred to in Annex III shall always be considered to be high-{_risk} where the {_AI_system} performs {_profiling} of natural persons.
+6.3.00.sec=Notwithstanding the first subparagraph, an {_AI_system} referred to in Annex {Annex.III.Xnum} shall always be considered to be high-{_risk} where the {_AI_system} performs {_profiling} of natural persons.
 
 6.3.=[G/Z/paras/s2]
 
-6.4.sec=A {_provider} who considers that an {_AI_system} referred to in Annex III is not high-{_risk} shall document its assessment before that system is placed on the market or put into service. Such {_provider} shall be subject to the registration obligation set out in Article {Article.49.Xnum}(2). Upon request of national competent authorities, the {_provider} shall provide the documentation of the assessment.
+6.4.sec=A {_provider} who considers that an {_AI_system} referred to in Annex {Annex.III.Xnum} is not high-{_risk} shall document its assessment before that system is placed on the market or put into service. Such {_provider} shall be subject to the registration obligation set out in Article {Article.49.Xnum}(2). Upon request of national competent authorities, the {_provider} shall provide the documentation of the assessment.
 
 6.5.sec=The Commission shall, after consulting the European Artificial Intelligence Board (the ‘Board’), and no later than 2 February 2026, provide guidelines specifying the practical implementation of this Article in line with Article {Article.96.Xnum} together with a comprehensive list of practical examples of use cases of {_AI_systems} that are high-{_risk} and not high-{_risk}.
 
-6.6.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend paragraph 3, second subparagraph, of this Article by adding new conditions to those laid down therein, or by modifying them, where there is concrete and reliable evidence of the existence of {_AI_systems} that fall under the scope of Annex III, but do not pose a significant {_risk} of harm to the health, safety or fundamental rights of natural persons.
+6.6.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend paragraph 3, second subparagraph, of this Article by adding new conditions to those laid down therein, or by modifying them, where there is concrete and reliable evidence of the existence of {_AI_systems} that fall under the scope of Annex {Annex.III.Xnum}, but do not pose a significant {_risk} of harm to the health, safety or fundamental rights of natural persons.
 
 6.7.sec=The Commission shall adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend paragraph 3, second subparagraph, of this Article by deleting any of the conditions laid down therein, where there is concrete and reliable evidence that this is necessary to maintain the level of protection of health, safety and fundamental rights provided for by this Regulation.
 
@@ -395,13 +395,13 @@ Article 6
 
 Article 7
 
-7.Ti=Amendments to Annex III
+7.Ti=Amendments to Annex {Annex.III.Xnum}
 
-7.1.0.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} to amend Annex III by adding or modifying use-cases of high-{_risk} {_AI_systems} where both of the following conditions are fulfilled:
+7.1.0.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} to amend Annex {Annex.III.Xnum} by adding or modifying use-cases of high-{_risk} {_AI_systems} where both of the following conditions are fulfilled:
 
-7.1.1.sec=the {_AI_systems} are intended to be used in any of the areas listed in Annex III;
+7.1.1.sec=the {_AI_systems} are intended to be used in any of the areas listed in Annex {Annex.III.Xnum};
 
-7.1.2.sec=the {_AI_systems} pose a {_risk} of harm to health and safety, or an adverse impact on fundamental rights, and that {_risk} is equivalent to, or greater than, the {_risk} of harm or of adverse impact posed by the high-{_risk} {_AI_systems} already referred to in Annex III.
+7.1.2.sec=the {_AI_systems} pose a {_risk} of harm to health and safety, or an adverse impact on fundamental rights, and that {_risk} is equivalent to, or greater than, the {_risk} of harm or of adverse impact posed by the high-{_risk} {_AI_systems} already referred to in Annex {Annex.III.Xnum}.
 
 7.1.=[G/Z/ol-a/s2]
 
@@ -437,7 +437,7 @@ Article 7
 
 7.2.=[G/Z/ol-a/s11]
 
-7.3.0.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} to amend the list in Annex III by removing high-{_risk} {_AI_systems} where both of the following conditions are fulfilled:
+7.3.0.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} to amend the list in Annex {Annex.III.Xnum} by removing high-{_risk} {_AI_systems} where both of the following conditions are fulfilled:
 
 7.3.1.sec=the high-{_risk} {_AI_system} concerned no longer poses any significant {_risks} to fundamental rights, health or safety, taking into account the criteria listed in paragraph 2;
 
@@ -458,7 +458,7 @@ Article 8
 
 8.1.sec=High-{_risk} {_AI_systems} shall comply with the requirements laid down in this Section, taking into account their {_intended_purpose} as well as the generally acknowledged state of the art on AI and AI-related technologies. The {_risk} management system referred to in Article {Article.9.Xnum} shall be taken into account when ensuring compliance with those requirements.
 
-8.2.sec=Where a product contains an {_AI_system}, to which the requirements of this Regulation as well as requirements of the Union harmonisation legislation listed in Section A of Annex I apply, {_providers} shall be responsible for ensuring that their product is fully compliant with all applicable requirements under applicable Union harmonisation legislation. In ensuring the compliance of high-{_risk} {_AI_systems} referred to in paragraph 1 with the requirements set out in this Section, and in order to ensure consistency, avoid duplication and minimise additional burdens, {_providers} shall have a choice of integrating, as appropriate, the necessary testing and reporting processes, information and documentation they provide with regard to their product into documentation and procedures that already exist and are required under the Union harmonisation legislation listed in Section A of Annex I.
+8.2.sec=Where a product contains an {_AI_system}, to which the requirements of this Regulation as well as requirements of the Union harmonisation legislation listed in Section A of Annex {Annex.I.Xnum} apply, {_providers} shall be responsible for ensuring that their product is fully compliant with all applicable requirements under applicable Union harmonisation legislation. In ensuring the compliance of high-{_risk} {_AI_systems} referred to in paragraph 1 with the requirements set out in this Section, and in order to ensure consistency, avoid duplication and minimise additional burdens, {_providers} shall have a choice of integrating, as appropriate, the necessary testing and reporting processes, information and documentation they provide with regard to their product into documentation and procedures that already exist and are required under the Union harmonisation legislation listed in Section A of Annex {Annex.I.Xnum}.
 
 8.=[G/Z/ol/s2]
 
@@ -568,13 +568,13 @@ Article 11
 
 11.1.1.sec=The technical documentation of a high-{_risk} {_AI_system} shall be drawn up before that system is placed on the market or put into service and shall be kept up-to date.
 
-11.1.2.sec=The technical documentation shall be drawn up in such a way as to demonstrate that the high-{_risk} {_AI_system} complies with the requirements set out in this Section and to provide national competent authorities and {_notified_bodies} with the necessary information in a clear and comprehensive form to assess the compliance of the {_AI_system} with those requirements. It shall contain, at a minimum, the elements set out in Annex IV. SMEs, including start-ups, may provide the elements of the technical documentation specified in Annex IV in a simplified manner. To that end, the Commission shall establish a simplified technical documentation form targeted at the needs of small and microenterprises. Where an SME, including a start-up, opts to provide the information required in Annex IV in a simplified manner, it shall use the form referred to in this paragraph. {_Notified_bodies} shall accept the form for the purposes of the {_conformity_assessment}.
+11.1.2.sec=The technical documentation shall be drawn up in such a way as to demonstrate that the high-{_risk} {_AI_system} complies with the requirements set out in this Section and to provide national competent authorities and {_notified_bodies} with the necessary information in a clear and comprehensive form to assess the compliance of the {_AI_system} with those requirements. It shall contain, at a minimum, the elements set out in Annex {Annex.IV.Xnum}. SMEs, including start-ups, may provide the elements of the technical documentation specified in Annex {Annex.IV.Xnum} in a simplified manner. To that end, the Commission shall establish a simplified technical documentation form targeted at the needs of small and microenterprises. Where an SME, including a start-up, opts to provide the information required in Annex {Annex.IV.Xnum} in a simplified manner, it shall use the form referred to in this paragraph. {_Notified_bodies} shall accept the form for the purposes of the {_conformity_assessment}.
 
 11.1.=[G/Z/paras/s2]
 
-11.2.sec=Where a high-{_risk} {_AI_system} related to a product covered by the Union harmonisation legislation listed in Section A of Annex I is placed on the market or put into service, a single set of technical documentation shall be drawn up containing all the information set out in paragraph 1, as well as the information required under those legal acts.
+11.2.sec=Where a high-{_risk} {_AI_system} related to a product covered by the Union harmonisation legislation listed in Section A of Annex {Annex.I.Xnum} is placed on the market or put into service, a single set of technical documentation shall be drawn up containing all the information set out in paragraph 1, as well as the information required under those legal acts.
 
-11.3.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend Annex IV, where necessary, to ensure that, in light of technical progress, the technical documentation provides all the information necessary to assess the compliance of the system with the requirements set out in this Section.
+11.3.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend Annex {Annex.IV.Xnum}, where necessary, to ensure that, in light of technical progress, the technical documentation provides all the information necessary to assess the compliance of the system with the requirements set out in this Section.
 
 11.=[G/Z/ol/s3]
 
@@ -594,7 +594,7 @@ Article 12
 
 12.2.=[G/Z/ol-a/s3]
 
-12.3.0.sec=For high-{_risk} {_AI_systems} referred to in point 1 (a), of Annex III, the logging capabilities shall provide, at a minimum:
+12.3.0.sec=For high-{_risk} {_AI_systems} referred to in point 1 (a), of Annex {Annex.III.Xnum}, the logging capabilities shall provide, at a minimum:
 
 12.3.1.sec=recording of the period of each use of the system (start date and time and end date and time of each use);
 
@@ -613,7 +613,7 @@ Article 13
 
 13.Ti=Transparency and provision of information to {_deployers}
 
-13.1.sec=High-{_risk} {_AI_systems} shall be designed and developed in such a way as to ensure that their operation is sufficiently transparent to enable {_deployers} to interpret a system’s output and use it appropriately. An appropriate type and degree of transparency shall be ensured with a view to achieving compliance with the relevant obligations of the {_provider} and {_deployer} set out in Section {Chapter.3.Section.3.Xnum}.
+13.1.sec=High-{_risk} {_AI_systems} shall be designed and developed in such a way as to ensure that their operation is sufficiently transparent to enable {_deployers} to interpret a system’s output and use it appropriately. An appropriate type and degree of transparency shall be ensured with a view to achieving compliance with the relevant obligations of the {_provider} and {_deployer} set out in Section {Chapter.III.Section.3.Xnum}.
 
 13.2.sec=High-{_risk} {_AI_systems} shall be accompanied by {_instructions_for_use} in an appropriate digital format or otherwise that include concise, complete, correct and clear information that is relevant, accessible and comprehensible to {_deployers}.
 
@@ -682,7 +682,7 @@ Article 14
 
 14.4.=[G/Z/ol-a/s5]
 
-14.5.1.sec=For high-{_risk} {_AI_systems} referred to in point 1(a) of Annex III, the measures referred to in paragraph 3 of this Article shall be such as to ensure that, in addition, no action or decision is taken by the {_deployer} on the basis of the identification resulting from the system unless that identification has been separately verified and confirmed by at least two natural persons with the necessary competence, training and authority.
+14.5.1.sec=For high-{_risk} {_AI_systems} referred to in point 1(a) of Annex {Annex.III.Xnum}, the measures referred to in paragraph 3 of this Article shall be such as to ensure that, in addition, no action or decision is taken by the {_deployer} on the basis of the identification resulting from the system unless that identification has been separately verified and confirmed by at least two natural persons with the necessary competence, training and authority.
 
 14.5.2.sec=The requirement for a separate verification by at least two natural persons shall not apply to high-{_risk} {_AI_systems} used for the purposes of {_law_enforcement}, migration, border control or asylum, where Union or national law considers the application of this requirement to be disproportionate.
 
@@ -728,7 +728,7 @@ Article 16
 
 16.0.sec={_Providers} of high-{_risk} {_AI_systems} shall:
 
-16.1.sec=ensure that their high-{_risk} {_AI_systems} are compliant with the requirements set out in Section {Chapter.3.Section.2.Xnum};
+16.1.sec=ensure that their high-{_risk} {_AI_systems} are compliant with the requirements set out in Section {Chapter.III.Section.2.Xnum};
 
 16.2.sec=indicate on the high-{_risk} {_AI_system} or, where that is not possible, on its packaging or its accompanying documentation, as applicable, their name, registered trade name or registered trade mark, the address at which they can be contacted;
 
@@ -748,7 +748,7 @@ Article 16
 
 16.10.sec=take the necessary corrective actions and provide information as required in Article {Article.20.Xnum};
 
-16.11.sec=upon a reasoned request of a {_national_competent_authority}, demonstrate the conformity of the high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.3.Section.2.Xnum};
+16.11.sec=upon a reasoned request of a {_national_competent_authority}, demonstrate the conformity of the high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.III.Section.2.Xnum};
 
 16.12.sec=ensure that the high-{_risk} {_AI_system} complies with accessibility requirements in accordance with Directives (EU) 2016/2102 and (EU) 2019/882.
 
@@ -768,7 +768,7 @@ Article 17
 
 17.1.4.sec=examination, test and validation procedures to be carried out before, during and after the development of the high-{_risk} {_AI_system}, and the frequency with which they have to be carried out;
 
-17.1.5.sec=technical specifications, including standards, to be applied and, where the relevant {_harmonised_standards} are not applied in full or do not cover all of the relevant requirements set out in Section {Chapter.3.Section.2.Xnum}, the means to be used to ensure that the high-{_risk} {_AI_system} complies with those requirements;
+17.1.5.sec=technical specifications, including standards, to be applied and, where the relevant {_harmonised_standards} are not applied in full or do not cover all of the relevant requirements set out in Section {Chapter.III.Section.2.Xnum}, the means to be used to ensure that the high-{_risk} {_AI_system} complies with those requirements;
 
 17.1.6.sec=systems and procedures for data management, including data acquisition, data collection, data analysis, data labelling, data storage, data filtration, data mining, data aggregation, data retention and any other operation regarding the data that is performed before and for the purpose of the {_placing_on_the_market} or the {_putting_into_service} of high-{_risk} {_AI_systems};
 
@@ -845,7 +845,7 @@ Article 21
 
 21.Ti=Cooperation with competent authorities
 
-21.1.sec={_Providers} of high-{_risk} {_AI_systems} shall, upon a reasoned request by a competent authority, provide that authority all the information and documentation necessary to demonstrate the conformity of the high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.3.Section.2.Xnum}, in a language which can be easily understood by the authority in one of the official languages of the institutions of the Union as indicated by the Member State concerned.
+21.1.sec={_Providers} of high-{_risk} {_AI_systems} shall, upon a reasoned request by a competent authority, provide that authority all the information and documentation necessary to demonstrate the conformity of the high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.III.Section.2.Xnum}, in a language which can be easily understood by the authority in one of the official languages of the institutions of the Union as indicated by the Member State concerned.
 
 21.2.sec=Upon a reasoned request by a competent authority, {_providers} shall also give the requesting competent authority, as applicable, access to the automatically generated logs of the high-{_risk} {_AI_system} referred to in Article {Article.12.Xnum}(1), to the extent such logs are under their control.
 
@@ -867,11 +867,11 @@ Article 21
 
 22.3.2.sec=keep at the disposal of the competent authorities and national authorities or bodies referred to in Article 74(10), for a period of 10 years after the high-{_risk} {_AI_system} has been placed on the market or put into service, the contact details of the {_provider} that appointed the {_authorised_representative}, a copy of the EU declaration of conformity referred to in Article 47, the technical documentation and, if applicable, the certificate issued by the {_notified_body};
 
-22.3.3.sec=provide a competent authority, upon a reasoned request, with all the information and documentation, including that referred to in point (b) of this subparagraph, necessary to demonstrate the conformity of a high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.3.Section.2.Xnum}, including access to the logs, as referred to in Article 12(1), automatically generated by the high-{_risk} {_AI_system}, to the extent such logs are under the control of the {_provider};
+22.3.3.sec=provide a competent authority, upon a reasoned request, with all the information and documentation, including that referred to in point (b) of this subparagraph, necessary to demonstrate the conformity of a high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.III.Section.2.Xnum}, including access to the logs, as referred to in Article 12(1), automatically generated by the high-{_risk} {_AI_system}, to the extent such logs are under the control of the {_provider};
 
 22.3.4.sec=cooperate with competent authorities, upon a reasoned request, in any action the latter take in relation to the high-{_risk} {_AI_system}, in particular to reduce and mitigate the {_risks} posed by the high-{_risk} {_AI_system};
 
-22.3.5.sec=where applicable, comply with the registration obligations referred to in Article {Article.49.Xnum}(1), or, if the registration is carried out by the {_provider} itself, ensure that the information referred to in point 3 of Section A of Annex VIII is correct.
+22.3.5.sec=where applicable, comply with the registration obligations referred to in Article {Article.49.Xnum}(1), or, if the registration is carried out by the {_provider} itself, ensure that the information referred to in point 3 of Section A of Annex {Annex.VIII.Xnum} is correct.
 
 22.3.00.sec=The mandate shall empower the {_authorised_representative} to be addressed, in addition to or instead of the {_provider}, by the competent authorities, on all issues related to ensuring compliance with this Regulation.
 
@@ -889,7 +889,7 @@ Article 21
 
 23.1.1.sec=the relevant {_conformity_assessment} procedure referred to in Article {Article.43.Xnum} has been carried out by the {_provider} of the high-{_risk} {_AI_system};
 
-23.1.2.sec=the {_provider} has drawn up the technical documentation in accordance with Article {Article.11.Xnum} and Annex IV;
+23.1.2.sec=the {_provider} has drawn up the technical documentation in accordance with Article {Article.11.Xnum} and Annex {Annex.IV.Xnum};
 
 23.1.3.sec=the system bears the required {_CE_marking} and is accompanied by the EU declaration of conformity referred to in Article {Article.47.Xnum} and {_instructions_for_use};
 
@@ -901,11 +901,11 @@ Article 21
 
 23.3.sec={_Importers} shall indicate their name, registered trade name or registered trade mark, and the address at which they can be contacted on the high-{_risk} {_AI_system} and on its packaging or its accompanying documentation, where applicable.
 
-23.4.sec={_Importers} shall ensure that, while a high-{_risk} {_AI_system} is under their responsibility, storage or transport conditions, where applicable, do not jeopardise its compliance with the requirements set out in Section {Chapter.3.Section.2.Xnum}.
+23.4.sec={_Importers} shall ensure that, while a high-{_risk} {_AI_system} is under their responsibility, storage or transport conditions, where applicable, do not jeopardise its compliance with the requirements set out in Section {Chapter.III.Section.2.Xnum}.
 
 23.5.sec={_Importers} shall keep, for a period of 10 years after the high-{_risk} {_AI_system} has been placed on the market or put into service, a copy of the certificate issued by the {_notified_body}, where applicable, of the {_instructions_for_use}, and of the EU declaration of conformity referred to in Article {Article.47.Xnum}.
 
-23.6.sec={_Importers} shall provide the relevant competent authorities, upon a reasoned request, with all the necessary information and documentation, including that referred to in paragraph 5, to demonstrate the conformity of a high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.3.Section.2.Xnum} in a language which can be easily understood by them. For this purpose, they shall also ensure that the technical documentation can be made available to those authorities.
+23.6.sec={_Importers} shall provide the relevant competent authorities, upon a reasoned request, with all the necessary information and documentation, including that referred to in paragraph 5, to demonstrate the conformity of a high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.III.Section.2.Xnum} in a language which can be easily understood by them. For this purpose, they shall also ensure that the technical documentation can be made available to those authorities.
 
 23.7.sec={_Importers} shall cooperate with the relevant competent authorities in any action those authorities take in relation to a high-{_risk} {_AI_system} placed on the market by the {_importers}, in particular to reduce and mitigate the {_risks} posed by it.
 
@@ -917,13 +917,13 @@ Article 21
 
 24.1.sec=Before making a high-{_risk} {_AI_system} available on the market, {_distributors} shall verify that it bears the required {_CE_marking}, that it is accompanied by a copy of the EU declaration of conformity referred to in Article {Article.47.Xnum} and {_instructions_for_use}, and that the {_provider} and the {_importer} of that system, as applicable, have complied with their respective obligations as laid down in Article {Article.16.Xnum}, points (b) and (c) and Article {Article.23.Xnum}(3).
 
-24.2.sec=Where a {_distributor} considers or has reason to consider, on the basis of the information in its possession, that a high-{_risk} {_AI_system} is not in conformity with the requirements set out in Section {Chapter.3.Section.2.Xnum}, it shall not make the high-{_risk} {_AI_system} available on the market until the system has been brought into conformity with those requirements. Furthermore, where the high-{_risk} {_AI_system} presents a {_risk} within the meaning of Article {Article.79.Xnum}(1), the {_distributor} shall inform the {_provider} or the {_importer} of the system, as applicable, to that effect.
+24.2.sec=Where a {_distributor} considers or has reason to consider, on the basis of the information in its possession, that a high-{_risk} {_AI_system} is not in conformity with the requirements set out in Section {Chapter.III.Section.2.Xnum}, it shall not make the high-{_risk} {_AI_system} available on the market until the system has been brought into conformity with those requirements. Furthermore, where the high-{_risk} {_AI_system} presents a {_risk} within the meaning of Article {Article.79.Xnum}(1), the {_distributor} shall inform the {_provider} or the {_importer} of the system, as applicable, to that effect.
 
-24.3.sec={_Distributors} shall ensure that, while a high-{_risk} {_AI_system} is under their responsibility, storage or transport conditions, where applicable, do not jeopardise the compliance of the system with the requirements set out in Section {Chapter.3.Section.2.Xnum}.
+24.3.sec={_Distributors} shall ensure that, while a high-{_risk} {_AI_system} is under their responsibility, storage or transport conditions, where applicable, do not jeopardise the compliance of the system with the requirements set out in Section {Chapter.III.Section.2.Xnum}.
 
-24.4.sec=A {_distributor} that considers or has reason to consider, on the basis of the information in its possession, a high-{_risk} {_AI_system} which it has made available on the market not to be in conformity with the requirements set out in Section {Chapter.3.Section.2.Xnum}, shall take the corrective actions necessary to bring that system into conformity with those requirements, to withdraw it or recall it, or shall ensure that the {_provider}, the {_importer} or any relevant {_operator}, as appropriate, takes those corrective actions. Where the high-{_risk} {_AI_system} presents a {_risk} within the meaning of Article {Article.79.Xnum}(1), the {_distributor} shall immediately inform the {_provider} or {_importer} of the system and the authorities competent for the high-{_risk} {_AI_system} concerned, giving details, in particular, of the non-compliance and of any corrective actions taken.
+24.4.sec=A {_distributor} that considers or has reason to consider, on the basis of the information in its possession, a high-{_risk} {_AI_system} which it has made available on the market not to be in conformity with the requirements set out in Section {Chapter.III.Section.2.Xnum}, shall take the corrective actions necessary to bring that system into conformity with those requirements, to withdraw it or recall it, or shall ensure that the {_provider}, the {_importer} or any relevant {_operator}, as appropriate, takes those corrective actions. Where the high-{_risk} {_AI_system} presents a {_risk} within the meaning of Article {Article.79.Xnum}(1), the {_distributor} shall immediately inform the {_provider} or {_importer} of the system and the authorities competent for the high-{_risk} {_AI_system} concerned, giving details, in particular, of the non-compliance and of any corrective actions taken.
 
-24.5.sec=Upon a reasoned request from a relevant competent authority, {_distributors} of a high-{_risk} {_AI_system} shall provide that authority with all the information and documentation regarding their actions pursuant to paragraphs 1 to 4 necessary to demonstrate the conformity of that system with the requirements set out in Section {Chapter.3.Section.2.Xnum}.
+24.5.sec=Upon a reasoned request from a relevant competent authority, {_distributors} of a high-{_risk} {_AI_system} shall provide that authority with all the information and documentation regarding their actions pursuant to paragraphs 1 to 4 necessary to demonstrate the conformity of that system with the requirements set out in Section {Chapter.III.Section.2.Xnum}.
 
 24.6.sec={_Distributors} shall cooperate with the relevant competent authorities in any action those authorities take in relation to a high-{_risk} {_AI_system} made available on the market by the {_distributors}, in particular to reduce or mitigate the {_risk} posed by it.
 
@@ -945,7 +945,7 @@ Article 21
 
 25.2.sec=Where the circumstances referred to in paragraph 1 occur, the {_provider} that initially placed the {_AI_system} on the market or put it into service shall no longer be considered to be a {_provider} of that specific {_AI_system} for the purposes of this Regulation. That initial {_provider} shall closely cooperate with new {_providers} and shall make available the necessary information and provide the reasonably expected technical access and other assistance that are required for the fulfilment of the obligations set out in this Regulation, in particular regarding the compliance with the {_conformity_assessment} of high-{_risk} {_AI_systems}. This paragraph shall not apply in cases where the initial {_provider} has clearly specified that its {_AI_system} is not to be changed into a high-{_risk} {_AI_system} and therefore does not fall under the obligation to hand over the documentation.
 
-25.3.0.sec=In the case of high-{_risk} {_AI_systems} that are {_safety_components} of products covered by the Union harmonisation legislation listed in Section A of Annex I, the product manufacturer shall be considered to be the {_provider} of the high-{_risk} {_AI_system}, and shall be subject to the obligations under Article {Article.16.Xnum} under either of the following circumstances:
+25.3.0.sec=In the case of high-{_risk} {_AI_systems} that are {_safety_components} of products covered by the Union harmonisation legislation listed in Section A of Annex {Annex.I.Xnum}, the product manufacturer shall be considered to be the {_provider} of the high-{_risk} {_AI_system}, and shall be subject to the obligations under Article {Article.16.Xnum} under either of the following circumstances:
 
 25.3.1.sec=the high-{_risk} {_AI_system} is placed on the market together with the product under the name or trademark of the product manufacturer;
 
@@ -1009,7 +1009,7 @@ Article 21
 
 26.10.=[G/Z/paras/s7]
 
-26.11.sec=Without prejudice to Article {Article.50.Xnum} of this Regulation, {_deployers} of high-{_risk} {_AI_systems} referred to in Annex III that make decisions or assist in making decisions related to natural persons shall inform the natural persons that they are subject to the use of the high-{_risk} {_AI_system}. For high-{_risk} {_AI_systems} used for {_law_enforcement} purposes Article 13 of Directive (EU) 2016/680 shall apply.
+26.11.sec=Without prejudice to Article {Article.50.Xnum} of this Regulation, {_deployers} of high-{_risk} {_AI_systems} referred to in Annex {Annex.III.Xnum} that make decisions or assist in making decisions related to natural persons shall inform the natural persons that they are subject to the use of the high-{_risk} {_AI_system}. For high-{_risk} {_AI_systems} used for {_law_enforcement} purposes Article 13 of Directive (EU) 2016/680 shall apply.
 
 26.12.sec={_Deployers} shall cooperate with the relevant competent authorities in any action those authorities take in relation to the high-{_risk} {_AI_system} in order to implement this Regulation.
 
@@ -1019,7 +1019,7 @@ Article 21
 
 27.Ti=Fundamental rights impact assessment for high-{_risk} {_AI_systems}
 
-27.1.0.sec=Prior to deploying a high-{_risk} {_AI_system} referred to in Article {Article.6.Xnum}(2), with the exception of high-{_risk} {_AI_systems} intended to be used in the area listed in point 2 of Annex III, {_deployers} that are bodies governed by public law, or are private entities providing public services, and {_deployers} of high-{_risk} {_AI_systems} referred to in points 5 (b) and (c) of Annex III, shall perform an assessment of the impact on fundamental rights that the use of such system may produce. For that purpose, {_deployers} shall perform an assessment consisting of:
+27.1.0.sec=Prior to deploying a high-{_risk} {_AI_system} referred to in Article {Article.6.Xnum}(2), with the exception of high-{_risk} {_AI_systems} intended to be used in the area listed in point 2 of Annex {Annex.III.Xnum}, {_deployers} that are bodies governed by public law, or are private entities providing public services, and {_deployers} of high-{_risk} {_AI_systems} referred to in points 5 (b) and (c) of Annex {Annex.III.Xnum}, shall perform an assessment of the impact on fundamental rights that the use of such system may produce. For that purpose, {_deployers} shall perform an assessment consisting of:
 
 27.1.1.sec=a description of the {_deployer}’s processes in which the high-{_risk} {_AI_system} will be used in line with its {_intended_purpose};
 
@@ -1125,7 +1125,7 @@ Article 31
 
 31.10.sec={_Notified_bodies} shall be capable of carrying out all their tasks under this Regulation with the highest degree of professional integrity and the requisite competence in the specific field, whether those tasks are carried out by {_notified_bodies} themselves or on their behalf and under their responsibility.
 
-31.11.sec={_Notified_bodies} shall have sufficient internal competences to be able effectively to evaluate the tasks conducted by external parties on their behalf. The {_notified_body} shall have permanent availability of sufficient administrative, technical, legal and scientific personnel who possess experience and knowledge relating to the relevant types of {_AI_systems}, data and data computing, and relating to the requirements set out in Section {Chapter.3.Section.2.Xnum}.
+31.11.sec={_Notified_bodies} shall have sufficient internal competences to be able effectively to evaluate the tasks conducted by external parties on their behalf. The {_notified_body} shall have permanent availability of sufficient administrative, technical, legal and scientific personnel who possess experience and knowledge relating to the relevant types of {_AI_systems}, data and data computing, and relating to the requirements set out in Section {Chapter.III.Section.2.Xnum}.
 
 31.12.sec={_Notified_bodies} shall participate in coordination activities as referred to in Article {Article.38.Xnum}. They shall also take part directly, or be represented in, European standardisation organisations, or ensure that they are aware and up to date in respect of relevant standards.
 
@@ -1274,11 +1274,11 @@ Article 40
 
 40.Ti=Harmonised standards and standardisation deliverables
 
-40.1.sec=High-{_risk} {_AI_systems} or {_general-purpose_AI_models} which are in conformity with {_harmonised_standards} or parts thereof the references of which have been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 shall be presumed to be in conformity with the requirements set out in Section {Chapter.3.Section.2.Xnum} of this Chapter or, as applicable, with the obligations set out in of Chapter V, Sections {Chapter.5.Section.2.Xnum} and {Chapter.5.Section.3.Xnum}, of this Regulation, to the extent that those standards cover those requirements or obligations.
+40.1.sec=High-{_risk} {_AI_systems} or {_general-purpose_AI_models} which are in conformity with {_harmonised_standards} or parts thereof the references of which have been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 shall be presumed to be in conformity with the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, with the obligations set out in of Chapter V, Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum}, of this Regulation, to the extent that those standards cover those requirements or obligations.
 
-40.2.1.sec=In accordance with Article 10 of Regulation (EU) No 1025/2012, the Commission shall issue, without undue delay, standardisation requests covering all requirements set out in Section {Chapter.3.Section.2.Xnum} of this Chapter and, as applicable, standardisation requests covering obligations set out in Chapter V, Sections {Chapter.5.Section.2.Xnum} and {Chapter.5.Section.3.Xnum}, of this Regulation. The standardisation request shall also ask for deliverables on reporting and documentation processes to improve {_AI_systems}’ resource performance, such as reducing the high-{_risk} {_AI_system}’s consumption of energy and of other resources during its lifecycle, and on the energy-efficient development of {_general-purpose_AI_models}. When preparing a standardisation request, the Commission shall consult the Board and relevant stakeholders, including the advisory forum.
+40.2.1.sec=In accordance with Article 10 of Regulation (EU) No 1025/2012, the Commission shall issue, without undue delay, standardisation requests covering all requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter and, as applicable, standardisation requests covering obligations set out in Chapter V, Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum}, of this Regulation. The standardisation request shall also ask for deliverables on reporting and documentation processes to improve {_AI_systems}’ resource performance, such as reducing the high-{_risk} {_AI_system}’s consumption of energy and of other resources during its lifecycle, and on the energy-efficient development of {_general-purpose_AI_models}. When preparing a standardisation request, the Commission shall consult the Board and relevant stakeholders, including the advisory forum.
 
-40.2.2.sec=When issuing a standardisation request to European standardisation organisations, the Commission shall specify that standards have to be clear, consistent, including with the standards developed in the various sectors for products covered by the existing Union harmonisation legislation listed in Annex I, and aiming to ensure that high-{_risk} {_AI_systems} or {_general-purpose_AI_models} placed on the market or put into service in the Union meet the relevant requirements or obligations laid down in this Regulation.
+40.2.2.sec=When issuing a standardisation request to European standardisation organisations, the Commission shall specify that standards have to be clear, consistent, including with the standards developed in the various sectors for products covered by the existing Union harmonisation legislation listed in Annex {Annex.I.Xnum}, and aiming to ensure that high-{_risk} {_AI_systems} or {_general-purpose_AI_models} placed on the market or put into service in the Union meet the relevant requirements or obligations laid down in this Regulation.
 
 40.2.3.sec=The Commission shall request the European standardisation organisations to provide evidence of their best efforts to fulfil the objectives referred to in the first and the second subparagraph of this paragraph in accordance with Article 24 of Regulation (EU) No 1025/2012.
 
@@ -1292,9 +1292,9 @@ Article 41
 
 41.Ti={_Common_specifications}
 
-41.1.0.sec=The Commission may adopt, implementing acts establishing {_common_specifications} for the requirements set out in Section {Chapter.3.Section.2.Xnum} of this Chapter or, as applicable, for the obligations set out in Sections {Chapter.5.Section.2.Xnum} and {Chapter.5.Section.3.Xnum} of Chapter V where the following conditions have been fulfilled:
+41.1.0.sec=The Commission may adopt, implementing acts establishing {_common_specifications} for the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, for the obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V where the following conditions have been fulfilled:
 
-41.1.1.0.sec=the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a {_harmonised_standard} for the requirements set out in Section {Chapter.3.Section.2.Xnum} of this Chapter, or, as applicable, for the obligations set out in Sections {Chapter.5.Section.2.Xnum} and {Chapter.5.Section.3.Xnum} of Chapter V, and:
+41.1.1.0.sec=the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a {_harmonised_standard} for the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter, or, as applicable, for the obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V, and:
 
 41.1.1.1.sec=the request has not been accepted by any of the European standardisation organisations; or
 
@@ -1306,7 +1306,7 @@ Article 41
 
 41.1.1.=[G/Z/ol-i/s4]
 
-41.1.2.sec=no reference to {_harmonised_standards} covering the requirements referred to in Section {Chapter.3.Section.2.Xnum} of this Chapter or, as applicable, the obligations referred to in Sections {Chapter.5.Section.2.Xnum} and {5.3.Xnum} of Chapter V has been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012, and no such reference is expected to be published within a reasonable period.
+41.1.2.sec=no reference to {_harmonised_standards} covering the requirements referred to in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, the obligations referred to in Sections {Chapter.V.Section.2.Xnum} and {5.3.Xnum} of Chapter V has been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012, and no such reference is expected to be published within a reasonable period.
 
 41.1.00.1.sec=When drafting the {_common_specifications}, the Commission shall consult the advisory forum referred to in Article {Article.67.Xnum}.
 
@@ -1318,13 +1318,13 @@ Article 41
 
 41.2.sec=Before preparing a draft implementing act, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers the conditions laid down in paragraph 1 of this Article to be fulfilled.
 
-41.3.sec=High-{_risk} {_AI_systems} or {_general-purpose_AI_models} which are in conformity with the {_common_specifications} referred to in paragraph 1, or parts of those specifications, shall be presumed to be in conformity with the requirements set out in Section {Chapter.3.Section.2.Xnum} of this Chapter or, as applicable, to comply with the obligations referred to in Sections {Chapter.5.Section.2.Xnum} and {Chapter.5.Section.3.Xnum} of Chapter V, to the extent those {_common_specifications} cover those requirements or those obligations.
+41.3.sec=High-{_risk} {_AI_systems} or {_general-purpose_AI_models} which are in conformity with the {_common_specifications} referred to in paragraph 1, or parts of those specifications, shall be presumed to be in conformity with the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, to comply with the obligations referred to in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V, to the extent those {_common_specifications} cover those requirements or those obligations.
 
-41.4.sec=Where a {_harmonised_standard} is adopted by a European standardisation organisation and proposed to the Commission for the publication of its reference in the Official Journal of the European Union, the Commission shall assess the {_harmonised_standard} in accordance with Regulation (EU) No 1025/2012. When reference to a {_harmonised_standard} is published in the Official Journal of the European Union, the Commission shall repeal the implementing acts referred to in paragraph {Article.41.1.Xnum}, or parts thereof which cover the same requirements set out in Section {Chapter.3.Section.2.Xnum} of this Chapter or, as applicable, the same obligations set out in Sections {Chapter.5.Section.2.Xnum} and {Chapter.5.Section.3.Xnum} of Chapter V.
+41.4.sec=Where a {_harmonised_standard} is adopted by a European standardisation organisation and proposed to the Commission for the publication of its reference in the Official Journal of the European Union, the Commission shall assess the {_harmonised_standard} in accordance with Regulation (EU) No 1025/2012. When reference to a {_harmonised_standard} is published in the Official Journal of the European Union, the Commission shall repeal the implementing acts referred to in paragraph {Article.41.1.Xnum}, or parts thereof which cover the same requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, the same obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V.
 
-41.5.sec=Where {_providers} of high-{_risk} {_AI_systems} or {_general-purpose_AI_models} do not comply with the {_common_specifications} referred to in paragraph 1, they shall duly justify that they have adopted technical solutions that meet the requirements referred to in Section {Chapter.3.Section.2.Xnum} of this Chapter or, as applicable, comply with the obligations set out in Sections {Chapter.5.Section.2.Xnum} and {Chapter.5.Section.3.Xnum} of Chapter V to a level at least equivalent thereto.
+41.5.sec=Where {_providers} of high-{_risk} {_AI_systems} or {_general-purpose_AI_models} do not comply with the {_common_specifications} referred to in paragraph 1, they shall duly justify that they have adopted technical solutions that meet the requirements referred to in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, comply with the obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V to a level at least equivalent thereto.
 
-41.6.sec=Where a Member State considers that a {_common_specification} does not entirely meet the requirements set out in Section {Chapter.3.Section.2.Xnum} or, as applicable, comply with obligations set out in Sections {Chapter.5.Section.2.Xnum} and {Chapter.5.Section.3.Xnum} of Chapter V, it shall inform the Commission thereof with a detailed explanation. The Commission shall assess that information and, if appropriate, amend the implementing act establishing the {_common_specification} concerned.
+41.6.sec=Where a Member State considers that a {_common_specification} does not entirely meet the requirements set out in Section {Chapter.III.Section.2.Xnum} or, as applicable, comply with obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V, it shall inform the Commission thereof with a detailed explanation. The Commission shall assess that information and, if appropriate, amend the implementing act establishing the {_common_specification} concerned.
 
 41.=[G/Z/ol/s6]
 
@@ -1342,15 +1342,15 @@ Article 43
 
 43.Ti=Conformity assessment
 
-43.1.1.0.sec=For high-{_risk} {_AI_systems} listed in point 1 of Annex III, where, in demonstrating the compliance of a high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.3.Section.2.Xnum}, the {_provider} has applied {_harmonised_standards} referred to in Article {Article.40.Xnum}, or, where applicable, {_common_specifications} referred to in Article {Article.41.Xnum}, the {_provider} shall opt for one of the following {_conformity_assessment} procedures based on:
+43.1.1.0.sec=For high-{_risk} {_AI_systems} listed in point 1 of Annex {Annex.III.Xnum}, where, in demonstrating the compliance of a high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.III.Section.2.Xnum}, the {_provider} has applied {_harmonised_standards} referred to in Article {Article.40.Xnum}, or, where applicable, {_common_specifications} referred to in Article {Article.41.Xnum}, the {_provider} shall opt for one of the following {_conformity_assessment} procedures based on:
 
-43.1.1.1.sec=the internal control referred to in Annex VI; or
+43.1.1.1.sec=the internal control referred to in Annex {Annex.VI.Xnum}; or
 
-43.1.1.2.sec=the assessment of the quality management system and the assessment of the technical documentation, with the involvement of a {_notified_body}, referred to in Annex VII.
+43.1.1.2.sec=the assessment of the quality management system and the assessment of the technical documentation, with the involvement of a {_notified_body}, referred to in Annex {Annex.VII.Xnum}.
 
 43.1.1.=[G/Z/ol-a/s2]
 
-43.1.2.0.sec=In demonstrating the compliance of a high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.3.Section.2.Xnum}, the {_provider} shall follow the {_conformity_assessment} procedure set out in Annex VII where:
+43.1.2.0.sec=In demonstrating the compliance of a high-{_risk} {_AI_system} with the requirements set out in Section {Chapter.III.Section.2.Xnum}, the {_provider} shall follow the {_conformity_assessment} procedure set out in Annex {Annex.VII.Xnum} where:
 
 43.1.2.1.sec={_harmonised_standards} referred to in Article {Article.40.Xnum} do not exist, and {_common_specifications} referred to in Article {Article.41.Xnum} are not available;
 
@@ -1362,29 +1362,29 @@ Article 43
 
 43.1.2.4.sec=one or more of the {_harmonised_standards} referred to in point (a) has been published with a restriction, and only on the part of the standard that was restricted.
 
-43.1.00.sec=For the purposes of the {_conformity_assessment} procedure referred to in Annex VII, the {_provider} may choose any of the {_notified_bodies}. However, where the high-{_risk} {_AI_system} is intended to be put into service by {_law_enforcement}, immigration or asylum authorities or by Union institutions, bodies, offices or agencies, the {_market_surveillance_authority} referred to in Article {Article.74.Xnum}(8) or (9), as applicable, shall act as a {_notified_body}.
+43.1.00.sec=For the purposes of the {_conformity_assessment} procedure referred to in Annex {Annex.VII.Xnum}, the {_provider} may choose any of the {_notified_bodies}. However, where the high-{_risk} {_AI_system} is intended to be put into service by {_law_enforcement}, immigration or asylum authorities or by Union institutions, bodies, offices or agencies, the {_market_surveillance_authority} referred to in Article {Article.74.Xnum}(8) or (9), as applicable, shall act as a {_notified_body}.
 
 43.1.=[G/Z/paras/s2]
 
-43.2.sec=For high-{_risk} {_AI_systems} referred to in points 2 to 8 of Annex III, {_providers} shall follow the {_conformity_assessment} procedure based on internal control as referred to in Annex VI, which does not provide for the involvement of a {_notified_body}.
+43.2.sec=For high-{_risk} {_AI_systems} referred to in points 2 to 8 of Annex {Annex.III.Xnum}, {_providers} shall follow the {_conformity_assessment} procedure based on internal control as referred to in Annex {Annex.VI.Xnum}, which does not provide for the involvement of a {_notified_body}.
 
-43.3.1.sec=For high-{_risk} {_AI_systems} covered by the Union harmonisation legislation listed in Section A of Annex I, the {_provider} shall follow the relevant {_conformity_assessment} procedure as required under those legal acts. The requirements set out in Section {Chapter.3.Section.2.Xnum} of this Chapter shall apply to those high-{_risk} {_AI_systems} and shall be part of that assessment. Points 4.3., 4.4., 4.5. and the fifth paragraph of point 4.6 of Annex VII shall also apply.
+43.3.1.sec=For high-{_risk} {_AI_systems} covered by the Union harmonisation legislation listed in Section A of Annex {Annex.I.Xnum}, the {_provider} shall follow the relevant {_conformity_assessment} procedure as required under those legal acts. The requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter shall apply to those high-{_risk} {_AI_systems} and shall be part of that assessment. Points 4.3., 4.4., 4.5. and the fifth paragraph of point 4.6 of Annex {Annex.VII.Xnum} shall also apply.
 
-43.3.2.sec=For the purposes of that assessment, {_notified_bodies} which have been notified under those legal acts shall be entitled to control the conformity of the high-{_risk} {_AI_systems} with the requirements set out in Section {Chapter.3.Section.2.Xnum}, provided that the compliance of those {_notified_bodies} with requirements laid down in Article {Article.31.Xnum}(4), (5), (10) and (11) has been assessed in the context of the notification procedure under those legal acts.
+43.3.2.sec=For the purposes of that assessment, {_notified_bodies} which have been notified under those legal acts shall be entitled to control the conformity of the high-{_risk} {_AI_systems} with the requirements set out in Section {Chapter.III.Section.2.Xnum}, provided that the compliance of those {_notified_bodies} with requirements laid down in Article {Article.31.Xnum}(4), (5), (10) and (11) has been assessed in the context of the notification procedure under those legal acts.
 
-43.3.3.sec=Where a legal act listed in Section A of Annex I enables the product manufacturer to opt out from a third-party {_conformity_assessment}, provided that that manufacturer has applied all {_harmonised_standards} covering all the relevant requirements, that manufacturer may use that option only if it has also applied {_harmonised_standards} or, where applicable, {_common_specifications} referred to in Article {Article.41.Xnum}, covering all requirements set out in Section {Chapter.3.Section.2.Xnum} of this Chapter.
+43.3.3.sec=Where a legal act listed in Section A of Annex {Annex.I.Xnum} enables the product manufacturer to opt out from a third-party {_conformity_assessment}, provided that that manufacturer has applied all {_harmonised_standards} covering all the relevant requirements, that manufacturer may use that option only if it has also applied {_harmonised_standards} or, where applicable, {_common_specifications} referred to in Article {Article.41.Xnum}, covering all requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter.
 
 43.3.=[G/Z/paras/s3]
 
 43.4.1.sec=High-{_risk} {_AI_systems} that have already been subject to a {_conformity_assessment} procedure shall undergo a new {_conformity_assessment} procedure in the event of a {_substantial_modification}, regardless of whether the modified system is intended to be further distributed or continues to be used by the current {_deployer}.
 
-43.4.2.sec=For high-{_risk} {_AI_systems} that continue to learn after being placed on the market or put into service, changes to the high-{_risk} {_AI_system} and its performance that have been pre-determined by the {_provider} at the moment of the initial {_conformity_assessment} and are part of the information contained in the technical documentation referred to in point 2(f) of Annex IV, shall not constitute a {_substantial_modification}.
+43.4.2.sec=For high-{_risk} {_AI_systems} that continue to learn after being placed on the market or put into service, changes to the high-{_risk} {_AI_system} and its performance that have been pre-determined by the {_provider} at the moment of the initial {_conformity_assessment} and are part of the information contained in the technical documentation referred to in point 2(f) of Annex {Annex.IV.Xnum}, shall not constitute a {_substantial_modification}.
 
 43.4.=[G/Z/paras/s2]
 
 43.5.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend Annexes VI and VII by updating them in light of technical progress.
 
-43.6.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend paragraphs 1 and 2 of this Article in order to subject high-{_risk} {_AI_systems} referred to in points 2 to 8 of Annex III to the {_conformity_assessment} procedure referred to in Annex VII or parts thereof. The Commission shall adopt such delegated acts taking into account the effectiveness of the {_conformity_assessment} procedure based on internal control referred to in Annex VI in preventing or minimising the {_risks} to health and safety and protection of fundamental rights posed by such systems, as well as the availability of adequate capacities and resources among {_notified_bodies}.
+43.6.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend paragraphs 1 and 2 of this Article in order to subject high-{_risk} {_AI_systems} referred to in points 2 to 8 of Annex {Annex.III.Xnum} to the {_conformity_assessment} procedure referred to in Annex {Annex.VII.Xnum} or parts thereof. The Commission shall adopt such delegated acts taking into account the effectiveness of the {_conformity_assessment} procedure based on internal control referred to in Annex {Annex.VI.Xnum} in preventing or minimising the {_risks} to health and safety and protection of fundamental rights posed by such systems, as well as the availability of adequate capacities and resources among {_notified_bodies}.
 
 43.=[G/Z/ol/s6]
 
@@ -1392,11 +1392,11 @@ Article 44
 
 44.Ti=Certificates
 
-44.1.sec=Certificates issued by {_notified_bodies} in accordance with Annex VII shall be drawn-up in a language which can be easily understood by the relevant authorities in the Member State in which the {_notified_body} is established.
+44.1.sec=Certificates issued by {_notified_bodies} in accordance with Annex {Annex.VII.Xnum} shall be drawn-up in a language which can be easily understood by the relevant authorities in the Member State in which the {_notified_body} is established.
 
-44.2.sec=Certificates shall be valid for the period they indicate, which shall not exceed five years for {_AI_systems} covered by Annex I, and four years for {_AI_systems} covered by Annex III. At the request of the {_provider}, the validity of a certificate may be extended for further periods, each not exceeding five years for {_AI_systems} covered by Annex I, and four years for {_AI_systems} covered by Annex III, based on a re-assessment in accordance with the applicable {_conformity_assessment} procedures. Any supplement to a certificate shall remain valid, provided that the certificate which it supplements is valid.
+44.2.sec=Certificates shall be valid for the period they indicate, which shall not exceed five years for {_AI_systems} covered by Annex {Annex.I.Xnum}, and four years for {_AI_systems} covered by Annex {Annex.III.Xnum}. At the request of the {_provider}, the validity of a certificate may be extended for further periods, each not exceeding five years for {_AI_systems} covered by Annex {Annex.I.Xnum}, and four years for {_AI_systems} covered by Annex {Annex.III.Xnum}, based on a re-assessment in accordance with the applicable {_conformity_assessment} procedures. Any supplement to a certificate shall remain valid, provided that the certificate which it supplements is valid.
 
-44.3.1.sec=Where a {_notified_body} finds that an {_AI_system} no longer meets the requirements set out in Section {Chapter.3.Section.2.Xnum}, it shall, taking account of the principle of proportionality, suspend or withdraw the certificate issued or impose restrictions on it, unless compliance with those requirements is ensured by appropriate corrective action taken by the {_provider} of the system within an appropriate deadline set by the {_notified_body}. The {_notified_body} shall give reasons for its decision.
+44.3.1.sec=Where a {_notified_body} finds that an {_AI_system} no longer meets the requirements set out in Section {Chapter.III.Section.2.Xnum}, it shall, taking account of the principle of proportionality, suspend or withdraw the certificate issued or impose restrictions on it, unless compliance with those requirements is ensured by appropriate corrective action taken by the {_provider} of the system within an appropriate deadline set by the {_notified_body}. The {_notified_body} shall give reasons for its decision.
 
 44.3.2.sec=An appeal procedure against decisions of the {_notified_bodies}, including on conformity certificates issued, shall be available.
 
@@ -1410,9 +1410,9 @@ Article 45
 
 45.1.0.sec={_Notified_bodies} shall inform the {_notifying_authority} of the following:
 
-45.1.1.sec=any Union technical documentation assessment certificates, any supplements to those certificates, and any quality management system approvals issued in accordance with the requirements of Annex VII;
+45.1.1.sec=any Union technical documentation assessment certificates, any supplements to those certificates, and any quality management system approvals issued in accordance with the requirements of Annex {Annex.VII.Xnum};
 
-45.1.2.sec=any refusal, restriction, suspension or withdrawal of a Union technical documentation assessment certificate or a quality management system approval issued in accordance with the requirements of Annex VII;
+45.1.2.sec=any refusal, restriction, suspension or withdrawal of a Union technical documentation assessment certificate or a quality management system approval issued in accordance with the requirements of Annex {Annex.VII.Xnum};
 
 45.1.3.sec=any circumstances affecting the scope of or conditions for notification;
 
@@ -1444,7 +1444,7 @@ Article 46
 
 46.2.sec=In a duly justified situation of urgency for exceptional reasons of public security or in the case of specific, substantial and imminent threat to the life or physical safety of natural persons, law-enforcement authorities or civil protection authorities may put a specific high-{_risk} {_AI_system} into service without the authorisation referred to in paragraph 1, provided that such authorisation is requested during or after the use without undue delay. If the authorisation referred to in paragraph 1 is refused, the use of the high-{_risk} {_AI_system} shall be stopped with immediate effect and all the results and outputs of such use shall be immediately discarded.
 
-46.3.sec=The authorisation referred to in paragraph 1 shall be issued only if the {_market_surveillance_authority} concludes that the high-{_risk} {_AI_system} complies with the requirements of Section {Chapter.3.Section.2.Xnum}. The {_market_surveillance_authority} shall inform the Commission and the other Member States of any authorisation issued pursuant to paragraphs 1 and 2. This obligation shall not cover {_sensitive_operational_data} in relation to the activities of law-enforcement authorities.
+46.3.sec=The authorisation referred to in paragraph 1 shall be issued only if the {_market_surveillance_authority} concludes that the high-{_risk} {_AI_system} complies with the requirements of Section {Chapter.III.Section.2.Xnum}. The {_market_surveillance_authority} shall inform the Commission and the other Member States of any authorisation issued pursuant to paragraphs 1 and 2. This obligation shall not cover {_sensitive_operational_data} in relation to the activities of law-enforcement authorities.
 
 46.4.sec=Where, within 15 calendar days of receipt of the information referred to in paragraph 3, no objection has been raised by either a Member State or the Commission in respect of an authorisation issued by a {_market_surveillance_authority} of a Member State in accordance with paragraph 1, that authorisation shall be deemed justified.
 
@@ -1452,7 +1452,7 @@ Article 46
 
 46.6.sec=Where the Commission considers the authorisation unjustified, it shall be withdrawn by the {_market_surveillance_authority} of the Member State concerned.
 
-46.7.sec=For high-{_risk} {_AI_systems} related to products covered by Union harmonisation legislation listed in Section A of Annex I, only the derogations from the {_conformity_assessment} established in that Union harmonisation legislation shall apply.
+46.7.sec=For high-{_risk} {_AI_systems} related to products covered by Union harmonisation legislation listed in Section A of Annex {Annex.I.Xnum}, only the derogations from the {_conformity_assessment} established in that Union harmonisation legislation shall apply.
 
 46.=[G/Z/ol/s7]
 
@@ -1462,13 +1462,13 @@ Article 47
 
 47.1.sec=The {_provider} shall draw up a written machine readable, physical or electronically signed EU declaration of conformity for each high-{_risk} {_AI_system}, and keep it at the disposal of the national competent authorities for 10 years after the high-{_risk} {_AI_system} has been placed on the market or put into service. The EU declaration of conformity shall identify the high-{_risk} {_AI_system} for which it has been drawn up. A copy of the EU declaration of conformity shall be submitted to the relevant national competent authorities upon request.
 
-47.2.sec=The EU declaration of conformity shall state that the high-{_risk} {_AI_system} concerned meets the requirements set out in Section {Chapter.3.Section.2.Xnum}. The EU declaration of conformity shall contain the information set out in Annex V, and shall be translated into a language that can be easily understood by the national competent authorities of the Member States in which the high-{_risk} {_AI_system} is placed on the market or made available.
+47.2.sec=The EU declaration of conformity shall state that the high-{_risk} {_AI_system} concerned meets the requirements set out in Section {Chapter.III.Section.2.Xnum}. The EU declaration of conformity shall contain the information set out in Annex {Annex.V.Xnum}, and shall be translated into a language that can be easily understood by the national competent authorities of the Member States in which the high-{_risk} {_AI_system} is placed on the market or made available.
 
 47.3.sec=Where high-{_risk} {_AI_systems} are subject to other Union harmonisation legislation which also requires an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all Union law applicable to the high-{_risk} {_AI_system}. The declaration shall contain all the information required to identify the Union harmonisation legislation to which the declaration relates.
 
-47.4.sec=By drawing up the EU declaration of conformity, the {_provider} shall assume responsibility for compliance with the requirements set out in Section {Chapter.3.Section.2.Xnum}. The {_provider} shall keep the EU declaration of conformity up-to-date as appropriate.
+47.4.sec=By drawing up the EU declaration of conformity, the {_provider} shall assume responsibility for compliance with the requirements set out in Section {Chapter.III.Section.2.Xnum}. The {_provider} shall keep the EU declaration of conformity up-to-date as appropriate.
 
-47.5.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend Annex V by updating the content of the EU declaration of conformity set out in that Annex, in order to introduce elements that become necessary in light of technical progress.
+47.5.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend Annex {Annex.V.Xnum} by updating the content of the EU declaration of conformity set out in that Annex, in order to introduce elements that become necessary in light of technical progress.
 
 47.=[G/Z/ol/s5]
 
@@ -1492,27 +1492,27 @@ Article 49
 
 49.Ti=Registration
 
-49.1.sec=Before {_placing_on_the_market} or {_putting_into_service} a high-{_risk} {_AI_system} listed in Annex III, with the exception of high-{_risk} {_AI_systems} referred to in point 2 of Annex III, the {_provider} or, where applicable, the {_authorised_representative} shall register themselves and their system in the EU database referred to in Article {Article.71.Xnum}.
+49.1.sec=Before {_placing_on_the_market} or {_putting_into_service} a high-{_risk} {_AI_system} listed in Annex {Annex.III.Xnum}, with the exception of high-{_risk} {_AI_systems} referred to in point 2 of Annex {Annex.III.Xnum}, the {_provider} or, where applicable, the {_authorised_representative} shall register themselves and their system in the EU database referred to in Article {Article.71.Xnum}.
 
 49.2.sec=Before {_placing_on_the_market} or {_putting_into_service} an {_AI_system} for which the {_provider} has concluded that it is not high-{_risk} according to Article {Article.6.Xnum}(3), that {_provider} or, where applicable, the {_authorised_representative} shall register themselves and that system in the EU database referred to in Article {Article.71.Xnum}.
 
-49.3.sec=Before {_putting_into_service} or using a high-{_risk} {_AI_system} listed in Annex III, with the exception of high-{_risk} {_AI_systems} listed in point 2 of Annex III, {_deployers} that are public authorities, Union institutions, bodies, offices or agencies or persons acting on their behalf shall register themselves, select the system and register its use in the EU database referred to in Article {Article.71.Xnum}.
+49.3.sec=Before {_putting_into_service} or using a high-{_risk} {_AI_system} listed in Annex {Annex.III.Xnum}, with the exception of high-{_risk} {_AI_systems} listed in point 2 of Annex {Annex.III.Xnum}, {_deployers} that are public authorities, Union institutions, bodies, offices or agencies or persons acting on their behalf shall register themselves, select the system and register its use in the EU database referred to in Article {Article.71.Xnum}.
 
-49.4.0.sec=For high-{_risk} {_AI_systems} referred to in points 1, 6 and 7 of Annex III, in the areas of {_law_enforcement}, migration, asylum and border control management, the registration referred to in paragraphs 1, 2 and 3 of this Article shall be in a secure non-public section of the EU database referred to in Article {Article.71.Xnum} and shall include only the following information, as applicable, referred to in:
+49.4.0.sec=For high-{_risk} {_AI_systems} referred to in points 1, 6 and 7 of Annex {Annex.III.Xnum}, in the areas of {_law_enforcement}, migration, asylum and border control management, the registration referred to in paragraphs 1, 2 and 3 of this Article shall be in a secure non-public section of the EU database referred to in Article {Article.71.Xnum} and shall include only the following information, as applicable, referred to in:
 
-49.4.1.sec=Section A, points 1 to 10, of Annex VIII, with the exception of points 6, 8 and 9;
+49.4.1.sec=Section A, points 1 to 10, of Annex {Annex.VIII.Xnum}, with the exception of points 6, 8 and 9;
 
-49.4.2.sec=Section B, points 1 to 5, and points 8 and 9 of Annex VIII;
+49.4.2.sec=Section B, points 1 to 5, and points 8 and 9 of Annex {Annex.VIII.Xnum};
 
-49.4.3.sec=Section C, points 1 to 3, of Annex VIII;
+49.4.3.sec=Section C, points 1 to 3, of Annex {Annex.VIII.Xnum};
 
-49.4.4.sec=points 1, 2, 3 and 5, of Annex IX.
+49.4.4.sec=points 1, 2, 3 and 5, of Annex {Annex.IX.Xnum}.
 
 49.4.00.sec=Only the Commission and national authorities referred to in Article {Article.74.Xnum}(8) shall have access to the respective restricted sections of the EU database listed in the first subparagraph of this paragraph.
 
 49.4.=[G/Z/ol/s4]
 
-49.5.sec=High-{_risk} {_AI_systems} referred to in point 2 of Annex III shall be registered at national level.
+49.5.sec=High-{_risk} {_AI_systems} referred to in point 2 of Annex {Annex.III.Xnum} shall be registered at national level.
 
 49.=[G/Z/ol/s5]
 
@@ -1562,7 +1562,7 @@ Article 51
 
 51.1.1.sec=it has high impact capabilities evaluated on the basis of appropriate technical tools and methodologies, including indicators and benchmarks;
 
-51.1.2.sec=based on a decision of the Commission, ex officio or following a qualified alert from the scientific panel, it has capabilities or an impact equivalent to those set out in point (a) having regard to the criteria set out in Annex XIII.
+51.1.2.sec=based on a decision of the Commission, ex officio or following a qualified alert from the scientific panel, it has capabilities or an impact equivalent to those set out in point (a) having regard to the criteria set out in Annex {Annex.XIII.Xnum}.
 
 51.1.=[G/Z/ol-a/s2]
 
@@ -1582,13 +1582,13 @@ Article 52
 
 52.3.sec=Where the Commission concludes that the arguments submitted pursuant to paragraph 2 are not sufficiently substantiated and the relevant {_provider} was not able to demonstrate that the {_general-purpose_AI_model} does not present, due to its specific characteristics, {_systemic_risks}, it shall reject those arguments, and the {_general-purpose_AI_model} shall be considered to be a {_general-purpose_AI_model} with {_systemic_risk}.
 
-52.4.1.sec=The Commission may designate a {_general-purpose_AI_model} as presenting {_systemic_risks}, ex officio or following a qualified alert from the scientific panel pursuant to Article {Article.90.Xnum}(1), point (a), on the basis of criteria set out in Annex XIII.
+52.4.1.sec=The Commission may designate a {_general-purpose_AI_model} as presenting {_systemic_risks}, ex officio or following a qualified alert from the scientific panel pursuant to Article {Article.90.Xnum}(1), point (a), on the basis of criteria set out in Annex {Annex.XIII.Xnum}.
 
-52.4.2.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend Annex XIII by specifying and updating the criteria set out in that Annex.
+52.4.2.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} in order to amend Annex {Annex.XIII.Xnum} by specifying and updating the criteria set out in that Annex.
 
 52.4.=[G/Z/paras/s2]
 
-52.5.sec=Upon a reasoned request of a {_provider} whose model has been designated as a {_general-purpose_AI_model} with {_systemic_risk} pursuant to paragraph 4, the Commission shall take the request into account and may decide to reassess whether the {_general-purpose_AI_model} can still be considered to present {_systemic_risks} on the basis of the criteria set out in Annex XIII. Such a request shall contain objective, detailed and new reasons that have arisen since the designation decision. {_Providers} may request reassessment at the earliest six months after the designation decision. Where the Commission, following its reassessment, decides to maintain the designation as a {_general-purpose_AI_model} with {_systemic_risk}, {_providers} may request reassessment at the earliest six months after that decision.
+52.5.sec=Upon a reasoned request of a {_provider} whose model has been designated as a {_general-purpose_AI_model} with {_systemic_risk} pursuant to paragraph 4, the Commission shall take the request into account and may decide to reassess whether the {_general-purpose_AI_model} can still be considered to present {_systemic_risks} on the basis of the criteria set out in Annex {Annex.XIII.Xnum}. Such a request shall contain objective, detailed and new reasons that have arisen since the designation decision. {_Providers} may request reassessment at the earliest six months after the designation decision. Where the Commission, following its reassessment, decides to maintain the designation as a {_general-purpose_AI_model} with {_systemic_risk}, {_providers} may request reassessment at the earliest six months after that decision.
 
 52.6.sec=The Commission shall ensure that a list of {_general-purpose_AI_models} with {_systemic_risk} is published and shall keep that list up to date, without prejudice to the need to observe and protect intellectual property rights and confidential business information or trade secrets in accordance with Union and national law.
 
@@ -1604,13 +1604,13 @@ Article 53
 
 53.1.0.sec={_Providers} of {_general-purpose_AI_models} shall:
 
-53.1.1.sec=draw up and keep up-to-date the technical documentation of the model, including its training and testing process and the results of its evaluation, which shall contain, at a minimum, the information set out in Annex XI for the purpose of providing it, upon request, to the {_AI_Office} and the national competent authorities;
+53.1.1.sec=draw up and keep up-to-date the technical documentation of the model, including its training and testing process and the results of its evaluation, which shall contain, at a minimum, the information set out in Annex {Annex.XI.Xnum} for the purpose of providing it, upon request, to the {_AI_Office} and the national competent authorities;
 
 53.1.2.0.sec=draw up, keep up-to-date and make available information and documentation to {_providers} of {_AI_systems} who intend to integrate the {_general-purpose_AI_model} into their {_AI_systems}. Without prejudice to the need to observe and protect intellectual property rights and confidential business information or trade secrets in accordance with Union and national law, the information and documentation shall:
 
 53.1.2.1.sec=enable {_providers} of {_AI_systems} to have a good understanding of the capabilities and limitations of the {_general-purpose_AI_model} and to comply with their obligations pursuant to this Regulation; and
 
-53.1.2.2.sec=contain, at a minimum, the elements set out in Annex XII;
+53.1.2.2.sec=contain, at a minimum, the elements set out in Annex {Annex.XII.Xnum};
 
 53.1.2.=[G/Z/ol-i/s2]
 
@@ -1626,7 +1626,7 @@ Article 53
 
 53.4.sec={_Providers} of {_general-purpose_AI_models} may rely on codes of practice within the meaning of Article {Article.56.Xnum} to demonstrate compliance with the obligations set out in paragraph 1 of this Article, until a {_harmonised_standard} is published. Compliance with European {_harmonised_standards} grants {_providers} the presumption of conformity to the extent that those standards cover those obligations. {_Providers} of {_general-purpose_AI_models} who do not adhere to an approved code of practice or do not comply with a European {_harmonised_standard} shall demonstrate alternative adequate means of compliance for assessment by the Commission.
 
-53.5.sec=For the purpose of facilitating compliance with Annex XI, in particular points 2 (d) and (e) thereof, the Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} to detail measurement and calculation methodologies with a view to allowing for comparable and verifiable documentation.
+53.5.sec=For the purpose of facilitating compliance with Annex {Annex.XI.Xnum}, in particular points 2 (d) and (e) thereof, the Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum} to detail measurement and calculation methodologies with a view to allowing for comparable and verifiable documentation.
 
 53.6.sec=The Commission is empowered to adopt delegated acts in accordance with Article {Article.97.Xnum}(2) to amend Annexes XI and XII in light of evolving technological developments.
 
@@ -1644,9 +1644,9 @@ Article 54
 
 54.3.0.sec=The {_authorised_representative} shall perform the tasks specified in the mandate received from the {_provider}. It shall provide a copy of the mandate to the {_AI_Office} upon request, in one of the official languages of the institutions of the Union. For the purposes of this Regulation, the mandate shall empower the {_authorised_representative} to carry out the following tasks:
 
-54.3.1.sec=verify that the technical documentation specified in Annex XI has been drawn up and all obligations referred to in Article {Article.53.Xnum} and, where applicable, Article {Article.55.Xnum} have been fulfilled by the {_provider};
+54.3.1.sec=verify that the technical documentation specified in Annex {Annex.XI.Xnum} has been drawn up and all obligations referred to in Article {Article.53.Xnum} and, where applicable, Article {Article.55.Xnum} have been fulfilled by the {_provider};
 
-54.3.2.sec=keep a copy of the technical documentation specified in Annex XI at the disposal of the {_AI_Office} and national competent authorities, for a period of 10 years after the {_general-purpose_AI_model} has been placed on the market, and the contact details of the {_provider} that appointed the {_authorised_representative};
+54.3.2.sec=keep a copy of the technical documentation specified in Annex {Annex.XI.Xnum} at the disposal of the {_AI_Office} and national competent authorities, for a period of 10 years after the {_general-purpose_AI_model} has been placed on the market, and the contact details of the {_provider} that appointed the {_authorised_representative};
 
 54.3.3.sec=provide the {_AI_Office}, upon a reasoned request, with all the information and documentation, including that referred to in point (b), necessary to demonstrate compliance with the obligations in this Chapter;
 
@@ -1862,7 +1862,7 @@ Article 59
 
 59.1.1.=[G/Z/ol-i/s5]
 
-59.1.2.sec=the data processed are necessary for complying with one or more of the requirements referred to in Chapter III, Section {Chapter.3.Section.2.Xnum} where those requirements cannot effectively be fulfilled by processing anonymised, synthetic or other {_non-personal_data};
+59.1.2.sec=the data processed are necessary for complying with one or more of the requirements referred to in Chapter III, Section {Chapter.III.Section.2.Xnum} where those requirements cannot effectively be fulfilled by processing anonymised, synthetic or other {_non-personal_data};
 
 59.1.3.sec=there are effective monitoring mechanisms to identify if any high {_risks} to the rights and freedoms of the data subjects, as referred to in Article 35 of Regulation (EU) 2016/679 and in Article 39 of Regulation (EU) 2018/1725, may arise during the sandbox experimentation, as well as response mechanisms to promptly mitigate those {_risks} and, where necessary, stop the processing;
 
@@ -1876,7 +1876,7 @@ Article 59
 
 59.1.8.sec=the logs of the processing of {_personal_data} in the context of the sandbox are kept for the duration of the participation in the sandbox, unless provided otherwise by Union or national law;
 
-59.1.9.sec=a complete and detailed description of the process and rationale behind the training, testing and validation of the {_AI_system} is kept together with the testing results as part of the technical documentation referred to in Annex IV;
+59.1.9.sec=a complete and detailed description of the process and rationale behind the training, testing and validation of the {_AI_system} is kept together with the testing results as part of the technical documentation referred to in Annex {Annex.IV.Xnum};
 
 59.1.10.sec=a short summary of the AI project developed in the sandbox, its objectives and expected results is published on the website of the competent authorities; this obligation shall not cover {_sensitive_operational_data} in relation to the activities of {_law_enforcement}, border control, immigration or asylum authorities.
 
@@ -1892,15 +1892,15 @@ Article 60
 
 60.Ti=Testing of high-{_risk} {_AI_systems} in real world conditions outside {_AI_regulatory_sandboxes}
 
-60.1.1.sec=Testing of high-{_risk} {_AI_systems} in real world conditions outside {_AI_regulatory_sandboxes} may be conducted by {_providers} or prospective {_providers} of high-{_risk} {_AI_systems} listed in Annex III, in accordance with this Article and the {_real-world_testing_plan} referred to in this Article, without prejudice to the prohibitions under Article {Article.5.Xnum}.
+60.1.1.sec=Testing of high-{_risk} {_AI_systems} in real world conditions outside {_AI_regulatory_sandboxes} may be conducted by {_providers} or prospective {_providers} of high-{_risk} {_AI_systems} listed in Annex {Annex.III.Xnum}, in accordance with this Article and the {_real-world_testing_plan} referred to in this Article, without prejudice to the prohibitions under Article {Article.5.Xnum}.
 
 60.1.2.sec=The Commission shall, by means of implementing acts, specify the detailed elements of the {_real-world_testing_plan}. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article {Article.98.Xnum}(2).
 
-60.1.3.sec=This paragraph shall be without prejudice to Union or national law on the testing in real world conditions of high-{_risk} {_AI_systems} related to products covered by Union harmonisation legislation listed in Annex I.
+60.1.3.sec=This paragraph shall be without prejudice to Union or national law on the testing in real world conditions of high-{_risk} {_AI_systems} related to products covered by Union harmonisation legislation listed in Annex {Annex.I.Xnum}.
 
 60.1.=[G/Z/paras/s3]
 
-60.2.sec={_Providers} or prospective {_providers} may conduct testing of high-{_risk} {_AI_systems} referred to in Annex III in real world conditions at any time before the {_placing_on_the_market} or the {_putting_into_service} of the {_AI_system} on their own or in partnership with one or more {_deployers} or prospective {_deployers}.
+60.2.sec={_Providers} or prospective {_providers} may conduct testing of high-{_risk} {_AI_systems} referred to in Annex {Annex.III.Xnum} in real world conditions at any time before the {_placing_on_the_market} or the {_putting_into_service} of the {_AI_system} on their own or in partnership with one or more {_deployers} or prospective {_deployers}.
 
 60.3.sec=The testing of high-{_risk} {_AI_systems} in real world conditions under this Article shall be without prejudice to any ethical review that is required by Union or national law.
 
@@ -1910,7 +1910,7 @@ Article 60
 
 60.4.2.sec=the {_market_surveillance_authority} in the Member State where the testing in real world conditions is to be conducted has approved the testing in real world conditions and the {_real-world_testing_plan}; where the {_market_surveillance_authority} has not provided an answer within 30 days, the testing in real world conditions and the {_real-world_testing_plan} shall be understood to have been approved; where national law does not provide for a tacit approval, the testing in real world conditions shall remain subject to an authorisation;
 
-60.4.3.sec=the {_provider} or prospective {_provider}, with the exception of {_providers} or prospective {_providers} of high-{_risk} {_AI_systems} referred to in points 1, 6 and 7 of Annex III in the areas of {_law_enforcement}, migration, asylum and border control management, and high-{_risk} {_AI_systems} referred to in point 2 of Annex III has registered the testing in real world conditions in accordance with Article {Article.71.Xnum}(4) with a Union-wide unique single identification number and with the information specified in Annex IX; the {_provider} or prospective {_provider} of high-{_risk} {_AI_systems} referred to in points 1, 6 and 7 of Annex III in the areas of {_law_enforcement}, migration, asylum and border control management, has registered the {_testing_in_real-world_conditions} in the secure non-public section of the EU database according to Article {Article.49.Xnum}(4), point (d), with a Union-wide unique single identification number and with the information specified therein; the {_provider} or prospective {_provider} of high-{_risk} {_AI_systems} referred to in point 2 of Annex III has registered the {_testing_in_real-world_conditions} in accordance with Article {Article.49.Xnum}(5);
+60.4.3.sec=the {_provider} or prospective {_provider}, with the exception of {_providers} or prospective {_providers} of high-{_risk} {_AI_systems} referred to in points 1, 6 and 7 of Annex {Annex.III.Xnum} in the areas of {_law_enforcement}, migration, asylum and border control management, and high-{_risk} {_AI_systems} referred to in point 2 of Annex {Annex.III.Xnum} has registered the testing in real world conditions in accordance with Article {Article.71.Xnum}(4) with a Union-wide unique single identification number and with the information specified in Annex {Annex.IX.Xnum}; the {_provider} or prospective {_provider} of high-{_risk} {_AI_systems} referred to in points 1, 6 and 7 of Annex {Annex.III.Xnum} in the areas of {_law_enforcement}, migration, asylum and border control management, has registered the {_testing_in_real-world_conditions} in the secure non-public section of the EU database according to Article {Article.49.Xnum}(4), point (d), with a Union-wide unique single identification number and with the information specified therein; the {_provider} or prospective {_provider} of high-{_risk} {_AI_systems} referred to in point 2 of Annex {Annex.III.Xnum} has registered the {_testing_in_real-world_conditions} in accordance with Article {Article.49.Xnum}(5);
 
 60.4.4.sec=the {_provider} or prospective {_provider} conducting the testing in real world conditions is established in the Union or has appointed a legal representative who is established in the Union;
 
@@ -2078,9 +2078,9 @@ Article 66
 
 66.5.1.sec=on the development and application of codes of conduct and codes of practice pursuant to this Regulation, as well as of the Commission’s guidelines;
 
-66.5.2.sec=the evaluation and review of this Regulation pursuant to Article {Article.112.Xnum}, including as regards the {_serious_incident} reports referred to in Article {Article.73.Xnum}, and the functioning of the EU database referred to in Article {Article.71.Xnum}, the preparation of the delegated or implementing acts, and as regards possible alignments of this Regulation with the Union harmonisation legislation listed in Annex I;
+66.5.2.sec=the evaluation and review of this Regulation pursuant to Article {Article.112.Xnum}, including as regards the {_serious_incident} reports referred to in Article {Article.73.Xnum}, and the functioning of the EU database referred to in Article {Article.71.Xnum}, the preparation of the delegated or implementing acts, and as regards possible alignments of this Regulation with the Union harmonisation legislation listed in Annex {Annex.I.Xnum};
 
-66.5.3.sec=on technical specifications or existing standards regarding the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum};
+66.5.3.sec=on technical specifications or existing standards regarding the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum};
 
 66.5.4.sec=on the use of {_harmonised_standards} or {_common_specifications} referred to in Articles 40 and 41;
 
@@ -2088,7 +2088,7 @@ Article 66
 
 66.5.6.sec=trends on the evolving typology of AI value chains, in particular on the resulting implications in terms of accountability;
 
-66.5.7.sec=on the potential need for amendment to Annex III in accordance with Article {Article.7.Xnum}, and on the potential need for possible revision of Article {Article.5.Xnum} pursuant to Article {Article.112.Xnum}, taking into account relevant available evidence and the latest developments in technology;
+66.5.7.sec=on the potential need for amendment to Annex {Annex.III.Xnum} in accordance with Article {Article.7.Xnum}, and on the potential need for possible revision of Article {Article.5.Xnum} pursuant to Article {Article.112.Xnum}, taking into account relevant available evidence and the latest developments in technology;
 
 66.5.=[G/Z/ol-i/s7]
 
@@ -2236,13 +2236,13 @@ EU DATABASE FOR HIGH-RISK AI SYSTEMS
 
 Article 71
 
-71.Ti=EU database for high-{_risk} {_AI_systems} listed in Annex III
+71.Ti=EU database for high-{_risk} {_AI_systems} listed in Annex {Annex.III.Xnum}
 
 71.1.sec=The Commission shall, in collaboration with the Member States, set up and maintain an EU database containing information referred to in paragraphs 2 and 3 of this Article concerning high-{_risk} {_AI_systems} referred to in Article {Article.6.Xnum}(2) which are registered in accordance with Articles 49 and 60 and {_AI_systems} that are not considered as high-{_risk} pursuant to Article {Article.6.Xnum}(3) and which are registered in accordance with Article {Article.6.Xnum}(4) and Article {Article.49.Xnum}. When setting the functional specifications of such database, the Commission shall consult the relevant experts, and when updating the functional specifications of such database, the Commission shall consult the Board.
 
-71.2.sec=The data listed in Sections A and B of Annex VIII shall be entered into the EU database by the {_provider} or, where applicable, by the {_authorised_representative}.
+71.2.sec=The data listed in Sections A and B of Annex {Annex.VIII.Xnum} shall be entered into the EU database by the {_provider} or, where applicable, by the {_authorised_representative}.
 
-71.3.sec=The data listed in Section C of Annex VIII shall be entered into the EU database by the {_deployer} who is, or who acts on behalf of, a public authority, agency or body, in accordance with Article {Article.49.Xnum}(3) and (4).
+71.3.sec=The data listed in Section C of Annex {Annex.VIII.Xnum} shall be entered into the EU database by the {_deployer} who is, or who acts on behalf of, a public authority, agency or body, in accordance with Article {Article.49.Xnum}(3) and (4).
 
 71.4.sec=With the exception of the section referred to in Article {Article.49.Xnum}(4) and Article {Article.60.Xnum}(4), point (c), the information contained in the EU database registered in accordance with Article {Article.49.Xnum} shall be accessible and publicly available in a user-friendly manner. The information should be easily navigable and machine-readable. The information registered in accordance with Article {Article.60.Xnum} shall be accessible only to market surveillance authorities and the Commission, unless the prospective {_provider} or {_provider} has given consent for also making the information accessible the public.
 
@@ -2266,13 +2266,13 @@ Article 72
 
 72.1.sec={_Providers} shall establish and document a {_post-market_monitoring_system} in a manner that is proportionate to the nature of the AI technologies and the {_risks} of the high-{_risk} {_AI_system}.
 
-72.2.sec=The {_post-market_monitoring_system} shall actively and systematically collect, document and analyse relevant data which may be provided by {_deployers} or which may be collected through other sources on the performance of high-{_risk} {_AI_systems} throughout their lifetime, and which allow the {_provider} to evaluate the continuous compliance of {_AI_systems} with the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}. Where relevant, post-market monitoring shall include an analysis of the interaction with other {_AI_systems}. This obligation shall not cover {_sensitive_operational_data} of {_deployers} which are law-enforcement authorities.
+72.2.sec=The {_post-market_monitoring_system} shall actively and systematically collect, document and analyse relevant data which may be provided by {_deployers} or which may be collected through other sources on the performance of high-{_risk} {_AI_systems} throughout their lifetime, and which allow the {_provider} to evaluate the continuous compliance of {_AI_systems} with the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}. Where relevant, post-market monitoring shall include an analysis of the interaction with other {_AI_systems}. This obligation shall not cover {_sensitive_operational_data} of {_deployers} which are law-enforcement authorities.
 
-72.3.sec=The {_post-market_monitoring_system} shall be based on a post-market monitoring plan. The post-market monitoring plan shall be part of the technical documentation referred to in Annex IV. The Commission shall adopt an implementing act laying down detailed provisions establishing a template for the post-market monitoring plan and the list of elements to be included in the plan by 2 February 2026. That implementing act shall be adopted in accordance with the examination procedure referred to in Article {Article.98.Xnum}(2).
+72.3.sec=The {_post-market_monitoring_system} shall be based on a post-market monitoring plan. The post-market monitoring plan shall be part of the technical documentation referred to in Annex {Annex.IV.Xnum}. The Commission shall adopt an implementing act laying down detailed provisions establishing a template for the post-market monitoring plan and the list of elements to be included in the plan by 2 February 2026. That implementing act shall be adopted in accordance with the examination procedure referred to in Article {Article.98.Xnum}(2).
 
-72.4.1.sec=For high-{_risk} {_AI_systems} covered by the Union harmonisation legislation listed in Section A of Annex I, where a {_post-market_monitoring_system} and plan are already established under that legislation, in order to ensure consistency, avoid duplications and minimise additional burdens, {_providers} shall have a choice of integrating, as appropriate, the necessary elements described in paragraphs 1, 2 and 3 using the template referred in paragraph 3 into systems and plans already existing under that legislation, provided that it achieves an equivalent level of protection.
+72.4.1.sec=For high-{_risk} {_AI_systems} covered by the Union harmonisation legislation listed in Section A of Annex {Annex.I.Xnum}, where a {_post-market_monitoring_system} and plan are already established under that legislation, in order to ensure consistency, avoid duplications and minimise additional burdens, {_providers} shall have a choice of integrating, as appropriate, the necessary elements described in paragraphs 1, 2 and 3 using the template referred in paragraph 3 into systems and plans already existing under that legislation, provided that it achieves an equivalent level of protection.
 
-72.4.2.sec=The first subparagraph of this paragraph shall also apply to high-{_risk} {_AI_systems} referred to in point 5 of Annex III placed on the market or put into service by financial institutions that are subject to requirements under Union financial services law regarding their internal governance, arrangements or processes.
+72.4.2.sec=The first subparagraph of this paragraph shall also apply to high-{_risk} {_AI_systems} referred to in point 5 of Annex {Annex.III.Xnum} placed on the market or put into service by financial institutions that are subject to requirements under Union financial services law regarding their internal governance, arrangements or processes.
 
 72.4.=[G/Z/paras/s2]
 
@@ -2308,7 +2308,7 @@ Article 73
 
 73.8.sec=The {_market_surveillance_authority} shall take appropriate measures, as provided for in Article 19 of Regulation (EU) 2019/1020, within seven days from the date it received the notification referred to in paragraph 1 of this Article, and shall follow the notification procedures as provided in that Regulation.
 
-73.9.sec=For high-{_risk} {_AI_systems} referred to in Annex III that are placed on the market or put into service by {_providers} that are subject to Union legislative instruments laying down reporting obligations equivalent to those set out in this Regulation, the notification of {_serious_incidents} shall be limited to those referred to in Article {Article.3.Xnum}, point (49)(c).
+73.9.sec=For high-{_risk} {_AI_systems} referred to in Annex {Annex.III.Xnum} that are placed on the market or put into service by {_providers} that are subject to Union legislative instruments laying down reporting obligations equivalent to those set out in this Regulation, the notification of {_serious_incidents} shall be limited to those referred to in Article {Article.3.Xnum}, point (49)(c).
 
 73.10.sec=For high-{_risk} {_AI_systems} which are {_safety_components} of devices, or are themselves devices, covered by Regulations (EU) 2017/745 and (EU) 2017/746, the notification of {_serious_incidents} shall be limited to those referred to in Article {Article.3.Xnum}, point (49)(c) of this Regulation, and shall be made to the {_national_competent_authority} chosen for that purpose by the Member States where the incident occurred.
 
@@ -2334,13 +2334,13 @@ Article 74
 
 74.2.sec=As part of their reporting obligations under Article 34(4) of Regulation (EU) 2019/1020, the market surveillance authorities shall report annually to the Commission and relevant national competition authorities any information identified in the course of market surveillance activities that may be of potential interest for the application of Union law on competition rules. They shall also annually report to the Commission about the use of prohibited practices that occurred during that year and about the measures taken.
 
-74.3.1.sec=For high-{_risk} {_AI_systems} related to products covered by the Union harmonisation legislation listed in Section A of Annex I, the {_market_surveillance_authority} for the purposes of this Regulation shall be the authority responsible for market surveillance activities designated under those legal acts.
+74.3.1.sec=For high-{_risk} {_AI_systems} related to products covered by the Union harmonisation legislation listed in Section A of Annex {Annex.I.Xnum}, the {_market_surveillance_authority} for the purposes of this Regulation shall be the authority responsible for market surveillance activities designated under those legal acts.
 
-74.3.2.sec=By derogation from the first subparagraph, and in appropriate circumstances, Member States may designate another relevant authority to act as a {_market_surveillance_authority}, provided they ensure coordination with the relevant sectoral market surveillance authorities responsible for the enforcement of the Union harmonisation legislation listed in Annex I.
+74.3.2.sec=By derogation from the first subparagraph, and in appropriate circumstances, Member States may designate another relevant authority to act as a {_market_surveillance_authority}, provided they ensure coordination with the relevant sectoral market surveillance authorities responsible for the enforcement of the Union harmonisation legislation listed in Annex {Annex.I.Xnum}.
 
 74.3.=[G/Z/paras/s2]
 
-74.4.sec=The procedures referred to in Articles 79 to 83 of this Regulation shall not apply to {_AI_systems} related to products covered by the Union harmonisation legislation listed in section A of Annex I, where such legal acts already provide for procedures ensuring an equivalent level of protection and having the same objective. In such cases, the relevant sectoral procedures shall apply instead.
+74.4.sec=The procedures referred to in Articles 79 to 83 of this Regulation shall not apply to {_AI_systems} related to products covered by the Union harmonisation legislation listed in section A of Annex {Annex.I.Xnum}, where such legal acts already provide for procedures ensuring an equivalent level of protection and having the same objective. In such cases, the relevant sectoral procedures shall apply instead.
 
 74.5.sec=Without prejudice to the powers of market surveillance authorities under Article 14 of Regulation (EU) 2019/1020, for the purpose of ensuring the effective enforcement of this Regulation, market surveillance authorities may exercise the powers referred to in Article {Article.14.Xnum}(4), points (d) and (j), of that Regulation remotely, as appropriate.
 
@@ -2352,11 +2352,11 @@ Article 74
 
 74.7.=[G/Z/paras/s2]
 
-74.8.sec=For high-{_risk} {_AI_systems} listed in point 1 of Annex III to this Regulation, in so far as the systems are used for {_law_enforcement} purposes, border management and justice and democracy, and for high-{_risk} {_AI_systems} listed in points 6, 7 and 8 of Annex III to this Regulation, Member States shall designate as market surveillance authorities for the purposes of this Regulation either the competent data protection supervisory authorities under Regulation (EU) 2016/679 or Directive (EU) 2016/680, or any other authority designated pursuant to the same conditions laid down in Articles 41 to 44 of Directive (EU) 2016/680. Market surveillance activities shall in no way affect the independence of judicial authorities, or otherwise interfere with their activities when acting in their judicial capacity.
+74.8.sec=For high-{_risk} {_AI_systems} listed in point 1 of Annex {Annex.III.Xnum} to this Regulation, in so far as the systems are used for {_law_enforcement} purposes, border management and justice and democracy, and for high-{_risk} {_AI_systems} listed in points 6, 7 and 8 of Annex {Annex.III.Xnum} to this Regulation, Member States shall designate as market surveillance authorities for the purposes of this Regulation either the competent data protection supervisory authorities under Regulation (EU) 2016/679 or Directive (EU) 2016/680, or any other authority designated pursuant to the same conditions laid down in Articles 41 to 44 of Directive (EU) 2016/680. Market surveillance activities shall in no way affect the independence of judicial authorities, or otherwise interfere with their activities when acting in their judicial capacity.
 
 74.9.sec=Where Union institutions, bodies, offices or agencies fall within the scope of this Regulation, the European Data Protection Supervisor shall act as their {_market_surveillance_authority}, except in relation to the Court of Justice of the European Union acting in its judicial capacity.
 
-74.10.sec=Member States shall facilitate coordination between market surveillance authorities designated under this Regulation and other relevant national authorities or bodies which supervise the application of Union harmonisation legislation listed in Annex I, or in other Union law, that might be relevant for the high-{_risk} {_AI_systems} referred to in Annex III.
+74.10.sec=Member States shall facilitate coordination between market surveillance authorities designated under this Regulation and other relevant national authorities or bodies which supervise the application of Union harmonisation legislation listed in Annex {Annex.I.Xnum}, or in other Union law, that might be relevant for the high-{_risk} {_AI_systems} referred to in Annex {Annex.III.Xnum}.
 
 74.11.sec=Market surveillance authorities and the Commission shall be able to propose joint activities, including joint investigations, to be conducted by either market surveillance authorities or market surveillance authorities jointly with the Commission, that have the aim of promoting compliance, identifying non-compliance, raising awareness or providing guidance in relation to this Regulation with respect to specific categories of high-{_risk} {_AI_systems} that are found to present a serious {_risk} across two or more Member States in accordance with Article 9 of Regulation (EU) 2019/1020. The {_AI_Office} shall provide coordination support for joint investigations.
 
@@ -2364,7 +2364,7 @@ Article 74
 
 74.13.0.sec=Market surveillance authorities shall be granted access to the source code of the high-{_risk} {_AI_system} upon a reasoned request and only when both of the following conditions are fulfilled:
 
-74.13.1.sec=access to source code is necessary to assess the conformity of a high-{_risk} {_AI_system} with the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}; and
+74.13.1.sec=access to source code is necessary to assess the conformity of a high-{_risk} {_AI_system} with the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}; and
 
 74.13.2.sec=testing or auditing procedures and verifications based on the data and documentation provided by the {_provider} have been exhausted or proved insufficient.
 
@@ -2412,7 +2412,7 @@ Article 77
 
 77.Ti=Powers of authorities protecting fundamental rights
 
-77.1.sec=National public authorities or bodies which supervise or enforce the respect of obligations under Union law protecting fundamental rights, including the right to non-discrimination, in relation to the use of high-{_risk} {_AI_systems} referred to in Annex III shall have the power to request and access any documentation created or maintained under this Regulation in accessible language and format when access to that documentation is necessary for effectively fulfilling their mandates within the limits of their jurisdiction. The relevant public authority or body shall inform the {_market_surveillance_authority} of the Member State concerned of any such request.
+77.1.sec=National public authorities or bodies which supervise or enforce the respect of obligations under Union law protecting fundamental rights, including the right to non-discrimination, in relation to the use of high-{_risk} {_AI_systems} referred to in Annex {Annex.III.Xnum} shall have the power to request and access any documentation created or maintained under this Regulation in accessible language and format when access to that documentation is necessary for effectively fulfilling their mandates within the limits of their jurisdiction. The relevant public authority or body shall inform the {_market_surveillance_authority} of the Member State concerned of any such request.
 
 77.2.sec=By 2 November 2024, each Member State shall identify the public authorities or bodies referred to in paragraph 1 and make a list of them publicly available. Member States shall notify the list to the Commission and to the other Member States, and shall keep the list up to date.
 
@@ -2442,9 +2442,9 @@ Article 78
 
 78.2.sec=The authorities involved in the application of this Regulation pursuant to paragraph 1 shall request only data that is strictly necessary for the assessment of the {_risk} posed by {_AI_systems} and for the exercise of their powers in accordance with this Regulation and with Regulation (EU) 2019/1020. They shall put in place adequate and effective cybersecurity measures to protect the security and confidentiality of the information and data obtained, and shall delete the data collected as soon as it is no longer needed for the purpose for which it was obtained, in accordance with applicable Union or national law.
 
-78.3.1.sec=Without prejudice to paragraphs 1 and 2, information exchanged on a confidential basis between the national competent authorities or between national competent authorities and the Commission shall not be disclosed without prior consultation of the originating {_national_competent_authority} and the {_deployer} when high-{_risk} {_AI_systems} referred to in point 1, 6 or 7 of Annex III are used by {_law_enforcement}, border control, immigration or asylum authorities and when such disclosure would jeopardise public and national security interests. This exchange of information shall not cover {_sensitive_operational_data} in relation to the activities of {_law_enforcement}, border control, immigration or asylum authorities.
+78.3.1.sec=Without prejudice to paragraphs 1 and 2, information exchanged on a confidential basis between the national competent authorities or between national competent authorities and the Commission shall not be disclosed without prior consultation of the originating {_national_competent_authority} and the {_deployer} when high-{_risk} {_AI_systems} referred to in point 1, 6 or 7 of Annex {Annex.III.Xnum} are used by {_law_enforcement}, border control, immigration or asylum authorities and when such disclosure would jeopardise public and national security interests. This exchange of information shall not cover {_sensitive_operational_data} in relation to the activities of {_law_enforcement}, border control, immigration or asylum authorities.
 
-78.3.2.sec=When the {_law_enforcement}, immigration or asylum authorities are {_providers} of high-{_risk} {_AI_systems} referred to in point 1, 6 or 7 of Annex III, the technical documentation referred to in Annex IV shall remain within the premises of those authorities. Those authorities shall ensure that the market surveillance authorities referred to in Article {Article.74.Xnum}(8) and (9), as applicable, can, upon request, immediately access the documentation or obtain a copy thereof. Only staff of the {_market_surveillance_authority} holding the appropriate level of security clearance shall be allowed to access that documentation or any copy thereof.
+78.3.2.sec=When the {_law_enforcement}, immigration or asylum authorities are {_providers} of high-{_risk} {_AI_systems} referred to in point 1, 6 or 7 of Annex {Annex.III.Xnum}, the technical documentation referred to in Annex {Annex.IV.Xnum} shall remain within the premises of those authorities. Those authorities shall ensure that the market surveillance authorities referred to in Article {Article.74.Xnum}(8) and (9), as applicable, can, upon request, immediately access the documentation or obtain a copy thereof. Only staff of the {_market_surveillance_authority} holding the appropriate level of security clearance shall be allowed to access that documentation or any copy thereof.
 
 78.3.=[G/Z/paras/s2]
 
@@ -2478,7 +2478,7 @@ Article 79
 
 79.6.1.sec=non-compliance with the prohibition of the AI practices referred to in Article {Article.5.Xnum};
 
-79.6.2.sec=a failure of a high-{_risk} {_AI_system} to meet requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum};
+79.6.2.sec=a failure of a high-{_risk} {_AI_system} to meet requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum};
 
 79.6.3.sec=shortcomings in the {_harmonised_standards} or {_common_specifications} referred to in Articles 40 and 41 conferring a presumption of conformity;
 
@@ -2498,7 +2498,7 @@ CodersNote=Is "withdrawal of the product or the {_AI_system}" meant to be subjec
 
 Article 80
 
-80.Ti=Procedure for dealing with {_AI_systems} classified by the {_provider} as non-high-{_risk} in application of Annex III
+80.Ti=Procedure for dealing with {_AI_systems} classified by the {_provider} as non-high-{_risk} in application of Annex {Annex.III.Xnum}
 
 80.1.sec=Where a {_market_surveillance_authority} has sufficient reason to consider that an {_AI_system} classified by the {_provider} as non-high-{_risk} pursuant to Article {Article.6.Xnum}(3) is indeed high-{_risk}, the {_market_surveillance_authority} shall carry out an evaluation of the {_AI_system} concerned in respect of its classification as a high-{_risk} {_AI_system} based on the conditions set out in Article {Article.6.Xnum}(3) and the Commission guidelines.
 
@@ -2512,7 +2512,7 @@ Article 80
 
 80.6.sec=Where the {_provider} of the {_AI_system} concerned does not take adequate corrective action within the period referred to in paragraph 2 of this Article, Article {Article.79.Xnum}(5) to (9) shall apply.
 
-80.7.sec=Where, in the course of the evaluation pursuant to paragraph 1 of this Article, the {_market_surveillance_authority} establishes that the {_AI_system} was misclassified by the {_provider} as non-high-{_risk} in order to circumvent the application of requirements in Chapter III, Section {Chapter.3.Section.2.Xnum}, the {_provider} shall be subject to fines in accordance with Article {Article.99.Xnum}.
+80.7.sec=Where, in the course of the evaluation pursuant to paragraph 1 of this Article, the {_market_surveillance_authority} establishes that the {_AI_system} was misclassified by the {_provider} as non-high-{_risk} in order to circumvent the application of requirements in Chapter III, Section {Chapter.III.Section.2.Xnum}, the {_provider} shall be subject to fines in accordance with Article {Article.99.Xnum}.
 
 80.8.sec=In exercising their power to monitor the application of this Article, and in accordance with Article 11 of Regulation (EU) 2019/1020, market surveillance authorities may perform appropriate checks, taking into account in particular information stored in the EU database referred to in Article {Article.71.Xnum} of this Regulation.
 
@@ -2600,7 +2600,7 @@ Article 86
 
 86.Ti=Right to explanation of individual decision-making
 
-86.1.sec=Any affected person subject to a decision which is taken by the {_deployer} on the basis of the output from a high-{_risk} {_AI_system} listed in Annex III, with the exception of systems listed under point 2 thereof, and which produces legal effects or similarly significantly affects that person in a way that they consider to have an adverse impact on their health, safety or fundamental rights shall have the right to obtain from the {_deployer} clear and meaningful explanations of the role of the {_AI_system} in the decision-making procedure and the main elements of the decision taken.
+86.1.sec=Any affected person subject to a decision which is taken by the {_deployer} on the basis of the output from a high-{_risk} {_AI_system} listed in Annex {Annex.III.Xnum}, with the exception of systems listed under point 2 thereof, and which produces legal effects or similarly significantly affects that person in a way that they consider to have an adverse impact on their health, safety or fundamental rights shall have the right to obtain from the {_deployer} clear and meaningful explanations of the role of the {_AI_system} in the decision-making procedure and the main elements of the decision taken.
 
 86.2.sec=Paragraph 1 shall not apply to the use of {_AI_systems} for which exceptions from, or restrictions to, the obligation under that paragraph follow from Union or national law in compliance with Union law.
 
@@ -2752,7 +2752,7 @@ Article 95
 
 95.Ti=Codes of conduct for voluntary application of specific requirements
 
-95.1.sec=The {_AI_Office} and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to {_AI_systems}, other than high-{_risk} {_AI_systems}, of some or all of the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum} taking into account the available technical solutions and industry best practices allowing for the application of such requirements.
+95.1.sec=The {_AI_Office} and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to {_AI_systems}, other than high-{_risk} {_AI_systems}, of some or all of the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} taking into account the available technical solutions and industry best practices allowing for the application of such requirements.
 
 95.2.0.sec=The {_AI_Office} and the Member States shall facilitate the drawing up of codes of conduct concerning the voluntary application, including by {_deployers}, of specific requirements to all {_AI_systems}, on the basis of clear objectives and key performance indicators to measure the achievement of those objectives, including elements such as, but not limited to:
 
@@ -2789,7 +2789,7 @@ Article 96
 
 96.1.4.sec=the practical implementation of transparency obligations laid down in Article {Article.50.Xnum};
 
-96.1.5.sec=detailed information on the relationship of this Regulation with the Union harmonisation legislation listed in Annex I, as well as with other relevant Union law, including as regards consistency in their enforcement;
+96.1.5.sec=detailed information on the relationship of this Regulation with the Union harmonisation legislation listed in Annex {Annex.I.Xnum}, as well as with other relevant Union law, including as regards consistency in their enforcement;
 
 96.1.6.sec=the application of the definition of an {_AI_system} as set out in Article {Article.3.Xnum}, point (1).
 
@@ -2983,7 +2983,7 @@ Article 102
 
 102.0.sec=In Article 4(3) of Regulation (EC) No 300/2008, the following subparagraph is added:
 
-102.1.sec=‘When adopting detailed measures related to technical specifications and procedures for approval and use of security equipment concerning Artificial Intelligence systems within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*1), the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.
+102.1.sec=‘When adopting detailed measures related to technical specifications and procedures for approval and use of security equipment concerning Artificial Intelligence systems within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*1), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
 
 102.=[G/Z/ol-none/s1]
 
@@ -2993,7 +2993,7 @@ Article 103
 
 103.0.sec=In Article 17(5) of Regulation (EU) No 167/2013, the following subparagraph is added:
 
-103.1.sec=‘When adopting delegated acts pursuant to the first subparagraph concerning artificial intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*2), the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.
+103.1.sec=‘When adopting delegated acts pursuant to the first subparagraph concerning artificial intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*2), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
 
 103.=[G/Z/ol-none/s1]
 
@@ -3003,7 +3003,7 @@ Article 104
 
 104.0.sec=In Article 22(5) of Regulation (EU) No 168/2013, the following subparagraph is added:
 
-104.1.sec=‘When adopting delegated acts pursuant to the first subparagraph concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*3), the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.
+104.1.sec=‘When adopting delegated acts pursuant to the first subparagraph concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*3), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
 
 104.=[G/Z/ol-none/s1]
 
@@ -3013,7 +3013,7 @@ Article 105
 
 105.0.sec=In Article 8 of Directive 2014/90/EU, the following paragraph is added:
 
-105.1.sec=‘5.  For Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*4), when carrying out its activities pursuant to paragraph 1 and when adopting technical specifications and testing standards in accordance with paragraphs 2 and 3, the Commission shall take into account the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation.
+105.1.sec=‘5.  For Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*4), when carrying out its activities pursuant to paragraph 1 and when adopting technical specifications and testing standards in accordance with paragraphs 2 and 3, the Commission shall take into account the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation.
 
 105.=[G/Z/ol-none/s1]
 
@@ -3023,7 +3023,7 @@ Article 106
 
 106.0.sec=In Article 5 of Directive (EU) 2016/797, the following paragraph is added:
 
-106.1.sec=‘12. When adopting delegated acts pursuant to paragraph 1 and implementing acts pursuant to paragraph 11 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*5), the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.
+106.1.sec=‘12. When adopting delegated acts pursuant to paragraph 1 and implementing acts pursuant to paragraph 11 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*5), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
 
 106.=[G/Z/ol-none/s1]
 
@@ -3033,7 +3033,7 @@ Article 107
 
 107.0.sec=In Article 5 of Regulation (EU) 2018/858 the following paragraph is added:
 
-107.1.sec=.‘4.  When adopting delegated acts pursuant to paragraph 3 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*6), the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.
+107.1.sec=.‘4.  When adopting delegated acts pursuant to paragraph 3 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*6), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
 
 107.=[G/Z/ol-none/s1]
 
@@ -3045,7 +3045,7 @@ Article 108
 
 108.1.0.sec=in Article 17, the following paragraph is added:
 
-108.1.1.sec=‘3.   Without prejudice to paragraph 2, when adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*7), the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.
+108.1.1.sec=‘3.   Without prejudice to paragraph 2, when adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*7), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
 
 108.1.2.sec=(*7)  Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).’;"
 
@@ -3053,32 +3053,32 @@ Article 108
 
 108.2.0.sec=in Article 19, the following paragraph is added:
 
-108.2.1.sec=‘4.   When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.’ ;
+108.2.1.sec=‘4.   When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’ ;
 
 108.2.=[G/Z/ol-none/s1]
 
 108.3.0.sec=in Article 43, the following paragraph is added:
 
-108.3.1.sec=‘4.  When adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.’;
+108.3.1.sec=‘4.  When adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’;
 
 108.3.=[G/Z/ol-none/s1]
 
 
 108.4.0.sec=in Article 47, the following paragraph is added:
 
-108.4.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.’;
+108.4.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’;
 
 108.4.=[G/Z/ol-none/s1]
 
 108.5.0.sec=in Article 57, the following subparagraph is added:
 
-108.5.1.sec=‘When adopting those implementing acts concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.’;
+108.5.1.sec=‘When adopting those implementing acts concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’;
 
 108.5.=[G/Z/ol-none/s1]
 
 108.6.0.sec=in Article 58, the following paragraph is added:
 
-108.6.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.’.
+108.6.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’.
 
 108.6.=[G/Z/ol-none/s1]
 
@@ -3090,7 +3090,7 @@ Article 109
 
 109.0.sec=In Article 11 of Regulation (EU) 2019/2144, the following paragraph is added:
 
-109.1.sec=‘3.sec=When adopting the implementing acts pursuant to paragraph 2, concerning artificial intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*8), the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum}, of that Regulation shall be taken into account.
+109.1.sec=‘3.sec=When adopting the implementing acts pursuant to paragraph 2, concerning artificial intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*8), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
 
 109.=[G/Z/ol-none/s1]
 
@@ -3098,7 +3098,7 @@ Article 110
 
 110.Ti=Amendment to Directive (EU) 2020/1828
 
-110.0.sec=In Annex I to Directive (EU) 2020/1828 of the European Parliament and of the Council {FtNt.58.Xnum}, the following point is added:
+110.0.sec=In Annex {Annex.I.Xnum} to Directive (EU) 2020/1828 of the European Parliament and of the Council {FtNt.58.Xnum}, the following point is added:
 
 110.1.sec=‘(68) Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).’.
 
@@ -3108,9 +3108,9 @@ Article 111
 
 111.Ti={_AI_systems} already placed on the market or put into service and {_general-purpose_AI_models} already placed on the marked
 
-111.1.1.sec=sec=Without prejudice to the application of Article {Article.5.Xnum} as referred to in Article {Article.113.Xnum}(3), point (a), {_AI_systems} which are components of the large-scale IT systems established by the legal acts listed in Annex X that have been placed on the market or put into service before 2 August 2027 shall be brought into compliance with this Regulation by 31 December 2030.
+111.1.1.sec=sec=Without prejudice to the application of Article {Article.5.Xnum} as referred to in Article {Article.113.Xnum}(3), point (a), {_AI_systems} which are components of the large-scale IT systems established by the legal acts listed in Annex {Annex.X.Xnum} that have been placed on the market or put into service before 2 August 2027 shall be brought into compliance with this Regulation by 31 December 2030.
 
-111.1.2.sec=The requirements laid down in this Regulation shall be taken into account in the evaluation of each large-scale IT system established by the legal acts listed in Annex X to be undertaken as provided for in those legal acts and where those legal acts are replaced or amended.
+111.1.2.sec=The requirements laid down in this Regulation shall be taken into account in the evaluation of each large-scale IT system established by the legal acts listed in Annex {Annex.X.Xnum} to be undertaken as provided for in those legal acts and where those legal acts are replaced or amended.
 
 111.1.=[G/Z/paras/s2]
 
@@ -3124,11 +3124,11 @@ Article 112
 
 112.Ti=Evaluation and review
 
-112.1.sec=The Commission shall assess the need for amendment of the list set out in Annex III and of the list of prohibited AI practices laid down in Article {Article.5.Xnum}, once a year following the entry into force of this Regulation, and until the end of the period of the delegation of power laid down in Article {Article.97.Xnum}. The Commission shall submit the findings of that assessment to the European Parliament and the Council.
+112.1.sec=The Commission shall assess the need for amendment of the list set out in Annex {Annex.III.Xnum} and of the list of prohibited AI practices laid down in Article {Article.5.Xnum}, once a year following the entry into force of this Regulation, and until the end of the period of the delegation of power laid down in Article {Article.97.Xnum}. The Commission shall submit the findings of that assessment to the European Parliament and the Council.
 
 112.2.0.sec=By 2 August 2028 and every four years thereafter, the Commission shall evaluate and report to the European Parliament and to the Council on the following:
 
-112.2.1.sec=the need for amendments extending existing area headings or adding new area headings in Annex III;
+112.2.1.sec=the need for amendments extending existing area headings or adding new area headings in Annex {Annex.III.Xnum};
 
 112.2.2.sec=amendments to the list of {_AI_systems} requiring additional transparency measures in Article {Article.50.Xnum};
 
@@ -3154,7 +3154,7 @@ Article 112
 
 112.6.sec=By 2 August 2028 and every four years thereafter, the Commission shall submit a report on the review of the progress on the development of standardisation deliverables on the energy-efficient development of {_general-purpose_AI_models}, and asses the need for further measures or actions, including binding measures or actions. The report shall be submitted to the European Parliament and to the Council, and it shall be made public.
 
-112.7.sec=By 2 August 2028 and every three years thereafter, the Commission shall evaluate the impact and effectiveness of voluntary codes of conduct to foster the application of the requirements set out in Chapter III, Section {Chapter.3.Section.2.Xnum} for {_AI_systems} other than high-{_risk} {_AI_systems} and possibly other additional requirements for {_AI_systems} other than high-{_risk} {_AI_systems}, including as regards environmental sustainability.
+112.7.sec=By 2 August 2028 and every three years thereafter, the Commission shall evaluate the impact and effectiveness of voluntary codes of conduct to foster the application of the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} for {_AI_systems} other than high-{_risk} {_AI_systems} and possibly other additional requirements for {_AI_systems} other than high-{_risk} {_AI_systems}, including as regards environmental sustainability.
 
 112.8.sec=For the purposes of paragraphs 1 to 7, the Board, the Member States and national competent authorities shall provide the Commission with information upon its request and without undue delay.
 
@@ -3164,7 +3164,7 @@ Article 112
 
 112.11.0.sec=To guide the evaluations and reviews referred to in paragraphs 1 to 7 of this Article, the {_AI_Office} shall undertake to develop an objective and participative methodology for the evaluation of {_risk} levels based on the criteria outlined in the relevant Articles and the inclusion of new systems in:
 
-112.11.1.sec=the list set out in Annex III, including the extension of existing area headings or the addition of new area headings in that Annex;
+112.11.1.sec=the list set out in Annex {Annex.III.Xnum}, including the extension of existing area headings or the addition of new area headings in that Annex;
 
 112.11.2.sec=the list of prohibited practices set out in Article {Article.5.Xnum}; and
 
@@ -3172,7 +3172,7 @@ Article 112
 
 112.11.=[G/Z/ol-a/s3]
 
-112.12.sec=Any amendment to this Regulation pursuant to paragraph 10, or relevant delegated or implementing acts, which concerns sectoral Union harmonisation legislation listed in Section B of Annex I shall take into account the regulatory specificities of each sector, and the existing governance, {_conformity_assessment} and enforcement mechanisms and authorities established therein.
+112.12.sec=Any amendment to this Regulation pursuant to paragraph 10, or relevant delegated or implementing acts, which concerns sectoral Union harmonisation legislation listed in Section B of Annex {Annex.I.Xnum} shall take into account the regulatory specificities of each sector, and the existing governance, {_conformity_assessment} and enforcement mechanisms and authorities established therein.
 
 112.13.sec=By 2 August 2031, the Commission shall carry out an assessment of the enforcement of this Regulation and shall report on it to the European Parliament, the Council and the European Economic and Social Committee, taking into account the first years of application of this Regulation. On the basis of the findings, that report shall, where appropriate, be accompanied by a proposal for amendment of this Regulation with regard to the structure of enforcement and the need for a Union agency to resolve any identified shortcomings.
 
@@ -3190,7 +3190,7 @@ Article 113
 
 113.3.1.sec=Chapters I and II shall apply from 2 February 2025;
 
-113.3.2.sec=Chapter III Section {Chapter.3.Section.4.Xnum}, Chapter V, Chapter VII and Chapter XII and Article {Article.78.Xnum} shall apply from 2 August 2025, with the exception of Article {Article.101.Xnum};
+113.3.2.sec=Chapter III Section {Chapter.III.Section.4.Xnum}, Chapter V, Chapter VII and Chapter XII and Article {Article.78.Xnum} shall apply from 2 August 2025, with the exception of Article {Article.101.Xnum};
 
 113.3.3.sec=Article {Article.6.Xnum}(1) and the corresponding obligations in this Regulation shall apply from 2 August 2027.
 
@@ -3291,3 +3291,4 @@ Def.!!!={!!!}Def.
 113.Xnum=<a class='xref' href='{!!!}113.Sec'>113</a>
 
 41.1.Xnum=<a class='xref' href='{!!!}41.1.sec'>1</a>
+
