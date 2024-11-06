@@ -126,15 +126,15 @@ Def.performance_of_an_AI_system.sec=‘{DefT.performance_of_an_AI_system}’ mea
 
 Def.notifying_authority.sec=‘{DefT.notifying_authority}’ means the national authority responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of {_conformity_assessment} bodies and for their monitoring;
 
-Def.conformity_assessment.sec=‘{DefT.conformity_assessment}’ means the process of demonstrating whether the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} relating to a high-{_risk} {_AI_system} have been fulfilled;
+Def.conformity_assessment.sec=‘{DefT.conformity_assessment}’ means the process of demonstrating whether the requirements set out in {Chapter.III.Section.2.Xref} relating to a high-{_risk} {_AI_system} have been fulfilled;
 
 Def.conformity_assessment_body.sec=‘{DefT.conformity_assessment_body}’ means a body that performs third-party {_conformity_assessment} activities, including testing, certification and inspection;
 
 Def.notified_body.sec=‘{DefT.notified_body}’ means a {_conformity_assessment_body} notified in accordance with this Regulation and other relevant Union harmonisation legislation;
 
-Def.substantial_modification.sec=‘{DefT.substantial_modification}’ means a change to an {_AI_system} after its {_placing_on_the_market} or {_putting_into_service} which is not foreseen or planned in the initial {_conformity_assessment} carried out by the {_provider} and as a result of which the compliance of the {_AI_system} with the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} is affected or results in a modification to the {_intended_purpose} for which the {_AI_system} has been assessed;
+Def.substantial_modification.sec=‘{DefT.substantial_modification}’ means a change to an {_AI_system} after its {_placing_on_the_market} or {_putting_into_service} which is not foreseen or planned in the initial {_conformity_assessment} carried out by the {_provider} and as a result of which the compliance of the {_AI_system} with the requirements set out in {Chapter.III.Section.2.Xref} is affected or results in a modification to the {_intended_purpose} for which the {_AI_system} has been assessed;
 
-Def.CE_marking.sec=‘{DefT.CE_marking}’ means a marking by which a {_provider} indicates that an {_AI_system} is in conformity with the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} and other applicable Union harmonisation legislation providing for its affixing;
+Def.CE_marking.sec=‘{DefT.CE_marking}’ means a marking by which a {_provider} indicates that an {_AI_system} is in conformity with the requirements set out in {Chapter.III.Section.2.Xref} and other applicable Union harmonisation legislation providing for its affixing;
 
 Def.post-market_monitoring_system.sec=‘{DefT.post-market_monitoring_system}’ means all activities carried out by {_providers} of {_AI_systems} to collect and review experience gained from the use of {_AI_systems} they place on the market or put into service for the purpose of identifying any need to immediately apply any necessary corrective or preventive actions;
 
@@ -1274,9 +1274,9 @@ Article 40
 
 40.Ti=Harmonised standards and standardisation deliverables
 
-40.1.sec=High-{_risk} {_AI_systems} or {_general-purpose_AI_models} which are in conformity with {_harmonised_standards} or parts thereof the references of which have been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 shall be presumed to be in conformity with the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, with the obligations set out in of Chapter V, Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum}, of this Regulation, to the extent that those standards cover those requirements or obligations.
+40.1.sec=High-{_risk} {_AI_systems} or {_general-purpose_AI_models} which are in conformity with {_harmonised_standards} or parts thereof the references of which have been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 shall be presumed to be in conformity with the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, with the obligations set out in of Chapter {Chapter.V.Xnum}, Sections {Chapter.V.Section.2.Xref} and {Chapter.V.Section.3.Xnum}, of this Regulation, to the extent that those standards cover those requirements or obligations.
 
-40.2.1.sec=In accordance with Article 10 of Regulation (EU) No 1025/2012, the Commission shall issue, without undue delay, standardisation requests covering all requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter and, as applicable, standardisation requests covering obligations set out in Chapter V, Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum}, of this Regulation. The standardisation request shall also ask for deliverables on reporting and documentation processes to improve {_AI_systems}’ resource performance, such as reducing the high-{_risk} {_AI_system}’s consumption of energy and of other resources during its lifecycle, and on the energy-efficient development of {_general-purpose_AI_models}. When preparing a standardisation request, the Commission shall consult the Board and relevant stakeholders, including the advisory forum.
+40.2.1.sec=In accordance with Article 10 of Regulation (EU) No 1025/2012, the Commission shall issue, without undue delay, standardisation requests covering all requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter and, as applicable, standardisation requests covering obligations set out in Chapter {Chapter.V.Xnum}, Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum}, of this Regulation. The standardisation request shall also ask for deliverables on reporting and documentation processes to improve {_AI_systems}’ resource performance, such as reducing the high-{_risk} {_AI_system}’s consumption of energy and of other resources during its lifecycle, and on the energy-efficient development of {_general-purpose_AI_models}. When preparing a standardisation request, the Commission shall consult the Board and relevant stakeholders, including the advisory forum.
 
 40.2.2.sec=When issuing a standardisation request to European standardisation organisations, the Commission shall specify that standards have to be clear, consistent, including with the standards developed in the various sectors for products covered by the existing Union harmonisation legislation listed in Annex {Annex.I.Xnum}, and aiming to ensure that high-{_risk} {_AI_systems} or {_general-purpose_AI_models} placed on the market or put into service in the Union meet the relevant requirements or obligations laid down in this Regulation.
 
@@ -1292,9 +1292,9 @@ Article 41
 
 41.Ti={_Common_specifications}
 
-41.1.0.sec=The Commission may adopt, implementing acts establishing {_common_specifications} for the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, for the obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V where the following conditions have been fulfilled:
+41.1.0.sec=The Commission may adopt, implementing acts establishing {_common_specifications} for the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, for the obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter {Chapter.V.Xnum} where the following conditions have been fulfilled:
 
-41.1.1.0.sec=the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a {_harmonised_standard} for the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter, or, as applicable, for the obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V, and:
+41.1.1.0.sec=the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a {_harmonised_standard} for the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter, or, as applicable, for the obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter {Chapter.V.Xnum}, and:
 
 41.1.1.1.sec=the request has not been accepted by any of the European standardisation organisations; or
 
@@ -1306,7 +1306,7 @@ Article 41
 
 41.1.1.=[G/Z/ol-i/s4]
 
-41.1.2.sec=no reference to {_harmonised_standards} covering the requirements referred to in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, the obligations referred to in Sections {Chapter.V.Section.2.Xnum} and {5.3.Xnum} of Chapter V has been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012, and no such reference is expected to be published within a reasonable period.
+41.1.2.sec=no reference to {_harmonised_standards} covering the requirements referred to in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, the obligations referred to in Sections {Chapter.V.Section.2.Xnum} and {5.3.Xnum} of Chapter {Chapter.V.Xnum} has been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012, and no such reference is expected to be published within a reasonable period.
 
 41.1.00.1.sec=When drafting the {_common_specifications}, the Commission shall consult the advisory forum referred to in Article {Article.67.Xnum}.
 
@@ -1318,13 +1318,13 @@ Article 41
 
 41.2.sec=Before preparing a draft implementing act, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers the conditions laid down in paragraph 1 of this Article to be fulfilled.
 
-41.3.sec=High-{_risk} {_AI_systems} or {_general-purpose_AI_models} which are in conformity with the {_common_specifications} referred to in paragraph 1, or parts of those specifications, shall be presumed to be in conformity with the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, to comply with the obligations referred to in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V, to the extent those {_common_specifications} cover those requirements or those obligations.
+41.3.sec=High-{_risk} {_AI_systems} or {_general-purpose_AI_models} which are in conformity with the {_common_specifications} referred to in paragraph 1, or parts of those specifications, shall be presumed to be in conformity with the requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, to comply with the obligations referred to in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter {Chapter.V.Xnum}, to the extent those {_common_specifications} cover those requirements or those obligations.
 
-41.4.sec=Where a {_harmonised_standard} is adopted by a European standardisation organisation and proposed to the Commission for the publication of its reference in the Official Journal of the European Union, the Commission shall assess the {_harmonised_standard} in accordance with Regulation (EU) No 1025/2012. When reference to a {_harmonised_standard} is published in the Official Journal of the European Union, the Commission shall repeal the implementing acts referred to in paragraph {Article.41.1.Xnum}, or parts thereof which cover the same requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, the same obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V.
+41.4.sec=Where a {_harmonised_standard} is adopted by a European standardisation organisation and proposed to the Commission for the publication of its reference in the Official Journal of the European Union, the Commission shall assess the {_harmonised_standard} in accordance with Regulation (EU) No 1025/2012. When reference to a {_harmonised_standard} is published in the Official Journal of the European Union, the Commission shall repeal the implementing acts referred to in paragraph {Article.41.1.Xnum}, or parts thereof which cover the same requirements set out in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, the same obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter {Chapter.V.Xnum}.
 
-41.5.sec=Where {_providers} of high-{_risk} {_AI_systems} or {_general-purpose_AI_models} do not comply with the {_common_specifications} referred to in paragraph 1, they shall duly justify that they have adopted technical solutions that meet the requirements referred to in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, comply with the obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V to a level at least equivalent thereto.
+41.5.sec=Where {_providers} of high-{_risk} {_AI_systems} or {_general-purpose_AI_models} do not comply with the {_common_specifications} referred to in paragraph 1, they shall duly justify that they have adopted technical solutions that meet the requirements referred to in Section {Chapter.III.Section.2.Xnum} of this Chapter or, as applicable, comply with the obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter {Chapter.V.Xnum} to a level at least equivalent thereto.
 
-41.6.sec=Where a Member State considers that a {_common_specification} does not entirely meet the requirements set out in Section {Chapter.III.Section.2.Xnum} or, as applicable, comply with obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter V, it shall inform the Commission thereof with a detailed explanation. The Commission shall assess that information and, if appropriate, amend the implementing act establishing the {_common_specification} concerned.
+41.6.sec=Where a Member State considers that a {_common_specification} does not entirely meet the requirements set out in Section {Chapter.III.Section.2.Xnum} or, as applicable, comply with obligations set out in Sections {Chapter.V.Section.2.Xnum} and {Chapter.V.Section.3.Xnum} of Chapter {Chapter.V.Xnum}, it shall inform the Commission thereof with a detailed explanation. The Commission shall assess that information and, if appropriate, amend the implementing act establishing the {_common_specification} concerned.
 
 41.=[G/Z/ol/s6]
 
@@ -1862,7 +1862,7 @@ Article 59
 
 59.1.1.=[G/Z/ol-i/s5]
 
-59.1.2.sec=the data processed are necessary for complying with one or more of the requirements referred to in Chapter III, Section {Chapter.III.Section.2.Xnum} where those requirements cannot effectively be fulfilled by processing anonymised, synthetic or other {_non-personal_data};
+59.1.2.sec=the data processed are necessary for complying with one or more of the requirements referred to in {Chapter.III.Section.2.Xref} where those requirements cannot effectively be fulfilled by processing anonymised, synthetic or other {_non-personal_data};
 
 59.1.3.sec=there are effective monitoring mechanisms to identify if any high {_risks} to the rights and freedoms of the data subjects, as referred to in Article 35 of Regulation (EU) 2016/679 and in Article 39 of Regulation (EU) 2018/1725, may arise during the sandbox experimentation, as well as response mechanisms to promptly mitigate those {_risks} and, where necessary, stop the processing;
 
@@ -2080,7 +2080,7 @@ Article 66
 
 66.5.2.sec=the evaluation and review of this Regulation pursuant to Article {Article.112.Xnum}, including as regards the {_serious_incident} reports referred to in Article {Article.73.Xnum}, and the functioning of the EU database referred to in Article {Article.71.Xnum}, the preparation of the delegated or implementing acts, and as regards possible alignments of this Regulation with the Union harmonisation legislation listed in Annex {Annex.I.Xnum};
 
-66.5.3.sec=on technical specifications or existing standards regarding the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum};
+66.5.3.sec=on technical specifications or existing standards regarding the requirements set out in {Chapter.III.Section.2.Xref};
 
 66.5.4.sec=on the use of {_harmonised_standards} or {_common_specifications} referred to in Articles 40 and 41;
 
@@ -2266,7 +2266,7 @@ Article 72
 
 72.1.sec={_Providers} shall establish and document a {_post-market_monitoring_system} in a manner that is proportionate to the nature of the AI technologies and the {_risks} of the high-{_risk} {_AI_system}.
 
-72.2.sec=The {_post-market_monitoring_system} shall actively and systematically collect, document and analyse relevant data which may be provided by {_deployers} or which may be collected through other sources on the performance of high-{_risk} {_AI_systems} throughout their lifetime, and which allow the {_provider} to evaluate the continuous compliance of {_AI_systems} with the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}. Where relevant, post-market monitoring shall include an analysis of the interaction with other {_AI_systems}. This obligation shall not cover {_sensitive_operational_data} of {_deployers} which are law-enforcement authorities.
+72.2.sec=The {_post-market_monitoring_system} shall actively and systematically collect, document and analyse relevant data which may be provided by {_deployers} or which may be collected through other sources on the performance of high-{_risk} {_AI_systems} throughout their lifetime, and which allow the {_provider} to evaluate the continuous compliance of {_AI_systems} with the requirements set out in {Chapter.III.Section.2.Xref}. Where relevant, post-market monitoring shall include an analysis of the interaction with other {_AI_systems}. This obligation shall not cover {_sensitive_operational_data} of {_deployers} which are law-enforcement authorities.
 
 72.3.sec=The {_post-market_monitoring_system} shall be based on a post-market monitoring plan. The post-market monitoring plan shall be part of the technical documentation referred to in Annex {Annex.IV.Xnum}. The Commission shall adopt an implementing act laying down detailed provisions establishing a template for the post-market monitoring plan and the list of elements to be included in the plan by 2 February 2026. That implementing act shall be adopted in accordance with the examination procedure referred to in Article {Article.98.Xnum}(2).
 
@@ -2364,7 +2364,7 @@ Article 74
 
 74.13.0.sec=Market surveillance authorities shall be granted access to the source code of the high-{_risk} {_AI_system} upon a reasoned request and only when both of the following conditions are fulfilled:
 
-74.13.1.sec=access to source code is necessary to assess the conformity of a high-{_risk} {_AI_system} with the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}; and
+74.13.1.sec=access to source code is necessary to assess the conformity of a high-{_risk} {_AI_system} with the requirements set out in {Chapter.III.Section.2.Xref}; and
 
 74.13.2.sec=testing or auditing procedures and verifications based on the data and documentation provided by the {_provider} have been exhausted or proved insufficient.
 
@@ -2478,7 +2478,7 @@ Article 79
 
 79.6.1.sec=non-compliance with the prohibition of the AI practices referred to in Article {Article.5.Xnum};
 
-79.6.2.sec=a failure of a high-{_risk} {_AI_system} to meet requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum};
+79.6.2.sec=a failure of a high-{_risk} {_AI_system} to meet requirements set out in {Chapter.III.Section.2.Xref};
 
 79.6.3.sec=shortcomings in the {_harmonised_standards} or {_common_specifications} referred to in Articles 40 and 41 conferring a presumption of conformity;
 
@@ -2512,7 +2512,7 @@ Article 80
 
 80.6.sec=Where the {_provider} of the {_AI_system} concerned does not take adequate corrective action within the period referred to in paragraph 2 of this Article, Article {Article.79.Xnum}(5) to (9) shall apply.
 
-80.7.sec=Where, in the course of the evaluation pursuant to paragraph 1 of this Article, the {_market_surveillance_authority} establishes that the {_AI_system} was misclassified by the {_provider} as non-high-{_risk} in order to circumvent the application of requirements in Chapter III, Section {Chapter.III.Section.2.Xnum}, the {_provider} shall be subject to fines in accordance with Article {Article.99.Xnum}.
+80.7.sec=Where, in the course of the evaluation pursuant to paragraph 1 of this Article, the {_market_surveillance_authority} establishes that the {_AI_system} was misclassified by the {_provider} as non-high-{_risk} in order to circumvent the application of requirements in {Chapter.III.Section.2.Xref}, the {_provider} shall be subject to fines in accordance with Article {Article.99.Xnum}.
 
 80.8.sec=In exercising their power to monitor the application of this Article, and in accordance with Article 11 of Regulation (EU) 2019/1020, market surveillance authorities may perform appropriate checks, taking into account in particular information stored in the EU database referred to in Article {Article.71.Xnum} of this Regulation.
 
@@ -2624,7 +2624,7 @@ Article 88
 
 88.Ti=Enforcement of the obligations of {_providers} of {_general-purpose_AI_models}
 
-88.1.sec=The Commission shall have exclusive powers to supervise and enforce Chapter V, taking into account the procedural guarantees under Article {Article.94.Xnum}. The Commission shall entrust the implementation of these tasks to the {_AI_Office}, without prejudice to the powers of organisation of the Commission and the division of competences between Member States and the Union based on the Treaties.
+88.1.sec=The Commission shall have exclusive powers to supervise and enforce Chapter {Chapter.V.Xnum}, taking into account the procedural guarantees under Article {Article.94.Xnum}. The Commission shall entrust the implementation of these tasks to the {_AI_Office}, without prejudice to the powers of organisation of the Commission and the division of competences between Member States and the Union based on the Treaties.
 
 88.2.sec=Without prejudice to Article {Article.75.Xnum}(3), market surveillance authorities may request the Commission to exercise the powers laid down in this Section, where that is necessary and proportionate to assist with the fulfilment of their tasks under this Regulation.
 
@@ -2752,7 +2752,7 @@ Article 95
 
 95.Ti=Codes of conduct for voluntary application of specific requirements
 
-95.1.sec=The {_AI_Office} and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to {_AI_systems}, other than high-{_risk} {_AI_systems}, of some or all of the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} taking into account the available technical solutions and industry best practices allowing for the application of such requirements.
+95.1.sec=The {_AI_Office} and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to {_AI_systems}, other than high-{_risk} {_AI_systems}, of some or all of the requirements set out in {Chapter.III.Section.2.Xref} taking into account the available technical solutions and industry best practices allowing for the application of such requirements.
 
 95.2.0.sec=The {_AI_Office} and the Member States shall facilitate the drawing up of codes of conduct concerning the voluntary application, including by {_deployers}, of specific requirements to all {_AI_systems}, on the basis of clear objectives and key performance indicators to measure the achievement of those objectives, including elements such as, but not limited to:
 
@@ -2983,7 +2983,7 @@ Article 102
 
 102.0.sec=In Article 4(3) of Regulation (EC) No 300/2008, the following subparagraph is added:
 
-102.1.sec=‘When adopting detailed measures related to technical specifications and procedures for approval and use of security equipment concerning Artificial Intelligence systems within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*1), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
+102.1.sec=‘When adopting detailed measures related to technical specifications and procedures for approval and use of security equipment concerning Artificial Intelligence systems within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*1), the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.
 
 102.=[G/Z/ol-none/s1]
 
@@ -2993,7 +2993,7 @@ Article 103
 
 103.0.sec=In Article 17(5) of Regulation (EU) No 167/2013, the following subparagraph is added:
 
-103.1.sec=‘When adopting delegated acts pursuant to the first subparagraph concerning artificial intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*2), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
+103.1.sec=‘When adopting delegated acts pursuant to the first subparagraph concerning artificial intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*2), the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.
 
 103.=[G/Z/ol-none/s1]
 
@@ -3003,7 +3003,7 @@ Article 104
 
 104.0.sec=In Article 22(5) of Regulation (EU) No 168/2013, the following subparagraph is added:
 
-104.1.sec=‘When adopting delegated acts pursuant to the first subparagraph concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*3), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
+104.1.sec=‘When adopting delegated acts pursuant to the first subparagraph concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*3), the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.
 
 104.=[G/Z/ol-none/s1]
 
@@ -3013,7 +3013,7 @@ Article 105
 
 105.0.sec=In Article 8 of Directive 2014/90/EU, the following paragraph is added:
 
-105.1.sec=‘5.  For Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*4), when carrying out its activities pursuant to paragraph 1 and when adopting technical specifications and testing standards in accordance with paragraphs 2 and 3, the Commission shall take into account the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation.
+105.1.sec=‘5.  For Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*4), when carrying out its activities pursuant to paragraph 1 and when adopting technical specifications and testing standards in accordance with paragraphs 2 and 3, the Commission shall take into account the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation.
 
 105.=[G/Z/ol-none/s1]
 
@@ -3023,7 +3023,7 @@ Article 106
 
 106.0.sec=In Article 5 of Directive (EU) 2016/797, the following paragraph is added:
 
-106.1.sec=‘12. When adopting delegated acts pursuant to paragraph 1 and implementing acts pursuant to paragraph 11 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*5), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
+106.1.sec=‘12. When adopting delegated acts pursuant to paragraph 1 and implementing acts pursuant to paragraph 11 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*5), the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.
 
 106.=[G/Z/ol-none/s1]
 
@@ -3033,7 +3033,7 @@ Article 107
 
 107.0.sec=In Article 5 of Regulation (EU) 2018/858 the following paragraph is added:
 
-107.1.sec=.‘4.  When adopting delegated acts pursuant to paragraph 3 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*6), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
+107.1.sec=.‘4.  When adopting delegated acts pursuant to paragraph 3 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*6), the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.
 
 107.=[G/Z/ol-none/s1]
 
@@ -3045,7 +3045,7 @@ Article 108
 
 108.1.0.sec=in Article 17, the following paragraph is added:
 
-108.1.1.sec=‘3.   Without prejudice to paragraph 2, when adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*7), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
+108.1.1.sec=‘3.   Without prejudice to paragraph 2, when adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*7), the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.
 
 108.1.2.sec=(*7)  Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).’;"
 
@@ -3053,32 +3053,32 @@ Article 108
 
 108.2.0.sec=in Article 19, the following paragraph is added:
 
-108.2.1.sec=‘4.   When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’ ;
+108.2.1.sec=‘4.   When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.’ ;
 
 108.2.=[G/Z/ol-none/s1]
 
 108.3.0.sec=in Article 43, the following paragraph is added:
 
-108.3.1.sec=‘4.  When adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’;
+108.3.1.sec=‘4.  When adopting implementing acts pursuant to paragraph 1 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.’;
 
 108.3.=[G/Z/ol-none/s1]
 
 
 108.4.0.sec=in Article 47, the following paragraph is added:
 
-108.4.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’;
+108.4.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.’;
 
 108.4.=[G/Z/ol-none/s1]
 
 108.5.0.sec=in Article 57, the following subparagraph is added:
 
-108.5.1.sec=‘When adopting those implementing acts concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’;
+108.5.1.sec=‘When adopting those implementing acts concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.’;
 
 108.5.=[G/Z/ol-none/s1]
 
 108.6.0.sec=in Article 58, the following paragraph is added:
 
-108.6.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.’.
+108.6.1.sec=‘3.  When adopting delegated acts pursuant to paragraphs 1 and 2 concerning Artificial Intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689, the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.’.
 
 108.6.=[G/Z/ol-none/s1]
 
@@ -3090,7 +3090,7 @@ Article 109
 
 109.0.sec=In Article 11 of Regulation (EU) 2019/2144, the following paragraph is added:
 
-109.1.sec=‘3.sec=When adopting the implementing acts pursuant to paragraph 2, concerning artificial intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*8), the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum}, of that Regulation shall be taken into account.
+109.1.sec=‘3.sec=When adopting the implementing acts pursuant to paragraph 2, concerning artificial intelligence systems which are {_safety_components} within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*8), the requirements set out in {Chapter.III.Section.2.Xref}, of that Regulation shall be taken into account.
 
 109.=[G/Z/ol-none/s1]
 
@@ -3154,7 +3154,7 @@ Article 112
 
 112.6.sec=By 2 August 2028 and every four years thereafter, the Commission shall submit a report on the review of the progress on the development of standardisation deliverables on the energy-efficient development of {_general-purpose_AI_models}, and asses the need for further measures or actions, including binding measures or actions. The report shall be submitted to the European Parliament and to the Council, and it shall be made public.
 
-112.7.sec=By 2 August 2028 and every three years thereafter, the Commission shall evaluate the impact and effectiveness of voluntary codes of conduct to foster the application of the requirements set out in Chapter III, Section {Chapter.III.Section.2.Xnum} for {_AI_systems} other than high-{_risk} {_AI_systems} and possibly other additional requirements for {_AI_systems} other than high-{_risk} {_AI_systems}, including as regards environmental sustainability.
+112.7.sec=By 2 August 2028 and every three years thereafter, the Commission shall evaluate the impact and effectiveness of voluntary codes of conduct to foster the application of the requirements set out in {Chapter.III.Section.2.Xref} for {_AI_systems} other than high-{_risk} {_AI_systems} and possibly other additional requirements for {_AI_systems} other than high-{_risk} {_AI_systems}, including as regards environmental sustainability.
 
 112.8.sec=For the purposes of paragraphs 1 to 7, the Board, the Member States and national competent authorities shall provide the Commission with information upon its request and without undue delay.
 
@@ -3190,7 +3190,7 @@ Article 113
 
 113.3.1.sec=Chapters I and II shall apply from 2 February 2025;
 
-113.3.2.sec=Chapter III Section {Chapter.III.Section.4.Xnum}, Chapter V, Chapter VII and Chapter XII and Article {Article.78.Xnum} shall apply from 2 August 2025, with the exception of Article {Article.101.Xnum};
+113.3.2.sec=Chapter III Section {Chapter.III.Section.4.Xnum}, Chapter {Chapter.V.Xnum}, Chapter {Chapter.VII.Xnum} and Chapter {Chapter.XII.Xnum} and Article {Article.78.Xnum} shall apply from 2 August 2025, with the exception of Article {Article.101.Xnum};
 
 113.3.3.sec=Article {Article.6.Xnum}(1) and the corresponding obligations in this Regulation shall apply from 2 August 2027.
 

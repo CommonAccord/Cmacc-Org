@@ -1,3 +1,6 @@
+
+xlist=<ol type="I"><li>{I.Sec}</li><li>{II.Sec}</li><li>{III.Sec}</li><li>{IV.Sec}</li><li>{V.Sec}</li><li>{VI.Sec}</li><li>{VII.Sec}</li><li>{VIII.Sec}</li><li>{IX.Sec}</li><li>{X.Sec}</li><li>{XI.Sec}</li><li>{XII.Sec}</li><li>{XIII.Sec}</li></ol>
+
 CHAPTER I
 
 I.Ti=GENERAL PROVISIONS
@@ -230,8 +233,6 @@ XIII.Ti=FINAL PROVISIONS
 
 XIII.xlist=<ol start=102><li>{Article.102.Sec}</li><li>{Article.103.Sec}</li><li>{Article.104.Sec}</li><li>{Article.105.Sec}</li><li>{Article.106.Sec}</li><li>{Article.107.Sec}</li><li>{Article.108.Sec}</li><li>{Article.109.Sec}</li><li>{Article.110.Sec}</li><li>{Article.111.Sec}</li><li>{Article.112.Sec}</li><li>{Article.113.Sec}</li></ol>
 
-xlist=<ol><li>{I.Sec}</li><li>{II.Sec}</li><li>{III.Sec}</li><li>{IV.Sec}</li><li>{V.Sec}</li><li>{VI.Sec}</li><li>{VII.Sec}</li><li>{VIII.Sec}</li><li>{IX.Sec}</li><li>{X.Sec}</li><li>{XI.Sec}</li><li>{XII.Sec}</li><li>{XIII.Sec}</li></ol>
-
 XIII.=[G/Z/Base]
 
 =[G/Z/Base]
@@ -247,3 +248,13 @@ III.Section.4.Xnum=<a class='xref' href='{!!!}III.Section.4.Sec'>4</a>
 V.Section.2.Xnum=<a class='xref' href='{!!!}IV.Section.2.Sec'>2</a>
 
 V.Section.3.Xnum=<a class='xref' href='{!!!}IV.Section.3.Sec'>3</a>
+
+III.Xnum=<a class='xref' href='{!!!}III.Sec'>III</a>
+
+III.Section.2.Xref=Chapter {III.Xnum}, Section {III.Section.2.Xnum}
+
+V.Xnum=<a class='xref' href='{!!!}V.sec'>V</a>
+
+VII.Xnum=<a class='xref' href='{!!!}VII.sec'>VII</a>
+
+XII.Xnum=<a class='xref' href='{!!!}XII.sec'>XII</a>
