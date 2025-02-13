@@ -7,13 +7,13 @@ Patch1.=[G/Bonterms/Cloud-Terms/Patch/1.md]
 
 TheAgreement.Ti=The Agreement
 
-TheAgreement.sec=The {_Bonterms_Cloud_Terms} are standardized terms for use of cloud services. To use the {_Bonterms_Cloud_Terms}, Customer and {_Provider} complete and execute a {_Cover_Page} that specifies {_Key_Terms}, {_Attachments} (such as a {_Support_Policy} or {_Data_Protection_Addendum}) and any {_Additional_Terms}. Collectively, the {_Bonterms_Cloud_Terms}, {_Cover_Page} and any {_Orders} form the parties’ agreement (“<b>{Def.Agreement}</b>”). Conflicts between parts of the {_Agreement} are governed by Section {Misc.DocumentHierarchy.Xnum} (Order of Precedence). Capitalized terms are defined in context or in Section {Def.Xnum} (Definitions).
+TheAgreement.sec=The {_Bonterms_Cloud_Terms} are standardized terms for use of cloud services. To use the {_Bonterms_Cloud_Terms}, Customer and {_Provider} complete and execute a {_Cover_Page} that specifies {_Key_Terms}, {_Attachments} (such as a {_Support_Policy} or {_Data_Protection_Addendum}) and any {_Additional_Terms}. Collectively, the {_Bonterms_Cloud_Terms}, {_Cover_Page} and any {_Orders} form the parties’ agreement (“<b>{DefT.Agreement}</b>”). Conflicts between parts of the {_Agreement} are governed by Section {Misc.DocumentHierarchy.Xnum} (Order of Precedence). Capitalized terms are defined in context or in Section {Def.Xnum} (Definitions).
 
 TheAgreement.=[G/Z/Base]
 
 CloudService.Ti=Cloud Service
 
-CloudService.1.sec=Subject to this Agreement, {_Customer} may use the {_Cloud_Service} for its own business purposes during each {_Subscription_Term} (“<b>{Def.Permitted_Use}</b>”).
+CloudService.1.sec=Subject to this Agreement, {_Customer} may use the {_Cloud_Service} for its own business purposes during each {_Subscription_Term} (“<b>{DefT.Permitted_Use}</b>”).
 
 CloudService.2.sec=This includes the right to copy and use the {_Provider_Software} (if any) and {_Documentation} as part of {_Customer}’s {_Permitted_Use}. {_Customer} will comply with the Documentation in using the {_Cloud_Service}.
 
@@ -35,21 +35,21 @@ Data.Ti=Data
 
 Data.sec=<ol><li>{Data.Use.Sec}</li><li>{Data.Security.Sec}</li><li>{Data.DPA.Sec}</li><li>{Data.Usage.Sec}</li></ol>
 
-Data.Use.Ti=Use of Customer Data
+Data.Use.Ti={_Use_of_Customer_Data}
 
-Data.Use.sec=Subject to this Agreement, {_Provider} will access and use Customer Data solely to provide and maintain the {_Cloud_Service}, {_Support} and Professional Services under this Agreement (“<b>{Def.Use_of_Customer_Data}</b>”). Use of Customer Data includes sharing Customer Data as Customer directs through the {_Cloud_Service}, but {_Provider} will not otherwise disclose Customer Data to third parties except as permitted in this Agreement.
+Data.Use.sec=Subject to this Agreement, {_Provider} will access and use {_Customer_Data} solely to provide and maintain the {_Cloud_Service}, {_Support} and Professional Services under this Agreement (“<b>{DefT.Use_of_Customer_Data}</b>”). {_Use_of_Customer_Data} includes sharing {_Customer_Data} as Customer directs through the {_Cloud_Service}, but {_Provider} will not otherwise disclose {_Customer_Data} to third parties except as permitted in this Agreement.
 
 Data.Use.=[G/Z/Base]
 
 Data.Security.Ti=Security
 
-Data.Security.sec={_Provider} will implement and maintain the <b>Security Measures</b> identified on the Cover Page. If no Security Measures are identified, {_Provider} will use appropriate technical and organizational measures designed to prevent unauthorized access, use, alteration or disclosure of Customer Data.
+Data.Security.sec={_Provider} will implement and maintain the <b>Security Measures</b> identified on the {_Cover_Page}. If no Security Measures are identified, {_Provider} will use appropriate technical and organizational measures designed to prevent unauthorized access, use, alteration or disclosure of {_Customer_Data}.
 
 Data.Security.=[G/Z/Base]
 
 Data.DPA.Ti=DPA
 
-Data.DPA.sec=The parties will adhere to the <b>Data Protection Addendum</b> (<b>DPA</b>), if any, identified on the Cover Page.
+Data.DPA.sec=The parties will adhere to the <b>Data Protection Addendum</b> (<b>DPA</b>), if any, identified on the {_Cover_Page}.
 
 Data.DPA.=[G/Z/Base]
 
@@ -71,13 +71,13 @@ Function.Ti=Support and SLA
 
 Function.Support.Ti=Support
 
-Function.Support.sec={_Provider} will provide {_Support} for the {_Cloud_Service} as described in the <b>{_Support_Policy}</b> on the Cover Page. If no {Def.Support_Policy} is identified, {_Provider} will provide {_Support} for the {_Cloud_Service} consistent with industry-standards and its general business practices.
+Function.Support.sec={_Provider} will provide {_Support} for the {_Cloud_Service} as described in the <b>{_Support_Policy}</b> on the {_Cover_Page}. If no {DefT.Support_Policy} is identified, {_Provider} will provide {_Support} for the {_Cloud_Service} consistent with industry-standards and its general business practices.
 
 Function.Support.=[G/Z/ol/2]
 
 Function.SLA.Ti=SLA
 
-Function.SLA.sec={_Provider} will adhere to the <b>{_Service_Level_Agreement}</b> (<b>{_SLA}</b>) identified on the Cover Page. If no {_SLA} is identified, {_Provider} will use commercially reasonable efforts to make the {_Cloud_Service} available for Customer’s use {SLA.Uptime.%} of the time in each month.
+Function.SLA.sec={_Provider} will adhere to the <b>{_Service_Level_Agreement}</b> (<b>{_SLA}</b>) identified on the {_Cover_Page}. If no {_SLA} is identified, {_Provider} will use commercially reasonable efforts to make the {_Cloud_Service} available for Customer’s use {SLA.Uptime.%} of the time in each month.
 
 SLA.Uptime.%=99.9%
 
@@ -105,9 +105,9 @@ Warranty.Provider.Ti=Additional Provider Warranties
 
 Warranty.Provider.0.sec={_Provider} warrants that:
 
-Warranty.Provider.Performance.sec=the {_Cloud_Service} will perform materially as described in the Documentation and {_Provider} will not materially decrease the overall functionality of the {_Cloud_Service} during a {_Subscription_Term} (the “<b>{Def.Performance_Warranty}</b>”), and
+Warranty.Provider.Performance.sec=the {_Cloud_Service} will perform materially as described in the Documentation and {_Provider} will not materially decrease the overall functionality of the {_Cloud_Service} during a {_Subscription_Term} (the “<b>{DefT.Performance_Warranty}</b>”), and
 
-Warranty.Provider.Service.sec=any Professional Services will be provided in a professional and workmanlike manner (the “<b>{Def.Professional_Services_Warranty}</b>”).
+Warranty.Provider.Service.sec=any Professional Services will be provided in a professional and workmanlike manner (the “<b>{DefT.Professional_Services_Warranty}</b>”).
 
 Warranty.Provider.sec=<ol type="a"><li>{Warranty.Provider.Performance.sec}</li><li>{Warranty.Provider.Service.sec}</li></ol>
 
@@ -115,7 +115,7 @@ Warranty.Provider.=[G/Z/Base]
 
 Warranty.Remedy.Ti=Warranty Remedy
 
-Warranty.Remedy.sec={_Provider} will use reasonable efforts to correct a verified breach of the Performance Warranty or Professional Services Warranty reported by Customer. If {_Provider} fails to do so within 30 days after Customer’s warranty report (“<b>{Def.Fix_Period}</b>”), then either party may terminate the Order as relates to the non-conforming {_Cloud_Service} or Professional Services, in which case {_Provider} will refund to Customer any pre-paid, unused fees for the terminated portion of the {_Subscription_Term} (for the Performance Warranty) or for the non-conforming Professional Services (for the Professional Services Warranty). To receive these remedies, Customer must report a breach of warranty in reasonable detail within 30 days after discovering the issue in the {_Cloud_Service} or 30 days after delivery of the relevant Professional Services (“<b>{Def.Claim_Period}</b>”). These procedures are Customer’s exclusive remedies and {_Provider}’s sole liability for breach of the Performance Warranty or Professional Services Warranty.
+Warranty.Remedy.sec={_Provider} will use reasonable efforts to correct a verified breach of the Performance Warranty or Professional Services Warranty reported by Customer. If {_Provider} fails to do so within 30 days after Customer’s warranty report (“<b>{DefT.Fix_Period}</b>”), then either party may terminate the Order as relates to the non-conforming {_Cloud_Service} or Professional Services, in which case {_Provider} will refund to Customer any pre-paid, unused fees for the terminated portion of the {_Subscription_Term} (for the Performance Warranty) or for the non-conforming Professional Services (for the Professional Services Warranty). To receive these remedies, Customer must report a breach of warranty in reasonable detail within 30 days after discovering the issue in the {_Cloud_Service} or 30 days after delivery of the relevant Professional Services (“<b>{DefT.Claim_Period}</b>”). These procedures are Customer’s exclusive remedies and {_Provider}’s sole liability for breach of the Performance Warranty or Professional Services Warranty.
 
 Warranty.Remedy.=[G/Z/ol/4]
 
@@ -131,7 +131,7 @@ Usage.Ti=Usage Rules
 
 Usage.Comply.Ti=Compliance
 
-Usage.Comply.sec=Customer (a) will comply with any <b>{_Acceptable_Use_Policy}</b> (<b>{_AUP}</b>) identified on the Cover Page and (b) represents and warrants that it has all rights necessary to use Customer Data with the {_Cloud_Service} and grant {_Provider} the rights to Customer Data specified in this Agreement, without violating third-party intellectual property, privacy or other rights. Between the parties, Customer is responsible for the content and accuracy of Customer Data.
+Usage.Comply.sec=Customer (a) will comply with any <b>{_Acceptable_Use_Policy}</b> (<b>{_AUP}</b>) identified on the {_Cover_Page} and (b) represents and warrants that it has all rights necessary to use {_Customer_Data} with the {_Cloud_Service} and grant {_Provider} the rights to {_Customer_Data} specified in this Agreement, without violating third-party intellectual property, privacy or other rights. Between the parties, Customer is responsible for the content and accuracy of {_Customer_Data}.
 
 Usage.Comply.=[G/Z/ol/2]
 
@@ -161,13 +161,13 @@ Usage.=[G/Z/Base]
 
 ThirdPartyPlatform.Ti=Third-Party Platforms
 
-ThirdPartyPlatform.sec=Customer may choose to enable integrations or exchange Customer Data with {_Third-Party_Platform}s. Customer’s use of a {_Third-Party_Platform} is governed by its agreement with the relevant provider, not this Agreement, and {_Provider} is not responsible for {_Third-Party_Platform}s or how their providers use Customer Data.
+ThirdPartyPlatform.sec=Customer may choose to enable integrations or exchange {_Customer_Data} with {_Third-Party_Platform}s. Customer’s use of a {_Third-Party_Platform} is governed by its agreement with the relevant provider, not this Agreement, and {_Provider} is not responsible for {_Third-Party_Platform}s or how their providers use {_Customer_Data}.
 
 ThirdPartyPlatform.=[G/Z/Base]
 
 ProfessionalService.Ti=Professional Services
 
-ProfessionalService.sec={_Provider} will perform Professional Services as described in an Order or {_Statement_of_Work}, which may identify additional terms or milestones for the Professional Services. Customer will give {_Provider} timely access to Customer Materials reasonably needed for Professional Services, and {_Provider} will use the Customer Materials only for purposes of providing Professional Services. Subject to any limits in an Order or {_Statement_of_Work}, Customer will reimburse {_Provider}’s reasonable travel and lodging expenses incurred in providing Professional Services. Customer may use code or other deliverables that {_Provider} furnishes as part of Professional Services only in connection with Customer’s authorized use of the {_Cloud_Service} under this Agreement.
+ProfessionalService.sec={_Provider} will perform Professional Services as described in an Order or {_Statement_of_Work}, which may identify {_Additional_Terms} or milestones for the Professional Services. Customer will give {_Provider} timely access to Customer Materials reasonably needed for Professional Services, and {_Provider} will use the Customer Materials only for purposes of providing Professional Services. Subject to any limits in an Order or {_Statement_of_Work}, Customer will reimburse {_Provider}’s reasonable travel and lodging expenses incurred in providing Professional Services. Customer may use code or other deliverables that {_Provider} furnishes as part of Professional Services only in connection with Customer’s authorized use of the {_Cloud_Service} under this {_Agreement}.
 
 ProfessionalService.=[G/Z/Base]
 
@@ -175,7 +175,7 @@ Fee.Ti=Fees
 
 Fee.Pay.Ti=Payment
 
-Fee.Pay.sec=Customer will pay the fees described in the Order. Unless the Order states otherwise, all amounts are due within {Fee.Pay.DueAfterInvoice.days} after the invoice date (the “<b>{Def.Payment_Period}</b>”). Late payments are subject to a charge of 1.5% per month or the maximum amount allowed by Law, whichever is less. All fees and expenses are non-refundable except as expressly set out in this Agreement.
+Fee.Pay.sec=Customer will pay the fees described in the Order. Unless the Order states otherwise, all amounts are due within {Fee.Pay.DueAfterInvoice.days} after the invoice date (the “<b>{DefT.Payment_Period}</b>”). Late payments are subject to a charge of 1.5% per month or the maximum amount allowed by Law, whichever is less. All fees and expenses are non-refundable except as expressly set out in this {_Agreement}.
 
 Fee.Pay.DueAfterInvoice.days=30 days
 
@@ -183,7 +183,7 @@ Fee.Pay.=[G/Z/ol/3]
 
 Fee.Tax.Ti=Taxes
 
-Fee.Tax.sec=Customer is responsible for any sales, use, GST, value-added, withholding or similar taxes or levies that apply to its Orders, whether domestic or foreign (“<b>{Def.Taxes}</b>”), other than {_Provider}’s income tax. Fees and expenses are exclusive of Taxes.
+Fee.Tax.sec=Customer is responsible for any sales, use, GST, value-added, withholding or similar taxes or levies that apply to its Orders, whether domestic or foreign (“<b>{DefT.Taxes}</b>”), other than {_Provider}’s income tax. Fees and expenses are exclusive of Taxes.
 
 Fee.Tax.=[G/Z/ol/3]
 
@@ -199,7 +199,7 @@ Fee.=[G/Z/Base]
 
 SuspendUse.Ti=Suspension
 
-SuspendUse.sec={_Provider} may suspend Customer’s access to the {_Cloud_Service} and related services due to a Suspension Event, but where practicable will give Customer prior notice so that Customer may seek to resolve the issue and avoid suspension. {_Provider} is not required to give prior notice in exigent circumstances or for a suspension made to avoid material harm or violation of Law. Once the Suspension Event is resolved, {_Provider} will promptly restore Customer’s access to the {_Cloud_Service} in accordance with this Agreement. “<b>{Def.Suspension_Event}</b>” means (a) Customer’s account is 30 days or more overdue, (b) Customer is in breach of Section {ComplyLaw.Xnum} (Usage Rules) or (c) Customer’s use of the {_Cloud_Service} risks material harm to the {_Cloud_Service} or others.
+SuspendUse.sec={_Provider} may suspend Customer’s access to the {_Cloud_Service} and related services due to a Suspension Event, but where practicable will give Customer prior notice so that Customer may seek to resolve the issue and avoid suspension. {_Provider} is not required to give prior notice in exigent circumstances or for a suspension made to avoid material harm or violation of Law. Once the Suspension Event is resolved, {_Provider} will promptly restore Customer’s access to the {_Cloud_Service} in accordance with this {_Agreement}. “<b>{DefT.Suspension_Event}</b>” means (a) Customer’s account is 30 days or more overdue, (b) Customer is in breach of Section {ComplyLaw.Xnum} (Usage Rules) or (c) Customer’s use of the {_Cloud_Service} risks material harm to the {_Cloud_Service} or others.
 
 SuspendUse.=[G/Z/Base]
 
@@ -213,35 +213,35 @@ Life.Subscription.=[G/Z/Base]
 
 Life.Agreement.Ti=Term of Agreement
 
-Life.Agreement.1.sec=This Agreement starts on the <b>Effective Date</b> and continues until the end of all {_Subscription_Term}s, unless sooner terminated in accordance with its terms. 
+Life.Agreement.1.sec=This {_Agreement} starts on the <b>Effective Date</b> and continues until the end of all {_Subscription_Term}s, unless sooner terminated in accordance with its terms. 
 
-Life.Agreement.2.sec=If no {_Subscription_Term} is in effect, either party may terminate this Agreement for any or no reason with notice to the other party.
+Life.Agreement.2.sec=If no {_Subscription_Term} is in effect, either party may terminate this {_Agreement} for any or no reason with notice to the other party.
 
 Life.Agreement.=[G/Z/para/s2]
 
 Life.Terminate.Ti=Termination
 
-Life.Terminate.sec=Either party may terminate this Agreement (including all {_Subscription_Term}s) if the other party (a) fails to cure a material breach of this Agreement within 30 days after notice, (b) ceases operation without a successor or (c) seeks protection under a bankruptcy, receivership, trust deed, creditors’ arrangement, composition or comparable proceeding, or if such a proceeding is instituted against that party and not dismissed within 60 days.
+Life.Terminate.sec=Either party may terminate this {_Agreement} (including all {_Subscription_Term}s) if the other party (a) fails to cure a material breach of this {_Agreement} within 30 days after notice, (b) ceases operation without a successor or (c) seeks protection under a bankruptcy, receivership, trust deed, creditors’ arrangement, composition or comparable proceeding, or if such a proceeding is instituted against that party and not dismissed within 60 days.
 
 Life.Terminate.=[G/Z/Base]
 
 Life.WithdrawData.Ti=Data Export & Deletion
 
-Life.WithdrawData.1.sec=During a {_Subscription_Term}, Customer may export Customer Data from the {_Cloud_Service} (or {_Provider} will otherwise make the Customer Data available to Customer) as described in the Documentation.
+Life.WithdrawData.1.sec=During a {_Subscription_Term}, Customer may export {_Customer_Data} from the {_Cloud_Service} (or {_Provider} will otherwise make the {_Customer_Data} available to Customer) as described in the Documentation.
 
-Life.WithdrawData.2.sec=After termination or expiration of this Agreement, within 60 days of request, {_Provider} will delete Customer Data and each party will delete any Confidential Information of the other in its possession or control.
+Life.WithdrawData.2.sec=After termination or expiration of this {_Agreement}, within 60 days of request, {_Provider} will delete {_Customer_Data} and each party will delete any {_Confidential_Information} of the other in its possession or control.
 
-Life.WithdrawData.3.sec=Nonetheless, the recipient may retain Customer Data or Confidential Information in accordance with its standard backup or record retention policies or as required by Law, subject to Section {Data.Security.Xnum} (Security), Section {Conf.Xnum} (Confidentiality) and any DPA.
+Life.WithdrawData.3.sec=Nonetheless, the recipient may retain {_Customer_Data} or {_Confidential_Information} in accordance with its standard backup or record retention policies or as required by Law, subject to Section {Data.Security.Xnum} (Security), Section {Conf.Xnum} (Confidentiality) and any DPA.
 
 Life.WithdrawData.=[G/Z/ol-a/s3]
 
 Life.AfterTermination.Ti=Effect of Termination
 
-Life.AfterTermination.1.sec=Customer’s right to use the {_Cloud_Service}, {_Support} and Professional Services will cease upon any termination or expiration of this Agreement, subject to this Section {Life.Xnum}.
+Life.AfterTermination.1.sec=Customer’s right to use the {_Cloud_Service}, {_Support} and Professional Services will cease upon any termination or expiration of this {_Agreement}, subject to this Section {Life.Xnum}.
 
-Life.AfterTermination.2.sec=The following Sections will survive expiration or termination of this Agreement: {Data.Usage.Xnum} (Usage Data), {Warranty.Disclaimer.Xnum} (Disclaimers), {Usage.Xnum} (Usage Rules), {Fee.Pay.Xnum} (Payment) (for amounts then due), {Fee.Tax.Xnum} (Taxes), {Life.WithdrawData.Xnum} (Data Export & Deletion), {Life.AfterTermination.Xnum} (Effect of Termination), {IP.Xnum} (Intellectual Property), {LiabilityLimit.Xnum} (Limitations of Liability), {Indemnify.Xnum} (Indemnification), {Conf.Xnum} (Confidentiality), {MandatoryDisclosure.Xnum} (Required Disclosures), {Misc.Xnum} (General Terms) and {Def.Xnum} (Definitions).
+Life.AfterTermination.2.sec=The following Sections will survive expiration or termination of this {_Agreement}: {Data.Usage.Xnum} (Usage Data), {Warranty.Disclaimer.Xnum} (Disclaimers), {Usage.Xnum} (Usage Rules), {Fee.Pay.Xnum} (Payment) (for amounts then due), {Fee.Tax.Xnum} (Taxes), {Life.WithdrawData.Xnum} (Data Export & Deletion), {Life.AfterTermination.Xnum} (Effect of Termination), {IP.Xnum} (Intellectual Property), {LiabilityLimit.Xnum} (Limitations of Liability), {Indemnify.Xnum} (Indemnification), {Conf.Xnum} (Confidentiality), {MandatoryDisclosure.Xnum} (Required Disclosures), {Misc.Xnum} (General Terms) and {Def.Xnum} (Definitions).
 
-Life.AfterTermination.3.sec=Except where an exclusive remedy is provided, exercising a remedy under this Agreement, including termination, does not limit other remedies a party may have.
+Life.AfterTermination.3.sec=Except where an exclusive remedy is provided, exercising a remedy under this {_Agreement}, including termination, does not limit other remedies a party may have.
 
 Life.AfterTermination.=[G/Z/ol-a/s3]
 
@@ -253,7 +253,7 @@ IP.Ti=Intellectual Property
 
 IP.ReserveRight.Ti=Reserved Rights
 
-IP.ReserveRight.sec=Neither party grants the other any rights or licenses not expressly set out in this Agreement. Except for {_Provider}’s express rights in this Agreement, as between the parties, Customer retains all intellectual property and other rights in Customer Data and Customer Materials provided to {_Provider}. Except for Customer’s express rights in this Agreement, as between the parties, {_Provider} and its licensors retain all intellectual property and other rights in the {_Cloud_Service}, Professional Services deliverables and related {_Provider} technology.
+IP.ReserveRight.sec=Neither party grants the other any rights or licenses not expressly set out in this {_Agreement}. Except for {_Provider}’s express rights in this {_Agreement}, as between the parties, Customer retains all intellectual property and other rights in {_Customer_Data} and Customer Materials provided to {_Provider}. Except for Customer’s express rights in this {_Agreement}, as between the parties, {_Provider} and its licensors retain all intellectual property and other rights in the {_Cloud_Service}, Professional Services deliverables and related {_Provider} technology.
 
 IP.ReserveRight.=[G/Z/Base]
 
@@ -271,13 +271,13 @@ LiabilityLimit.Ti=Limitations of Liability
 
 LiabilityLimit.GeneralCap.Ti=General Cap
 
-LiabilityLimit.GeneralCap.sec=<b>Each party’s entire liability arising out of or related to this Agreement will not exceed the General Cap.</b>
+LiabilityLimit.GeneralCap.sec=<b>Each party’s entire liability arising out of or related to this {_Agreement} will not exceed the General Cap.</b>
 
 LiabilityLimit.GeneralCap.=[G/Z/Base]
 
 LiabilityLimit.ConsequentialDamage.Ti=Consequential Damages Waiver
 
-LiabilityLimit.ConsequentialDamage.sec=<b>Neither party will have any liability arising out of or related to this Agreement for indirect, special, incidental, reliance or consequential damages or damages for loss of use, lost profits or interruption of business, even if informed of their possibility in advance.</b>
+LiabilityLimit.ConsequentialDamage.sec=<b>Neither party will have any liability arising out of or related to this {_Agreement} for indirect, special, incidental, reliance or consequential damages or damages for loss of use, lost profits or interruption of business, even if informed of their possibility in advance.</b>
 
 LiabilityLimit.ConsequentialDamage.=[G/Z/Base]
 
@@ -289,29 +289,29 @@ LiabilityLimit.ExcludedClaim.=[G/Z/Base]
 
 LiabilityLimit.IncludedClaim.Ti=Nature of Claims
 
-LiabilityLimit.IncludedClaim.sec=The waivers and limitations in this Section {LiabilityLimit.Xnum} apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy in this Agreement fails of its essential purpose.
+LiabilityLimit.IncludedClaim.sec=The waivers and limitations in this Section {LiabilityLimit.Xnum} apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy in this {_Agreement} fails of its essential purpose.
 
 LiabilityLimit.IncludedClaim.=[G/Z/Base]
 
 LiabilityLimit.Def.Ti=Liability Definitions
 
-LiabilityLimit.Def.0.sec=The following definitions apply unless modified on the Cover Page.
+LiabilityLimit.Def.0.sec=The following definitions apply unless modified on the {_Cover_Page}.
 
 LiabilityLimit.Def.1.sec={Def.Enhanced_Cap.sec}
 
-Def.Enhanced_Cap.sec=“<b>{Def.Enhanced_Cap}</b>” means three times (3x) the General Cap.
+Def.Enhanced_Cap.sec=“<b>{DefT.Enhanced_Cap}</b>” means three times (3x) the General Cap.
 
 LiabilityLimit.Def.2.sec={Def.Enhanced_Claims.sec}
 
-Def.Enhanced_Claims.sec=“<b>{Def.Enhanced_Claims}</b>” means {_Provider}’s breach of Section {Data.Security.Xnum} (Security) or either party’s breach of Section {Data.DPA.Xnum} (DPA).
+Def.Enhanced_Claims.sec=“<b>{DefT.Enhanced_Claims}</b>” means {_Provider}’s breach of Section {Data.Security.Xnum} (Security) or either party’s breach of Section {Data.DPA.Xnum} (DPA).
 
 LiabilityLimit.Def.3.sec={Def.General_Cap.sec}
 
-Def.General_Cap.sec=“<b>{Def.General_Cap}</b>” means amounts paid or payable by Customer to {_Provider} under this Agreement in the 12 months immediately preceding the first incident giving rise to liability.
+Def.General_Cap.sec=“<b>{DefT.General_Cap}</b>” means amounts paid or payable by Customer to {_Provider} under this {_Agreement} in the 12 months immediately preceding the first incident giving rise to liability.
 
 LiabilityLimit.Def.4.sec={Def.Uncapped_Claims.sec}
 
-Def.Uncapped_Claims.sec=“<b>{Def.Uncapped_Claims}</b>” means (a) the indemnifying party’s obligations under Section {Indemnify.Xnum} (Indemnification), (b) either party’s infringement or misappropriation of the other party’s intellectual property rights, (c) any breach of Section {Conf.Xnum} (Confidentiality), excluding breaches related to Customer Data and (d) liabilities that cannot be limited by Law.
+Def.Uncapped_Claims.sec=“<b>{DefT.Uncapped_Claims}</b>” means (a) the indemnifying party’s obligations under Section {Indemnify.Xnum} (Indemnification), (b) either party’s infringement or misappropriation of the other party’s intellectual property rights, (c) any breach of Section {Conf.Xnum} (Confidentiality), excluding breaches related to {_Customer_Data} and (d) liabilities that cannot be limited by Law.
 
 LiabilityLimit.Def.=[G/Z/ol-none/s4]
 
@@ -335,11 +335,11 @@ Indemnify.ByCustomer.=[G/Z/Base]
 
 Indemnify.Def.Ti=Indemnification Definitions
 
-Indemnify.Def.0.sec=The following definitions apply unless modified on the Cover Page.
+Indemnify.Def.0.sec=The following definitions apply unless modified on the {_Cover_Page}.
 
-Indemnify.Def.1.sec=“<b>{Def.Customer-Covered_Claim}</b>” means a third-party claim arising from Customer’s breach or alleged breach of Section {Usage.Comply.Xnum} (Compliance) or {Usage.HighRisk.Xnum} (High-Risk Activities & Sensitive Data).
+Indemnify.Def.1.sec=“<b>{DefT.Customer-Covered_Claim}</b>” means a third-party claim arising from Customer’s breach or alleged breach of Section {Usage.Comply.Xnum} (Compliance) or {Usage.HighRisk.Xnum} (High-Risk Activities & Sensitive Data).
 
-Indemnify.Def.2.sec=“<b>{Def.Provider-Covered_Claim}</b>” means a third-party claim that the {_Cloud_Service}, when used by Customer as authorized in this Agreement, infringes or misappropriates a third party’s intellectual property rights.
+Indemnify.Def.2.sec=“<b>{DefT.Provider-Covered_Claim}</b>” means a third-party claim that the {_Cloud_Service}, when used by Customer as authorized in this {_Agreement}, infringes or misappropriates a third party’s intellectual property rights.
 
 Indemnify.Def.=[G/Z/ol-none/s2]
 
@@ -382,19 +382,19 @@ Conf.Ti=Confidentiality
 
 Conf.Engage.Ti=Use and Protection
 
-Conf.Engage.sec=As recipient, each party will (a) use Confidential Information only to fulfill its obligations and exercise its rights under this Agreement, (b) not disclose Confidential Information to third parties without the discloser’s prior approval, except as permitted in this Agreement and (c) protect Confidential Information using at least the same precautions recipient uses for its own similar information and no less than a reasonable standard of care.
+Conf.Engage.sec=As recipient, each party will (a) use {_Confidential_Information} only to fulfill its obligations and exercise its rights under this {_Agreement}, (b) not disclose {_Confidential_Information} to third parties without the discloser’s prior approval, except as permitted in this {_Agreement} and (c) protect {_Confidential_Information} using at least the same precautions recipient uses for its own similar information and no less than a reasonable standard of care.
 
 Conf.Engage.=[G/Z/Base]
 
 Conf.CirculateInfo.Ti=Permitted Disclosures
 
-Conf.CirculateInfo.sec=The recipient may disclose Confidential Information to its employees, agents, contractors and other representatives having a legitimate need to know (including, for {_Provider}, the subcontractors referenced in Section {Misc.Subcontractor.Xnum}), provided it remains responsible for their compliance with this Section {Conf.Xnum} and they are bound to confidentiality obligations no less protective than this Section {Conf.Xnum}.
+Conf.CirculateInfo.sec=The recipient may disclose {_Confidential_Information} to its employees, agents, contractors and other representatives having a legitimate need to know (including, for {_Provider}, the subcontractors referenced in Section {Misc.Subcontractor.Xnum}), provided it remains responsible for their compliance with this Section {Conf.Xnum} and they are bound to confidentiality obligations no less protective than this Section {Conf.Xnum}.
 
 Conf.CirculateInfo.=[G/Z/Base]
 
 Conf.ExcludeInfo.Ti=Exclusions
 
-Conf.ExcludeInfo.sec=These confidentiality obligations do not apply to information that the recipient can document (a) is or becomes public knowledge through no fault of the recipient, (b) it rightfully knew or possessed, without confidentiality restrictions, prior to receipt from the discloser, (c) it rightfully received from a third party without confidentiality restrictions or (d) it independently developed without using or referencing Confidential Information.
+Conf.ExcludeInfo.sec=These confidentiality obligations do not apply to information that the recipient can document (a) is or becomes public knowledge through no fault of the recipient, (b) it rightfully knew or possessed, without confidentiality restrictions, prior to receipt from the discloser, (c) it rightfully received from a third party without confidentiality restrictions or (d) it independently developed without using or referencing {_Confidential_Information}.
 
 Conf.ExcludeInfo.=[G/Z/Base]
 
@@ -410,13 +410,13 @@ Conf.=[G/Z/Base]
 
 Conf.MandatoryDisclosure.Ti=Required Disclosures
 
-Conf.MandatoryDisclosure.sec=The recipient may disclose Confidential Information (including Customer Data) to the extent required by Laws. If permitted by Law, the recipient will give the discloser reasonable advance notice of the required disclosure and reasonably cooperate, at the discloser’s expense, to obtain confidential treatment for the Confidential Information.
+Conf.MandatoryDisclosure.sec=The recipient may disclose {_Confidential_Information} (including {_Customer_Data}) to the extent required by Laws. If permitted by Law, the recipient will give the discloser reasonable advance notice of the required disclosure and reasonably cooperate, at the discloser’s expense, to obtain confidential treatment for the {_Confidential_Information}.
 
 Conf.MandatoryDisclosure.=[G/Z/Base]
 
 Publicity.Ti=Publicity
 
-Publicity.sec=Neither party may publicly announce this Agreement without the other party’s prior approval or except as required by Laws.
+Publicity.sec=Neither party may publicly announce this {_Agreement} without the other party’s prior approval or except as required by Laws.
 
 Publicity.=[G/Z/Base]
 
@@ -424,7 +424,7 @@ Use.Trial.Ti=Trials and Betas
 
 Use.Trial.0.sec={_Provider} may offer optional {_Trials_and_Betas}. Use of {_Trials_and_Betas} is permitted only for Customer’s internal evaluation during the period designated by {_Provider} on the Order (or if not designated, 30 days). Either party may terminate Customer’s use of {_Trials_and_Betas} at any time for any reason. {_Trials_and_Betas} may be inoperable, incomplete or include features never released.  
 
-Use.Trial.1.sec=<b>Notwithstanding anything else in this Agreement, {_Provider} offers no warranty, indemnity, {_SLA} or {_Support} for {_Trials_and_Betas} and its liability for {_Trials_and_Betas} will not exceed US$1,000.</b>
+Use.Trial.1.sec=<b>Notwithstanding anything else in this {_Agreement}, {_Provider} offers no warranty, indemnity, {_SLA} or {_Support} for {_Trials_and_Betas} and its liability for {_Trials_and_Betas} will not exceed US$1,000.</b>
 
 Use.Trial.=[G/Z/ol-none/s1]
 
@@ -434,19 +434,19 @@ Misc.sec=<ol><li>{Misc.Assign.Sec}</li><li>{Misc.LawAndForum.Sec}</li><li>{Misc.
 
 Misc.Assign.Ti=Assignment
 
-Misc.Assign.sec=Neither party may assign this Agreement without the prior consent of the other party, except that either party may assign this Agreement, with notice to the other party, in connection with the assigning party’s merger, reorganization, acquisition or other transfer of all or substantially all of its assets or voting securities. Any non-permitted assignment is void. This Agreement will bind and inure to the benefit of each party’s permitted successors and assigns.
+Misc.Assign.sec=Neither party may assign this {_Agreement} without the prior consent of the other party, except that either party may assign this {_Agreement}, with notice to the other party, in connection with the assigning party’s merger, reorganization, acquisition or other transfer of all or substantially all of its assets or voting securities. Any non-permitted assignment is void. This {_Agreement} will bind and inure to the benefit of each party’s permitted successors and assigns.
 
 Misc.Assign.=[G/Z/Base]
 
 Misc.LawAndForum.Ti=Governing Law and Courts
 
-Misc.LawAndForum.sec=The <b>Governing Law</b> governs this Agreement and any action arising out of or relating to this Agreement, without reference to conflict of law rules. The parties will adjudicate any such action in the <b>Courts</b> and each party consents to the exclusive jurisdiction and venue of the <b>Courts</b> for these purposes.
+Misc.LawAndForum.sec=The <b>Governing Law</b> governs this {_Agreement} and any action arising out of or relating to this {_Agreement}, without reference to conflict of law rules. The parties will adjudicate any such action in the <b>Courts</b> and each party consents to the exclusive jurisdiction and venue of the <b>Courts</b> for these purposes.
 
 Misc.LawAndForum.=[G/Z/Base]
 
 Misc.Notice.Ti=Notices
 
-Misc.Notice.1.sec=Except as set out in this Agreement, notices, requests and approvals under this Agreement must be in writing to the addresses on the Cover Page and will be deemed given: (1) upon receipt if by personal delivery, (2) upon receipt if by certified or registered U.S. mail (return receipt requested), (3) one day after dispatch if by a commercial overnight delivery or (4) upon delivery if by email. Either party may update its address with notice to the other.
+Misc.Notice.1.sec=Except as set out in this {_Agreement}, notices, requests and approvals under this {_Agreement} must be in writing to the addresses on the {_Cover_Page} and will be deemed given: (1) upon receipt if by personal delivery, (2) upon receipt if by certified or registered U.S. mail (return receipt requested), (3) one day after dispatch if by a commercial overnight delivery or (4) upon delivery if by email. Either party may update its address with notice to the other.
 
 Misc.Notice.2.sec={_Provider} may also send operational notices through the {_Cloud_Service}.
 
@@ -454,19 +454,19 @@ Misc.Notice.=[G/Z/ol-a/s2]
 
 Misc.EntireAgreement.Ti=Entire Agreement
 
-Misc.EntireAgreement.sec=This Agreement is the parties’ entire agreement regarding its subject matter and supersedes any prior or contemporaneous agreements regarding its subject matter. In this Agreement, headings are for convenience only and “including” and similar terms are to be construed without limitation. Excluding Orders, terms in business forms, purchase orders or quotes used by either party will not amend or modify this Agreement; any such documents are for administrative purposes only. This Agreement may be executed in counterparts (including electronic copies and PDFs), each of which is deemed an original and which together form one and the same agreement.
+Misc.EntireAgreement.sec=This {_Agreement} is the parties’ entire agreement regarding its subject matter and supersedes any prior or contemporaneous agreements regarding its subject matter. In this {_Agreement}, headings are for convenience only and “including” and similar terms are to be construed without limitation. Excluding Orders, terms in business forms, purchase orders or quotes used by either party will not amend or modify this {_Agreement}; any such documents are for administrative purposes only. This {_Agreement} may be executed in counterparts (including electronic copies and PDFs), each of which is deemed an original and which together form one and the same agreement.
 
 Misc.EntireAgreement.=[G/Z/Base]
 
 Misc.DocumentHierarchy.Ti=Order of Precedence
 
-Misc.DocumentHierarchy.sec=First any {_Additional_Terms} and then {_Attachment}s will control in any conflict with these {_Bonterms_Cloud_Terms}. An Order may not modify any other part of the Agreement unless the Order specifically identifies the provisions that it supersedes.
+Misc.DocumentHierarchy.sec=First any {_Additional_Terms} and then {_Attachment}s will control in any conflict with these {_Bonterms_Cloud_Terms}. An Order may not modify any other part of the {_Agreement} unless the Order specifically identifies the provisions that it supersedes.
 
 Misc.DocumentHierarchy.=[G/Z/Base]
 
 Misc.Amend.Ti=Amendments
 
-Misc.Amend.sec=Any amendments to this Agreement must be in writing and signed by each party’s authorized representatives.
+Misc.Amend.sec=Any amendments to this {_Agreement} must be in writing and signed by each party’s authorized representatives.
 
 Misc.Amend.=[G/Z/Base]
 
@@ -478,19 +478,19 @@ Misc.ServiceChange.=[G/Z/Base]
 
 Misc.WaiveAndSever.Ti=Waivers and Severability
 
-Misc.WaiveAndSever.sec=Waivers must be signed by the waiving party’s authorized representative and cannot be implied from conduct. If any provision of this Agreement is held invalid, illegal or unenforceable, it will be limited to the minimum extent necessary so the rest of this Agreement remains in effect.
+Misc.WaiveAndSever.sec=Waivers must be signed by the waiving party’s authorized representative and cannot be implied from conduct. If any provision of this {_Agreement} is held invalid, illegal or unenforceable, it will be limited to the minimum extent necessary so the rest of this {_Agreement} remains in effect.
 
 Misc.WaiveAndSever.=[G/Z/Base]
 
 Misc.ForceMajeure.Ti=Force Majeure
 
-Misc.ForceMajeure.sec=Neither party is liable for a delay or failure to perform this Agreement due to a Force Majeure. If a Force Majeure materially adversely affects the {_Cloud_Service} for 15 or more consecutive days, either party may terminate the affected Order(s) upon notice to the other and {_Provider} will refund to Customer any pre-paid, unused fees for the terminated portion of the {_Subscription_Term}. However, this Section does not limit Customer’s obligations to pay fees owed.
+Misc.ForceMajeure.sec=Neither party is liable for a delay or failure to perform this {_Agreement} due to a Force Majeure. If a Force Majeure materially adversely affects the {_Cloud_Service} for 15 or more consecutive days, either party may terminate the affected Order(s) upon notice to the other and {_Provider} will refund to Customer any pre-paid, unused fees for the terminated portion of the {_Subscription_Term}. However, this Section does not limit Customer’s obligations to pay fees owed.
 
 Misc.ForceMajeure.=[G/Z/Base]
 
 Misc.Subcontractor.Ti=Subcontractors
 
-Misc.Subcontractor.sec={_Provider} may use subcontractors and permit them to exercise its rights and fulfill its obligations, but {_Provider} remains responsible for their compliance with this Agreement and for its overall performance under this Agreement. This does not limit any additional terms for subprocessors under a DPA.
+Misc.Subcontractor.sec={_Provider} may use subcontractors and permit them to exercise its rights and fulfill its obligations, but {_Provider} remains responsible for their compliance with this {_Agreement} and for its overall performance under this {_Agreement}. This does not limit any additional terms for subprocessors under a DPA.
 
 Misc.Subcontractor.=[G/Z/Base]
 
@@ -502,25 +502,25 @@ Misc.Independent.=[G/Z/Base]
 
 Misc.ThirdPartyBenefit.Ti=No Third-Party Beneficiaries
 
-Misc.ThirdPartyBenefit.sec=There are no third-party beneficiaries to this Agreement.
+Misc.ThirdPartyBenefit.sec=There are no third-party beneficiaries to this {_Agreement}.
 
 Misc.ThirdPartyBenefit.=[G/Z/Base]
 
 Misc.IncludedOpenSource.Ti=Open Source
 
-Misc.IncludedOpenSource.sec={_Provider_Software} distributed to Customer (if any) may include third-party open source software (“<b>{Def.Open_Source}</b>”) as listed in the Documentation or by {_Provider} upon request. If Customer elects to use the Open Source on a stand-alone basis, that use is subject to the applicable Open Source license and not this Agreement.
+Misc.IncludedOpenSource.sec={_Provider_Software} distributed to Customer (if any) may include third-party open source software (“<b>{DefT.Open_Source}</b>”) as listed in the Documentation or by {_Provider} upon request. If Customer elects to use the Open Source on a stand-alone basis, that use is subject to the applicable Open Source license and not this {_Agreement}.
 
 Misc.IncludedOpenSource.=[G/Z/Base]
 
 Misc.ExportControl-US.Ti=Export
 
-Misc.ExportControl-US.sec=Each party (a) will comply with all export and import Laws in performing this Agreement and (b) represents and warrants that it is not listed on any U.S. government list of prohibited or restricted parties or located in (or a national of) a country subject to a U.S. government embargo or designated by the U.S. government as a “terrorist supporting” country. Customer will not submit to the {_Cloud_Service} any data controlled under the U.S. International Traffic in Arms Regulations.
+Misc.ExportControl-US.sec=Each party (a) will comply with all export and import Laws in performing this {_Agreement} and (b) represents and warrants that it is not listed on any U.S. government list of prohibited or restricted parties or located in (or a national of) a country subject to a U.S. government embargo or designated by the U.S. government as a “terrorist supporting” country. Customer will not submit to the {_Cloud_Service} any data controlled under the U.S. International Traffic in Arms Regulations.
 
 Misc.ExportControl-US.=[G/Z/Base]
 
 Misc.GovernmentRight.Ti=Government Rights
 
-Misc.GovernmentRight.sec=To the extent applicable, the {_Cloud_Service} is “commercial computer software” or a “commercial item” for purposes of FAR 12.212 for and DFARS 227.7202. Use, reproduction, release, modification, disclosure or transfer of the {_Cloud_Service} is governed solely by the terms of this Agreement, and all other use is prohibited.
+Misc.GovernmentRight.sec=To the extent applicable, the {_Cloud_Service} is “commercial computer software” or a “commercial item” for purposes of FAR 12.212 for and DFARS 227.7202. Use, reproduction, release, modification, disclosure or transfer of the {_Cloud_Service} is governed solely by the terms of this {_Agreement}, and all other use is prohibited.
 
 Misc.GovernmentRight.=[G/Z/Base]
 
@@ -530,73 +530,73 @@ Def.Ti=Definitions
 
 Def.sec=<ul type=none></li>{Def.Acceptable_Use_Policy.sec}</li><li>{Def.Additional_Terms.sec}</li><li>{Def.Affiliate.sec}</li><li>{Def.Agreement.sec}</li><li>{Def.Attachment.sec}</li><li>{Def.Bonterms_Cloud_Terms.sec}</li><li>{Def.Cloud_Service.sec}</li><li>{Def.Confidential_Information.sec}</li><li>{Def.Cover_Page.sec}</li><li>{Def.Customer.sec}</li><li>{Def.Customer_Data.sec}</li><li>{Def.Customer_Materials.sec}</li><li>{Def.Data_Protection_Addendum.sec}</li><li>{Def.Documentation.sec}</li><li>{Def.Force_Majeure.sec}</li><li>{Def.High_Risk_Activities.sec}</li><li>{Def.Key_Terms.sec}</li><li>{Def.Laws.sec}</li><li>{Def.Order.sec}</li><li>{Def.Personal_Data.sec}</li><li>{Def.Professional_Services.sec}</li><li>{Def.Provider.sec}</li><li>{Def.Provider_Software.sec}</li><li>{Def.Sensitive_Data.sec}</li><li>{Def.Service_Level_Agreement.sec}</li><li>{Def.Statement_of_Work.sec}</li><li>{Def.Subscription_Term.sec}</li><li>{Def.Support.sec}</li><li>{Def.Support_Policy.sec}</li><li>{Def.Third-Party_Platform.sec}</li><li>{Def.Trials_and_Betas.sec}</li><li>{Def.Usage_Data.sec}</li><li>{Def.User.sec}</li><li>{Def.Virus.sec}</li></ul>
 
-Def.Acceptable_Use_Policy.sec=“<b>{Def.Acceptable_Use_Policy}</b>” or “<b>{Def.AUP}</b>” is defined in Section {Usage.Comply.Xnum} (Compliance).
+Def.Acceptable_Use_Policy.sec=“<b>{DefT.Acceptable_Use_Policy}</b>” or “<b>{DefT.AUP}</b>” is defined in Section {Usage.Comply.Xnum} (Compliance).
 
-Def.Additional_Terms.sec=“<b>{Def.Additional_Terms}</b>” means any additions to or modifications of these {_Bonterms_Cloud_Terms} that the parties specify on the Cover Page.
+Def.Additional_Terms.sec=“<b>{DefT.Additional_Terms}</b>” means any additions to or modifications of these {_Bonterms_Cloud_Terms} that the parties specify on the {_Cover_Page}.
 
-Def.Affiliate.sec=“<b>{Def.Affiliate}</b>” means an entity controlled, controlling or under common control with a party, where control means at least 50% ownership or power to direct an entity’s management.
+Def.Affiliate.sec=“<b>{DefT.Affiliate}</b>” means an entity controlled, controlling or under common control with a party, where control means at least 50% ownership or power to direct an entity’s management.
 
-Def.Agreement.sec=“<b>{Def.Agreement}</b>” has the meaning given in Section {TheAgreement.Xnum} (The Agreement).
+Def.Agreement.sec=“<b>{DefT.Agreement}</b>” has the meaning given in Section {TheAgreement.Xnum} (The Agreement).
 
-Def.Attachment.sec=“<b>{Def.Attachments}</b>” means any attachments, policies or documents that the parties specify on the Cover Page.
+Def.Attachment.sec=“<b>{DefT.Attachments}</b>” means any attachments, policies or documents that the parties specify on the {_Cover_Page}.
 
-Def.Bonterms_Cloud_Terms.sec=“<b>{Def.Bonterms_Cloud_Terms}</b>” means these {_Bonterms_Cloud_Terms} (Version 1.0).
+Def.Bonterms_Cloud_Terms.sec=“<b>{DefT.Bonterms_Cloud_Terms}</b>” means these {_Bonterms_Cloud_Terms} (Version 1.0).
 
-Def.Cloud_Service.sec=“<b>{Def.Cloud_Service}</b>” means {_Provider}’s proprietary cloud service, as identified in the relevant Order and as modified from time to time. The {_Cloud_Service} includes the {_Provider_Software} and Documentation but not Professional Services deliverables or {_Third-Party_Platform}s.
+Def.Cloud_Service.sec=“<b>{DefT.Cloud_Service}</b>” means {_Provider}’s proprietary cloud service, as identified in the relevant Order and as modified from time to time. The {_Cloud_Service} includes the {_Provider_Software} and Documentation but not Professional Services deliverables or {_Third-Party_Platform}s.
 
-Def.Confidential_Information.sec=“<b>{Def.Confidential_Information}</b>” means information disclosed by or on behalf of one party (as discloser) to the other party (as recipient) under this {_Agreement}, in any form, which (a) the discloser identifies to recipient as “confidential” or “proprietary” or (b) should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure. {_Provider}’s Confidential Information includes technical or performance information about the {_Cloud_Service}, and Customer’s Confidential Information includes Customer Data. Information on the Cover Page is each party’s Confidential Information.
+Def.Confidential_Information.sec=“<b>{DefT.Confidential_Information}</b>” means information disclosed by or on behalf of one party (as discloser) to the other party (as recipient) under this {_Agreement}, in any form, which (a) the discloser identifies to recipient as “confidential” or “proprietary” or (b) should be reasonably understood as confidential or proprietary due to its nature and the circumstances of its disclosure. {_Provider}’s {_Confidential_Information} includes technical or performance information about the {_Cloud_Service}, and Customer’s {_Confidential_Information} includes {_Customer_Data}. Information on the {_Cover_Page} is each party’s {_Confidential_Information}.
 
-Def.Cover_Page.sec=“<b>{Def.Cover_Page}</b>” means a Bonterms cover page or other document that (a) incorporates these {_Bonterms_Cloud_Terms} by reference, (b) specifies the Key Terms and any {_Additional_Terms} and incorporates any {_Attachment}s and (c) is signed by Customer and {_Provider}.
+Def.Cover_Page.sec=“<b>{DefT.Cover_Page}</b>” means a Bonterms cover page or other document that (a) incorporates these {_Bonterms_Cloud_Terms} by reference, (b) specifies the Key Terms and any {_Additional_Terms} and incorporates any {_Attachment}s and (c) is signed by Customer and {_Provider}.
 
-Def.Customer.sec=“<b>{Def.Customer}</b>” means the party identified as “Customer” on the Cover Page.
+Def.Customer.sec=“<b>{DefT.Customer}</b>” means the party identified as “Customer” on the {_Cover_Page}.
 
-Def.Customer_Data.sec=“<b>{Def.Customer_Data}</b>” means any data, content or materials that Customer (including its {_User}s) submits to its {_Cloud_Service} accounts, including from Third-Party Platforms.
+Def.Customer_Data.sec=“<b>{DefT.Customer_Data}</b>” means any data, content or materials that Customer (including its {_User}s) submits to its {_Cloud_Service} accounts, including from Third-Party Platforms.
 
-Def.Customer_Materials.sec=“<b>{Def.Customer_Materials}</b>” means materials and resources that Customer makes available to {_Provider} in connection with Professional Services.
+Def.Customer_Materials.sec=“<b>{DefT.Customer_Materials}</b>” means materials and resources that Customer makes available to {_Provider} in connection with Professional Services.
 
-Def.Data_Protection_Addendum.sec=“<b>{Def.Data_Protection_Addendum}</b>” or “<b>{Def.DPA}</b>” is defined in Section {Data.DPA.Xnum} (DPA).
+Def.Data_Protection_Addendum.sec=“<b>{DefT.Data_Protection_Addendum}</b>” or “<b>{DefT.DPA}</b>” is defined in Section {Data.DPA.Xnum} (DPA).
 
-Def.Documentation.sec=“<b>{Def.Documentation}</b>” means {_Provider}’s standard usage documentation for the {_Cloud_Service}.
+Def.Documentation.sec=“<b>{DefT.Documentation}</b>” means {_Provider}’s standard usage documentation for the {_Cloud_Service}.
 
-Def.Force_Majeure.sec=“<b>{Def.Force_Majeure}</b>” means an unforeseen event beyond a party’s reasonable control, such as a strike, blockade, war, pandemic, act of terrorism, riot, third-party Internet or utility failure, refusal of government license or natural disaster, where the affected party takes reasonable and customary measures to avoid or mitigate such event’s effects.
+Def.Force_Majeure.sec=“<b>{DefT.Force_Majeure}</b>” means an unforeseen event beyond a party’s reasonable control, such as a strike, blockade, war, pandemic, act of terrorism, riot, third-party Internet or utility failure, refusal of government license or natural disaster, where the affected party takes reasonable and customary measures to avoid or mitigate such event’s effects.
 
-Def.High_Risk_Activities.sec=“<b>{Def.High_Risk_Activities}</b>” means activities where use or failure of the {_Cloud_Service} could lead to death, personal injury or environmental damage, including life support systems, emergency services, nuclear facilities, autonomous vehicles or air traffic control.
+Def.High_Risk_Activities.sec=“<b>{DefT.High_Risk_Activities}</b>” means activities where use or failure of the {_Cloud_Service} could lead to death, personal injury or environmental damage, including life support systems, emergency services, nuclear facilities, autonomous vehicles or air traffic control.
 
-Def.Key_Terms.sec=“<b>{Def.Key_Terms}</b>” means Effective Date, Governing Law, Courts or other terms specified by the parties as “Key Terms” on the Cover Page.
+Def.Key_Terms.sec=“<b>{DefT.Key_Terms}</b>” means Effective Date, Governing Law, Courts or other terms specified by the parties as “Key Terms” on the {_Cover_Page}.
 
-Def.Laws.sec=“<b>{Def.Laws}</b>” means all laws, regulations, rules, court orders or other binding requirements of a government authority that apply to a party.
+Def.Laws.sec=“<b>{DefT.Laws}</b>” means all laws, regulations, rules, court orders or other binding requirements of a government authority that apply to a party.
 
-Def.Order.sec=“<b>{Def.Order}</b>” means an order for Customer’s access to the {_Cloud_Service}, {_Support}, Professional Services or related services that is executed by the parties and references this {_Agreement}.
+Def.Order.sec=“<b>{DefT.Order}</b>” means an order for Customer’s access to the {_Cloud_Service}, {_Support}, Professional Services or related services that is executed by the parties and references this {_Agreement}.
 
-Def.Personal_Data.sec=“<b>{Def.Personal_Data}</b>” means Customer Data relating to an identified or identifiable natural person.
+Def.Personal_Data.sec=“<b>{DefT.Personal_Data}</b>” means {_Customer_Data} relating to an identified or identifiable natural person.
 
-Def.Professional_Services.sec=“<b>{Def.Professional_Services}</b>” means training, migration or other professional services that {_Provider} furnishes to Customer related to the {_Cloud_Service}.
+Def.Professional_Services.sec=“<b>{DefT.Professional_Services}</b>” means training, migration or other professional services that {_Provider} furnishes to Customer related to the {_Cloud_Service}.
 
-Def.Provider.sec=“<b>{Def.Provider}</b>” means the party identified as “Provider” on the Cover Page.
+Def.Provider.sec=“<b>{DefT.Provider}</b>” means the party identified as “Provider” on the {_Cover_Page}.
 
-Def.Provider_Software.sec=“<b>{Def.Provider_Software}</b>” means any proprietary apps or software that {_Provider} distributes to Customer as part of the {_Cloud_Service}.
+Def.Provider_Software.sec=“<b>{DefT.Provider_Software}</b>” means any proprietary apps or software that {_Provider} distributes to Customer as part of the {_Cloud_Service}.
 
-Def.Sensitive_Data.sec=“<b>{Def.Sensitive_Data}</b>” means (a) patient, medical or other protected health information regulated by the Health Insurance Portability and Accountability Act (as amended and supplemented) (“<b>{Def.HIPAA}</b>”), (b) credit, debit, bank account or other financial account numbers, (c) social security numbers, driver’s license numbers or other government ID numbers and (d) special categories of data enumerated in European Union Regulation 2016/679, Article 9(1) or any successor legislation.
+Def.Sensitive_Data.sec=“<b>{DefT.Sensitive_Data}</b>” means (a) patient, medical or other protected health information regulated by the Health Insurance Portability and Accountability Act (as amended and supplemented) (“<b>{DefT.HIPAA}</b>”), (b) credit, debit, bank account or other financial account numbers, (c) social security numbers, driver’s license numbers or other government ID numbers and (d) special categories of data enumerated in European Union Regulation 2016/679, Article 9(1) or any successor legislation.
 
-Def.Service_Level_Agreement.sec=“<b>{Def.Service_Level_Agreement}</b>” or “<b>{Def.SLA}</b>” is defined in Section {Function.SLA.Xnum} (SLA).
+Def.Service_Level_Agreement.sec=“<b>{DefT.Service_Level_Agreement}</b>” or “<b>{DefT.SLA}</b>” is defined in Section {Function.SLA.Xnum} (SLA).
 
-Def.Statement_of_Work.sec=“<b>{Def.Statement_of_Work}</b>” means a statement of work for Professional Services that is executed by the parties and references this {_Agreement}.
+Def.Statement_of_Work.sec=“<b>{DefT.Statement_of_Work}</b>” means a statement of work for Professional Services that is executed by the parties and references this {_Agreement}.
 
-Def.Subscription_Term.sec=“<b>{Def.Subscription_Term}</b>” means the term for Customer’s use of the {_Cloud_Service} as identified in an Order.
+Def.Subscription_Term.sec=“<b>{DefT.Subscription_Term}</b>” means the term for Customer’s use of the {_Cloud_Service} as identified in an Order.
 
-Def.Support.sec=“<b>{Def.Support}</b>” means support for the {_Cloud_Service} as described in Section {Function.Support.Xnum} (Support).
+Def.Support.sec=“<b>{DefT.Support}</b>” means support for the {_Cloud_Service} as described in Section {Function.Support.Xnum} (Support).
 
-Def.Support_Policy.sec=“<b>{Def.Support_Policy}</b>” is defined in Section {Function.Support.Xnum} (Support).
+Def.Support_Policy.sec=“<b>{DefT.Support_Policy}</b>” is defined in Section {Function.Support.Xnum} (Support).
 
-Def.Third-Party_Platform.sec=“<b>{Def.Third-Party_Platform}</b>” means any product, add-on or platform not provided by {_Provider} that Customer uses with the {_Cloud_Service}.
+Def.Third-Party_Platform.sec=“<b>{DefT.Third-Party_Platform}</b>” means any product, add-on or platform not provided by {_Provider} that Customer uses with the {_Cloud_Service}.
 
-Def.Trials_and_Betas.sec=“<b>{Def.Trials_and_Betas}</b>” mean access to the {_Cloud_Service} (or {_Cloud_Service} features) on a free, trial, beta or early access basis.
+Def.Trials_and_Betas.sec=“<b>{DefT.Trials_and_Betas}</b>” mean access to the {_Cloud_Service} (or {_Cloud_Service} features) on a free, trial, beta or early access basis.
 
-Def.Usage_Data.sec=“<b>{Def.Usage_Data}</b>” means {_Provider}’s technical logs, data and learnings about Customer’s use of the {_Cloud_Service}, but excluding Customer Data.
+Def.Usage_Data.sec=“<b>{DefT.Usage_Data}</b>” means {_Provider}’s technical logs, data and learnings about Customer’s use of the {_Cloud_Service}, but excluding {_Customer_Data}.
 
-Def.User.sec=“<b>{Def.User}</b>” means anyone that Customer allows to use its accounts for the {_Cloud_Service}, who may include (a) employees, advisors and contractors of Customer and its {_Affiliate}s and (b) others if permitted in this {_Agreement}, the Documentation or an Order.
+Def.User.sec=“<b>{DefT.User}</b>” means anyone that Customer allows to use its accounts for the {_Cloud_Service}, who may include (a) employees, advisors and contractors of Customer and its {_Affiliate}s and (b) others if permitted in this {_Agreement}, the Documentation or an Order.
 
-Def.Virus.sec=“<b>{Def.Virus}</b>” means viruses, malicious code or similar harmful materials.
+Def.Virus.sec=“<b>{DefT.Virus}</b>” means viruses, malicious code or similar harmful materials.
 
 Def.=[G/Z/ol-none/s34]
 
@@ -615,229 +615,229 @@ ________________________________________________________
 Note=Supporting Widgets
 
 
-_Acceptable_Use_Policy=<a href='#Def.Acceptable_Use_Policy' class='definedterm'>Acceptable Use Policy</a>
+_Acceptable_Use_Policy=<a href='#DefT.Acceptable_Use_Policy' class='definedterm'>Acceptable Use Policy</a>
 
-_Additional_Terms=<a href='#Def.Additional_Terms' class='definedterm'>Additional Terms</a>
+_Additional_Terms=<a href='#DefT.Additional_Terms' class='definedterm'>Additional Terms</a>
 
-_Affiliate=<a href='#Def.Affiliate' class='definedterm'>Affiliate</a>
+_Affiliate=<a href='#DefT.Affiliate' class='definedterm'>Affiliate</a>
 
-_Agreement=<a href='#Def.Agreement' class='definedterm'>Agreement</a>
+_Agreement=<a href='#DefT.Agreement' class='definedterm'>Agreement</a>
 
-_Attachment=<a href='#Def.Attachment' class='definedterm'>Attachment</a>
+_Attachment=<a href='#DefT.Attachment' class='definedterm'>Attachment</a>
 
-_Attachments=<a href='#Def.Attachments' class='definedterm'>Attachments</a>
+_Attachments=<a href='#DefT.Attachments' class='definedterm'>Attachments</a>
 
-_AUP=<a href='#Def.Acceptable_Use_Policy' class='definedterm'>AUP</a>
+_AUP=<a href='#DefT.Acceptable_Use_Policy' class='definedterm'>AUP</a>
 
-_Bonterms_Cloud_Terms=<a href='#Def.Bonterms_Cloud_Terms' class='definedterm'>Bonterms Cloud Terms</a>
+_Bonterms_Cloud_Terms=<a href='#DefT.Bonterms_Cloud_Terms' class='definedterm'>Bonterms Cloud Terms</a>
 
-_Claim_Period=<a href='#Def.Claim_Period' class='definedterm'>Claim Period</a>
+_Claim_Period=<a href='#DefT.Claim_Period' class='definedterm'>Claim Period</a>
 
-_Cloud_Service=<a href='#Def.Cloud_Service' class='definedterm'>Cloud Service</a>
+_Cloud_Service=<a href='#DefT.Cloud_Service' class='definedterm'>Cloud Service</a>
 
-_Confidential_Information=<a href='#Def.Confidential_Information' class='definedterm'>Confidential Information</a>
+_Confidential_Information=<a href='#DefT.Confidential_Information' class='definedterm'>Confidential Information</a>
 
-_Cover_Page=<a href='#Def.Cover_Page' class='definedterm'>Cover Page</a>
+_Cover_Page=<a href='#DefT.Cover_Page' class='definedterm'>Cover Page</a>
 
-_Customer_Data=<a href='#Def.Customer_Data' class='definedterm'>Customer Data</a>
+_Customer_Data=<a href='#DefT.Customer_Data' class='definedterm'>Customer Data</a>
 
-_Customer_Materials=<a href='#Def.Customer_Materials' class='definedterm'>Customer Materials</a>
+_Customer_Materials=<a href='#DefT.Customer_Materials' class='definedterm'>Customer Materials</a>
 
-_Customer-Covered_Claim=<a href='#Def.Customer-Covered_Claim' class='definedterm'>Customer-Covered Claim</a>
+_Customer-Covered_Claim=<a href='#DefT.Customer-Covered_Claim' class='definedterm'>Customer-Covered Claim</a>
 
-_Customer=<a href='#Def.Customer' class='definedterm'>Customer</a>
+_Customer=<a href='#DefT.Customer' class='definedterm'>Customer</a>
 
-_Data_Protection_Addendum=<a href='#Def.Data_Protection_Addendum' class='definedterm'>Data Protection Addendum</a>
+_Data_Protection_Addendum=<a href='#DefT.Data_Protection_Addendum' class='definedterm'>Data Protection Addendum</a>
 
-_Documentation=<a href='#Def.Documentation' class='definedterm'>Documentation</a>
+_Documentation=<a href='#DefT.Documentation' class='definedterm'>Documentation</a>
 
-_DPA=<a href='#Def.DPA' class='definedterm'>DPA</a>
+_DPA=<a href='#DefT.DPA' class='definedterm'>DPA</a>
 
-_Effective_Date=<a href='#Def.Effective_Date' class='definedterm'>Effective Date</a>
+_Effective_Date=<a href='#DefT.Effective_Date' class='definedterm'>Effective Date</a>
 
-_Enhanced_Cap=<a href='#Def.Enhanced_Cap' class='definedterm'>Enhanced Cap</a>
+_Enhanced_Cap=<a href='#DefT.Enhanced_Cap' class='definedterm'>Enhanced Cap</a>
 
-_Enhanced_Claims=<a href='#Def.Enhanced_Claims' class='definedterm'>Enhanced Claims</a>
+_Enhanced_Claims=<a href='#DefT.Enhanced_Claims' class='definedterm'>Enhanced Claims</a>
 
-_Fix_Period=<a href='#Def.Fix_Period' class='definedterm'>Fix Period</a>
+_Fix_Period=<a href='#DefT.Fix_Period' class='definedterm'>Fix Period</a>
 
-_Force_Majeure=<a href='#Def.Force_Majeure' class='definedterm'>Force Majeure</a>
+_Force_Majeure=<a href='#DefT.Force_Majeure' class='definedterm'>Force Majeure</a>
 
-_General_Cap=<a href='#Def.General_Cap' class='definedterm'>General Cap</a>
+_General_Cap=<a href='#DefT.General_Cap' class='definedterm'>General Cap</a>
 
-_High_Risk_Activities=<a href='#Def.High_Risk_Activities' class='definedterm'>High Risk Activities</a>
+_High_Risk_Activities=<a href='#DefT.High_Risk_Activities' class='definedterm'>High Risk Activities</a>
 
-_HIPAA=<a href='#Def.HIPAA' class='definedterm'>HIPAA</a>
+_HIPAA=<a href='#DefT.HIPAA' class='definedterm'>HIPAA</a>
 
-_Key_Terms=<a href='#Def.Key_Terms' class='definedterm'>Key Terms</a>
+_Key_Terms=<a href='#DefT.Key_Terms' class='definedterm'>Key Terms</a>
 
-_Laws=<a href='#Def.Laws' class='definedterm'>Laws</a>
+_Laws=<a href='#DefT.Laws' class='definedterm'>Laws</a>
 
-_Open_Source=<a href='#Def.Open_Source' class='definedterm'>Open Source</a>
+_Open_Source=<a href='#DefT.Open_Source' class='definedterm'>Open Source</a>
 
-_Order=<a href='#Def.Order' class='definedterm'>Order</a>
+_Order=<a href='#DefT.Order' class='definedterm'>Order</a>
 
-_Orders=<a href='#Def.Order' class='definedterm'>Orders</a>
+_Orders=<a href='#DefT.Order' class='definedterm'>Orders</a>
 
-_Payment_Period=<a href='#Def.Payment_Period' class='definedterm'>Payment Period</a>
+_Payment_Period=<a href='#DefT.Payment_Period' class='definedterm'>Payment Period</a>
 
-_Performance_Warranty=<a href='#Def.Performance_Warranty' class='definedterm'>Performance Warranty</a>
+_Performance_Warranty=<a href='#DefT.Performance_Warranty' class='definedterm'>Performance Warranty</a>
 
-_Permitted_Use=<a href='#Def.Permitted_Use' class='definedterm'>Permitted Use</a>
+_Permitted_Use=<a href='#DefT.Permitted_Use' class='definedterm'>Permitted Use</a>
 
-_Personal_Data=<a href='#Def.Personal_Data' class='definedterm'>Personal Data</a>
+_Personal_Data=<a href='#DefT.Personal_Data' class='definedterm'>Personal Data</a>
 
-_Professional_Services_Warranty=<a href='#Def.Professional_Services_Warranty' class='definedterm'>Professional Services Warranty</a>
+_Professional_Services_Warranty=<a href='#DefT.Professional_Services_Warranty' class='definedterm'>Professional Services Warranty</a>
 
-_Professional_Services=<a href='#Def.Professional_Services' class='definedterm'>Professional Services</a>
+_Professional_Services=<a href='#DefT.Professional_Services' class='definedterm'>Professional Services</a>
 
-_Provider_Software=<a href='#Def.Provider_Software' class='definedterm'>Provider Software</a>
+_Provider_Software=<a href='#DefT.Provider_Software' class='definedterm'>Provider Software</a>
 
-_Provider-Covered_Claim=<a href='#Def.Provider-Covered_Claim' class='definedterm'>Provider-Covered Claim</a>
+_Provider-Covered_Claim=<a href='#DefT.Provider-Covered_Claim' class='definedterm'>Provider-Covered Claim</a>
 
-_Provider=<a href='#Def.Provider' class='definedterm'>Provider</a>
+_Provider=<a href='#DefT.Provider' class='definedterm'>Provider</a>
 
-_Sensitive_Data=<a href='#Def.Sensitive_Data' class='definedterm'>Sensitive Data</a>
+_Sensitive_Data=<a href='#DefT.Sensitive_Data' class='definedterm'>Sensitive Data</a>
 
-_Service_Level_Agreement=<a href='#Def.Service_Level_Agreement' class='definedterm'>Service Level Agreement</a>
+_Service_Level_Agreement=<a href='#DefT.Service_Level_Agreement' class='definedterm'>Service Level Agreement</a>
 
-_SLA=<a href='#Def.Service_Level_Agreement' class='definedterm'>SLA</a>
+_SLA=<a href='#DefT.Service_Level_Agreement' class='definedterm'>SLA</a>
 
-_Statement_of_Work=<a href='#Def.Statement_of_Work' class='definedterm'>Statement of Work</a>
+_Statement_of_Work=<a href='#DefT.Statement_of_Work' class='definedterm'>Statement of Work</a>
 
-_Subscription_Term=<a href='#Def.Subscription_Term' class='definedterm'>Subscription Term</a>
+_Subscription_Term=<a href='#DefT.Subscription_Term' class='definedterm'>Subscription Term</a>
 
-_Support_Policy=<a href='#Def.Support_Policy' class='definedterm'>Support Policy</a>
+_Support_Policy=<a href='#DefT.Support_Policy' class='definedterm'>Support Policy</a>
 
-_Support=<a href='#Def.Support' class='definedterm'>Support</a>
+_Support=<a href='#DefT.Support' class='definedterm'>Support</a>
 
-_Suspension_Event=<a href='#Def.Suspension_Event' class='definedterm'>Suspension Event</a>
+_Suspension_Event=<a href='#DefT.Suspension_Event' class='definedterm'>Suspension Event</a>
 
-_Taxes=<a href='#Def.Taxes' class='definedterm'>Taxes</a>
+_Taxes=<a href='#DefT.Taxes' class='definedterm'>Taxes</a>
 
-_Third-Party_Platform=<a href='#Def.Third-Party_Platform' class='definedterm'>Third-Party Platform</a>
+_Third-Party_Platform=<a href='#DefT.Third-Party_Platform' class='definedterm'>Third-Party Platform</a>
 
-_Trials_and_Betas=<a href='#Def.Trials_and_Betas' class='definedterm'>Trials and Betas</a>
+_Trials_and_Betas=<a href='#DefT.Trials_and_Betas' class='definedterm'>Trials and Betas</a>
 
-_Uncapped_Claims=<a href='#Def.Uncapped_Claims' class='definedterm'>Uncapped Claims</a>
+_Uncapped_Claims=<a href='#DefT.Uncapped_Claims' class='definedterm'>Uncapped Claims</a>
 
-_Usage_Data=<a href='#Def.Usage_Data' class='definedterm'>Usage Data</a>
+_Usage_Data=<a href='#DefT.Usage_Data' class='definedterm'>Usage Data</a>
 
-_Use_of_Customer_Data=<a href='#Def.Use_of_Customer_Data' class='definedterm'>Use of Customer Data</a>
+_Use_of_Customer_Data=<a href='#DefT.Use_of_Customer_Data' class='definedterm'>Use of Customer Data</a>
 
-_User=<a href='#Def.User' class='definedterm'>User</a>
+_User=<a href='#DefT.User' class='definedterm'>User</a>
 
-_Users=<a href='#Def.User' class='definedterm'>Users</a>
+_Users=<a href='#DefT.User' class='definedterm'>Users</a>
 
-_Virus=<a href='#Def.Virus' class='definedterm'>Virus</a>
+_Virus=<a href='#DefT.Virus' class='definedterm'>Virus</a>
 
-Def.Acceptable_Use_Policy={_Acceptable_Use_Policy}
+DefT.Acceptable_Use_Policy={_Acceptable_Use_Policy}
 
-Def.Additional_Terms={_Additional_Terms}
+DefT.Additional_Terms={_Additional_Terms}
 
-Def.Affiliate={_Affiliate}
+DefT.Affiliate={_Affiliate}
 
-Def.Agreement={_Agreement}
+DefT.Agreement={_Agreement}
 
-Def.Attachments={_Attachments}
+DefT.Attachments={_Attachments}
 
-Def.AUP={_AUP}
+DefT.AUP={_AUP}
 
-Def.Bonterms_Cloud_Terms={_Bonterms_Cloud_Terms}
+DefT.Bonterms_Cloud_Terms={_Bonterms_Cloud_Terms}
 
-Def.Claim_Period={_Claim_Period}
+DefT.Claim_Period={_Claim_Period}
 
-Def.Cloud_Service={_Cloud_Service}
+DefT.Cloud_Service={_Cloud_Service}
 
-Def.Confidential_Information={_Confidential_Information}
+DefT.Confidential_Information={_Confidential_Information}
 
-Def.Cover_Page={_Cover_Page}
+DefT.Cover_Page={_Cover_Page}
 
-Def.Customer_Data={_Customer_Data}
+DefT.Customer_Data={_Customer_Data}
 
-Def.Customer_Materials={_Customer_Materials}
+DefT.Customer_Materials={_Customer_Materials}
 
-Def.Customer-Covered_Claim={_Customer-Covered_Claim}
+DefT.Customer-Covered_Claim={_Customer-Covered_Claim}
 
-Def.Customer={_Customer}
+DefT.Customer={_Customer}
 
-Def.Data_Protection_Addendum={_Data_Protection_Addendum}
+DefT.Data_Protection_Addendum={_Data_Protection_Addendum}
 
-Def.Documentation={_Documentation}
+DefT.Documentation={_Documentation}
 
-Def.DPA={_DPA}
+DefT.DPA={_DPA}
 
-Def.Enhanced_Cap={_Enhanced_Cap}
+DefT.Enhanced_Cap={_Enhanced_Cap}
 
-Def.Enhanced_Claims={_Enhanced_Claims}
+DefT.Enhanced_Claims={_Enhanced_Claims}
 
-Def.Fix_Period={_Fix_Period}
+DefT.Fix_Period={_Fix_Period}
 
-Def.Force_Majeure={_Force_Majeure}
+DefT.Force_Majeure={_Force_Majeure}
 
-Def.General_Cap={_General_Cap}
+DefT.General_Cap={_General_Cap}
 
-Def.High_Risk_Activities={_High_Risk_Activities}
+DefT.High_Risk_Activities={_High_Risk_Activities}
 
-Def.HIPAA={_HIPAA}
+DefT.HIPAA={_HIPAA}
 
-Def.Key_Terms={_Key_Terms}
+DefT.Key_Terms={_Key_Terms}
 
-Def.Laws={_Laws}
+DefT.Laws={_Laws}
 
-Def.Open_Source={_Open_Source}
+DefT.Open_Source={_Open_Source}
 
-Def.Order={_Order}
+DefT.Order={_Order}
 
-Def.Payment_Period={_Payment_Period}
+DefT.Payment_Period={_Payment_Period}
 
-Def.Performance_Warranty={_Performance_Warranty}
+DefT.Performance_Warranty={_Performance_Warranty}
 
-Def.Permitted_Use={_Permitted_Use}
+DefT.Permitted_Use={_Permitted_Use}
 
-Def.Personal_Data={_Personal_Data}
+DefT.Personal_Data={_Personal_Data}
 
-Def.Professional_Services_Warranty={_Professional_Services_Warranty}
+DefT.Professional_Services_Warranty={_Professional_Services_Warranty}
 
-Def.Professional_Services={_Professional_Services}
+DefT.Professional_Services={_Professional_Services}
 
-Def.Provider_Software={_Provider_Software}
+DefT.Provider_Software={_Provider_Software}
 
-Def.Provider-Covered_Claim={_Provider-Covered_Claim}
+DefT.Provider-Covered_Claim={_Provider-Covered_Claim}
 
-Def.Provider={_Provider}
+DefT.Provider={_Provider}
 
-Def.Sensitive_Data={_Sensitive_Data}
+DefT.Sensitive_Data={_Sensitive_Data}
 
-Def.Service_Level_Agreement={_Service_Level_Agreement}
+DefT.Service_Level_Agreement={_Service_Level_Agreement}
 
-Def.SLA={_SLA}
+DefT.SLA={_SLA}
 
-Def.Statement_of_Work={_Statement_of_Work}
+DefT.Statement_of_Work={_Statement_of_Work}
 
-Def.Subscription_Term={_Subscription_Term}
+DefT.Subscription_Term={_Subscription_Term}
 
-Def.Support_Policy={_Support_Policy}
+DefT.Support_Policy={_Support_Policy}
 
-Def.Support={_Support}
+DefT.Support={_Support}
 
-Def.Suspension_Event={_Suspension_Event}
+DefT.Suspension_Event={_Suspension_Event}
 
-Def.Taxes={_Taxes}
+DefT.Taxes={_Taxes}
 
-Def.Third-Party_Platform={_Third-Party_Platform}
+DefT.Third-Party_Platform={_Third-Party_Platform}
 
-Def.Trials_and_Betas={_Trials_and_Betas}
+DefT.Trials_and_Betas={_Trials_and_Betas}
 
-Def.Uncapped_Claims={_Uncapped_Claims}
+DefT.Uncapped_Claims={_Uncapped_Claims}
 
-Def.Usage_Data={_Usage_Data}
+DefT.Usage_Data={_Usage_Data}
 
-Def.Use_of_Customer_Data={_Use_of_Customer_Data}
+DefT.Use_of_Customer_Data={_Use_of_Customer_Data}
 
-Def.User={_User}
+DefT.User={_User}
 
-Def.Virus={_Virus}
+DefT.Virus={_Virus}
 
 Note=Cross references:
 
