@@ -4,7 +4,7 @@ Note=The form of Rental Agreement (any element of the form can be customized)
 
 Note=We reference the data sheet:
 
-=[G/US-CA-MHP-CmA/SacRV/Space/05/2019-03-01-Jones/2019-03-01-DataSheet.md]
+=[G/US-CA-MHP-CmA/SacRV/Contract/2019-03-01-Jones/2019-03-01-DataSheet.md]
 
 Note=Specifics:
 
