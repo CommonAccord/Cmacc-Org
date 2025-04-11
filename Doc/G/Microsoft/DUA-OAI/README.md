@@ -1,7 +1,7 @@
 # Microsoft-DUA-OAI
 Cmacc version of the third form of Microsoft Data Use Agreement - for Open AI - https://news.microsoft.com/datainnovation/
 
-This is a Prose Object format of the Microsoft original.  It is available as a <a href="http://www.commonaccord.org/i.php?v=s&f=G/Microsoft-DUA-OAI/Demo/Acme-Quake.md">demo</a>, as a <a href="http://www.commonaccord.org/i.php?v=l&f=G/Microsoft-DUA-OAI/">library</a>, and as a <a href="https://github.com/CommonAccord/Microsoft-DUA-OAI">repo</a>. 
+This is a Prose Object format of the Microsoft original.  It is available as a <a href="http://www.commonaccord.org/i.php?v=s&f=G/Microsoft/DUA-OAI/Demo/Acme-Quake.md">demo</a>, as a <a href="http://www.commonaccord.org/i.php?v=l&f=G/Microsoft/DUA-OAI/">library</a>, and as a <a href="https://github.com/CommonAccord/Microsoft-DUA-OAI">repo</a>. 
 
 The /Form/ has been modularized as sections under /Sec/ and given meaningful names, e.g., /Sec/Permission/, /Sec/DataProtect/.
 
