@@ -10,4 +10,5 @@ Common Accord=CommonAccord
 
 =[G/on-agreements-paper/Pr0b/README-PO.md]
 
-See at www.commonaccord.org/i.php?v=s&f=G/on-agreements-paper/Pr0b/Tweaks/HazJ.md
+See at=<a href='www.commonaccord.org/i.php?v=s&f=G/on-agreements-paper/Pr0b/Tweaks/HazJ.md">www.commonaccord.org/i.php?v=s&f=G/on-agreements-paper/Pr0b/Tweaks/HazJ.md</a>
+
