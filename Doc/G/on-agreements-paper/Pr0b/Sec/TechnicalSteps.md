@@ -29,7 +29,7 @@ Ti=Technical Steps
 
 2.Ti=ProseObjects as Substrate for LLMs
 
-2.0.sec=LLMs have the ability to analyze, manipulate and generate text.  They can be used to analyze and manipulate ProseObjects, as well as to generate new ProseObjects.  This is a powerful combination, as it allows the LLM to root its work in human (lawyer) friendly formats of text.  The key=values and node names can function as tokens for the LLM at a much higher level than normal LLM tokens, a level that humans (lawyers) can directly work with, understand and contribute.  
+2.0.sec=LLMs have the ability to analyze, manipulate and generate text. They can be used to analyze and manipulate ProseObjects, as well as to generate new ProseObjects.  This is a powerful combination, as it allows the LLM to root its work in human readable tokens of text.  The key=values and node names can function as tokens for the LLM at a much higher level than normal LLM tokens, a level that humans (lawyers) can directly work with, understand and contribute.  
 
 2.1.sec=Dummy
 
