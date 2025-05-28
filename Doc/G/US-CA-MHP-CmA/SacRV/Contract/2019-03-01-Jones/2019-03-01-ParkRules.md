@@ -1,6 +1,6 @@
 Note=The form of Park Rules
 
-=[G/US-CA-MHP-CmA/SacRV/ParkRules.md]
+=[G/US-CA-MHP-CmA/SacRV/Form/ParkRules.md]
  
 Note=Reference the tenant's data sheet:
 
