@@ -4,7 +4,7 @@ Funded.YMD=September 27, 2015
 
 ValuationCap.$=$2,000,000
 
-Discount.%=8%
+Discount.%=7%
 
 Law.=[G/U/Place/US/CA/Geo]
 
