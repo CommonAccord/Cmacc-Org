@@ -2,30 +2,30 @@ Ti=Definitions and interpretation
 
 =[G/AgtForm/]
 0.sec=As used in this Agreement, the capitalised expressions will have the following meanings unless the context requires otherwise:
-r00t={!!wfwre!!}
+XXr00t={!!wfwre!!}
 !!wfwre!!=Here is a test of the wfwre macro.
 
 1.sec=“Agreement” means this collaboration agreement, containing the Clauses and Schedules
 
-●	“Call-Off Contract” means each contract that is let by the Buyer to one of the Collaboration Suppliers
+2.sec=“Call-Off Contract” means each contract that is let by the Buyer to one of the Collaboration Suppliers
 
-●	“Contractor’s Confidential Information” has the meaning set out in the Call-Off Contracts
+3.sec=“Contractor’s Confidential Information” has the meaning set out in the Call-Off Contracts
 
-●	“Confidential Information” means the Buyer Confidential Information or any Collaboration Supplier's Confidential Information
+4.sec=“Confidential Information” means the Buyer Confidential Information or any Collaboration Supplier's Confidential Information
 
-●	“Collaboration Activities” means the activities set out in this Agreement
+5.sec=“Collaboration Activities” means the activities set out in this Agreement
 
-●	“Buyer Confidential Information” has the meaning set out in the Call-Off Contract●	“Default” means any breach of the obligations of any Collaboration Supplier or any default, act, omission, negligence or statement of any Collaboration Supplier, its employees, servants, agents or subcontractors in connection with or in relation to the subject matter of this Agreement and in respect of which such Collaboration Supplier is liable (by way of indemnity or otherwise) to the other parties
+6.sec=“Buyer Confidential Information” has the meaning set out in the Call-Off Contract●	“Default” means any breach of the obligations of any Collaboration Supplier or any default, act, omission, negligence or statement of any Collaboration Supplier, its employees, servants, agents or subcontractors in connection with or in relation to the subject matter of this Agreement and in respect of which such Collaboration Supplier is liable (by way of indemnity or otherwise) to the other parties
 
-●	“Detailed Collaboration Plan” has the meaning given in clause 3.2
+7.sec=“Detailed Collaboration Plan” has the meaning given in clause 3.2
 
-●	“Dispute Resolution Process” means the process described in clause 9
+8.sec=“Dispute Resolution Process” means the process described in clause 9
 
-●	“Effective Date” means [insert date]
+9.sec=“Effective Date” means [insert date]
 
-●	“Force Majeure Event” has the meaning given in clause 11.1.1
+10.sec=“Force Majeure Event” has the meaning given in clause 11.1.1
 
-=[G/Z/ol/s15]
+=[G/Z/ol/s10]
 
 _Implementation_Service=Implementation Service
 
@@ -78,5 +78,4 @@ _Order_Form=Order Form
 _Party=Party
 
 _Parties=Parties
-
 
