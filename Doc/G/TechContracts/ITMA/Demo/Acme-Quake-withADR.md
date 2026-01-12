@@ -2,7 +2,7 @@ Locale.cl=San Francisco, California
 
 ArbitratorQualification.cl=expert in information technology
 
-GeneralTerm.Misc.Dispute.Tribunal.=[G/ADR-Org-CmA/Demo/International_Quick.md]
+GeneralTerm.Misc.Dispute.Tribunal.=[G/ADROrg/Demo/International_Quick.md]
 
 =[G/TechContracts/ITMA/Demo/Acme-Quake.md]
 
