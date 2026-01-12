@@ -238,10 +238,10 @@ Sign.4.6=to give access to data from my stored tissues for study where applicabl
 Sign.5=I know that participating is my choice. I understand that I may withdraw at any time without having to give a reason.
  
 Sign.6=I agree to be re-contacted to update my data, or to be involved in new research projects:<br><br>{ContactForFutureStudy.Answer}
-ContactForFutureStudy.Answer={ContactForFutureStudy.Answer } - Yes or No
+ContactForFutureStudy.Answer={ContactForFutureStudy.Answer} - Yes or No
  
 Sign.7=I agree to be re-contacted if medical information is found that could be useful to me and my doctor:<br><br>{ContactForFutureCare.Answer}
-ContactForFutureCare.Answer={ContactForFutureCare.Answer } - {ContactForFutureCare.Yes } or No
+ContactForFutureCare.Answer={ContactForFutureCare.Answer} - {ContactForFutureCare.Yes } or No
  
 Sign.7.Alt=Insert local policy on return of individual results
  

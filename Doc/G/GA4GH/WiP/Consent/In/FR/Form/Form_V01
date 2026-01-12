@@ -217,10 +217,10 @@ Sign.4.6=pour donner accès aux données de mes tissus conservés pour étude le
 Sign.5=je sais que la participation est mon choix. Je comprends que je peux retirer à tout moment sans avoir à donner une raison.
  
 Sign.6=Je suis d'accord pour être recontactés pour mettre à jour mes données, ou de participer à de nouveaux projets de recherche: <br>{m-}{ContactForFutureStudy.Answer}{-m}
-ContactForFutureStudy.Answer={ContactForFutureStudy.Answer } - Oui ou Non
+ContactForFutureStudy.Answer={ContactForFutureStudy.Answer} - Oui ou Non
  
 Sign.7=Je suis d'accord pour être recontactés si l'information médicale est constaté que pourrait être utile pour moi et mon médecin: <br> {m-}{ContactForFutureCare.Answer}{-m}
-ContactForFutureCare.Answer={ContactForFutureCare.Answer } Oui ou Non
+ContactForFutureCare.Answer={ContactForFutureCare.Answer} Oui ou Non
  
 Sign.7.Alt=Insérer politique locale sur le retour des résultats individuels
  
