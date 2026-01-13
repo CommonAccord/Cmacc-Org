@@ -1,6 +1,6 @@
 Doc.GUID=Acme-Ang-v001
 
-EffectiveDate.YMD=2026-01-11
+EffectiveDate.YMD=2026-01-13
 
 InfoConfidentialByType.cl=all information relating to reverse-fitting of cyber-attack profiles
 
