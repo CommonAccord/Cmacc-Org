@@ -1,0 +1,7 @@
+=[G/Z/ola/Base]
+
+Secs={a.Sec}</li><li>{b.Sec}</li><li>{c.Sec}</li><li>{d.Sec}</li><li>{e.Sec}</li><li>{f.Sec}</li><li>{g.Sec}</li><li>{h.Sec}</li><li>{i.Sec}</li><li>{j.Sec}</li><li>{k.Sec}</li><li>{l.Sec}
+
+secs={a.sec}</li><li>{b.sec}</li><li>{c.sec}</li><li>{d.sec}</li><li>{e.sec}</li><li>{f.sec}</li><li>{g.sec}</li><li>{h.sec}</li><li>{i.sec}</li><li>{j.sec}</li><li>{k.sec}</li><li>{l.sec}
+
+sens={a.sec} {b.sec} {c.sec} {d.sec} {e.sec} {f.sec} {g.sec} {h.sec} {i.sec} {j.sec}  {k.sec}  {l.sec}

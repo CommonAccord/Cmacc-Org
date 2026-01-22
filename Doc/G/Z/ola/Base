@@ -1,0 +1,395 @@
+r00t={Sec}
+
+LI=<li>{Sec}</li>
+
+Li=<li>{Sec}
+
+lI={Sec}</li>
+
+Doc={Head.Sec}<br>{sec}{Foot.Sec} 
+
+Head.Sec={Head.Message}<center><hd.{Head.sec}</hd.</center>
+
+Head.Message=<font color="grey">{MessageToUser} GUID: {Doc.GUID}</font>
+
+Head.sec={Doc.Ti}
+
+Sec=<span class="sec-ti">{Ti}</span><br>{sec}
+
+sec={0.sec}{xlist}{00.sec}
+
+0_xlist={0.sec} {xlist}
+
+0.sec=</>
+
+00.sec=</>
+
+xlist={Alist}
+
+Olist=<ol class="secs"><li>{Secs}</li></ol>
+
+olist=<ol class="secs"><li>{secs}</li></ol>
+
+ol=ol
+
+
+Alist=<ol type="a" class="secs"><li>{Secs}</li></ol>
+
+alist=<ol type="a" class="secs"><li>{secs}</li></ol>
+
+Ilist=<ol type="i"><li>{Secs}</li></ol>
+
+ilist=<ol type="i" class="secs"><li>{secs}</li></ol>
+
+Ulist=<ul class="secs"><li>{Secs}</li></ul>
+
+ulist=<ul class="secs"><li>{secs}</li></ul>
+
+Nlist=<ul type="none" class="secs"><li>{Secs}</li></ul>
+
+nlist=<ul type="none" class="secs"><li>{secs}</li></ul>
+
+/blist = for "break list" e.g. < br>
+ 
+Blist=<ul class="paras secs" type="none" style="padding-left: 0"><li>{Secs}</ul>
+
+blist=<ul class="paras secs" type="none" style="padding-left: 0; " ><li>{secs}</ul>
+
+Note=This avoids the need for cluttering a list with a separate Z/ol/0 for each section that has only a simple sec text.  It also forces you to put the reference to any Z/… at the bottom. 
+
+
+
+a.Sec=<span class="sec-ti">{a.Ti}</span><br>{a.sec}
+
+a.sec={a.0.sec}{a.xlist}{a.00.sec}
+
+a.xlist=<ul type="none"><li>{a.Secs}</ul>
+
+a.0.sec=</i>
+
+a.Secs=..sec..
+
+a.00.sec=</i>
+
+
+b.Sec=<span class="sec-ti">{b.Ti}</span><br>{b.sec}
+
+b.sec={b.0.sec}{b.xlist}{b.00.sec}
+
+b.xlist=<ul type="none"><li>{b.Secs}</ul>
+
+b.0.sec=</i>
+
+b.Secs=..sec..
+
+b.00.sec=</i>
+
+
+c.Sec=<span class="sec-ti">{c.Ti}</span><br>{c.sec}
+
+c.sec={c.0.sec}{c.xlist}{c.00.sec}
+
+c.xlist=<ul type="none"><li>{c.Secs}</ul>
+
+c.0.sec=</i>
+
+c.Secs=..sec..
+
+c.00.sec=</i>
+
+
+d.Sec=<span class="sec-ti">{d.Ti}</span><br>{d.sec}
+
+d.sec={d.0.sec}{d.xlist}{d.00.sec}
+
+d.xlist=<ul type="none"><li>{d.Secs}</ul>
+
+d.0.sec=</i>
+
+d.Secs=..sec..
+
+d.00.sec=</i>
+
+
+e.Sec=<span class="sec-ti">{e.Ti}</span><br>{e.sec}
+
+e.sec={e.0.sec}{e.xlist}{e.00.sec}
+
+e.xlist=<ul type="none"><li>{e.Secs}</ul>
+
+e.0.sec=</i>
+
+e.Secs=..sec..
+
+e.00.sec=</i>
+
+
+f.Sec=<span class="sec-ti">{f.Ti}</span><br>{f.sec}
+
+f.sec={f.0.sec}{f.xlist}{f.00.sec}
+
+f.xlist=<ul type="none"><li>{f.Secs}</ul>
+
+f.0.sec=</i>
+
+f.Secs=..sec..
+
+f.00.sec=</i>
+
+
+g.Sec=<span class="sec-ti">{g.Ti}</span><br>{g.sec}
+
+g.sec={g.0.sec}{g.xlist}{g.00.sec}
+
+g.xlist=<ul type="none"><li>{g.Secs}</ul>
+
+g.0.sec=</i>
+
+g.Secs=..sec..
+
+g.00.sec=</i>
+
+
+h.Sec=<span class="sec-ti">{h.Ti}</span><br>{h.sec}
+
+h.sec={h.0.sec}{h.xlist}{h.00.sec}
+
+h.xlist=<ul type="none"><li>{h.Secs}</ul>
+
+h.0.sec=</i>
+
+h.Secs=..sec..
+
+h.00.sec=</i>
+
+
+i.Sec=<span class="sec-ti">{i.Ti}</span><br>{i.sec}
+
+i.sec={i.0.sec}{i.xlist}{i.00.sec}
+
+i.xlist=<ul type="none"><li>{i.Secs}</ul>
+
+i.0.sec=</i>
+
+i.Secs=..sec..
+
+i.00.sec=</i>
+
+j.Sec=<span class="sec-ti">{j.Ti}</span><br>{j.sec}
+
+10.sec={j.0.sec}{j.xlist}{j.00.sec}
+
+10.xlist=<ul type="none"><li>{j.Secs}</ul>
+
+10.0.sec=</i>
+
+10.Secs=..sec..
+
+10.00.sec=</i>
+
+
+k.Sec=<span class="sec-ti">{k.Ti}</span><br>{k.sec}
+
+k.sec={k.0.sec}{k.xlist}{k.00.sec}
+
+k.xlist=<ul type="none"><li>{k.Secs}</ul>
+
+k.0.sec=</i>
+
+k.Secs=..sec..
+
+k.00.sec=</i>
+
+l.Sec=<span class="sec-ti">{l.Ti}</span><br>{l.sec}
+
+l.sec={l.0.sec}{l.xlist}{l.00.sec}
+
+l.xlist=<ul type="none"><li>{l.Secs}</ul>
+
+l.0.sec=</i>
+
+l.Secs=..sec..
+
+l.00.sec=</i>
+
+m.Sec=<span class="sec-ti">{m.Ti}</span><br>{m.sec}
+
+m.sec={m.0.sec}{m.xlist}{m.00.sec}
+
+m.xlist=<ul type="none"><li>{m.Secs}</ul>
+
+m.0.sec=</i>
+
+m.Secs=..sec..
+
+m.00.sec=</i>
+
+n.Sec=<span class="sec-ti">{n.Ti}</span><br>{n.sec}
+
+n.sec={n.0.sec}{n.xlist}{n.00.sec}
+
+n.xlist=<ul type="none"><li>{n.Secs}</ul>
+
+n.0.sec=</i>
+
+n.Secs=..sec..
+
+n.00.sec=</i>
+
+o.Sec=<span class="sec-ti">{o.Ti}</span><br>{o.sec}
+
+o.sec={o.0.sec}{o.xlist}{o.00.sec}
+
+o.xlist=<ul type="none"><li>{o.Secs}</ul>
+
+o.0.sec=</i>
+
+o.Secs=..sec..
+
+o.00.sec=</i>
+
+p.Sec=<span class="sec-ti">{p.Ti}</span><br>{p.sec}
+
+p.sec={p.0.sec}{p.xlist}{p.00.sec}
+
+p.xlist=<ul type="none"><li>{p.Secs}</ul>
+
+p.0.sec=</i>
+
+p.Secs=..sec..
+
+p.00.sec=</i>
+
+q.Sec=<span class="sec-ti">{q.Ti}</span><br>{q.sec}
+
+q.sec={q.0.sec}{q.xlist}{q.00.sec}
+
+q.xlist=<ul type="none"><li>{q.Secs}</ul>
+
+q.0.sec=</i>
+
+q.Secs=..sec..
+
+q.00.sec=</i>
+
+r.Sec=<span class="sec-ti">{r.Ti}</span><br>{r.sec}
+
+r.sec={r.0.sec}{r.xlist}{r.00.sec}
+
+r.xlist=<ul type="none"><li>{r.Secs}</ul>
+
+r.0.sec=</i>
+
+r.Secs=..sec..
+
+r.00.sec=</i>
+
+s.Sec=<span class="sec-ti">{s.Ti}</span><br>{s.sec}
+
+s.sec={s.0.sec}{s.xlist}{s.00.sec}
+
+s.xlist=<ul type="none"><li>{s.Secs}</ul>
+
+s.0.sec=</i>
+
+s.Secs=..sec..
+
+s.00.sec=</i>
+
+
+
+t.Sec=<span class="sec-ti">{t.Ti}</span><br>{t.sec}
+
+t.sec={t.0.sec}{t.xlist}{t.00.sec}
+
+t.xlist=<ul type="none"><li>{t.Secs}</ul>
+
+t.0.sec=</i>
+
+t.Secs=..sec..
+
+t.00.sec=</i>
+
+u.Sec=<span class="sec-ti">{u.Ti}</span><br>{u.sec}
+
+u.sec={u.0.sec}{u.xlist}{u.00.sec}
+
+u.xlist=<ul type="none"><li>{u.Secs}</ul>
+
+u.0.sec=</i>
+
+u.Secs=..sec..
+
+u.00.sec=</i>
+
+v.Sec=<span class="sec-ti">{v.Ti}</span><br>{v.sec}
+
+v.sec={v.0.sec}{v.xlist}{v.00.sec}
+
+v.xlist=<ul type="none"><li>{v.Secs}</ul>
+
+v.0.sec=</i>
+
+v.Secs=..sec..
+
+v.00.sec=</i>
+
+w.Sec=<span class="sec-ti">{w.Ti}</span><br>{w.sec}
+
+w.sec={w.0.sec}{w.xlist}{w.00.sec}
+
+w.xlist=<ul type="none"><li>{w.Secs}</ul>
+
+w.0.sec=</i>
+
+w.Secs=..sec..
+
+w.00.sec=</i>
+
+x.Sec=<span class="sec-ti">{x.Ti}</span><br>{x.sec}
+
+x.sec={x.0.sec}{x.xlist}{x.00.sec}
+
+x.xlist=<ul type="none"><li>{x.Secs}</ul>
+
+x.0.sec=</i>
+
+x.Secs=..sec..
+
+x.00.sec=</i>
+
+y.Sec=<span class="sec-ti">{y.Ti}</span><br>{y.sec}
+
+y.sec={y.0.sec}{y.xlist}{y.00.sec}
+
+y.xlist=<ul type="none"><li>{y.Secs}</ul>
+
+y.0.sec=</i>
+
+y.Secs=..sec..
+
+y.00.sec=</i>
+
+z.Sec=<span class="sec-ti">{z.Ti}</span><br>{z.sec}
+
+z.sec={z.0.sec}{z.xlist}{z.00.sec}
+
+z.xlist=<ul type="none"><li>{z.Secs}</ul>
+
+z.0.sec=</i>
+
+z.Secs=..sec..
+
+z.00.sec=</i>
+
+null=</i>
+
+Foot.Sec={null}
+
+Xref=Section {Xnum}
+
+Xsec=Section {Xnum}
+
+Xsec(Ti)=Section {Xnum} ({Ti})
+
+Xnum(Ti)={Xnum} ({Ti})

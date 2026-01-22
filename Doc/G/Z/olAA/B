@@ -1,0 +1,11 @@
+=[G/Z/olAA/Base]
+
+Secs={A.Sec}</li><li>{B.Sec}
+
+secs={A.sec}</li><li>{B.sec}
+
+secs;and={A.sec}; and<li>{B.sec}.
+
+secs;or={A.sec}; or<li>{B.sec}.
+
+sens={A.sec} {B.sec}

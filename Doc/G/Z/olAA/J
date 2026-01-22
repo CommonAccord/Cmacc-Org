@@ -1,0 +1,11 @@
+=[G/Z/olAA/Base]
+
+Secs={A.Sec}</li><li>{B.Sec}</li><li>{C.Sec}</li><li>{D.Sec}</li><li>{E.Sec}</li><li>{F.Sec}</li><li>{G.Sec}</li><li>{H.Sec}</li><li>{I.Sec}</li><li>{J.Sec}
+
+secs={A.sec}</li><li>{B.sec}</li><li>{C.sec}</li><li>{D.sec}</li><li>{E.sec}</li><li>{F.sec}</li><li>{G.sec}</li><li>{H.sec}</li><li>{I.sec}</li><li>{J.sec}
+
+secs;and={A.sec};<li>{B.sec};<li>{C.sec};<li>{D.sec};<li>{E.sec};<li>{F.sec};<li>{G.sec};<li>{H.sec};<li>{I.sec}; and<li>{J.sec}.
+
+secs;or={A.sec};<li>{B.sec};<li>{C.sec};<li>{D.sec};<li>{E.sec};<li>{F.sec};<li>{G.sec};<li>{H.sec};<li>{I.sec}; or<li>{J.sec}.
+
+sens={A.sec} {B.sec} {C.sec} {D.sec} {E.sec} {F.sec} {G.sec} {H.sec} {I.sec} {J.sec}

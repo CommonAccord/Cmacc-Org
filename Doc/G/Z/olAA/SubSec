@@ -1,0 +1,13 @@
+Sec=<span class="sec-ti">{Ti}</span><br>{Sec}
+
+sec={0.sec}{Xlist}{00.sec}
+
+xlist={Nlist}
+
+Nlist=<ul type="none"><li>{Secs}</ul>
+
+0.sec=</i>
+
+00.sec=</i>
+
+Secs=</i>

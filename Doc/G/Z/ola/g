@@ -1,0 +1,15 @@
+=[G/Z/ola/Base]
+
+Secs={a.Sec}</li><li>{b.Sec}</li><li>{c.Sec}</li><li>{d.Sec}</li><li>{e.Sec}</li><li>{f.Sec}</li><li>{g.Sec}
+
+secs={a.sec}</li><li>{b.sec}</li><li>{c.sec}</li><li>{d.sec}</li><li>{e.sec}</li><li>{f.sec}</li><li>{g.sec}
+
+secs;and={a.sec};<li>{b.sec};<li>{c.sec};<li>{d.sec};<li>{e.sec};<li>{f.sec}; and<li>{g.sec}.
+
+secs;or={a.sec};<li>{b.sec};<li>{c.sec};<li>{d.sec};<li>{e.sec};<li>{f.sec}; or<li>{g.sec}.
+
+sens={a.sec} {b.sec} {c.sec} {d.sec} {e.sec} {f.sec} {g.sec}
+
+Length=Seven
+  
+length=seven
