@@ -2,7 +2,7 @@ Doc.Ti=Independent Contractor Agreement
 
 CodersNote=Because some sections of this Contractor Agreement are the same as sections of the Employment Agreement, we will reference those Employment Agreement sections and delete the corresponding text here.  This assures uniformity and focuses improvements.  Many other sections have only minor variations, and could be harmonized and then "refactored."  
 
-/UseAgtFrame=This.sec=This Independent Contractor Agreement (the “{DefT.Agreement}”) is made as of {EffectiveDate.YMD} by and between the following contracting parties (each a “{_Party}” and together the “{_Parties}”):
+/UseAgtFrame=This.sec=This Independent Contractor Agreement (the “{DefT.Agreement}”) is made as of {EffectiveDate.YMD} by and between the following contracting parties (each a “{DefT.Party}” and together the “{DefT.Parties}”):
 
 /UseAgtFrame=A)[], a [] company incorporated and operating under the laws of Greece, with General Commercial Register nr. [], registered offices at [], Greece, and Tax Identification Number [], being herein duly represented by Mr. [], [] (hereinafter referred to as the “Company”) and
 
@@ -36,7 +36,7 @@ Def.sec={Def.0.sec}<ul type="none"><li>{Def.Confidential_Information.sec}<li>{De
 
 CodersNote=The "Inventions" section in the Employment Agreement is substantially different, so we put the Contractor's form back in, overriding. 
 
-Def.Invention.sec=“{_Inventions}” means discoveries, inventions, works of authorship, concepts, ideas, processes, methods, formulas, compositions, techniques, programs, software, designs, improvements and innovations or “know-how” related thereto (including all data and records pertaining thereto), whether or not patentable, copyrightable, registrable as a trademark, recorded in any medium or reduced to writing.
+Def.Invention.sec=“{DefT.Invention}s” means discoveries, inventions, works of authorship, concepts, ideas, processes, methods, formulas, compositions, techniques, programs, software, designs, improvements and innovations or “know-how” related thereto (including all data and records pertaining thereto), whether or not patentable, copyrightable, registrable as a trademark, recorded in any medium or reduced to writing.
 
 2.Ti=Scope; Services; Independent Contractor Status; Duties
 
