@@ -151,7 +151,7 @@ switch ($_REQUEST[VIEW]) {
 
  
     default:
-        echo "That is not a valid 'view'. Try again.<br>"  ;
+        echo "<h1>That is not a valid 'view'. Try 'v=s' or 'v=l' etc.</h1><br>"  ;
        include('./vendor/cmacc-app/view/source.php');
         break;
 }
