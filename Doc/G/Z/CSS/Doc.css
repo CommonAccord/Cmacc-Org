@@ -143,8 +143,58 @@ span :hover {
             ol li::before {
                 content: "Section" ": "; /* Prepend "Section" followed by the counter */
                 font-weight: bold; /* Optional: makes "Section" bold */
-            }            
+            }
             ol ol li::before {
                 content: ""; /* No prefix for nested list items */
             }
 }
+
+/* ---- CommonAccord depth show/hide ---- */
+
+/* Offset anchor-link scroll targets so the sticky depth bar doesn't cover them.
+   JS in doc.php overwrites this with the bar's measured height at runtime. */
+html {
+  scroll-padding-top: 40px;
+}
+
+.cmacc-depth-control {
+  position: sticky;
+  top: 0;
+  background: #f5f5f5;
+  border-bottom: 1px solid #ccc;
+  padding: 5px 12px;
+  z-index: 1000;
+  font-family: sans-serif;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.cmacc-depth-control label {
+  margin: 0;
+  font-weight: bold;
+  white-space: nowrap;
+}
+.cmacc-depth-control input[type=range] {
+  width: 120px;
+  cursor: pointer;
+}
+.cmacc-depth-control button {
+  padding: 2px 8px;
+  font-size: 11px;
+  cursor: pointer;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  background: #fff;
+}
+.cmacc-depth-control button:hover {
+  background: #e8e8e8;
+}
+
+/* Spans are clickable to collapse/expand */
+.cmacc-span {
+  cursor: pointer;
+}
+
+/* .cmacc-placeholder is injected by JS in doc.php when a span collapses */

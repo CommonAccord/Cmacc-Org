@@ -15,78 +15,103 @@ my $path = "./Doc/";
 my $orig;
 
 # You can do a trace of all files consulted by using the parser-trace.pl file.
-# my $filelist = ""; 
+# my $filelist = "";
 
 sub parse {
-	
-	my($file,$root,$part) = @_; my $f;
+
+	my($file,$root,$part,$depth) = @_;
+	$depth = 0 unless defined $depth;
+	my $f;
 
 	ref($file) eq "GLOB" ? $f = $file : open $f, "<$file" or die $!;
-	
+
 	$orig = $f unless $orig;
-	
-	my $content = parse_root($f, $root, $part);
-	if($content) { expand_fields($f, \$content, $part); return($content) }
+
+	my $content = parse_root($f, $root, $part, $depth);
+	if($content) { expand_fields($f, \$content, $part, $depth); return($content) }
 
 	return;
-	 
+
 }
 
 
-sub parse_root { 
-	
-	my ($f, $field, $oldpart) = @_; my $root;
+sub parse_root {
+
+	my ($f, $field, $oldpart, $depth) = @_;
+	$depth = 0 unless defined $depth;
+	my $root;
 
 
 	seek($f, 0, 0);
 	while(<$f>) {
 		return $root if ($root) = $_ =~ /^\Q$field\E\s*=\s*(.*?)$/;
 	}
-	
-	
+
+
 	seek($f, 0, 0);
 	while(<$f>) {
 		my($part,$what, $newfield);
 		if( (($part, $what) = $_ =~ /^([^=]*)=\[(.+?)\]/) and ($field =~ /^\Q$part\E/ )) {
 			if ( $part && ($field =~ /^\Q$part\E(.+?)$/) ){ $newfield = $1;}
-			
+
 			$part = $oldpart . $part if $oldpart;
 			# Follow a URL
-			if($what =~ s/^http//) { 
+			if($what =~ s/^http//) {
 				$what = 'http' . $what;
 				if(! $remote{$path.$what}) {  $remote_cnt++;
 					`curl '$what' > '$path/tmp$remote_cnt'`;
 					$remote{$path.$what} = "$path/tmp$remote_cnt";
 				}
-				$root = parse($remote{$path.$what}, $newfield || $field, $part);
+				$root = parse($remote{$path.$what}, $newfield || $field, $part, $depth);
 			}
 			# Look locally for a file
 			else {
-				$root = parse($path.$what, $newfield || $field, $part);
+				$root = parse($path.$what, $newfield || $field, $part, $depth);
 			}
  # $filelist =  "<tr><td>" . $part . "</td><td>" . $field. "</td><td>" . $what. "</td></tr>" . $filelist  ; # to make a list of each file visited.
 
 			return $root if $root;
 		}
 	      }
-	
+
 	return $root;
 
-} 
+}
 
 sub expand_fields  {
 
-	my($f,$field,$part) = @_;
-	
+	my($f,$field,$part,$depth) = @_;
+	$depth = 0 unless defined $depth;
+	my $child_depth = $depth + 1;
+
 
 	foreach( $$field =~ /\{([^}]+)\}/g ) {
 	  my $ex = $_;
 	  my $ox = $part ? $part . $ex : $ex;
-	  my $value = parse($orig, $ox); 
-	  my $spanvalue = "<span title='" . $ox . "' id='" . $ox . "'>". $value . "</span>";
-	  if($ox =~ /!!$/) { $spanvalue = $value; }
- 	    
-		  $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
+	  my $value = parse($orig, $ox, undef, $child_depth);
+
+	  if ($value) {
+	    my $spanvalue;
+	    if($ox =~ /!!$/) {
+	      # Raw value - no span wrapper
+	      $spanvalue = $value;
+	    } else {
+	      # Escape single quotes in field path for HTML attributes
+	      (my $ox_esc = $ox) =~ s/'/&#39;/g;
+	      # Wrap content in cmacc-content span so CSS can hide it independently.
+	      # No toggle button element here - the visual indicator is a CSS ::before
+	      # pseudo-element added by doc.php's stylesheet, so it is never subject
+	      # to doc.php's str_replace('{' / '}') post-processing.
+	      $spanvalue = "<span"
+	                 . " title='$ox_esc'"
+	                 . " id='$ox_esc'"
+	                 . " data-depth='$child_depth'"
+	                 . " data-cmacc-title='$ox_esc'"
+	                 . " class='cmacc-span'"
+	                 . "><span class='cmacc-content'>$value</span></span>";
+	    }
+	    $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg;
+	  }
 	}
       }
 
