@@ -30,34 +30,77 @@ $document=str_replace("{","<span class='missing'>{",$document);
 $document=str_replace("}","}</span>",$document);
 
 // --- CommonAccord span show/hide ---
-// CSS lives in Doc.css. Output only the depth-control bar and JS here,
-// directly (not through $document) so str_replace('{'/'}') never corrupts them.
+// Output depth-control bar and JS directly (not through $document) so that
+// str_replace('{'/'}') above never corrupts the script.
 echo <<<'CMACC_UI'
-<div class="cmacc-depth-control" style="position:sticky;top:0;background:#f5f5f5;border-bottom:1px solid #ccc;padding:5px 12px;z-index:1000;font-family:sans-serif;font-size:12px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
-  <label>Show depth:</label>
-  <input type="range" id="cmacc-depth-slider" min="1" max="20" value="20"
-         oninput="cmaccSetDepth(this.value)">
-  <span id="cmacc-depth-label" style="min-width:2em;font-weight:bold">All</span>
-  <button onclick="cmaccSetDepth(20)">Expand All</button>
-  <button onclick="cmaccSetDepth(1)">Collapse All</button>
+<div class="cmacc-depth-control" style="position:sticky;top:0;background:#f5f5f5;border-bottom:1px solid #ccc;padding:5px 12px;z-index:1000;font-family:sans-serif;font-size:12px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+  <span style="font-weight:bold;white-space:nowrap;">Show depth:</span>
+  <span id="cmacc-depth-btns"></span>
 </div>
 
 <script>
 (function () {
 
-  /* Calibrate slider max to the actual deepest span in this document */
-  function calibrate() {
-    var spans = document.querySelectorAll('.cmacc-span');
-    var maxD = 0;
-    spans.forEach(function (s) {
-      var d = parseInt(s.getAttribute('data-depth') || '0', 10);
-      if (d > maxD) maxD = d;
-    });
-    var slider = document.getElementById('cmacc-depth-slider');
-    if (slider && maxD > 0) {
-      slider.max   = maxD;
-      slider.value = maxD;
+  var docMaxDepth = 0;
+
+  /* Style helpers for depth buttons */
+  var BTN_BASE = 'display:inline-block;width:22px;height:22px;line-height:20px;padding:0;'
+               + 'text-align:center;font-size:11px;cursor:pointer;border-radius:3px;'
+               + 'font-family:sans-serif;margin:1px;box-sizing:border-box;vertical-align:middle;';
+  var BTN_ALL_BASE = 'display:inline-block;height:22px;line-height:20px;padding:0 6px;'
+                   + 'text-align:center;font-size:11px;cursor:pointer;border-radius:3px;'
+                   + 'font-family:sans-serif;margin:1px;box-sizing:border-box;vertical-align:middle;';
+
+  function setActive(btn, on, wide) {
+    btn.style.cssText = (wide ? BTN_ALL_BASE : BTN_BASE)
+      + (on ? 'background:#2a7a2a;color:#fff;border:1px solid #2a7a2a;'
+             : 'background:#fff;color:#333;border:1px solid #bbb;');
+  }
+
+  /* Build numbered depth buttons 1..docMaxDepth plus an "All" button */
+  function buildDepthButtons() {
+    var container = document.getElementById('cmacc-depth-btns');
+    if (!container) return;
+    container.innerHTML = '';
+
+    for (var i = 1; i <= docMaxDepth; i++) {
+      (function (depth) {
+        var btn = document.createElement('button');
+        btn.id    = 'cmacc-btn-' + depth;
+        btn.title = 'Show depth ' + depth;
+        btn.textContent = String(depth);
+        setActive(btn, false, false);
+        btn.onclick = function () { window.cmaccSetDepth(depth); };
+        container.appendChild(btn);
+      }(i));
     }
+
+    var allBtn = document.createElement('button');
+    allBtn.id    = 'cmacc-btn-all';
+    allBtn.title = 'Expand all';
+    allBtn.textContent = 'All';
+    setActive(allBtn, true, true);   /* "All" is active on load */
+    allBtn.onclick = function () { window.cmaccSetDepth(docMaxDepth + 99); };
+    container.appendChild(allBtn);
+  }
+
+  /* Highlight the button matching the current depth */
+  function highlightDepthButton(maxDepth) {
+    for (var i = 1; i <= docMaxDepth; i++) {
+      var btn = document.getElementById('cmacc-btn-' + i);
+      if (btn) setActive(btn, i === maxDepth, false);
+    }
+    var allBtn = document.getElementById('cmacc-btn-all');
+    if (allBtn) setActive(allBtn, maxDepth > docMaxDepth, true);
+  }
+
+  /* Calibrate max depth from the actual document, then build buttons */
+  function calibrate() {
+    document.querySelectorAll('.cmacc-span').forEach(function (s) {
+      var d = parseInt(s.getAttribute('data-depth') || '0', 10);
+      if (d > docMaxDepth) docMaxDepth = d;
+    });
+    buildDepthButtons();
   }
 
   /* Set scroll-padding-top so anchor links land below the sticky bar */
@@ -90,7 +133,7 @@ echo <<<'CMACC_UI'
     /* Insert a clickable label showing the field path */
     var label = document.createElement('span');
     label.className = 'cmacc-placeholder';
-    label.textContent = span.getAttribute('data-cmacc-title') || '…';
+    label.textContent = '(' + (span.getAttribute('data-cmacc-title') || '…') + ')';
     label.style.cssText = 'color:#2a7a2a;font-style:italic;font-weight:bold;font-size:0.85em;cursor:pointer;';
     span.appendChild(label);
   }
@@ -128,11 +171,7 @@ echo <<<'CMACC_UI'
   /* Global depth control */
   window.cmaccSetDepth = function (maxDepth) {
     maxDepth = parseInt(maxDepth, 10);
-    var slider = document.getElementById('cmacc-depth-slider');
-    var label  = document.getElementById('cmacc-depth-label');
-    if (slider) slider.value = maxDepth;
-    if (label)  label.textContent =
-      (maxDepth >= parseInt((slider && slider.max) || '20', 10)) ? 'All' : String(maxDepth);
+    highlightDepthButton(maxDepth);
 
     document.querySelectorAll('.cmacc-span').forEach(function (span) {
       var d = parseInt(span.getAttribute('data-depth') || '0', 10);

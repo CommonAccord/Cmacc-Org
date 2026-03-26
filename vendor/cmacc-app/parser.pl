@@ -91,27 +91,32 @@ sub expand_fields  {
 	  my $value = parse($orig, $ox, undef, $child_depth);
 
 	  if ($value) {
-	    my $spanvalue;
-	    if($ox =~ /!!$/) {
-	      # Raw value - no span wrapper
-	      $spanvalue = $value;
+	    if ($value =~ /^\s*<\/b>\s*$/) {
+	      # </b> is a sentinel meaning "nothing here" - remove placeholder silently.
+	      # (Don't cascade: only leaf </b> values trigger removal, not null returns
+	      # from unresolved sub-fields, which would cause parent fields to vanish too.)
+	      $$field =~ s/\{\Q$ex\E\}//g;
 	    } else {
-	      # Escape single quotes in field path for HTML attributes
-	      (my $ox_esc = $ox) =~ s/'/&#39;/g;
-	      # Wrap content in cmacc-content span so CSS can hide it independently.
-	      # No toggle button element here - the visual indicator is a CSS ::before
-	      # pseudo-element added by doc.php's stylesheet, so it is never subject
-	      # to doc.php's str_replace('{' / '}') post-processing.
-	      $spanvalue = "<span"
-	                 . " title='$ox_esc'"
-	                 . " id='$ox_esc'"
-	                 . " data-depth='$child_depth'"
-	                 . " data-cmacc-title='$ox_esc'"
-	                 . " class='cmacc-span'"
-	                 . "><span class='cmacc-content'>$value</span></span>";
+	      my $spanvalue;
+	      if($ox =~ /!!$/) {
+	        # Raw value - no span wrapper
+	        $spanvalue = $value;
+	      } else {
+	        # Escape single quotes in field path for HTML attributes
+	        (my $ox_esc = $ox) =~ s/'/&#39;/g;
+	        $spanvalue = "<span"
+	                   . " title='$ox_esc'"
+	                   . " id='$ox_esc'"
+	                   . " data-depth='$child_depth'"
+	                   . " data-cmacc-title='$ox_esc'"
+	                   . " class='cmacc-span'"
+	                   . "><span class='cmacc-content'>$value</span></span>";
+	      }
+	      $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg;
 	    }
-	    $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg;
 	  }
+	  # If !$value (null/undef): leave {field} unsubstituted - original behaviour,
+	  # doc.php will flag it as a missing field in red.
 	}
       }
 
