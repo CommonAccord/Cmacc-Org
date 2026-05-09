@@ -3,7 +3,7 @@
 ## Structure du dépôt
 
 ```
-FR-BlaBla-ConvHeberg/
+G/FR-BlaBla-ConvHeberg/
 ├── README.md                  ← Ce fichier
 ├── Form/
 │   └── 0.md                   ← FORM : texte paramétré réutilisable (le "template")

@@ -1,4 +1,6 @@
 
+Series.Name.Full=Series A Preferred Stock
+
 SeriesA.PricePerShare.$=~$1.00
 
 SeriesA.DividendsPerYear.%=8%

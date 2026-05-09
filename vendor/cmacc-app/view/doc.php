@@ -155,16 +155,16 @@ echo <<<'CMACC_UI'
     }
   }
 
-  /* Click handler.
-     Use closest() so clicking anywhere inside a span (on its text, on a
+  /* Right-click handler.
+     Use closest() so right-clicking anywhere inside a span (on its text, on a
      nested child span, etc.) finds the nearest .cmacc-span ancestor and
-     toggles it.  Clicks on <a> links are left alone so navigation works. */
-  document.addEventListener('click', function (e) {
-    if (e.target.closest('a')) return;          /* let links navigate normally */
+     toggles it.  The default context menu is suppressed on cmacc spans. */
+  document.addEventListener('contextmenu', function (e) {
     var span = e.target.closest('.cmacc-span');
     if (span) {
-      toggleSpan(span);
+      e.preventDefault();                       /* suppress browser context menu */
       e.stopPropagation();                      /* don't also toggle a parent span */
+      toggleSpan(span);
     }
   });
 

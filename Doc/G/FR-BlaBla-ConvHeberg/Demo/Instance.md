@@ -7,8 +7,8 @@
 # Dans un déploiement Cmacc, on utiliserait :
 #JGH - removed leading "# " and prefixes. Now it renders well.
 
-=[FR-BlaBla-ConvHeberg/Form/0.md]
-=[FR-BlaBla-ConvHeberg/Asso/BlaBla.md]
+=[G/FR-BlaBla-ConvHeberg/Form/0.md]
+=[G/FR-BlaBla-ConvHeberg/Asso/BlaBla.md]
 
 # ── Paramètres de la bénéficiaire (à compléter à chaque admission) ─────────
 
