@@ -1,0 +1,27 @@
+name: Deploy to DigitalOcean
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_USER }}
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          script: |
+            cd /var/www/commonaccord
+            git fetch origin master
+            git reset --hard origin/master
+            chmod +x vendor/cmacc-app/parser.pl
+            chmod +x vendor/cmacc-app/parser-*.pl
+            chown -R deploy:www-data .
+            chmod -R 775 .
+            echo "Deploy completed at $(date)"
