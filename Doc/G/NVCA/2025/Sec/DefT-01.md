@@ -1,216 +1,302 @@
-Note=Defined Term Links for NVCA 2025 SPA. 
+Note=From SPA DefT. :
 
-Additional_Closing=<a class='definedterm' href="{!!!}DefT.Additional_Closing">Additional Closing</a>
+Agreement=<a class='definedterm' href='{!!!}DefT.Agreement'>Agreement</a>
 
-Additional_Purchasers=<a class='definedterm' href="{!!!}DefT.Additional_Purchasers">Additional Purchasers</a>
+Company=<a class='definedterm' href='{!!!}DefT.Company'>Company</a>
 
-Additional_Shares=<a class='definedterm' href="{!!!}DefT.Additional_Shares">Additional Shares</a>
+Purchaser=<a class='definedterm' href='{!!!}DefT.Purchaser'>Purchaser</a>
 
-Affiliate=<a class='definedterm' href="{!!!}DefT.Affiliate">Affiliate</a>
+Purchasers=<a class='definedterm' href='{!!!}DefT.Purchasers'>Purchasers</a>
 
-Agreement=<a class='definedterm' href="{!!!}DefT.Agreement">Agreement</a>
+Restated_Certificate=<a class='definedterm' href='{!!!}DefT.Restated_Certificate'>Restated Certificate</a>
 
-Anti-Corruption_Law=<a class='definedterm' href="{!!!}DefT.Anti-Corruption_Laws">Anti-Corruption Law</a>
+Series_Preferred_Stock=<a class='definedterm' href='{!!!}DefT.Series_Preferred_Stock'>Series Preferred Stock</a>
 
-Anti-Corruption_Laws=<a class='definedterm' href="{!!!}DefT.Anti-Corruption_Laws">Anti-Corruption Laws</a>
+Shares=<a class='definedterm' href='{!!!}DefT.Shares'>Shares</a>
 
-Balance_Sheet_Date=<a class='definedterm' href="{!!!}DefT.Balance_Sheet_Date">Balance Sheet Date</a>
+Additional_Shares=<a class='definedterm' href='{!!!}DefT.Additional_Shares'>Additional Shares</a>
 
-Board_of_Directors=<a class='definedterm' href="{!!!}DefT.Board_of_Directors">Board of Directors</a>
+Additional_Purchasers=<a class='definedterm' href='{!!!}DefT.Additional_Purchasers'>Additional Purchasers</a>
 
-Business_Plan=<a class='definedterm' href="{!!!}DefT.Business_Plan">Business Plan</a>
+Additional_Closing=<a class='definedterm' href='{!!!}DefT.Additional_Closing'>Additional Closing</a>
 
-CFR=<a class='definedterm' href="{!!!}DefT.CFR">CFR</a>
+Affiliate=<a class='definedterm' href='{!!!}DefT.Affiliate'>Affiliate</a>
 
-Closing=<a class='definedterm' href="{!!!}DefT.Closing">Closing</a>
+Board_of_Directors=<a class='definedterm' href='{!!!}DefT.Board_of_Directors'>Board of Directors</a>
 
-Code=<a class='definedterm' href="{!!!}DefT.Code">Code</a>
+Code=<a class='definedterm' href='{!!!}DefT.Code'>Code</a>
 
-Common_Stock=<a class='definedterm' href="{!!!}DefT.Common_Stock">Common Stock</a>
+Company_Intellectual_Property=<a class='definedterm' href='{!!!}DefT.Company_Intellectual_Property'>Company Intellectual Property</a>
 
-Company-Controlled_Intellectual_Property=<a class='definedterm' href="{!!!}DefT.Company-Controlled_Intellectual_Property">Company-Controlled Intellectual Property</a>
+Company-Controlled_Intellectual_Property=<a class='definedterm' href='{!!!}DefT.Company-Controlled_Intellectual_Property'>Company-Controlled Intellectual Property</a>
 
-Company_Code=<a class='definedterm' href="{!!!}DefT.Company_Code">Company Code</a>
+GAAP=<a class='definedterm' href='{!!!}DefT.GAAP'>GAAP</a>
 
-Company_Intellectual_Property=<a class='definedterm' href="{!!!}DefT.Company_Intellectual_Property">Company Intellectual Property</a>
+Indemnification_Agreement=<a class='definedterm' href='{!!!}DefT.Indemnification_Agreement'>Indemnification Agreement</a>
 
-Company=<a class='definedterm' href="{!!!}DefT.Company">Company</a>
+Intellectual_Property_Rights=<a class='definedterm' href='{!!!}DefT.Intellectual_Property_Rights'>Intellectual Property Rights</a>
 
-Complying_Purchaser=<a class='definedterm' href="{!!!}DefT.Complying_Purchaser">Complying Purchaser</a>
+Investors_Rights_Agreement=<a class='definedterm' href='{!!!}DefT.Investors_Rights_Agreement'>Investors Rights Agreement</a>
 
-Confidential_Information_Agreement=<a class='definedterm' href="{!!!}DefT.Confidential_Information_Agreements">Confidential Information Agreement</a>
+Knowledge=<a class='definedterm' href='{!!!}DefT.Knowledge'>Knowledge</a>
 
-Confidential_Information_Agreements=<a class='definedterm' href="{!!!}DefT.Confidential_Information_Agreements">Confidential Information Agreements</a>
+Knowledge_Parties=<a class='definedterm' href='{!!!}DefT.Knowledge_Parties'>Knowledge Parties</a>
 
-Convertible_Securities=<a class='definedterm' href="{!!!}DefT.Convertible_Security">Convertible Securities</a>
+Management_Rights_Letter=<a class='definedterm' href='{!!!}DefT.Management_Rights_Letter'>Management Rights Letter</a>
 
-Convertible_Security_Shares=<a class='definedterm' href="{!!!}DefT.Convertible_Security_Shares">Convertible Security Shares</a>
+Material_Adverse_Effect=<a class='definedterm' href='{!!!}DefT.Material_Adverse_Effect'>Material Adverse Effect</a>
 
-Convertible_Security=<a class='definedterm' href="{!!!}DefT.Convertible_Security">Convertible Security</a>
+Milestones=<a class='definedterm' href='{!!!}DefT.Milestones'>Milestones</a>
 
-Designated_Party=<a class='definedterm' href="{!!!}DefT.Designated_Parties">Designated Party</a>
+Officer=<a class='definedterm' href='{!!!}DefT.Officer'>Officer</a>
 
-DGCL=<a class='definedterm' href="{!!!}DefT.DGCL">DGCL</a>
+Person=<a class='definedterm' href='{!!!}DefT.Person'>Person</a>
 
-DPA=<a class='definedterm' href="{!!!}DefT.DPA">DPA</a>
+Requisite_Purchasers=<a class='definedterm' href='{!!!}DefT.Requisite_Purchasers'>Requisite Purchasers</a>
 
-DSP=<a class='definedterm' href="{!!!}DefT.DSP">DSP</a>
+Right_of_First_Refusal_and_Co-Sale_Agreement=<a class='definedterm' href='{!!!}DefT.Right_of_First_Refusal_and_Co-Sale_Agreement'>Right of First Refusal and Co-Sale Agreement</a>
 
-Defaulting_Purchaser=<a class='definedterm' href="{!!!}DefT.Defaulting_Purchaser">Defaulting Purchaser</a>
+Securities_Act=<a class='definedterm' href='{!!!}DefT.Securities_Act'>Securities Act</a>
 
-Designated_Parties=<a class='definedterm' href="{!!!}DefT.Designated_Parties">Designated Parties</a>
+Side_Letters=<a class='definedterm' href='{!!!}DefT.Side_Letters'>Side Letters</a>
 
-ERISA=<a class='definedterm' href="{!!!}DefT.ERISA">ERISA</a>
+Tranche_Closing_Condition=<a class='definedterm' href='{!!!}DefT.Tranche_Closing_Condition'>Tranche Closing Condition</a>
 
-Elective_Closing=<a class='definedterm' href="{!!!}DefT.Elective_Closing">Elective Closing</a>
+Tranche_Closing_Date=<a class='definedterm' href='{!!!}DefT.Tranche_Closing_Date'>Tranche Closing Date</a>
 
-Elective_Notice=<a class='definedterm' href="{!!!}DefT.Elective_Notice">Elective Notice</a>
+Transaction_Agreements=<a class='definedterm' href='{!!!}DefT.Transaction_Agreements'>Transaction Agreements</a>
 
-Enforcement_Action=<a class='definedterm' href="{!!!}DefT.Enforcement_Action">Enforcement Action</a>
+Voting_Agreement=<a class='definedterm' href='{!!!}DefT.Voting_Agreement'>Voting Agreement</a>
 
-Environmental_Laws=<a class='definedterm' href="{!!!}DefT.Environmental_Laws">Environmental Laws</a>
+Common_Stock=<a class='definedterm' href='{!!!}DefT.Common_Stock'>Common Stock</a>
 
-Excess_Amount=<a class='definedterm' href="{!!!}DefT.Excess_Amount">Excess Amount</a>
+Preferred_Stock=<a class='definedterm' href='{!!!}DefT.Preferred_Stock'>Preferred Stock</a>
 
-Export_Control_Laws=<a class='definedterm' href="{!!!}DefT.Export_Control_Laws">Export Control Laws</a>
+DGCL=<a class='definedterm' href='{!!!}DefT.DGCL'>DGCL</a>
 
-FCC=<a class='definedterm' href="{!!!}DefT.FCC">FCC</a>
+Stock_Plan=<a class='definedterm' href='{!!!}DefT.Stock_Plan'>Stock Plan</a>
 
-FCPA=<a class='definedterm' href="{!!!}DefT.FCPA">FCPA</a>
+Standard_Outbound_Agreements=<a class='definedterm' href='{!!!}DefT.Standard_Outbound_Agreements'>Standard Outbound Agreements</a>
 
-FDA_Application_Integrity_Policy=<a class='definedterm' href="{!!!}DefT.FDA_Application_Integrity_Policy">FDA Application Integrity Policy</a>
+Standard_Inbound_Agreements=<a class='definedterm' href='{!!!}DefT.Standard_Inbound_Agreements'>Standard Inbound Agreements</a>
 
-FDA=<a class='definedterm' href="{!!!}DefT.FDA">FDA</a>
+Confidential_Information_Agreements=<a class='definedterm' href='{!!!}DefT.Confidential_Information_Agreements'>Confidential Information Agreements</a>
 
-Financial_Statements=<a class='definedterm' href="{!!!}DefT.Financial_Statements">Financial Statements</a>
+Open_Source_Software=<a class='definedterm' href='{!!!}DefT.Open_Source_Software'>Open Source Software</a>
 
-GAAP=<a class='definedterm' href="{!!!}DefT.GAAP">GAAP</a>
+Company_Code=<a class='definedterm' href='{!!!}DefT.Company_Code'>Company Code</a>
 
-Generative_AI_Tools=<a class='definedterm' href="{!!!}DefT.Generative_AI_Tools">Generative AI Tools</a>
+Generative_AI_Tools=<a class='definedterm' href='{!!!}DefT.Generative_AI_Tools'>Generative AI Tools</a>
 
-Government_Official=<a class='definedterm' href="{!!!}DefT.Government_Official">Government Official</a>
+ERISA=<a class='definedterm' href='{!!!}DefT.ERISA'>ERISA</a>
 
-Hazardous_Substances=<a class='definedterm' href="{!!!}DefT.Hazardous_Substance">Hazardous Substances</a>
+Hazardous_Substance=<a class='definedterm' href='{!!!}DefT.Hazardous_Substance'>Hazardous Substance</a>
 
-HIPAA=<a class='definedterm' href="{!!!}DefT.HIPAA">HIPAA</a>
+PCBs=<a class='definedterm' href='{!!!}DefT.PCBs'>PCBs</a>
 
-Hazardous_Substance=<a class='definedterm' href="{!!!}DefT.Hazardous_Substance">Hazardous Substance</a>
+Environmental_Laws=<a class='definedterm' href='{!!!}DefT.Environmental_Laws'>Environmental Laws</a>
 
-Healthcare_Laws=<a class='definedterm' href="{!!!}DefT.Healthcare_Laws">Healthcare Laws</a>
+CFR=<a class='definedterm' href='{!!!}DefT.CFR'>CFR</a>
 
-Indemnification_Agreement=<a class='definedterm' href="{!!!}DefT.Indemnification_Agreement">Indemnification Agreement</a>
+Small_Business_Act=<a class='definedterm' href='{!!!}DefT.Small_Business_Act'>Small Business Act</a>
 
-Indemnification_Agreements=<a class='definedterm' href="{!!!}DefT.Indemnification_Agreement">Indemnification Agreements</a>
+SBIC_Purchaser=<a class='definedterm' href='{!!!}DefT.SBIC_Purchaser'>SBIC Purchaser</a>
 
-Initial_Closing=<a class='definedterm' href="{!!!}DefT.Initial_Closing">Initial Closing</a>
+FCPA=<a class='definedterm' href='{!!!}DefT.FCPA'>FCPA</a>
 
-Intellectual_Property_Right=<a class='definedterm' href="{!!!}DefT.Intellectual_Property_Rights">Intellectual Property Right</a>
+Government_Official=<a class='definedterm' href='{!!!}DefT.Government_Official'>Government Official</a>
 
-Intellectual_Property_Rights=<a class='definedterm' href="{!!!}DefT.Intellectual_Property_Rights">Intellectual Property Rights</a>
+Anti-Corruption_Laws=<a class='definedterm' href='{!!!}DefT.Anti-Corruption_Laws'>Anti-Corruption Laws</a>
 
-Investors_Rights_Agreement=<a class='definedterm' href="{!!!}DefT.Investors_Rights_Agreement">Investors’ Rights Agreement</a>
+Enforcement_Action=<a class='definedterm' href='{!!!}DefT.Enforcement_Action'>Enforcement Action</a>
 
-JAMS=<a class='definedterm' href="{!!!}DefT.JAMS">JAMS</a>
+Personal_Information=<a class='definedterm' href='{!!!}DefT.Personal_Information'>Personal Information</a>
 
-Knowledge_Parties=<a class='definedterm' href="{!!!}DefT.Knowledge_Parties">Knowledge Parties</a>
+Privacy_Requirements=<a class='definedterm' href='{!!!}DefT.Privacy_Requirements'>Privacy Requirements</a>
 
-Knowledge=<a class='definedterm' href="{!!!}DefT.Knowledge">Knowledge</a>
+HIPAA=<a class='definedterm' href='{!!!}DefT.HIPAA'>HIPAA</a>
 
-Management_Rights_Letter=<a class='definedterm' href="{!!!}DefT.Management_Rights_Letter">Management Rights Letter</a>
+Export_Control_Laws=<a class='definedterm' href='{!!!}DefT.Export_Control_Laws'>Export Control Laws</a>
 
-Material_Adverse_Effect=<a class='definedterm' href="{!!!}DefT.Material_Adverse_Effect">Material Adverse Effect</a>
+Healthcare_Laws=<a class='definedterm' href='{!!!}DefT.Healthcare_Laws'>Healthcare Laws</a>
 
-Milestones=<a class='definedterm' href="{!!!}DefT.Milestones">Milestones</a>
+DPA=<a class='definedterm' href='{!!!}DefT.DPA'>DPA</a>
 
-Officer=<a class='definedterm' href="{!!!}DefT.Officer">Officer</a>
+FDA=<a class='definedterm' href='{!!!}DefT.FDA'>FDA</a>
 
-Officers=<a class='definedterm' href="{!!!}DefT.Officer">Officers</a>
+FDA_Application_Integrity_Policy=<a class='definedterm' href='{!!!}DefT.FDA_Application_Integrity_Policy'>FDA Application Integrity Policy</a>
 
-Open_Source_Software=<a class='definedterm' href="{!!!}DefT.Open_Source_Software">Open Source Software</a>
+Sanctions=<a class='definedterm' href='{!!!}DefT.Sanctions'>Sanctions</a>
 
-Outbound_Investment_Security_Program=<a class='definedterm' href="{!!!}DefT.Outbound_Investment_Security_Program">Outbound Investment Security Program</a>
+Restricted_Countries=<a class='definedterm' href='{!!!}DefT.Restricted_Countries'>Restricted Countries</a>
 
-Outside_Date=<a class='definedterm' href="{!!!}DefT.Outside_Date">Outside Date</a>
+Designated_Parties=<a class='definedterm' href='{!!!}DefT.Designated_Parties'>Designated Parties</a>
 
-PCB=<a class='definedterm' href="{!!!}DefT.PCBs">PCB</a>
+Sanctioned_Parties=<a class='definedterm' href='{!!!}DefT.Sanctioned_Parties'>Sanctioned Parties</a>
 
-PCBs=<a class='definedterm' href="{!!!}DefT.PCBs">PCBs</a>
+FCC=<a class='definedterm' href='{!!!}DefT.FCC'>FCC</a>
 
-Participating_Purchaser=<a class='definedterm' href="{!!!}DefT.Participating_Purchaser">Participating Purchaser</a>
+Outbound_Investment_Security_Program=<a class='definedterm' href='{!!!}DefT.Outbound_Investment_Security_Program'>Outbound Investment Security Program</a>
 
-Personal_Information=<a class='definedterm' href="{!!!}DefT.Personal_Information">Personal Information</a>
+DSP=<a class='definedterm' href='{!!!}DefT.DSP'>DSP</a>
 
-Person=<a class='definedterm' href="{!!!}DefT.Person">Person</a>
+Business_Plan=<a class='definedterm' href='{!!!}DefT.Business_Plan'>Business Plan</a>
 
-Persons=<a class='definedterm' href="{!!!}DefT.Person">Persons</a>
+JAMS=<a class='definedterm' href='{!!!}DefT.JAMS'>JAMS</a>
 
-Preferred_Stock=<a class='definedterm' href="{!!!}DefT.Preferred_Stock">Preferred Stock</a>
+Note=From COI:
 
-Privacy_Requirements=<a class='definedterm' href="{!!!}DefT.Privacy_Requirements">Privacy Requirements</a>
+General_Corporation_Law=<a class='definedterm' href='{!!!}DefT.General_Corporation_Law'>General Corporation Law</a>
 
-Purchasers=<a class='definedterm' href="{!!!}DefT.Purchasers">Purchasers</a>
+Corporation=<a class='definedterm' href='{!!!}DefT.Corporation'>Corporation</a>
 
-Purchaser=<a class='definedterm' href="{!!!}DefT.Purchaser">Purchaser</a>
+Series_A_Preferred_Stock=<a class='definedterm' href='{!!!}DefT.Series_A_Preferred_Stock'>Series A Preferred Stock</a>
 
-Requisite_Purchasers=<a class='definedterm' href="{!!!}DefT.Requisite_Purchasers">Requisite Purchasers</a>
+Certificate_of_Incorporation=<a class='definedterm' href='{!!!}DefT.Certificate_of_Incorporation'>Certificate of Incorporation</a>
 
-Restated_Certificate=<a class='definedterm' href="{!!!}DefT.Restated_Certificate">Restated Certificate</a>
+Original_Issue_Price=<a class='definedterm' href='{!!!}DefT.Original_Issue_Price'>Original Issue Price</a>
 
-Restricted_Countries=<a class='definedterm' href="{!!!}DefT.Restricted_Countries">Restricted Countries</a>
+Dividend_Amount=<a class='definedterm' href='{!!!}DefT.Dividend_Amount'>Dividend Amount</a>
 
-Restricted_Country=<a class='definedterm' href="{!!!}DefT.Restricted_Countries">Restricted Country</a>
+Accruing_Dividends=<a class='definedterm' href='{!!!}DefT.Accruing_Dividends'>Accruing Dividends</a>
 
-Right_of_First_Refusal_and_Co-Sale_Agreement=<a class='definedterm' href="{!!!}DefT.Right_of_First_Refusal_and_Co-Sale_Agreement">Right of First Refusal and Co-Sale Agreement</a>
+Deemed_Liquidation_Event=<a class='definedterm' href='{!!!}DefT.Deemed_Liquidation_Event'>Deemed Liquidation Event</a>
 
-Sanctioned_Party=<a class='definedterm' href="{!!!}DefT.Sanctioned_Parties">Sanctioned Party</a>
+Available_Proceeds=<a class='definedterm' href='{!!!}DefT.Available_Proceeds'>Available Proceeds</a>
 
-SBIC_Purchaser=<a class='definedterm' href="{!!!}DefT.SBIC_Purchaser">SBIC Purchaser</a>
+Liquidation_Amount=<a class='definedterm' href='{!!!}DefT.Liquidation_Amount'>Liquidation Amount</a>
 
-Sanctioned_Parties=<a class='definedterm' href="{!!!}DefT.Sanctioned_Parties">Sanctioned Parties</a>
+Requisite_Holders=<a class='definedterm' href='{!!!}DefT.Requisite_Holders'>Requisite Holders</a>
 
-Sanctions=<a class='definedterm' href="{!!!}DefT.Sanctions">Sanctions</a>
+Transaction_Document=<a class='definedterm' href='{!!!}DefT.Transaction_Document'>Transaction Document</a>
 
-Securities_Act=<a class='definedterm' href="{!!!}DefT.Securities_Act">Securities Act</a>
+DLE_Redemption_Date=<a class='definedterm' href='{!!!}DefT.DLE_Redemption_Date'>DLE Redemption Date</a>
 
-Series_Preferred_Stock=<a class='definedterm' href="{!!!}DefT.Series_Preferred_Stock">Series Preferred Stock</a>
+Redemption_Notice=<a class='definedterm' href='{!!!}DefT.Redemption_Notice'>Redemption Notice</a>
 
-Shares=<a class='definedterm' href="{!!!}DefT.Shares">Shares</a>
+Additional_Consideration=<a class='definedterm' href='{!!!}DefT.Additional_Consideration'>Additional Consideration</a>
 
-Shortfall_Closing=<a class='definedterm' href="{!!!}DefT.Shortfall_Closing">Shortfall Closing</a>
+Initial_Consideration=<a class='definedterm' href='{!!!}DefT.Initial_Consideration'>Initial Consideration</a>
 
-Shortfall_Notice=<a class='definedterm' href="{!!!}DefT.Shortfall_Notice">Shortfall Notice</a>
+Preferred_Director=<a class='definedterm' href='{!!!}DefT.Preferred_Director'>Preferred Director</a>
 
-Shortfall_Shares=<a class='definedterm' href="{!!!}DefT.Shortfall_Shares">Shortfall Shares</a>
+At-Large_Directors=<a class='definedterm' href='{!!!}DefT.At-Large_Directors'>At-Large Directors</a>
 
-Side_Letters=<a class='definedterm' href="{!!!}DefT.Side_Letters">Side Letters</a>
+Requisite_Directors=<a class='definedterm' href='{!!!}DefT.Requisite_Directors'>Requisite Directors</a>
 
-Small_Business_Act=<a class='definedterm' href="{!!!}DefT.Small_Business_Act">Small Business Act</a>
+Tokens=<a class='definedterm' href='{!!!}DefT.Tokens'>Tokens</a>
 
-Special_Mandatory_Conversion=<a class='definedterm' href="{!!!}DefT.Special_Mandatory_Conversion">Special Mandatory Conversion</a>
+Additional_Shares_of_Common_Stock=<a class='definedterm' href='{!!!}DefT.Additional_Shares_of_Common_Stock'>Additional Shares of Common Stock</a>
 
-Standard_Inbound_Agreements=<a class='definedterm' href="{!!!}DefT.Standard_Inbound_Agreements">Standard Inbound Agreements</a>
+Exempted_Securities=<a class='definedterm' href='{!!!}DefT.Exempted_Securities'>Exempted Securities</a>
 
-Standard_Outbound_Agreements=<a class='definedterm' href="{!!!}DefT.Standard_Outbound_Agreements">Standard Outbound Agreements</a>
+Convertible_Securities=<a class='definedterm' href='{!!!}DefT.Convertible_Securities'>Convertible Securities</a>
 
-Stock_Plan=<a class='definedterm' href="{!!!}DefT.Stock_Plan">Stock Plan</a>
+Option=<a class='definedterm' href='{!!!}DefT.Option'>Option</a>
 
-Subject_Preferred_Stock=<a class='definedterm' href="{!!!}DefT.Subject_Preferred_Stock">Subject Preferred Stock</a>
+Original_Issue_Date=<a class='definedterm' href='{!!!}DefT.Original_Issue_Date'>Original Issue Date</a>
 
-Termination_Event=<a class='definedterm' href="{!!!}DefT.Termination_Event">Termination Event</a>
+Mandatory_Conversion_Time=<a class='definedterm' href='{!!!}DefT.Mandatory_Conversion_Time'>Mandatory Conversion Time</a>
 
-Tranche_Closing_Condition=<a class='definedterm' href="{!!!}DefT.Tranche_Closing_Condition">Tranche Closing Condition</a>
+Qualified_IPO=<a class='definedterm' href='{!!!}DefT.Qualified_IPO'>Qualified IPO</a>
 
-Tranche_Closing_Date=<a class='definedterm' href="{!!!}DefT.Tranche_Closing_Date">Tranche Closing Date</a>
+Qualified_Direct_Listing=<a class='definedterm' href='{!!!}DefT.Qualified_Direct_Listing'>Qualified Direct Listing</a>
 
-Tranche_Closing_Notice=<a class='definedterm' href="{!!!}DefT.Tranche_Closing_Notice">Tranche Closing Notice</a>
+Qualified_Financing=<a class='definedterm' href='{!!!}DefT.Qualified_Financing'>Qualified Financing</a>
 
-Tranche_Closing_Shares=<a class='definedterm' href="{!!!}DefT.Tranche_Closing_Shares">Tranche Closing Shares</a>
+Pro_Rata_Amount=<a class='definedterm' href='{!!!}DefT.Pro_Rata_Amount'>Pro Rata Amount</a>
 
-Tranche_Closing=<a class='definedterm' href="{!!!}DefT.Tranche_Closing">Tranche Closing</a>
+Applicable_Portion=<a class='definedterm' href='{!!!}DefT.Applicable_Portion'>Applicable Portion</a>
 
-Transaction_Agreements=<a class='definedterm' href="{!!!}DefT.Transaction_Agreements">Transaction Agreements</a>
+Special_Mandatory_Conversion=<a class='definedterm' href='{!!!}DefT.Special_Mandatory_Conversion'>Special Mandatory Conversion</a>
 
-TRANSACTION_AGREEMENTS=<a class='definedterm' href="{!!!}DefT.Transaction_Agreements">TRANSACTION AGREEMENTS</a>
+Offered_Securities=<a class='definedterm' href='{!!!}DefT.Offered_Securities'>Offered Securities</a>
 
-Voting_Agreement=<a class='definedterm' href="{!!!}DefT.Voting_Agreement">Voting Agreement</a>
+Redemption_Price=<a class='definedterm' href='{!!!}DefT.Redemption_Price'>Redemption Price</a>
 
+Redemption_Request=<a class='definedterm' href='{!!!}DefT.Redemption_Request'>Redemption Request</a>
+
+Redemption_Date=<a class='definedterm' href='{!!!}DefT.Redemption_Date'>Redemption Date</a>
+
+Excluded_Shares=<a class='definedterm' href='{!!!}DefT.Excluded_Shares'>Excluded Shares</a>
+
+Maximum_Permitted_Rate=<a class='definedterm' href='{!!!}DefT.Maximum_Permitted_Rate'>Maximum Permitted Rate</a>
+
+Excluded_Opportunity=<a class='definedterm' href='{!!!}DefT.Excluded_Opportunity'>Excluded Opportunity</a>
+
+Covered_Persons=<a class='definedterm' href='{!!!}DefT.Covered_Persons'>Covered Persons</a>
+
+Conversion_Price=<a class='definedterm' href='{!!!}DefT.Conversion_Price'>Conversion Price</a>
+
+Conversion_Time=<a class='definedterm' href='{!!!}DefT.Conversion_Time'>Conversion Time</a>
+
+Covered_Person=<a class='definedterm' href='{!!!}DefT.Covered_Persons'>Covered Person</a>
+
+Note=From SPA:
+
+Closing=<a class='definedterm' href='{!!!}DefT.Closing'>Closing</a>
+
+Initial_Closing=<a class='definedterm' href='{!!!}DefT.Initial_Closing'>Initial Closing</a>
+
+Tranche_Closing_Shares=<a class='definedterm' href='{!!!}DefT.Tranche_Closing_Shares'>Tranche Closing Shares</a>
+
+Outside_Date=<a class='definedterm' href='{!!!}DefT.Outside_Date'>Outside Date</a>
+
+Tranche_Closing_Notice=<a class='definedterm' href='{!!!}DefT.Tranche_Closing_Notice'>Tranche Closing Notice</a>
+
+Tranche_Closing=<a class='definedterm' href='{!!!}DefT.Tranche_Closing'>Tranche Closing</a>
+
+Elective_Closing=<a class='definedterm' href='{!!!}DefT.Elective_Closing'>Elective Closing</a>
+
+Elective_Notice=<a class='definedterm' href='{!!!}DefT.Elective_Notice'>Elective Notice</a>
+
+Shortfall_Shares=<a class='definedterm' href='{!!!}DefT.Shortfall_Shares'>Shortfall Shares</a>
+
+Complying_Purchaser=<a class='definedterm' href='{!!!}DefT.Complying_Purchaser'>Complying Purchaser</a>
+
+Shortfall_Notice=<a class='definedterm' href='{!!!}DefT.Shortfall_Notice'>Shortfall Notice</a>
+
+Shortfall_Closing=<a class='definedterm' href='{!!!}DefT.Shortfall_Closing'>Shortfall Closing</a>
+
+Excess_Amount=<a class='definedterm' href='{!!!}DefT.Excess_Amount'>Excess Amount</a>
+
+Participating_Purchaser=<a class='definedterm' href='{!!!}DefT.Participating_Purchaser'>Participating Purchaser</a>
+
+Defaulting_Purchaser=<a class='definedterm' href='{!!!}DefT.Defaulting_Purchaser'>Defaulting Purchaser</a>
+
+Subject_Preferred_Stock=<a class='definedterm' href='{!!!}DefT.Subject_Preferred_Stock'>Subject Preferred Stock</a>
+
+Termination_Event=<a class='definedterm' href='{!!!}DefT.Termination_Event'>Termination Event</a>
+
+Convertible_Security=<a class='definedterm' href='{!!!}DefT.Convertible_Security'>Convertible Security</a>
+
+Convertible_Security_Shares=<a class='definedterm' href='{!!!}DefT.Convertible_Security_Shares'>Convertible Security Shares</a>
+
+Balance_Sheet_Date=<a class='definedterm' href='{!!!}DefT.Balance_Sheet_Date'>Balance Sheet Date</a>
+
+Financial_Statements=<a class='definedterm' href='{!!!}DefT.Financial_Statements'>Financial Statements</a>
+
+Note=From SPA - terms used but not defined in the SPA, most of these are plural/singular variations of defined terms.
+
+
+Officers=<a class='definedterm' href='{!!!}DefT.Officer'>Officers</a>
+
+Intellectual_Property_Right=<a class='definedterm' href='{!!!}DefT.Intellectual_Property_Rights'>Intellectual Property Right</a>
+
+Confidential_Information_Agreement=<a class='definedterm' href='{!!!}DefT.Confidential_Information_Agreements'>Confidential Information Agreement</a>
+
+Persons=<a class='definedterm' href='{!!!}DefT.Person'>Persons</a>
+
+Hazardous_Substances=<a class='definedterm' href='{!!!}DefT.Hazardous_Substance'>Hazardous Substances</a>
+
+PCB=<a class='definedterm' href='{!!!}DefT.PCBs'>PCB</a>
+
+Anti-Corruption_Law=<a class='definedterm' href='{!!!}DefT.Anti-Corruption_Laws'>Anti-Corruption Law</a>
+
+Restricted_Country=<a class='definedterm' href='{!!!}DefT.Restricted_Countries'>Restricted Country</a>
+
+Designated_Party=<a class='definedterm' href='{!!!}DefT.Designated_Parties'>Designated Party</a>
+
+Sanctioned_Party=<a class='definedterm' href='{!!!}DefT.Sanctioned_Parties'>Sanctioned Party</a>
+
+Indemnification_Agreements=<a class='definedterm' href='{!!!}DefT.Indemnification_Agreement'>Indemnification Agreements</a>
