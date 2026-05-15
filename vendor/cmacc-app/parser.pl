@@ -91,9 +91,9 @@ sub expand_fields  {
 	  my $value = parse($orig, $ox, undef, $child_depth);
 
 	  if ($value) {
-	    if ($value =~ /^\s*<\/b>\s*$/) {
-	      # </b> is a sentinel meaning "nothing here" - remove placeholder silently.
-	      # (Don't cascade: only leaf </b> values trigger removal, not null returns
+	    if ($value =~ /^\s*<\/test>\s*$/) {
+	      # </test> is a sentinel meaning "nothing here" - remove placeholder silently.
+	      # (Don't cascade: only leaf </test> values trigger removal, not null returns
 	      # from unresolved sub-fields, which would cause parent fields to vanish too.)
 	      $$field =~ s/\{\Q$ex\E\}//g;
 	    } else {
