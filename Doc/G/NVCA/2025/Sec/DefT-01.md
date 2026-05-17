@@ -300,3 +300,7 @@ Designated_Party=<a class='definedterm' href='{!!!}DefT.Designated_Parties'>Desi
 Sanctioned_Party=<a class='definedterm' href='{!!!}DefT.Sanctioned_Parties'>Sanctioned Party</a>
 
 Indemnification_Agreements=<a class='definedterm' href='{!!!}DefT.Indemnification_Agreement'>Indemnification Agreements</a>
+
+Indemnified_Person=<a class='definedterm' href='{!!!}DefT.Indemnified_Person'>Indemnified Person</a>
+
+Proceeding=<a class='definedterm' href='{!!!}DefT.Proceeding'>Proceeding</a>
