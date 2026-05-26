@@ -98,22 +98,30 @@ foreach ( @arr ) {
 #Change print substr($_, 0) to print substr($_, 0, 5) to remove the "DefT." prefix.
 if (substr($_, 0, 5) eq "DefT.") {	
 #   Make DefT. into the same as _, since we now refer to the hyperlink directly.
-	print substr($_, 5) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 5) . "'>". substr($_ , 5) . "</a>\n";
-
-#	print substr($_, 0) . "={_". substr($_ , 5) . "}\n";	
+#	print substr($_, 5) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 5) . "'>". substr($_ , 5) . "</a>\n";
+#Claude suggests that we replace underscores with spaces in the hyperlink text, but not in the link itself, so that the link remains functional while the displayed text is more readable.
+	print substr($_, 5) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 5) . "'>". (substr($_ , 5) =~ s/_/ /gr) . "</a>\n";
 }
 
+# For {_Defined_Term}:
 elsif (substr($_, 0, 1) eq "_") {	
-		print substr($_, 1) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 1) . "'>". substr($_ , 1) . "</a>\n";
+		print substr($_, 1) . "=<a class='definedterm' href='{!!!}DefT." . substr($_, 1) . "'>". (substr($_ , 1)=~ s/_/ /gr) . "</a>\n";
 }
+
+elsif(substr($_, 0, 5) eq "FtNt.") {
+# to make FtNt. into a hyperlink if referenced as FtNt.=[footnote file]	
+#	print substr($_ , 5) . "=<a class='xref' href='{!!!}" . substr($_, 5, -5) . ".sec'>" . substr($_, 5, -5)."</a>\n";	
+# to make FtNt. if directly in the file or referenced as =[FtNt.file].
+	print substr($_, 0) . "=<sup><a class='xref' href='{!!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 5, -5)."</a></sup>\n";	
+		}
 
 elsif(substr($_, -5 ) eq ".Xnum") {
  	print "$_=<a class='xref' href='{!!!}" . substr($_, 0, -5) . ".sec'>" . substr($_, 0, -5)."</a>\n";	
-# to make FtNt. into a hyperlink	
-#	print substr($_ , 5) . "=<a class='xref' href='{!!!}" . substr($_, 5, -5) . ".sec'>" . substr($_, 5, -5)."</a>\n";	
-		}
+}
 
-else { print $_ . "=\n"; }
+else { 
+	print $_ . "=\n"; 
+}
 } 
 
 #clean up the temporary files (remote fetching)
