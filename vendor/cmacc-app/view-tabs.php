@@ -41,6 +41,10 @@ echo "<a href=i.php?v=o&f=$dir&k=$keyName>". "OpenParameters" ."</a> ";
 
 echo "<a href=i.php?v=x&f=$dir&k=$keyName>Xray</a> ";
 
+$_compareFolder = basename(pathinfo($dir, PATHINFO_DIRNAME));
+$_compareUrl = "https://github.com/search?q=repo%3ACommonAccord%2FCmacc-Org+path%3A%22%2F" . rawurlencode($_compareFolder) . "%2F%22&type=code";
+echo "<a class='select' href='$_compareUrl'>Compare:/" . $_compareFolder . "/</a> ";
+
 # echo "<a href=i.php?v=kvs&f=$dir> KVs</a> ";
 
 
