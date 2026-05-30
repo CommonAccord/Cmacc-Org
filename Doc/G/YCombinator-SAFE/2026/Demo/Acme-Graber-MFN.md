@@ -10,4 +10,12 @@ PurchaseAmount.$=$25,000
 
 EffectiveDate.YMD=2026-02-21
 
+Company.xSignature=xAbigailAltima-2849596
+
+Company.Sign.YMD=2026-02-22
+
+Investor.xSignature=xGeraldineGraber-3047185
+
+Investor.Sign.YMD=2026-02-23
+
 =[G/YCombinator-SAFE/2026/Form/MFN-Only/v2-0.md]

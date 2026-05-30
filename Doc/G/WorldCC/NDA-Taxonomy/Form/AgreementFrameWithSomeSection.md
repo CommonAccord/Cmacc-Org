@@ -4,21 +4,21 @@ Parties.=[G/WorldCC/NDA-Taxonomy/Sec/Parties/0.md]
 
 Purpose.=[G/WorldCC/NDA-Taxonomy/Sec/Purpose/0.md]
 
-ConfidentialInformation.=[G/Agt-NDA-CmA/Sec/Def/Confidential_Information/0.md]
+ConfidentialInformation.=[G/Agt-NDA/Sec/Def/Confidential_Information/0.md]
 
-Confidentiality.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Engage/Disclose/0.md]
+Confidentiality.=[G/Agt-NDA/Sec/Relate/Conf/Engage/Disclose/0.md]
 
-Use.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Engage/Use/0.md]
+Use.=[G/Agt-NDA/Sec/Relate/Conf/Engage/Use/0.md]
 
-Protect.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Engage/Care/0.md]
+Protect.=[G/Agt-NDA/Sec/Relate/Conf/Engage/Care/0.md]
 
 NotifyDisclosure.=[G/WorldCC/NDA-Taxonomy/Sec/NotifyDisclosure/0.md]
 
-Erase.=[G/Agt-NDA-CmA/Sec/Relate/Remedy/Return/0.md]
+Erase.=[G/Agt-NDA/Sec/Relate/Remedy/Return/0.md]
 
-InadvertentDisclosure.=[G/Agt-NDA-CmA/Sec/Relate/Remedy/Leak/0.md]
+InadvertentDisclosure.=[G/Agt-NDA/Sec/Relate/Remedy/Leak/0.md]
 
-Term.=[G/Agt-NDA-CmA/Sec/Relate/Conf/Life/0.md]
+Term.=[G/Agt-NDA/Sec/Relate/Conf/Life/0.md]
 
 Term.sec={Term.TimeLimit-FixedDate.sec}
 

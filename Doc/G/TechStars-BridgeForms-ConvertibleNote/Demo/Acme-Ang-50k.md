@@ -34,4 +34,4 @@ Investor.=[G/U/Who/andrea_ang.md]
 
 Law.=[G/U/Place/US/MA/Geo]
 
-=[G/TechStars-BridgeForms-ConvertibleNote/Form/0.md]
+=[G/Techstars-BridgeForms-ConvertibleNote/Form/0.md]

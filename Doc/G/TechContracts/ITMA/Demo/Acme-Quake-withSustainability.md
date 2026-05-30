@@ -4,7 +4,7 @@ GeneralTerm.VendorWarranty.sec=<ol class="secs-and"><li>{GeneralTerm.VendorWarra
 
 /=Reference the Sustainability provisions.
 
-GeneralTerm.VendorWarranty.Sustainability.=[G/Sustainability-CmA/Demo/Small-WithoutPlasticOrNewPaper.md]
+GeneralTerm.VendorWarranty.Sustainability.=[G/Sustainability/Demo/Small-WithoutPlasticOrNewPaper.md]
 
 /=Reference the Master Agreement
 

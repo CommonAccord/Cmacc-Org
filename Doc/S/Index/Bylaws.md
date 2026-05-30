@@ -1,2 +1,2 @@
 
-Coop.=[G/Cooplaw-WorkerCoop-Bylaws-CmA/Sec/0.md]
+Coop.=[G/Cooplaw-WorkerCoop-Bylaws/Sec/0.md]

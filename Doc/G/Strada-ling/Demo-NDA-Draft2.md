@@ -8,6 +8,6 @@ Relate.Conf.Life.End.YMD=2023-12-31
 
 Relate.Life.Term.End.YMD=2022-12-31
 
-=[G/Agt-NDA-CmA/Demo/Acme-Ang/0.md]
+=[G/Agt-NDA/Demo/Acme-Ang/0.md]
 
 

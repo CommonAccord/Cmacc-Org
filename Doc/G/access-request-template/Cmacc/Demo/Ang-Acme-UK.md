@@ -18,4 +18,4 @@ Regulator.Email=ico.org.uk
 
 P1.Handle=Data Subject
 
-=[G/access-request-template/Cmacc/accessletter.md]
+=[G/Access-Request-Template/Cmacc/accessletter.md]

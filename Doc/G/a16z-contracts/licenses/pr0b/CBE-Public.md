@@ -46,9 +46,9 @@ TerminateLicense.=[G/Z/Base]
 
 Other.=[G/Z/Base]
 
-_=[G/a16z-contracts/licenses/pr0b/Sec/_.md]
+_=[G/A16Z-Contracts/licenses/pr0b/Sec/_.md]
 
-CBE-Exclusive.=[G/a16z-contracts/licenses/pr0b/CBE-Exclusive.md]
+CBE-Exclusive.=[G/A16Z-Contracts/licenses/pr0b/CBE-Exclusive.md]
 
 sec={Intro.sec}<ol><li>{Grant.Sec}</li><li>{Other.Sec}</li></ol>
 

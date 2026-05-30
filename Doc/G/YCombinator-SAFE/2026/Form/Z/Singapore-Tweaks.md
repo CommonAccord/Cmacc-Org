@@ -36,6 +36,10 @@ Misc.Law.sec=The parties agree that {_this_Safe} (and all the rights and obligat
 
 Law.State=Singapore
 
+Note=Define {Law.State.the} directly because "Singapore" is a country name and takes no article.
+
+Law.State.the=Singapore
+
 _Standard_Preferred_Shares={_Standard_Preference_Shares}
 
 _Standard_Preference_Shares=<a href='#Def.Standard_Preferred_Shares' class='definedterm'>Standard Preference Shares</a>

@@ -1,16 +1,16 @@
 Ti=Dispute Resolution
 
-AAA:=[G/ADR-Org-CmA/]
+AAA:=[G/ADR-Org/]
 
-a16z=[G/a16z-contracts/PrOb/licenses/Sec/Misc/LawAndForum/0.md] || AAA arbitration.
+a16z=[G/A16Z-Contracts/PrOb/licenses/Sec/Misc/LawAndForum/0.md] || AAA arbitration.
 
-ABA-MSPA.=[G/ABA-MSPA-SPA-CmA/Sec/Misc/Tribunal/0.md]
+ABA-MSPA.=[G/ABA-MSPA-SPA/Sec/Misc/Tribunal/0.md]
 
 ALI-UNIDROIT:=[G/ALI-Unidroit-TransnationalRules-CmA/]
 
-ICC.ARB.=[G/ICCWBO-Arbitration-CmA/Sec/0.md]
+ICC.ARB.=[G/ICCWBO-Arbitration/Sec/0.md]
 
-JAMS.=[G/Com_JAMS/Form/0.md]
+JAMS.=[G/JAMS-Arbitration/Form/0.md]
 
 DisputeDeEscalation.=[G/Groton-De-Escalation/Sec/0.md]
 

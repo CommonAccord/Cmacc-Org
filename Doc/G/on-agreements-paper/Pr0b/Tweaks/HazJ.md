@@ -8,7 +8,7 @@
 
 Common Accord=CommonAccord
 
-=[G/on-agreements-paper/Pr0b/README-PO.md]
+=[G/On-Agreements-Paper/Pr0b/README-PO.md]
 
-See at=<a href='www.commonaccord.org/i.php?v=s&f=G/on-agreements-paper/Pr0b/Tweaks/HazJ.md">www.commonaccord.org/i.php?v=s&f=G/on-agreements-paper/Pr0b/Tweaks/HazJ.md</a>
+See at=<a href='www.commonaccord.org/i.php?v=s&f=G/On-Agreements-Paper/Pr0b/Tweaks/HazJ.md">www.commonaccord.org/i.php?v=s&f=G/On-Agreements-Paper/Pr0b/Tweaks/HazJ.md</a>
 

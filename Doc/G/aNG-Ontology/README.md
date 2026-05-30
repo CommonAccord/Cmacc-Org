@@ -1,12 +1,12 @@
 # aNG-Ontology-Folder
 A quick sketch of a rights ontology created by aNewGovernance.org 
 
-Mount as /G/aNG-Ontology/
+Mount as /G/ANG-Ontology/
 
 Approximating:
 https://docs.google.com/presentation/d/1Baa4f52jMFu2_Qsv8epKM7yMou2fOR2E/edit#slide.sec=id.gc60cca5445_3_0
 
 Note: Now has content.  
 
-See these components assembled into an outline at:  http://www.commonaccord.org/i.php?v=d&f=G/aNG-Ontology/0.md
+See these components assembled into an outline at:  http://www.commonaccord.org/i.php?v=d&f=G/ANG-Ontology/0.md
 

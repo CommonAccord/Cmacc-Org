@@ -1,10 +1,10 @@
-FR-Galion/=[G/GalionProject-TermSheet-CmA/]
+FR-Galion/=[G/GalionProject-TermSheet/]
 
 Note=the ABA Model Stock Purchase Agreement is the most complete, both in substance and in automation.
 
-US-MSPA:=[G/ABA-MSPA-SPA-CmA/Form/SPA/0.md]
+US-MSPA:=[G/ABA-MSPA-SPA/Form/SPA/0.md]
 
-US-Seed:=[G/SeriesSeed-Cooley-CmA/equity/Preferred_Stock_Investment_Agreement/Form/0.md]
+US-Seed:=[G/SeriesSeed-Cooley/equity/Preferred_Stock_Investment_Agreement/Form/0.md]
 
 US-NVCA:=[G/NVCA/2018/SPA/Form/0.md]
 

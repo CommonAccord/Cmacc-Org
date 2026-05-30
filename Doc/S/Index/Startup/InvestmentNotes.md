@@ -1,12 +1,12 @@
 Startup Investment Notes=
 
-KISS-500.=[G/500Startups-KISS-CmA/]
+KISS-500.=[G/500Startups-KISS/]
 
 SAFE-YC:=[G/YCombinator-SAFE-2020/Form/]
 
-SeriesSeed:=[G/SeriesSeed-Cooley-CmA/]
+SeriesSeed:=[G/SeriesSeed-Cooley/]
 
-Techstars:=[G/Techstars-Equity-CmA/]
+Techstars:=[G/Techstars-Equity/]
 
 TCF-=Wx/com/tcflaw/ConvertibleNote/Demo/]
 

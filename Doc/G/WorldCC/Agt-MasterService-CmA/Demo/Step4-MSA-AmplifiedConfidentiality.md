@@ -14,9 +14,9 @@ Conf.Intro.sec={Conf.Intro.Alt1.sec}
 
 /=We override by referencing the desired provisions:
 
-Def.Confidential_Information.=[G/Agt-NDA-CmA/Sec/Def/Confidential_Information/0.md]
+Def.Confidential_Information.=[G/Agt-NDA/Sec/Def/Confidential_Information/0.md]
 
-Conf.=[G/Agt-NDA-CmA/Sec/Relate/Conf/0.md]
+Conf.=[G/Agt-NDA/Sec/Relate/Conf/0.md]
 
 _P1={_Customer}
 

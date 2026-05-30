@@ -11,7 +11,7 @@ Ti=Technical Steps
 
 1.1.0.sec=The current implementation demonstrates:
 
-1.1.1.sec=Plain text files (nodes) of key/values (maps), where each value is either a string of text or a reference to another file (node).  We have made some "opinionated" choices about the format of the key=value pairs.  An example is at <a href="https://github.com/CommonAccord/Cmacc-Org/blob/master/Doc/G/on-agreements-paper/Pr0b/Tweaks/HazJ.md">https://github.com/CommonAccord/Cmacc-Org/blob/master/Doc/G/on-agreements-paper/Pr0b/Tweaks/HazJ.md</a>.
+1.1.1.sec=Plain text files (nodes) of key/values (maps), where each value is either a string of text or a reference to another file (node).  We have made some "opinionated" choices about the format of the key=value pairs.  An example is at <a href="https://github.com/CommonAccord/Cmacc-Org/blob/master/Doc/G/On-Agreements-Paper/Pr0b/Tweaks/HazJ.md">https://github.com/CommonAccord/Cmacc-Org/blob/master/Doc/G/On-Agreements-Paper/Pr0b/Tweaks/HazJ.md</a>.
 
 1.1.2.sec=The files (nodes) are usually organized as a tree of folders in a file system.  The tree is kept in a git repository.  Multiple trees can be kept in multiple repositories, allowing for collaborative development and use.  For instance, the NVCA model documents can be kept in a single repository for all their form documents or in multiple repositories for each form document, and all used in a repository that includes all of a user's materials.  Currently, the user needs to use git to pull the various repositories together into a combined tree, but in the future an application would access the repository where it is maintained, notably directly on GitHub. 
 

@@ -1,4 +1,4 @@
-GE-Power:=[G/Agt-MasterService-CmA/]
+GE-Power:=[G/Agt-MasterService/]
 
 WorldCC.=[G/WorldCC/Agt-MasterService-CmA/Demo/]
 

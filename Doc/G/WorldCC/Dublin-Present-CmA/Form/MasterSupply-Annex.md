@@ -58,4 +58,4 @@ _=[G/WorldCC/Dublin-Present-CmA/Sec/_/MSA_Annex/0.md]
 
 Notice.Block=<table><tbody><tr><td>{P1.Notice.Block}</td><td width="100"></td><td>{P2.Notice.Block}</td> </tr></tbody></table>
 
-=[G/Agt-MasterService-CmA/Outline/0.md]  The form of outline and frame of agreement.
+=[G/Agt-MasterService/Outline/0.md]  The form of outline and frame of agreement.

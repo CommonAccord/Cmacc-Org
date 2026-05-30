@@ -14,13 +14,13 @@ EU=[G/EU/Europa/DataProtection/StandardContractualClauses/InternationalTransfer/
 
 DLA-Piper EU:=[G/Intra-Group-Data-Transfer-Agt/]  // Very modular EU compliant, based on the roles and whether each party is in/out of EU.  Done by Mark O'Conor, DLA Piper, for the Law Society of England and Wales.
 
-Mistral_AI.=[G/Mistral_AI/Data_Processing_Agreement/Form/Agmt-Exhibits-Appendix.md]
+Mistral_AI.=[G/Mistral-AI/Data_Processing_Agreement/Form/Agmt-Exhibits-Appendix.md]
 
 NVCA.=[G/NVCA/2020/LifeScience-License-TermSheet/Form/0.md] /// very flat outline, vibrant community
 
-Old Open Source Project:=[G/Org-ContributorAgreements-CmA/]
+Old Open Source Project:=[G/Org-ContributorAgreements/]
 
-a16z:=[G/a16z-contracts/licenses/pr0b/] /// Andreesen Horowitz had some superb lawyers draft licenses for NFTs near the height of the bubble.  One of those lawyers, Mark Radcliffe, DLA Piper (Silicon Valley), is a legend in open source.  Mark tried to get a conversation with a16z about CommonAccord, but we didn't get there.  The project stalled, at least partly for lawyer/coder coordination reasons that CommonAccord could solve.
+a16z:=[G/A16Z-Contracts/licenses/pr0b/] /// Andreesen Horowitz had some superb lawyers draft licenses for NFTs near the height of the bubble.  One of those lawyers, Mark Radcliffe, DLA Piper (Silicon Valley), is a legend in open source.  Mark tried to get a conversation with a16z about CommonAccord, but we didn't get there.  The project stalled, at least partly for lawyer/coder coordination reasons that CommonAccord could solve.
 
 Generally:=[S/Index/DataSharing/License.md]
 

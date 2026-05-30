@@ -1,10 +1,10 @@
-a16z-Microsoft:_AI-for-Startups.=[G/a16z-ai-for-startups/0.md]
+a16z-Microsoft:_AI-for-Startups.=[G/A16Z-AI-for-Startups/0.md]
 
 OpenSource_AI_Definition.=[G/OSAID/1.0-RC.md] /// Open Source Initiative's  AI Definition, release candidate 1.0.
 
 Calif_SB1047.=[G/US/CA/Legis/20240SB1047/Sec/226.md] /// Text of California's SB 1047, vetoed by the Governor.  The full Bill is also available.
 
-MistralDataProcessing.=[G/Mistral_AI/Data_Processing_Agreement/Form/Agmt-Exhibits-Appendix.md] /// An example of a user agreement.  A bit old.
+MistralDataProcessing.=[G/Mistral-AI/Data_Processing_Agreement/Form/Agmt-Exhibits-Appendix.md] /// An example of a user agreement.  A bit old.
 
 MS-DUA-AI-Dev.=[G/Microsoft-DUA-OAI/Demo/Acme-Quake.md] /// Microsoft - Data Use Agreement for Open AI Model. Old project.
 

@@ -1,4 +1,4 @@
-=[G/lemonade-hq/policy-2.0/renters/Form/0.md]
+=[G/Lemonade-HQ/policy-2.0/renters/Form/0.md]
 
 Policy.Name=Lemonade Renters Insurance Policy
 
@@ -22,4 +22,4 @@ Policy.Number=LP234F32
 
 Policy.Premium.Month.$=$5.20
  
-CoverageOption.=[G/lemonade-hq/policy-2.0/renters/CoverageOption/10-100.md]
+CoverageOption.=[G/Lemonade-HQ/policy-2.0/renters/CoverageOption/10-100.md]

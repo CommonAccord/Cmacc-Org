@@ -20,10 +20,10 @@ SeriesAA-YC:=[G/YCombinator-SeriesAA/Form/Binder_v01.md]
 
 NVCA/=[G/NVCA/2020/Binder/Acme-SeriesA/] - Deepest work on objects - 
 
-SeriesA-Lipshaw/=[G/Lipshaw_EVCL_CmA/Demo/]
+SeriesA-Lipshaw/=[G/Lipshaw-EVCL/Demo/]
 
-France-TermSheet-Galion/=[G/GalionProject-TermSheet-CmA/]
+France-TermSheet-Galion/=[G/GalionProject-TermSheet/]
 
 France-SharePurchase-Bondard-=[G/CabinetBondard/CessionPartsSAS-CmA/Sec/0.md]
 
-KISS/=[G/500Startups-KISS-CmA/] - incomplete
+KISS/=[G/500Startups-KISS/] - incomplete

@@ -3,7 +3,7 @@
 
 =[G/NW-NDA/99/Demo/-Termsheet_Acme-Quake.md]
 
-=[G/Agt-NDA-CmA/Form/P1-to-P2/0.md]  
+=[G/Agt-NDA/Form/P1-to-P2/0.md]  
 
 
 Relate.Conf.Life.End.YMD=2018-12-31

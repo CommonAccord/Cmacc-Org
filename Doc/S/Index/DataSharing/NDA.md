@@ -11,18 +11,18 @@ Bonterms.=[G/Bonterms/Mutual-NDA/Form/v1-0.md]
 
 WorldCC-Design:=[G/WorldCC/NDA-Design/Demo/Acme_Quake.md]
 
-CooleyInspired:=[G/Agt-NDA-CmA/Demo/Acme-Ang/0.md]
+CooleyInspired:=[G/Agt-NDA/Demo/Acme-Ang/0.md]
 
 TechContractsAcademy:=[G/TechContracts/NDA/Demo/NDA_Acme_Ang.md]
 
 French:=[G/CabinetBondard/FR-NDA-CmA/Demo/AcmeSARL.md]
 
-MIT-TLO:=[G/Edu-MIT-TLO-CmA/Demo/Acme_Ang_NDA.md]
+MIT-TLO:=[G/Edu-MIT-TLO/Demo/Acme_Ang_NDA.md]
 
 NIH-CDA:=Wx/gov/nih/ott/CDA/Form/0.md]
 
 StLouis:=Wx/com/stlstartuplawyer.com/NDA/Demo/01-Acme-Quake-NDA_v0.md]
 
-Swiss-SuperShort:=[G/CH-NDA-CmA/Demo/1.md]
+Swiss-SuperShort:=[G/CH-NDA/Demo/1.md]
 
 NVCA-Bio:=[G/NVCA/2020/LS-CDA/Form/0.md]

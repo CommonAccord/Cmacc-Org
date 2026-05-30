@@ -10,8 +10,8 @@ UMA-Terms:=[G/Kantara/UMA-Text-CmA/0.md]
 
 GDPR form inviting correction 
 
-GDPR:=[G/GDPR-InfoCorrectionDialog-CmA/Form/Invitation/0.md]
+GDPR:=[G/GDPR-InfoCorrectionDialog/Form/Invitation/0.md]
 
-DataCorrection-GDPR:=[G/GDPR-InfoCorrectionDialog-CmA/Form/Invitation/0.md]
+DataCorrection-GDPR:=[G/GDPR-InfoCorrectionDialog/Form/Invitation/0.md]
 
 NIH-AllOfUs:=[G/Gov-NIH-AllOfUs/OperationalProtocol/Demo/All_of_Us.md]

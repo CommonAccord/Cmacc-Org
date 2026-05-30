@@ -125,6 +125,11 @@ span :hover {
        
 }
 
+.optional {
+	color: magenta ;
+        font-style: italic;
+}
+
 .variable {
         color: #aa00a7 ;
        

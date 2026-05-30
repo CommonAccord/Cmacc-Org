@@ -18,11 +18,11 @@ Microsoft - Computational - Just scrapped text, not a ProseObject yet.  Project 
 
 ChathamHouse.=[G/ChathamHouseOrg/DataSharing/Form/0.md] /// Chatham House - Framework for Data Sharing
 
-CustomerCommons.=[G/CustomerCommons_Org/p2b1/Form/beta1.md]
+CustomerCommons.=[G/CustomerCommons-Org/p2b1/Form/beta1.md]
 
 TheClearingHouse.=[G/TheClearingHouse/DataAccessAgreement/Form/0.md]
 
-CanadianDigitalIdentityEcosystem.=[G/CA-DIACC-DigitalIdentityRequirements-CmA/0.md]
+CanadianDigitalIdentityEcosystem.=[G/CA-DIACC-DigitalIdentityRequirements/0.md]
 
 Collaboration-for-AIDS Vaccine-Discovery/=[G/Org-CAVD/DataMaterialsSharingAgreement/]
 
@@ -36,7 +36,7 @@ JLINC.=[G/Org-JLINC-SISA/Form/0.md]
 
 LinuxFoundation/=[G/CDLA-IO/]
 
-ManilaPrinciples/=[G/ManilaPrinciples-CmA/]
+ManilaPrinciples/=[G/ManilaPrinciples/]
 
 SLDavid/=[G/SLDavid/DataSharing/]
 

@@ -27,9 +27,9 @@ SaaS Service Hosting Agreement - Y Combinator model
 
 Startup Document sets:
 
--=[G/SeriesSeed-Cooley-CmA/Demo/Acme_Equity_ClosingBinder.md]
+-=[G/SeriesSeed-Cooley/Demo/Acme_Equity_ClosingBinder.md]
 
--=[G/SeriesSeed-Cooley-CmA/Demo/Acme_Note_ClosingBinder.md]
+-=[G/SeriesSeed-Cooley/Demo/Acme_Note_ClosingBinder.md]
 
 NVCA (only partially completed)
 
@@ -37,9 +37,9 @@ NVCA (only partially completed)
 
 TechStars:
 
--=[G/Techstars-Equity-CmA/NotePurchase/Form/0.md]
+-=[G/Techstars-Equity/NotePurchase/Form/0.md]
 
--=[G/Techstars-Equity-CmA/COI/Form/0.md]
+-=[G/Techstars-Equity/COI/Form/0.md]
 
 -=[G/YCombinator-SAFE-2020//Form/Cap_Discount/0.md]
 
@@ -49,4 +49,4 @@ Licenses:
 
 Patent License:
 
--=[G/NIH-License-Patent-Exclusive-CmA/Sec/0.md]
+-=[G/NIH-License-Patent-Exclusive/Sec/0.md]
