@@ -13,7 +13,7 @@ InvestorAccess.=[G/NVCA/2020/IRA/Sec/InvestorAccess/Overrides-ToRemoveObserverRi
 
 Register.Termination.3.2.Anniversary.Nth(N)=third (3rd)
 
-Misc.DisputeResolution.Sec={Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
+Misc.Dispute.Sec={Misc.Dispute.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
 
 Ti={Ti.Simple}
 

@@ -60,17 +60,17 @@ ObligationToCombatAbuse.BuyerSupportOfSupplier.::Xnum//XnumAndScheduleQ={Obligat
 
 LiquidatedDamagesFormula.cl=??? Five Thousand Dollars ($5,000.00) per week of noncompliance
 
-DisputeResolution.Amiable.ExecutivesMinimumTitle.cl=Executive Vice President
+Dispute.Amiable.ExecutivesMinimumTitle.cl=Executive Vice President
 
-DisputeResolution.Amiable.MaxTimeToResolve.days=twenty (20) days
+Dispute.Amiable.MaxTimeToResolve.days=twenty (20) days
 
-DisputeResolution.Amiable.MaxTimeAfterFailureToDecideToMediate.days=ten (10) days
+Dispute.Amiable.MaxTimeAfterFailureToDecideToMediate.days=ten (10) days
 
 Arbitration.Institution.MediationRules.Name=ICC Mediation Rules
 
 Arbitration.Institution.ArbitrationRules.Name=ICC Arbitration Rules
 
-DisputeResolution.language=English
+Dispute.language=English
 
 Mediation.RespondToInvitationWithin.days=ten (10) business days
 
@@ -80,9 +80,9 @@ arbitration//litigation=arbitration
 
 Arbitration.Institution.Name=International Chamber of Commerce
 
-DisputeResolution.Mediate.MaxTime.days=thirty (30) days
+Dispute.Mediate.MaxTime.days=thirty (30) days
 
-DisputeResolution.Formal.2.sec={DisputeResolution.Formal.2.Alt1.sec}
+Dispute.Formal.2.sec={Dispute.Formal.2.Alt1.sec}
 
 Arbitration.Institution.Secretary.Title=Secretary General
 
@@ -94,4 +94,4 @@ Arbitration.place=Paris, France
 
 Arbitration.Institution.Rules.ExpeditedProcedure.section=Section ???
 
-MainSupplyContract.DisputeResolution.Forum.Xref=Section ???
+MainSupplyContract.Dispute.Forum.Xref=Section ???

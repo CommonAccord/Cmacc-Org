@@ -340,9 +340,9 @@ DelawareRapidArbAct.ReplacementArbitrator.Who.cl=drawn from the NVCA's membershi
 
 DelawareRapidArbAct.AppellateArbitrators.Who.cl=drawn from the NVCA's membership
 
-ROFR.Misc.DisputeResolution.Sec={ROFR.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
+ROFR.Misc.Dispute.Sec={ROFR.Misc.Dispute.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
 
-SPA.Misc.DisputeResolution.Sec={SPA.Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
+SPA.Misc.Dispute.Sec={SPA.Misc.Dispute.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
 
 SPA.Company.SBC/SB={SPA.Company.SBC}
 

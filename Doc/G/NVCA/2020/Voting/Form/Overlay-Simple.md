@@ -8,4 +8,4 @@ Why.2.1.sec={Why.2.1.SeriesAOnly.sec}
 
 Misc.ConsentToAmend.4.KeyHolders.All/ProvidingServices/HoldingShares?={Misc.ConsentToAmend.4.KeyHolders.All.ProvidingServices}
 
-Misc.DisputeResolution.Sec={Misc.DisputeResolution.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}
+Misc.Dispute.Sec={Misc.Dispute.DelawareRapidArbAct.WithAppealTo3ArbsPerArbAct.Sec}

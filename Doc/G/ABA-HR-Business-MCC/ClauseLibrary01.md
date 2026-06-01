@@ -1,7 +1,7 @@
 Ti=Clauses to be Inserted into Supply Contracts, Purchase Orders, or Similar Documents for the Sale of Goods
 
 
-xlist=<ol><li>{ObligationToCombatAbuse.Sec}</li><li>{RemediatingAdverseImpacts.Sec}</li><li>{RejectionOfGoods.Sec}</li><li>{RevocationOfAcceptance.Sec}</li><li>{NonvariationOfScheduleP.Sec}</li><li>{BuyerRemedy.Sec}</li><li>{Disclaim.Sec}</li><li>{DisputeResolution.Sec}</li></ol>
+xlist=<ol><li>{ObligationToCombatAbuse.Sec}</li><li>{RemediatingAdverseImpacts.Sec}</li><li>{RejectionOfGoods.Sec}</li><li>{RevocationOfAcceptance.Sec}</li><li>{NonvariationOfScheduleP.Sec}</li><li>{BuyerRemedy.Sec}</li><li>{Disclaim.Sec}</li><li>{Dispute.Sec}</li></ol>
 
 Official Note=The text proposed assumes that buyers are located in the United States and that the applicable law is either (a) U.S. state law that implements the Uniform Commercial Code without material nonuniform amendment or (b) the United Nations Convention on Contracts for the International Sale of Goods (the CISG, a treaty to which the United States is a party and which applies to many international sales of goods under CISG article 1(1)(a)).
 
@@ -21,7 +21,7 @@ BuyerRemedy.=[G/ABA-HR-Business-MCC/Sec/BuyerRemedy/0.md]
 
 Disclaim.=[G/ABA-HR-Business-MCC/Sec/Disclaim/0.md]
 
-DisputeResolution.=[G/ABA-HR-Business-MCC/Sec/DisputeResolution/0.md]
+Dispute.=[G/ABA-HR-Business-MCC/Sec/Dispute/0.md]
 
 DefT.=[G/AgtForm/US/Def/Link/0.md]
 
@@ -108,13 +108,13 @@ BuyerRemedy.5.1.Xnum={BuyerRemedy.5.Xnum}<a class='xref' href='{!!!}BuyerRemedy.
 
 Disclaim.Xnum=<a class='xref' href='{!!!}Disclaim.Sec'>7</a>
 
-DisputeResolution.Xnum=<a class='xref' href='{!!!}DisputeResolution.Sec'>8</a>
+Dispute.Xnum=<a class='xref' href='{!!!}Dispute.Sec'>8</a>
 
-DisputeResolution.Amiable.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.Amiable.Sec'>4</a>
+Dispute.Amiable.Xnum={Dispute.Xnum}.<a class='xref' href='{!!!}Dispute.Amiable.Sec'>4</a>
 
-DisputeResolution.Mediate.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.Mediate.Sec'>5</a>
+Dispute.Mediate.Xnum={Dispute.Xnum}.<a class='xref' href='{!!!}Dispute.Mediate.Sec'>5</a>
 
-DisputeResolution.Formal.Xnum={DisputeResolution.Xnum}.<a class='xref' href='{!!!}DisputeResolution.Formal.Sec'>6</a>
+Dispute.Formal.Xnum={Dispute.Xnum}.<a class='xref' href='{!!!}Dispute.Formal.Sec'>6</a>
 
 !!!=#
 
@@ -134,4 +134,4 @@ BuyerRemedy.!!!={!!!}BuyerRemedy.
 
 Disclaim.!!!={!!!}Disclaim.
 
-DisputeResolution.!!!={!!!}DisputeResolution.
+Dispute.!!!={!!!}Dispute.
