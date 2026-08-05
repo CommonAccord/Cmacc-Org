@@ -21,7 +21,11 @@ sub parse {
 	
 	my($file,$root,$part) = @_; my $f;
 
-	ref($file) eq "GLOB" ? $f = $file : open $f, "<$file" or die $!;
+	if (ref($file) eq "GLOB") {
+		$f = $file;
+	} else {
+		open($f, "<", $file) or die "Missing file: $file\n";
+	}
 	
 	$orig = $f unless $orig;
 	
@@ -90,12 +94,15 @@ sub expand_fields  {
 
 # Now with key option as $ARGV[1]
 
-my $output  = parse($ARGV[0], $ARGV[1]);
+my $output = eval { parse($ARGV[0], $ARGV[1]) };
 # "$filelist is list of files visited if line 65 is uncommented"
 
-# print $output . "\n\n";
-
-print  "<table style='width:100%'><tr><th align='left' style='width:10%'>Prefix</th><th align='left' style='width:10%'>Key -- File</th><th align='left' style='width:80%'>Output</th></tr>" . $filelist . "</table>";
+if ($@) {
+    print $@;
+} else {
+    # print( ($output // "") . "\n\n" );
+    print  "<table style='width:100%'><tr><th align='left' style='width:10%'>Prefix</th><th align='left' style='width:10%'>Key -- File</th><th align='left' style='width:80%'>Output</th></tr>" . $filelist . "</table>";
+}
 
 
 #clean up the temporary files (remote fetching)

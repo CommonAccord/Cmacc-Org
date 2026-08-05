@@ -23,7 +23,11 @@ sub parse {
 	my($file,$root,$part) = @_; my $f;
 
 
-	ref($file) eq "GLOB" ? $f = $file : open $f, $file or die $!;
+	if (ref($file) eq "GLOB") {
+		$f = $file;
+	} else {
+		open($f, "<", $file) or die "Missing file: $file\n";
+	}
 	$orig = $f unless $orig;
 	
 	my $content = parse_root($f, $root, $part);
@@ -95,9 +99,9 @@ foreach( $$field =~ /\{([^}]+)\}/g ) {
 
 # Now with key option as $ARGV[1]
 
-my $output  = parse($ARGV[0], $ARGV[1]);
+my $output = eval { parse($ARGV[0], $ARGV[1]) };
 
-print $output;
+if ($@) { print $@; } else { print( $output // "" ); }
 
 # print "\n\n" . $filelist;
 

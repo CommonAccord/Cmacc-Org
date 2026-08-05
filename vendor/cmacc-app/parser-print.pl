@@ -19,7 +19,11 @@ sub parse {
 	my($file,$root,$part) = @_; my $f;
 
 
-	ref($file) eq "GLOB" ? $f = $file : open $f, $file or die $!;
+	if (ref($file) eq "GLOB") {
+		$f = $file;
+	} else {
+		open($f, "<", $file) or die "Missing file: $file\n";
+	}
 	$orig = $f unless $orig;
 	
 	my $content = parse_root($f, $root, $part);
@@ -84,9 +88,9 @@ sub expand_fields  {
 
 # Now with key option as $ARGV[1]
 
-my $output  = parse($ARGV[0], $ARGV[1]);
+my $output = eval { parse($ARGV[0], $ARGV[1]) };
 
-print $output;
+if ($@) { print $@; } else { print( $output // "" ); }
 
 #clean up the temporary files (remote fetching)
 `rm $_` for values %remote;

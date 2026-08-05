@@ -23,7 +23,11 @@ sub parse {
 	$depth = 0 unless defined $depth;
 	my $f;
 
-	ref($file) eq "GLOB" ? $f = $file : open $f, "<$file" or die $!;
+	if (ref($file) eq "GLOB") {
+		$f = $file;
+	} else {
+		open($f, "<", $file) or die "Missing file: $file\n";
+	}
 
 	$orig = $f unless $orig;
 
@@ -122,10 +126,12 @@ sub expand_fields  {
 
 # Now with key option as $ARGV[1]
 
-my $output  = parse($ARGV[0], $ARGV[1]);
+die "Usage: $0 <file> <key>\n" unless defined $ARGV[0] && defined $ARGV[1];
+
+my $output = eval { parse($ARGV[0], $ARGV[1]) };
 # "$filelist is list of files visited if line 65 is uncommented"
 
-print $output . "\n\n";
+if ($@) { print $@; } else { print( ($output // "") . "\n\n" ); }
 
 #  print  "<table style='width:100%'><tr><th style='width:10%'>Prefix</th><th style='width:10%'>Key</th><th style='width:80%'>File</th></tr>" . $filelist . "</table>";
 

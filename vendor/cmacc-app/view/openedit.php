@@ -34,7 +34,7 @@ echo "<form v=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=120 rows=30 name='newcontent' style='font-size: 16px; padding:10px;'>";
 
 
-echo "//=Open parameters as of Datestamp:Timestamp (" . date("Y/m/d") . ":" . time() . "):\n\n";
+echo "//=Open parameters as of Datestamp:Timestamp (" . date("Y/m/d") . ":" . time() . " : " . "(NOTE: in this view rendering will skip and fail to mention any missing [file-reference])):\n\n";
 
 echo $document;
 
