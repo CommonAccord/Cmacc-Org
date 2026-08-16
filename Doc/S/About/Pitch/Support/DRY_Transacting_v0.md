@@ -18,7 +18,7 @@ Note=Discuss:
  
 8.sec=The permissions, requests, and receipts for access can be handled like other transactions in the system - each is a transaction stored in the participants' {PDSs}, and subject to agreement regarding discarding.
 
-9.sec=See, e.g., <a href="http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf">http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf</a>
+9.sec=See, e.g., <a href="https://bpb-us-e1.wpmucdn.com/sites.mit.edu/dist/1/512/files/2015/11/CommonAccord_Provenance_11182015.pdf">Hardjono and Hazard: CommonAccord_Provenance_11182015.pdf</a>
 
 =[G/Z/ol/s9]
 

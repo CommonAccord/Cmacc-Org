@@ -10,10 +10,11 @@ Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td> </td><td valign="top
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec={CmAQuick.sec}<br><br>Overview:</b><ul><li>{SSRN.sec}<li>Prose Objects (our most recent work) <a href="i.php?v=l&f=G/">Prose Objects in /G/</a><li> {Blog.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec={CmAQuick.sec}<br><br>Overview:</b><ul><li>{SSRN.sec}<li>Prose Objects (our most recent work) <a href="i.php?v=l&f=G/">Prose Objects in /G/</a><li> {Blog.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  <br><br>{CDL.Link} 
 
+Note=Removed for now - links to bqc need repair.
 CmAbqc.sec=One proposed implementation of CommonAccord is a universal bank account that would allow people to manage in a portable account all types of transactions rather than just payments. Examples of how it would look like can be found here: {Bqc.Link}.
 
 Conference.sec=We are co-organizing a conference at MIT Media Lab - May 23-24: <a href="https://docs.google.com/document/d/1nG78OfVcCfI_WtxpLlz5Y_8wyTaksGl9jKGCKz0aSxo/edit#">Conference Program</a>
@@ -25,7 +26,7 @@ Slack.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Join our Slack group!
 
 Blog.sec=<a href="http://commonaccord.wordpress.com">CommonAccord.Wordpress.com</a>
 
-Codification.sec=Codification of legal form documents makes them transparent and continuously improving.  It is part of the tradition of legal codification - from Hammurabi through Napoleon, the UCC, the ALI, and Creative Commons.  Codification demystifies law and encourages <a href="http://p2pfoundation.net/Common_Accord">transparency and autonomy</a>.
+Codification.sec=Codification of legal form documents makes them transparent and continuously improving.  It is part of the tradition of legal codification - from Hammurabi through Napoleon, the UCC, the ALI, and Creative Commons.  Codification demystifies law and encourages transparency and autonomy</a>.  It can also be a step toward global legal codes, which can be used to create a global legal system.  <a href="https://www.youtube.com/watch?v=4ZfsyTPYFIA">See this video</a> for a taste of the experience.  It is best done as part of a community effort<a href="https://wiki.p2pfoundation.net/Common_Accord"> a P2P creation.</a> 
 
 Code-ification.sec={Code-ify.sec}<li>{PDS.sec}<li>{Synchronization.sec}<li>{OnGitHub.sec}<li> {InfoLinks.sec} <li>{CDL.sec}
 
@@ -40,9 +41,9 @@ OnGitHub.sec=All of the text, and the little bit of code that brings it together
 
 InfoLinks.sec={ParserByPrimavera.sec} {Peer2Peer.sec} {XrayView.sec} {Slashdot.sec} {Technical.sec}
 
-ParserByPrimavera.sec=This website uses a parser done by <a href="https://cyber.law.harvard.edu/people/pdefilippi">Primavera De Filippi</a> of Harvard's Berkman Center.
+ParserByPrimavera.sec=This website uses a parser done by <a href="https://cyber.harvard.edu/people/pdefilippi">Primavera De Filippi</a> of Harvard's Berkman Center.
 
-Peer2Peer.sec=It supports a <a href="i.php?v=d&f=S/About/Pitch/Support/DRY_Transacting_v0.md">"DRY," peer-to-peer transaction model</a>, including with <a href="http://hardjono.mit.edu/sites/default/files/documents/CommonAccord_Provenance_11182015.pdf">blockchain and UMA (pdf)</a>.  There can be  <a href="http://financialcryptography.com/mt/archives/001556.html">close coupling of "smart contracts" and contract text</a>, enabling <a href="http://iang.org/ricardian/">"Ricardian" contracts</a>.
+Peer2Peer.sec=It supports a <a href="i.php?v=d&f=S/About/Pitch/Support/DRY_Transacting_v0.md">"DRY," peer-to-peer transaction model</a>, including with <a href="https://bpb-us-e1.wpmucdn.com/sites.mit.edu/dist/1/512/files/2015/11/CommonAccord_Provenance_11182015.pdf">distributed data models (Thomas Hardjono MIT - and Hazard)</a>.  There can be  <a href="http://financialcryptography.com/mt/archives/001556.html">close coupling of "smart contracts" and contract text</a>, enabling <a href="http://iang.org/ricardian/">"Ricardian" contracts</a>.
 
 XrayView.sec=A taste of the "experience" can be seen  in this <a href="https://www.youtube.com/watch?v=4ZfsyTPYFIA">YouTube video</a>.
 
@@ -50,11 +51,11 @@ Slashdot.sec=The vision was articulated in an <a href="http://news.slashdot.org/
 
 CDL.sec=We are working toward a "{CDL.Link}," a trustee for global legal code.  The project is open source. You can contribute: as a lawyer to legal documents, as a coder to our software, as a platform by interfacing with our materials, as a business by using the system, as a benefactor by supporting the effort.  <a href="http://github.com/commonaccord/cmacc-org">Contribute on GitHub</a> or <a href="mailto:commonaccord@gmail.com?Subject=Contact" target="_top">email commonaccord@gmail.com.</a>
 
-Technical.sec=The files can also be expressed as <a href="http://www.commonaccord.org/i.php?v=json&f=Dx/Acme_FR/04-NDA-From-Quake-FR/Doc_v0.md">JSON/IPLD</a>.
+Technical.sec=The files can also be expressed as <a href="i.php?v=json&f=G/YCombinator-SAFE-2020/Form/Base/v1-1.md">JSON/IPLD</a>.
 
 SiteLinks.Sec=<b>Site links:</b><ul type=none><li>{DocumentsFolder.sec}<li>{Views.List.sec}<li>{PageSource.sec}<li>{MITConference.sec}</ul>
 
-Views.List.sec=Each file on the site has six "views": <a href="i.php?v=s&f=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">Source</a>.  E.g., click on <a href="i.php?v=d&f=Dx/Acme_UK/01-EU-US-DataTransfer/Doc_v0.md">"Document"</a>.
+Views.List.sec=Each file on the site has six "views": <a href="i.php?v=s&f=G/YCombinator-SAFE-2020/Form/Base/v1-1.md">Source</a>; <a href="i.php?v=j&f=G/YCombinator-SAFE-2020/Form/Base/v1-1.md">JSON-ish</a>; <a href="i.php?v=d&f=G/YCombinator-SAFE-2020/Form/Base/v1-1.md">Document</a>; <a href="i.php?v=p&f=G/YCombinator-SAFE-2020/Form/Base/v1-1.md">Print</a> (w/o metadata); <a href="i.php?v=v&f=G/YCombinator-SAFE-2020/Form/Base/v1-1.md">Visual </a>(expanded presentation); <a href="i.php?v=o&f=G/YCombinator-SAFE-2020/Form/Base/v1-1.md">Open</a> (missing) parameters; <a href="i.php?v=x&f=G/YCombinator-SAFE-2020/Form/Base/v1-1.md">X-Ray </a> (for diagnosing).
 
 PageSource.sec=This page is made using the tool ("dog fooding" in tech parlance): <a href="i.php?v=s&f=S/About/Landing3.md">Landing Page Source</a>.
 
