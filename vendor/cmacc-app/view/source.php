@@ -20,7 +20,7 @@ foreach($contents as $n) {
         }
 	//for local folders (navigation) [G/.../]
 	else if(preg_match('/\[(.+?)\\/]/', $v, $matches)) {
-                $vlink = "<a href=?v=list&f=$matches[1]/>$v</a>";
+                $vlink = "<a href=?v=l&f=$matches[1]/>$v</a>";
               	}
 
 	//for local file links "[G/...]"
@@ -41,6 +41,7 @@ foreach($contents as $n) {
         # This is the end of HazardJ's duct tape.
         }
 #Now the KEY:
+        $target = (preg_match('/\[([^\]]+)\]/', (string)$v, $tm) && !preg_match('/^http/', $tm[1])) ? $tm[1] : null;
         echo "<tr id=$k>" ;
         # enabling hyperlinks from the key.  
                 # If ends in a period "." then assume it is a prefix *=(e.g. key=[node]) make it "key.r00t" to render the default content of [node]. 
@@ -49,16 +50,29 @@ foreach($contents as $n) {
        if(preg_match('/\s/', $k)){
         $klink=$k ;}
 
-        # The key ends in a "." and therefore we render the default content of the target object (r00t)
+        # KEY ENDINGS (the vocabulary of this view). The "target" is the first [path] in the value, relative to Doc/.
+        #   "."  render the default content of this line: document view (v=d) of key + "r00t"
+        #   "-"  go to the target in source view (v=s)
+        #   "/"  go to the target in list view (v=l); if the target is a file, its folder is listed
+        #   ":"  plain key, no link
+        #   anything else: link to the key's content in document view (v=d)
         else if((substr($k, -1)==".")){
        	        $klink="<a class='expand' href=?v=d&f=$dir&k=$k" . "r00t >$k</a>" ;
         }
-        # The key ends in ":" so we render the key.
-        # We will make each key into a hyperlink to the key's content. But if the key has a space in it, then we don't want to make it a hyperlink.
+        else if((substr($k, -1)=="-") && $target !== null){
+                $klink="<a class='expand' href=?v=s&f=$target >$k</a>" ;
+        }
+        else if((substr($k, -1)=="/") && $target !== null){
+                $tdir = (substr($target, -1)=="/") ? $target : ((strpos($target, "/")===false) ? "" : dirname($target) . "/");
+                $klink="<a class='expand' href=?v=l&f=$tdir >$k</a>" ;
+        }
         else if((substr($k, -1)==":")){
        	        $klink= $k  ;
         }
-        
+        else if((substr($k, -1)=="-") || (substr($k, -1)=="/")){
+                $klink= $k  ;   # no [target] in the value: nothing to link to
+        }
+
         # The key does not have a space in it (a browser URL mishandles spaces), so we render the key with a hyperlink to the key's content.
         else {
      	 $klink="<a href=?v=d&f=$dir&k=$k class='definedterm'>$k</a>" ;

@@ -2,8 +2,8 @@
 
 echo "<b><a href=i.php><img src='" . ASSETS_PATH . "/CmA-Square.png' height=20>/</a></a></b>";
 
-echo "<a href=i.php?v=l&f=>Docs</a>/<a href=$_SERVER[PHP_SELF]?v=l&f=$rootdir[dirname]/>$rootdir[dirname]</a>/<b>$filenameX</b> 
-<br></h4>";
+echo "<a href=i.php?v=l&f=>Docs</a>/<a href=$_SERVER[PHP_SELF]?v=l&f=$rootdir[dirname]/>$rootdir[dirname]</a>/<b>$filenameX</b> &k=$keyName 
+<br></h4>" ;
 
 echo " &emsp; Source views: ";
 
@@ -25,7 +25,7 @@ echo " &emsp; Doc views: ";
 
 echo "<b><a href=i.php?v=d&f=$dir&k=$keyName>". DOC_TAB_MESSAGE ."</a></b> ";
 
-echo "(&k=$keyName): ";
+# echo "(&k=$keyName): ";
 
 echo "<a href=i.php?v=v&f=$dir&k=$keyName>Visual</a> ";
 

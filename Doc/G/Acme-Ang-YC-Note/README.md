@@ -15,7 +15,7 @@ DEPENDENCIES:
 
 Unless otherwise specified, mount in /Doc/G/   (for "git").  Start with the bottom of the list and work up. 
 
-Acme-Ang-YC-Note-CmA
+Acme-Ang-YC-Note
 
 Agt-Form-CmA
 
