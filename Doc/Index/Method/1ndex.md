@@ -24,7 +24,7 @@ ListIntro-=[G/listintro.html] /// <i>(GEN)</i> Introduction text shown on the li
 
 Agt-Outline-Universal.=[G/Agt-Outline-Universal/Outline/0.md] /// <i>(GEN)</i> Universal contract outline (taxonomy).
 
-aNG-Ontology-=[G/aNG-Ontology/0.md] /// <i>(INT)</i> Rights and obligations ontology.
+aNG-Ontology-=[G/ANG-Ontology/0.md] /// <i>(INT)</i> Rights and obligations ontology.
 
 ACTUS.=[G/ACTUS/Taxonomy/0.md] /// <i>(INT)</i> ACTUS financial contract taxonomy.
 

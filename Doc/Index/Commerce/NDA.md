@@ -24,8 +24,6 @@ Agt-NDA.=[G/Agt-NDA/Form/0.md] /// <i>(GEN)</i> NDA derived from CooleyGo, with 
 
 CooleyGo-NDA.=[G/CooleyGo/NDA/US/Form/0.md] /// <i>(US)</i> CooleyGo US NDA.
 
-Mutual-NDA.=[G/Mutual-NDA/PO/Form/Mutual-NDA.md] /// <i>(US)</i> Common Paper mutual NDA, with cover page.
-
 Bonterms-NDA.=[G/Bonterms/Mutual-NDA/Form/v1-0.md] /// <i>(US)</i> Bonterms mutual NDA, version 1.0.
 
 OneNDA/=[G/OneNDA-NDA/] /// <i>(INT)</i> The oneNDA, version 7.2 as a Prose Object.

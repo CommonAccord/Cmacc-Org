@@ -10,7 +10,7 @@ US-Constitution.=[G/US-Constitution/0.md] /// <i>(US)</i> The Constitution of th
 
 MarsConstitution.=[G/MarsConstitution/Form/0.md] /// <i>(GEN)</i> A constitution for Mars, from Yale students.
 
-aNG-Ontology-=[G/aNG-Ontology/0.md] /// <i>(INT)</i> A New Governance rights and obligations ontology.
+aNG-Ontology-=[G/ANG-Ontology/0.md] /// <i>(INT)</i> A New Governance rights and obligations ontology.
 
 UNESCO-Bioethics.=[G/Org-UNESCO/Universal_Declaration_on_Bioethics_and_Human_Rights/Form/YMD-2005-10-19.md] /// <i>(INT)</i> See also. Bioethics and human rights declaration. See the Health chapter.
 

@@ -58,7 +58,7 @@ AnAtlas-LLC-CIIAA/=[G/AnAtlas-LLC-CIIAA/] /// Work/Employment
 
 AnAtlas-LLC-Operating-Agreement/=[G/AnAtlas-LLC-Operating-Agreement/] /// Finance/Company
 
-aNG-Ontology/=[G/aNG-Ontology/] /// Data/Sharing, Justice/Constitutions, Method/Taxonomy
+aNG-Ontology/=[G/ANG-Ontology/] /// Data/Sharing, Justice/Constitutions, Method/Taxonomy
 
 AssignmentByAuthor/=[G/AssignmentByAuthor/] /// Commerce/Sectors, IP/Content
 
@@ -251,8 +251,6 @@ Microsoft/=[G/Microsoft/] /// AI/Contracts, AI/Principles, Data/Sharing, IP/Soft
 Mistral-AI/=[G/Mistral-AI/] /// AI/Contracts, Data/Privacy
 
 MIT/=[G/MIT/] /// Method/Research
-
-Mutual-NDA/=[G/Mutual-NDA/] /// Commerce/NDA
 
 nft-license/=[G/nft-license/] /// IP/Content
 

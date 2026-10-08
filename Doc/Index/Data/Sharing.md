@@ -26,7 +26,7 @@ ResponsibleData-=[G/responsible-data-use-policy/PrOb/RDSP/0.md] /// <i>(GEN)</i>
 
 DataScience/=[G/DataScience/] /// <i>(GEN)</i> Starter kit for git-based legal management in data science projects.
 
-aNG-DataSharing/=[G/aNG-Ontology/DataSharing-_O/] /// <i>(GEN)</i> Obligations and rights ontology applied to data sharing (aNewGovernance).
+aNG-DataSharing/=[G/ANG-Ontology/DataSharing-_O/] /// <i>(GEN)</i> Obligations and rights ontology applied to data sharing (aNewGovernance).
 
 OUDA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md] /// <i>(GEN)</i> Open Use of Data Agreement (O-UDA): a permissive licence for open data.
 

@@ -8,8 +8,6 @@ CooleyInspired.=[G/Agt-NDA/Form/0.md]
 
 NW-NDA.00.=[G/NW-NDA/00/Form/Agt-Outline-Assets.md]
 
-CommonPaper-Mutual.=[G/Mutual-NDA/PO/Demo/Acme-Ang-2022-01-10.md]
-
 OneNDA.=[G/OneNDA-NDA/X/Original/2022-v7-2-Demo-Acme-Ang.md]
 
 Bonterms-Mutual.=[G/Bonterms/Mutual-NDA/Form/v1-0.md]

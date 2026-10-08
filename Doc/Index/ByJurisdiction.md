@@ -274,7 +274,7 @@ ICC-Arbitration.=[G/ICCWBO-Arbitration/Sec/0.md] /// <i>Justice / Arbitration.</
 
 ICC-Arbitration-EN.=[G/ICCWBO-Arbitration-EN/IntroductionAndClauses.md] /// <i>Justice / Arbitration.</i> <i>(INT)</i> ICC introduction and clauses, English only.
 
-aNG-Ontology-=[G/aNG-Ontology/0.md] /// <i>Justice / Constitutions.</i> <i>(INT)</i> A New Governance rights and obligations ontology.
+aNG-Ontology-=[G/ANG-Ontology/0.md] /// <i>Justice / Constitutions.</i> <i>(INT)</i> A New Governance rights and obligations ontology.
 
 ALI-Unidroit-DE.=[G/ALI-Unidroit-TransnationalCivilProcedure/DE/Form/0.md] /// <i>Justice / Procedure.</i> <i>(INT; DE)</i> ALI/UNIDROIT Principles of Transnational Civil Procedure, German.
 
@@ -302,7 +302,7 @@ OpenContract-=[G/OpenContract-Person/Was/0.md] /// <i>Method / Taxonomy.</i> <i>
 
 WorldCC-NDATaxonomy_/=[G/WorldCC/NDA-Taxonomy/Form/] /// <i>Method / Taxonomy.</i> <i>(INT)</i> WorldCC NDA taxonomy.
 
-aNG-Ontology_-=[G/aNG-Ontology/0.md] /// <i>Method / Taxonomy.</i> <i>(INT)</i> Rights and obligations ontology.
+aNG-Ontology_-=[G/ANG-Ontology/0.md] /// <i>Method / Taxonomy.</i> <i>(INT)</i> Rights and obligations ontology.
 
 Cicero.=[G/Cicero-Template/Copyright-License/Form/0.md] /// <i>Method / Tools.</i> <i>(INT)</i> Accord Project Cicero template grammars.
 
@@ -345,8 +345,6 @@ IBM-CRA.=[G/IBM-ClientRelationshipAgt/Sec/0.md] /// <i>Commerce / Frameworks.</i
 Bonterms-NDA.=[G/Bonterms/Mutual-NDA/Form/v1-0.md] /// <i>Commerce / NDA.</i> <i>(US)</i> Bonterms mutual NDA, version 1.0.
 
 CooleyGo-NDA.=[G/CooleyGo/NDA/US/Form/0.md] /// <i>Commerce / NDA.</i> <i>(US)</i> CooleyGo US NDA.
-
-Mutual-NDA.=[G/Mutual-NDA/PO/Form/Mutual-NDA.md] /// <i>Commerce / NDA.</i> <i>(US)</i> Common Paper mutual NDA, with cover page.
 
 OpenSourceLaw-NDA.=[G/Open-Source-Law/PO/NDA.md] /// <i>Commerce / NDA.</i> <i>(US)</i> NDA between a DAO legal wrapper and a contributor or grantee.
 
@@ -602,7 +600,7 @@ SLDavid-DSA.=[G/SLDavid/DataSharing/Form/0.md] /// <i>Data / Sharing.</i> <i>(GE
 
 Visions-DataFlow.=[G/Visions/DataFlow/Form/0.md] /// <i>Data / Sharing.</i> <i>(GEN)</i> Draft contract on data flow and reuse between partners.
 
-aNG-DataSharing/=[G/aNG-Ontology/DataSharing-_O/] /// <i>Data / Sharing.</i> <i>(GEN)</i> Obligations and rights ontology applied to data sharing (aNewGovernance).
+aNG-DataSharing/=[G/ANG-Ontology/DataSharing-_O/] /// <i>Data / Sharing.</i> <i>(GEN)</i> Obligations and rights ontology applied to data sharing (aNewGovernance).
 
 CompanyObject.=[G/CompanyObject/Form/0.md] /// <i>Finance / Company.</i> <i>(GEN)</i> Start a company: create, fund, permit.
 

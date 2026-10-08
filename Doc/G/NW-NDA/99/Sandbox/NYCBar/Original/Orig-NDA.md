@@ -238,10 +238,6 @@ FtNt.30
 
 Misc.11.4.sec=Each party hereto agrees that {Seller.LawFirm.Name.Full} is an express third party beneficiary of this Section 13(k).
 
-Seller.LawFirm.=[G/U/Who/CliffordChance.md]
-
-13.Sec={Misc.Sec}
-
 13.11.=[G/Z/ol/s4]
 
 13.12.Ti=(l) Counterparts
@@ -250,9 +246,7 @@ Seller.LawFirm.=[G/U/Who/CliffordChance.md]
 
 13.=[G/Z/ol-a/12]
 
-sec=<ol><li>{Misc.Sec}</ol>
-
-=[G/Z/Base]
+=[G/Z/ol/13]
 
 [Signature page follows] 
 
