@@ -1,0 +1,89 @@
+ABA/MSPA/Sec/ABA-MSPA_Cov.P1.md
+
+Ti=COVENANTS OF SELLERS PRIOR TO CLOSING DATE
+
+Sec=<b>{Ti}</b><ol><li>{1.Sec}<li>{2.Sec}<li>{3.Sec}<li>{4.Sec}<li>{5.Sec}<li>{6.Sec}<li>{7.Sec}<li>{8.Sec}<li>{9.Sec}</li></ol>
+
+Ti=Covenants of {Sellers} Prior to {Closing_Date}
+
+1.Ti=ACCESS AND INVESTIGATION
+
+1.Sec=<b>{1.Ti}</b><br/>{1.sec}
+
+1.sec=Prior to {the_Closing_Date}, and upon reasonable notice from {Buyer}, each {Seller} shall, and shall cause each {Acquired_Company} to, (a) afford {Buyer} and its {Representatives} and prospective lenders and their {Representatives} (collectively, "{Buyer_Group}") full and free access, during regular business hours, to each {Acquired_Company}'s personnel, assets, {Contracts}, and {Records}, (b) furnish {Buyer_Group} with copies of all such {Contracts} and {Records} as {Buyer} may reasonably request, (c) furnish {Buyer_Group} with such additional financial, operating, and other relevant data and information as {Buyer} may reasonably request, and (d) otherwise cooperate and assist, to the extent reasonably requested by {Buyer}, with {Buyer}'s investigation of the business, condition (financial or otherwise), assets, results of operations, or prospects of each {Acquired_Company}.  In addition, {Buyer} shall have the right to have the {Real_Property} and the tangible personal property of each {Acquired_Company} inspected by {Buyer_Group}, at {Buyer}'s sole cost and expense, including the performance of subsurface or other intrusive testing.
+
+2.Ti=OPERATION OF THE BUSINESSES OF THE ACQUIRED COMPANIES
+
+2.Sec=<b>{2.Ti}</b><br/>{2.Intro}:<ol type="a"><li>{2.1.Sec};<li>{2.2.Sec};<li>{2.3.Sec};<li>{2.4.Sec};<li>{2.5.Sec};<li>{2.6.Sec};<li>{2.7.Sec};<li>{2.8.Sec};<li>{2.9.Sec};<li>{2.10.Sec};<li>{2.11.Sec}; and<li>{2.12.Sec}.</li></ol>
+
+2.Intro=Prior to {the_Closing_Date}, each {Seller} shall, and shall cause each {Acquired_Company} to
+
+2.1.Sec=conduct the business of such {Acquired_Company} only in the {Ordinary_Course_of_Business}
+
+2.2.Sec=use its best efforts to preserve intact the current business organization of such {Acquired_Company}, keep available the services of the officers, employees, and agents of such {Acquired_Company}, and maintain its relations and goodwill with suppliers, customers, landlords, creditors, employees, agents, and others having business relationships with such {Acquired_Company}
+
+2.3.Sec=confer with {Buyer} prior to implementing operational decisions of a material nature
+
+2.4.Sec=report to {Buyer} at such times as {Buyer} may reasonably request concerning the status of the business, condition (financial or otherwise), assets, results of operations, or prospects of such {Acquired_Company}
+
+2.5.Sec=make no material changes in management personnel of such {Acquired_Company}
+
+2.6.Sec=maintain the assets owned or used by such {Acquired_Company} in a state of repair and condition that complies with {Legal_Requirements} and {Contracts} and is consistent with the requirements and normal conduct of the business of such {Acquired_Company}
+
+2.7.Sec=keep in full force and effect, without amendment, all material rights relating to the business of such {Acquired_Company}
+
+2.8.Sec=comply with all {Legal_Requirements} applicable to, and all {Applicable_Contracts} of, such {Acquired_Company}
+
+2.9.Sec=continue in full force and effect the insurance coverage under the policies set forth in Part {3.18} or substantially equivalent policies
+
+2.10.Sec=except as required to comply with {ERISA} or to maintain qualification under Section 401(a) of {the_Code}, not amend, modify, or terminate any {Employee_Plan} and, except as required under the provisions of any {Employee_Plan}, not make any contributions to or with respect to any {Employee_Plan}
+
+2.11.Sec=maintain all records of such {Acquired_Company} consistent with past practice
+
+2.12.Sec=take no action, or fail to take any reasonable action within its control, as a result of which any of the changes or events listed in Section {3.16} would be likely to occur
+
+3.Ti=FILINGS AND NOTIFICATIONS; COOPERATION
+
+3.Sec=<b>{3.Ti}</b><br/>{3.Tx}
+
+3.Tx=As promptly as practicable after the date of {this_Agreement}, and in any event within the applicable time period prescribed by {Legal_Requirements}, each {Seller} shall, and shall cause each {Acquired_Company} and each of their {Related_Persons} to, make all filings and notifications required by {Legal_Requirements} to be made by them in connection with the {Contemplated_Transactions} (including all filings under the {HSR_Act}).  Each {Seller} shall, and shall cause each {Acquired_Company} and each of their {Related_Persons} to, cooperate with {Buyer}, its {Related_Persons}, and their respective {Representatives} (a) with respect to all filings and notifications that {Buyer} or its {Related_Persons} elect to make or shall be required by {Legal_Requirements} to make in connection with the {Contemplated_Transactions}, (b) in identifying and obtaining the {Governmental_Authorizations} required by {Buyer} to own and operate each {Acquired_Company} from and after {the_Closing_Date}, and (c) in obtaining all {Consents} identified in Exhibit 9.4 (including taking all actions requested by {Buyer} to cause early termination of any applicable waiting period under the {HSR_Act}).
+
+4.Ti=NOTICE
+
+4.Sec=<b>{4.Ti}</b><ol type="a"><li>{4.1.Sec}<li>{4.2.Sec}</li></ol>
+
+4.1.Sec=Prior to {the_Closing_Date}, each {Seller} shall promptly provide notice to {Buyer} of any {Breach} of any representation or warranty of {Sellers} or any fact or circumstance that would or would reasonably be likely to cause or constitute a {Breach} of any such representation or warranty had that representation or warranty been made as of the time of the occurrence of such fact or circumstance.  Should any such {Breach} relate to {the_Disclosure_Letter}, each {Seller} shall promptly deliver to {Buyer} a supplement to {the_Disclosure_Letter}.  No such notice or delivery will be deemed to have cured any {Breach} of any representation or warranty or affect any right or remedy of {Buyer} under {this_Agreement}.
+
+4.2.Sec=Prior to {the_Closing_Date}, each {Seller} shall promptly provide notice to {Buyer} of any {Breach} of any covenant of {Sellers} in this Article {5-} or any fact or circumstance that could make the satisfaction of any condition in Article {8-} impossible or unlikely and of all corrective actions undertaken, or to be undertaken, by such {Seller} with respect thereto.  No such notice will be deemed to have cured any {Breach} of any covenant or affect any right or remedy of {Buyer} under {this_Agreement}.
+
+5.Ti=PAYMENT OF INDEBTEDNESS BY RELATED PERSONS
+
+5.Sec=<b>{5.Ti}</b><br/>{5.Tx}
+
+5.Tx=Each {Seller} shall cause all indebtedness owed to an {Acquired_Company} by any {Seller} or any Related Person of any {Seller} to be paid in full prior to {Closing}.
+
+6.Ti=EXCLUSIVE DEALING
+
+6.Sec=<b>{6.Ti}</b><br/>{6.Tx}
+
+6.Tx=Until {this_Agreement} shall have been terminated pursuant to Section {10.1}, no {Seller} shall, and each {Seller} shall cause each {Acquired_Company} and each of their respective {Representatives} not to, directly or indirectly, solicit, initiate, encourage, or entertain any inquiries or proposals from, discuss or negotiate with, provide any nonpublic information to, or consider the merits of any inquiries or proposals from any {Person} (other than {Buyer}) relating to any business combination transaction involving any {Seller} or {Acquired_Company}, however structured, including the sale of the business or assets (other than in the {Ordinary_Course_of_Business}) of any {Acquired_Company}, or any {Equity_Security} of any {Acquired_Company}, or any merger, consolidation, or similar transaction or arrangement.  Each {Seller} shall notify {Buyer} of any such inquiry or proposal within 24 hours of receipt thereof by any {Seller}, {Acquired_Company}, or any of their respective {Representatives}.
+
+7.Ti=BEST EFFORTS
+
+7.Sec=<b>{7.Ti}</b><br/>{7.Tx}
+
+7.Tx=Each {Seller} shall use its best efforts to cause the conditions in Article 8 (other than Section 8.11) to be satisfied.
+
+8.Ti=FINANCIAL INFORMATION
+
+8.Sec=<b>{8.Ti}</b><br/>{8.Tx}
+
+8.Tx={Sellers} shall deliver to {Buyer} within {8.Fin.Report.Month.Wait.Days} days after the end of each month a copy of each {Acquired_Company}'s {8.Fin.Report.Month.Content} for such month prepared in a manner and containing information consistent with such {Acquired_Company}'s current practices.
+
+9.Ti=FINANCING COOPERATION
+
+9.Sec=<b>{9.Ti}</b><br/>{9.Tx}
+
+9.Tx=Each {Seller} shall, and shall cause each {Acquired_Company}, their {Related_Persons}, and their respective {Representatives} to, cooperate with {Buyer} with respect to {Buyer}'s arranging of financing of the {Contemplated_Transactions}, as {Buyer} may reasonably request.
+
+Model.Root={Sec}
