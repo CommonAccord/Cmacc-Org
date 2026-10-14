@@ -188,6 +188,7 @@ echo <<<'CMACC_UI'
 CMACC_UI;
 
   echo $document;
+  echo "<script src='Doc/G/Z/CSS/Numbering.js'></script>";
   echo "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>"; }
 else {
    echo "Nothing to Show";

@@ -39,7 +39,8 @@ $document=str_replace("(-Curly)","}",$document);
 $document=str_replace("{Render.Metadata}", "(" . $dir . "#" . $keyName . " on " . date('Y-m-d') . ")" ,$document);
 
  
-  echo $document;}
+  echo $document;
+  echo "<script src='Doc/G/Z/CSS/Numbering.js'></script>";}
  else {
    echo "Nothing to Show";
 

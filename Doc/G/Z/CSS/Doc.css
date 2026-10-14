@@ -203,3 +203,33 @@ html {
 }
 
 /* .cmacc-placeholder is injected by JS in doc.php when a span collapses */
+
+/* ---- CommonAccord nested legal numbering --------------------------------
+   Plain <ol> lists (no type attribute) and <ol type="1"> are numbered this way:
+       1.     1.1.     1.1.1.     (and 2.3.  2.3.2.  and so on, to any depth)
+   Every other list (type="a" "A" "i" "I" "none", <ul>) keeps the
+   browser's own markers and is not touched.
+   The numbers are drawn with ::before, so they are not part of the text that
+   is copied, searched or diffed.  CSS counters ignore start="N";
+   Numbering.js carries start="N" into the counter.                           */
+
+ol:not([type]),
+ol[type="1"] {
+  list-style: none;
+  padding-left: 3.4em;
+  counter-reset: cmn;
+}
+ol:not([type]) > li,
+ol[type="1"] > li {
+  position: relative;
+  counter-increment: cmn;
+}
+ol:not([type]) > li::before,
+ol[type="1"] > li::before {
+  content: counters(cmn, ".") ".";
+  position: absolute;
+  right: 100%;
+  margin-right: 0.6em;
+  white-space: nowrap;
+  font-weight: normal;
+}
