@@ -47,10 +47,10 @@ Ti=Interconnection Facilities and Metering
 
 3.3.=[G/Z/ol-i/s4]
 
-3.=[G/Z/ol/3]
+3.4.Ti=(4) Reliability Standards
 
-4.Ti=(4) Reliability Standards
+3.4.sec=Seller shall operate the BPA Wind Turbines in a manner that complies with the operating requirements set forth in the Interconnection Facilities Agreement.
 
-4.sec=Seller shall operate the BPA Wind Turbines in a manner that complies with the operating requirements set forth in the Interconnection Facilities Agreement.
+3.=[G/Z/ol/4]
 
-=[G/Z/ol-a/4]
+=[G/Z/ol-a/3]

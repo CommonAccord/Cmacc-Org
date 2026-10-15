@@ -1,6 +1,6 @@
 Ti=Cmacc Extensions
 
-0.sec=The Cmacc data model can be added on to.  We need to be extremely conservative as a community, but individuals and groups are of course free to fork.  Here are {ID.HazardJ.my/our} ideas about a few extensions.
+0.sec=The Cmacc data model can be added on to.  We need to be extremely conservative as a community, but individuals and groups are of course free to fork.  Here are {my/our} ideas about a few extensions.
  
 1.Ti=File-Level Overrides
 
@@ -31,5 +31,3 @@ Ti=Cmacc Extensions
 7.sec=If there are a number of Key/Values where each Key begins the same .. Product.Price=x ; Product.ID=321 ; etc., it might be convenient to be able to express this as <br>Product:<ul type=none><li>Price=x<li>ID=321</ul> or the like.  Variables in such indented elements would need to be evaluated as prefixed. 
  
 =[G/Z/ol/7]
-
-ID.HazardJ.=[G/U/Who/hazardj]
