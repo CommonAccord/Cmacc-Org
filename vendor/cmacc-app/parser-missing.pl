@@ -140,6 +140,7 @@ sub expand_fields  {
 # Now with key option as $ARGV[1]
 
 my $output = eval { parse($ARGV[0], $ARGV[1]) };
+$output = "" unless defined $output;   # key not found: treat as empty
 
 # if ($@) { print $@; } else { print( $output // "" ); }
 

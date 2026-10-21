@@ -139,6 +139,7 @@ foreach( $$field =~ /\{([^}]+)\}/g ) {
       }
 
 my $output  = parse($ARGV[0], "r00t");
+$output = "" unless defined $output;
 print $output . "\n\n" . $filelist;
 
 #clean up the temporary files (remote fetching)
