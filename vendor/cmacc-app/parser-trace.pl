@@ -118,7 +118,7 @@ sub parse_root {
 			}
   # Rows are collected and reversed once at the end (the original prepended each row to one growing
   # string, copying it every time). Final output is identical.
-  push @filelist_rows, "<tr><td align='left' valign='top'>" . $part . "</td><td valign='top' align='left' valign=top>" . $field. " <br>[" . $what. "]</td><td>" . $root . "</td></tr>"; # to make a list of each file visited.
+  push @filelist_rows, "<tr><td align='left' valign='top'>" . $part . "</td><td valign='top' align='left' valign=top>" . $field. " <br>[" . $what. "]</td><td>" . (defined $root ? $root : "") . "</td></tr>"; # to make a list of each file visited.
 
 			return $root if $root;
 		}
@@ -136,6 +136,7 @@ sub expand_fields  {
 	  my $ex = $_;
 	  my $ox = $part ? $part . $ex : $ex;
 	  my $value = parse($orig, $ox);
+	  next unless $value;   # unresolved field: leave {field} as is (and avoid 'uninitialized value' warnings)
 	  my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >". $value . "</span>";
 	  $$field =~ s/\{\Q$ex\E\}/$spanvalue/gg if $value;
 	}

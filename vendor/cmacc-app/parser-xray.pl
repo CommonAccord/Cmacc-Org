@@ -141,6 +141,7 @@ foreach( $$field =~ /\{([^}]+)\}/g ) {
        my $ox = $part ? $part . $ex : $ex;
 
        my $value = parse($orig, $ox);
+	  next unless $value;   # unresolved field: leave {field} as is (and avoid 'uninitialized value' warnings)
   	  my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >(<b>". $ox . "</b> = ". $value . ")</span><br>";
 
 #       my $spanvalue = "<span title=\"" . $ox . "\" id=\"" . $ox . "\" >(". $value . ")</span>";
