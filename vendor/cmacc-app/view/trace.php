@@ -2,7 +2,7 @@
 
 $cssdoc = 'Doc/G/Z/CSS/Doc.css';
 
-$cssspecial = `perl $lib_path/parser-head.pl $path/$dir`;
+$cssspecial = shell_exec("perl $lib_path/parser-head.pl " . escapeshellarg("$path/$dir"));
 
 if (strlen($cssspecial) > 5){ 
   $cssdoc = $cssspecial ;
@@ -23,7 +23,7 @@ if (strlen($keyName) < 2) {
   $keyName = "r00t";
 }
 
-$document = `perl $lib_path/parser-trace.pl $path/$dir $keyName `;
+$document = shell_exec("perl $lib_path/parser-trace.pl " . escapeshellarg("$path/$dir") . " " . escapeshellarg($keyName));
 
 $minDocLength = 1;
 

@@ -28,7 +28,7 @@ if (strlen($keyName) < 2) {
         $openForm = "a";
       }
 
-$document = `perl $lib_path/parser-openedit.pl $path/$dir $keyName $openForm`;
+$document = shell_exec("perl $lib_path/parser-openedit.pl " . escapeshellarg("$path/$dir") . " " . escapeshellarg($keyName) . " " . escapeshellarg($openForm));
 
 echo "<form v=$_SERVER[PHP_SELF] method='post'>
         <textarea id='textedit' cols=120 rows=30 name='newcontent' style='font-size: 16px; padding:10px;'>";

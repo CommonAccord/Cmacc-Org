@@ -1,6 +1,6 @@
 <?php
 
-$htmlHead = `perl $lib_path/parser-head.pl $path/$dir`;
+$htmlHead = shell_exec("perl $lib_path/parser-head.pl " . escapeshellarg("$path/$dir"));
 
 if (strlen($htmlHead) > 5){ 
 
@@ -24,7 +24,7 @@ if (strlen($keyName) < 2) {
   $keyName = "r00t";
 }
 
-$document = `perl $lib_path/parser-xray.pl $path/$dir $keyName `;
+$document = shell_exec("perl $lib_path/parser-xray.pl " . escapeshellarg("$path/$dir") . " " . escapeshellarg($keyName));
 
 $minDocLength = 1;
 

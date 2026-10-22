@@ -15,7 +15,7 @@ if (strlen($keyName) < 2) {
   $keyName = "r00t";
 }
 
-$document = `perl $lib_path/parser.pl $path/$dir $keyName `;
+$document = shell_exec("perl $lib_path/parser.pl " . escapeshellarg("$path/$dir") . " " . escapeshellarg($keyName));
 
 
 if (strlen($document) > 1){ 

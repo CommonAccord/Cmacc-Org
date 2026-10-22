@@ -2,7 +2,7 @@
 
 $cssdoc = 'Doc/G/Z/CSS/Doc.css';
 
-$cssspecial = `perl $lib_path/parser-head.pl $path/$dir`;
+$cssspecial = shell_exec("perl $lib_path/parser-head.pl " . escapeshellarg("$path/$dir"));
 
 if (strlen($cssspecial) > 5){
   $cssdoc = $cssspecial ;
@@ -17,7 +17,7 @@ echo "<hr>";
 $lib_path = LIB_PATH;
 
 
-$document = `perl $lib_path/parser.pl $path/$dir $keyName $wrapName`;
+$document = shell_exec("perl $lib_path/parser.pl " . escapeshellarg("$path/$dir") . " " . escapeshellarg($keyName));
 
 $minDocLength = 1;
 
