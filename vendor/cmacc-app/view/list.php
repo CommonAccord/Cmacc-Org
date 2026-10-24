@@ -23,7 +23,11 @@ if(! ($dir == './')) {
         echo "<a href=" . INDEXNAME . "?" . VIEW . "=l&" . FILENAME . "=>Docs</a>/";
         echo "<a href=$_SERVER[PHP_SELF]?" . VIEW ."=l&" . FILENAME ."=".$rootdir['dirname']."/>" . $docpath."</a>/".$rootdir['filename']."</h3><br>";
 
-echo "<center><a href=" . URLFORDOCSINREPO . substr($dir, URLFORDOCSINREPOOFFSET) .">Github</a> &emsp;</div>";
+echo "<center>";
+if (URLFORDOCSINREPO) {
+  echo "<a href=" . URLFORDOCSINREPO . substr($dir, URLFORDOCSINREPOOFFSET) .">Github</a> &emsp;";
+}
+echo "</div>";
 //substr($dir, URLFORDOCSINREPOOFFSET)
 } 
 

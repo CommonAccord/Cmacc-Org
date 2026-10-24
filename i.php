@@ -10,7 +10,7 @@ DEFINE('KEYNAME' , 'k') ; // Pass variable to cmacc_helpers.php
 
 DEFINE('ROOT' ,dirname(__FILE__) ); // Root directory of site
 
-DEFINE('URLFORREPO', 'https://github.com/CommonAccord/Cmacc-Org');	// The repo home
+DEFINE('URLFORREPO', getenv('CMACC_REPO_URL') !== false ? getenv('CMACC_REPO_URL') : 'https://github.com/CommonAccord/Cmacc-Org');	// The repo home; CMACC_REPO_URL overrides it (empty hides repo links)
 
 DEFINE('LANDING_MD', 'S/About/Landing3.md');	// The website home moved because some bot keeps overwriting Landing.md
 
@@ -38,7 +38,7 @@ DEFINE('ASSETS_PATH', 'vendor/png');  // Create global variable to our css and j
 // URLFORREPO . "/blob/main/Doc/" 
 // URLFORDOCSINREPOOFFSET 0
 
-DEFINE('URLFORDOCSINREPO', URLFORREPO . "/blob/master/Doc/");	// Docs in the repo
+DEFINE('URLFORDOCSINREPO', URLFORREPO ? URLFORREPO . "/blob/" . (getenv('CMACC_REPO_BRANCH') ?: 'master') . "/Doc/" : '');	// Docs in the repo
 
 DEFINE('URLFORDOCSINREPOOFFSET' , 0);
 

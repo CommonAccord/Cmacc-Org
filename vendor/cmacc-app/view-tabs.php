@@ -13,11 +13,16 @@ echo "<a href=i.php?v=j&f=$dir>". "JSON(ish)" ."</a> ";
 
 echo " on ";
 
-echo "<a href=" . URLFORDOCSINREPO . substr($dir, URLFORDOCSINREPOOFFSET) . ">GitHub</a> ";
+if (URLFORDOCSINREPO) {
+  echo "<a href=" . URLFORDOCSINREPO . substr($dir, URLFORDOCSINREPOOFFSET) . ">GitHub</a> ";
+}
 
-# Open in VSCode
+# Open in VSCode: folder of the local checkout; CMACC_VSCODE_ROOT overrides it (empty hides the link)
 
-echo  "<a href='vscode://file//Users/jgh/Documents/GitHub/CommonAccord-Org/Doc/$dir'>(VSCode)</a> ";
+$_vscodeRoot = getenv('CMACC_VSCODE_ROOT') !== false ? getenv('CMACC_VSCODE_ROOT') : '/Users/jgh/Documents/GitHub/CommonAccord-Org';
+if ($_vscodeRoot) {
+  echo  "<a href='vscode://file/" . $_vscodeRoot . "/Doc/$dir'>(VSCode)</a> ";
+}
 
 # echo "<a href=" . URLFORREPO . "/search?utf8=✓&q=" . $dir . ">~PageRank </a>  &emsp; ";
 
@@ -41,9 +46,13 @@ echo "<a href=i.php?v=o&f=$dir&k=$keyName>". "OpenParameters" ."</a> ";
 
 echo "<a href=i.php?v=x&f=$dir&k=$keyName>Xray</a> ";
 
-$_compareFolder = basename(pathinfo($dir, PATHINFO_DIRNAME));
-$_compareUrl = "https://github.com/search?q=repo%3ACommonAccord%2FCmacc-Org+path%3A%22%2F" . rawurlencode($_compareFolder) . "%2F%22&type=code";
-echo "<a class='select' href='$_compareUrl'>Compare:/" . $_compareFolder . "/</a> ";
+# Compare = GitHub code search across the configured repo; only for GitHub repos.
+$_repoSlug = preg_match('~^https://github\.com/([^/]+/[^/]+?)/?$~', URLFORREPO, $_m) ? $_m[1] : '';
+if ($_repoSlug) {
+  $_compareFolder = basename(pathinfo($dir, PATHINFO_DIRNAME));
+  $_compareUrl = "https://github.com/search?q=repo%3A" . rawurlencode($_repoSlug) . "+path%3A%22%2F" . rawurlencode($_compareFolder) . "%2F%22&type=code";
+  echo "<a class='select' href='$_compareUrl'>Compare:/" . $_compareFolder . "/</a> ";
+}
 
 # echo "<a href=i.php?v=kvs&f=$dir> KVs</a> ";
 
