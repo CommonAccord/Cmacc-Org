@@ -1,0 +1,5 @@
+{#- Trace view body: every include visited, most recent first, with a plain-text preview of
+    the value it produced (main.trace_rows). Layout as legacy parser-trace.pl. -#}
+<table style='width:100%'><tr><th align='left' style='width:10%'>Prefix</th><th align='left' style='width:10%'>Key -- File</th><th align='left' style='width:80%'>Output</th></tr>
+{% for prefix, key, target, value in visits %}<tr><td align='left' valign='top'>{{ prefix }}</td><td valign='top' align='left'>{{ key }} <br>[{{ target }}]</td><td>{{ value }}</td></tr>
+{% endfor %}</table>

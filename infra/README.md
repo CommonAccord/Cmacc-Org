@@ -140,6 +140,10 @@ task pulse               # smoke test through the forward
 task port-forward:stop   # stop the forward
 task up                  # build, deploy the LOCKED image, port-forward, pulse
 task dev                 # build the working tree, deploy THAT build (override), forward, pulse
+task app:dev             # Python app + templates images, deployed together, forward 8081, pulse
+task app:test            # Python app unit tests
+task app:sweep           # every template through the Python engine; fails on error/timeout
+task parity              # parity gate: every template, legacy (8080) vs Python (8081); needs dev + app:dev
 ```
 
 Diagnostics (save re-deriving commands):
@@ -152,6 +156,7 @@ task sweep -- diff before.tsv after.tsv     # status counts + transitions
 task probe -- -l 5 '/i.php?v=l&f=G/' 'pattern'   # status, pattern counts, follow 5 links
 task diagrams [-- file.md ...]              # render-check Mermaid blocks; PNGs kept for review
 task test                                   # Python unit tests in the pinned image
+task vet -- pkg1 pkg2                       # PyPI + GitHub vetting table for new libraries
 ```
 
 - **lint-links**: deployed code must use relative links, never the legacy public host or `/i.php`; reviewed exceptions in an allow-list; hits in the corpus (`Doc/`, taken from upstream as-is) reported, not fatal; runs before every build
@@ -167,7 +172,7 @@ task test                                   # Python unit tests in the pinned im
 - **port-forward**: refuses a busy port; pid and log in `.agent-work/tmp/port-forward/`
 - In-progress files (diagram PNGs, forward pid/logs, pulse responses) all go to the git-ignored `.agent-work/tmp/`; override with `CMACC_WORK`
 - **sweep**: legacy parser in a throwaway offline container; "Missing file" includes the OS error, so include loops show as "Too many open files"
-- **probe / diagrams / test**: one-line diagnostics
+- **probe / diagrams / test / vet**: one-line diagnostics; `vet` is the only one that uses the network (PyPI, GitHub)
 - **pulse**:
   - fails on non-200, or on legacy error text in a 200 body
   - liveness only; not the acceptance checks
@@ -273,6 +278,7 @@ kubectl --context orbstack -n cmacc-local rollout restart deployment/cmacc-legac
 - Denial of service: one template can take the container down
   - the legacy parser has no budgets; on a runaway template (an include prefix that grows forever; one exists in the corpus) Perl grows until the kernel kills it
   - alone, only that Perl process dies and the page says "Nothing to Show"
-  - under concurrent load, that Perl plus the other workers can exceed the container's 512 MiB limit: the whole container is OOM-killed and restarts (seen under parallel load tests of every template)
+  - under concurrent load, that Perl plus the other workers can exceed the container's 512 MiB limit: the whole container is OOM-killed and restarts (seen once in two full `task parity` runs)
   - any client can trigger it with one GET; safe locally only because access is via the operator's forward
   - before any public exposure: a per-request memory limit for the Perl parser (e.g. `ulimit -v` in the PHP shell calls), or no public legacy at all
+  - the Python app is not affected: its budgets cut the render and show "Nothing to Show" ([decisions](../docs/decisions.md), D3, D4)

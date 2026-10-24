@@ -1,0 +1,22 @@
+{% import "marks.html" as marks %}
+<body style="margin:20;padding:0">
+{% include "header.html" %}
+{% include "tabs.html" %}
+{# Missing includes: engine Renderer.missing, reported as comments, not page text #}
+{% for m in missing %}<!-- missing include: {{ m }} -->
+{% endfor %}
+{# Open parameters: suggestions for unresolved names (marks.suggest), then the file as it is; Save posts to the Source view (main.save) #}
+<form method='post' action='i.php'>
+{# Text as legacy openedit.php writes it: header with date and epoch, suggestions, the file, note #}
+<textarea id='textedit' cols=120 rows=30 name='newcontent' style='font-size: 16px; padding:10px;'>//=Open parameters as of Datestamp:Timestamp ({{ stamp }} : (NOTE: in this view rendering will skip and fail to mention any missing [file-reference])):
+
+{% for name in names %}{{ marks.suggest(name) }}
+{% endfor %}//=Prior existing parameters:
+
+{{ existing }}</textarea><br>
+<input class="btn btn-info" type="submit" name="submit" value="Save">
+<input type="hidden" name="f" value="{{ path }}">
+<input type="hidden" name="v" value="source">
+Note: if you are on the public site, feel free to experiment.  Your changes are temporary and will be discarded when the site next updates from the Github repo.
+</form>
+</body>

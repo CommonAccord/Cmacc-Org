@@ -1,0 +1,8 @@
+# Corpus only.
+**
+!Doc/
+!Doc/**
+!File/
+!File/**
+**/.git
+**/.DS_Store

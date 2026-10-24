@@ -1,0 +1,45 @@
+[project]
+name = "cmacc"
+version = "0.1.0"
+description = "CommonAccord renderer (Python port)"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi==0.141.1",
+    "uvicorn==0.53.0",
+    "jinja2==3.1.6",
+    "pydantic-settings==2.15.0",
+    "fsspec==2026.9.0",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest==9.1.1",
+    "hypothesis==6.168.0",
+    "ruff==0.16.8",
+]
+
+# Style checks (task app:lint). Limits target long, branchy, verbose functions.
+[tool.ruff]
+line-length = 100
+# Runtime is 3.14; formatting targets 3.13 so 3.14-only syntax (e.g. unparenthesized
+# multi-exception `except`) is not introduced. Readability over newest syntax.
+target-version = "py313"
+
+[tool.ruff.lint]
+select = [
+    "E", "W", "F",  # pycodestyle errors/warnings, pyflakes
+    "I",            # import order
+    "C90",          # McCabe complexity
+    "PLR09",        # too many statements / branches / returns / arguments
+    "SIM", "RET",   # simpler constructs, return style
+    "UP", "B",      # modern syntax, likely bugs
+]
+
+[tool.ruff.lint.mccabe]
+max-complexity = 6
+
+[tool.ruff.lint.pylint]
+max-statements = 15
+max-branches = 6
+max-returns = 4
+max-args = 5

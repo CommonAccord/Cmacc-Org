@@ -1,0 +1,17 @@
+# Only the Python app, its locks and tests, and the icon folders.
+**
+!app/requirements.txt
+!app/requirements-test.txt
+!app/pyproject.toml
+!app/cmacc/
+!app/cmacc/**
+!app/tests/
+!app/tests/**
+!png/
+!png/**
+!image/
+!image/**
+!vendor/png/
+!vendor/png/**
+**/__pycache__
+**/.DS_Store
