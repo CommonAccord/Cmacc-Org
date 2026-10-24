@@ -1,0 +1,6 @@
+# Known legacy-host references awaiting a decision; one fixed string per line.
+# Each entry must be justified; remove it once the reference is fixed.
+# GA4GH consent form: sample value for {Framework.URL}; not a link to this app.
+Framework.URL=www.commonaccord.orG/GA4GH/Framework/V01
+# BrownEdu GISP: separate CommonAccord site, not this app.
+http://gisp.commonaccord.org

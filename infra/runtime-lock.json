@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "base_image": {
+    "reference": "php:8.4.27-apache-bookworm@sha256:e653ff90d7f6e2e6f81eddb07c864f1eae224ccbf5143f82a44f25e2f110e320",
+    "platform_manifests": {
+      "linux/arm64": "sha256:16980768c12225a95d471137f96541377fdad397798202c18470a3557746781e",
+      "linux/amd64": "sha256:55c0c31c13ca31a4fa00b882e60211730a858179af63198b7445a1105d1c53c9"
+    },
+    "php": "8.4.27",
+    "distribution": "debian:12",
+    "key_debian_packages": {
+      "apache2": "2.4.68-1~deb12u1",
+      "perl": "5.36.0-7+deb12u4",
+      "curl": "7.88.1-10+deb12u15",
+      "ca-certificates": "20250419~deb12u2"
+    }
+  },
+  "application_image": {
+    "reference": "cmacc-legacy@sha256:0d0b4fb24fadabcfcd57dce4412b2ff7a0ecc094657ab89aa0d4240366ad6d16",
+    "platform": "linux/arm64",
+    "source_revision": "cb214303a1a232cb5bc99f5e4b753c5d3e782f67",
+    "source_date_epoch": 1788685059,
+    "source_inventory": "/usr/local/share/cmacc/source.sha256",
+    "source_inventory_sha256": "b80f0072e70ebdedd77c99a3aa80b5db2d3ff3a14cbae16fb59a8d9c8309d7cf",
+    "source_file_count": 6839,
+    "package_inventory": "/usr/local/share/cmacc/packages.tsv",
+    "package_inventory_sha256": "c57110adbb9a7711dd7d2ffdf7c92826bf495728a0f7857e431b1443aca92cdf",
+    "package_count": 187
+  },
+  "toolchain_baseline": {
+    "orbstack": "2.2.3 (2020300)",
+    "docker": "29.4.0",
+    "buildx": "0.33.0",
+    "buildkit": "0.29.0",
+    "kubectl": "1.34.2",
+    "kubernetes": "1.35.6+orb1",
+    "dockerfile_frontend": "dockerfile.v0 (bundled with pinned BuildKit)"
+  },
+  "pinning_scope": {
+    "additional_package_downloads": false,
+    "external_document_urls": "Existing runtime URLs remain unchanged and are not immutable.",
+    "browser_assets": "Existing remote asset URLs remain unchanged.",
+    "host_toolchain": "Recorded tested baseline; host installation is operator-managed.",
+    "source_revision": "Identifies the legacy application/corpus baseline; additive infrastructure is identified by the final image digest."
+  }
+}
