@@ -23,6 +23,6 @@ jobs:
             git reset --hard origin/master
             chmod +x vendor/cmacc-app/parser.pl
             chmod +x vendor/cmacc-app/parser-*.pl
-            chown -R deploy:www-data .
+            chown -R deploy:www-data . || true
             chmod -R 775 .
             echo "Deploy completed at $(date)"
