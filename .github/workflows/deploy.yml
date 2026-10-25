@@ -17,6 +17,7 @@ jobs:
           username: ${{ secrets.DEPLOY_USER }}
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           script: |
+            set -e
             cd /var/www/commonaccord
             git fetch origin master
             git reset --hard origin/master
