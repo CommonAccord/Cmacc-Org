@@ -1,0 +1,84 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: cmacc-local
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cmacc-legacy
+  namespace: cmacc-local
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cmacc-legacy
+  template:
+    metadata:
+      labels:
+        app: cmacc-legacy
+    spec:
+      automountServiceAccountToken: false
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 33
+        runAsGroup: 33
+        seccompProfile:
+          type: RuntimeDefault
+      containers:
+        - name: web
+          # Built locally in OrbStack; update this digest after a deliberate rebuild.
+          image: cmacc-legacy@sha256:0d0b4fb24fadabcfcd57dce4412b2ff7a0ecc094657ab89aa0d4240366ad6d16
+          imagePullPolicy: Never
+          env:
+            # Deployment-specific repo links (GitHub / Compare); empty = links hidden.
+            - name: CMACC_REPO_URL
+              value: https://github.com/CommonAccord/Cmacc-Org
+            - name: CMACC_REPO_BRANCH
+              value: master
+            # VS Code link to a local checkout: none in a container, so hidden.
+            - name: CMACC_VSCODE_ROOT
+              value: ""
+          ports:
+            - name: http
+              containerPort: 8080
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop: [ALL]
+          resources:
+            requests:
+              cpu: 100m
+              memory: 128Mi
+            limits:
+              cpu: "1"
+              memory: 512Mi
+          startupProbe:
+            httpGet:
+              path: /i.php?v=l&f=G/
+              port: http
+            periodSeconds: 2
+            failureThreshold: 30
+          readinessProbe:
+            httpGet:
+              path: /i.php?v=l&f=G/
+              port: http
+            periodSeconds: 10
+          livenessProbe:
+            tcpSocket:
+              port: http
+            periodSeconds: 20
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cmacc-legacy
+  namespace: cmacc-local
+spec:
+  type: ClusterIP
+  selector:
+    app: cmacc-legacy
+  ports:
+    - name: http
+      port: 80
+      targetPort: http

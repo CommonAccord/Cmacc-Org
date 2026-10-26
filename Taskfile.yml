@@ -1,0 +1,102 @@
+# Developer tasks for the containerized legacy application. Requires go-task
+# (brew install go-task). PHP and Perl run only inside containers.
+version: '3'
+
+tasks:
+  default:
+    cmds:
+      - task --list
+    silent: true
+
+  doctor:
+    desc: Check required development tools and print install commands for anything missing
+    cmds:
+      - infra/scripts/doctor.sh
+    silent: true
+
+  lint-links:
+    desc: Fail if deployed code hardcodes the legacy public host instead of relative links (corpus hits reported)
+    cmds:
+      - infra/scripts/lint-links.sh
+    silent: true
+
+  lint-includes:
+    desc: Report include targets that only work on case-insensitive disks, and missing targets (--strict to fail)
+    cmds:
+      - infra/scripts/lint-includes.sh {{.CLI_ARGS}}
+    silent: true
+
+  build:
+    desc: Build the pinned legacy image on OrbStack and verify it (CMACC_IMAGE_TAG to override the tag)
+    deps: [lint-links, lint-includes]
+    cmds:
+      - infra/scripts/build.sh
+    silent: true
+
+  deploy:
+    desc: Apply infra/k8s/local.yaml to OrbStack and wait for the rollout (CMACC_IMAGE to test another local image)
+    cmds:
+      - infra/scripts/deploy.sh
+    silent: true
+
+  port-forward:
+    desc: Start a background port-forward to the local Service on 127.0.0.1:8080 (CMACC_PORT to override)
+    cmds:
+      - infra/scripts/port-forward.sh start
+    silent: true
+
+  port-forward:stop:
+    desc: Stop the background port-forward started by 'task port-forward'
+    cmds:
+      - infra/scripts/port-forward.sh stop
+    silent: true
+
+  up:
+    desc: Build, deploy, forward, and pulse-test in one step
+    cmds:
+      - task: build
+      - task: deploy
+      - task: port-forward
+      - task: pulse
+
+  dev:
+    desc: Build the working tree, deploy exactly that build (override), forward, pulse
+    vars:
+      TAG:
+        sh: echo "cmacc-legacy:dev-$(git rev-parse --short HEAD)"
+    cmds:
+      - task: lint-links
+      - task: lint-includes
+      - CMACC_IMAGE_TAG={{.TAG}} infra/scripts/build.sh
+      - CMACC_IMAGE={{.TAG}} infra/scripts/deploy.sh
+      - infra/scripts/port-forward.sh start
+      - infra/scripts/pulse.sh
+
+  sweep:
+    desc: "Render templates with the legacy parser offline; TSV of ok/empty/missing_file/timeout (args: -i image, --changed, templates; or: diff a.tsv b.tsv)"
+    cmds:
+      - infra/scripts/render-sweep.sh {{.CLI_ARGS}}
+    silent: true
+
+  probe:
+    desc: "Fetch a page from the running server; status, pattern counts, optional link check (args: [-l N] path [pattern ...])"
+    cmds:
+      - infra/scripts/probe.sh {{.CLI_ARGS}}
+    silent: true
+
+  diagrams:
+    desc: Render-check every Mermaid block (args = Markdown files; default all tracked docs); PNGs kept for review
+    cmds:
+      - infra/scripts/check-diagrams.sh {{.CLI_ARGS}}
+    silent: true
+
+  test:
+    desc: Run the Python unit tests in the pinned image
+    cmds:
+      - infra/scripts/pyrun.sh -m unittest discover -s tests/renderer {{.CLI_ARGS}}
+
+  pulse:
+    desc: Smoke-test the locally running server (CMACC_BASE_URL, default http://127.0.0.1:8080; start 'task port-forward' first)
+    cmds:
+      - infra/scripts/pulse.sh
+    silent: true

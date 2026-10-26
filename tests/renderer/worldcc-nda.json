@@ -1,0 +1,14 @@
+{
+  "name": "worldcc-nda-design",
+  "document": "G/WorldCC/NDA-Design/Form/0.md",
+  "key": "r00t",
+  "min_characters": 2000,
+  "required_text": ["Non-Disclosure Agreement", "Confidential Information", "Purpose"],
+  "reference_url": "https://www.commonaccord.org/i.php?f=%2FG%2FWorldCC%2FNDA-Design%2FForm%2F0.md&k=r00t&v=d",
+  "discovery": {
+    "organization_home": "https://commonaccord.wordpress.com/",
+    "organization_catalog_link": "https://www.commonaccord.org/i.php?v=l&f=G/",
+    "method": "Organization homepage links to catalog; indexed organization document render identifies this template. Live catalog crawl blocked by connection refusal on 2026-09-22.",
+    "reference_capture": null
+  }
+}

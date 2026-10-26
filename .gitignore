@@ -36,3 +36,6 @@ Doc/G/a16z-contracts/licenses/*
 
 
 Doc/G/NVCA/2020/SPA/Form/Was*
+
+# Local tool output: parity evidence, port-forward logs, diagram renders
+/.agent-work/
