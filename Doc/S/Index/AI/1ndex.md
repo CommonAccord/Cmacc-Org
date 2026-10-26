@@ -1,4 +1,4 @@
-a16z-Microsoft:_AI-for-Startups.=[G/A16Z-AI-for-Startups/0.md]
+a16z-Microsoft-AI-for-Startups.=[G/a16z-ai-for-startups/0.md]
 
 OpenSource_AI_Definition.=[G/OSAID/1.0-RC.md] /// Open Source Initiative's  AI Definition, release candidate 1.0.
 
@@ -6,11 +6,11 @@ Calif_SB1047.=[G/US/CA/Legis/20240SB1047/Sec/226.md] /// Text of California's SB
 
 MistralDataProcessing.=[G/Mistral-AI/Data_Processing_Agreement/Form/Agmt-Exhibits-Appendix.md] /// An example of a user agreement.  A bit old.
 
-MS-DUA-AI-Dev.=[G/Microsoft-DUA-OAI/Demo/Acme-Quake.md] /// Microsoft - Data Use Agreement for Open AI Model. Old project.
+MS-DUA-AI-Dev.=[G/Microsoft/DUA-OAI/Demo/Acme-Quake.md] /// Microsoft - Data Use Agreement for Open AI Model. Old project.
 
 MS-DUA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md] ///Microsoft - Open Use of Data Agreement.  Old.
 
-EU_AI_Act:=[G/EU/Artificial_Intelligence_Act/0.md] /// Only partially implemented, it is very long.
+EU_AI_Act.=[G/EU/Artificial_Intelligence_Act/0.md] /// Only partially implemented, it is very long.
 
 Open-Weights.=[G/Open-Weights/Pr0b/Def-License.md]
 
