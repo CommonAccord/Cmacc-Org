@@ -1,35 +1,44 @@
-a16z-Microsoft-AI-for-Startups.=[G/a16z-ai-for-startups/0.md]
+Ti=Artificial Intelligence
 
-OpenSource_AI_Definition.=[G/OSAID/1.0-RC.md] /// Open Source Initiative's  AI Definition, release candidate 1.0.
+=The EU AI Act and other AI law, principles and governance frameworks, definitions of open AI, and model contracts for AI development and data use.
 
-Calif_SB1047.=[G/US/CA/Legis/20240SB1047/Sec/226.md] /// Text of California's SB 1047, vetoed by the Governor.  The full Bill is also available.
+Up-=[Index/1ndex.md] /// Index home
 
-MistralDataProcessing.=[G/Mistral-AI/Data_Processing_Agreement/Form/Agmt-Exhibits-Appendix.md] /// An example of a user agreement.  A bit old.
+=<b>Law & official policy</b>. Binding and official AI texts.
 
-MS-DUA-AI-Dev.=[G/Microsoft/DUA-OAI/Demo/Acme-Quake.md] /// Microsoft - Data Use Agreement for Open AI Model. Old project.
+EU-AIAct.=[G/EU/Artificial_Intelligence_Act/0.md] /// <i>(EU)</i> Regulation (EU) 2024/1689, the AI Act. Long, and only partly implemented as a Prose Object.
 
-MS-DUA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md] ///Microsoft - Open Use of Data Agreement.  Old.
+EU-AIAct-Amended.=[G/EU/Artificial_Intelligence_Act/2026-Amended.md] /// <i>(EU)</i> The AI Act as amended by Regulation (EU) 2026/1744 (Digital Omnibus on AI), in a single self-contained file.
 
-EU_AI_Act.=[G/EU/Artificial_Intelligence_Act/0.md] /// Only partially implemented, it is very long.
+US-CA-SB1047/=[G/US/CA/Legis/20240SB1047/] /// <i>(US)</i> California SB 1047 (Safe and Secure Innovation for Frontier AI Models Act), vetoed; bill text and sections.
 
-Open-Weights.=[G/Open-Weights/Pr0b/Def-License.md]
+US-AIBillOfRights.=[G/Gov/Whitehouse/Blueprint-for-an-AI-Bill-of-Rights/0.md] /// <i>(US)</i> White House Blueprint for an AI Bill of Rights.
 
-DefinitionsLibrary.sec=<ol><li><b>Open Source AI Definition</b><br>{OpenSource_AI_Definition.Def.Sec}</li><li><b>California SB 1047</b><br>{Calif_SB1047.Def.Sec}</li><li><b>Mistral Data Processing Agreement</b><br>{MistralDataProcessing.Agmt.Def.Sec}</li><li><b>Microsoft Data Use Agreement for Open AI Model</b><br>{MS-DUA-AI-Dev.Def.Sec}</li><li><b>Microsoft Open Use of Data Agreement</b><br>{MS-DUA.Def.Sec}</li><li><b>EU Artificial Intelligence Act</b><br>{EU_AI_Act:Def.Sec}</li><li><b>Open-Weights</b><br>{Open-Weights.Def.Sec}</li></ol>
+US-EO-SafeAI.=[G/Gov/Whitehouse/Ensuring-Safe-Secure-and-Trustworthy-AI/0.md] /// <i>(US)</i> White House voluntary commitments on safe, secure and trustworthy AI.
 
-Note=These fiddly things are needed to make the cross-references and defined term links in the texts correctly refer to the text targets when rendered via prefixing, i.e., by clicking on one of the prefixes on the left above.  This is a recursive system.    
+US-CA-SB53-=[G/US-CA-Legis-TFAIA.md] /// <i>(US)</i> California SB 53 (Transparency in Frontier Artificial Intelligence Act), chaptered; raw text of the legislative page.
 
-OpenSource_AI_Definition.!!!={!!!}OpenSource_AI_Definition.
+=<b>Principles & governance frameworks</b>. Soft law and policy frameworks for responsible AI.
 
-Calif_SB1047.!!!={!!!}Calif_SB1047.
+OECD-AI.=[G/OECD/AI-Principles/Recommendations-of-Council-On-AI.md] /// <i>(INT)</i> OECD Council Recommendation on AI (the OECD AI Principles).
 
-MistralDataProcessing.!!!={!!!}MistralDataProcessing.
+MS-AIAccess/=[G/Microsoft/AI-Access-Principles/] /// <i>(INT)</i> Microsoft AI Access Principles: announcement, principles and tenets.
 
-MS-DUA-AI-Dev.!!!={!!!}MS-DUA-AI-Dev.
+a16z-AI-=[G/a16z-ai-for-startups/0.md] /// <i>(US)</i> a16z policy paper on AI for startups.
 
-MS-DUA.!!!={!!!}MS-DUA.
+=<b>Open AI definitions & licences</b>. What counts as open source AI, and licences for models and weights.
 
-EU_AI_Act:!!!={!!!}EU_AI_Act:
+OSAID.=[G/OSAID/1.0-RC.md] /// <i>(INT)</i> Open Source Initiative Open Source AI Definition, release candidate 1.0.
 
-Open-Weights.!!!={!!!}Open-Weights.
+OpenWeights/=[G/Open-Weights/] /// <i>(INT)</i> Open Weights: a definition and open-source-compatible licence for neural network weights.
 
-!!!=#
+GPT-License.=[G/GPT-License/Form/0.md] /// <i>(GEN)</i> Experiment: a universal licence drafted with ChatGPT and formalised as a Prose Object.
+
+=<b>Model agreements for AI development</b>. Agreements for building, providing and using AI systems.
+
+MS-DUA-OAI.=[G/Microsoft/DUA-OAI/Form/0.md] /// <i>(INT)</i> Microsoft data use agreement for an open AI model, with and without an NDA.
+
+Mistral-DPA.=[G/Mistral-AI/Data_Processing_Agreement/Agmt/0.md] /// <i>(EU)</i> See also. Data processing agreement from an AI provider. See the Data chapter.
+
+OUDA.=[G/Open-Use-of-Data-Agreement/Cmacc/Form/0.md] /// <i>(GEN)</i> See also. Open Use of Data Agreement. See the Data chapter.
+

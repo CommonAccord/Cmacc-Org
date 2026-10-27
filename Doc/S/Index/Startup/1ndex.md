@@ -1,29 +1,36 @@
 Ti=Startup Documents
 
-Note=This is a collection of more recent work on startup company documents. These are only the ones that are specifically intended for startups. Look in other categories for documents of general purpose that might also be useful for startups.
+Up-=[Index/1ndex.md] /// Index home
 
-Other Indexes:=<table><tr><td> 
+500Startups-KISS/=[G/500Startups-KISS/] /// Startup documents
 
-SaaS-=[S/Index/DataSharing/SaaS.md]
+a16z-ai-for-startups/=[G/a16z-ai-for-startups/] /// AI/Principles
 
-Employee-=[S/Index/Employ/1ndex.md]
+a16z-contracts/=[G/a16z-contracts/licenses/pr0b/] /// 
 
-LLC-=[S/Index/LLC.md]
+Acme-Ang-YC-Note/=[G/Acme-Ang-YC-Note/] /// Finance/Venture
 
-Note-=[S/Index/Startup/InvestmentNotes.md]
+CabinetBondard/=[G/CabinetBondard/] /// French startup lawyer
 
-Privacy-=[S/Index/Privacy.md]
+Cooley-Employee-CIIA-US/=[G/Cooley-Employee-CIIA-US/] /// Confidential Info and Invention Assignment
 
---=</td></tr></table>
+CooleyGo.NDA/=[G/CooleyGo/NDA/] /// Startup docs
 
-SeriesAA-YC:=[G/YCombinator-SeriesAA/Form/Binder_v01.md]
+NVCA.Acme.SeriesA-=[G/NVCA/2020/Binder/Acme-SeriesA/Center.md]
 
-NVCA/=[G/NVCA/2020/Binder/Acme-SeriesA/] - Deepest work on objects - 
+SeriesSeed/=[G/SeriesSeed/] /// Finance/Venture
 
-SeriesA-Lipshaw/=[G/Lipshaw-EVCL/Demo/]
+SeriesSeed-Cooley/=[G/SeriesSeed-Cooley/] /// Finance/Venture
 
-France-TermSheet-Galion/=[G/GalionProject-TermSheet/]
+TechStars-BridgeForms-ConvertibleNote/=[G/TechStars-BridgeForms-ConvertibleNote/] /// Finance/Venture
 
-France-SharePurchase-Bondard-=[G/CabinetBondard/CessionPartsSAS-CmA/Sec/0.md]
+Techstars-Equity/=[G/Techstars-Equity/] /// Finance/Venture
 
-KISS/=[G/500Startups-KISS/] - incomplete
+YCombinator-SaaS/=[G/YCombinator-SaaS/] /// Commerce/Online
+
+YCombinator-SAFE/=[G/YCombinator-SAFE/] /// Finance/Venture
+
+YCombinator-SAFE-2020/=[G/YCombinator-SAFE-2020/] /// Finance/Venture
+
+YCombinator-SeriesAA/=[G/YCombinator-SeriesAA/] /// Finance/Venture
+
