@@ -1,0 +1,45 @@
+{#- Depth control for the Document view: fold the document by nesting level.
+    Native HTML/CSS: radio buttons pick a depth; CSS :has() hides everything deeper.
+    Data: max_depth from the engine (Renderer.max_depth, via main.document_view);
+    each value span carries data-depth and data-cmacc-title (marks.html, doc macro). -#}
+<style>
+  {#- Anchor links land below the sticky bar #}
+  html { scroll-padding-top: 3em; }
+
+  {#- Sticky bar with one button per depth, plus All #}
+  .cmacc-depth-control { position: sticky; top: 0; z-index: 1000; display: flex; flex-wrap: wrap;
+    align-items: center; gap: 2px; padding: 5px 12px; background: #f5f5f5;
+    border-bottom: 1px solid #ccc; font: 12px sans-serif; }
+  .cmacc-depth-control input { display: none; }
+  .cmacc-depth-control label { min-width: 22px; padding: 2px 6px; text-align: center; cursor: pointer;
+    border: 1px solid #bbb; border-radius: 3px; background: #fff; color: #333; }
+  .cmacc-depth-control input:checked + label { background: #2a7a2a; border-color: #2a7a2a; color: #fff; }
+
+  {#- Folded span: content hidden, "(Key.Name)" label shown instead #}
+  .cmacc-span.cmacc-folded > .cmacc-content { display: none; }
+  .cmacc-span.cmacc-folded::after { content: "(" attr(data-cmacc-title) ")"; color: #2a7a2a;
+    font-style: italic; font-weight: bold; font-size: 0.85em; cursor: pointer; }
+
+  {#- Choosing depth n folds the spans at depth n + 1; everything deeper sits inside them #}
+  {%- for n in range(1, max_depth) %}
+  body:has(#cmacc-depth-{{ n }}:checked) .cmacc-span[data-depth="{{ n + 1 }}"] > .cmacc-content { display: none; }
+  body:has(#cmacc-depth-{{ n }}:checked) .cmacc-span[data-depth="{{ n + 1 }}"]::after {
+    content: "(" attr(data-cmacc-title) ")"; color: #2a7a2a; font-style: italic; font-weight: bold; font-size: 0.85em; }
+  {%- endfor %}
+</style>
+
+{#- Buttons: 1 .. max_depth, then All (selected on load) #}
+<div class="cmacc-depth-control"><b>Show depth:</b>
+{%- for n in range(1, max_depth + 1) %}
+  <input type="radio" name="cmacc-depth" id="cmacc-depth-{{ n }}"><label for="cmacc-depth-{{ n }}" title="Show depth {{ n }}">{{ n }}</label>
+{%- endfor %}
+  <input type="radio" name="cmacc-depth" id="cmacc-depth-all" checked><label for="cmacc-depth-all" title="Expand all">All</label>
+</div>
+
+{#- Right-click a span to fold or unfold just that span (no native equivalent) #}
+<script>
+  document.addEventListener("contextmenu", (event) => {
+    const span = event.target.closest(".cmacc-span");
+    if (span) { event.preventDefault(); span.classList.toggle("cmacc-folded"); }
+  });
+</script>

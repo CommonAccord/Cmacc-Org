@@ -1,0 +1,21 @@
+{% include "header.html" %}
+<body style="margin:20;padding:0">
+{% include "tabs.html" %}
+{% if notice %}<h1>{{ notice }}</h1><br>{% endif %}
+{% if error %}<span style="color: red">{{ error }}</span>{% endif %}
+{# One row per source line. Data: main.source_rows (key, key_kind, value, link, target, parts, comment). #}
+<div><table class='TFtable'>
+{% for r in rows %}<tr id="{{ r.key }}"><td class='table-key-source'>
+{#- Key cell: plain text (key has spaces or ends ':'), expand link (ends '.': render its r00t), or defined-term link -#}
+{%- if r.key_kind == "plain" %}{{ r.key }}
+{%- elif r.key_kind == "expand" %}<a class='expand' href="i.php?v=d&f={{ path }}&k={{ r.key }}r00t">{{ r.key }}</a>
+{%- else %}<a href="i.php?v=d&f={{ path }}&k={{ r.key }}" class='definedterm'>{{ r.key }}</a>{% endif -%}
+</td><td width='20px' align='center' valign='top'> = </td><td class='table-value-source'>
+{#- Value cell: link for remote / folder / include values; otherwise text with each {placeholder} linked to its rendering. parts alternate text, name. -#}
+{%- if r.link == "remote" %}<a href="{{ r.target }}">{{ r.value }}</a>
+{%- elif r.link == "folder" %}<a href="i.php?v=l&f={{ r.target }}/">{{ r.value }}</a>
+{%- elif r.link == "include" %}<a href="i.php?v=s&f={{ r.target }}">{{ r.value }}</a>
+{%- else %}{% for part in r.parts %}{% if loop.index is even %}{<a href="i.php?v=d&f={{ path }}&k={{ part }}" class=variable>{{ part }}</a>}{% else %}{{ part | safe }}{% endif %}{% endfor %}{% endif %} {{ r.comment }}</td></tr>
+{% endfor %}</table></div>
+{{ ("<br>" * 36) | safe }}
+</body>

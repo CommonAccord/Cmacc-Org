@@ -1,0 +1,41 @@
+{#- Inline markup used by the engine and views. Keys are escaped; values are corpus HTML (Markup). -#}
+
+{#- Document view: nested, depth-tagged spans; the depth control collapses them by data-depth.
+    Byte-for-byte the legacy parser's markup: single quotes, and only ' escaped in the key. -#}
+{%- macro doc(key, value, depth) -%}
+{%- set k = key.replace("'", "&#39;") | safe -%}
+<span title='{{ k }}' id='{{ k }}' data-depth='{{ depth }}' data-cmacc-title='{{ k }}' class='cmacc-span'><span class='cmacc-content'>{{ value }}</span></span>
+{%- endmacro -%}
+
+{#- Trace view: each resolved value titled with its key.
+    Byte-for-byte parser-trace.pl: double quotes, key as written (not escaped). -#}
+{%- macro trace(key, value, depth) -%}
+{%- set k = key | safe -%}
+<span title="{{ k }}" id="{{ k }}" >{{ value }}</span>
+{%- endmacro -%}
+
+{#- Xray view: key and value shown inline, one per line.
+    Byte-for-byte parser-xray.pl: double quotes, key as written (not escaped). -#}
+{%- macro xray(key, value, depth) -%}
+{%- set k = key | safe -%}
+<span title="{{ k }}" id="{{ k }}" >(<b>{{ k }}</b> = {{ value }})</span><br>
+{%- endmacro -%}
+
+{#- Unresolved placeholders: every brace highlighted, as in the legacy views. -#}
+{%- macro brace_open() -%}<span class='missing'>{{ "{" }}{%- endmacro -%}
+{%- macro brace_close() -%}{{ "}" }}</span>{%- endmacro -%}
+
+{#- Open parameters: a suggested source line per unresolved name, by corpus naming convention. -#}
+{%- macro suggest(name) -%}
+{%- if name.startswith("DefT.") -%}{%- set term = name[5:] -%}
+{{ term }}=<a class='definedterm' href='{!!!}DefT.{{ term }}'>{{ term.replace("_", " ") }}</a>
+{%- elif name.startswith("_") -%}{%- set term = name[1:] -%}
+{{ term }}=<a class='definedterm' href='{!!!}DefT.{{ term }}'>{{ term.replace("_", " ") }}</a>
+{%- elif name.startswith("FtNt.") -%}
+{{ name }}=<sup><a class='xref' href='{!!!}{{ name[:-5] }}.sec'>{{ name[5:-5] }}</a></sup>
+{%- elif name.endswith(".Xnum") -%}
+{{ name }}=<a class='xref' href='{!!!}{{ name[:-5] }}.sec'>{{ name[:-5] }}</a>
+{%- else -%}
+{{ name }}=
+{%- endif -%}
+{%- endmacro -%}

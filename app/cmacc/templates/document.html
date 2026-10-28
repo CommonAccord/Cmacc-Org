@@ -1,0 +1,11 @@
+{# Page for every document view. Data: main.document_view (css, tabs, depth, numbering, body, missing). #}
+<!DOCTYPE html><head><title>{{ path }}</title><link href='{{ css }}' rel='stylesheet' /> <link rel='icon' href='vendor/png/CmA-Square.png'></head><body>
+{% if tabs %}{% include "tabs.html" %}<hr>{% endif %}
+{# Missing includes: engine Renderer.missing, reported as comments, not page text #}
+{% for m in missing %}<!-- missing include: {{ m }} -->
+{% endfor %}{# depth.html = depth-control bar (Document view only); body = engine output after brace highlighting #}
+{% if body is not none %}{% if depth %}{% include "depth.html" %}{% endif %}
+{{ body }}
+{% if numbering %}<script src='Doc/G/Z/CSS/Numbering.js'></script>
+{% endif %}{{ ("<br>" * 31) | safe }}{% else %}Nothing to Show{% endif %}
+</body>

@@ -1,0 +1,95 @@
+# Python renderer + templates image (M4/M5). Deploy with `task app:dev`, which
+# sets both images by digest. The init container copies the corpus from the
+# templates image into a Pod-local volume; the app reads and saves there.
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cmacc-app
+  namespace: cmacc-local
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cmacc-app
+  template:
+    metadata:
+      labels:
+        app: cmacc-app
+    spec:
+      automountServiceAccountToken: false
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 65532
+        runAsGroup: 65532
+        fsGroup: 65532
+        seccompProfile:
+          type: RuntimeDefault
+      volumes:
+        - name: data
+          emptyDir: {}
+      initContainers:
+        - name: templates
+          image: cmacc-templates:dev
+          imagePullPolicy: Never
+          volumeMounts:
+            - name: data
+              mountPath: /data
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop: [ALL]
+      containers:
+        - name: app
+          image: cmacc-app:dev
+          imagePullPolicy: Never
+          env:
+            - name: CMACC_REPO_URL
+              value: https://github.com/CommonAccord/Cmacc-Org
+            - name: CMACC_REPO_BRANCH
+              value: master
+          ports:
+            - name: http
+              containerPort: 8080
+          volumeMounts:
+            - name: data
+              mountPath: /data
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop: [ALL]
+          resources:
+            requests:
+              cpu: 100m
+              memory: 128Mi
+            limits:
+              cpu: "1"
+              memory: 512Mi
+          startupProbe:
+            httpGet:
+              path: /i.php?v=l&f=G/
+              port: http
+            periodSeconds: 2
+            failureThreshold: 30
+          readinessProbe:
+            httpGet:
+              path: /i.php?v=l&f=G/
+              port: http
+            periodSeconds: 10
+          livenessProbe:
+            tcpSocket:
+              port: http
+            periodSeconds: 20
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cmacc-app
+  namespace: cmacc-local
+spec:
+  type: ClusterIP
+  selector:
+    app: cmacc-app
+  ports:
+    - name: http
+      port: 80
+      targetPort: http

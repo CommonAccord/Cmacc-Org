@@ -1,0 +1,17 @@
+{% include "header.html" %}
+<body>
+{# Folder listing. Data: main.list_view (folder, parent, name, intro, entries, readme paragraphs). #}
+<div class="row"><div class="container"><div class="col-lg-12">
+{% if folder %}<div id='updir'><h3 class='sc subtitle'><a href=i.php><img src='png/CmA-Square.png' height=25></a><a href=i.php?v=l&f=>Docs</a>/<a href=i.php?v=l&f={{ parent }}/>{{ parent }}</a>/{{ name }}</h3><br>
+<center>{% if repo.docs %}<a href={{ repo.docs }}{{ folder }}>Github</a> &emsp;{% endif %}</center></div>{% endif %}
+{# Intro: the folder's listintro.html or list.html, inserted as written #}
+{% if intro %}<div>{{ intro }}</div>{% endif %}
+{# Entries: subfolders link to their listing; files link to their Source view #}
+<div class="listings"><div id='content-list'>
+{% for n, is_dir in entries %}{% if is_dir %}<br><a href=i.php?v=l&f={{ folder }}{{ n }}/ id='{{ n }}' title='{{ n }}'><img height=20 src='png/folder.png'> {{ n }}</a>
+{% else %}<br><a href=i.php?v=s&f={{ folder }}{{ n }} id='{{ n }}' title='{{ n }}'><img height=20 src='png/play.png'> {{ n }}</a>
+{% endif %}{% endfor %}</div></div>
+{# README: paragraphs split on blank lines in main.list_view, joined with <br> #}
+{% if readme %}<div><table><tr><td valign='top'><b>README.md:</b></td><td> &emsp; </td><td>{% for p in readme %}{{ p }}{% if not loop.last %}<br>{% endif %}{% endfor %}</td></tr></table></div>{% endif %}
+</div></div></div>
+</body>
