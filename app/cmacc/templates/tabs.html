@@ -1,0 +1,14 @@
+{# Tab bar shared by document and source views. Data: context from main.dispatch (path, key, name, folder, repo). #}
+{# Breadcrumb: home / Docs / folder / file #}
+<b><a href=i.php><img src='vendor/png/CmA-Square.png' height=20>/</a></b><a href=i.php?v=l&f=>Docs</a>/<a href=i.php?v=l&f={{ folder }}/>{{ folder }}</a>/<b>{{ name }}</b>
+<br></h4>
+{# Source views of this file; GitHub link only when main.repo() has a repo URL #}
+ &emsp; Source views: <a href=i.php?v=s&f={{ path }}>Source</a> <a href=i.php?v=j&f={{ path }}>JSON(ish)</a>
+{% if repo.docs %} on <a href={{ repo.docs }}{{ path }}>GitHub</a>{% endif %}
+{# Rendered views of this file at the current key #}
+ &emsp; Doc views: <b><a href=i.php?v=d&f={{ path }}&k={{ key }}>Document</a></b> (&k={{ key }}):
+<a href=i.php?v=v&f={{ path }}&k={{ key }}>Visual</a> <a href=i.php?v=p&f={{ path }}&k={{ key }}>Print</a>
+Technical: <a href=i.php?v=o&f={{ path }}&k={{ key }}>OpenParameters</a> <a href=i.php?v=x&f={{ path }}&k={{ key }}>Xray</a>
+<a href=i.php?v=t&f={{ path }}&k={{ key }}>Trace</a>
+{# Compare: GitHub code search for this folder; only for GitHub repos (main.repo slug) #}
+{% if repo.slug %}{% set folder_name = folder.split('/')[-1] %}<a class='select' href='https://github.com/search?q=repo%3A{{ repo.slug | urlencode | replace("/", "%2F") }}+path%3A%22%2F{{ folder_name | urlencode }}%2F%22&type=code'>Compare:/{{ folder_name }}/</a>{% endif %}

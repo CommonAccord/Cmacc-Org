@@ -78,6 +78,12 @@ tasks:
       - infra/scripts/render-sweep.sh {{.CLI_ARGS}}
     silent: true
 
+  parity:
+    desc: "Parity gate: one view's text for every template, legacy (8080) vs Python (8081); run 'task dev' and 'task app:dev' first (args: --view d|v|p|m|x|o, --key k, --jobs n, templates)"
+    cmds:
+      - infra/scripts/parity.sh {{.CLI_ARGS}}
+    silent: true
+
   probe:
     desc: "Fetch a page from the running server; status, pattern counts, optional link check (args: [-l N] path [pattern ...])"
     cmds:
@@ -94,6 +100,47 @@ tasks:
     desc: Run the Python unit tests in the pinned image
     cmds:
       - infra/scripts/pyrun.sh -m unittest discover -s tests/renderer {{.CLI_ARGS}}
+
+  vet:
+    desc: "Vet PyPI packages: version, release date, Python 3.14 support, license, GitHub stars/activity (args = package names)"
+    cmds:
+      - python3 tools/vet_packages.py {{.CLI_ARGS}}
+    silent: true
+
+  app:test:
+    desc: Python app unit tests (builds the test image first)
+    cmds:
+      - infra/scripts/app-image.sh test
+      - docker --context ${CMACC_CONTEXT:-orbstack} run --rm --pull=never --network none cmacc-app:test
+
+  app:dev:
+    desc: Build app + templates images, deploy both to the local cluster, forward to 127.0.0.1:8081, pulse
+    cmds:
+      - task: lint-links
+      - task: lint-includes
+      - infra/scripts/app-image.sh app
+      - infra/scripts/app-image.sh templates
+      - infra/scripts/app-deploy.sh
+      - CMACC_SERVICE=cmacc-app CMACC_PORT=8081 infra/scripts/port-forward.sh start
+      - CMACC_PORT=8081 infra/scripts/pulse.sh
+
+  ruff:
+    desc: "Ruff on the Python app, config from app/pyproject.toml (args: check | check --fix | format [--check]; default check)"
+    cmds:
+      - infra/scripts/ruff.sh {{.CLI_ARGS}}
+
+  app:lint:
+    desc: Style gate for the Python app - ruff check + format check (no changes)
+    cmds:
+      - infra/scripts/ruff.sh check --output-format concise
+      - infra/scripts/ruff.sh format --check
+
+  app:sweep:
+    silent: true
+    desc: "Render every template with the Python engine; fails on any error or timeout (args: --mode plain|trace|xray, templates)"
+    cmds:
+      - infra/scripts/app-image.sh test
+      - docker --context ${CMACC_CONTEXT:-orbstack} run --rm --pull=never --network none --mount "type=bind,src=$PWD/Doc,dst=/data/Doc,readonly" cmacc-app:test python -m cmacc.sweep --store /data/Doc {{.CLI_ARGS}}
 
   pulse:
     desc: Smoke-test the locally running server (CMACC_BASE_URL, default http://127.0.0.1:8080; start 'task port-forward' first)

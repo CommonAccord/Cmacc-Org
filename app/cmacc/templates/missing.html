@@ -1,0 +1,4 @@
+{#- Missing view body: each unresolved name once, as a line to fill in.
+    As parser-missing.pl prints it: name as written (not escaped). -#}
+{% for name in names %}{{ name | safe }}=<br><br>
+{% endfor %}
