@@ -500,11 +500,11 @@ Annex.DataSets.0.sec=<i>Please provide a description of the {_Data_Sets} used fo
 
 Annex.DataSets.1.Ti=The Public Organisation Data Sets
 
-Annex.DataSets.1.sec=The following {_Data_Sets} are provided by the Public Organisation to the {_Supplier} under the {_Agreement} or to be created or collected as part of the {_Agreement}:<table><tr><th>Description of the Data Set</th><th>Rights of use of the {_Supplier}</th><th>Obligation to destroy the Data Set at the end of the term of the {_Agreement}</th></tr>{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}</table>
+Annex.DataSets.1.sec=The following {_Data_Sets} are provided by the Public Organisation to the {_Supplier} under the {_Agreement} or to be created or collected as part of the {_Agreement}:<table border="1"><tr><th width="35%">Description of the Data Set</th><th width="35%">Rights of use of the {_Supplier}</th><th width="30%">Obligation to destroy the Data Set at the end of the term of the {_Agreement}</th></tr>{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}</table>
 
 Annex.DataSets.2.Ti=Supplier Data Sets and Third-Party Data Sets
 
-Annex.DataSets.2.sec=The following {_Supplier_Data_Sets} and {_Third-Party_Data_Sets} will be or were used for the training (if applicable), validation and testing of the {_AI_System}:<table><tr><th>Description of the Data Set</th><th>Rights of use of the Public Organisation</th><th>Obligation to hand over</th></tr>{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}</table>
+Annex.DataSets.2.sec=The following {_Supplier_Data_Sets} and {_Third-Party_Data_Sets} will be or were used for the training (if applicable), validation and testing of the {_AI_System}:<table border="1" width="100%"><tr><th width="35%">Description of the Data Set</th><th width="35%">Rights of use of the Public Organisation</th><th width="30%">Obligation to hand over</th></tr>{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}{Annex.DataSets.Row.sec}</table>
 
 Annex.DataSets.Row.sec=<tr><td></td><td></td><td>Yes/No</td></tr>
 
