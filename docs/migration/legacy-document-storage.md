@@ -61,4 +61,4 @@ flowchart LR
 - The Python store is already behind fsspec, so the same `Store.write` would overwrite a Cloud Storage object
   - that save would be permanent, not temporary: the user-facing promise above would become false
 - Users sign in through Google IAP, so a save could be attributed to a person
-- Open decision for the new design: drop editing, restrict it to some users, or keep it with object versioning so changes can be undone
+- New design ([user-management.md](../user-management.md)): saves restricted to template editors on a separate edit service, attributed to the editor, with object versioning so changes can be undone

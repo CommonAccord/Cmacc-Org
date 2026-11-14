@@ -36,6 +36,10 @@ flowchart LR
 - Selected by configuration, not code: `CMACC_STORE=gs://<bucket>/Doc` through fsspec's Cloud Storage backend (gcsfs)
 - Local development keeps the same interface with a local path, so tests and parity runs do not need Google Cloud
 - No local disk state: Cloud Run instances are disposable
+- One image, two deployments ([user-management.md](user-management.md)):
+  - read service: saves switched off by a setting (no Save button, save requests rejected)
+  - edit service: saves on; records the signed-in editor from the verified IAP header (`X-Goog-IAP-JWT-Assertion`)
+- Reads cached in memory per instance: a render reads many objects, and each read is a Cloud Storage request
 
 ```mermaid
 flowchart LR
@@ -53,7 +57,7 @@ flowchart LR
 ```
 
 - Still to decide, app side:
-  - editing: removed, restricted, or kept with object versioning (saves become permanent on Cloud Storage)
   - `File/` and images: objects in the same bucket, or baked into the image
-  - listing and lookup cost: object stores have no real folders; listings and existence checks become API calls, so caching may be needed
-  - what the app keeps in the managed database (app state), and how it connects
+  - cache invalidation: how long a cached object may be stale after an edit (edits on one instance, reads on another)
+  - listing: object stores have no real folders; folder listings become prefix queries
+  - what the app keeps in Cloud SQL beyond save records
