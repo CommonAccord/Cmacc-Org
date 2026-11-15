@@ -8,5 +8,5 @@
 |---|---|
 | [view-contract.md](view-contract.md): view the rendered contract from a template | user |
 | [edit-template.md](edit-template.md): change a template, save, see the change | template editor |
-| [user-admin.md](user-admin.md): back up the templates locally; add a new user | user admin |
+| [user-admin.md](user-admin.md): back up the templates locally; add a new user; add a new template | user admin |
 | [cloud-admin.md](cloud-admin.md): build and deploy `master`; change a secret | cloud admin |

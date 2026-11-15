@@ -16,8 +16,9 @@
   - `Doc/` lives in its own templates repository (`<templates-repo>`), not in this app repository
   - loaded once into the bucket from a checkout of the templates repository; after that the bucket is live
   - app deploys never change the objects; editors change them through the app
-  - protected by object versioning and by backups copied out of the project (today by hand, later by another mechanism)
-- App state lives in Cloud SQL, the smallest instance
+  - protected by object versioning, a daily backup job that commits to the templates repository ([todo.md](todo.md) T7), and hand-run backups
+  - supporting files (`File/`) live in the same bucket under `File/`; icons and images are baked into the app image
+- Cloud SQL, the smallest instance, holds save records only (who saved which template, when, which object versions)
 - Secrets, if any, live in Secret Manager in the same project
 - Administration in three layers, each a superset of the next ([user-management.md](user-management.md)):
   - project owner (CEO): Owner role and billing
@@ -33,30 +34,37 @@ flowchart LR
     iap --> edit["Cloud Run<br/>cmacc-edit"]
     read --> bucket[("Cloud Storage<br/>Doc/ tree as objects")]
     edit --> bucket
-    edit --> db[("Cloud SQL<br/>app state")]
+    edit --> db[("Cloud SQL<br/>save records")]
     registry["Artifact Registry<br/>app image"] -.-> read
     registry -.-> edit
   end
 
-  bucket -->|"gcloud storage cp<br/>by admin (Google Cloud user)"| backup[("Backup<br/>outside the project")]
+  bucket -->|"daily backup job"| git[("Templates repository<br/>cloud-backup branch")]
+  bucket -->|"gcloud storage<br/>by an admin"| backup[("Local backup<br/>outside the project")]
 ```
 
 ## Lean defaults
 
-- Region: `us-central1`, `us-east1` or `us-west1`: the Cloud Storage free tier applies only there; everything in the same region
+- Region: `us-central1` for everything (one of the three Cloud Storage free-tier regions; Cloud Run, Cloud SQL and Cloud Scheduler all available there)
 - Cloud Run
   - request-based billing (CPU only during requests), minimum instances 0: scales to zero, cold start on first request
-  - maximum instances small (e.g. 2): caps cost and the damage a runaway request can do
+  - per service: 1 vCPU, 512 MiB (renders peak under 200 MB, [decisions.md](decisions.md) D4), concurrency 10, max 2 instances, request timeout 60 s
+  - max 2 instances caps cost and the damage a runaway request can do
+  - startup probe on a small page that does not read the bucket; no liveness probe
   - own service account per service, never the default Compute Engine account
-- Cloud Storage: Standard class, uniform bucket-level access, public access prevention, object versioning with a lifecycle rule that deletes old versions
+- Cloud Storage: Standard class, uniform bucket-level access, public access prevention, object versioning
+  - lifecycle rule: keep the newest 20 earlier versions of each object; delete earlier versions older than 365 days
 - Artifact Registry: cleanup policy keeping the last few images, to stay under the free storage
 - Cloud SQL
   - smallest shared-core instance (`db-f1-micro`), no high availability, smallest disk, automated backups on
   - connect with the Cloud SQL Python connector and IAM database authentication: no password, no public authorized networks
   - shared-core instances have no SLA; acceptable for app state that can be rebuilt
 - Secret Manager: only if a secret is unavoidable; IAM database authentication removes the database password
-- Billing budget with email alerts at small thresholds (budgets and alerts cost nothing)
-- Infrastructure as code (Terraform or a `gcloud` script) kept in the repository, so the project can be rebuilt
+- Billing budget with email alerts, set by hand by the project owner (not in Terraform, so Terraform needs no billing role); amounts are the owner's
+- Alerts to the cloud admins: backup job failed or no success in 2 days; either service returning 5xx above a few per hour
+- Logs: one JSON line per request from the app (path, view, status, render time; saves add editor and object versions), kept by Cloud Logging's default retention
+- Builds and deploys: built locally with the pinned toolchain and deployed by hand by the cloud admin (`task cloud:deploy`); CI later, with Workload Identity Federation
+- Infrastructure as code in Terraform, kept in the repository, so the project can be rebuilt and drift is visible ([todo.md](todo.md) T1)
 
 ## Expected cost
 
@@ -74,9 +82,10 @@ flowchart LR
 - Figures checked on 2026-11-14 against Google's free tier and pricing pages; recheck before relying on them
 - Free-tier usage over the limit is billed at normal rates; it does not stop the service
 
-## Admin backups
+## Backups
 
-- Data leaves the project: the admin copies the document tree out of the bucket to another system with `gcloud`, e.g.
+- Daily at 03:00 UTC, a Cloud Run job commits the bucket's `Doc/` to the `cloud-backup` branch of the templates repository ([todo.md](todo.md) T7)
+- By hand, an admin copies the tree out of the project ([use-cases/user-admin.md](use-cases/user-admin.md)), e.g.
 
 ```bash
 gcloud storage cp --recursive gs://<bucket>/Doc ./backup/
@@ -90,9 +99,5 @@ gcloud storage cp --recursive gs://<bucket>/Doc ./backup/
 
 ## Open
 
-- Project name, region, billing account, Cloud Identity domain
-- What app state the database holds beyond save records
-- Automated backup to the templates repository ([todo.md](todo.md) T7): schedule, branch
-- Image build (Cloud Build or local) and how deploys are triggered
-- Old object versions: how many and for how long
-- Logging, monitoring, budget thresholds
+- Project name, billing account, Cloud Identity domain
+- Budget amounts and alert thresholds (project owner)

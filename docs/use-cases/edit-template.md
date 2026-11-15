@@ -22,6 +22,7 @@
    - delete the header and suggestion lines if they should not be saved: Save writes the box exactly as it is (legacy behavior)
 4. Press **Save**
    - the page switches to the **Source** view of the saved template; a missing file shows `ERROR: File … does not exists.`
+   - if someone else saved this template since the editor opened it, the save is refused ("changed since you opened it, reload"): reload, redo the change, save again
 5. Check the source table: `PurchaseAmount.$` now reads `$80,000`
 6. Open the **Document** tab: the SAFE now states the purchase amount as $80,000
 7. Optional: open the same link on `<read-url>` to see what users see
@@ -40,14 +41,14 @@ sequenceDiagram
   E->>IAP: POST i.php (v=source, f, submit, newcontent)
   IAP->>IAP: member of template-editors?
   IAP->>S: request + signed identity header
-  S->>S: verify header, take editor's email
-  S->>B: overwrite object (new version, old one kept)
+  S->>S: verify header and Origin, take editor's email
+  S->>B: write if generation unchanged (new version, old one kept)
   S->>D: record editor, template, time
   S-->>E: Source view of the saved template
   E->>S: GET Document view
   S->>B: read (own cache refreshed on save)
   S-->>E: contract with the change
-  Note over R: other instances, read service: change appears<br/>when their cached copy expires
+  Note over R: other instances, read service: change appears<br/>within 60 seconds (cache expiry)
 ```
 
 - The text is normalized before writing: Windows line endings become `\n`, leading and trailing whitespace trimmed
@@ -55,8 +56,9 @@ sequenceDiagram
 
 ## Things to know
 
-- **Visible at once** on the edit service; on the read service after the cache expires (expiry time: open item in [app-architecture.md](../app-architecture.md))
+- **Visible at once** on the edit service; everywhere within a minute (read caches expire after 60 seconds, [app-architecture.md](../app-architecture.md))
 - **The bucket is the record**: the change is kept there, with earlier versions and off-project backups; app deploys never change it ([cloud-admin.md](cloud-admin.md))
-- **The templates repository does not see the save**: it seeded the bucket once; whether backups flow back into it is open ([todo.md](../todo.md) T7)
-- **Last save wins**: two editors saving the same template at once, the later one overwrites the earlier
+- **Git sees the save the next morning**: the daily backup job commits it to the templates repository's `cloud-backup` branch ([todo.md](../todo.md) T7)
+- **No silent overwrites**: if two editors change the same template, the second save is refused and that editor reloads; nothing is lost
+- **Existing templates only**: a new template is uploaded by a user admin ([user-admin.md](user-admin.md))
 - **Every template that includes this one changes too**: check the documents that build on it, not only the one edited

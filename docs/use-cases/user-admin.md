@@ -156,3 +156,27 @@ sequenceDiagram
 
 - Same place: **Members** → select the person → **Remove from group**
 - Access ends at the person's next request once the change has spread (a few minutes); there is no app session to end
+
+## 3. Add a new template
+
+- **Goal**: a template that does not exist yet becomes available, so editors can work on it
+- Editors cannot create templates through the app (existing templates only); a user admin uploads the first version
+- **Tools**: Google Cloud CLI, as in way B of the backup
+
+### Steps
+
+1. Write the template locally, e.g. `G/Acme/NDA/v1.md`, starting from a copy of a similar template
+2. Check the path is not taken (no output = free):
+
+   ```bash
+   gcloud storage ls gs://<bucket>/Doc/G/Acme/NDA/v1.md
+   ```
+
+3. Upload it, refusing to overwrite if it appeared in the meantime:
+
+   ```bash
+   gcloud storage cp --no-clobber G/Acme/NDA/v1.md gs://<bucket>/Doc/G/Acme/NDA/v1.md
+   ```
+
+4. Open it on the read service within a minute (cache expiry): `<read-url>/i.php?v=d&k=r00t&f=G/Acme/NDA/v1.md`
+5. Tell the editors; from now on they change it through the app; the next backup run commits it to git

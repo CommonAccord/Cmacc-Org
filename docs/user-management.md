@@ -85,9 +85,10 @@ flowchart BT
 - `Doc/` objects
   - list, read, copy out: backups with `gcloud storage cp` to a system outside the project
   - overwrite, delete, restore earlier versions: restore from a backup or from object versioning
+  - add new templates: upload with `gcloud storage cp` (editors cannot create templates through the app)
   - limited to the one bucket
 - Templates repository (on the git host, outside Google Cloud): read access, to clone the `cloud-backup` branch as a local backup; granted by the cloud admin; only the backup job writes to that branch ([todo.md](todo.md) T7)
-- Audit: read logs, including which user saved which template and every admin action
+- Audit: read logs, including which user saved which template (each save is logged) and every admin action; no access to the database itself
 - Cannot: deploy or change the app, change IAM or IAP, read secrets, reach the database, make admins
 
 ### Template editor (`template-editors`)
@@ -95,7 +96,8 @@ flowchart BT
 - Everything a normal user can do, on the read service
 - On the edit service: save template changes (Open-edit view, Source and JSON saves)
   - the edit service writes the object as its own service account, and records the editor's verified Google identity with the save
-  - same rule as today: existing templates only, no new files
+  - existing templates only: no creating or deleting through the app (as in legacy); a new template is uploaded by a user admin
+  - a save is refused if someone else saved the template since the editor opened it (reload and redo)
 - Cannot: touch the bucket, database or any Google Cloud resource directly; manage users
 
 ### User (`cmacc-users`)
@@ -281,6 +283,3 @@ gcloud storage ls --all-versions gs://<bucket>/Doc/G/x.md
 
 - Domain for the Cloud Identity Free organization, and whether users are inside it (decides whether a custom OAuth client is needed)
 - A second billing administrator, so billing is not locked if the CEO's account is lost
-- Whether deploys stay manual (cloud admin runs `gcloud` or Terraform) or move to automation with its own deployer service account
-- Whether user admins also read save records in the database (today: through logs only)
-- Retention: how many old object versions to keep, and for how long
