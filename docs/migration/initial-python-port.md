@@ -3,7 +3,8 @@
 - Goal: a Python renderer with parity: every template renders the same document text as the legacy PHP/Perl renderer, and never errors or loops
 - Principle: libraries wherever possible; custom code only where no library fits
 - Only open-source libraries that are currently active and widely adopted
-- Status: implemented; see the app README for how it runs
+- Status: implemented; see the [app README](../../app/README.md) for how it runs
+- Written for local hosting; the move to Google Cloud is described in [app-architecture.md](../app-architecture.md) and [infra-architecture.md](../infra-architecture.md)
 
 ## The problem
 
@@ -166,7 +167,7 @@ flowchart TB
   - deviations are where legacy fails (decisions D2); a render that hits a budget shows "Nothing to Show" (D3)
   - Trace is a diagnostic view, outside parity (D1)
 - Per-view legacy parsers differ, and the engine follows each by mode: Print drops a trailing `!!` before the lookup; only Document and Visual treat `</test>` as "remove the placeholder"; Xray and Trace wrap values in their own spans
-- Decisions behind this: [decisions.md](decisions.md)
+- Decisions behind this: [decisions.md](../decisions.md)
 - And the renderer never
   - raises an exception or times out
   - loops forever on cyclic includes or placeholders
