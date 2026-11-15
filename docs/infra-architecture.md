@@ -3,6 +3,7 @@
 - **Stub**: what is decided so far for hosting on Google Cloud; open items listed at the end
 - The app side (data store interface): [app-architecture.md](app-architecture.md)
 - Groups, roles and powers of admins, template editors and users: [user-management.md](user-management.md)
+- Secrets: [secrets.md](secrets.md); tooling still to build: [todo.md](todo.md)
 - Local development on OrbStack stays as described in [infra/README.md](../infra/README.md)
 
 ## Decided
@@ -11,7 +12,11 @@
 - Users sign in with Google accounts through Identity-Aware Proxy (IAP), enabled directly on Cloud Run (no load balancer); nothing reaches the app without it
 - The app runs on Cloud Run, sized to stay within the free tier
   - two services from one image: `cmacc-read` (everyone) and `cmacc-edit` (template editors); see [user-management.md](user-management.md)
-- The `Doc/` tree is stored as Cloud Storage objects
+- The `Doc/` tree is stored as Cloud Storage objects, and the bucket is its source of truth
+  - `Doc/` lives in its own templates repository (`<templates-repo>`), not in this app repository
+  - loaded once into the bucket from a checkout of the templates repository; after that the bucket is live
+  - app deploys never change the objects; editors change them through the app
+  - protected by object versioning and by backups copied out of the project (today by hand, later by another mechanism)
 - App state lives in Cloud SQL, the smallest instance
 - Secrets, if any, live in Secret Manager in the same project
 - Administration in three layers, each a superset of the next ([user-management.md](user-management.md)):
@@ -87,7 +92,7 @@ gcloud storage cp --recursive gs://<bucket>/Doc ./backup/
 
 - Project name, region, billing account, Cloud Identity domain
 - What app state the database holds beyond save records
-- How the corpus gets into the bucket from the git repository, and how updates flow
+- Automated backup to the templates repository ([todo.md](todo.md) T7): schedule, branch
 - Image build (Cloud Build or local) and how deploys are triggered
 - Old object versions: how many and for how long
 - Logging, monitoring, budget thresholds

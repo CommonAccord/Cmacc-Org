@@ -58,6 +58,7 @@ flowchart LR
 ## Why this changes
 
 - Cloud Run has no durable local disk; the document tree becomes Cloud Storage objects
+- The bucket replaces git as the source of truth: `Doc/` moves to its own templates repository, which seeds the bucket once; app deploys never change the bucket
 - The Python store is already behind fsspec, so the same `Store.write` would overwrite a Cloud Storage object
   - that save would be permanent, not temporary: the user-facing promise above would become false
 - Users sign in through Google IAP, so a save could be attributed to a person

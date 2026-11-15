@@ -86,6 +86,7 @@ flowchart BT
   - list, read, copy out: backups with `gcloud storage cp` to a system outside the project
   - overwrite, delete, restore earlier versions: restore from a backup or from object versioning
   - limited to the one bucket
+- Templates repository (on the git host, outside Google Cloud): read access, to clone the `cloud-backup` branch as a local backup; granted by the cloud admin; only the backup job writes to that branch ([todo.md](todo.md) T7)
 - Audit: read logs, including which user saved which template and every admin action
 - Cannot: deploy or change the app, change IAM or IAP, read secrets, reach the database, make admins
 
